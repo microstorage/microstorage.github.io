@@ -1,0 +1,7 @@
+Gr = [
+"La top 10 dei migliori mouse di agosto 2016|I 10 mouse più interessanti per l'acquisto ora in commercio: agosto 2016|2016/08/la-top-10-dei-migliori-mouse-di-agosto-2016|AZ_41q2Aki8C8L",
+"I 15 ventilatori da tavolo più acquistati: luglio 2016|I 15 ventilatori da tavolo che vanno per la maggiore: la classifica aggiornata a luglio 2016|2016/07/i-15-ventilatori-da-tavolo-piu-acquistati-luglio-2016|AZ_51yc+UHPAPL",
+"I 15 ventilatori più venduti: luglio 2016|La top 15 dei migliori ventilatori disponibili per l'acquisto: luglio 2016|2016/07/i-15-ventilatori-piu-venduti-luglio-2016.html?t=casa,ventilatori,ventilatori-torre,ventilatori-soffitto,ufficio,cucina,letto,bagno,climatizzazione,aria,vento,fresco,elettrodomestici,csl,honeywell,rowenta,tristar&amp;d=9|AZ_51d97WS5TnL",
+"I 14 migliori computer desktop: giugno 2016|I 14 computer desktop al top a giugno 2016|2016/06/i-14-migliori-computer-desktop-giugno-2016.html?t=hardware,computer,computer-desktop,desktop,elettronica,informatica,personal-computer,gaming,windows,hp,hewlett-packard,lenovo,csl,asus,emtec&amp;d=6|AZ_51SKwcjM8RL",
+"Il meglio dei mouse: la guida all'acquisto di aprile 2016|Ecco i migliori mouse nella nostra guida all'acquisto|2016/04/il-meglio-dei-mouse-la-guida-all-acquisto-di-aprile-2016.html?t=mouse,hardware,computer,elettronica,informatica,personal-computer,gaming,wireless,hp,tecknet,logitech,csl,tongshi&amp;d=2|AZ_31s0LYrtNiL",
+];

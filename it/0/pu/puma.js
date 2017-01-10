@@ -1,0 +1,9 @@
+Gr = [
+"Le 10 felpe sportive da donna migliori: ottobre 2016|Le 10 felpe sportive da donna che più piacciono: la classifica aggiornata|2016/10/le-10-felpe-sportive-da-donna-migliori-ottobre-2016|AZ_41-4Cqj8suL",
+"Le 10 migliori sneaker da uomo: ottobre 2016|Le 10 sneaker da uomo che piacciono di più, disponibili subito|2016/10/le-10-migliori-sneaker-da-uomo-ottobre-2016|AZ_41GEDKKdnPL",
+"Le 10 felpe con cappuccio da donna più belle: ottobre 2016|Le 10 felpe con cappuccio da donna migliori: la guida all'acquisto|2016/10/le-10-felpe-con-cappuccio-da-donna-piu-belle-ottobre-2016|AZ_41bWM7rgtQL",
+"I 10 completi sportivi uomo più alla moda: agosto 2016|La top 10 dei migliori completi sportivi uomo disponibili ora per l'acquisto|2016/08/i-10-completi-sportivi-uomo-piu-alla-moda-agosto-2016|AZ_41skKTmdxrL",
+"Le 8 maglie dell'Italia più belle: giugno 2016|Le 8 migliori maglie dell'Italia a giugno 2016|2016/06/le-8-maglie-dell-italia-piu-belle-giugno-2016.html?t=moda,maglie-italia,calcio,sport,ciclismo,fitness,stile,abbigliamento,maglie,magliette,italia,tifosi,uomo,bambini,ragazzi,puma&amp;d=18|AZ_412NYCL2x2L",
+"Scarpe da corsa uomo: le 12 migliori a giugno 2016|Le 12 scarpe da corsa per uomo al top: la guida all'acquisto|2016/06/scarpe-da-corsa-uomo-le-12-migliori-a-giugno-2016.html?t=tempo-libero,scarpe-corsa-uomo,scarpe-ginnastica,scarpe,sneakers,ginnastica,sport,allenamento,training,palestra,fitness,corsa,correre,dimagrire,bicicletta,ciclismo,adidas,puma,nike,diadora,brooks,salomon,reebok&amp;d=14|AZ_51ZW5xoPh-L",
+"Scarpe da ginnastica: i 14 modelli migliori a maggio 2016|Le 14 scarpe da ginnastica più tecnologiche e sfiziose|2016/05/scarpe-da-ginnastica-i-14-modelli-migliori-a-maggio-2016.html?t=tempo-libero,scarpe-ginnastica,scarpe,ginnastica,sport,allenamento,training,palestra,fitness,corsa,correre,nike,kappa,adidas,puma,superga&amp;d=27|AZ_41LMYOBEwvL",
+];

@@ -1,0 +1,8 @@
+Gr = [
+"Plastica da mangiare, riconoscere la pubblicità e i TIR come i filobus?|Un nuovo sistema per rendere i TIR meno inquinanti e pericolosi|2016/08/plastica-da-mangiare-riconoscere-la-pubblicita-e-i-tir-come-i-filobus|ocean-sunrise",
+"Video - Questa ragazza fa wakeboard con i delfini!|Un intero branco di delfini gioca con una surfista nel Golfo della California|2016/02/video-questa-ragazza-fa-wakeboard-con-i-delfini.html?t=animali,ambiente,ecologia,delfino,barca,wakeboard,sci-nautico,california,mare,oceano&amp;d=12|YT_SIF3PyPdQkM",
+"Video - Il mosaico di acqua piovana più grande del mondo|Per aumentare la consapevolezza sulla crisi idrica mondiale|2016/01/video-il-mosaico-di-acqua-piovana-piu-grande-del-mondo.html?t=acqua,sete,ambiente,ecologia,salute,alimentazione,mosaico,feto,utero&amp;d=9|YT_WkfA7dpoUMM",
+"Video - I video più belli ripresi dai droni lo scorso anno|Sequenze aeree incredibili, montate in un video bellissimo|2016/01/video-i-video-piu-belli-ripresi-dai-droni-lo-scorso-anno.html?t=drone,uav,aviazione,aeromobile,velivolo,aereo,volo,ambiente,ecologia,terra&amp;d=5|YT_AoPiLg8DZ3A",
+"Video - Le balene danzano sotto l'aurora boreale|Immagini che levano il fiato di un mondo magico, quasi alieno|2015/10/video-le-balene-danzano-sotto-l-aurora-boreale.html?t=mare,oceano,ambiente,ecologia,animali,natura,balena,norvegia,aurora-boreale,cielo&amp;d=14|aurora-whale",
+"Video - Due enormi balene nuotano con surfista|Al largo della costa di Esperance, in Australia. Un incredibile filmato ripreso da un drone|2015/10/video-due-enormi-balene-nuotano-con-surfista.html?t=mare,oceano,biologia-marina,ambiente,ecologia,animali,natura,balena,esperance,australia,drone&amp;d=10|YT_g6U3VCneKfs",
+];

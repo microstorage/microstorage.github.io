@@ -1,0 +1,7 @@
+Gr = [
+"I 10 Spremiagrumi Elettrici top a novembre 2016|La top 10 dei migliori Spremiagrumi Elettrici in commercio|2016/11/i-10-spremiagrumi-elettrici-top-a-novembre-2016|AZ_414PGYb17eL",
+"I 10 macinacaffè elettrici migliori: settembre 2016|I 10 macinacaffè elettrici più acquistati: la classifica aggiornata|2016/09/i-10-macinacaffe-elettrici-migliori-settembre-2016|AZ_315VvbWZ3yL",
+"I 14 asciugacapelli che piacciono di più: luglio 2016|I 14 asciugacapelli più apprezzati subito disponibili: luglio 2016|2016/07/i-14-asciugacapelli-che-piacciono-di-piu-luglio-2016.html?t=donna,asciugacapelli,capelli,piastre-per-capelli,cura-della-persona,moda,acconciatura,arricciacapelli,trucco,make-up,bellezza,remington,philips,rowenta,imetec,krups&amp;d=7|AZ_41rit6KqkVL",
+"Le 13 macchine da caffè a capsule migliori: maggio 2016|Le 13 macchine da caffè a capsule più acquistate in assoluto!|2016/05/le-13-macchine-da-caffe-a-capsule-migliori-maggio-2016.html?t=elettrodomestici,macchine-da-caffe,macchine-caffe-capsule,macinacaffe,caffe,espresso,casa,cucina,bar,colazione,alimentazione,cibo,ufficio,de-longhi,lavazza,krups,nescafe,illy&amp;d=15|AZ_41zmPniin9L",
+"Il meglio dei macinacaffè: aprile 2016|Tutti i macinacaffè più interessanti per l'acquisto|2016/04/il-meglio-dei-macinacaffe-aprile-2016.html?t=elettrodomestici,macinacaffe,caffe,macchine-da-caffe,casa,alimentazione,cibo,cucina,bar,ufficio,colazione,bosch,imetec,de-longhi,krups,moulinex,russell,macinino&amp;d=22|AZ_315VvbWZ3yL",
+];

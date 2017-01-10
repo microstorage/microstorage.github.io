@@ -1,0 +1,8 @@
+Gr = [
+"La top 10 dei migliori Scanner: dicembre 2016|La top 10 dei migliori Scanner in commercio a dicembre 2016|2016/12/la-top-10-dei-migliori-scanner-dicembre-2016|AZ_41iew1nIdEL",
+"La top 10 delle migliori stampanti laser: agosto 2016|Le 10 stampanti laser che incontrano il maggiore gradimento|2016/08/la-top-10-delle-migliori-stampanti-laser-agosto-2016|AZ_41+XZCJiY8L",
+"I 10 scanner portatili più apprezzati: agosto 2016|La top 10 dei migliori scanner portatili sul mercato ad agosto 2016|2016/08/i-10-scanner-portatili-piu-apprezzati-agosto-2016|AZ_41Y89A0IqvL",
+"Le 12+1 macchine da cucire migliori: giugno 2016|Il meglio delle macchine da cucire disponibili per l'acquisto a giugno 2016|2016/06/le-12+1-macchine-da-cucire-migliori-giugno-2016.html?t=donna,macchine-da-cucire,casa,fai-da-te,moda,stile,abito,abbigliamento,vestito,giacca,cucito,sartoria,singer,necchi,techwood,brother&amp;d=4|AZ_41HC4l0x8XL",
+"I migliori scanner in commercio: aprile 2016|Gli scanner più interessanti per l'acquisto disponibili proprio ora!|2016/04/i-migliori-scanner-in-commercio-aprile-2016.html?t=hardware,scanner,informatica,personal-computer,wireless,elettronica,stampanti,documenti,fotografia,canon,hp,hewlett-packard,taotronics,epson,samsung,brother&amp;d=24|AZ_31YTlwFlE6L",
+"Aprile 2016: il meglio delle macchine da cucire sul mercato|Le migliori macchine da cucire: guida all'acquisto|2016/04/aprile-2016-il-meglio-delle-macchine-da-cucire-sul-mercato.html?t=donna,macchine-da-cucire,casa,fai-da-te,moda,stile,abito,abbigliamento,vestito,giacca,cucito,sartoria,singer,necchi,brother,techwood&amp;d=1|AZ_31PnpuL7N4L",
+];

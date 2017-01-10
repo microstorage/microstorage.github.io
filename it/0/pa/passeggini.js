@@ -1,0 +1,12 @@
+Gr = [
+"I 10 migliori biberon: ottobre 2016|I 10 biberon consigliati, oggi sul mercato: ottobre 2016|2016/10/i-10-migliori-biberon-ottobre-2016|AZ_412F41r9a6L",
+"Le 10 carrozzine per bambino migliori: ottobre 2016|La top 10 delle migliori carrozzine per bambino, subito disponibili|2016/10/le-10-carrozzine-per-bambino-migliori-ottobre-2016|AZ_410qYFf+MuL",
+"Seggiolini per Auto, Scaldabiberon: i 5 migliori di settembre 2016|I 5 migliori prodotti in Seggiolini per Auto, Scaldabiberon|2016/09/seggiolini-per-auto-scaldabiberon-i-5-migliori-di-settembre-2016|AZ_41UCKm0qZWL",
+"Seggiolini Per Auto, Elicotteri Telecomandati: i 5 migliori di agosto 2016|I 5 migliori prodotti in Seggiolini Per Auto, Elicotteri Telecomandati|2016/08/seggiolini-per-auto-elicotteri-telecomandati-i-5-migliori-di-agosto-2016|AZ_416-y8CjGrL",
+"I 10 baby monitor più quotati: agosto 2016|I 10 baby monitor che piacciono di più subito disponibili: agosto 2016|2016/08/i-10-baby-monitor-piu-quotati-agosto-2016|AZ_519b3btxVJL",
+"I 14 seggiolini per auto migliori: luglio 2016|La top 14 dei migliori seggiolini per auto disponibili da subito: luglio 2016|2016/07/i-14-seggiolini-per-auto-migliori-luglio-2016|AZ_41Ob4FjGrLL",
+"I 7 passeggini migliori: luglio 2016|Luglio 2016: ecco i 7 passeggini che piacciono di più|2016/07/i-7-passeggini-migliori-luglio-2016.html?t=bambini,passeggini,neonati,seggiolini-auto,carrozzine,biberon,scaldabiberon,allattamento,culla,baby-monitor,cuocipappa,letto-bambino,chicco,peg-perego,hauck&amp;d=8|AZ_51+uJ+fMeCL",
+"Maggio 2016: i 15 biberon migliori|Il meglio dei biberon sul mercato|2016/05/maggio-2016-i-15-biberon-migliori.html?t=bambini,biberon,scaldabiberon,allattamento,culla,carrozzine,baby-monitor,seggiolini-auto,cuocipappa,neonati,passeggini,latte,letto-bambino,philips,chicco&amp;d=5|AZ_41uqEjuFJPL",
+"Aprile 2016: i migliori scaldabiberon disponibili per l'acquisto|Il meglio degli scaldabiberon oggi sul mercato|2016/04/aprile-2016-i-migliori-scaldabiberon-disponibili-per-l-acquisto.html?t=bambini,scaldabiberon,allattamento,culla,carrozzine,baby-monitor,seggiolini-auto,cuocipappa,neonati,passeggini,latte,chicco,philips&amp;d=27|AZ_31or-qGthKL",
+"La classifica aggiornata ad aprile 2016 dei migliori passeggini|I passeggini più venduti: guida all'acquisto|2016/04/la-classifica-aggiornata-ad-aprile-2016-dei-migliori-passeggini.html?t=bambini,passeggini,sicurezza,neonati,allattamento,culla,carrozzine,chicco,peg-perego,hauck&amp;d=6|AZ_51+uJ+fMeCL",
+];

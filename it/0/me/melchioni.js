@@ -1,0 +1,8 @@
+Gr = [
+"Caminetti elettrici: i 10 migliori a ottobre 2016|I 10 caminetti elettrici migliori: la classifica di ottobre 2016|2016/10/caminetti-elettrici-i-10-migliori-a-ottobre-2016|AZ_31B47UsU3-L",
+"Le 10 stufe elettriche più vendute: ottobre 2016|La top 10 delle migliori stufe elettriche disponibili ora per l'acquisto|2016/10/le-10-stufe-elettriche-piu-vendute-ottobre-2016|AZ_31kTbzbnPFL",
+"I 10 fornetti per pizza più comprati: settembre 2016|La top 10 dei migliori fornetti per pizza in commercio a settembre 2016|2016/09/i-10-fornetti-per-pizza-piu-comprati-settembre-2016|AZ_51KsTCM4dEL",
+"Aspirapolvere a bidone: i 13 migliori a giugno 2016|I 13 aspirapolvere a bidone più venduti: giugno 2016|2016/06/aspirapolvere-a-bidone-i-13-migliori-a-giugno-2016.html?t=casa,aspirapolvere,aspiratori,aspirapolvere-a-bidone,elettrodomestici,scope-elettriche,pulizia,igiene,pavimento,cucina,bagno,robot-aspirapolvere,scopa,einhell,dpe,klarstein,melchioni&amp;d=21|AZ_419FJYc+R6L",
+"I fornetti per pizza migliori: maggio 2016|Gli 11+1 fornetti per pizza che vanno per la maggiore!|2016/05/i-fornetti-per-pizza-migliori-maggio-2016.html?t=cucina,fornetti-pizza,pizza,casa,bar,elettrodomestici,forni,cibo,alimentazione,napoli,princess,melchioni,whirlpool,kemper,klarstein&amp;d=17|AZ_51J5MOcmr-L",
+"I 10 migliori essiccatori disponibili all'aprile 2016|Tutto il meglio degli essiccatori|2016/04/i-10-migliori-essiccatori-disponibili-all-aprile-2016.html?t=cucina,essiccatori,cibo,casa,alimentazione,gastronomia,cottura,dieta,elettrodomestici,grassi,benessere,vitamine,calorie,frutta,verdura,spezie,carne,pesce,melchioni,severin,beper,clatronic,princess,klarstein&amp;d=19|AZ_415chNCq9ZL",
+];

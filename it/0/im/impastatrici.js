@@ -1,0 +1,6 @@
+Gr = [
+"Impastatrici, Completi Sportivi Uomo: i 5 migliori di settembre 2016|I 5 migliori prodotti in Impastatrici, Completi Sportivi Uomo|2016/09/impastatrici-completi-sportivi-uomo-i-5-migliori-di-settembre-2016|AZ_51O844EJ2ZL",
+"Le 10 impastatrici più vendute: agosto 2016|Le 10 impastatrici più vendute disponibili da subito: agosto 2016|2016/08/le-10-impastatrici-piu-vendute-agosto-2016|AZ_41no-3PQJML",
+"I 16 robot da cucina più amati: luglio 2016|I 16 robot da cucina più quotati disponibili da subito: luglio 2016|2016/07/i-16-robot-da-cucina-piu-amati-luglio-2016.html?t=robot-da-cucina,cucina,tritatutto,elettrodomestici,cibo,alimentazione,casa,impastatrici,pasta,frullatori,mixer,spremiagrumi,spremiagrumi-elettrici,frutta,verdura,tritacarne,philips,kenwood,black-and-decker,bosch,imetec,moulinex,russell-hobbs,bomann&amp;d=14|AZ_4144t1M2n9L",
+"Le 16 migliori impastatrici: guida all'acquisto di maggio 2016|Il meglio delle impastatrici in commercio al maggio 2016|2016/05/le-16-migliori-impastatrici-guida-all-acquisto-di-maggio-2016.html?t=elettrodomestici,impastatrici,pasta,robot-da-cucina,cucina,casa,cibo,alimentazione,bar,ariete,klarstein,bomann,kenwood,olimpic,bosch,moulinex&amp;d=9|AZ_4146M3oupvL",
+];

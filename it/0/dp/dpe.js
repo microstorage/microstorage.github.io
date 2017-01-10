@@ -1,0 +1,8 @@
+Gr = [
+"I 10 forni a microonde con grill migliori: ottobre 2016|I 10 forni a microonde con grill più utilizzati: la guida all'acquisto|2016/10/i-10-forni-a-microonde-con-grill-migliori-ottobre-2016|AZ_41TBAlGK7qL",
+"I 10 forni combinati più venduti: ottobre 2016|I 10 forni combinati che vanno per la maggiore, disponibili da subito|2016/10/i-10-forni-combinati-piu-venduti-ottobre-2016|AZ_31TfGDPVl2L",
+"Asciugatrici: le 10 migliori a agosto 2016|La top 10 delle migliori asciugatrici subito disponibili: agosto 2016|2016/08/asciugatrici-le-10-migliori-a-agosto-2016|AZ_51nTuJEk8+L",
+"Aspirapolvere a bidone: i 13 migliori a giugno 2016|I 13 aspirapolvere a bidone più venduti: giugno 2016|2016/06/aspirapolvere-a-bidone-i-13-migliori-a-giugno-2016.html?t=casa,aspirapolvere,aspiratori,aspirapolvere-a-bidone,elettrodomestici,scope-elettriche,pulizia,igiene,pavimento,cucina,bagno,robot-aspirapolvere,scopa,einhell,dpe,klarstein,melchioni&amp;d=21|AZ_419FJYc+R6L",
+"Il top delle affettatrici: la guida all'acquisto di maggio 2016|Le 15 affettatrici più interessanti per l'acquisto|2016/05/il-top-delle-affettatrici-la-guida-all-acquisto-di-maggio-2016.html?t=cucina,affettatrici,casa,bar,elettrodomestici,cibo,alimentazione,macelleria,gastronomia,rgv,bosch,ritter,domoclip,dpe&amp;d=17|AZ_51urpkH0E3L",
+"La classifica delle affettatrici migliori al 20 marzo|Aggiornata alla data del 20 marzo, ecco la classifica delle affettatrici migliori|2016/03/la-classifica-delle-affettatrici-migliori-al-20-marzo.html?t=cucina,affettatrici,casa,elettrodomestici,cibo,alimentazione,macelleria,gastronomia,rgv,bosch,dpe,siemens,olimpic,domoclip&amp;d=20|AZ_51urpkH0E3L",
+];

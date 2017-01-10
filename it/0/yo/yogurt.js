@@ -1,0 +1,6 @@
+Gr = [
+"Il meglio delle gelatiere in commercio: maggio 2016|Le 13 gelatiere al top oggi sul mercato: maggio 2016|2016/05/il-meglio-delle-gelatiere-in-commercio-maggio-2016.html?t=cibo,gelato,gelatiere,sorbetto,yogurt,fresco,ghiaccio,panna,elettrodomestici,risparmio,gastronomia,alimentazione,cucina,de-longhi,koenig,duronic,gaggia,ariete,princess,kenwood&amp;d=30|AZ_31v6RMtROAL",
+"Le 7 yogurtiere al top a maggio 2016|Le yogurtiere più apprezzate disponibili sul mercato al 22 maggio|2016/05/le-7-yogurtiere-al-top-a-maggio-2016.html?t=cucina,yogurtiere,yogurt,salute,casa,elettrodomestici,cibo,alimentazione,vitamine,risparmio,fai-da-te,ariete,moulinex,severin&amp;d=22|AZ_41LOXYFrbcL",
+"21 marzo: la classifica delle yogurtiere migliori|Aggiornate alla data del 21 marzo, ecco le yogurtiere migliori|2016/03/21-marzo-la-classifica-delle-yogurtiere-migliori.html?t=cucina,yogurtiere,yogurt,salute,casa,elettrodomestici,cibo,alimentazione,vitamine,risparmio,fai-da-te,ariete,termozeta,moulinex,severin,lagrange&amp;d=21|AZ_41Bk+Kjf7zL",
+"Il cane è come lo yogurt|Non è una metafora: l'effetto dei nostri amici a quattro zampe potrebbe essere letteralmente lo stesso dello yogurt|2015/04/il-cane-e-come-lo-yogurt.html?t=cane,yogurt,salute,scienza,arizona,microbo,intestino&amp;d=20|dog-kiss",
+];

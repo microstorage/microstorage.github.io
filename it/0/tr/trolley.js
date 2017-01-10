@@ -1,0 +1,15 @@
+Gr = [
+"I 10 Set di Valigie più pratici: novembre 2016|I 10 Set di Valigie più premiati dal mercato, subito disponibili|2016/11/i-10-set-di-valigie-piu-pratici-novembre-2016|AZ_413Juq7x1sL",
+"Valigie, Ventiquattrore: i 5 migliori di ottobre 2016|I 5 migliori prodotti di ottobre 2016 in Valigie, Ventiquattrore|2016/10/valigie-ventiquattrore-i-5-migliori-di-ottobre-2016|AZ_41+xXFpic4L",
+"Valigie e Trolley, Borse a Tracolla da Donna: i 5 migliori di settembre 2016|I 5 migliori prodotti in Valigie e Trolley, Borse a Tracolla da Donna|2016/09/valigie-e-trolley-borse-a-tracolla-da-donna-i-5-migliori-di-settembre-2016|AZ_51Nrc450+kL",
+"I 10 migliori zaini per la scuola: settembre 2016|I 10 zaini per la scuola più alla moda: la classifica aggiornata|2016/09/i-10-migliori-zaini-per-la-scuola-settembre-2016|AZ_5177Lj2lMFL",
+"Elettrostimolatori, Valigie Rigide: i 5 migliori di settembre 2016|I 5 migliori prodotti di settembre 2016 in Elettrostimolatori, Valigie Rigide|2016/09/elettrostimolatori-valigie-rigide-i-5-migliori-di-settembre-2016|AZ_51CL006+FJL",
+"I 10 zaini per la scuola più trendy: agosto 2016|I 10 zaini per la scuola che incontrano il maggiore gradimento|2016/08/i-10-zaini-per-la-scuola-piu-trendy-agosto-2016|AZ_5177Lj2lMFL",
+"Le 15 valigie rigide migliori: agosto 2016|La top 15 delle migliori valigie rigide vendute ad agosto 2016|2016/08/le-15-valigie-rigide-migliori-agosto-2016|AZ_41IZtaNxt2L",
+"I 15 ferri da stiro da viaggio migliori: agosto 2016|La top 15 dei migliori ferri da stiro da viaggio disponibili da subito|2016/08/i-15-ferri-da-stiro-da-viaggio-migliori-agosto-2016|AZ_419N7M0tsEL",
+"Le 14 valigie migliori: luglio 2016|Le 14 valigie più consigliate: la classifica aggiornata a luglio 2016|2016/07/le-14-valigie-migliori-luglio-2016|AZ_41XEQ-F-svL",
+"I 13 carrelli portaspesa più comprati: giugno 2016|La top 13 dei migliori carrelli portaspesa subito disponibili: giugno 2016|2016/06/i-13-carrelli-portaspesa-piu-comprati-giugno-2016.html?t=casa,carrelli-portaspesa,spesa,shopping,trolley,foppapedretti&amp;d=16|AZ_41rMJC8q93L",
+"I 12 migliori trolley in commercio: maggio 2016|Ma dove vai? Il meglio dei trolley in commercio è qui!|2016/05/i-12-migliori-trolley-in-commercio-maggio-2016.html?t=viaggi,trolley,vacanze,valigie,moda,bagagli,low-cost,autobus,aereo,ryanair,travelite&amp;d=19|AZ_41Sn43pBf4L",
+"Aprile 2016: il meglio dei navigatori satellitari|La classifica degli 11 navigatori satellitari più interessanti per l'acquisto|2016/04/aprile-2016-il-meglio-dei-navigatori-satellitari.html?t=automobile,navigatore-satellitare,gps,traffico,motocicletta,moto,scooter,motori,auto,autovettura,viaggi,vacanze,valigie,trolley,tomtom,garmin&amp;d=8|AZ_51E8aKlojML",
+"La classifica delle valigie e trolley migliori al 20 marzo|Ecco le 13 valigie e trolley migliori alla data del 20 marzo|2016/03/la-classifica-delle-valigie-e-trolley-migliori-al-20-marzo.html?t=viaggi,vacanze,valigie,trolley,low-cost,autobus,aereo,trunki,clacson,songmics,travelite,moda,trucco,make-up,donna&amp;d=20|AZ_41EW1EheVNL",
+];

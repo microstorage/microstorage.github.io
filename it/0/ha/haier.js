@@ -1,0 +1,7 @@
+Gr = [
+"La top 10 dei migliori congelatori: agosto 2016|I 10 congelatori migliori: la classifica aggiornata a agosto 2016|2016/08/la-top-10-dei-migliori-congelatori-agosto-2016|AZ_31QbYwzzoSL",
+"I 14 frigoriferi doppia porta più venduti: agosto 2016|La top 14 dei migliori frigoriferi doppia porta subito disponibili|2016/08/i-14-frigoriferi-doppia-porta-piu-venduti-agosto-2016|AZ_41EhilJrcFL",
+"I 15 robot aspirapolvere migliori: luglio 2016|La top 15 dei migliori robot aspirapolvere disponibili da subito: luglio 2016|2016/07/i-15-robot-aspirapolvere-migliori-luglio-2016.html?t=robot-aspirapolvere,aspirapolvere,casa,aspiratori,aspirapolvere-a-bidone,elettrodomestici,scope-elettriche,pulizia,igiene,pavimento,cucina,bagno,scopa,scope-vapore,lavapavimenti,vileda,haier,ariete,lg,samsung&amp;d=20|AZ_412ykReDMFL",
+"I 12 congelatori più venduti: la classifica di maggio 2016|Il top dei congelatori: la guida all'acquisto di maggio 2016|2016/05/i-12-congelatori-piu-venduti-la-classifica-di-maggio-2016.html?t=elettrodomestici,congelatori,frigoriferi,casa,bar,cibo,cucina,alimentazione,alimenti,freddo,ghiaccio,beko,haier,bomann,sirge,whirlpool&amp;d=27|AZ_41rPkb0BL0L",
+"Al 19 marzo, ecco i 10 migliori frigoriferi|La classifica dei frigoriferi migliori alla data del 19 marzo|2016/03/al-19-marzo-ecco-i-10-migliori-frigoriferi.html?t=elettrodomestici,frigoriferi,casa,cibo,cucina,alimentazione,klarstein,beko,haier,indesit,ariston,candy&amp;d=19|AZ_31rKZlv31cL",
+];

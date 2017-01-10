@@ -1,0 +1,7 @@
+Gr = [
+"La top 10 dei migliori Telescopi: gennaio 2017|I 10 Telescopi più venduti: la guida all'acquisto di gennaio 2017|2017/01/la-top-10-dei-migliori-telescopi-gennaio-2017|AZ_41qtiPiLgNL",
+"Aprile 2016: tutti i telescopi più venduti!|Il meglio dei telescopi nella nostra guida all'acquisto|2016/04/aprile-2016-tutti-i-telescopi-piu-venduti.html?t=scienza,astronomia,astrofisica,spazio,telescopio,via-lattea,galassia,pianeta,plutone,giove,stella,costellazione,ammasso-globulare,ammasso-stellare,catalogo-messier,marte,national-geographic&amp;d=18|AZ_41Y9zq9XAbL",
+"Video - Cerere e la fantascienza di The Expanse|Cerere è il pianeta nano più vicino alla Terra, e non conosce stagioni|2015/12/video-cerere-e-la-fantascienza-di-the-expanse.html?t=astronomia,astrofisica,spazio,fantascienza,scienza,marte,cerere,fascia-degli-asteroidi,syfy,space-opera,premio-hugo,inaf&amp;d=28|YT_kS6akT0YUlQ",
+"Video - Un robot umanoide per le missioni spaziali|R5 Valkyrie è pensato come un robot umanoide da inviare nello spazio, forse su Marte|2015/12/video-un-robot-umanoide-per-le-missioni-spaziali.html?t=nasa,spazio,robot,marte,massachusetts-institute-of-technology,northeastern-university,universita-del-texas,boston,darpa&amp;d=25|YT_jtnu9cmJKQM",
+"Video - Acqua su Marte: cosa c'è di diverso questa volta?|Scopriamolo insieme guardando questo video dell'Istituto Nazionale di AstroFisica|2015/10/video-acqua-su-marte-cosa-c-e-di-diverso-questa-volta.html?t=scienza,astronomia,astrofisica,spazio,marte,nasa,acqua,fantascienza,ray-bradbury&amp;d=2|ray-bradbury",
+];

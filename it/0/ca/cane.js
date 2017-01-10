@@ -1,0 +1,13 @@
+Gr = [
+"Le 10 gattaiole più vendute a ottobre 2016|La top 10 delle migliori portine per gatti (e piccoli cani): ottobre 2016|2016/10/le-10-gattaiole-piu-vendute-a-ottobre-2016|AZ_517qHwpnbQL",
+"Cucce per cani: le 10 migliori a settembre 2016|Le 10 cucce per cani che piacciono di più: la classifica aggiornata|2016/09/cucce-per-cani-le-10-migliori-a-settembre-2016|AZ_31PPnBYaIIL",
+"La top 10 dei migliori divani: settembre 2016|I 10 divani più consigliati: la classifica aggiornata a settembre 2016|2016/09/la-top-10-dei-migliori-divani-settembre-2016|AZ_41Y1jt36dzL",
+"Video - I cani da riporto non funzionano|Pare che oltre i 75 km abbiano grosse difficoltà|2016/03/video-i-cani-da-riporto-non-funzionano.html?t=video-divertenti,umorismo,youtube,cane,animali,video&amp;d=24|YT_vyili3bKbg4",
+"Video - Cani che fanno la slitta|Anche tra gli animali, c'è chi farebbe di tutto per mettersi in mostra|2016/02/video-cani-che-fanno-la-slitta.html?t=video-divertenti,cane,animali,video,bambini,neve,inverno,slitta,youtube&amp;d=1|YT_GeKe2mYgnPI",
+"Video - Bulldog nano di 9 Kg. mette in fuga due orsi|Il video di sorveglianza mostra gli orsi spaventati cacciati via dal piccolo cane|2015/10/video-bulldog-nano-di-9-kg-mette-in-fuga-due-orsi.html?t=cane,bulldog,orso,animali,video,monrovia-ca&amp;d=7|YT_PerOmnky0kA",
+"Video - Questo golden retriever sceglie da sola il giocattolo da comprare|Ma ci sono così tante scelte, e i giocattoli di corda e le palle da tennis sono così fuori moda!|2015/10/video-questo-golden-retriever-sceglie-da-sola-il-giocattolo-da-comprare.html?t=video-divertenti,cane,golden-retriever,animali&amp;d=3|YT_d4cGWZ0_QjI",
+"Il cane è come lo yogurt|Non è una metafora: l'effetto dei nostri amici a quattro zampe potrebbe essere letteralmente lo stesso dello yogurt|2015/04/il-cane-e-come-lo-yogurt.html?t=cane,yogurt,salute,scienza,arizona,microbo,intestino&amp;d=20|dog-kiss",
+"Video - Gatto-ninja attacca due cani|Il felino senza paura si scaglia contro due cani che lo minacciano|2015/03/video-gatto-ninja-attacca-due-cani.html?t=video,gatto,cane,foto-divertenti&amp;d=4|cat-bad",
+"Video - Attenti alla mucca, al canguro, al lama, al pinguino...|Tutti sanno che le mucche possono diventare abbastanza aggressive a volte, ma che dire di lama, canguri e ... pinguini?|2015/02/video-attenti-alla-mucca-al-canguro-al-lama-al-pinguino.html?t=video-divertenti,mucca,lama,pinguino,cane,orso,bisonte,scimmia,canguro&amp;d=25|cow-girl",
+"Video - Il nuovo cane robotico di Google e Boston Dynamics|Può salire e scendere le scale, spostarsi su percorsi accidentati e riprendere l'equilibrio velocemente|2015/02/video-il-nuovo-cane-robotico-di-google-e-boston-dynamics.html?t=robot,google,boston-dynamics,cane&amp;d=11|robot-dog",
+];

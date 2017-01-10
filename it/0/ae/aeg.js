@@ -1,0 +1,7 @@
+Gr = [
+"I 10 radiatori ad olio più apprezzati: ottobre 2016|I 10 radiatori ad olio più venduti disponibili ora per l'acquisto|2016/10/i-10-radiatori-ad-olio-piu-apprezzati-ottobre-2016|AZ_41ZkBzoNGXL",
+"I 10 lettori DVD portatili che piacciono di più: settembre 2016|I 10 lettori DVD portatili che incontrano il maggiore gradimento|2016/09/i-10-lettori-dvd-portatili-che-piacciono-di-piu-settembre-2016|AZ_51goQGh83lL",
+"I 15 ventilatori a piantana migliori: luglio 2016|I 15 ventilatori a piantana consigliati, sul mercato oggi: luglio 2016|2016/07/i-15-ventilatori-a-piantana-migliori-luglio-2016.html?t=ventilatori,ventilatori-piantana,casa,ufficio,cucina,letto,bagno,climatizzazione,aria,vento,fresco,elettrodomestici,rowenta,tristar,aeg,argoclima&amp;d=18|AZ_312OT+nbVcL",
+"Le 15 radio più comprate a luglio 2016|Le 15 radio più interessanti per l'acquisto ora in commercio: luglio 2016|2016/07/le-15-radio-piu-comprate-a-luglio-2016.html?t=musica,radio,stereo-compatti,radio-portatili,radiosveglie,radio-doccia,stereo,audio,suono,hi-fi,alta-fedelta,elettronica,tempo-libero,karaoke,aeg,andoer,sony,majestic,philips&amp;d=7|AZ_4111vUqPK8L",
+"I 15 migliori ventilatori a torre: giugno 2016|I 15 ventilatori a torre che ammazzano il caldo: giugno 2016|2016/06/i-15-migliori-ventilatori-a-torre-giugno-2016.html?t=casa,ventilatori-torre,ventilatori,cucina,letto,ufficio,climatizzazione,aria,vento,fresco,condizionatori,aria-condizionata,illuminazione,rowenta,oneconcept,clatronic,klarstein,honeywell,aeg,dyson&amp;d=29|AZ_31F1CMYTu-L",
+];

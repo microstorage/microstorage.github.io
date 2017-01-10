@@ -1,0 +1,5 @@
+Gr = [
+"Video - Cuocere un uovo a forma di cuore?|Perfetto per un'occasione speciale, per un compleanno o per San Valentino!|2016/01/video-cuocere-un-uovo-a-forma-di-cuore.html?t=alimentazione,cucina,cibo,cuore,san-valentino,compleanno,uovo,trucchi,gastronomia&amp;d=6|YT_4lCAqRzMtVM",
+"Come si riconoscono le uova fresche? E il colore del tuorlo?|Esperti a confronto con pareri anche discordanti. Nel dubbio si può sempre ricorrere alla nonna|2015/04/come-si-riconoscono-le-uova-fresche-e-il-colore-del-tuorlo.html?t=alimentazione,uovo,tuorlo,gallina,dieta,colesterolo,proteine,grassi,antiossidante,foto-divertenti&amp;d=11|chicken-crossed",
+"Il colesterolo nelle uova e nei gamberi non preoccupa più?|Le linee guida per l'alimentazione sarebbero sbagliate, il colesterolo cattivo è in gran parte di origine genetica, non alimentare|2015/02/il-colesterolo-nelle-uova-e-nei-gamberi-non-preoccupa-piu.html?t=salute,scienza,medicina,colesterolo,dieta,alimentazione,uovo,gambero,foto-divertenti&amp;d=13|egg-scared",
+];

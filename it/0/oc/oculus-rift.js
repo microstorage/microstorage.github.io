@@ -1,0 +1,6 @@
+Gr = [
+"La realtà virtuale più diffusa, detrazioni fiscali e Alzheimer|La spesa per l'antifurto si può detrarre dalle tasse?|2016/08/la-realta-virtuale-piu-diffusa-detrazioni-fiscali-e-alzheimer|virtual-reality",
+"Video - Come funziona e quanto costa la Realtà Virtuale?|Su cosa puntare tra le offerte tra poco disponibili?|2016/04/video-come-funziona-e-quanto-costa-la-realta-virtuale.html?t=realta-virtuale,videogiochi,adr1ft,oculus-rift,mondo-virtuale,geek,metaverso,second-life,htc-vive,htc,valve,playstation-vr,sony&amp;d=29|YT_oXdvF2DoKX8",
+"Video - Gameplay in italiano di Adr1ft, per Oculus Rift e PC|Pensate a cosa dev'essere giocato con un visore per la realtà virtuale!|2016/03/video-gameplay-in-italiano-di-adr1ft-per-oculus-rift-e-pc.html?t=videogiochi,adr1ft,oculus-rift,realta-virtuale,fantascienza,spazio,claude-debussy,gameplay&amp;d=31|YT_UR8hMNkiOhU",
+"Il primo corto di 5 minuti realizzato interamente in realtà virtuale|Il progetto è stato realizzato da Oculus VR, società acquisita nel 2014 da Facebook per 2 miliardi di dollari|2015/01/il-primo-corto-di-5-minuti-realizzato-interamente-in-realta-virtuale.html?t=oculus-rift,facebook,realta-virtuale,sundance,pixar,lucasfilm&amp;d=28|oculus-rift",
+];

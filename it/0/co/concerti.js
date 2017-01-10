@@ -1,0 +1,7 @@
+Gr = [
+"Lampade da Tavolo, Sacchi a Pelo: i 5 migliori di settembre 2016|I 5 migliori prodotti in Lampade da Tavolo, Sacchi a Pelo|2016/09/lampade-da-tavolo-sacchi-a-pelo-i-5-migliori-di-settembre-2016|AZ_31UGTnj4bNL",
+"Binocoli, Bollitori Elettrici: i 5 migliori di settembre 2016|I 5 migliori prodotti in Binocoli, Bollitori Elettrici|2016/09/binocoli-bollitori-elettrici-i-5-migliori-di-settembre-2016|AZ_41gOxevrkiL",
+"I 14 binocoli che vanno per la maggiore: luglio 2016|La top 14 dei migliori binocoli disponibili per l'acquisto: luglio 2016|2016/07/i-14-binocoli-che-vanno-per-la-maggiore-luglio-2016.html?t=binocoli,trekking,escursioni,natura,montagna,alpinismo,caccia,pesca,birdwatching,campeggio,camping,concerti,astronomia,golf,outdoor,aria-aperta,zaini,zaini-escursioni,olympus,ghb,bresser,polaris,bushnell,lixada&amp;d=21|AZ_41ZlFHfaB8L",
+"I migliori sacchi a pelo: la guida all'acquisto di aprile 2016|Tutti i sacchi a pelo più gettonati|2016/04/i-migliori-sacchi-a-pelo-la-guida-all-acquisto-di-aprile-2016.html?t=tempo-libero,sacchi-a-pelo,campeggio,binocoli,caccia,concerti,pesca,birdwatching,astronomia,trekking,escursioni,letto,materassi,sonno,dormire,riposo,sport,natura&amp;d=27|AZ_41xoqArQ++L",
+"I binocoli più venduti: aprile 2016|Ecco il meglio dei binocoli disponibili proprio ora|2016/04/i-binocoli-piu-venduti-aprile-2016.html?t=tempo-libero,binocoli,caccia,campeggio,concerti,pesca,golf,birdwatching,astronomia,trekking,olympus,bresser,bushnell,lixada,nikon,ohuhu&amp;d=10|AZ_41ZlFHfaB8L",
+];

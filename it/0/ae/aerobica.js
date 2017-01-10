@@ -1,0 +1,16 @@
+Gr = [
+"Cyclette: le 10 migliori a dicembre 2016|Le 10 Cyclette al top oggi sul mercato: dicembre 2016|2016/12/cyclette-le-10-migliori-a-dicembre-2016|AZ_41fPHUEiGxL",
+"Le 10 borse da palestra migliori: ottobre 2016|La top 10 delle migliori borse da palestra, disponibili ora per l'acquisto|2016/10/le-10-borse-da-palestra-migliori-ottobre-2016|AZ_51A4S-YcgQL",
+"Tapis Roulant, Panche per Addominali: i 5 migliori di ottobre 2016|I 5 migliori prodotti in Tapis Roulant, Panche per Addominali|2016/10/tapis-roulant-panche-per-addominali-i-5-migliori-di-ottobre-2016|AZ_41hHQQOZs-L",
+"I 10 stepper più acquistati: ottobre 2016|I 10 stepper più utilizzati disponibili da subito: ottobre 2016|2016/10/i-10-stepper-piu-acquistati-ottobre-2016|AZ_31AX+PXInWL",
+"Ellittiche, Cyclette: i 5 migliori di settembre 2016|I 5 migliori prodotti di settembre 2016 in Ellittiche, Cyclette|2016/09/ellittiche-cyclette-i-5-migliori-di-settembre-2016|AZ_4122QB+LjVL",
+"Tapis Roulant, Regolarbarba: i 5 migliori di settembre 2016|I 5 migliori prodotti di settembre 2016 in Tapis Roulant, Regolarbarba|2016/09/tapis-roulant-regolarbarba-i-5-migliori-di-settembre-2016|AZ_410Wr8uVIzL",
+"Macchine per training aerobico: le 10 migliori a settembre 2016|Le 10 macchine per training aerobico top: la classifica|2016/09/macchine-per-training-aerobico-le-10-migliori-a-settembre-2016|AZ_41vetkhdt3L",
+"Impastatrici, Completi Sportivi Uomo: i 5 migliori di settembre 2016|I 5 migliori prodotti in Impastatrici, Completi Sportivi Uomo|2016/09/impastatrici-completi-sportivi-uomo-i-5-migliori-di-settembre-2016|AZ_51O844EJ2ZL",
+"Lavatrici, Ellittiche, Panche Per Addominali: i 3 migliori di agosto 2016|I 3 migliori in Lavatrici, Ellittiche, Panche Per Addominali|2016/08/lavatrici-ellittiche-panche-per-addominali-i-3-migliori-di-agosto-2016|AZ_41r2kNhf8mL",
+"La top 10 dei migliori tapis roulant: agosto 2016|I 10 tapis roulant più venduti disponibili ora per l'acquisto: agosto 2016|2016/08/la-top-10-dei-migliori-tapis-roulant-agosto-2016|AZ_41fX9e2tq0L",
+"I 10 completi sportivi uomo più alla moda: agosto 2016|La top 10 dei migliori completi sportivi uomo disponibili ora per l'acquisto|2016/08/i-10-completi-sportivi-uomo-piu-alla-moda-agosto-2016|AZ_41skKTmdxrL",
+"I 14 elettrostimolatori più venduti: agosto 2016|La top 14 dei migliori elettrostimolatori sul mercato ad agosto 2016|2016/08/i-14-elettrostimolatori-piu-venduti-agosto-2016|AZ_41x7cVgVngL",
+"Le 15 panche per addominali più acquistate: agosto 2016|La top 15 delle migliori panche per addominali disponibili per l'acquisto|2016/08/le-15-panche-per-addominali-piu-acquistate-agosto-2016|AZ_41i64WsteHL",
+"Le 15 cyclette più acquistate a luglio 2016|La top 15 delle migliori cyclette disponibili da subito: luglio 2016|2016/07/le-15-cyclette-piu-acquistate-a-luglio-2016.html?t=cyclette,dimagrire,palestra,fitness,training,ginnastica,bicicletta,sport,tempo-libero,cura-della-persona,benessere,peso-corporeo,allenamento,ciclismo,muscoli,aerobica,salute,obesita,diadora,ultrasport,tectake&amp;d=19|AZ_41vetkhdt3L",
+];

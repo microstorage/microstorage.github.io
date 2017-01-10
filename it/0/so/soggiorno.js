@@ -1,0 +1,17 @@
+Gr = [
+"I 10 Tavoli da Cucina più venduti: dicembre 2016|I 10 Tavoli da Cucina più interessanti per l'acquisto: la classifica|2016/12/i-10-tavoli-da-cucina-piu-venduti-dicembre-2016|AZ_41IiqRe9heL",
+"Le 10 Sedie da Ufficio al top: la classifica di novembre 2016|La top 10 delle migliori Sedie da Ufficio, disponibili da subito|2016/11/le-10-sedie-da-ufficio-al-top-la-classifica-di-novembre-2016|AZ_419BvY8xZTL",
+"I 10 Divano Letto più venduti: novembre 2016|La top 10 dei migliori Divano Letto disponibili da subito|2016/11/i-10-divano-letto-piu-venduti-novembre-2016|AZ_41x7dMtpKqL",
+"I 10 radiatori ad olio più apprezzati: ottobre 2016|I 10 radiatori ad olio più venduti disponibili ora per l'acquisto|2016/10/i-10-radiatori-ad-olio-piu-apprezzati-ottobre-2016|AZ_41ZkBzoNGXL",
+"Caminetti elettrici: i 10 migliori a ottobre 2016|I 10 caminetti elettrici migliori: la classifica di ottobre 2016|2016/10/caminetti-elettrici-i-10-migliori-a-ottobre-2016|AZ_31B47UsU3-L",
+"Le 10 stufe elettriche più vendute: ottobre 2016|La top 10 delle migliori stufe elettriche disponibili ora per l'acquisto|2016/10/le-10-stufe-elettriche-piu-vendute-ottobre-2016|AZ_31kTbzbnPFL",
+"I 10 termoventilatori migliori: ottobre 2016|La top 10 dei migliori termoventilatori sul mercato a ottobre 2016|2016/10/i-10-termoventilatori-migliori-ottobre-2016|AZ_41fS7smFtYL",
+"Le 10 sedie più vendute: ottobre 2016|La top 10 delle migliori sedie subito disponibili: ottobre 2016|2016/10/le-10-sedie-piu-vendute-ottobre-2016|AZ_31hSRfdNHOL",
+"I 10 termoventilatori migliori: settembre 2016|La top 10 dei migliori termoventilatori sul mercato a settembre 2016|2016/09/i-10-termoventilatori-migliori-settembre-2016|AZ_41u7EinoVvL",
+"Umidificatori, Cappe Aspiranti: i 5 migliori di settembre 2016|I 5 migliori prodotti in Umidificatori, Cappe Aspiranti|2016/09/umidificatori-cappe-aspiranti-i-5-migliori-di-settembre-2016|AZ_41GR3CJQY-L",
+"La top 10 dei migliori divani: settembre 2016|I 10 divani più consigliati: la classifica aggiornata a settembre 2016|2016/09/la-top-10-dei-migliori-divani-settembre-2016|AZ_41Y1jt36dzL",
+"La top 10 dei migliori umidificatori: agosto 2016|I 10 umidificatori che incontrano il maggiore gradimento all'agosto 2016|2016/08/la-top-10-dei-migliori-umidificatori-agosto-2016|AZ_41jFktazBAL",
+"Le 11 poltrone più comprate: giugno 2016|Le 11 poltrone che piacciono di più: la classifica aggiornata a giugno 2016|2016/06/le-11-poltrone-piu-comprate-giugno-2016.html?t=casa,poltrone,abitazione,ufficio,arredamento,arredo,mobili,studio,salotto,sala,soggiorno,relax,riposo,songmics,tectake&amp;d=17|AZ_51PXq0yJRvL",
+"I divani più apprezzati: la classifica di maggio 2016|I 9 migliori divani disponibili subito: maggio 2016|2016/05/i-divani-piu-apprezzati-la-classifica-di-maggio-2016.html?t=arredamento,divani,sofa,arredo,mobili,soggiorno,casa,letto,riposo&amp;d=25|AZ_41Y1jt36dzL",
+"Le 15 sedie da ufficio migliori che puoi trovare: maggio 2016|La top 15 delle migliori sedie da ufficio!|2016/05/le-15-sedie-da-ufficio-migliori-che-puoi-trovare-maggio-2016.html?t=ufficio,sedie-ufficio,poltrone,studio,casa,scrivanie,arredamento,arredo,mobili,soggiorno&amp;d=23|AZ_41sjcFt3LsL",
+];

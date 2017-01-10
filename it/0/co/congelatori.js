@@ -1,0 +1,12 @@
+Gr = [
+"Congelatori, Spremiagrumi: i 5 migliori di settembre 2016|I 5 migliori prodotti di settembre 2016 in Congelatori, Spremiagrumi|2016/09/congelatori-spremiagrumi-i-5-migliori-di-settembre-2016|AZ_31QbYwzzoSL",
+"Frigoriferi, Tritatutto: i 5 migliori di settembre 2016|I 5 migliori prodotti di settembre 2016 in Frigoriferi, Tritatutto|2016/09/frigoriferi-tritatutto-i-5-migliori-di-settembre-2016|AZ_31OeCJ6YGHL",
+"Congelatori, Asciugatrici: i 5 migliori di settembre 2016|I 5 migliori prodotti di settembre 2016 in Congelatori, Asciugatrici|2016/09/congelatori-asciugatrici-i-5-migliori-di-settembre-2016|AZ_31hOFIZA5EL",
+"La top 10 dei migliori frigoriferi: settembre 2016|I 10 frigoriferi più quotati disponibili ora per l'acquisto|2016/09/la-top-10-dei-migliori-frigoriferi-settembre-2016|AZ_31E8GCkT8tL",
+"Frigoriferi, Ferri Da Stiro Da Viaggio: i 5 migliori di settembre 2016|I 5 migliori prodotti in Frigoriferi, Ferri Da Stiro Da Viaggio|2016/09/frigoriferi-ferri-da-stiro-da-viaggio-i-5-migliori-di-settembre-2016|AZ_31untjSdzeL",
+"La top 10 dei migliori congelatori: agosto 2016|I 10 congelatori migliori: la classifica aggiornata a agosto 2016|2016/08/la-top-10-dei-migliori-congelatori-agosto-2016|AZ_31QbYwzzoSL",
+"I 14 frigoriferi doppia porta più venduti: agosto 2016|La top 14 dei migliori frigoriferi doppia porta subito disponibili|2016/08/i-14-frigoriferi-doppia-porta-piu-venduti-agosto-2016|AZ_41EhilJrcFL",
+"Gli 8 frigoriferi combinati più acquistati: giugno 2016|I migliori 8 frigoriferi combinati sul mercato a giugno 2016|2016/06/gli-8-frigoriferi-combinati-piu-acquistati-giugno-2016.html?t=cucina,frigoriferi-combinati,frigoriferi,congelatori,elettrodomestici,casa,bar,cibo,alimentazione,alimenti,freddo,ghiaccio,candy,indesit,bosch,beko,ariston,samsung,iberna&amp;d=30|AZ_21ph8B6dYlL",
+"I 12 congelatori più venduti: la classifica di maggio 2016|Il top dei congelatori: la guida all'acquisto di maggio 2016|2016/05/i-12-congelatori-piu-venduti-la-classifica-di-maggio-2016.html?t=elettrodomestici,congelatori,frigoriferi,casa,bar,cibo,cucina,alimentazione,alimenti,freddo,ghiaccio,beko,haier,bomann,sirge,whirlpool&amp;d=27|AZ_41rPkb0BL0L",
+"La classifica dei frigoriferi più venduti: maggio 2016|Tutto il meglio dei frigoriferi in questa piccola ma mirata classifica|2016/05/la-classifica-dei-frigoriferi-piu-venduti-maggio-2016.html?t=elettrodomestici,frigoriferi,congelatori,casa,bar,cibo,cucina,alimentazione,alimenti,freddo,ghiaccio,beko,klarstein,indesit&amp;d=14|AZ_31rKZlv31cL",
+];

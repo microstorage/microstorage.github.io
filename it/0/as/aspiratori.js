@@ -1,0 +1,9 @@
+Gr = [
+"Umidificatori, Cappe Aspiranti: i 5 migliori di settembre 2016|I 5 migliori prodotti in Umidificatori, Cappe Aspiranti|2016/09/umidificatori-cappe-aspiranti-i-5-migliori-di-settembre-2016|AZ_41GR3CJQY-L",
+"Portascarpe, Aspirapolvere a Traino: i 5 migliori di settembre 2016|I 5 migliori prodotti in Portascarpe, Aspirapolvere a Traino|2016/09/portascarpe-aspirapolvere-a-traino-i-5-migliori-di-settembre-2016|AZ_41QE97chC0L",
+"Le 10 cappe aspiranti al top: agosto 2016|La top 10 delle migliori cappe aspiranti disponibili da subito: agosto 2016|2016/08/le-10-cappe-aspiranti-al-top-agosto-2016|AZ_31olmRV52KL",
+"I 10 migliori aspirapolvere a traino: agosto 2016|La top 10 dei migliori aspirapolvere a traino in commercio ad agosto 2016|2016/08/i-10-migliori-aspirapolvere-a-traino-agosto-2016|AZ_41s089jdtcL",
+"I 15 robot aspirapolvere migliori: luglio 2016|La top 15 dei migliori robot aspirapolvere disponibili da subito: luglio 2016|2016/07/i-15-robot-aspirapolvere-migliori-luglio-2016.html?t=robot-aspirapolvere,aspirapolvere,casa,aspiratori,aspirapolvere-a-bidone,elettrodomestici,scope-elettriche,pulizia,igiene,pavimento,cucina,bagno,scopa,scope-vapore,lavapavimenti,vileda,haier,ariete,lg,samsung&amp;d=20|AZ_412ykReDMFL",
+"Aspirapolvere a bidone: i 13 migliori a giugno 2016|I 13 aspirapolvere a bidone più venduti: giugno 2016|2016/06/aspirapolvere-a-bidone-i-13-migliori-a-giugno-2016.html?t=casa,aspirapolvere,aspiratori,aspirapolvere-a-bidone,elettrodomestici,scope-elettriche,pulizia,igiene,pavimento,cucina,bagno,robot-aspirapolvere,scopa,einhell,dpe,klarstein,melchioni&amp;d=21|AZ_419FJYc+R6L",
+"L'aspirapolvere portatile che hai sempre cercato|Ideale per l'automobile, funziona collegato alla presa dell'accendisigari|2016/02/l-aspirapolvere-portatile-che-hai-sempre-cercato.html?t=automobile,autovettura,auto,casa,aspirapolvere,aspiratori,aspirabriciole,offerte,elettrodomestici,black-and-decker&amp;d=18|AZ_618Qc6nGCPL",
+];

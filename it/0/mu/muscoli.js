@@ -1,0 +1,16 @@
+Gr = [
+"Cyclette: le 10 migliori a dicembre 2016|Le 10 Cyclette al top oggi sul mercato: dicembre 2016|2016/12/cyclette-le-10-migliori-a-dicembre-2016|AZ_41fPHUEiGxL",
+"Tapis Roulant, Panche per Addominali: i 5 migliori di ottobre 2016|I 5 migliori prodotti in Tapis Roulant, Panche per Addominali|2016/10/tapis-roulant-panche-per-addominali-i-5-migliori-di-ottobre-2016|AZ_41hHQQOZs-L",
+"I 10 stepper più acquistati: ottobre 2016|I 10 stepper più utilizzati disponibili da subito: ottobre 2016|2016/10/i-10-stepper-piu-acquistati-ottobre-2016|AZ_31AX+PXInWL",
+"Ellittiche, Cyclette: i 5 migliori di settembre 2016|I 5 migliori prodotti di settembre 2016 in Ellittiche, Cyclette|2016/09/ellittiche-cyclette-i-5-migliori-di-settembre-2016|AZ_4122QB+LjVL",
+"Macchine per training aerobico: le 10 migliori a settembre 2016|Le 10 macchine per training aerobico top: la classifica|2016/09/macchine-per-training-aerobico-le-10-migliori-a-settembre-2016|AZ_41vetkhdt3L",
+"10 cinture massaggianti consigliate: settembre 2016|Ecco le 10 cinture massaggianti migliori al settembre 2016|2016/09/10-cinture-massaggianti-consigliate-settembre-2016|AZ_41bKJk7tj0L",
+"Elettrostimolatori, Valigie Rigide: i 5 migliori di settembre 2016|I 5 migliori prodotti di settembre 2016 in Elettrostimolatori, Valigie Rigide|2016/09/elettrostimolatori-valigie-rigide-i-5-migliori-di-settembre-2016|AZ_51CL006+FJL",
+"I 10 attrezzi per addominali top: settembre 2016|I 10 attrezzi per addominali più utilizzati: la guida all'acquisto|2016/09/i-10-attrezzi-per-addominali-top-settembre-2016|AZ_41MKYaqPseL",
+"I 14 elettrostimolatori più venduti: agosto 2016|La top 14 dei migliori elettrostimolatori sul mercato ad agosto 2016|2016/08/i-14-elettrostimolatori-piu-venduti-agosto-2016|AZ_41x7cVgVngL",
+"Le 15 panche per addominali più acquistate: agosto 2016|La top 15 delle migliori panche per addominali disponibili per l'acquisto|2016/08/le-15-panche-per-addominali-piu-acquistate-agosto-2016|AZ_41i64WsteHL",
+"Le 12 migliori ellittiche: agosto 2016|Le 12 ellittiche più consigliate: la classifica aggiornata a agosto 2016|2016/08/le-12-migliori-ellittiche-agosto-2016|AZ_41NmOnUBHGL",
+"Le 15 cyclette più acquistate a luglio 2016|La top 15 delle migliori cyclette disponibili da subito: luglio 2016|2016/07/le-15-cyclette-piu-acquistate-a-luglio-2016.html?t=cyclette,dimagrire,palestra,fitness,training,ginnastica,bicicletta,sport,tempo-libero,cura-della-persona,benessere,peso-corporeo,allenamento,ciclismo,muscoli,aerobica,salute,obesita,diadora,ultrasport,tectake&amp;d=19|AZ_41vetkhdt3L",
+"Maggio 2016: le 12 ellittiche più interessanti per l'acquisto|Ecco il meglio delle ellittiche sul mercato|2016/05/maggio-2016-le-12-ellittiche-piu-interessanti-per-l-acquisto.html?t=dimagrire,palestra,tempo-libero,sport,allenamento,training,ellittiche,fitness,corsa,correre,cuore,salute,obesita,benessere,ginnastica,peso-corporeo,muscoli,diadora&amp;d=5|AZ_41rA15e31XL",
+"La classifica di aprile 2016 delle 15 cyclette più acquistate|Il meglio delle cyclette in commercio|2016/04/la-classifica-di-aprile-2016-delle-15-cyclette-piu-acquistate.html?t=dimagrire,cyclette,salute,obesita,bicicletta,sport,tempo-libero,cura-della-persona,benessere,palestra,fitness,training,ginnastica,peso-corporeo,allenamento,ciclismo,muscoli,ultrasport,diadora&amp;d=26|AZ_41vetkhdt3L",
+];
