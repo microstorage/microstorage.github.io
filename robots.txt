@@ -1,1 +1,2 @@
-Sitemap: http://www.luna42.com/sitemap.xml.gz
+User-agent: *
+Disallow: /
