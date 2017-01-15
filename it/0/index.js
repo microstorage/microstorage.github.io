@@ -1,4 +1,5 @@
 Gr = [
+"Il primo Baby-Monitor a emissioni zero|Babycamera zero emissioni, per la sicurezza del tuo bambino|2017/01/il-primo-baby-monitor-a-emissioni-zero|data.oliviero.it/imgprodotto/babycamera-0-emissioni_132117",
 "Nike Basket Trey: le scarpe sportive più versatili|Scarpe Basket KD Trey 5 IV con sistema ammortizzante Air Zoom|2017/01/nike-basket-trey-le-scarpe-sportive-piu-versatili|data.oliviero.it/imgprodotto/scarpe-basket-kd-trey-5-iv-844571-616_152727",
 "Una elegante felpa da uomo taglie forti|Felpa Taglie Forti Bordeaux - felpata internamente|2017/01/una-elegante-felpa-da-uomo-taglie-forti|data.oliviero.it/imgprodotto/felpa-taglie-forti-bordeaux-u371_152511",
 "Radio ad energia solare con carica cellulare|Una radio solare davvero indispensabile per i nostri viaggi, e non solo|2017/01/radio-ad-energia-solare-con-carica-cellulare|data.oliviero.it/imgprodotto/radio-solare_83933",
