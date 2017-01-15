@@ -1,6 +1,0 @@
-Gr = [
-"Video - Alan Walker sbarca in Grand Theft Auto|Un machinima di Faded girato completamente in Grand Theft Auto|2016/07/video-alan-walker-sbarca-in-grand-theft-auto.html?t=musica,canzoni,alan-walker,youtube,social-network,facebook,gaming,videogiochi,geek,nerd,machinima,grand-theft-auto&amp;d=22|grand-theft-auto",
-"No, scusa, cos'è che hanno annunciato i creatori originari di Siri?|Ma a chi potrà mai fregare dei contenuti di Hi.co tra 10mila anni?|2016/05/no-scusa-cos-e-che-hanno-annunciato-i-creatori-originari-di-siri.html?t=intelligenza-artificiale,siri,google,umorismo,nerd,geek,tecnologia,nickel,informatica,georgia&amp;d=20|siri-dumb",
-"Video - Una chiacchierata su Ubuntu 16.04|Due parole sull'ultima distribuzione GNU/Linux uscita di recente|2016/05/video-una-chiacchierata-su-ubuntu-16-04.html?t=computer,linux,ubuntu,linux-mint,geek,nerd,informatica,personal-computer,sistema-operativo&amp;d=1|YT_pgIp0sEMsZA",
-"Video - Il ristorante dove è vietato mangiare|In questo ristorante si fanno solo SelFoods|2016/04/video-il-ristorante-dove-e-vietato-mangiare.html?t=video-divertenti,umorismo,youtube,maccio-capatonda,societa,social-network,facebook,twitter,internet,web,selfie,ristorante,nerd,geek&amp;d=22|YT_4xAa_huweR0",
-];

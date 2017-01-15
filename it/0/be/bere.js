@@ -1,6 +1,0 @@
-Gr = [
-"Stampanti Laser, Tritaghiaccio: i 5 migliori di settembre 2016|I 5 migliori prodotti in Stampanti Laser, Tritaghiaccio|2016/09/stampanti-laser-tritaghiaccio-i-5-migliori-di-settembre-2016|AZ_51pJFEnRC2L",
-"I 10 tritaghiaccio che piacciono di più: agosto 2016|La top 10 dei migliori tritaghiaccio sul mercato a agosto 2016|2016/08/i-10-tritaghiaccio-che-piacciono-di-piu-agosto-2016|AZ_41ESwjUZVKL",
-"Le 13 macchine per cubetti di ghiaccio consigliate: luglio 2016|Le 13 macchine per cubetti di ghiaccio più comprate: luglio 2016|2016/07/le-13-macchine-per-cubetti-di-ghiaccio-consigliate-luglio-2016.html?t=macchine-cubetti-ghiaccio,ghiaccio,macchine-ghiaccio,cucina,elettrodomestici,casa,bar,alimenti,freddo,granita,bere,bevande,liquori,cocktail,tritaghiaccio,koenig,tectake,klarstein,princess&amp;d=12|AZ_41dqtsWNZFL",
-"Le cantinette per vino più interessanti per l'acquisto: maggio 2016|La classifica aggiornata a maggio 2016 delle 14 cantinette per vino migliori|2016/05/le-cantinette-per-vino-piu-interessanti-per-l-acquisto-maggio-2016.html?t=casa,vino,mobili,arredamento,cantina,cantinette-vino,bottiglia,bere,alcolici,alcol,sete,alimentazione,energy-drink,klarstein,tristar,candy&amp;d=5|AZ_31vndxTTj4L",
-];

@@ -1,6 +1,0 @@
-Gr = [
-"I 10 pulitori a vapore migliori: ottobre 2016|Pulitori a vapore: i 10 migliori in commercio a ottobre 2016|2016/10/i-10-pulitori-a-vapore-migliori-ottobre-2016|AZ_41pLTthB5uL",
-"Vaporetto: i 15 migliori in commercio a luglio 2016|La top 15 dei migliori vaporetto sul mercato a luglio 2016|2016/07/vaporetto-i-15-migliori-in-commercio-a-luglio-2016.html?t=casa,vaporetto,pulitori-a-vapore,elettrodomestici,igiene,pulizia,vapore,pavimento,cucina,bagno,scope-elettriche,polti,clatronic,scopa,koenig,hoover&amp;d=8|AZ_41pLTthB5uL",
-"Le scope elettriche più vendute: maggio 2016|Il top delle scope elettriche in commercio|2016/05/le-scope-elettriche-piu-vendute-maggio-2016.html?t=elettrodomestici,scope-elettriche,scopa,aspirapolvere,robot-aspirapolvere,casa,cucina,bagno,pulizia,igiene,pavimento,imetec,ariete,hoover,vileda,de-longhi,rowenta,olimpic&amp;d=7|AZ_31-hrBF1dAL",
-"26 marzo: i 15 migliori lavapavimenti|Ecco i lavapavimenti migliori, valutati alla data del 26 marzo|2016/03/26-marzo-i-15-migliori-lavapavimenti.html?t=casa,lavapavimenti,elettrodomestici,cucina,bagno,pulizia,igiene,pavimento,hoover,vileda,black-and-decker,leifheit,philips,ariete,rotomop,imetec&amp;d=26|AZ_21lLe5YhnVL",
-];

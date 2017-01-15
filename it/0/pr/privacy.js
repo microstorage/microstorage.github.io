@@ -1,8 +1,0 @@
-Gr = [
-"Distruggidocumenti: i 10 migliori a settembre 2016|I 10 distruggidocumenti migliori disponibili da subito: settembre 2016|2016/09/distruggidocumenti-i-10-migliori-a-settembre-2016|AZ_41toz-SkdhL",
-"Registratori portatili: i 16 migliori a luglio 2016|La top 16 dei migliori registratori portatili subito disponibili: luglio 2016|2016/07/registratori-portatili-i-16-migliori-a-luglio-2016|AZ_412OrvvUSML",
-"La prima volta della crittografia quantistica nello spazio|Un esperimento realizzato dall'Agenzia Spaziale Italiana per la prima volta al mondo|2015/06/la-prima-volta-della-crittografia-quantistica-nello-spazio.html?t=scienza,satellite-artificiale,fisica,meccanica-quantistica,crittografia,privacy,spazio,padova,matera&amp;d=25|satellite-lares",
-"Tutte le nuove automobili dovranno avere la propria Sim|Le nuove autovetture commercializzate in Europa dovranno essere presto dotate del dispositivo di emergenza eCall|2015/06/tutte-le-nuove-automobili-dovranno-avere-la-propria-sim.html?t=automobile,gps,geolocalizzazione,privacy,europa&amp;d=6|traffic-jam",
-"Con Visa Mobile Location Service niente più transazioni rifiutate|Il servizio geolocalizza il tuo smartphone e autorizza la transazione solo se ti trovi effettivamente nel luogo dell'acquisto|2015/02/con-visa-mobile-location-service-niente-piu-transazioni-rifiutate.html?t=visa,carta-di-credito,smartphone,gps,geolocalizzazione,privacy&amp;d=15|geolocation",
-"Le Smart TV ascoltano tutto quello che dici?|Il sistema di riconoscimento vocale ha scatenato una serie di preoccupazioni per la privacy degli utenti|2015/02/le-smart-tv-ascoltano-tutto-quello-che-dici.html?t=smart-tv,televisori,privacy,riconoscimento-vocale&amp;d=15|smart-tv",
-];

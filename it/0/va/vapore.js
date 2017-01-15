@@ -1,9 +1,0 @@
-Gr = [
-"I 10 pulitori a vapore migliori: ottobre 2016|Pulitori a vapore: i 10 migliori in commercio a ottobre 2016|2016/10/i-10-pulitori-a-vapore-migliori-ottobre-2016|AZ_41pLTthB5uL",
-"La top 10 dei migliori lavapavimenti a vapore: settembre 2016|I 10 lavapavimenti a vapore più quotati: la guida all'acquisto|2016/09/la-top-10-dei-migliori-lavapavimenti-a-vapore-settembre-2016|AZ_21xlEtILwDL",
-"I 15 ferri da stiro da viaggio migliori: agosto 2016|La top 15 dei migliori ferri da stiro da viaggio disponibili da subito|2016/08/i-15-ferri-da-stiro-da-viaggio-migliori-agosto-2016|AZ_419N7M0tsEL",
-"Friggitrici ad aria: le 14 migliori ad agosto 2016|Le 14 friggitrici ad aria più amate: la guida all'acquisto di agosto 2016|2016/08/friggitrici-ad-aria-le-14-migliori-ad-agosto-2016|AZ_41++XO88H6L",
-"Vaporetto: i 15 migliori in commercio a luglio 2016|La top 15 dei migliori vaporetto sul mercato a luglio 2016|2016/07/vaporetto-i-15-migliori-in-commercio-a-luglio-2016.html?t=casa,vaporetto,pulitori-a-vapore,elettrodomestici,igiene,pulizia,vapore,pavimento,cucina,bagno,scope-elettriche,polti,clatronic,scopa,koenig,hoover&amp;d=8|AZ_41pLTthB5uL",
-"I 15 ferri a vapore migliori: giugno 2016|La classifica di giugno 2016 dei 15 ferri a vapore più venduti|2016/06/i-15-ferri-a-vapore-migliori-giugno-2016.html?t=casa,ferro-a-vapore,ferro-da-stiro,elettrodomestici,lavatrici,abbigliamento,vestito,igiene,pulizia,bucato,vapore,rowenta,de-longhi,philips,imetec,polti,black-and-decker,russell-hobbs&amp;d=21|AZ_41MqF2i2O2L",
-"Le vaporiere più acquistate di aprile 2016|La classifica di aprile delle vaporiere migliori|2016/04/le-vaporiere-piu-acquistate-di-aprile-2016.html?t=cucina,vaporiere,alimentazione,cibo,gastronomia,stoviglie,pentole,cottura,dieta,benessere,vitamine,calorie,vapore,russell,tefal,philips,braun,whirlpool&amp;d=14|AZ_51r90GvkoxL",
-];

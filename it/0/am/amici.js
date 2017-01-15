@@ -1,8 +1,0 @@
-Gr = [
-"I 10 barbecue elettrici migliori: ottobre 2016|I 10 barbecue elettrici che vanno per la maggiore, disponibili subito|2016/10/i-10-barbecue-elettrici-migliori-ottobre-2016|AZ_41yWuU5ChaL",
-"I 10 dondoli da giardino migliori: settembre 2016|I 10 dondoli da giardino più comprati, subito disponibili|2016/09/i-10-dondoli-da-giardino-migliori-settembre-2016|AZ_51yAAd50ZJL",
-"Barbecue a gas: i 14 migliori a luglio 2016|I 14 barbecue a gas più comprati sul mercato: luglio 2016|2016/07/barbecue-a-gas-i-14-migliori-a-luglio-2016.html?t=cucina,barbecue,gas,grill,cibo,carne,gastronomia,alimentazione,outdoor,aria-aperta,giardino,terrazza,picnic,campeggio,camping,camper,tende-campeggio,tempo-libero,amici,famiglia&amp;d=23|AZ_51hQKvVWW1L",
-"I 14 ombrelloni da giardino più venduti: luglio 2016|La top 14 dei migliori ombrelloni da giardino disponibili per l'acquisto|2016/07/i-14-ombrelloni-da-giardino-piu-venduti-luglio-2016.html?t=giardino,ombrelloni-giardino,ombrelloni,ombra,casa,prato,campeggio,outdoor,aria-aperta,estate,amici,famiglia,tempo-libero,tectake&amp;d=5|AZ_41rRor+FeAL",
-"I 14 gazebo più gettonati: giugno 2016|La top 14 dei migliori gazebo in commercio a giugno 2016|2016/06/i-14-gazebo-piu-gettonati-giugno-2016.html?t=giardino,gazebo,casa,prato,campeggio,ombrelloni,outdoor,aria-aperta,estate,amici,famiglia,ombra&amp;d=29|AZ_517LZl2Jg6L",
-"I 14 barbecue che incontrano il maggiore gradimento: giugno 2016|La top 14 dei migliori barbecue in commercio a giugno 2016|2016/06/i-14-barbecue-che-incontrano-il-maggiore-gradimento-giugno-2016.html?t=giardino,barbecue,picnic,terrazza,grill,tempo-libero,amici,famiglia,casa,cucina,cibo,carne,gastronomia,alimentazione&amp;d=10|AZ_412I-faTgbL",
-];

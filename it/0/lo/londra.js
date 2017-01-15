@@ -1,4 +1,0 @@
-Gr = [
-"Bere troppa acqua fa male alla salute? E la regola dei due litri?|L'aquaholism è una vera e propria dipendenza da acqua. Bere troppa acqua affaticherebbe i reni, e avrebbe perfino ripercussioni psicologiche|2015/04/bere-troppa-acqua-fa-male-alla-salute-e-la-regola-dei-due-litri.html?t=salute,acqua,dieta,alimentazione,insonnia,sudorazione,reni,dipendenza,sete,nervosismo,ansia,cuore,londra,foto-divertenti&amp;d=1|water-tap-sculpture",
-"Il cioccolato antirughe che ringiovanisce la pelle|La magia starebbe nell'elevato contenuto di antiossidanti, e il contenuto calorico sarebbe anche trascurabile|2015/03/il-cioccolato-antirughe-che-ringiovanisce-la-pelle.html?t=cioccolato,medicina,invecchiamento,pelle,rughe,salute,scienza,alimentazione,obesita,calorie,antiossidante,salmone,polifenolo,pesce-rosso,fenicottero,cambridge,glasgow,londra&amp;d=4|dog-wrinkles",
-];

@@ -1,6 +1,0 @@
-Gr = [
-"Video - Il ristorante dove è vietato mangiare|In questo ristorante si fanno solo SelFoods|2016/04/video-il-ristorante-dove-e-vietato-mangiare.html?t=video-divertenti,umorismo,youtube,maccio-capatonda,societa,social-network,facebook,twitter,internet,web,selfie,ristorante,nerd,geek&amp;d=22|YT_4xAa_huweR0",
-"Video - La scomparsa di Marco Bomber Putacaso|Un nuovo sconvolgente caso di cronaca nera per Neri Pupazzo|2016/03/video-la-scomparsa-di-marco-bomber-putacaso.html?t=video-divertenti,umorismo,youtube,societa,maccio-capatonda,social-network,facebook,twitter,internet&amp;d=25|YT_BzOD5p9nBSA",
-"Video - Come diventare uno scrittore di successo sfruttando le reti sociali|E magari vivere felici? Non lo sappiamo, e non è neanche facile, però nel frattempo vedere questo interessante panel male non fa|2015/03/video-come-diventare-uno-scrittore-di-successo-sfruttando-le-reti-sociali.html?t=libri,social-network,facebook,twitter,social-media-week,milano,blog,scrivere,foto-divertenti&amp;d=8|writers-block",
-"Twitter si trasforma in stile WhatsApp|Una svolta epocale che rende di fatto possibile le cosiddette \"chat di gruppo\"|2015/01/twitter-si-trasforma-in-stile-whatsapp.html?t=twitter,whatsapp,facebook,vine,instagram,chat,internet&amp;d=27|twitter-key",
-];

@@ -1,8 +1,0 @@
-Gr = [
-"Le 10 Telecamere di Sorveglianza più utilizzate: novembre 2016|La top 10 delle migliori Telecamere di Sorveglianza: novembre 2016|2016/11/le-10-telecamere-di-sorveglianza-piu-utilizzate-novembre-2016|AZ_41e5QeygNkL",
-"Wi-Fi extender: i 10 migliori a ottobre 2016|I 10 Wi-Fi extender consigliati, disponibili da subito: ottobre 2016|2016/10/wi-fi-extender-i-10-migliori-a-ottobre-2016|AZ_31vIiLpxNQL",
-"I 14 router migliori in commercio a luglio 2016|I 14 router più gettonati subito disponibili: luglio 2016|2016/07/i-14-router-migliori-in-commercio-a-luglio-2016.html?t=router,modem,adsl,wireless,wi-fi,wps,hardware,informatica,rete-informatica,lan,ethernet,internet,usb,tp-link,asus,netgear&amp;d=22|AZ_31i1HQFC4fL",
-"I 15 modem migliori sul mercato a giugno 2016|I 15 modem migliori: la classifica di giugno 2016|2016/06/i-15-modem-migliori-sul-mercato-a-giugno-2016.html?t=internet,modem,router,wireless,wi-fi,wps,hardware,informatica,adsl,rete-informatica,lan,ethernet,usb,tp-link,asus,netgear,d-link,telecom&amp;d=9|AZ_31i1HQFC4fL",
-"Il meglio dei wi-fi extender disponibili: maggio 2016|La top 16 dei wi-fi extender più interessanti da acquistare|2016/05/il-meglio-dei-wi-fi-extender-disponibili-maggio-2016.html?t=wi-fi,wi-fi-extender,wireless,wps,ripetitore-wi-fi,range-extender,elettronica,hardware,informatica,streaming,tp-link,netgear,d-link&amp;d=12|AZ_31vIiLpxNQL",
-"Il meglio dei router sul mercato all'aprile 2016|Ecco i migliori router sul mercato|2016/04/il-meglio-dei-router-sul-mercato-all-aprile-2016.html?t=internet,router,modem,wireless,wi-fi,wps,hardware,informatica,adsl,rete-informatica,lan,ethernet,tp-link,netgear,asus&amp;d=4|AZ_31i1HQFC4fL",
-];

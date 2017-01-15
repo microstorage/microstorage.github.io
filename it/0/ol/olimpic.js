@@ -1,5 +1,0 @@
-Gr = [
-"Le 16 migliori impastatrici: guida all'acquisto di maggio 2016|Il meglio delle impastatrici in commercio al maggio 2016|2016/05/le-16-migliori-impastatrici-guida-all-acquisto-di-maggio-2016.html?t=elettrodomestici,impastatrici,pasta,robot-da-cucina,cucina,casa,cibo,alimentazione,bar,ariete,klarstein,bomann,kenwood,olimpic,bosch,moulinex&amp;d=9|AZ_4146M3oupvL",
-"Le scope elettriche più vendute: maggio 2016|Il top delle scope elettriche in commercio|2016/05/le-scope-elettriche-piu-vendute-maggio-2016.html?t=elettrodomestici,scope-elettriche,scopa,aspirapolvere,robot-aspirapolvere,casa,cucina,bagno,pulizia,igiene,pavimento,imetec,ariete,hoover,vileda,de-longhi,rowenta,olimpic&amp;d=7|AZ_31-hrBF1dAL",
-"La classifica delle affettatrici migliori al 20 marzo|Aggiornata alla data del 20 marzo, ecco la classifica delle affettatrici migliori|2016/03/la-classifica-delle-affettatrici-migliori-al-20-marzo.html?t=cucina,affettatrici,casa,elettrodomestici,cibo,alimentazione,macelleria,gastronomia,rgv,bosch,dpe,siemens,olimpic,domoclip&amp;d=20|AZ_51urpkH0E3L",
-];

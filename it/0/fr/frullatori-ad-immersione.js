@@ -1,5 +1,0 @@
-Gr = [
-"I 10 frullatori ad immersione migliori: ottobre 2016|La top 10 dei migliori frullatori ad immersione sul mercato|2016/10/i-10-frullatori-ad-immersione-migliori-ottobre-2016|AZ_41Iujy8jDmL",
-"I 15 mixer ad immersione migliori: la classifica di maggio 2016|Il top dei mixer ad immersione in commercio a maggio 2016|2016/05/i-15-mixer-ad-immersione-migliori-la-classifica-di-maggio-2016.html?t=elettrodomestici,mixer,mixer-ad-immersione,frullatori,frullatori-ad-immersione,casa,cucina,bar,cibo,alimentazione,alimenti,gastronomia,bosch,kenwood,imetec,russell-hobbs,braun,ariete&amp;d=18|AZ_41Iujy8jDmL",
-"La classifica dei frullatori e mixer ad immersione migliori, valutati al 20 marzo|Ecco i 16 migliori frullatori e mixer ad immersione alla data del 20 marzo|2016/03/la-classifica-dei-frullatori-e-mixer-ad-immersione-migliori-valutati-al-20-marzo.html?t=cucina,casa,frullatori,frullatori-ad-immersione,mixer-ad-immersione,mixer,elettrodomestici,cibo,alimentazione,bar,imetec,bosch,braun,kenwood,russell&amp;d=20|AZ_21ZnYrbUa8L",
-];

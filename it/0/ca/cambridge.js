@@ -1,5 +1,0 @@
-Gr = [
-"Quando ricordare ci fa dimenticare|Il continuo richiamare alla memoria i ricordi a cui si pensa più spesso provoca il degradarsi degli altri|2015/05/quando-ricordare-ci-fa-dimenticare.html?t=memoria,amnesia,cervello,scienza,birmingham,cambridge&amp;d=7|remember-woman",
-"Dormire troppo aumenta il rischio di ictus?|Un nuovo studio dell'Università di Cambridge ipotizza una correlazione tra il dormire troppo e il rischio di ictus|2015/05/dormire-troppo-aumenta-il-rischio-di-ictus.html?t=sonno,ictus,memoria,cuore,ipertensione,medicina,salute,scienza,anziani,cambridge&amp;d=1|stroke",
-"Il cioccolato antirughe che ringiovanisce la pelle|La magia starebbe nell'elevato contenuto di antiossidanti, e il contenuto calorico sarebbe anche trascurabile|2015/03/il-cioccolato-antirughe-che-ringiovanisce-la-pelle.html?t=cioccolato,medicina,invecchiamento,pelle,rughe,salute,scienza,alimentazione,obesita,calorie,antiossidante,salmone,polifenolo,pesce-rosso,fenicottero,cambridge,glasgow,londra&amp;d=4|dog-wrinkles",
-];

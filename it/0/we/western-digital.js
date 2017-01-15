@@ -1,9 +1,0 @@
-Gr = [
-"I 10 Hard Disk Portatili più venduti: novembre 2016|I 10 Hard Disk Portatili migliori: la classifica di novembre 2016|2016/11/i-10-hard-disk-portatili-piu-venduti-novembre-2016|AZ_413p2je-65L",
-"I 10 hard disk esterni consigliati: ottobre 2016|La top 10 dei migliori hard disk esterni disponibili ora per l'acquisto|2016/10/i-10-hard-disk-esterni-consigliati-ottobre-2016|AZ_31GBI824mmL",
-"Hard disk esterni: i 10 migliori a settembre 2016|I 10 hard disk esterni più acquistati a settembre 2016|2016/09/hard-disk-esterni-i-10-migliori-a-settembre-2016|AZ_41R-+WxmTCL",
-"La top 12 dei migliori hard disk esterni: giugno 2016|I 12 hard disk esterni al top oggi in commercio: giugno 2016|2016/06/la-top-12-dei-migliori-hard-disk-esterni-giugno-2016.html?t=informatica,hard-disk-esterni,elettronica,archiviazione-dati,hardware,usb,toshiba,western-digital,samsung,seagate,aukey&amp;d=8|AZ_31ob3H+lkHL",
-"Aprile 2016: la classifica dei migliori hard disk esterni|I 14 hard disk esterni più quotati|2016/04/aprile-2016-la-classifica-dei-migliori-hard-disk-esterni.html?t=informatica,archiviazione-dati,elettronica,hardware,usb,hard-disk-esterni,toshiba,samsung,transcend,seagate,western-digital&amp;d=4|AZ_41rcB3E1O6L",
-"1TB di archiviazione ad un prezzo incredibile|Recensioni davvero ottime per questo hard disk esterno di Western Digital|2016/02/1tb-di-archiviazione-ad-un-prezzo-incredibile.html?t=elettronica,hard-disk-esterni,archiviazione-dati,hardware,informatica,offerte,promozioni,western-digital&amp;d=25|AZ_31ob3H+lkHL",
-"Un hard disk interno da 1TB affidabile e silenziosissimo|Al momento con spedizione gratuita, a un prezzo super-conveniente!|2016/02/un-hard-disk-interno-da-1tb-affidabile-e-silenziosissimo.html?t=hard-disk,hard-disk-interni,archiviazione-dati,computer,desktop,informatica,personal-computer,western-digital&amp;d=23|AZ_71XEJQjHjuL",
-];

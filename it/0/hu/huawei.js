@@ -1,7 +1,0 @@
-Gr = [
-"I 10 Smartphone migliori a novembre 2016|I 10 Smartphone più consigliati da chi li ha comprati davvero|2016/11/i-10-smartphone-migliori-a-novembre-2016|AZ_412i-yS769L",
-"Smartphone: i 15 migliori a luglio 2016|La top 15 dei migliori smartphone disponibili per l'acquisto: luglio 2016|2016/07/smartphone-i-15-migliori-a-luglio-2016.html?t=smartphone,cellulari,telefonia,telefono-cellulare,elettronica,dual-sim,android,app,sms,bluetooth,huawei,homtom,lg,motorola,samsung&amp;d=15|AZ_41XlgJ1gy+L",
-"La top 12 dei migliori smartphone Android in commercio: maggio 2016|La classifica dei 12 smartphone Android più venduti sul mercato|2016/05/la-top-12-dei-migliori-smartphone-android-in-commercio-maggio-2016.html?t=smartphone,telefono-cellulare,cellulari,telefonia,elettronica,dual-sim,android,app,sms,bluetooth,huawei,samsung,asus,motorola&amp;d=12|AZ_41G+npIlVGL",
-"La classifica dei migliori smartphone al 18 marzo|Alla data del 18 marzo, ecco la classifica degli smartphone migliori|2016/03/la-classifica-dei-migliori-smartphone-al-18-marzo.html?t=smartphone,android,elettronica,telefonia,telefono-cellulare,huawei,homtom,asus,samsung,doogee,motorola&amp;d=18|AZ_41wSabHAJ-L",
-"Un bellissimo smartphone Huawei a un prezzo incredibilmente basso|Prima leggete le caratteristiche di questo smartphone e poi provate a indovinare il prezzo|2016/02/un-bellissimo-smartphone-huawei-a-un-prezzo-incredibilmente-basso.html?t=smartphone,telefono-cellulare,telefonia,dual-sim,android,huawei&amp;d=16|AZ_41HoxvG5W7L",
-];

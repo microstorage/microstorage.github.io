@@ -1,5 +1,0 @@
-Gr = [
-"Ciclocomputer: i 14 migliori in commercio a agosto 2016|La top 14 dei migliori ciclocomputer disponibili per l'acquisto: agosto 2016|2016/08/ciclocomputer-i-14-migliori-in-commercio-a-agosto-2016|AZ_51XKaguYunL",
-"La classifica aggiornata a maggio 2016 degli activity tracker più acquistati|Il meglio degli activity tracker: guida all'acquisto|2016/05/la-classifica-aggiornata-a-maggio-2016-degli-activity-tracker-piu-acquistati.html?t=tempo-libero,activity-tracker,cardiofrequenzimetri,sport,allenamento,training,dimagrire,palestra,fitness,bicicletta,ciclismo,tennis,corsa,correre,cuore,salute,garmin,fitbit,xiaomi,polar,sony&amp;d=3|AZ_41uW9OppOWL",
-"I 15 cardiofrequenzimetri più quotati: aprile 2016|Il meglio dei cardiofrequenzimetri in commercio|2016/04/i-15-cardiofrequenzimetri-piu-quotati-aprile-2016.html?t=tempo-libero,cardiofrequenzimetri,sport,allenamento,training,dimagrire,palestra,fitness,bicicletta,ciclismo,tennis,corsa,correre,cuore,salute,sigma,polar&amp;d=11|AZ_31GxSUMX7dL",
-];

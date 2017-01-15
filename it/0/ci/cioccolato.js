@@ -1,5 +1,0 @@
-Gr = [
-"Video - 10 sconvolgenti rivelazioni sul cioccolato|Don't panic! OMG il cioccolato bianco è veramente cioccolato? Ok, panic!|2016/01/video-10-sconvolgenti-rivelazioni-sul-cioccolato.html?t=cioccolato,cacao,dieta,alimentazione,cibo,dolci,alfred-hitchcock,psyco,aztechi,youtube&amp;d=26|YT_BEV85G2gnbc",
-"I 15 cibi da evitare assolutamente per una serata piccante|La lista nera dei cibi anti-afrodisiaci, stilata da una nutrizionista per il quotidiano Daily Mail|2015/04/i-15-cibi-da-evitare-assolutamente-per-una-serata-piccante.html?t=amore,dieta,alimentazione,broccoli,cioccolato,fagioli,formaggio,liquirizia,vino,carne,energy-drink&amp;d=13|couple-bed-sleepy",
-"Il cioccolato antirughe che ringiovanisce la pelle|La magia starebbe nell'elevato contenuto di antiossidanti, e il contenuto calorico sarebbe anche trascurabile|2015/03/il-cioccolato-antirughe-che-ringiovanisce-la-pelle.html?t=cioccolato,medicina,invecchiamento,pelle,rughe,salute,scienza,alimentazione,obesita,calorie,antiossidante,salmone,polifenolo,pesce-rosso,fenicottero,cambridge,glasgow,londra&amp;d=4|dog-wrinkles",
-];

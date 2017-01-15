@@ -1,8 +1,0 @@
-Gr = [
-"I 10 fornetti per pizza più comprati: settembre 2016|La top 10 dei migliori fornetti per pizza in commercio a settembre 2016|2016/09/i-10-fornetti-per-pizza-piu-comprati-settembre-2016|AZ_51KsTCM4dEL",
-"10 scaldavivande consigliati: settembre 2016|La top 10 dei migliori scaldavivande subito disponibili: settembre 2016|2016/09/10-scaldavivande-consigliati-settembre-2016|AZ_41I6nfk5WcL",
-"Le 15 sigilla sacchetti più quotate: agosto 2016|La top 15 delle migliori macchine sigilla sacchetti sul mercato|2016/08/le-15-sigilla-sacchetti-piu-quotate-agosto-2016|AZ_41IXz39RpiL",
-"I 12 raffrescatori evaporativi più comprati: giugno 2016|La top 12 dei migliori raffrescatori evaporativi disponibili per l'acquisto|2016/06/i-12-raffrescatori-evaporativi-piu-comprati-giugno-2016.html?t=condizionatori,raffrescatori-evaporativi,casa,aria-condizionata,climatizzatori,climatizzazione,ufficio,bagno,cucina,elettrodomestici,fresco,benessere,aria,argoclima,rowenta,macom&amp;d=25|AZ_31VO+PVgi6L",
-"I 14 spremiagrumi migliori: maggio 2016|Il top degli spremiagrumi disponibili per l'acquisto: maggio 2016|2016/05/i-14-spremiagrumi-migliori-maggio-2016.html?t=dieta,spremiagrumi,salute,alimentazione,agrume,benessere,vitamine,casa,cibo,cucina,elettrodomestici,risparmio,frutta,succo,braun,russell-hobbs,bosch,tristar,rgv,black-and-decker,philips,kenwood,macom,imetec&amp;d=30|AZ_41bD89c0mqL",
-"Il meglio delle macchine sottovuoto: aprile 2016|La classifica aggiornata a aprile 2016 delle macchine sottovuoto più quotate|2016/04/il-meglio-delle-macchine-sottovuoto-aprile-2016.html?t=cucina,macchine-sottovuoto,casa,cibo,pane,baguette,panino,sandwich,elettrodomestici,bar,igiene,macchine-sigillatrici,alimenti,guardaroba,vestito,macom,zephir,imetec&amp;d=29|AZ_41LXV5oRLTL",
-];

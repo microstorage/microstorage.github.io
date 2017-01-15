@@ -1,5 +1,0 @@
-Gr = [
-"I 10 radiatori ad olio più apprezzati: ottobre 2016|I 10 radiatori ad olio più venduti disponibili ora per l'acquisto|2016/10/i-10-radiatori-ad-olio-piu-apprezzati-ottobre-2016|AZ_41ZkBzoNGXL",
-"La classifica dei 16 deumidificatori migliori di maggio 2016|I 16 deumidificatori migliori sul mercato|2016/05/la-classifica-dei-16-deumidificatori-migliori-di-maggio-2016.html?t=casa,letto,ufficio,climatizzazione,umidificatori,deumidificatori,aerosol,benessere,aria,respirazione,naso,gola,bronchi,polmoni,purificatori-d-aria,de-longhi,probreeze,olimpia,argoclima,duronic&amp;d=13|AZ_315fziMiu3L",
-"Il meglio degli umidificatori: la guida all'acquisto di aprile 2016|Tutti i più interessanti umidificatori disponibili per l'acquisto|2016/04/il-meglio-degli-umidificatori-la-guida-all-acquisto-di-aprile-2016.html?t=casa,umidificatori,cucina,ufficio,climatizzazione,elettronica,profumazione,olio-essenziale,ultrasuoni,aria,purificatori-d-aria,diffusori-di-aromi,rixow,chicco,aukey,taotronics,de-longhi,olimpia&amp;d=21|AZ_41jFktazBAL",
-];

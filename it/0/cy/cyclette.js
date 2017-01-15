@@ -1,9 +1,0 @@
-Gr = [
-"Cyclette: le 10 migliori a dicembre 2016|Le 10 Cyclette al top oggi sul mercato: dicembre 2016|2016/12/cyclette-le-10-migliori-a-dicembre-2016|AZ_41fPHUEiGxL",
-"Ellittiche, Cyclette: i 5 migliori di settembre 2016|I 5 migliori prodotti di settembre 2016 in Ellittiche, Cyclette|2016/09/ellittiche-cyclette-i-5-migliori-di-settembre-2016|AZ_4122QB+LjVL",
-"Macchine per training aerobico: le 10 migliori a settembre 2016|Le 10 macchine per training aerobico top: la classifica|2016/09/macchine-per-training-aerobico-le-10-migliori-a-settembre-2016|AZ_41vetkhdt3L",
-"Le 12 migliori ellittiche: agosto 2016|Le 12 ellittiche più consigliate: la classifica aggiornata a agosto 2016|2016/08/le-12-migliori-ellittiche-agosto-2016|AZ_41NmOnUBHGL",
-"Le 15 cyclette più acquistate a luglio 2016|La top 15 delle migliori cyclette disponibili da subito: luglio 2016|2016/07/le-15-cyclette-piu-acquistate-a-luglio-2016.html?t=cyclette,dimagrire,palestra,fitness,training,ginnastica,bicicletta,sport,tempo-libero,cura-della-persona,benessere,peso-corporeo,allenamento,ciclismo,muscoli,aerobica,salute,obesita,diadora,ultrasport,tectake&amp;d=19|AZ_41vetkhdt3L",
-"La classifica di aprile 2016 delle 15 cyclette più acquistate|Il meglio delle cyclette in commercio|2016/04/la-classifica-di-aprile-2016-delle-15-cyclette-piu-acquistate.html?t=dimagrire,cyclette,salute,obesita,bicicletta,sport,tempo-libero,cura-della-persona,benessere,palestra,fitness,training,ginnastica,peso-corporeo,allenamento,ciclismo,muscoli,ultrasport,diadora&amp;d=26|AZ_41vetkhdt3L",
-"Restiamo in forma guardando la TV|Adesso che fa freddo si fa meno movimento, e il fisico ne risente. Una cyclette di marca risolve!|2016/01/restiamo-in-forma-guardando-la-tv.html?t=salute,obesita,dimagrire,offerte,shopping,bicicletta,cyclette,sport,tempo-libero,diadora&amp;d=19|AZ_71NqT4lhiVL",
-];

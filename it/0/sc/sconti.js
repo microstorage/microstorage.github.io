@@ -1,7 +1,0 @@
-Gr = [
-"Centinaia di offerte scontate per il quinto anniversario di Amazon Italia|Approfitta di centinaia di promozioni a tempo limitato!|2015/11/centinaia-di-offerte-scontate-per-il-quinto-anniversario-di-amazon-italia.html?t=offerte,promozioni,shopping,sconti&amp;d=21|marilyn-monroe-diamonds",
-"Moda: 15 euro da spendere entro il 4 ottobre!|Un buono sconto spendibile sulla nuova collezione di abbigliamento per vestiti, scarpe, borse, orologi ...|2015/09/moda-15-euro-da-spendere-entro-il-4-ottobre.html?t=sconti,offerte,promozioni,coupon,codice-sconto,buono-sconto,moda,vestito,abito,giacca&amp;d=18|shop-handbag",
-"Tutti i saldi estivi 2015 regione per regione|Una buona occasione per fare affari risparmiando|2015/06/tutti-i-saldi-estivi-2015-regione-per-regione.html?t=sconti,offerte,promozioni,saldi,foto-divertenti&amp;d=26|sale-funny",
-"Per la Festa della Mamma 2015 prodotti scontati fino al 70%!|Amazon ha allestito una apposita sezione di super offerte scontate esclusive!|2015/05/per-la-festa-della-mamma-2015-prodotti-scontati-fino-al-70.html?t=sconti,offerte,promozioni,festa-della-mamma,foto-divertenti&amp;d=3|mother-clothing-tag",
-"San Valentino - Codice sconto Amazon del 15%|Ancora fino a domani puoi risparmiare utilizzando un codice sconto Amazon del 15% su orologi e gioielli|2015/02/san-valentino-codice-sconto-amazon-del-15.html?t=san-valentino,codici-sconto,sconti,offerte,orologi,gioielli,smartphone,foto-divertenti&amp;d=7|love-elephant",
-];

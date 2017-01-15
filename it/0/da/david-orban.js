@@ -1,5 +1,0 @@
-Gr = [
-"Video - Una bella chiacchierata tecnologica|David Orban su algoritmi e intelligenza artificiale|2016/04/video-una-bella-chiacchierata-tecnologica.html?t=intelligenza-artificiale,societa,internet-degli-oggetti,david-orban,scienza,ingegneria,informatica,software,teoria-dei-giochi,gioco-a-somma-zero,algoritmo,internet-delle-cose&amp;d=3|YT__lXfk2KSIH4",
-"Video - Il tuo genoma sequenziato in tempo reale con 1 cent|Sarà possibile tra 5 anni. David Orban ne ha parlato, insieme a molte altre cose, presso Google Italia|2015/10/video-il-tuo-genoma-sequenziato-in-tempo-reale-con-1-cent.html?t=genetica,genoma-umano,genomica,dna,david-orban,singolarita-tecnologica,scienza,ingegneria&amp;d=10|vials",
-"Video - Il futuro della tecnologia, dell'umanità e tutto quanto|David Orban ci accompagna in un interessantissimo viaggio nel futuro che forse è già qui|2015/05/video-il-futuro-della-tecnologia-dell-umanita-e-tutto-quanto.html?t=intelligenza-artificiale,internet-degli-oggetti,genoma-umano,stampa-3d,david-orban,scienza,ingegneria&amp;d=28|william-gibson",
-];
