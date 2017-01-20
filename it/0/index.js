@@ -1,4 +1,5 @@
 Gr = [
+"Zuccotto Giacomo Agostini: una vera icona di berretto|Zuccotto Giacomo Agostini, davvero adatto a ogni occasione|2017/01/zuccotto-giacomo-agostini-una-vera-icona-di-berretto|data.oliviero.it/imgprodotto/zuccotto-giacomo-agostini_93384",
 "Sistema stirante Beper: la stiratura migliore|Sistema Stirante Beper, per stirare da professionisti|2017/01/sistema-stirante-beper-la-stiratura-migliore|data.oliviero.it/imgprodotto/sistema-stirante-50-937_90094",
 "Il migliore monopattino, per grandi e piccoli|Monopattino Scooter Stop'n Go Nero - 70 730 0006|2017/01/il-migliore-monopattino-per-grandi-e-piccoli|data.oliviero.it/imgprodotto/monopattino-scooter-stopn-go-nero-70-730-0006_87762",
 "Casco ciclismo Rush: leggero, sicuro, professionale|Dedicato a chi vuole raggiungere le migliori prestazioni|2017/01/casco-ciclismo-rush-leggero-sicuro-professionale|data.oliviero.it/imgprodotto/casco-ciclismo-rush_146291",
