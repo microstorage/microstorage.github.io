@@ -1,4 +1,5 @@
 Gr = [
+"Sistema stirante Beper: la stiratura migliore|Sistema Stirante Beper, per stirare da professionisti|2017/01/sistema-stirante-beper-la-stiratura-migliore|data.oliviero.it/imgprodotto/sistema-stirante-50-937_90094",
 "Il migliore monopattino, per grandi e piccoli|Monopattino Scooter Stop'n Go Nero - 70 730 0006|2017/01/il-migliore-monopattino-per-grandi-e-piccoli|data.oliviero.it/imgprodotto/monopattino-scooter-stopn-go-nero-70-730-0006_87762",
 "Casco ciclismo Rush: leggero, sicuro, professionale|Dedicato a chi vuole raggiungere le migliori prestazioni|2017/01/casco-ciclismo-rush-leggero-sicuro-professionale|data.oliviero.it/imgprodotto/casco-ciclismo-rush_146291",
 "Scarpe Stan Smith, leggendarie icone di stile|Scarpe Stan Smith - S80502 - da Adidas|2017/01/scarpe-stan-smith-leggendarie-icone-di-stile|data.oliviero.it/imgprodotto/scarpe-stan-smith-s80502_154513",
