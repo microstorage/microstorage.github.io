@@ -1,4 +1,5 @@
 Gr = [
+"Giacca da Sci donna grigio e fucsia|Giacca Sci donna con cappuccio: alla moda anche sulle piste da sci|2017/01/giacca-da-sci-donna-grigio-e-fucsia|data.oliviero.it/imgprodotto/giacca-sci-donna-grigio-e-fucsia-a48h-rpb_157698",
 "Macchina da Caffè Lavazza Magia Bianco|Macchina da Caffè Magia Bianco: il miglior modo di preparare il caffè|2017/01/macchina-da-caffe-lavazza-magia-bianco|data.oliviero.it/imgprodotto/macchina-da-caffe-magia-bianco_155699",
 "Scarpe Casual Geox: versione total black|Il brevetto che ha rivoluzionato per sempre il mondo delle calzature|2017/01/scarpe-casual-geox-versione-total-black|data.oliviero.it/imgprodotto/scarpe-casual-uomo-smart-u64x2h-c9999_152327",
 "L'ellittica ideale per il dimagrimento|Ellittica Skylon 3 richiudibile: stimola tutti i gruppi muscolari|2017/01/l-ellittica-ideale-per-il-dimagrimento|data.oliviero.it/imgprodotto/ellittica-skylon-3-richiudibile_92212",
