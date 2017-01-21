@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Casual Geox: versione total black|Il brevetto che ha rivoluzionato per sempre il mondo delle calzature|2017/01/scarpe-casual-geox-versione-total-black|data.oliviero.it/imgprodotto/scarpe-casual-uomo-smart-u64x2h-c9999_152327",
 "Zuccotto Giacomo Agostini: una vera icona di berretto|Zuccotto Giacomo Agostini, davvero adatto a ogni occasione|2017/01/zuccotto-giacomo-agostini-una-vera-icona-di-berretto|data.oliviero.it/imgprodotto/zuccotto-giacomo-agostini_93384",
 "Scarpe Stan Smith, leggendarie icone di stile|Scarpe Stan Smith - S80502 - da Adidas|2017/01/scarpe-stan-smith-leggendarie-icone-di-stile|data.oliviero.it/imgprodotto/scarpe-stan-smith-s80502_154513",
 "Jeans aderenti con strappi, toppe, pied de poule|Jeans Donna Desigual Denim Dina: la moda giovane|2017/01/jeans-aderenti-con-strappi-toppe-pied-de-poule|data.oliviero.it/imgprodotto/jeans-donna-denim-dina-67d26d15008_155343",

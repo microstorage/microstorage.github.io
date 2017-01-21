@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Casual Geox: versione total black|Il brevetto che ha rivoluzionato per sempre il mondo delle calzature|2017/01/scarpe-casual-geox-versione-total-black|data.oliviero.it/imgprodotto/scarpe-casual-uomo-smart-u64x2h-c9999_152327",
 "L'ellittica ideale per il dimagrimento|Ellittica Skylon 3 richiudibile: stimola tutti i gruppi muscolari|2017/01/l-ellittica-ideale-per-il-dimagrimento|data.oliviero.it/imgprodotto/ellittica-skylon-3-richiudibile_92212",
 "Zuccotto Giacomo Agostini: una vera icona di berretto|Zuccotto Giacomo Agostini, davvero adatto a ogni occasione|2017/01/zuccotto-giacomo-agostini-una-vera-icona-di-berretto|data.oliviero.it/imgprodotto/zuccotto-giacomo-agostini_93384",
 "Sistema stirante Beper: la stiratura migliore|Sistema Stirante Beper, per stirare da professionisti|2017/01/sistema-stirante-beper-la-stiratura-migliore|data.oliviero.it/imgprodotto/sistema-stirante-50-937_90094",
