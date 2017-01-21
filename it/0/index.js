@@ -1,4 +1,5 @@
 Gr = [
+"Giacca da Sci uomo tecnica Colmar Stelvio|Giacca Sci Uomo Grigio - 1013 8QT 140 - eleganza, alte performance|2017/01/giacca-da-sci-uomo-tecnica-colmar-stelvio|data.oliviero.it/imgprodotto/giacca-sci-uomo-grigio-1013-8qt-140_155740",
 "Lo sterilizzatore a vapore più pratico|Nuby Sterilizzatore a vapore: semplice da usare e bello da vedere|2017/01/lo-sterilizzatore-a-vapore-piu-pratico|data.oliviero.it/imgprodotto/sterilizzatore-a-vapore_140048",
 "Giacca da Sci donna grigio e fucsia|Giacca Sci donna con cappuccio: alla moda anche sulle piste da sci|2017/01/giacca-da-sci-donna-grigio-e-fucsia|data.oliviero.it/imgprodotto/giacca-sci-donna-grigio-e-fucsia-a48h-rpb_157698",
 "Macchina da Caffè Lavazza Magia Bianco|Macchina da Caffè Magia Bianco: il miglior modo di preparare il caffè|2017/01/macchina-da-caffe-lavazza-magia-bianco|data.oliviero.it/imgprodotto/macchina-da-caffe-magia-bianco_155699",
