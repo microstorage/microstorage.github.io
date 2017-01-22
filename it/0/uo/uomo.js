@@ -1,4 +1,5 @@
 Gr = [
+"Stivali Moto da Uomo Spidi VR 6: il meglio|Stivali Moto VR 6: perfetto mix di prestazioni e di turismo sportivo|2017/01/stivali-moto-da-uomo-spidi-vr-6-il-meglio|data.oliviero.it/imgprodotto/stivali-moto-da-uomo-vr-6-s58-011_83706",
 "Giacca da Sci uomo tecnica Colmar Stelvio|Giacca Sci Uomo Grigio - 1013 8QT 140 - eleganza, alte performance|2017/01/giacca-da-sci-uomo-tecnica-colmar-stelvio|data.oliviero.it/imgprodotto/giacca-sci-uomo-grigio-1013-8qt-140_155740",
 "Scarpe Casual Geox: versione total black|Il brevetto che ha rivoluzionato per sempre il mondo delle calzature|2017/01/scarpe-casual-geox-versione-total-black|data.oliviero.it/imgprodotto/scarpe-casual-uomo-smart-u64x2h-c9999_152327",
 "Zuccotto Giacomo Agostini: una vera icona di berretto|Zuccotto Giacomo Agostini, davvero adatto a ogni occasione|2017/01/zuccotto-giacomo-agostini-una-vera-icona-di-berretto|data.oliviero.it/imgprodotto/zuccotto-giacomo-agostini_93384",
