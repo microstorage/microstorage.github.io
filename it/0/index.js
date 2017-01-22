@@ -1,4 +1,5 @@
 Gr = [
+"Uno zaino rosa per muoverti con stile|Zaino Eastpak One Hint Pink: tutto ciò di cui hai bisogno per viaggiare|2017/01/uno-zaino-rosa-per-muoverti-con-stile|data.oliviero.it/imgprodotto/zaino-eastpak-one-hint-pink-ek62022m_150829",
 "Materasso Matrimoniale ortopedico, anche su misura|Materasso 160x190 Matrimoniale Splendid ortopedico: il meglio|2017/01/materasso-matrimoniale-ortopedico-anche-su-misura|data.oliviero.it/imgprodotto/materasso-160x190-matrimoniale-splendid-ortopedico_93511",
 "Stivali Moto da Uomo Spidi VR 6: il meglio|Stivali Moto VR 6: perfetto mix di prestazioni e di turismo sportivo|2017/01/stivali-moto-da-uomo-spidi-vr-6-il-meglio|data.oliviero.it/imgprodotto/stivali-moto-da-uomo-vr-6-s58-011_83706",
 "Giacca da Sci uomo tecnica Colmar Stelvio|Giacca Sci Uomo Grigio - 1013 8QT 140 - eleganza, alte performance|2017/01/giacca-da-sci-uomo-tecnica-colmar-stelvio|data.oliviero.it/imgprodotto/giacca-sci-uomo-grigio-1013-8qt-140_155740",
