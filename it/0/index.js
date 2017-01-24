@@ -1,4 +1,5 @@
 Gr = [
+"Il Materassino con la Pompa Incorporata|Materassino Floccato con Pompa Incorporata: facile e comodo da gonfiare|2017/01/il-materassino-con-la-pompa-incorporata|data.oliviero.it/imgprodotto/materassino-floccato-con-pompa-incorporata_86164",
 "Scarpe Converse donna: sportiva e casual con stile|Scarpe CT As Hi - 153178 - La scarpa old school più celebre al mondo|2017/01/scarpe-converse-donna-sportiva-e-casual-con-stile|data.oliviero.it/imgprodotto/scarpe-ct-as-hi-153178_152087",
 "La poltrona per ufficio dal prezzo imbattibile|Poltrona Torino Sky Nero: alzata a gas, braccioli e base con 5 razze|2017/01/la-poltrona-per-ufficio-dal-prezzo-imbattibile|data.oliviero.it/imgprodotto/poltrona-torino-sky-nero_130769",
 "La fitness band automatica, la più pratica|Vivosmart HR: rileva automaticamente il tipo di attività e movimento|2017/01/la-fitness-band-automatica-la-piu-pratica|data.oliviero.it/imgprodotto/vivosmart-hr-010-01955-00_157684",
