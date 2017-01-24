@@ -1,4 +1,5 @@
 Gr = [
+"La fitness band automatica, la più pratica|Vivosmart HR: rileva automaticamente il tipo di attività e movimento|2017/01/la-fitness-band-automatica-la-piu-pratica|data.oliviero.it/imgprodotto/vivosmart-hr-010-01955-00_157684",
 "Nike Free RN: le Scarpe da Running al top|Ancora più ammortizzate delle Nike Free RN Motion Flyknit|2017/01/nike-free-rn-le-scarpe-da-running-al-top|data.oliviero.it/imgprodotto/scarpe-running-free-rn-831508-004_151271",
 "Uno zaino rosa per muoverti con stile|Zaino Eastpak One Hint Pink: tutto ciò di cui hai bisogno per viaggiare|2017/01/uno-zaino-rosa-per-muoverti-con-stile|data.oliviero.it/imgprodotto/zaino-eastpak-one-hint-pink-ek62022m_150829",
 "Materasso Matrimoniale ortopedico, anche su misura|Materasso 160x190 Matrimoniale Splendid ortopedico: il meglio|2017/01/materasso-matrimoniale-ortopedico-anche-su-misura|data.oliviero.it/imgprodotto/materasso-160x190-matrimoniale-splendid-ortopedico_93511",
