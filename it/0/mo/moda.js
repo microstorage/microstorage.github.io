@@ -1,4 +1,5 @@
 Gr = [
+"Le 10 Giacche da Sci da Donna più belle: gennaio 2017|Le 10 Giacche da Sci da Donna più amate: la classifica aggiornata|2017/01/le-10-giacche-da-sci-da-donna-piu-belle-gennaio-2017|data.oliviero.it/imgprodotto/giacca-sci-donna-hot-pink-3w01266-b375_156218",
 "Le 10 Giacche da Sci da Uomo migliori: gennaio 2017|Le 10 Giacche da Sci da Uomo più apprezzate: la classifica|2017/01/le-10-giacche-da-sci-da-uomo-migliori-gennaio-2017|data.oliviero.it/imgprodotto/giacca-sci-uomo-bianco-1305-2pq-01_155763",
 "Scarpe Converse donna: sportiva e casual con stile|Scarpe CT As Hi - 153178 - La scarpa old school più celebre al mondo|2017/01/scarpe-converse-donna-sportiva-e-casual-con-stile|data.oliviero.it/imgprodotto/scarpe-ct-as-hi-153178_152087",
 "Nike Free RN: le Scarpe da Running al top|Ancora più ammortizzate delle Nike Free RN Motion Flyknit|2017/01/nike-free-rn-le-scarpe-da-running-al-top|data.oliviero.it/imgprodotto/scarpe-running-free-rn-831508-004_151271",
