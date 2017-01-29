@@ -1,4 +1,5 @@
 Gr = [
+"10 Pantaloni Sportivi da Uomo consigliati: gennaio 2017|I 10 Pantaloni Sportivi da Uomo più interessanti per l'acquisto|2017/01/10-pantaloni-sportivi-da-uomo-consigliati-gennaio-2017|data.oliviero.it/imgprodotto/pantaloni-sportivi-taglie-forti-roma_153547",
 "I 10 Pantaloni Sportivi da Donna più alla moda: gennaio 2017|I 10 Pantaloni Sportivi da Donna che vanno per la maggiore|2017/01/i-10-pantaloni-sportivi-da-donna-piu-alla-moda-gennaio-2017|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-track-pants-flared-ay8115_151652",
 "I 7 migliori Cardigan da Uomo: gennaio 2017|I 7 Cardigan da Uomo che piacciono di più a gennaio del 2017|2017/01/i-7-migliori-cardigan-da-uomo-gennaio-2017|data.oliviero.it/imgprodotto/cardigan-uomo-d3348_92567",
 "I 10 Cardigan da Donna più belli: gennaio 2017|I 10 Cardigan da Donna più alla moda: la classifica aggiornata|2017/01/i-10-cardigan-da-donna-piu-belli-gennaio-2017|data.oliviero.it/imgprodotto/cardigan-donna-p3s4eb-00434_146437",

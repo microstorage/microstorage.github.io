@@ -1,4 +1,5 @@
 Gr = [
+"10 Pantaloni Sportivi da Uomo consigliati: gennaio 2017|I 10 Pantaloni Sportivi da Uomo più interessanti per l'acquisto|2017/01/10-pantaloni-sportivi-da-uomo-consigliati-gennaio-2017|data.oliviero.it/imgprodotto/pantaloni-sportivi-taglie-forti-roma_153547",
 "I 10 Pantaloni Sportivi da Donna più alla moda: gennaio 2017|I 10 Pantaloni Sportivi da Donna che vanno per la maggiore|2017/01/i-10-pantaloni-sportivi-da-donna-piu-alla-moda-gennaio-2017|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-track-pants-flared-ay8115_151652",
 "Le 10 Scarpiere migliori: gennaio 2017|Le 10 Scarpiere più vendute, disponibili da subito: gennaio 2017|2017/01/le-10-scarpiere-migliori-gennaio-2017|data.oliviero.it/imgprodotto/scarpiera-5-a-sandy-white_149473",
 "I 10 Spremiagrumi migliori a gennaio 2017|La top 10 dei migliori Spremiagrumi subito disponibili: gennaio 2017|2017/01/i-10-spremiagrumi-migliori-a-gennaio-2017|data.oliviero.it/imgprodotto/spremiagrumi-39-cm-nero_156267",
