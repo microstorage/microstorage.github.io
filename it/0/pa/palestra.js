@@ -1,4 +1,5 @@
 Gr = [
+"I 10 Elettrostimolatori consigliati: gennaio 2017|La top 10 dei migliori Elettrostimolatori disponibili ora per l'acquisto|2017/01/i-10-elettrostimolatori-consigliati-gennaio-2017|data.oliviero.it/imgprodotto/elettrostimolatore-lipozero-excel_71106",
 "I 10 Tapis Roulant migliori: gennaio 2017|I 10 Tapis Roulant al top, disponibili ora per l'acquisto: gennaio 2017|2017/01/i-10-tapis-roulant-migliori-gennaio-2017|data.oliviero.it/imgprodotto/tapis-roulant-home-run-1-0-camminatore_89515",
 "L'ellittica ideale per il dimagrimento|Ellittica Skylon 3 richiudibile: stimola tutti i gruppi muscolari|2017/01/l-ellittica-ideale-per-il-dimagrimento|data.oliviero.it/imgprodotto/ellittica-skylon-3-richiudibile_92212",
 "Uno dei migliori Tapis Roulant in commercio|Movi Fitness Tapis Roulant MF199, ideale per tenersi in forma!|2017/01/uno-dei-migliori-tapis-roulant-in-commercio|data.oliviero.it/imgprodotto/tapis-roulant-mf199_148540",
