@@ -1,4 +1,5 @@
 Gr = [
+"Le 10 T-Shirt da Donna più comprate: febbraio 2017|La classifica aggiornata dele 10 T-Shirt da Donna più comprate|2017/02/le-10-t-shirt-da-donna-piu-comprate-febbraio-2017|data.oliviero.it/imgprodotto/t-shirt-donna-x20129_50282_big",
 "I 7 Asciugacapelli al top: gennaio 2017|La top 7 dei migliori Asciugacapelli subito disponibili: gennaio 2017|2017/01/i-7-asciugacapelli-al-top-gennaio-2017|data.oliviero.it/imgprodotto/asciugacapelli-40-979_100302",
 "4 Pigiama da Donna per sonni tranquilli: gennaio 2017|4 tra i migliori Pigiama da Donna sul mercato a gennaio 2017|2017/01/4-pigiama-da-donna-per-sonni-tranquilli-gennaio-2017|data.oliviero.it/imgprodotto/pigiama-da-notte-ombra-lh102357-0106_158815",
 "I 4 Pantaloni Sci da Donna consigliati: gennaio 2017|I 4 Pantaloni Sci da Donna più consigliati oggi sul mercato|2017/01/i-4-pantaloni-sci-da-donna-consigliati-gennaio-2017|data.oliviero.it/imgprodotto/pantaloni-sci-donna-bianco-0269g-4ko-01_155736",
