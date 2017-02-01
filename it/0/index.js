@@ -1,4 +1,5 @@
 Gr = [
+"Tute Sportive da Uomo: le 10 migliori a febbraio 2017|La top 10 delle migliori Tute Sportive da Uomo sul mercato|2017/02/tute-sportive-da-uomo-le-10-migliori-a-febbraio-2017|data.oliviero.it/imgprodotto/tuta-sportiva-uomo-nero-e-bianco-832844-101_158090",
 "I 7 Asciugacapelli al top: gennaio 2017|La top 7 dei migliori Asciugacapelli subito disponibili: gennaio 2017|2017/01/i-7-asciugacapelli-al-top-gennaio-2017|data.oliviero.it/imgprodotto/asciugacapelli-40-979_100302",
 "Gelatiere: le 3 migliori a gennaio 2017|La top 3 delle migliori Gelatiere: gennaio 2017|2017/01/gelatiere-le-3-migliori-a-gennaio-2017|data.oliviero.it/imgprodotto/gelatiera_155838",
 "4 Pigiama da Donna per sonni tranquilli: gennaio 2017|4 tra i migliori Pigiama da Donna sul mercato a gennaio 2017|2017/01/4-pigiama-da-donna-per-sonni-tranquilli-gennaio-2017|data.oliviero.it/imgprodotto/pigiama-da-notte-ombra-lh102357-0106_158815",
