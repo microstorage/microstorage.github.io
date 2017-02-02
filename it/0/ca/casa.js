@@ -1,4 +1,5 @@
 Gr = [
+"Le 8 Sedie da Ufficio più apprezzate: febbraio 2017|Le 8 Sedie da Ufficio più ergonomiche, subito disponibili: febbraio 2017|2017/02/le-8-sedie-da-ufficio-piu-apprezzate-febbraio-2017|data.oliviero.it/imgprodotto/sedia-da-ufficiogalaxy-black_78285",
 "Le 10 Lampade da Terra più interessanti: gennaio 2017|Le 10 Lampade da Terra più originali ed interessanti da avere|2017/01/le-10-lampade-da-terra-piu-interessanti-gennaio-2017|data.oliviero.it/imgprodotto/lampada-da-terralampadina_78058",
 "La top 5 dei migliori Tritatutto: gennaio 2017|La top 5 dei Tritatutto migliori, subito disponibili: gennaio 2017|2017/01/la-top-5-dei-migliori-tritatutto-gennaio-2017|data.oliviero.it/imgprodotto/tritatutto-tr20_155555",
 "2 Pentole a Pressione di nuova generazione: gennaio 2017|Le 2 Pentole a Pressione migliori in assoluto, valutate a gennaio 2017|2017/01/2-pentole-a-pressione-di-nuova-generazione-gennaio-2017|data.oliviero.it/imgprodotto/pentola-6l-clipsÃ²_139748",
