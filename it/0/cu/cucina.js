@@ -1,4 +1,5 @@
 Gr = [
+"I 7 Coppapasta più venduti: febbraio 2017|I 7 Coppapasta della tradizione Italiana: febbraio 2017|2017/02/i-7-coppapasta-piu-venduti-febbraio-2017|data.oliviero.it/imgprodotto/coppapasta-linea-chef_90705",
 "Forni a Microonde: i 3 migliori a febbraio 2017|La top 3 dei migliori Forni a Microonde, subito disponibili!|2017/02/forni-a-microonde-i-3-migliori-a-febbraio-2017|data.oliviero.it/imgprodotto/microonde-sinbo-smo-3637_155917",
 "Le 2 Macchine per Waffle che consigliamo: febbraio 2017|Le due migliori Macchine per Waffle, valutate a febbraio 2017|2017/02/le-2-macchine-per-waffle-che-consigliamo-febbraio-2017|data.oliviero.it/imgprodotto/macchina-waffle_155639",
 "La top 10 delle Moka: febbraio 2017|Le 10 Moka che incontrano il maggiore gradimento, disponibili da subito|2017/02/la-top-10-delle-moka-febbraio-2017|data.oliviero.it/imgprodotto/moka-dama-elite-6_155906",
