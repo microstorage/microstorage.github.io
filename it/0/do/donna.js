@@ -1,4 +1,5 @@
 Gr = [
+"I 10 Slip da Donna più amati: febbraio 2017|I 10 Slip da Donna più venduti: la guida all'acquisto|2017/02/i-10-slip-da-donna-piu-amati-febbraio-2017|data.oliviero.it/imgprodotto/2-slip-sensation-tai_21008_big",
 "I 6 Abiti Ragazza scelti a febbraio 2017|La top 6 dei migliori Abiti Ragazza scelti per voi a febbraio 2017|2017/02/i-6-abiti-ragazza-scelti-a-febbraio-2017|data.oliviero.it/imgprodotto/abito-jr-nero-tf15750_154636",
 "10 Abiti Donna selezionati: febbraio 2017|I 10 Abiti Donna più interessanti per l'acquisto a febbraio 2017|2017/02/10-abiti-donna-selezionati-febbraio-2017|data.oliviero.it/imgprodotto/abito-donna-spaghetti_88036",
 "Le 10 T-Shirt da Donna più comprate: febbraio 2017|La classifica aggiornata dele 10 T-Shirt da Donna più comprate|2017/02/le-10-t-shirt-da-donna-piu-comprate-febbraio-2017|data.oliviero.it/imgprodotto/t-shirt-donna-x20129_50282_big",
