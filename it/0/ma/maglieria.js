@@ -1,4 +1,5 @@
 Gr = [
+"Le 10 Maglie da Donna scelte di febbraio 2017|Le 10 Maglie da Donna che piacciono di più: la guida all'acquisto|2017/02/le-10-maglie-da-donna-scelte-di-febbraio-2017|data.oliviero.it/imgprodotto/maglia-donna-c109sd_57742",
 "I 7 migliori Cardigan da Uomo: gennaio 2017|I 7 Cardigan da Uomo che piacciono di più a gennaio del 2017|2017/01/i-7-migliori-cardigan-da-uomo-gennaio-2017|data.oliviero.it/imgprodotto/cardigan-uomo-d3348_92567",
 "I 10 Cardigan da Donna più belli: gennaio 2017|I 10 Cardigan da Donna più alla moda: la classifica aggiornata|2017/01/i-10-cardigan-da-donna-piu-belli-gennaio-2017|data.oliviero.it/imgprodotto/cardigan-donna-p3s4eb-00434_146437",
 ];
