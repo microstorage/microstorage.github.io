@@ -1,4 +1,5 @@
 Gr = [
+"Minigonne: le 5 scelte di febbraio 2017|La top 5 delle migliori Minigonne scelte per voi a febbraio 2017|2017/02/minigonne-le-5-scelte-di-febbraio-2017|data.oliviero.it/imgprodotto/minigonna-s2s4th-00445_146759",
 "I 5 Microscopi che vanno per la maggiore: febbraio 2017|I 5 Microscopi più apprezzati: la classifica aggiornata a febbraio 2017|2017/02/i-5-microscopi-che-vanno-per-la-maggiore-febbraio-2017|data.oliviero.it/imgprodotto/set-microscopio-e-telescopio-astronomico-70820_156846",
 "Mensole: le 10 migliori in commercio a febbraio 2017|Le 10 Mensole più belle subito disponibili per l'acquisto|2017/02/mensole-le-10-migliori-in-commercio-a-febbraio-2017|data.oliviero.it/imgprodotto/mensola-oyo-bianco-m-kt-01-11168-3_156832",
 "I 10 Materassi Singoli più amati: febbraio 2017|I 10 Materassi Singoli migliori: la classifica di febbraio 2017|2017/02/i-10-materassi-singoli-piu-amati-febbraio-2017|data.oliviero.it/imgprodotto/materasso-80x190-singolo-extra_93515",
