@@ -1,4 +1,5 @@
 Gr = [
+"I 10 Tavoli da Ping Pong più venduti: febbraio 2017|La top 10 dei migliori Tavoli da Ping Pong, subito disponibili|2017/02/i-10-tavoli-da-ping-pong-piu-venduti-febbraio-2017|data.oliviero.it/imgprodotto/tavolo-ping-pong-sport-400m-outdoor_149432",
 "8 dei migliori Tavoli Allungabili: febbraio 2017|Gli 8 Tavoli Allungabili migliori: la classifica di febbraio 2017|2017/02/8-dei-migliori-tavoli-allungabili-febbraio-2017|data.oliviero.it/imgprodotto/tavolo-allungabile-wide-wood_137975",
 "Tavolini Richiudibili: i 4 scelti a febbraio 2017|4 Tavolini Richiudibili di classe, disponibili da subito|2017/02/tavolini-richiudibili-i-4-scelti-a-febbraio-2017|data.oliviero.it/imgprodotto/tavolino-richiudibile-om-076-b_94178",
 "10 dei migliori Tavolini da Salotto: febbraio 2017|I 10 Tavolini da Salotto più apprezzati, disponibili ora per l'acquisto|2017/02/10-dei-migliori-tavolini-da-salotto-febbraio-2017|data.oliviero.it/imgprodotto/tavolino-da-salotto-om-132-l_94186",
