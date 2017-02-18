@@ -1,4 +1,5 @@
 Gr = [
+"Le 6 Tende Canadese più amate: febbraio 2017|Le 6 Tende Canadese più desiderate che puoi trovare: febbraio 2017|2017/02/le-6-tende-canadese-piu-amate-febbraio-2017|data.oliviero.it/imgprodotto/tenda-canadese-oasi-junior_143973",
 "Moon Boot: i 4 migliori in commercio a febbraio 2017|I 4 migliori Moon Boot, subito disponibili: febbraio 2017|2017/02/moon-boot-i-4-migliori-in-commercio-a-febbraio-2017|data.oliviero.it/imgprodotto/moon-boot-lem-14200100-001_156526",
 "Monocoli: i 5 migliori a febbraio 2017|I 5 Monocoli più utilizzati: febbraio 2017|2017/02/monocoli-i-5-migliori-a-febbraio-2017|data.oliviero.it/imgprodotto/monocolo-spotting-20-60x60_83807",
 "2 Pantaloni Sci Uomo da avere: gennaio 2017|I 2 Pantaloni Sci da Uomo che amerai dopo una giornata sulle piste|2017/01/2-pantaloni-sci-uomo-da-avere-gennaio-2017|data.oliviero.it/imgprodotto/pantaloni-sci-uomo-nero-0166g-4ko-99_155710",
