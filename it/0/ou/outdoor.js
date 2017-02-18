@@ -1,4 +1,5 @@
 Gr = [
+"Le 10 migliori Tende da Campeggio: febbraio 2017|La top 10 delle migliori Tende da Campeggio, disponibili da subito|2017/02/le-10-migliori-tende-da-campeggio-febbraio-2017|data.oliviero.it/imgprodotto/tenda-da-campeggio-pop-up_149685",
 "Monocoli: i 5 migliori a febbraio 2017|I 5 Monocoli più utilizzati: febbraio 2017|2017/02/monocoli-i-5-migliori-a-febbraio-2017|data.oliviero.it/imgprodotto/monocolo-spotting-20-60x60_83807",
 "Amache: le 4 migliori a febbraio 2017|Le 4 Amache più rilassanti: prepariamo il giardino e la terrazza per tempo|2017/02/amache-le-4-migliori-a-febbraio-2017|data.oliviero.it/imgprodotto/amaca-chico-raimbow-s_158719",
 "I 10 Caschi da Sci più quotati: gennaio 2017|La classifica di gennaio 2017 dei 10 Caschi da Sci più amati|2017/01/i-10-caschi-da-sci-piu-quotati-gennaio-2017|data.oliviero.it/imgprodotto/casco-sci-p1us-s5661532007_154605",
