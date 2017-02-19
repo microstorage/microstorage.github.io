@@ -1,4 +1,5 @@
 Gr = [
+"I 3 Termoventilatori scelti a febbraio 2017|3 dei Termoventilatori più apprezzati, subito disponibili|2017/02/i-3-termoventilatori-scelti-a-febbraio-2017|data.oliviero.it/imgprodotto/termoventilatore-ceramico-zumba-ri-087_89985",
 "6 Tendine in Ciniglia per tutti gli usi: febbraio 2017|6 Tendine in Ciniglia di varie lunghezze, per ogni esigenza|2017/02/6-tendine-in-ciniglia-per-tutti-gli-usi-febbraio-2017|data.oliviero.it/imgprodotto/tendina-in-ciniglia-100x210-cm_55405",
 "8 dei migliori Tavoli Allungabili: febbraio 2017|Gli 8 Tavoli Allungabili migliori: la classifica di febbraio 2017|2017/02/8-dei-migliori-tavoli-allungabili-febbraio-2017|data.oliviero.it/imgprodotto/tavolo-allungabile-wide-wood_137975",
 "Tavolini Richiudibili: i 4 scelti a febbraio 2017|4 Tavolini Richiudibili di classe, disponibili da subito|2017/02/tavolini-richiudibili-i-4-scelti-a-febbraio-2017|data.oliviero.it/imgprodotto/tavolino-richiudibile-om-076-b_94178",

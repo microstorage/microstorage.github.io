@@ -1,4 +1,5 @@
 Gr = [
+"I 3 Termoventilatori scelti a febbraio 2017|3 dei Termoventilatori più apprezzati, subito disponibili|2017/02/i-3-termoventilatori-scelti-a-febbraio-2017|data.oliviero.it/imgprodotto/termoventilatore-ceramico-zumba-ri-087_89985",
 "10 Termometri per ogni uso: febbraio 2017|I 10 Termometri migliori per mutipli usi, subito disponibili|2017/02/10-termometri-per-ogni-uso-febbraio-2017|data.oliviero.it/imgprodotto/termometro-cuoco-linea-gradius_90687",
 "6 Tendine in Ciniglia per tutti gli usi: febbraio 2017|6 Tendine in Ciniglia di varie lunghezze, per ogni esigenza|2017/02/6-tendine-in-ciniglia-per-tutti-gli-usi-febbraio-2017|data.oliviero.it/imgprodotto/tendina-in-ciniglia-100x210-cm_55405",
 "Le 10 migliori Tende Igloo: febbraio 2017|Le 10 Tende Igloo più interessanti per l'acquisto, subito disponibili|2017/02/le-10-migliori-tende-igloo-febbraio-2017|data.oliviero.it/imgprodotto/tenda-igloo-alp-4_87333",

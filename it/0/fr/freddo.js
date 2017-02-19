@@ -1,4 +1,5 @@
 Gr = [
+"I 3 Termoventilatori scelti a febbraio 2017|3 dei Termoventilatori più apprezzati, subito disponibili|2017/02/i-3-termoventilatori-scelti-a-febbraio-2017|data.oliviero.it/imgprodotto/termoventilatore-ceramico-zumba-ri-087_89985",
 "Moon Boot: i 4 migliori in commercio a febbraio 2017|I 4 migliori Moon Boot, subito disponibili: febbraio 2017|2017/02/moon-boot-i-4-migliori-in-commercio-a-febbraio-2017|data.oliviero.it/imgprodotto/moon-boot-lem-14200100-001_156526",
 "Caminetti: i 10 migliori a febbraio 2017|I 10 Caminetti che vanno per la maggiore: la classifica|2017/02/caminetti-i-10-migliori-a-febbraio-2017|data.oliviero.it/imgprodotto/caminetto-a-bioetanolo-neos_78082",
 "2 Pantaloni Sci Uomo da avere: gennaio 2017|I 2 Pantaloni Sci da Uomo che amerai dopo una giornata sulle piste|2017/01/2-pantaloni-sci-uomo-da-avere-gennaio-2017|data.oliviero.it/imgprodotto/pantaloni-sci-uomo-nero-0166g-4ko-99_155710",
