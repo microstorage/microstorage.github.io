@@ -1,4 +1,5 @@
 Gr = [
+"Le 3 Tostiere scelte a febbraio 2017|Le tre Tostiere più quotate in commercio: febbraio 2017|2017/02/le-3-tostiere-scelte-a-febbraio-2017|data.oliviero.it/imgprodotto/tostiera-ts35_155578",
 "Le 7 Torce Elettriche più utili: febbraio 2017|Le 7 Torce Elettriche più comprate, disponibili ora per l'acquisto|2017/02/le-7-torce-elettriche-piu-utili-febbraio-2017|data.oliviero.it/imgprodotto/torcia-ricaricabile-konuslight-rc2_93075",
 "I 7 Tiralatte migliori: febbraio 2017|I 7 migliori Tiralatte in commercio a febbraio 2017|2017/02/i-7-tiralatte-migliori-febbraio-2017|data.oliviero.it/imgprodotto/tiralatte-elettrico-002328_136231",
 "I 3 Termoventilatori scelti a febbraio 2017|3 dei Termoventilatori più apprezzati, subito disponibili|2017/02/i-3-termoventilatori-scelti-a-febbraio-2017|data.oliviero.it/imgprodotto/termoventilatore-ceramico-zumba-ri-087_89985",

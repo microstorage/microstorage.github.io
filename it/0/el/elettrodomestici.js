@@ -1,4 +1,5 @@
 Gr = [
+"Le 3 Tostiere scelte a febbraio 2017|Le tre Tostiere più quotate in commercio: febbraio 2017|2017/02/le-3-tostiere-scelte-a-febbraio-2017|data.oliviero.it/imgprodotto/tostiera-ts35_155578",
 "I 5 Mixer più comprati: febbraio 2017|I 5 Mixer più comprati, subito disponibili per l'acquisto: febbraio 2017|2017/02/i-5-mixer-piu-comprati-febbraio-2017|data.oliviero.it/imgprodotto/mixer-sminuzza-cibo_156181",
 "Le due Macchine Del Pane di febbraio 2017|Le due Macchine Del Pane dalle caratteristiche migliori sul mercato|2017/02/le-due-macchine-del-pane-di-febbraio-2017|data.oliviero.it/imgprodotto/macchina-per-il-pane-90-493-a_89024",
 "Le 7 Macchine per la Pasta più quotate: febbraio 2017|La top 7 delle migliori Macchine per la Pasta vendute a febbraio 2017|2017/02/le-7-macchine-per-la-pasta-piu-quotate-febbraio-2017|data.oliviero.it/imgprodotto/macchina-pasta-regina_156434",
