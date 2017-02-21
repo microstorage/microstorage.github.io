@@ -1,4 +1,5 @@
 Gr = [
+"Le 10 migliori Trapunte: febbraio 2017|La top 10 delle migliori Trapunte in commercio a febbraio 2017|2017/02/le-10-migliori-trapunte-febbraio-2017|data.oliviero.it/imgprodotto/trapunta-frozen-magia_153921",
 "Le 3 Tostiere scelte a febbraio 2017|Le tre Tostiere più quotate in commercio: febbraio 2017|2017/02/le-3-tostiere-scelte-a-febbraio-2017|data.oliviero.it/imgprodotto/tostiera-ts35_155578",
 "I 3 Termoventilatori scelti a febbraio 2017|3 dei Termoventilatori più apprezzati, subito disponibili|2017/02/i-3-termoventilatori-scelti-a-febbraio-2017|data.oliviero.it/imgprodotto/termoventilatore-ceramico-zumba-ri-087_89985",
 "6 Tendine in Ciniglia per tutti gli usi: febbraio 2017|6 Tendine in Ciniglia di varie lunghezze, per ogni esigenza|2017/02/6-tendine-in-ciniglia-per-tutti-gli-usi-febbraio-2017|data.oliviero.it/imgprodotto/tendina-in-ciniglia-100x210-cm_55405",

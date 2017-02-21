@@ -1,4 +1,5 @@
 Gr = [
+"Le 10 migliori Trapunte: febbraio 2017|La top 10 delle migliori Trapunte in commercio a febbraio 2017|2017/02/le-10-migliori-trapunte-febbraio-2017|data.oliviero.it/imgprodotto/trapunta-frozen-magia_153921",
 "6 Tendine in Ciniglia per tutti gli usi: febbraio 2017|6 Tendine in Ciniglia di varie lunghezze, per ogni esigenza|2017/02/6-tendine-in-ciniglia-per-tutti-gli-usi-febbraio-2017|data.oliviero.it/imgprodotto/tendina-in-ciniglia-100x210-cm_55405",
 "8 dei migliori Tavoli Allungabili: febbraio 2017|Gli 8 Tavoli Allungabili migliori: la classifica di febbraio 2017|2017/02/8-dei-migliori-tavoli-allungabili-febbraio-2017|data.oliviero.it/imgprodotto/tavolo-allungabile-wide-wood_137975",
 "Tavolini Richiudibili: i 4 scelti a febbraio 2017|4 Tavolini Richiudibili di classe, disponibili da subito|2017/02/tavolini-richiudibili-i-4-scelti-a-febbraio-2017|data.oliviero.it/imgprodotto/tavolino-richiudibile-om-076-b_94178",

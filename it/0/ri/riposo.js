@@ -1,4 +1,5 @@
 Gr = [
+"Le 10 migliori Trapunte: febbraio 2017|La top 10 delle migliori Trapunte in commercio a febbraio 2017|2017/02/le-10-migliori-trapunte-febbraio-2017|data.oliviero.it/imgprodotto/trapunta-frozen-magia_153921",
 "3 Tappetini Insonorizzanti utilissimi: febbraio 2017|I 3 migliori Tappetini Insonorizzanti, subito disponibili per l'acquisto|2017/02/3-tappetini-insonorizzanti-utilissimi-febbraio-2017|data.oliviero.it/imgprodotto/tappetino-insonorizzante-140x100_75807",
 "I 10 Materassi Singoli più amati: febbraio 2017|I 10 Materassi Singoli migliori: la classifica di febbraio 2017|2017/02/i-10-materassi-singoli-piu-amati-febbraio-2017|data.oliviero.it/imgprodotto/materasso-80x190-singolo-extra_93515",
 "I 9 migliori Materassi Matrimoniali: febbraio 2017|La top 9 dei migliori Materassi Matrimoniali, disponibili ora per l'acquisto|2017/02/i-9-migliori-materassi-matrimoniali-febbraio-2017|data.oliviero.it/imgprodotto/materasso-160x190-matrimoniale-export_93502",
