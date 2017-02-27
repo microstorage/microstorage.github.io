@@ -1,4 +1,5 @@
 Gr = [
+"7 Paia di Calzini tra i migliori: febbraio 2017|7 Paia di Calzini scelti tra i migliori in commercio a febbraio 2017|2017/02/7-paia-di-calzini-tra-i-migliori-febbraio-2017|data.oliviero.it/imgprodotto/3-paia-calzini-neri-aa2321_159385",
 "Minigonne: le 5 scelte di febbraio 2017|La top 5 delle migliori Minigonne scelte per voi a febbraio 2017|2017/02/minigonne-le-5-scelte-di-febbraio-2017|data.oliviero.it/imgprodotto/minigonna-s2s4th-00445_146759",
 "La top 10 delle migliori Maglie da Uomo: febbraio 2017|Le 10 Maglie da Uomo che vanno per la maggiore: la classifica aggiornata|2017/02/la-top-10-delle-migliori-maglie-da-uomo-febbraio-2017|data.oliviero.it/imgprodotto/maglia-uomo-taglie-forti-nero-4508_152655",
 "Maglie Termiche Uomo: le 10 migliori a febbraio 2017|Maglie Termiche Uomo: le 10 migliori in commercio a febbraio 2017|2017/02/maglie-termiche-uomo-le-10-migliori-a-febbraio-2017|data.oliviero.it/imgprodotto/maglia-termica-uomo-grigio-8326-2oc-36_155817",
