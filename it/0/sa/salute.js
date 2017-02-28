@@ -1,4 +1,5 @@
 Gr = [
+"Le 3 Fasce Cardio selezionate: febbraio 2017|Le 3 Fasce Cardio che più ci piacciono: febbraio 2017|2017/02/le-3-fasce-cardio-selezionate-febbraio-2017|data.oliviero.it/imgprodotto/fascia-cardio-puls-set_8429_big",
 "Le 5 T-Shirt Running Donna scelte a febbraio 2017|La top 5 delle migliori T-Shirt Running Donna disponibili da subito|2017/02/le-5-t-shirt-running-donna-scelte-a-febbraio-2017|data.oliviero.it/imgprodotto/t-shirt-running-donna-response-v-neck-ax6577_151731",
 "I 10 Materassi Singoli più amati: febbraio 2017|I 10 Materassi Singoli migliori: la classifica di febbraio 2017|2017/02/i-10-materassi-singoli-piu-amati-febbraio-2017|data.oliviero.it/imgprodotto/materasso-80x190-singolo-extra_93515",
 "I 9 migliori Materassi Matrimoniali: febbraio 2017|La top 9 dei migliori Materassi Matrimoniali, disponibili ora per l'acquisto|2017/02/i-9-migliori-materassi-matrimoniali-febbraio-2017|data.oliviero.it/imgprodotto/materasso-160x190-matrimoniale-export_93502",

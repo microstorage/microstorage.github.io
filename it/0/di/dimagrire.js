@@ -1,4 +1,5 @@
 Gr = [
+"Le 3 Fasce Cardio selezionate: febbraio 2017|Le 3 Fasce Cardio che più ci piacciono: febbraio 2017|2017/02/le-3-fasce-cardio-selezionate-febbraio-2017|data.oliviero.it/imgprodotto/fascia-cardio-puls-set_8429_big",
 "Le 5 T-Shirt Running Donna scelte a febbraio 2017|La top 5 delle migliori T-Shirt Running Donna disponibili da subito|2017/02/le-5-t-shirt-running-donna-scelte-a-febbraio-2017|data.oliviero.it/imgprodotto/t-shirt-running-donna-response-v-neck-ax6577_151731",
 "Le 6 migliori Panche ad Inversione: febbraio 2017|Le 6 Panche ad Inversione più apprezzate, subito disponibili|2017/02/le-6-migliori-panche-ad-inversione-febbraio-2017|data.oliviero.it/imgprodotto/panca-inversione-jk-6010_88729",
 "I 10 Elettrostimolatori consigliati: gennaio 2017|La top 10 dei migliori Elettrostimolatori disponibili ora per l'acquisto|2017/01/i-10-elettrostimolatori-consigliati-gennaio-2017|data.oliviero.it/imgprodotto/elettrostimolatore-lipozero-excel_71106",
