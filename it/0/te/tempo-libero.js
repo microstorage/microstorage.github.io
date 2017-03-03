@@ -1,4 +1,5 @@
 Gr = [
+"Felpe Ragazzi: le 4 scelte a marzo 2017|Le 4 Felpe Ragazzi scelte per voi a marzo 2017|2017/03/felpe-ragazzi-le-4-scelte-a-marzo-2017|data.oliviero.it/imgprodotto/felpa-jr-verde-militare-tf15767_154642",
 "Le 3 Fasce Cardio selezionate: febbraio 2017|Le 3 Fasce Cardio che più ci piacciono: febbraio 2017|2017/02/le-3-fasce-cardio-selezionate-febbraio-2017|data.oliviero.it/imgprodotto/fascia-cardio-puls-set_8429_big",
 "Le 10 T-Shirt Taglie Forti scelte: febbraio 2017|La top 10 delle migliori T-Shirt Taglie Forti in commercio|2017/02/le-10-t-shirt-taglie-forti-scelte-febbraio-2017|data.oliviero.it/imgprodotto/t-shirt-taglie-forti-uomo-mare-nv31015ad-153_160712",
 "Le 5 T-Shirt Sportive Uomo che più ci piacciono: febbraio 2017|La top 5 delle migliori T-Shirt Sportive Uomo disponibili da subito|2017/02/le-5-t-shirt-sportive-uomo-che-piu-ci-piacciono-febbraio-2017|data.oliviero.it/imgprodotto/t-shirt-sportiva-uomo-squadron-blue-827021-464_158073",
