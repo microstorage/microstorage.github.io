@@ -1,4 +1,5 @@
 Gr = [
+"I 3 Fornelli scelti a marzo 2017|3 dei migliori Fornelli, disponibili da subito: marzo 2017|2017/03/i-3-fornelli-scelti-a-marzo-2017|data.oliviero.it/imgprodotto/fornello-magnum-camping-1-fuoco_55394",
 "I 10 Cardiofrequenzimetri consigliati: marzo 2017|La top 10 dei migliori Cardiofrequenzimetri sul mercato a marzo 2017|2017/03/i-10-cardiofrequenzimetri-consigliati-marzo-2017|data.oliviero.it/imgprodotto/forerunner-10_22640_big",
 "I 4 migliori Set per Fonduta: marzo 2017|I 4 Set per Fonduta più desiderati, disponibili ora per l'acquisto|2017/03/i-4-migliori-set-per-fonduta-marzo-2017|data.oliviero.it/imgprodotto/fonduta-e-bourgignon-90-387_90336",
 "I 2 Ferri da Stiro scelti: marzo 2017|Due dei migliori Ferri da Stiro, disponibili subito per l'acquisto|2017/03/i-2-ferri-da-stiro-scelti-marzo-2017|data.oliviero.it/imgprodotto/ferro-da-stiro-st50_155587",
