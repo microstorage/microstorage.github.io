@@ -1,4 +1,5 @@
 Gr = [
+"I 10 Cardiofrequenzimetri consigliati: marzo 2017|La top 10 dei migliori Cardiofrequenzimetri sul mercato a marzo 2017|2017/03/i-10-cardiofrequenzimetri-consigliati-marzo-2017|data.oliviero.it/imgprodotto/forerunner-10_22640_big",
 "Le 7 Torce Elettriche più utili: febbraio 2017|Le 7 Torce Elettriche più comprate, disponibili ora per l'acquisto|2017/02/le-7-torce-elettriche-piu-utili-febbraio-2017|data.oliviero.it/imgprodotto/torcia-ricaricabile-konuslight-rc2_93075",
 "Le 5 Maglie da Ciclismo che più piacciono: febbraio 2017|Le 5 Maglie da Ciclismo più desiderate, disponibili da subito|2017/02/le-5-maglie-da-ciclismo-che-piu-piacciono-febbraio-2017|data.oliviero.it/imgprodotto/maglia-ciclismo-force-thermal-jersey-1101276-263_155259",
 "La fitness band automatica, la più pratica|Vivosmart HR: rileva automaticamente il tipo di attività e movimento|2017/01/la-fitness-band-automatica-la-piu-pratica|data.oliviero.it/imgprodotto/vivosmart-hr-010-01955-00_157684",

@@ -1,4 +1,5 @@
 Gr = [
+"I 10 Cardiofrequenzimetri consigliati: marzo 2017|La top 10 dei migliori Cardiofrequenzimetri sul mercato a marzo 2017|2017/03/i-10-cardiofrequenzimetri-consigliati-marzo-2017|data.oliviero.it/imgprodotto/forerunner-10_22640_big",
 "Le 10 Felpe Uomo di moda ora: marzo 2017|Le 10 Felpe Uomo più belle: la classifica aggiornata a marzo 2017|2017/03/le-10-felpe-uomo-di-moda-ora-marzo-2017|data.oliviero.it/imgprodotto/felpa-uomo-arancio-essentials-linear-s98773_159283",
 "La top 10 delle Felpe Donna: marzo 2017|Le 10 Felpe Donna più desiderate: la classifica di marzo 2017|2017/03/la-top-10-delle-felpe-donna-marzo-2017|data.oliviero.it/imgprodotto/felpa-donna-marrone-nero-s7wlrs1_160431",
 "Le 5 T-Shirt Running Donna scelte a febbraio 2017|La top 5 delle migliori T-Shirt Running Donna disponibili da subito|2017/02/le-5-t-shirt-running-donna-scelte-a-febbraio-2017|data.oliviero.it/imgprodotto/t-shirt-running-donna-response-v-neck-ax6577_151731",

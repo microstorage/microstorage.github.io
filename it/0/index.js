@@ -1,4 +1,5 @@
 Gr = [
+"I 10 Cardiofrequenzimetri consigliati: marzo 2017|La top 10 dei migliori Cardiofrequenzimetri sul mercato a marzo 2017|2017/03/i-10-cardiofrequenzimetri-consigliati-marzo-2017|data.oliviero.it/imgprodotto/forerunner-10_22640_big",
 "I 4 migliori Set per Fonduta: marzo 2017|I 4 Set per Fonduta più desiderati, disponibili ora per l'acquisto|2017/03/i-4-migliori-set-per-fonduta-marzo-2017|data.oliviero.it/imgprodotto/fonduta-e-bourgignon-90-387_90336",
 "I 2 Ferri da Stiro scelti: marzo 2017|Due dei migliori Ferri da Stiro, disponibili subito per l'acquisto|2017/03/i-2-ferri-da-stiro-scelti-marzo-2017|data.oliviero.it/imgprodotto/ferro-da-stiro-st50_155587",
 "Le 10 Felpe Uomo di moda ora: marzo 2017|Le 10 Felpe Uomo più belle: la classifica aggiornata a marzo 2017|2017/03/le-10-felpe-uomo-di-moda-ora-marzo-2017|data.oliviero.it/imgprodotto/felpa-uomo-arancio-essentials-linear-s98773_159283",
