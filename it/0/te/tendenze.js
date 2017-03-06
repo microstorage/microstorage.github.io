@@ -1,4 +1,5 @@
 Gr = [
+"I 10 Foulard più interessanti a marzo 2017|I 10 Foulard più belli disponibili ora per l'acquisto|2017/03/i-10-foulard-piu-interessanti-a-marzo-2017|data.oliviero.it/imgprodotto/foulard-blu-rettangolare-boho-mix-71w9we65016_160062",
 "Le 10 Felpe Uomo di moda ora: marzo 2017|Le 10 Felpe Uomo più belle: la classifica aggiornata a marzo 2017|2017/03/le-10-felpe-uomo-di-moda-ora-marzo-2017|data.oliviero.it/imgprodotto/felpa-uomo-arancio-essentials-linear-s98773_159283",
 "Felpe Ragazzi: le 4 scelte a marzo 2017|Le 4 Felpe Ragazzi scelte per voi a marzo 2017|2017/03/felpe-ragazzi-le-4-scelte-a-marzo-2017|data.oliviero.it/imgprodotto/felpa-jr-verde-militare-tf15767_154642",
 "La top 10 delle Felpe Donna: marzo 2017|Le 10 Felpe Donna più desiderate: la classifica di marzo 2017|2017/03/la-top-10-delle-felpe-donna-marzo-2017|data.oliviero.it/imgprodotto/felpa-donna-marrone-nero-s7wlrs1_160431",

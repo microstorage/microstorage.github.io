@@ -1,4 +1,5 @@
 Gr = [
+"I 10 Foulard più interessanti a marzo 2017|I 10 Foulard più belli disponibili ora per l'acquisto|2017/03/i-10-foulard-piu-interessanti-a-marzo-2017|data.oliviero.it/imgprodotto/foulard-blu-rettangolare-boho-mix-71w9we65016_160062",
 "I 5 Forni migliori venduti a marzo 2017|I 5 Forni più interessanti da vedere: la classifica di marzo 2017|2017/03/i-5-forni-migliori-venduti-a-marzo-2017|data.oliviero.it/imgprodotto/forno-per-pizza-rosso-90-371_106101",
 "I 3 Fornelli scelti a marzo 2017|3 dei migliori Fornelli, disponibili da subito: marzo 2017|2017/03/i-3-fornelli-scelti-a-marzo-2017|data.oliviero.it/imgprodotto/fornello-magnum-camping-1-fuoco_55394",
 "I 10 Cardiofrequenzimetri consigliati: marzo 2017|La top 10 dei migliori Cardiofrequenzimetri sul mercato a marzo 2017|2017/03/i-10-cardiofrequenzimetri-consigliati-marzo-2017|data.oliviero.it/imgprodotto/forerunner-10_22640_big",
