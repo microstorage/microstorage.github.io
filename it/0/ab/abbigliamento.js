@@ -1,4 +1,5 @@
 Gr = [
+"Le 5 Francesine più belle di marzo 2017|La top 5 delle migliori Francesine sul mercato a marzo 2017|2017/03/le-5-francesine-piu-belle-di-marzo-2017|data.oliviero.it/imgprodotto/scarpe-donna-perlato-bianco-p717001d-505_157809",
 "I 10 Foulard più interessanti a marzo 2017|I 10 Foulard più belli disponibili ora per l'acquisto|2017/03/i-10-foulard-piu-interessanti-a-marzo-2017|data.oliviero.it/imgprodotto/foulard-blu-rettangolare-boho-mix-71w9we65016_160062",
 "I 2 Ferri da Stiro scelti: marzo 2017|Due dei migliori Ferri da Stiro, disponibili subito per l'acquisto|2017/03/i-2-ferri-da-stiro-scelti-marzo-2017|data.oliviero.it/imgprodotto/ferro-da-stiro-st50_155587",
 "Le 10 Felpe Uomo di moda ora: marzo 2017|Le 10 Felpe Uomo più belle: la classifica aggiornata a marzo 2017|2017/03/le-10-felpe-uomo-di-moda-ora-marzo-2017|data.oliviero.it/imgprodotto/felpa-uomo-arancio-essentials-linear-s98773_159283",

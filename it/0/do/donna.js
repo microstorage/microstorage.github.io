@@ -1,4 +1,5 @@
 Gr = [
+"Le 5 Francesine più belle di marzo 2017|La top 5 delle migliori Francesine sul mercato a marzo 2017|2017/03/le-5-francesine-piu-belle-di-marzo-2017|data.oliviero.it/imgprodotto/scarpe-donna-perlato-bianco-p717001d-505_157809",
 "I 10 Foulard più interessanti a marzo 2017|I 10 Foulard più belli disponibili ora per l'acquisto|2017/03/i-10-foulard-piu-interessanti-a-marzo-2017|data.oliviero.it/imgprodotto/foulard-blu-rettangolare-boho-mix-71w9we65016_160062",
 "La top 10 delle Felpe Donna: marzo 2017|Le 10 Felpe Donna più desiderate: la classifica di marzo 2017|2017/03/la-top-10-delle-felpe-donna-marzo-2017|data.oliviero.it/imgprodotto/felpa-donna-marrone-nero-s7wlrs1_160431",
 "Le 5 T-Shirt Running Donna scelte a febbraio 2017|La top 5 delle migliori T-Shirt Running Donna disponibili da subito|2017/02/le-5-t-shirt-running-donna-scelte-a-febbraio-2017|data.oliviero.it/imgprodotto/t-shirt-running-donna-response-v-neck-ax6577_151731",
