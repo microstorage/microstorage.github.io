@@ -1,4 +1,5 @@
 Gr = [
+"I 7 migliori Frullatori a Immersione: marzo 2017|I 7 Frullatori a Immersione più utilizzati, subito disponibili per l'acquisto|2017/03/i-7-migliori-frullatori-a-immersione-marzo-2017|data.oliviero.it/imgprodotto/frullatore-a-immersione-professionale-800-watt-90-325_89137",
 "I 10 Frullatori migliori sul mercato: marzo 2017|I 10 Frullatori che piacciono di più in commercio: marzo 2017|2017/03/i-10-frullatori-migliori-sul-mercato-marzo-2017|data.oliviero.it/imgprodotto/frullatore-400w-verde-90-430v_160676",
 "I 5 Forni migliori venduti a marzo 2017|I 5 Forni più interessanti da vedere: la classifica di marzo 2017|2017/03/i-5-forni-migliori-venduti-a-marzo-2017|data.oliviero.it/imgprodotto/forno-per-pizza-rosso-90-371_106101",
 "I 2 Ferri da Stiro scelti: marzo 2017|Due dei migliori Ferri da Stiro, disponibili subito per l'acquisto|2017/03/i-2-ferri-da-stiro-scelti-marzo-2017|data.oliviero.it/imgprodotto/ferro-da-stiro-st50_155587",
