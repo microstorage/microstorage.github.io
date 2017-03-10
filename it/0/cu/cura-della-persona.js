@@ -1,4 +1,5 @@
 Gr = [
+"Cyclette Recumbent: le 10 migliori a marzo 2017|La top 10 delle migliori Cyclette Recumbent disponibili da subito|2017/03/cyclette-recumbent-le-10-migliori-a-marzo-2017|data.oliviero.it/imgprodotto/recumbent-bk-r-209-pro_144179",
 "Il tris perfetto di Rasoi Elettrici: marzo 2017|La top 3 dei migliori Rasoi Elettrici disponibili da subito: marzo 2017|2017/03/il-tris-perfetto-di-rasoi-elettrici-marzo-2017|data.oliviero.it/imgprodotto/rasoio-4-testine-ricaricabile_141052",
 "Due Tagliacapelli al top: febbraio 2017|Tagliacapelli: due tra i migliori in commercio a febbraio 2017|2017/02/due-tagliacapelli-al-top-febbraio-2017|data.oliviero.it/imgprodotto/tagliacapelli-ricaricabile-set-6-in-1-40-960_141050",
 "I 6 Asciugamani più divertenti: febbraio 2017|I 6 Asciugamani top: la classifica aggiornata a febbraio 2017|2017/02/i-6-asciugamani-piu-divertenti-febbraio-2017|data.oliviero.it/imgprodotto/asciugamano-telo-hands-patch-67wl2a47000_153357",

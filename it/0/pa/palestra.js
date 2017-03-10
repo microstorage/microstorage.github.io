@@ -1,4 +1,5 @@
 Gr = [
+"Cyclette Recumbent: le 10 migliori a marzo 2017|La top 10 delle migliori Cyclette Recumbent disponibili da subito|2017/03/cyclette-recumbent-le-10-migliori-a-marzo-2017|data.oliviero.it/imgprodotto/recumbent-bk-r-209-pro_144179",
 "I 10 Cardiofrequenzimetri consigliati: marzo 2017|La top 10 dei migliori Cardiofrequenzimetri sul mercato a marzo 2017|2017/03/i-10-cardiofrequenzimetri-consigliati-marzo-2017|data.oliviero.it/imgprodotto/forerunner-10_22640_big",
 "Le 10 Felpe Taglie Forti più belle di marzo 2017|Le 10 Felpe Taglie Forti più richieste: la classifica aggiornata|2017/03/le-10-felpe-taglie-forti-piu-belle-di-marzo-2017|data.oliviero.it/imgprodotto/felpa-taglie-forti-grigio-u386_152515",
 "Le 3 Fasce Cardio selezionate: febbraio 2017|Le 3 Fasce Cardio che più ci piacciono: febbraio 2017|2017/02/le-3-fasce-cardio-selezionate-febbraio-2017|data.oliviero.it/imgprodotto/fascia-cardio-puls-set_8429_big",
