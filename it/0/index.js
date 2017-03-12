@@ -1,4 +1,5 @@
 Gr = [
+"I 10 Reggiseni più venduti: marzo 2017|I 10 Reggiseni più consigliati da chi li ha comprati, oggi sul mercato|2017/03/i-10-reggiseni-piu-venduti-marzo-2017|data.oliviero.it/imgprodotto/reggiseno-14103_20986_big",
 "Cyclette Recumbent: le 10 migliori a marzo 2017|La top 10 delle migliori Cyclette Recumbent disponibili da subito|2017/03/cyclette-recumbent-le-10-migliori-a-marzo-2017|data.oliviero.it/imgprodotto/recumbent-bk-r-209-pro_144179",
 "Il tris perfetto di Rasoi Elettrici: marzo 2017|La top 3 dei migliori Rasoi Elettrici disponibili da subito: marzo 2017|2017/03/il-tris-perfetto-di-rasoi-elettrici-marzo-2017|data.oliviero.it/imgprodotto/rasoio-4-testine-ricaricabile_141052",
 "Le 10 migliori Racchette da Tennis: marzo 2017|Le 10 Racchette da Tennis più amate disponibili ora per l'acquisto|2017/03/le-10-migliori-racchette-da-tennis-marzo-2017|data.oliviero.it/imgprodotto/racchetta-tennis-graphene-xt-extreme-lite-230745_154542",
