@@ -1,4 +1,5 @@
 Gr = [
+"I 10 Jeans da Donna più amati: marzo 2017|La top 10 dei migliori Jeans da Donna sul mercato a marzo 2017|2017/03/i-10-jeans-da-donna-piu-amati-marzo-2017|data.oliviero.it/imgprodotto/jeans-donna-t2s4pc-00458_146855",
 "I 10 Reggiseni più venduti: marzo 2017|I 10 Reggiseni più consigliati da chi li ha comprati, oggi sul mercato|2017/03/i-10-reggiseni-piu-venduti-marzo-2017|data.oliviero.it/imgprodotto/reggiseno-14103_20986_big",
 "Le 5 Francesine più belle di marzo 2017|La top 5 delle migliori Francesine sul mercato a marzo 2017|2017/03/le-5-francesine-piu-belle-di-marzo-2017|data.oliviero.it/imgprodotto/scarpe-donna-perlato-bianco-p717001d-505_157809",
 "I 10 Foulard più interessanti a marzo 2017|I 10 Foulard più belli disponibili ora per l'acquisto|2017/03/i-10-foulard-piu-interessanti-a-marzo-2017|data.oliviero.it/imgprodotto/foulard-blu-rettangolare-boho-mix-71w9we65016_160062",
