@@ -1,4 +1,5 @@
 Gr = [
+"I 6 Jeans da Ragazza più belli: marzo 2017|I 6 Jeans da Ragazza più carini disponibili ora per l'acquisto|2017/03/i-6-jeans-da-ragazza-piu-belli-marzo-2017|data.oliviero.it/imgprodotto/jeans-jr-tf15756_154640",
 "I 10 Jeans da Donna più amati: marzo 2017|La top 10 dei migliori Jeans da Donna sul mercato a marzo 2017|2017/03/i-10-jeans-da-donna-piu-amati-marzo-2017|data.oliviero.it/imgprodotto/jeans-donna-t2s4pc-00458_146855",
 "I 10 Reggiseni più venduti: marzo 2017|I 10 Reggiseni più consigliati da chi li ha comprati, oggi sul mercato|2017/03/i-10-reggiseni-piu-venduti-marzo-2017|data.oliviero.it/imgprodotto/reggiseno-14103_20986_big",
 "Il tris perfetto di Rasoi Elettrici: marzo 2017|La top 3 dei migliori Rasoi Elettrici disponibili da subito: marzo 2017|2017/03/il-tris-perfetto-di-rasoi-elettrici-marzo-2017|data.oliviero.it/imgprodotto/rasoio-4-testine-ricaricabile_141052",

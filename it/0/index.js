@@ -1,4 +1,5 @@
 Gr = [
+"I 6 Jeans da Ragazza più belli: marzo 2017|I 6 Jeans da Ragazza più carini disponibili ora per l'acquisto|2017/03/i-6-jeans-da-ragazza-piu-belli-marzo-2017|data.oliviero.it/imgprodotto/jeans-jr-tf15756_154640",
 "I 10 Jeans da Donna più amati: marzo 2017|La top 10 dei migliori Jeans da Donna sul mercato a marzo 2017|2017/03/i-10-jeans-da-donna-piu-amati-marzo-2017|data.oliviero.it/imgprodotto/jeans-donna-t2s4pc-00458_146855",
 "I 6 migliori Tagliapasta e Tagliapizza: marzo 2017|Tagliapasta e Tagliapizza: i 6 migliori in commercio a marzo 2017|2017/03/i-6-migliori-tagliapasta-e-tagliapizza-marzo-2017|data.oliviero.it/imgprodotto/rullo-taglia-pasta-tondo-diam-7-cm_77731",
 "I 6 Robot da Cucina più venduti: marzo 2017|La top 6 dei migliori Robot da Cucina sul mercato a marzo 2017|2017/03/i-6-robot-da-cucina-piu-venduti-marzo-2017|data.oliviero.it/imgprodotto/robot-da-cucina-500w-bianco-90-470b_160692",
