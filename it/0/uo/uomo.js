@@ -1,4 +1,5 @@
 Gr = [
+"Jeans da Uomo: i 10 migliori a marzo 2017|La top 10 dei migliori Jeans da Uomo venduti a marzo 2017|2017/03/jeans-da-uomo-i-10-migliori-a-marzo-2017|data.oliviero.it/imgprodotto/jeans-taglie-forti-uomo-22062-001_154057",
 "Il tris perfetto di Rasoi Elettrici: marzo 2017|La top 3 dei migliori Rasoi Elettrici disponibili da subito: marzo 2017|2017/03/il-tris-perfetto-di-rasoi-elettrici-marzo-2017|data.oliviero.it/imgprodotto/rasoio-4-testine-ricaricabile_141052",
 "Le 10 Felpe Uomo di moda ora: marzo 2017|Le 10 Felpe Uomo più belle: la classifica aggiornata a marzo 2017|2017/03/le-10-felpe-uomo-di-moda-ora-marzo-2017|data.oliviero.it/imgprodotto/felpa-uomo-arancio-essentials-linear-s98773_159283",
 "Le 5 T-Shirt Sportive Uomo che più ci piacciono: febbraio 2017|La top 5 delle migliori T-Shirt Sportive Uomo disponibili da subito|2017/02/le-5-t-shirt-sportive-uomo-che-piu-ci-piacciono-febbraio-2017|data.oliviero.it/imgprodotto/t-shirt-sportiva-uomo-squadron-blue-827021-464_158073",
