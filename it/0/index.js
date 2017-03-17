@@ -1,4 +1,5 @@
 Gr = [
+"I 7 migliori Palloni e Set Basket: marzo 2017|La top 7 dei migliori Palloni e Set da Pallacanestro, disponibili da subito|2017/03/i-7-migliori-palloni-e-set-basket-marzo-2017|data.oliviero.it/imgprodotto/set-basket-regolamentare_71351",
 "Padelle: le 10 migliori a marzo 2017|Le 10 Padelle più comprate ora in commercio: marzo 2017|2017/03/padelle-le-10-migliori-a-marzo-2017|data.oliviero.it/imgprodotto/padella-silver-22-cm_156392",
 "I 3 Jeggings selezionati: marzo 2017|La top 3 dei migliori Jeggings sul mercato a marzo 2017|2017/03/i-3-jeggings-selezionati-marzo-2017|data.oliviero.it/imgprodotto/jeggings-t2s4pc-00094_146864",
 "Jeans da Uomo: i 10 migliori a marzo 2017|La top 10 dei migliori Jeans da Uomo venduti a marzo 2017|2017/03/jeans-da-uomo-i-10-migliori-a-marzo-2017|data.oliviero.it/imgprodotto/jeans-taglie-forti-uomo-22062-001_154057",

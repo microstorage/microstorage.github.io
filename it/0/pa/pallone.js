@@ -1,4 +1,3 @@
 Gr = [
 "I 7 migliori Palloni e Set Basket: marzo 2017|La top 7 dei migliori Palloni e Set da Pallacanestro, disponibili da subito|2017/03/i-7-migliori-palloni-e-set-basket-marzo-2017|data.oliviero.it/imgprodotto/set-basket-regolamentare_71351",
-"Scarpe Converse donna: sportiva e casual con stile|Scarpe CT As Hi - 153178 - La scarpa old school più celebre al mondo|2017/01/scarpe-converse-donna-sportiva-e-casual-con-stile|data.oliviero.it/imgprodotto/scarpe-ct-as-hi-153178_152087",
 ];
