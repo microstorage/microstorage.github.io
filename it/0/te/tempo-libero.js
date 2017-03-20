@@ -1,4 +1,5 @@
 Gr = [
+"Le 7 Panche Ginniche consigliate: marzo 2017|Le 7 Panche Ginniche che vanno per la maggiore: la guida all'acquisto|2017/03/le-7-panche-ginniche-consigliate-marzo-2017|data.oliviero.it/imgprodotto/panca-inversione-inversion-comfort-pro_96358",
 "Le 8 Panche Addominali consigliate: marzo 2017|La top 8 delle migliori Panche Addominali disponibili ora per l'acquisto|2017/03/le-8-panche-addominali-consigliate-marzo-2017|data.oliviero.it/imgprodotto/kit-panca-bench-trainer-manubri-pesi_141090",
 "I 10 Palloni da Calcio migliori: marzo 2017|I 10 Palloni da Calcio migliori, disponibili ora per l'acquisto|2017/03/i-10-palloni-da-calcio-migliori-marzo-2017|data.oliviero.it/imgprodotto/pallone-calcio-atletico-de-madrid-prestige-sc3010_152053",
 "I 7 migliori Palloni e Set Basket: marzo 2017|La top 7 dei migliori Palloni e Set da Pallacanestro, disponibili da subito|2017/03/i-7-migliori-palloni-e-set-basket-marzo-2017|data.oliviero.it/imgprodotto/set-basket-regolamentare_71351",

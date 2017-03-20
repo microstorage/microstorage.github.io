@@ -1,4 +1,5 @@
 Gr = [
+"Le 7 Panche Ginniche consigliate: marzo 2017|Le 7 Panche Ginniche che vanno per la maggiore: la guida all'acquisto|2017/03/le-7-panche-ginniche-consigliate-marzo-2017|data.oliviero.it/imgprodotto/panca-inversione-inversion-comfort-pro_96358",
 "Le 8 Panche Addominali consigliate: marzo 2017|La top 8 delle migliori Panche Addominali disponibili ora per l'acquisto|2017/03/le-8-panche-addominali-consigliate-marzo-2017|data.oliviero.it/imgprodotto/kit-panca-bench-trainer-manubri-pesi_141090",
 "Cyclette Recumbent: le 10 migliori a marzo 2017|La top 10 delle migliori Cyclette Recumbent disponibili da subito|2017/03/cyclette-recumbent-le-10-migliori-a-marzo-2017|data.oliviero.it/imgprodotto/recumbent-bk-r-209-pro_144179",
 "I 10 Cardiofrequenzimetri consigliati: marzo 2017|La top 10 dei migliori Cardiofrequenzimetri sul mercato a marzo 2017|2017/03/i-10-cardiofrequenzimetri-consigliati-marzo-2017|data.oliviero.it/imgprodotto/forerunner-10_22640_big",
