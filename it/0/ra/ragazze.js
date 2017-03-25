@@ -1,4 +1,5 @@
 Gr = [
+"8 Pantaloni Bambino consigliati: marzo 2017|Gli 8 Pantaloni Bambino che preferiamo, a marzo 2017|2017/03/8-pantaloni-bambino-consigliati-marzo-2017|data.oliviero.it/imgprodotto/pantalone-jr-elasticizzato-in-gabardine-microfantasia-163mhbh002-842_155061",
 "Pantaloncini Ragazzi: i 7 migliori a marzo 2017|I 7 Pantaloncini Ragazzi consigliati oggi sul mercato: marzo 2017|2017/03/pantaloncini-ragazzi-i-7-migliori-a-marzo-2017|data.oliviero.it/imgprodotto/pantaloncini-jr-nero-essentials-3-stripes-bq2828_158110",
 "I 6 Jeans da Ragazza più belli: marzo 2017|I 6 Jeans da Ragazza più carini disponibili ora per l'acquisto|2017/03/i-6-jeans-da-ragazza-piu-belli-marzo-2017|data.oliviero.it/imgprodotto/jeans-jr-tf15756_154640",
 "Le 5 T-Shirt Running Donna scelte a febbraio 2017|La top 5 delle migliori T-Shirt Running Donna disponibili da subito|2017/02/le-5-t-shirt-running-donna-scelte-a-febbraio-2017|data.oliviero.it/imgprodotto/t-shirt-running-donna-response-v-neck-ax6577_151731",

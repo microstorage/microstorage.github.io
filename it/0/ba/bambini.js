@@ -1,4 +1,5 @@
 Gr = [
+"8 Pantaloni Bambino consigliati: marzo 2017|Gli 8 Pantaloni Bambino che preferiamo, a marzo 2017|2017/03/8-pantaloni-bambino-consigliati-marzo-2017|data.oliviero.it/imgprodotto/pantalone-jr-elasticizzato-in-gabardine-microfantasia-163mhbh002-842_155061",
 "Pantaloncini Ragazzi: i 7 migliori a marzo 2017|I 7 Pantaloncini Ragazzi consigliati oggi sul mercato: marzo 2017|2017/03/pantaloncini-ragazzi-i-7-migliori-a-marzo-2017|data.oliviero.it/imgprodotto/pantaloncini-jr-nero-essentials-3-stripes-bq2828_158110",
 "I 5 Riduttori per Lettino migliori: marzo 2017|I 5 Riduttori per Lettino che incontrano il maggiore gradimento|2017/03/i-5-riduttori-per-lettino-migliori-marzo-2017|data.oliviero.it/imgprodotto/riduttore-lettino-matelassÃ¨_60056",
 "I 10 Rialzi Alza Sedia per Bambini più utili: marzo 2017|I 10 Rialzi Alza Sedia per Bambini più interessanti per l'acquisto|2017/03/i-10-rialzi-alza-sedia-per-bambini-piu-utili-marzo-2017|data.oliviero.it/imgprodotto/rialzo-alza-sedia-brunch-lime_143292",
