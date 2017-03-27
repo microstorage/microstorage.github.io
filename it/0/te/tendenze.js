@@ -1,4 +1,5 @@
 Gr = [
+"I 10 Pantaloni Uomo scelti: marzo 2017|La top 10 dei migliori Pantaloni Uomo in commercio a marzo 2017|2017/03/i-10-pantaloni-uomo-scelti-marzo-2017|data.oliviero.it/imgprodotto/pantaloni-uomo-casual-mojo_72473",
 "I 10 Pantaloni Donna scelti a marzo 2017|I 10 Pantaloni Donna più amati: la guida all'acquisto di marzo 2017|2017/03/i-10-pantaloni-donna-scelti-a-marzo-2017|data.oliviero.it/imgprodotto/pantaloni-donna-casual-tzs44d-00459_147048",
 "8 Pantaloni Bambino consigliati: marzo 2017|Gli 8 Pantaloni Bambino che preferiamo, a marzo 2017|2017/03/8-pantaloni-bambino-consigliati-marzo-2017|data.oliviero.it/imgprodotto/pantalone-jr-elasticizzato-in-gabardine-microfantasia-163mhbh002-842_155061",
 "I 10 Pantaloncini da Boxe migliori: marzo 2017|I 10 Pantaloncini da Boxe al top: la classifica aggiornata|2017/03/i-10-pantaloncini-da-boxe-migliori-marzo-2017|data.oliviero.it/imgprodotto/pantaloncino-da-boxe-ab734_93252",

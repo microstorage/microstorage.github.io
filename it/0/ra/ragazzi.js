@@ -1,4 +1,5 @@
 Gr = [
+"I 10 Pantaloni Uomo scelti: marzo 2017|La top 10 dei migliori Pantaloni Uomo in commercio a marzo 2017|2017/03/i-10-pantaloni-uomo-scelti-marzo-2017|data.oliviero.it/imgprodotto/pantaloni-uomo-casual-mojo_72473",
 "8 Pantaloni Bambino consigliati: marzo 2017|Gli 8 Pantaloni Bambino che preferiamo, a marzo 2017|2017/03/8-pantaloni-bambino-consigliati-marzo-2017|data.oliviero.it/imgprodotto/pantalone-jr-elasticizzato-in-gabardine-microfantasia-163mhbh002-842_155061",
 "Pantaloncini Ragazzi: i 7 migliori a marzo 2017|I 7 Pantaloncini Ragazzi consigliati oggi sul mercato: marzo 2017|2017/03/pantaloncini-ragazzi-i-7-migliori-a-marzo-2017|data.oliviero.it/imgprodotto/pantaloncini-jr-nero-essentials-3-stripes-bq2828_158110",
 "Felpe Ragazzi: le 4 scelte a marzo 2017|Le 4 Felpe Ragazzi scelte per voi a marzo 2017|2017/03/felpe-ragazzi-le-4-scelte-a-marzo-2017|data.oliviero.it/imgprodotto/felpa-jr-verde-militare-tf15767_154642",
