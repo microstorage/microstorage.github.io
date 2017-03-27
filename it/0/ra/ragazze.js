@@ -1,4 +1,5 @@
 Gr = [
+"I 10 Pantaloni Donna scelti a marzo 2017|I 10 Pantaloni Donna più amati: la guida all'acquisto di marzo 2017|2017/03/i-10-pantaloni-donna-scelti-a-marzo-2017|data.oliviero.it/imgprodotto/pantaloni-donna-casual-tzs44d-00459_147048",
 "8 Pantaloni Bambino consigliati: marzo 2017|Gli 8 Pantaloni Bambino che preferiamo, a marzo 2017|2017/03/8-pantaloni-bambino-consigliati-marzo-2017|data.oliviero.it/imgprodotto/pantalone-jr-elasticizzato-in-gabardine-microfantasia-163mhbh002-842_155061",
 "Pantaloncini Ragazzi: i 7 migliori a marzo 2017|I 7 Pantaloncini Ragazzi consigliati oggi sul mercato: marzo 2017|2017/03/pantaloncini-ragazzi-i-7-migliori-a-marzo-2017|data.oliviero.it/imgprodotto/pantaloncini-jr-nero-essentials-3-stripes-bq2828_158110",
 "I 6 Jeans da Ragazza più belli: marzo 2017|I 6 Jeans da Ragazza più carini disponibili ora per l'acquisto|2017/03/i-6-jeans-da-ragazza-piu-belli-marzo-2017|data.oliviero.it/imgprodotto/jeans-jr-tf15756_154640",
