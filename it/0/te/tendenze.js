@@ -1,4 +1,5 @@
 Gr = [
+"I 10 Pantaloni con Elastico migliori: marzo 2017|I 10 Pantaloni con Elastico più richiesti: la classifica di marzo 2017|2017/03/i-10-pantaloni-con-elastico-migliori-marzo-2017|data.oliviero.it/imgprodotto/pantaloni-con-elastico-mela-044726_151125",
 "I 7 Pantaloni per Ragazzi più alla moda: marzo 2017|I 7 Pantaloni per Ragazzi più venduti: la classifica di marzo 2017|2017/03/i-7-pantaloni-per-ragazzi-piu-alla-moda-marzo-2017|data.oliviero.it/imgprodotto/pantalone-jr-elasticizzato-blu-163mhbh005-186_155063",
 "I 10 Pantaloni Uomo scelti: marzo 2017|La top 10 dei migliori Pantaloni Uomo in commercio a marzo 2017|2017/03/i-10-pantaloni-uomo-scelti-marzo-2017|data.oliviero.it/imgprodotto/pantaloni-uomo-casual-mojo_72473",
 "I 10 Pantaloni Donna scelti a marzo 2017|I 10 Pantaloni Donna più amati: la guida all'acquisto di marzo 2017|2017/03/i-10-pantaloni-donna-scelti-a-marzo-2017|data.oliviero.it/imgprodotto/pantaloni-donna-casual-tzs44d-00459_147048",
