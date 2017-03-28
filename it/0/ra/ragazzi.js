@@ -1,4 +1,5 @@
 Gr = [
+"I 7 Pantaloni per Ragazzi più alla moda: marzo 2017|I 7 Pantaloni per Ragazzi più venduti: la classifica di marzo 2017|2017/03/i-7-pantaloni-per-ragazzi-piu-alla-moda-marzo-2017|data.oliviero.it/imgprodotto/pantalone-jr-elasticizzato-blu-163mhbh005-186_155063",
 "I 10 Pantaloni Uomo scelti: marzo 2017|La top 10 dei migliori Pantaloni Uomo in commercio a marzo 2017|2017/03/i-10-pantaloni-uomo-scelti-marzo-2017|data.oliviero.it/imgprodotto/pantaloni-uomo-casual-mojo_72473",
 "8 Pantaloni Bambino consigliati: marzo 2017|Gli 8 Pantaloni Bambino che preferiamo, a marzo 2017|2017/03/8-pantaloni-bambino-consigliati-marzo-2017|data.oliviero.it/imgprodotto/pantalone-jr-elasticizzato-in-gabardine-microfantasia-163mhbh002-842_155061",
 "Pantaloncini Ragazzi: i 7 migliori a marzo 2017|I 7 Pantaloncini Ragazzi consigliati oggi sul mercato: marzo 2017|2017/03/pantaloncini-ragazzi-i-7-migliori-a-marzo-2017|data.oliviero.it/imgprodotto/pantaloncini-jr-nero-essentials-3-stripes-bq2828_158110",
