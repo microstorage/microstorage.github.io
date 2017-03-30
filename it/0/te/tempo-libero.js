@@ -1,4 +1,5 @@
 Gr = [
+"Gli 8 Paratibia migliori: marzo 2017|Gli 8 Paratibia più consigliati da chi li ha comprati: la classifica|2017/03/gli-8-paratibia-migliori-marzo-2017|data.oliviero.it/imgprodotto/paratibia-hornet-ii_159754",
 "I 3 Pantaloni Corti da Donna scelti: marzo 2017|Pantaloni Corti da Donna: i 3 che abbiamo scelto a marzo 2017|2017/03/i-3-pantaloni-corti-da-donna-scelti-marzo-2017|data.oliviero.it/imgprodotto/pantaloni-corti-540818-065_86898",
 "I 10 migliori Pantaloni Corti da Uomo: marzo 2017|La top 10 dei migliori Pantaloni Corti da Uomo sul mercato a marzo 2017|2017/03/i-10-migliori-pantaloni-corti-da-uomo-marzo-2017|data.oliviero.it/imgprodotto/pantaloni-corti-uomo-sport-essential-s17629_151709",
 "I 10 Pantaloncini da Boxe migliori: marzo 2017|I 10 Pantaloncini da Boxe al top: la classifica aggiornata|2017/03/i-10-pantaloncini-da-boxe-migliori-marzo-2017|data.oliviero.it/imgprodotto/pantaloncino-da-boxe-ab734_93252",
