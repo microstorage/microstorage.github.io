@@ -1,4 +1,5 @@
 Gr = [
+"Le 4 migliori Pedane Vibranti: aprile 2017|Le 4 Pedane Vibranti più vendute: la guida all'acquisto di aprile 2017|2017/04/le-4-migliori-pedane-vibranti-aprile-2017|data.oliviero.it/imgprodotto/pedana-vibrante-xg5_109695",
 "I 3 Pantaloni Corti da Donna scelti: marzo 2017|Pantaloni Corti da Donna: i 3 che abbiamo scelto a marzo 2017|2017/03/i-3-pantaloni-corti-da-donna-scelti-marzo-2017|data.oliviero.it/imgprodotto/pantaloni-corti-540818-065_86898",
 "I 10 migliori Pantaloni Corti da Uomo: marzo 2017|La top 10 dei migliori Pantaloni Corti da Uomo sul mercato a marzo 2017|2017/03/i-10-migliori-pantaloni-corti-da-uomo-marzo-2017|data.oliviero.it/imgprodotto/pantaloni-corti-uomo-sport-essential-s17629_151709",
 "Marzo 2017: i 10 Pantaloncini Sportivi più acquistati|I 10 Pantaloncini Sportivi più consigliati da chi li ha comprati: la guida|2017/03/marzo-2017-i-10-pantaloncini-sportivi-piu-acquistati|data.oliviero.it/imgprodotto/pantaloncini-sportivi-uomo-grigio-842267-091_161674",
