@@ -1,4 +1,5 @@
 Gr = [
+"Piastre per Waffle: le 2 scelte di aprile 2017|La 2 Piastre per Waffle che ci piacciono di più: aprile 2017|2017/04/piastre-per-waffle-le-2-scelte-di-aprile-2017|data.oliviero.it/imgprodotto/piastra-waffle-a-cuore-90-602y_161315",
 "Le 5 Parure Lenzuola di aprile 2017|Le 5 Parure Lenzuola che più piacciono, disponibili da subito|2017/04/le-5-parure-lenzuola-di-aprile-2017|data.oliviero.it/imgprodotto/parure-lenzuola-exotic-240x280-cm-72dl8b25106_163057",
 "Parure Copripiumino: le 4 scelte di aprile 2017|Le 4 Parure Copripiumino al top subito disponibili: aprile 2017|2017/04/parure-copripiumino-le-4-scelte-di-aprile-2017|data.oliviero.it/imgprodotto/parure-copripiumino-woods_137035",
 "I 6 Robot da Cucina più venduti: marzo 2017|La top 6 dei migliori Robot da Cucina sul mercato a marzo 2017|2017/03/i-6-robot-da-cucina-piu-venduti-marzo-2017|data.oliviero.it/imgprodotto/robot-da-cucina-500w-bianco-90-470b_160692",
