@@ -1,4 +1,5 @@
 Gr = [
+"Le 9 Pinne migliori valutate ad aprile 2017|Le 9 Pinne più ambite: la classifica di aprile 2017|2017/04/le-9-pinne-migliori-valutate-ad-aprile-2017|data.oliviero.it/imgprodotto/pinne-team-blu_147740",
 "Piastre per Waffle: le 2 scelte di aprile 2017|La 2 Piastre per Waffle che ci piacciono di più: aprile 2017|2017/04/piastre-per-waffle-le-2-scelte-di-aprile-2017|data.oliviero.it/imgprodotto/piastra-waffle-a-cuore-90-602y_161315",
 "I 6 Phon più venduti: aprile 2017|La top 6 dei migliori Phon sul mercato a aprile 2017|2017/04/i-6-phon-piu-venduti-aprile-2017|data.oliviero.it/imgprodotto/kit-phon-e-piastra-hello-kitty-hk-zd118-hairkit_89529",
 "Le 4 migliori Pedane Vibranti: aprile 2017|Le 4 Pedane Vibranti più vendute: la guida all'acquisto di aprile 2017|2017/04/le-4-migliori-pedane-vibranti-aprile-2017|data.oliviero.it/imgprodotto/pedana-vibrante-xg5_109695",
