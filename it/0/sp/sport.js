@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloncino da Boxe AB772|Pantaloncino da MMA in microfibra top quality e poliestere...|2017/04/pantaloncino-da-boxe-ab772|data.oliviero.it/imgprodotto/pantaloncino-da-boxe-ab772_93249",
 "Le 9 Pinne migliori valutate ad aprile 2017|Le 9 Pinne più ambite: la classifica di aprile 2017|2017/04/le-9-pinne-migliori-valutate-ad-aprile-2017|data.oliviero.it/imgprodotto/pinne-team-blu_147740",
 "Le 4 migliori Pedane Vibranti: aprile 2017|Le 4 Pedane Vibranti più vendute: la guida all'acquisto di aprile 2017|2017/04/le-4-migliori-pedane-vibranti-aprile-2017|data.oliviero.it/imgprodotto/pedana-vibrante-xg5_109695",
 "Gli 8 Paratibia migliori: marzo 2017|Gli 8 Paratibia più consigliati da chi li ha comprati: la classifica|2017/03/gli-8-paratibia-migliori-marzo-2017|data.oliviero.it/imgprodotto/paratibia-hornet-ii_159754",
