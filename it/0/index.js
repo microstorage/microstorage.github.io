@@ -1,4 +1,5 @@
 Gr = [
+"Marsupio Front Dalia|Il marsupio per muoversi agevolmente in totale libertà con il bebè|2017/04/marsupio-front-dalia|data.oliviero.it/imgprodotto/marsupio-front-dalia_154916",
 "Zainetto per il Pranzo Scimmia - Skip Hop|Zainetto per l'asilo, morbido e con un capiente vano principale...|2017/04/zainetto-per-il-pranzo-scimmia-skip-hop|data.oliviero.it/imgprodotto/zainetto-per-il-pranzo-scimmia-skip-hop_140393",
 "T-Shirt Uomo Kennebec River Bianco|Collezione Primavera Estate 2017 - Adotta l'albero Timberland|2017/04/t-shirt-uomo-kennebec-river-bianco|data.oliviero.it/imgprodotto/t-shirt-uomo-kennebec-river-bianco-a1lad100_160924",
 "Scarpe ZX Flux S32279|Adidas Originals. Tomaia in mesh Etichetta e 3 strisce in TPU...|2017/04/scarpe-zx-flux-s32279|data.oliviero.it/imgprodotto/scarpe-zx-flux-s32279_158678",
