@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe ZX Flux S32279|Adidas Originals. Tomaia in mesh Etichetta e 3 strisce in TPU...|2017/04/scarpe-zx-flux-s32279|data.oliviero.it/imgprodotto/scarpe-zx-flux-s32279_158678",
 "Giacca Lady Snaps - 057797|Divisa ufficiale Federazione Italiana Cuochi Giacca cuoca a manica...|2017/04/giacca-lady-snaps-057797|data.oliviero.it/imgprodotto/giacca-lady-snaps-057797_159002",
 "Pantaloncino da Boxe AB772|Pantaloncino da MMA in microfibra top quality e poliestere...|2017/04/pantaloncino-da-boxe-ab772|data.oliviero.it/imgprodotto/pantaloncino-da-boxe-ab772_93249",
 "Le 9 Pinne migliori valutate ad aprile 2017|Le 9 Pinne più ambite: la classifica di aprile 2017|2017/04/le-9-pinne-migliori-valutate-ad-aprile-2017|data.oliviero.it/imgprodotto/pinne-team-blu_147740",
