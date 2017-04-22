@@ -1,4 +1,5 @@
 Gr = [
+"T-Shirt Uomo Kennebec River Bianco|Collezione Primavera Estate 2017 - Adotta l'albero Timberland|2017/04/t-shirt-uomo-kennebec-river-bianco|data.oliviero.it/imgprodotto/t-shirt-uomo-kennebec-river-bianco-a1lad100_160924",
 "I 6 Phon più venduti: aprile 2017|La top 6 dei migliori Phon sul mercato a aprile 2017|2017/04/i-6-phon-piu-venduti-aprile-2017|data.oliviero.it/imgprodotto/kit-phon-e-piastra-hello-kitty-hk-zd118-hairkit_89529",
 "4 dei migliori Pareo da Mare: marzo 2017|I 4 Pareo da Mare scelti a marzo 2017, perché l'estate arriva presto!|2017/03/4-dei-migliori-pareo-da-mare-marzo-2017|data.oliviero.it/imgprodotto/pareo-da-mare-assorbente-essential-jacquard-7awl8a21003_163037",
 "I 3 Pantaloni Corti da Donna scelti: marzo 2017|Pantaloni Corti da Donna: i 3 che abbiamo scelto a marzo 2017|2017/03/i-3-pantaloni-corti-da-donna-scelti-marzo-2017|data.oliviero.it/imgprodotto/pantaloni-corti-540818-065_86898",
