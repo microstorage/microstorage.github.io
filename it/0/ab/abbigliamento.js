@@ -1,4 +1,5 @@
 Gr = [
+"Giacca Lady Snaps - 057797|Divisa ufficiale Federazione Italiana Cuochi Giacca cuoca a manica...|2017/04/giacca-lady-snaps-057797|data.oliviero.it/imgprodotto/giacca-lady-snaps-057797_159002",
 "Pantaloncino da Boxe AB772|Pantaloncino da MMA in microfibra top quality e poliestere...|2017/04/pantaloncino-da-boxe-ab772|data.oliviero.it/imgprodotto/pantaloncino-da-boxe-ab772_93249",
 "4 dei migliori Pareo da Mare: marzo 2017|I 4 Pareo da Mare scelti a marzo 2017, perché l'estate arriva presto!|2017/03/4-dei-migliori-pareo-da-mare-marzo-2017|data.oliviero.it/imgprodotto/pareo-da-mare-assorbente-essential-jacquard-7awl8a21003_163037",
 "I 3 Pantaloni Corti da Donna scelti: marzo 2017|Pantaloni Corti da Donna: i 3 che abbiamo scelto a marzo 2017|2017/03/i-3-pantaloni-corti-da-donna-scelti-marzo-2017|data.oliviero.it/imgprodotto/pantaloni-corti-540818-065_86898",
