@@ -1,4 +1,5 @@
 Gr = [
+"Polo mezza manica da uomo|Collezione : Primavera Estate Tipologia : Polo mezza manica da uomo...|2017/04/polo-mezza-manica-da-uomo|data.oliviero.it/imgprodotto/polo-uomo-blu-l604ko01_58500",
 "T-Shirt Uomo Kennebec River Bianco|Collezione Primavera Estate 2017 - Adotta l'albero Timberland|2017/04/t-shirt-uomo-kennebec-river-bianco|data.oliviero.it/imgprodotto/t-shirt-uomo-kennebec-river-bianco-a1lad100_160924",
 "I 6 Phon più venduti: aprile 2017|La top 6 dei migliori Phon sul mercato a aprile 2017|2017/04/i-6-phon-piu-venduti-aprile-2017|data.oliviero.it/imgprodotto/kit-phon-e-piastra-hello-kitty-hk-zd118-hairkit_89529",
 "4 dei migliori Pareo da Mare: marzo 2017|I 4 Pareo da Mare scelti a marzo 2017, perché l'estate arriva presto!|2017/03/4-dei-migliori-pareo-da-mare-marzo-2017|data.oliviero.it/imgprodotto/pareo-da-mare-assorbente-essential-jacquard-7awl8a21003_163037",
