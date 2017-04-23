@@ -1,4 +1,5 @@
 Gr = [
+"Infradito Havaianas Logo Brasil|Collezione Primavera Estate 2017 - Le originali e autentiche infradito!|2017/04/infradito-havaianas-logo-brasil|data.oliviero.it/imgprodotto/infradito-havaianas-brasil-logo-4110850-0555_114465",
 "Pantaloncino da Boxe AB772|Pantaloncino da MMA in microfibra top quality e poliestere...|2017/04/pantaloncino-da-boxe-ab772|data.oliviero.it/imgprodotto/pantaloncino-da-boxe-ab772_93249",
 "Le 9 Pinne migliori valutate ad aprile 2017|Le 9 Pinne più ambite: la classifica di aprile 2017|2017/04/le-9-pinne-migliori-valutate-ad-aprile-2017|data.oliviero.it/imgprodotto/pinne-team-blu_147740",
 "Le 4 migliori Pedane Vibranti: aprile 2017|Le 4 Pedane Vibranti più vendute: la guida all'acquisto di aprile 2017|2017/04/le-4-migliori-pedane-vibranti-aprile-2017|data.oliviero.it/imgprodotto/pedana-vibrante-xg5_109695",

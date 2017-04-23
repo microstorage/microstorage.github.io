@@ -1,4 +1,5 @@
 Gr = [
+"Infradito Havaianas Logo Brasil|Collezione Primavera Estate 2017 - Le originali e autentiche infradito!|2017/04/infradito-havaianas-logo-brasil|data.oliviero.it/imgprodotto/infradito-havaianas-brasil-logo-4110850-0555_114465",
 "Scarpe bambina Jr. Hideaki Girl Blu|Collezione Primavera Estate 2017, pratiche e facili da indossare|2017/04/scarpe-bambina-jr-hideaki-girl-blu|data.oliviero.it/imgprodotto/scarpe-jr-hideaki-girl-blu-j721xc-c4002_162561",
 "Amaca con Asta Miami Sand L|Amaca Miami Sand XL - aste extra lunghe per un relax extra|2017/04/amaca-con-asta-miami-sand-l|data.oliviero.it/imgprodotto/amaca-con-asta-miami-sand-l_158750",
 "Colino 12 cm maglie fini|Ha le maglie fini ed è perfetto per setacciare liquidi o ingredienti...|2017/04/colino-12-cm-maglie-fini|data.oliviero.it/imgprodotto/colino-12-cm-428046_157815",
