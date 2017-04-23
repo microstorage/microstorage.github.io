@@ -1,4 +1,5 @@
 Gr = [
+"Amaca con Asta Miami Sand L|Amaca Miami Sand XL - aste extra lunghe per un relax extra|2017/04/amaca-con-asta-miami-sand-l|data.oliviero.it/imgprodotto/amaca-con-asta-miami-sand-l_158750",
 "Colino 12 cm maglie fini|Ha le maglie fini ed è perfetto per setacciare liquidi o ingredienti...|2017/04/colino-12-cm-maglie-fini|data.oliviero.it/imgprodotto/colino-12-cm-428046_157815",
 "T-Shirt donna Banana Moon|Collezione Primavera Estate Tipologia: T-shirt da donna Tessuto...|2017/04/t-shirt-donna-banana-moon|data.oliviero.it/imgprodotto/t-shirt-donna-banana-moon_9558_big",
 "Polo mezza manica da uomo|Collezione : Primavera Estate Tipologia : Polo mezza manica da uomo...|2017/04/polo-mezza-manica-da-uomo|data.oliviero.it/imgprodotto/polo-uomo-blu-l604ko01_58500",
