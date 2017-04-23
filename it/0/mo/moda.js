@@ -1,4 +1,5 @@
 Gr = [
+"T-Shirt donna Banana Moon|Collezione Primavera Estate Tipologia: T-shirt da donna Tessuto...|2017/04/t-shirt-donna-banana-moon|data.oliviero.it/imgprodotto/t-shirt-donna-banana-moon_9558_big",
 "Polo mezza manica da uomo|Collezione : Primavera Estate Tipologia : Polo mezza manica da uomo...|2017/04/polo-mezza-manica-da-uomo|data.oliviero.it/imgprodotto/polo-uomo-blu-l604ko01_58500",
 "T-Shirt Uomo Kennebec River Bianco|Collezione Primavera Estate 2017 - Adotta l'albero Timberland|2017/04/t-shirt-uomo-kennebec-river-bianco|data.oliviero.it/imgprodotto/t-shirt-uomo-kennebec-river-bianco-a1lad100_160924",
 "I 6 Phon più venduti: aprile 2017|La top 6 dei migliori Phon sul mercato a aprile 2017|2017/04/i-6-phon-piu-venduti-aprile-2017|data.oliviero.it/imgprodotto/kit-phon-e-piastra-hello-kitty-hk-zd118-hairkit_89529",
