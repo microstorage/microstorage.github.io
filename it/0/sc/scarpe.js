@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe bambina Jr. Hideaki Girl Blu|Collezione Primavera Estate 2017, pratiche e facili da indossare|2017/04/scarpe-bambina-jr-hideaki-girl-blu|data.oliviero.it/imgprodotto/scarpe-jr-hideaki-girl-blu-j721xc-c4002_162561",
 "Scarpe ZX Flux S32279|Adidas Originals. Tomaia in mesh Etichetta e 3 strisce in TPU...|2017/04/scarpe-zx-flux-s32279|data.oliviero.it/imgprodotto/scarpe-zx-flux-s32279_158678",
 "Le 5 Francesine più belle di marzo 2017|La top 5 delle migliori Francesine sul mercato a marzo 2017|2017/03/le-5-francesine-piu-belle-di-marzo-2017|data.oliviero.it/imgprodotto/scarpe-donna-perlato-bianco-p717001d-505_157809",
 "Moon Boot: i 4 migliori in commercio a febbraio 2017|I 4 migliori Moon Boot, subito disponibili: febbraio 2017|2017/02/moon-boot-i-4-migliori-in-commercio-a-febbraio-2017|data.oliviero.it/imgprodotto/moon-boot-lem-14200100-001_156526",
