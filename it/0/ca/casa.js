@@ -1,4 +1,5 @@
 Gr = [
+"Torcia Lavoro 96 LED|Torcia Lavoro 96 LED - Corpo in alluminio, basso consumo|2017/04/torcia-lavoro-96-led|data.oliviero.it/imgprodotto/torcia-lavoro-96-led_90273",
 "Amaca con Asta Miami Sand L|Amaca Miami Sand XL - aste extra lunghe per un relax extra|2017/04/amaca-con-asta-miami-sand-l|data.oliviero.it/imgprodotto/amaca-con-asta-miami-sand-l_158750",
 "Colino 12 cm maglie fini|Ha le maglie fini ed è perfetto per setacciare liquidi o ingredienti...|2017/04/colino-12-cm-maglie-fini|data.oliviero.it/imgprodotto/colino-12-cm-428046_157815",
 "Piastre per Waffle: le 2 scelte di aprile 2017|La 2 Piastre per Waffle che ci piacciono di più: aprile 2017|2017/04/piastre-per-waffle-le-2-scelte-di-aprile-2017|data.oliviero.it/imgprodotto/piastra-waffle-a-cuore-90-602y_161315",
