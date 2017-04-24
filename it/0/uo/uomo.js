@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloni Sportivi Uomo Blu - B47213|Collezione Primavera Estate 2017 - Tessuto in felpa garzata|2017/04/pantaloni-sportivi-uomo-blu-b47213|data.oliviero.it/imgprodotto/pantaloni-sportivi-uomo-blu-b47213_162125",
 "Polo mezza manica da uomo|Collezione : Primavera Estate Tipologia : Polo mezza manica da uomo...|2017/04/polo-mezza-manica-da-uomo|data.oliviero.it/imgprodotto/polo-uomo-blu-l604ko01_58500",
 "T-Shirt Uomo Kennebec River Bianco|Collezione Primavera Estate 2017 - Adotta l'albero Timberland|2017/04/t-shirt-uomo-kennebec-river-bianco|data.oliviero.it/imgprodotto/t-shirt-uomo-kennebec-river-bianco-a1lad100_160924",
 "I 10 migliori Pantaloni Corti da Uomo: marzo 2017|La top 10 dei migliori Pantaloni Corti da Uomo sul mercato a marzo 2017|2017/03/i-10-migliori-pantaloni-corti-da-uomo-marzo-2017|data.oliviero.it/imgprodotto/pantaloni-corti-uomo-sport-essential-s17629_151709",

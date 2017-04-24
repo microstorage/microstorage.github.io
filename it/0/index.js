@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloni Sportivi Uomo Blu - B47213|Collezione Primavera Estate 2017 - Tessuto in felpa garzata|2017/04/pantaloni-sportivi-uomo-blu-b47213|data.oliviero.it/imgprodotto/pantaloni-sportivi-uomo-blu-b47213_162125",
 "Calcio balilla Champion|Calciobalilla Champion con gettoniera per il gioco internazionale|2017/04/calcio-balilla-champion|data.oliviero.it/imgprodotto/calcio-balilla-champion_73168",
 "Torcia Lavoro 96 LED|Torcia Lavoro 96 LED - Corpo in alluminio, basso consumo|2017/04/torcia-lavoro-96-led|data.oliviero.it/imgprodotto/torcia-lavoro-96-led_90273",
 "Infradito Havaianas Logo Brasil|Collezione Primavera Estate 2017 - Le originali e autentiche infradito!|2017/04/infradito-havaianas-logo-brasil|data.oliviero.it/imgprodotto/infradito-havaianas-brasil-logo-4110850-0555_114465",

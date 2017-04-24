@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloni Sportivi Uomo Blu - B47213|Collezione Primavera Estate 2017 - Tessuto in felpa garzata|2017/04/pantaloni-sportivi-uomo-blu-b47213|data.oliviero.it/imgprodotto/pantaloni-sportivi-uomo-blu-b47213_162125",
 "T-Shirt donna Banana Moon|Collezione Primavera Estate Tipologia: T-shirt da donna Tessuto...|2017/04/t-shirt-donna-banana-moon|data.oliviero.it/imgprodotto/t-shirt-donna-banana-moon_9558_big",
 "Zainetto per il Pranzo Scimmia - Skip Hop|Zainetto per l'asilo, morbido e con un capiente vano principale...|2017/04/zainetto-per-il-pranzo-scimmia-skip-hop|data.oliviero.it/imgprodotto/zainetto-per-il-pranzo-scimmia-skip-hop_140393",
 "T-Shirt Uomo Kennebec River Bianco|Collezione Primavera Estate 2017 - Adotta l'albero Timberland|2017/04/t-shirt-uomo-kennebec-river-bianco|data.oliviero.it/imgprodotto/t-shirt-uomo-kennebec-river-bianco-a1lad100_160924",
