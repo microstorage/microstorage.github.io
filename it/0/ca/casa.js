@@ -1,4 +1,5 @@
 Gr = [
+"Scrivania View-Floor|Scrivania con struttura in ferro verniciato di colore bianco, vetro|2017/04/scrivania-view-floor|data.oliviero.it/imgprodotto/scrivania-view_floor_108537",
 "Torcia Lavoro 96 LED|Torcia Lavoro 96 LED - Corpo in alluminio, basso consumo|2017/04/torcia-lavoro-96-led|data.oliviero.it/imgprodotto/torcia-lavoro-96-led_90273",
 "Amaca con Asta Miami Sand L|Amaca Miami Sand XL - aste extra lunghe per un relax extra|2017/04/amaca-con-asta-miami-sand-l|data.oliviero.it/imgprodotto/amaca-con-asta-miami-sand-l_158750",
 "Colino 12 cm maglie fini|Ha le maglie fini ed è perfetto per setacciare liquidi o ingredienti...|2017/04/colino-12-cm-maglie-fini|data.oliviero.it/imgprodotto/colino-12-cm-428046_157815",
