@@ -1,4 +1,5 @@
 Gr = [
+"Tenda Mono 3 da Campeggio|Ancoraggi supplementari, aerazione superiore, tasche portaoggetti|2017/04/tenda-mono-3-da-campeggio|data.oliviero.it/imgprodotto/tenda-mono-3-da-campeggio_87363",
 "Sdraio Reclinabile 6 posizioni|Sdraio reclinabile in textilene, schienale reclinabile in 6 posizioni|2017/04/sdraio-reclinabile-6-posizioni|data.oliviero.it/imgprodotto/sdraio-reclinabile-340_163213",
 "Pantaloni con Elastico Azzurro - 044042|Pantalone unisex realizzato in 35% cotone e 65% poliestere|2017/04/pantaloni-con-elastico-azzurro-044042|data.oliviero.it/imgprodotto/pantaloni-con-elastico-azzurro-044042_24257_big",
 "Scrivania View-Floor|Scrivania con struttura in ferro verniciato di colore bianco, vetro|2017/04/scrivania-view-floor|data.oliviero.it/imgprodotto/scrivania-view_floor_108537",

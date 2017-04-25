@@ -1,4 +1,5 @@
 Gr = [
+"Tenda Mono 3 da Campeggio|Ancoraggi supplementari, aerazione superiore, tasche portaoggetti|2017/04/tenda-mono-3-da-campeggio|data.oliviero.it/imgprodotto/tenda-mono-3-da-campeggio_87363",
 "Pantaloni Sportivi Uomo Blu - B47213|Collezione Primavera Estate 2017 - Tessuto in felpa garzata|2017/04/pantaloni-sportivi-uomo-blu-b47213|data.oliviero.it/imgprodotto/pantaloni-sportivi-uomo-blu-b47213_162125",
 "Calcio balilla Champion|Calciobalilla Champion con gettoniera per il gioco internazionale|2017/04/calcio-balilla-champion|data.oliviero.it/imgprodotto/calcio-balilla-champion_73168",
 "Infradito Havaianas Logo Brasil|Collezione Primavera Estate 2017 - Le originali e autentiche infradito!|2017/04/infradito-havaianas-logo-brasil|data.oliviero.it/imgprodotto/infradito-havaianas-brasil-logo-4110850-0555_114465",
