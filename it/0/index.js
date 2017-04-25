@@ -1,4 +1,5 @@
 Gr = [
+"Grembiule Sommelier|Modello con due bottoni al collo allacciatura dietro e due tasche laterali|2017/04/grembiule-sommelier|data.oliviero.it/imgprodotto/grembiule-sommelier_24711_big",
 "Tenda Mono 3 da Campeggio|Ancoraggi supplementari, aerazione superiore, tasche portaoggetti|2017/04/tenda-mono-3-da-campeggio|data.oliviero.it/imgprodotto/tenda-mono-3-da-campeggio_87363",
 "Sdraio Reclinabile 6 posizioni|Sdraio reclinabile in textilene, schienale reclinabile in 6 posizioni|2017/04/sdraio-reclinabile-6-posizioni|data.oliviero.it/imgprodotto/sdraio-reclinabile-340_163213",
 "Pantaloni con Elastico Azzurro - 044042|Pantalone unisex realizzato in 35% cotone e 65% poliestere|2017/04/pantaloni-con-elastico-azzurro-044042|data.oliviero.it/imgprodotto/pantaloni-con-elastico-azzurro-044042_24257_big",
