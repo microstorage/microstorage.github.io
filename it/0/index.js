@@ -1,4 +1,5 @@
 Gr = [
+"Giacca Uomo Sesame Grey, brevetto Geox|Una giacca uomo pensata per il viaggiatore moderno|2017/04/giacca-uomo-sesame-grey-brevetto-geox|data.oliviero.it/imgprodotto/giacca-uomo-sesame-grey-m7220y-t2163_162513",
 "Grembiule Sommelier|Modello con due bottoni al collo allacciatura dietro e due tasche laterali|2017/04/grembiule-sommelier|data.oliviero.it/imgprodotto/grembiule-sommelier_24711_big",
 "Tenda Mono 3 da Campeggio|Ancoraggi supplementari, aerazione superiore, tasche portaoggetti|2017/04/tenda-mono-3-da-campeggio|data.oliviero.it/imgprodotto/tenda-mono-3-da-campeggio_87363",
 "Sdraio Reclinabile 6 posizioni|Sdraio reclinabile in textilene, schienale reclinabile in 6 posizioni|2017/04/sdraio-reclinabile-6-posizioni|data.oliviero.it/imgprodotto/sdraio-reclinabile-340_163213",

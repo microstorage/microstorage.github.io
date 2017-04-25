@@ -1,4 +1,5 @@
 Gr = [
+"Giacca Uomo Sesame Grey, brevetto Geox|Una giacca uomo pensata per il viaggiatore moderno|2017/04/giacca-uomo-sesame-grey-brevetto-geox|data.oliviero.it/imgprodotto/giacca-uomo-sesame-grey-m7220y-t2163_162513",
 "T-Shirt donna Banana Moon|Collezione Primavera Estate Tipologia: T-shirt da donna Tessuto...|2017/04/t-shirt-donna-banana-moon|data.oliviero.it/imgprodotto/t-shirt-donna-banana-moon_9558_big",
 "Polo mezza manica da uomo|Collezione : Primavera Estate Tipologia : Polo mezza manica da uomo...|2017/04/polo-mezza-manica-da-uomo|data.oliviero.it/imgprodotto/polo-uomo-blu-l604ko01_58500",
 "T-Shirt Uomo Kennebec River Bianco|Collezione Primavera Estate 2017 - Adotta l'albero Timberland|2017/04/t-shirt-uomo-kennebec-river-bianco|data.oliviero.it/imgprodotto/t-shirt-uomo-kennebec-river-bianco-a1lad100_160924",
