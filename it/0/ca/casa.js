@@ -1,4 +1,5 @@
 Gr = [
+"Set Zanzibar Dining Ecrù|Set pranzo composto da tavolo in vetro temperato e 6 poltrone|2017/04/set-zanzibar-dining-ecru|data.oliviero.it/imgprodotto/set-zanzibar-dining-ecr%C3%B9_146616",
 "Sdraio Reclinabile 6 posizioni|Sdraio reclinabile in textilene, schienale reclinabile in 6 posizioni|2017/04/sdraio-reclinabile-6-posizioni|data.oliviero.it/imgprodotto/sdraio-reclinabile-340_163213",
 "Scrivania View-Floor|Scrivania con struttura in ferro verniciato di colore bianco, vetro|2017/04/scrivania-view-floor|data.oliviero.it/imgprodotto/scrivania-view_floor_108537",
 "Torcia Lavoro 96 LED|Torcia Lavoro 96 LED - Corpo in alluminio, basso consumo|2017/04/torcia-lavoro-96-led|data.oliviero.it/imgprodotto/torcia-lavoro-96-led_90273",
