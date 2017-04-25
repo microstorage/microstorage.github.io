@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloni con Elastico Azzurro - 044042|Pantalone unisex realizzato in 35% cotone e 65% poliestere|2017/04/pantaloni-con-elastico-azzurro-044042|data.oliviero.it/imgprodotto/pantaloni-con-elastico-azzurro-044042_24257_big",
 "Pantaloni Sportivi Uomo Blu - B47213|Collezione Primavera Estate 2017 - Tessuto in felpa garzata|2017/04/pantaloni-sportivi-uomo-blu-b47213|data.oliviero.it/imgprodotto/pantaloni-sportivi-uomo-blu-b47213_162125",
 "T-Shirt donna Banana Moon|Collezione Primavera Estate Tipologia: T-shirt da donna Tessuto...|2017/04/t-shirt-donna-banana-moon|data.oliviero.it/imgprodotto/t-shirt-donna-banana-moon_9558_big",
 "Zainetto per il Pranzo Scimmia - Skip Hop|Zainetto per l'asilo, morbido e con un capiente vano principale...|2017/04/zainetto-per-il-pranzo-scimmia-skip-hop|data.oliviero.it/imgprodotto/zainetto-per-il-pranzo-scimmia-skip-hop_140393",
