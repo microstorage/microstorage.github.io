@@ -1,4 +1,5 @@
 Gr = [
+"Sdraio Reclinabile 6 posizioni|Sdraio reclinabile in textilene, schienale reclinabile in 6 posizioni|2017/04/sdraio-reclinabile-6-posizioni|data.oliviero.it/imgprodotto/sdraio-reclinabile-340_163213",
 "Scrivania View-Floor|Scrivania con struttura in ferro verniciato di colore bianco, vetro|2017/04/scrivania-view-floor|data.oliviero.it/imgprodotto/scrivania-view_floor_108537",
 "Torcia Lavoro 96 LED|Torcia Lavoro 96 LED - Corpo in alluminio, basso consumo|2017/04/torcia-lavoro-96-led|data.oliviero.it/imgprodotto/torcia-lavoro-96-led_90273",
 "Amaca con Asta Miami Sand L|Amaca Miami Sand XL - aste extra lunghe per un relax extra|2017/04/amaca-con-asta-miami-sand-l|data.oliviero.it/imgprodotto/amaca-con-asta-miami-sand-l_158750",
