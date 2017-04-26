@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloni da donna, logo con brillantini|Tipologia: Pantalone da donna in cotone, elastan|2017/04/pantaloni-da-donna-logo-con-brillantini|data.oliviero.it/imgprodotto/pantaloni-e8w3417_20582_big",
 "T-Shirt donna Banana Moon|Collezione Primavera Estate Tipologia: T-shirt da donna Tessuto...|2017/04/t-shirt-donna-banana-moon|data.oliviero.it/imgprodotto/t-shirt-donna-banana-moon_9558_big",
 "Scarpe ZX Flux S32279|Adidas Originals. Tomaia in mesh Etichetta e 3 strisce in TPU...|2017/04/scarpe-zx-flux-s32279|data.oliviero.it/imgprodotto/scarpe-zx-flux-s32279_158678",
 "I 6 Phon più venduti: aprile 2017|La top 6 dei migliori Phon sul mercato a aprile 2017|2017/04/i-6-phon-piu-venduti-aprile-2017|data.oliviero.it/imgprodotto/kit-phon-e-piastra-hello-kitty-hk-zd118-hairkit_89529",

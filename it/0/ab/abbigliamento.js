@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloni da donna, logo con brillantini|Tipologia: Pantalone da donna in cotone, elastan|2017/04/pantaloni-da-donna-logo-con-brillantini|data.oliviero.it/imgprodotto/pantaloni-e8w3417_20582_big",
 "Giacca Uomo Sesame Grey, brevetto Geox|Una giacca uomo pensata per il viaggiatore moderno|2017/04/giacca-uomo-sesame-grey-brevetto-geox|data.oliviero.it/imgprodotto/giacca-uomo-sesame-grey-m7220y-t2163_162513",
 "Grembiule Sommelier|Modello con due bottoni al collo allacciatura dietro e due tasche laterali|2017/04/grembiule-sommelier|data.oliviero.it/imgprodotto/grembiule-sommelier_24711_big",
 "Pantaloni con Elastico Azzurro - 044042|Pantalone unisex realizzato in 35% cotone e 65% poliestere|2017/04/pantaloni-con-elastico-azzurro-044042|data.oliviero.it/imgprodotto/pantaloni-con-elastico-azzurro-044042_24257_big",
