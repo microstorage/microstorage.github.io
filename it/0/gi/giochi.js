@@ -1,4 +1,5 @@
 Gr = [
+"Libro A Letto, piccolo mostro!|È sera ed è l'ora di andare a letto. E come sempre accade, comincia...|2017/04/libro-a-letto-piccolo-mostro|data.oliviero.it/imgprodotto/libro-a-letto-piccolo-mostro-_156325",
 "Proiettore lettino bambini First Dream Rosa|Con sensore sonoro: si riattiva se il bambino piange, 3 effetti luminosi|2017/04/proiettore-lettino-bambini-first-dream-rosa|data.oliviero.it/imgprodotto/proiettore-first-dream-next2-stars-rosa-76471_156946",
 "Calcio balilla Champion|Calciobalilla Champion con gettoniera per il gioco internazionale|2017/04/calcio-balilla-champion|data.oliviero.it/imgprodotto/calcio-balilla-champion_73168",
 "I 7 Pattini in Linea al top: aprile 2017|I 7 Pattini in Linea che piacciono di più ad aprile 2017|2017/04/i-7-pattini-in-linea-al-top-aprile-2017|data.oliviero.it/imgprodotto/pattini-in-linea-firewheel-colore-rosso_162394",

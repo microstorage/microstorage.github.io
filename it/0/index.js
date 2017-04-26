@@ -1,4 +1,5 @@
 Gr = [
+"Libro A Letto, piccolo mostro!|È sera ed è l'ora di andare a letto. E come sempre accade, comincia...|2017/04/libro-a-letto-piccolo-mostro|data.oliviero.it/imgprodotto/libro-a-letto-piccolo-mostro-_156325",
 "Parure Lenzuola Porthole|La simpatica Masha e il suo amico Orso conquisteranno i vostri bimbi|2017/04/parure-lenzuola-porthole|data.oliviero.it/imgprodotto/parure-lenzuola-porthole_137021",
 "Proiettore lettino bambini First Dream Rosa|Con sensore sonoro: si riattiva se il bambino piange, 3 effetti luminosi|2017/04/proiettore-lettino-bambini-first-dream-rosa|data.oliviero.it/imgprodotto/proiettore-first-dream-next2-stars-rosa-76471_156946",
 "Set Zanzibar Dining Ecrù|Set pranzo composto da tavolo in vetro temperato e 6 poltrone|2017/04/set-zanzibar-dining-ecru|data.oliviero.it/imgprodotto/set-zanzibar-dining-ecr%C3%B9_146616",
