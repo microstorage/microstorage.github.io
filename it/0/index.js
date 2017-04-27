@@ -1,4 +1,5 @@
 Gr = [
+"Poltrona Start Similpelle Nera|Poltrona per ufficio Operativa, con base e braccioli in nylon|2017/04/poltrona-start-similpelle-nera|data.oliviero.it/imgprodotto/poltrona-start-similpelle-nera_159933",
 "Pantaloni casual da donna colore rosa|Collezione Primavera Estate, prodotto Sottocosto!|2017/04/pantaloni-casual-da-donna-colore-rosa|data.oliviero.it/imgprodotto/pantaloni-donna-3-4-p557d-11020a-016_76917",
 "Puzzle in legno per bambini|Ideale affinchè i più piccoli possano sviluppare la memoria|2017/04/puzzle-in-legno-per-bambini|data.oliviero.it/imgprodotto/puzzle-campagna-tessuto-53012_154381",
 "Maglia donna, fiocco frontale|Maglia da donna con ampio scollo, maniche a 3/4, fiocco frontale|2017/04/maglia-donna-fiocco-frontale|data.oliviero.it/imgprodotto/maglia-donna-s3s4ap-00428_146606",

@@ -1,4 +1,5 @@
 Gr = [
+"Poltrona Start Similpelle Nera|Poltrona per ufficio Operativa, con base e braccioli in nylon|2017/04/poltrona-start-similpelle-nera|data.oliviero.it/imgprodotto/poltrona-start-similpelle-nera_159933",
 "Portafoto da muro Collage 7f|Portafoto da muro COLLAGE 7F colore bianco|2017/04/portafoto-da-muro-collage-7f|data.oliviero.it/imgprodotto/portafoto-da-muro-collage-7f_77981",
 "Poltrona da ufficio EVOLUTION|Poltrona da ufficio EVOLUTION con seduta rivestita in tessuto Sale e Pepe|2017/04/poltrona-da-ufficio-evolution|data.oliviero.it/imgprodotto/poltrona-da-ufficio-evolution_136170",
 "Cameretta Boris - GT4056|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta...|2017/04/cameretta-boris-gt4056|data.oliviero.it/imgprodotto/cameretta-boris-gt4056_160263",
