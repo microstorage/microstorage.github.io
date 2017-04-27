@@ -1,4 +1,5 @@
 Gr = [
+"Costume Uomo Monogram 7cm Brief|Costume da uomo progettato per durare più a lungo|2017/04/costume-uomo-monogram-7cm-brief|data.oliviero.it/imgprodotto/costume-uomo-monogram-7cm-brief-8087413503_153405",
 "Guantoni Boxe Revenge 8 Oz - GN069|Guantoni Boxe per chi desidera distinguersi con una grafica d'impatto|2017/04/guantoni-boxe-revenge-8-oz-gn069|data.oliviero.it/imgprodotto/guantoni-boxe-revenge-8-oz-gn069_154530",
 "Tenda Mono 3 da Campeggio|Ancoraggi supplementari, aerazione superiore, tasche portaoggetti|2017/04/tenda-mono-3-da-campeggio|data.oliviero.it/imgprodotto/tenda-mono-3-da-campeggio_87363",
 "Pantaloni Sportivi Uomo Blu - B47213|Collezione Primavera Estate 2017 - Tessuto in felpa garzata|2017/04/pantaloni-sportivi-uomo-blu-b47213|data.oliviero.it/imgprodotto/pantaloni-sportivi-uomo-blu-b47213_162125",

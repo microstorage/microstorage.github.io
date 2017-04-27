@@ -1,4 +1,5 @@
 Gr = [
+"Costume Uomo Monogram 7cm Brief|Costume da uomo progettato per durare più a lungo|2017/04/costume-uomo-monogram-7cm-brief|data.oliviero.it/imgprodotto/costume-uomo-monogram-7cm-brief-8087413503_153405",
 "Guantoni Boxe Revenge 8 Oz - GN069|Guantoni Boxe per chi desidera distinguersi con una grafica d'impatto|2017/04/guantoni-boxe-revenge-8-oz-gn069|data.oliviero.it/imgprodotto/guantoni-boxe-revenge-8-oz-gn069_154530",
 "Poltrona Start Similpelle Nera|Poltrona per ufficio Operativa, con base e braccioli in nylon|2017/04/poltrona-start-similpelle-nera|data.oliviero.it/imgprodotto/poltrona-start-similpelle-nera_159933",
 "Pantaloni casual da donna colore rosa|Collezione Primavera Estate, prodotto Sottocosto!|2017/04/pantaloni-casual-da-donna-colore-rosa|data.oliviero.it/imgprodotto/pantaloni-donna-3-4-p557d-11020a-016_76917",
