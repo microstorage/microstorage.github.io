@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloni casual da donna colore rosa|Collezione Primavera Estate, prodotto Sottocosto!|2017/04/pantaloni-casual-da-donna-colore-rosa|data.oliviero.it/imgprodotto/pantaloni-donna-3-4-p557d-11020a-016_76917",
 "Maglia donna, fiocco frontale|Maglia da donna con ampio scollo, maniche a 3/4, fiocco frontale|2017/04/maglia-donna-fiocco-frontale|data.oliviero.it/imgprodotto/maglia-donna-s3s4ap-00428_146606",
 "Pantaloni da donna, logo con brillantini|Tipologia: Pantalone da donna in cotone, elastan|2017/04/pantaloni-da-donna-logo-con-brillantini|data.oliviero.it/imgprodotto/pantaloni-e8w3417_20582_big",
 "Giacca Uomo Sesame Grey, brevetto Geox|Una giacca uomo pensata per il viaggiatore moderno|2017/04/giacca-uomo-sesame-grey-brevetto-geox|data.oliviero.it/imgprodotto/giacca-uomo-sesame-grey-m7220y-t2163_162513",
