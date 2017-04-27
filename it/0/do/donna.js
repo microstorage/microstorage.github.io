@@ -1,4 +1,5 @@
 Gr = [
+"Maglia donna, fiocco frontale|Maglia da donna con ampio scollo, maniche a 3/4, fiocco frontale|2017/04/maglia-donna-fiocco-frontale|data.oliviero.it/imgprodotto/maglia-donna-s3s4ap-00428_146606",
 "Pantaloni da donna, logo con brillantini|Tipologia: Pantalone da donna in cotone, elastan|2017/04/pantaloni-da-donna-logo-con-brillantini|data.oliviero.it/imgprodotto/pantaloni-e8w3417_20582_big",
 "T-Shirt donna Banana Moon|Collezione Primavera Estate Tipologia: T-shirt da donna Tessuto...|2017/04/t-shirt-donna-banana-moon|data.oliviero.it/imgprodotto/t-shirt-donna-banana-moon_9558_big",
 "Scarpe ZX Flux S32279|Adidas Originals. Tomaia in mesh Etichetta e 3 strisce in TPU...|2017/04/scarpe-zx-flux-s32279|data.oliviero.it/imgprodotto/scarpe-zx-flux-s32279_158678",
