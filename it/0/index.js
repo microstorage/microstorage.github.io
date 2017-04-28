@@ -1,4 +1,5 @@
 Gr = [
+"Materasso estivo e invernale 80x190 Singolo Splendid|Lato invernale misto lana, lato estivo puro cotone bianco|2017/04/materasso-estivo-e-invernale-80x190-singolo-splendid|data.oliviero.it/imgprodotto/materasso-80x190-singolo-splendid_93509",
 "Costume Uomo Monogram 7cm Brief|Costume da uomo progettato per durare più a lungo|2017/04/costume-uomo-monogram-7cm-brief|data.oliviero.it/imgprodotto/costume-uomo-monogram-7cm-brief-8087413503_153405",
 "Guantoni Boxe Revenge 8 Oz - GN069|Guantoni Boxe per chi desidera distinguersi con una grafica d'impatto|2017/04/guantoni-boxe-revenge-8-oz-gn069|data.oliviero.it/imgprodotto/guantoni-boxe-revenge-8-oz-gn069_154530",
 "Poltrona Start Similpelle Nera|Poltrona per ufficio Operativa, con base e braccioli in nylon|2017/04/poltrona-start-similpelle-nera|data.oliviero.it/imgprodotto/poltrona-start-similpelle-nera_159933",
