@@ -1,4 +1,5 @@
 Gr = [
+"2 Tettarelle Silicone flusso medio|Confezione composta da 2 tettarelle in silicone a flusso MEDIO|2017/05/2-tettarelle-silicone-flusso-medio|data.oliviero.it/imgprodotto/2-tettarelle-silicone-flusso-medio_9053_big",
 "Portafoto da muro Collage 7f|Portafoto da muro COLLAGE 7F colore bianco|2017/04/portafoto-da-muro-collage-7f|data.oliviero.it/imgprodotto/portafoto-da-muro-collage-7f_77981",
 "Cameretta Boris - GT4056|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta...|2017/04/cameretta-boris-gt4056|data.oliviero.it/imgprodotto/cameretta-boris-gt4056_160263",
 "Marsupio Front Dalia|Il marsupio per muoversi agevolmente in totale libertà con il bebè|2017/04/marsupio-front-dalia|data.oliviero.it/imgprodotto/marsupio-front-dalia_154916",

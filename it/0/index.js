@@ -1,4 +1,5 @@
 Gr = [
+"2 Tettarelle Silicone flusso medio|Confezione composta da 2 tettarelle in silicone a flusso MEDIO|2017/05/2-tettarelle-silicone-flusso-medio|data.oliviero.it/imgprodotto/2-tettarelle-silicone-flusso-medio_9053_big",
 "Cyclette Diamond D39|Cyclette D39 SISTEMA FRENANTE Elettromagnetico potenza 300 Watt|2017/05/cyclette-diamond-d39|data.oliviero.it/imgprodotto/cyclette-diamond-d39_143432",
 "Valigia Trunky Zimba Zebra|Per rendere le vacanze ed i viaggi in macchina ancora più divertenti|2017/04/valigia-trunky-zimba-zebra|data.oliviero.it/imgprodotto/trunky-zimba-zebra_163471",
 "T-Shirt donna mezza manica, scollatura a V|La mezza manica e la scollatura a V non passano mai di moda|2017/04/t-shirt-donna-mezza-manica-scollatura-a-v|data.oliviero.it/imgprodotto/t-shirt-donna-105847-006_50410_big",
