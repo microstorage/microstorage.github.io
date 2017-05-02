@@ -1,4 +1,5 @@
 Gr = [
+"Abito donna collezione Liu Jo jeans|Abito intero da donna composto da due tipologie di tessuto|2017/05/abito-donna-collezione-liu-jo-jeans|data.oliviero.it/imgprodotto/abito-donna-w15054-t7944_147044",
 "T-Shirt donna mezza manica, scollatura a V|La mezza manica e la scollatura a V non passano mai di moda|2017/04/t-shirt-donna-mezza-manica-scollatura-a-v|data.oliviero.it/imgprodotto/t-shirt-donna-105847-006_50410_big",
 "Pantaloni casual da donna colore rosa|Collezione Primavera Estate, prodotto Sottocosto!|2017/04/pantaloni-casual-da-donna-colore-rosa|data.oliviero.it/imgprodotto/pantaloni-donna-3-4-p557d-11020a-016_76917",
 "Maglia donna, fiocco frontale|Maglia da donna con ampio scollo, maniche a 3/4, fiocco frontale|2017/04/maglia-donna-fiocco-frontale|data.oliviero.it/imgprodotto/maglia-donna-s3s4ap-00428_146606",

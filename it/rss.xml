@@ -5,12 +5,45 @@
 <link>http://www.sale42.com</link>
 <description>// Sale42.com :: La Risposta Definitiva alla tua Voglia di Shopping //</description>
 <language>it</language>
-<pubDate>Tue, 02 May 2017 13:29:55 +0000</pubDate>
+<pubDate>Tue, 02 May 2017 13:35:33 +0000</pubDate>
 <image>
 	<url>http://www.sale42.com/0/1/logo_420x212.png</url>
 	<title>Sale42.com</title>
 	<link>http://www.sale42.com/it/</link>
 </image>
+<item>
+	<title>Abito donna collezione Liu Jo jeans // Abito intero da donna composto da due tipologie di tessuto // #abbigliamento #donna #abiti-e-vestiti #moda #liu-jo</title>
+	<link>http://www.sale42.com/it/2017/05/abito-donna-collezione-liu-jo-jeans.html</link>
+	<description>
+		<![CDATA[
+			<table cellpadding="2" cellspacing="0" border="0" bgcolor="#D0D0D0">
+				<tr>
+					<td>
+						<table width="340" cellpadding="10" cellspacing="0" border="0">
+							<tr>
+								<td bgcolor="#F0F0F0">
+									<a href="http://www.sale42.com/it/2017/05/abito-donna-collezione-liu-jo-jeans.html"><img src="http://data.oliviero.it/imgprodotto/abito-donna-w15054-t7944_147044.jpg" width="100%" alt="#abbigliamento #donna #abiti-e-vestiti #moda #liu-jo"></a>
+									<a href="http://www.sale42.com/it/2017/05/abito-donna-collezione-liu-jo-jeans.html"><font face="Verdana,Arial,Helvetica" size="4" color="#BB0000"><b>Abito donna collezione Liu Jo jeans</b></font></a><br>
+									<font face="Verdana,Arial,Helvetica" size="2" color="#000000">
+										Abito intero da donna composto da due tipologie di tessuto<br>
+										<font color="#646464">#abbigliamento #donna #abiti-e-vestiti #moda #liu-jo :: 2 maggio 2017</font>
+									</font>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		]]>
+	</description>
+	<pubDate>Tue, 02 May 2017 13:35:33 +0000</pubDate>
+	<guid>http://www.sale42.com/it/2017/05/abito-donna-collezione-liu-jo-jeans.html</guid>
+	<category>abbigliamento</category>
+	<category>donna</category>
+	<category>abiti-e-vestiti</category>
+	<category>moda</category>
+	<category>liu-jo</category>
+</item>
 <item>
 	<title>2 Tettarelle Silicone flusso medio // Confezione composta da 2 tettarelle in silicone a flusso MEDIO // #infanzia #allattamento #tettarelle</title>
 	<link>http://www.sale42.com/it/2017/05/2-tettarelle-silicone-flusso-medio.html</link>
@@ -1672,50 +1705,6 @@
 	<category>arredo</category>
 	<category>lenzuola</category>
 	<category>copriletto</category>
-</item>
-<item>
-	<title>4 dei migliori Pareo da Mare: marzo 2017 // I 4 Pareo da Mare scelti a marzo 2017, perché l'estate arriva presto! // #mare #pareo #spiaggia #moda #donna #stile #abbigliamento #lago #estate #barca #imbarcazione #oceano #tender #nautica #ombrelloni #ombrelloni-spiaggia</title>
-	<link>http://www.sale42.com/it/2017/03/4-dei-migliori-pareo-da-mare-marzo-2017.html</link>
-	<description>
-		<![CDATA[
-			<table cellpadding="2" cellspacing="0" border="0" bgcolor="#D0D0D0">
-				<tr>
-					<td>
-						<table width="340" cellpadding="10" cellspacing="0" border="0">
-							<tr>
-								<td bgcolor="#F0F0F0">
-									<a href="http://www.sale42.com/it/2017/03/4-dei-migliori-pareo-da-mare-marzo-2017.html"><img src="http://data.oliviero.it/imgprodotto/pareo-da-mare-assorbente-essential-jacquard-7awl8a21003_163037.jpg" width="100%" alt="#mare #pareo #spiaggia #moda #donna #stile #abbigliamento #lago #estate #barca #imbarcazione #oceano #tender #nautica #ombrelloni #ombrelloni-spiaggia"></a>
-									<a href="http://www.sale42.com/it/2017/03/4-dei-migliori-pareo-da-mare-marzo-2017.html"><font face="Verdana,Arial,Helvetica" size="4" color="#BB0000"><b>4 dei migliori Pareo da Mare: marzo 2017</b></font></a><br>
-									<font face="Verdana,Arial,Helvetica" size="2" color="#000000">
-										I 4 Pareo da Mare scelti a marzo 2017, perché l'estate arriva presto!<br>
-										<font color="#646464">#mare #pareo #spiaggia #moda #donna #stile #abbigliamento #lago #estate #barca #imbarcazione #oceano #tender #nautica #ombrelloni #ombrelloni-spiaggia :: 30 marzo 2017</font>
-									</font>
-								</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-		]]>
-	</description>
-	<pubDate>Thu, 30 Mar 2017 14:04:01 +0000</pubDate>
-	<guid>http://www.sale42.com/it/2017/03/4-dei-migliori-pareo-da-mare-marzo-2017.html</guid>
-	<category>mare</category>
-	<category>pareo</category>
-	<category>spiaggia</category>
-	<category>moda</category>
-	<category>donna</category>
-	<category>stile</category>
-	<category>abbigliamento</category>
-	<category>lago</category>
-	<category>estate</category>
-	<category>barca</category>
-	<category>imbarcazione</category>
-	<category>oceano</category>
-	<category>tender</category>
-	<category>nautica</category>
-	<category>ombrelloni</category>
-	<category>ombrelloni-spiaggia</category>
 </item>
 </channel>
 </rss>
