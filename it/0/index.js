@@ -1,4 +1,5 @@
 Gr = [
+"Seggiolino Auto Viaggiosicuro Isofix 212|Seggiolino Auto dotato di un sistema di controllo visivo anteriore|2017/05/seggiolino-auto-viaggiosicuro-isofix-212|data.oliviero.it/imgprodotto/viaggiosicuro-isofix-212_139434",
 "Abito donna collezione Liu Jo jeans|Abito intero da donna composto da due tipologie di tessuto|2017/05/abito-donna-collezione-liu-jo-jeans|data.oliviero.it/imgprodotto/abito-donna-w15054-t7944_147044",
 "2 Tettarelle Silicone flusso medio|Confezione composta da 2 tettarelle in silicone a flusso MEDIO|2017/05/2-tettarelle-silicone-flusso-medio|data.oliviero.it/imgprodotto/2-tettarelle-silicone-flusso-medio_9053_big",
 "Cyclette Diamond D39|Cyclette D39 SISTEMA FRENANTE Elettromagnetico potenza 300 Watt|2017/05/cyclette-diamond-d39|data.oliviero.it/imgprodotto/cyclette-diamond-d39_143432",
