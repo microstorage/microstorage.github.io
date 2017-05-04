@@ -1,4 +1,5 @@
 Gr = [
+"Scopa elettrica ciclonica 2 in 1|Contenitore raccogli polvere trasparente e rimovibile, senza sacchetto|2017/05/scopa-elettrica-ciclonica-2-in-1|data.oliviero.it/imgprodotto/scopa-elettrica-ciclonica-50-913b_100317",
 "Materasso estivo e invernale 80x190 Singolo Splendid|Lato invernale misto lana, lato estivo puro cotone bianco|2017/04/materasso-estivo-e-invernale-80x190-singolo-splendid|data.oliviero.it/imgprodotto/materasso-80x190-singolo-splendid_93509",
 "Poltrona Start Similpelle Nera|Poltrona per ufficio Operativa, con base e braccioli in nylon|2017/04/poltrona-start-similpelle-nera|data.oliviero.it/imgprodotto/poltrona-start-similpelle-nera_159933",
 "Poltrona da ufficio EVOLUTION|Poltrona da ufficio EVOLUTION con seduta rivestita in tessuto Sale e Pepe|2017/04/poltrona-da-ufficio-evolution|data.oliviero.it/imgprodotto/poltrona-da-ufficio-evolution_136170",
