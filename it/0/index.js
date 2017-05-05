@@ -1,4 +1,5 @@
 Gr = [
+"Jeans donna colore nero|Jeans dalla vestibilità slim, da donna con 5 tasche, allacciatura frontale|2017/05/jeans-donna-colore-nero|data.oliviero.it/imgprodotto/jeans-donna-p2s4s2-00006_146868",
 "Lettino Blinky Bianco Panna|Bellissimo lettino bianco con applicativi della serie Blinky|2017/05/lettino-blinky-bianco-panna|data.oliviero.it/imgprodotto/lettino-blinky-bianco-panna_68523",
 "T-Shirt Uomo Taglie Forti Grigio - U546|Collezione Primavera Estate 2017 T-Shirt da uomo taglie forti|2017/05/t-shirt-uomo-taglie-forti-grigio-u546|data.oliviero.it/imgprodotto/t-shirt-uomo-taglie-forti-grigio-u546_162808",
 "Scopa elettrica ciclonica 2 in 1|Contenitore raccogli polvere trasparente e rimovibile, senza sacchetto|2017/05/scopa-elettrica-ciclonica-2-in-1|data.oliviero.it/imgprodotto/scopa-elettrica-ciclonica-50-913b_100317",

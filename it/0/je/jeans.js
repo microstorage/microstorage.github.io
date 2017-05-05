@@ -1,4 +1,5 @@
 Gr = [
+"Jeans donna colore nero|Jeans dalla vestibilità slim, da donna con 5 tasche, allacciatura frontale|2017/05/jeans-donna-colore-nero|data.oliviero.it/imgprodotto/jeans-donna-p2s4s2-00006_146868",
 "Jeans donna con scampanatura alla caviglia|Jeans donna vita regolare, gamba regolare con scampanatura|2017/05/jeans-donna-con-scampanatura-alla-caviglia|data.oliviero.it/imgprodotto/jeans-donna-doozy_8985_big",
 "I 3 Jeggings selezionati: marzo 2017|La top 3 dei migliori Jeggings sul mercato a marzo 2017|2017/03/i-3-jeggings-selezionati-marzo-2017|data.oliviero.it/imgprodotto/jeggings-t2s4pc-00094_146864",
 "Jeans da Uomo: i 10 migliori a marzo 2017|La top 10 dei migliori Jeans da Uomo venduti a marzo 2017|2017/03/jeans-da-uomo-i-10-migliori-a-marzo-2017|data.oliviero.it/imgprodotto/jeans-taglie-forti-uomo-22062-001_154057",

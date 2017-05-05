@@ -1,4 +1,5 @@
 Gr = [
+"Jeans donna colore nero|Jeans dalla vestibilità slim, da donna con 5 tasche, allacciatura frontale|2017/05/jeans-donna-colore-nero|data.oliviero.it/imgprodotto/jeans-donna-p2s4s2-00006_146868",
 "Jeans donna con scampanatura alla caviglia|Jeans donna vita regolare, gamba regolare con scampanatura|2017/05/jeans-donna-con-scampanatura-alla-caviglia|data.oliviero.it/imgprodotto/jeans-donna-doozy_8985_big",
 "Abito donna collezione Liu Jo jeans|Abito intero da donna composto da due tipologie di tessuto|2017/05/abito-donna-collezione-liu-jo-jeans|data.oliviero.it/imgprodotto/abito-donna-w15054-t7944_147044",
 "T-Shirt donna mezza manica, scollatura a V|La mezza manica e la scollatura a V non passano mai di moda|2017/04/t-shirt-donna-mezza-manica-scollatura-a-v|data.oliviero.it/imgprodotto/t-shirt-donna-105847-006_50410_big",

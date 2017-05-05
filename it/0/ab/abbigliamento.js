@@ -1,4 +1,5 @@
 Gr = [
+"Jeans donna colore nero|Jeans dalla vestibilità slim, da donna con 5 tasche, allacciatura frontale|2017/05/jeans-donna-colore-nero|data.oliviero.it/imgprodotto/jeans-donna-p2s4s2-00006_146868",
 "T-Shirt Uomo Taglie Forti Grigio - U546|Collezione Primavera Estate 2017 T-Shirt da uomo taglie forti|2017/05/t-shirt-uomo-taglie-forti-grigio-u546|data.oliviero.it/imgprodotto/t-shirt-uomo-taglie-forti-grigio-u546_162808",
 "Jeans donna con scampanatura alla caviglia|Jeans donna vita regolare, gamba regolare con scampanatura|2017/05/jeans-donna-con-scampanatura-alla-caviglia|data.oliviero.it/imgprodotto/jeans-donna-doozy_8985_big",
 "Abito donna collezione Liu Jo jeans|Abito intero da donna composto da due tipologie di tessuto|2017/05/abito-donna-collezione-liu-jo-jeans|data.oliviero.it/imgprodotto/abito-donna-w15054-t7944_147044",
