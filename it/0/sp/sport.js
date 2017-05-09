@@ -1,4 +1,5 @@
 Gr = [
+"Tavolo Ping Pong 11 Indoor|Tavolo Ping Pong facile da ripiegare, salva spazio|2017/05/tavolo-ping-pong-11-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-11-indoor_59111",
 "Piantana Basket USA trasportabile|1 Piantana Basket USA trasportabile e regolabile|2017/05/piantana-basket-usa-trasportabile|data.oliviero.it/imgprodotto/1-piantana-basket-usa-70-320-0016_157445",
 "Casa fungo giocattolo|Casa giocattolo per bambini Colibrì con due porte e due finestre|2017/05/casa-fungo-giocattolo|data.oliviero.it/imgprodotto/casa-fungo_163912",
 "Cyclette Diamond D39|Cyclette D39 SISTEMA FRENANTE Elettromagnetico potenza 300 Watt|2017/05/cyclette-diamond-d39|data.oliviero.it/imgprodotto/cyclette-diamond-d39_143432",
