@@ -1,4 +1,5 @@
 Gr = [
+"Tenda Smart 3 Air da Campeggio Bertoni|Pavimentazione in tutta la tenda, ampia zanzariera posteriore|2017/05/tenda-smart-3-air-da-campeggio-bertoni|data.oliviero.it/imgprodotto/tenda-smart-3-air-da-campeggio_124705",
 "Tenda Mono 3 da Campeggio|Ancoraggi supplementari, aerazione superiore, tasche portaoggetti|2017/04/tenda-mono-3-da-campeggio|data.oliviero.it/imgprodotto/tenda-mono-3-da-campeggio_87363",
 "Le 7 Torce Elettriche più utili: febbraio 2017|Le 7 Torce Elettriche più comprate, disponibili ora per l'acquisto|2017/02/le-7-torce-elettriche-piu-utili-febbraio-2017|data.oliviero.it/imgprodotto/torcia-ricaricabile-konuslight-rc2_93075",
 "Le 10 migliori Tende Igloo: febbraio 2017|Le 10 Tende Igloo più interessanti per l'acquisto, subito disponibili|2017/02/le-10-migliori-tende-igloo-febbraio-2017|data.oliviero.it/imgprodotto/tenda-igloo-alp-4_87333",
