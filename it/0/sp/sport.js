@@ -1,4 +1,5 @@
 Gr = [
+"Costume Donna Speedo Fit Kickback|Costume da donna resistente al cloro, ideale per la piscina|2017/05/costume-donna-speedo-fit-kickback|data.oliviero.it/imgprodotto/costume-donna-speedo-fit-kickback-810367b079_153418",
 "Sacco Boxe e Arti Marziali Training 30 kg Nero|Pelle sintetica, riempitura a stracci triturati, certificati|2017/05/sacco-boxe-e-arti-marziali-training-30-kg-nero|data.oliviero.it/imgprodotto/sacco-training-30-kg-nero_159670",
 "Tenda Smart 3 Air da Campeggio Bertoni|Pavimentazione in tutta la tenda, ampia zanzariera posteriore|2017/05/tenda-smart-3-air-da-campeggio-bertoni|data.oliviero.it/imgprodotto/tenda-smart-3-air-da-campeggio_124705",
 "Tavolo Ping Pong 11 Indoor|Tavolo Ping Pong facile da ripiegare, salva spazio|2017/05/tavolo-ping-pong-11-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-11-indoor_59111",
