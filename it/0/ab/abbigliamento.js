@@ -1,4 +1,5 @@
 Gr = [
+"Jeans uomo Slim Fit 511 Valley Ford|Per un look snello, aderiscono senza stringere troppo|2017/05/jeans-uomo-slim-fit-511-valley-ford|data.oliviero.it/imgprodotto/jeans-uomo-slim-fit-511-valley-ford-04511-1586_137118",
 "Giacca uomo Casual, due tasche interne|Giacca dal taglio casual rifinita nei minimi particolari|2017/05/giacca-uomo-casual-due-tasche-interne|data.oliviero.it/imgprodotto/giacca-uomo-casual-2837-65700-7_146150",
 "Jeans donna colore nero|Jeans dalla vestibilità slim, da donna con 5 tasche, allacciatura frontale|2017/05/jeans-donna-colore-nero|data.oliviero.it/imgprodotto/jeans-donna-p2s4s2-00006_146868",
 "T-Shirt Uomo Taglie Forti Grigio - U546|Collezione Primavera Estate 2017 T-Shirt da uomo taglie forti|2017/05/t-shirt-uomo-taglie-forti-grigio-u546|data.oliviero.it/imgprodotto/t-shirt-uomo-taglie-forti-grigio-u546_162808",
