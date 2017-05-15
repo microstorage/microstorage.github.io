@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Classic Traditionnels da running|Un look accattivante senza bisogno di rivoltare la linguetta|2017/05/scarpe-classic-traditionnels-da-running|data.oliviero.it/imgprodotto/scarpe-classic-traditionnels-ml574poy_160179",
 "Jeans donna colore nero|Jeans dalla vestibilità slim, da donna con 5 tasche, allacciatura frontale|2017/05/jeans-donna-colore-nero|data.oliviero.it/imgprodotto/jeans-donna-p2s4s2-00006_146868",
 "Jeans donna con scampanatura alla caviglia|Jeans donna vita regolare, gamba regolare con scampanatura|2017/05/jeans-donna-con-scampanatura-alla-caviglia|data.oliviero.it/imgprodotto/jeans-donna-doozy_8985_big",
 "Abito donna collezione Liu Jo jeans|Abito intero da donna composto da due tipologie di tessuto|2017/05/abito-donna-collezione-liu-jo-jeans|data.oliviero.it/imgprodotto/abito-donna-w15054-t7944_147044",

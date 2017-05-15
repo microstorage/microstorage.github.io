@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Classic Traditionnels da running|Un look accattivante senza bisogno di rivoltare la linguetta|2017/05/scarpe-classic-traditionnels-da-running|data.oliviero.it/imgprodotto/scarpe-classic-traditionnels-ml574poy_160179",
 "Jeans uomo Slim Fit 511 Valley Ford|Per un look snello, aderiscono senza stringere troppo|2017/05/jeans-uomo-slim-fit-511-valley-ford|data.oliviero.it/imgprodotto/jeans-uomo-slim-fit-511-valley-ford-04511-1586_137118",
 "Gioco Impilabile Numeri 6 mesi e più|10 bicchierini di diverse dimensioni, da sovrapporre ordinandoli|2017/05/gioco-impilabile-numeri-6-mesi-e-piu|data.oliviero.it/imgprodotto/impilabile-numeri_139256",
 "Costume Donna Speedo Fit Kickback|Costume da donna resistente al cloro, ideale per la piscina|2017/05/costume-donna-speedo-fit-kickback|data.oliviero.it/imgprodotto/costume-donna-speedo-fit-kickback-810367b079_153418",
