@@ -1,4 +1,5 @@
 Gr = [
+"Borsa Donna Bianco con manici regolabili|Borsa da donna con manici regolabili, scomparto unico con chiusura zip|2017/05/borsa-donna-bianco-con-manici-regolabili|data.oliviero.it/imgprodotto/borsa-donna-bianco-p743424d-707_158988",
 "Pantalone Uomo Taglie Forti Ocra|Due tasche in vita, due nella parte posteriore, cuciture tono su tono|2017/05/pantalone-uomo-taglie-forti-ocra|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-ocra-p27-1067-12_163452",
 "Scarpe Classic Traditionnels da running|Un look accattivante senza bisogno di rivoltare la linguetta|2017/05/scarpe-classic-traditionnels-da-running|data.oliviero.it/imgprodotto/scarpe-classic-traditionnels-ml574poy_160179",
 "Jeans uomo Slim Fit 511 Valley Ford|Per un look snello, aderiscono senza stringere troppo|2017/05/jeans-uomo-slim-fit-511-valley-ford|data.oliviero.it/imgprodotto/jeans-uomo-slim-fit-511-valley-ford-04511-1586_137118",
