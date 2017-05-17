@@ -1,4 +1,5 @@
 Gr = [
+"Pantalone Uomo Taglie Forti Ocra|Due tasche in vita, due nella parte posteriore, cuciture tono su tono|2017/05/pantalone-uomo-taglie-forti-ocra|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-ocra-p27-1067-12_163452",
 "Pantaloni casual da donna colore rosa|Collezione Primavera Estate, prodotto Sottocosto!|2017/04/pantaloni-casual-da-donna-colore-rosa|data.oliviero.it/imgprodotto/pantaloni-donna-3-4-p557d-11020a-016_76917",
 "Pantaloni con Elastico Azzurro - 044042|Pantalone unisex realizzato in 35% cotone e 65% poliestere|2017/04/pantaloni-con-elastico-azzurro-044042|data.oliviero.it/imgprodotto/pantaloni-con-elastico-azzurro-044042_24257_big",
 "I 10 Pantaloni con Elastico migliori: marzo 2017|I 10 Pantaloni con Elastico più richiesti: la classifica di marzo 2017|2017/03/i-10-pantaloni-con-elastico-migliori-marzo-2017|data.oliviero.it/imgprodotto/pantaloni-con-elastico-mela-044726_151125",

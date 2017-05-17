@@ -1,4 +1,5 @@
 Gr = [
+"Pantalone Uomo Taglie Forti Ocra|Due tasche in vita, due nella parte posteriore, cuciture tono su tono|2017/05/pantalone-uomo-taglie-forti-ocra|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-ocra-p27-1067-12_163452",
 "Jeans uomo Slim Fit 511 Valley Ford|Per un look snello, aderiscono senza stringere troppo|2017/05/jeans-uomo-slim-fit-511-valley-ford|data.oliviero.it/imgprodotto/jeans-uomo-slim-fit-511-valley-ford-04511-1586_137118",
 "Giacca uomo Casual, due tasche interne|Giacca dal taglio casual rifinita nei minimi particolari|2017/05/giacca-uomo-casual-due-tasche-interne|data.oliviero.it/imgprodotto/giacca-uomo-casual-2837-65700-7_146150",
 "Giacca Uomo Sesame Grey, brevetto Geox|Una giacca uomo pensata per il viaggiatore moderno|2017/04/giacca-uomo-sesame-grey-brevetto-geox|data.oliviero.it/imgprodotto/giacca-uomo-sesame-grey-m7220y-t2163_162513",

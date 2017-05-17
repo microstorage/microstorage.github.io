@@ -1,4 +1,5 @@
 Gr = [
+"Pantalone Uomo Taglie Forti Ocra|Due tasche in vita, due nella parte posteriore, cuciture tono su tono|2017/05/pantalone-uomo-taglie-forti-ocra|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-ocra-p27-1067-12_163452",
 "Jeans uomo Slim Fit 511 Valley Ford|Per un look snello, aderiscono senza stringere troppo|2017/05/jeans-uomo-slim-fit-511-valley-ford|data.oliviero.it/imgprodotto/jeans-uomo-slim-fit-511-valley-ford-04511-1586_137118",
 "Giacca uomo Casual, due tasche interne|Giacca dal taglio casual rifinita nei minimi particolari|2017/05/giacca-uomo-casual-due-tasche-interne|data.oliviero.it/imgprodotto/giacca-uomo-casual-2837-65700-7_146150",
 "Jeans donna colore nero|Jeans dalla vestibilità slim, da donna con 5 tasche, allacciatura frontale|2017/05/jeans-donna-colore-nero|data.oliviero.it/imgprodotto/jeans-donna-p2s4s2-00006_146868",
