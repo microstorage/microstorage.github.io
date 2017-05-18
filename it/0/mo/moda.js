@@ -1,4 +1,5 @@
 Gr = [
+"T-Shirt Donna Nero stellata Converse|T-Shirt donna con girocollo e mezza manica Collezione Primavera Estate|2017/05/t-shirt-donna-nero-stellata-converse|data.oliviero.it/imgprodotto/t-shirt-donna-nero_165016",
 "Pantalone Uomo Taglie Forti Ocra|Due tasche in vita, due nella parte posteriore, cuciture tono su tono|2017/05/pantalone-uomo-taglie-forti-ocra|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-ocra-p27-1067-12_163452",
 "Giacca uomo Casual, due tasche interne|Giacca dal taglio casual rifinita nei minimi particolari|2017/05/giacca-uomo-casual-due-tasche-interne|data.oliviero.it/imgprodotto/giacca-uomo-casual-2837-65700-7_146150",
 "Abito donna collezione Liu Jo jeans|Abito intero da donna composto da due tipologie di tessuto|2017/05/abito-donna-collezione-liu-jo-jeans|data.oliviero.it/imgprodotto/abito-donna-w15054-t7944_147044",
