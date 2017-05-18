@@ -1,4 +1,5 @@
 Gr = [
+"Gilet donna due tasche a filetto|Gilet donna, chiusura con un bottone, collo a stola in contrasto|2017/05/gilet-donna-due-tasche-a-filetto|data.oliviero.it/imgprodotto/gilet-donna_82991",
 "T-Shirt Donna Nero stellata Converse|T-Shirt donna con girocollo e mezza manica Collezione Primavera Estate|2017/05/t-shirt-donna-nero-stellata-converse|data.oliviero.it/imgprodotto/t-shirt-donna-nero_165016",
 "Scarpe Classic Traditionnels da running|Un look accattivante senza bisogno di rivoltare la linguetta|2017/05/scarpe-classic-traditionnels-da-running|data.oliviero.it/imgprodotto/scarpe-classic-traditionnels-ml574poy_160179",
 "Jeans donna colore nero|Jeans dalla vestibilità slim, da donna con 5 tasche, allacciatura frontale|2017/05/jeans-donna-colore-nero|data.oliviero.it/imgprodotto/jeans-donna-p2s4s2-00006_146868",
