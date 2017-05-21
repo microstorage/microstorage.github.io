@@ -1,4 +1,5 @@
 Gr = [
+"Seggiolino auto omologato fino a 18 kg|Dalla nascita fino circa 3-4 anni, protezione contro urto laterale|2017/05/seggiolino-auto-omologato-fino-a-18-kg|data.oliviero.it/imgprodotto/cosmo-sp-luxe-agora-sable_160616",
 "Lettino Blinky Bianco Panna|Bellissimo lettino bianco con applicativi della serie Blinky|2017/05/lettino-blinky-bianco-panna|data.oliviero.it/imgprodotto/lettino-blinky-bianco-panna_68523",
 "Seggiolino Auto Viaggiosicuro Isofix 212|Seggiolino Auto dotato di un sistema di controllo visivo anteriore|2017/05/seggiolino-auto-viaggiosicuro-isofix-212|data.oliviero.it/imgprodotto/viaggiosicuro-isofix-212_139434",
 "2 Tettarelle Silicone flusso medio|Confezione composta da 2 tettarelle in silicone a flusso MEDIO|2017/05/2-tettarelle-silicone-flusso-medio|data.oliviero.it/imgprodotto/2-tettarelle-silicone-flusso-medio_9053_big",

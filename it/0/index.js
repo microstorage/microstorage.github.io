@@ -1,4 +1,5 @@
 Gr = [
+"Seggiolino auto omologato fino a 18 kg|Dalla nascita fino circa 3-4 anni, protezione contro urto laterale|2017/05/seggiolino-auto-omologato-fino-a-18-kg|data.oliviero.it/imgprodotto/cosmo-sp-luxe-agora-sable_160616",
 "Bersaglio elettronico per il gioco delle freccette|Kit di 6 freccette con 40 punte in plastica di ricambio incluse|2017/05/bersaglio-elettronico-per-il-gioco-delle-freccette|data.oliviero.it/imgprodotto/bersaglio-elettronico-sirius_8382_big",
 "Gilet donna due tasche a filetto|Gilet donna, chiusura con un bottone, collo a stola in contrasto|2017/05/gilet-donna-due-tasche-a-filetto|data.oliviero.it/imgprodotto/gilet-donna_82991",
 "T-Shirt Donna Nero stellata Converse|T-Shirt donna con girocollo e mezza manica Collezione Primavera Estate|2017/05/t-shirt-donna-nero-stellata-converse|data.oliviero.it/imgprodotto/t-shirt-donna-nero_165016",
