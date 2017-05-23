@@ -1,4 +1,5 @@
 Gr = [
+"Passeggino Curvi leggero telaio in alluminio|Sistema di chiusura ad una sola mano, appoggiapiedi regolabile|2017/05/passeggino-curvi-leggero-telaio-in-alluminio|data.oliviero.it/imgprodotto/passeggino-curvi-119_159136",
 "Lettino Prestige Little Star Magnolia|Sicurezza e praticità per regolare le spondine con una sola mano|2017/05/lettino-prestige-little-star-magnolia|data.oliviero.it/imgprodotto/lettino-prestige-little-star-magnolia_25093_big",
 "Seggiolino auto omologato fino a 18 kg|Dalla nascita fino circa 3-4 anni, protezione contro urto laterale|2017/05/seggiolino-auto-omologato-fino-a-18-kg|data.oliviero.it/imgprodotto/cosmo-sp-luxe-agora-sable_160616",
 "Lettino Blinky Bianco Panna|Bellissimo lettino bianco con applicativi della serie Blinky|2017/05/lettino-blinky-bianco-panna|data.oliviero.it/imgprodotto/lettino-blinky-bianco-panna_68523",

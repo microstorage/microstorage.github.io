@@ -1,4 +1,5 @@
 Gr = [
+"Passeggino Curvi leggero telaio in alluminio|Sistema di chiusura ad una sola mano, appoggiapiedi regolabile|2017/05/passeggino-curvi-leggero-telaio-in-alluminio|data.oliviero.it/imgprodotto/passeggino-curvi-119_159136",
 "I 7 Pattini in Linea al top: aprile 2017|I 7 Pattini in Linea che piacciono di più ad aprile 2017|2017/04/i-7-pattini-in-linea-al-top-aprile-2017|data.oliviero.it/imgprodotto/pattini-in-linea-firewheel-colore-rosso_162394",
 "I 10 migliori Passeggini: aprile 2017|I 10 Passeggini più pratici: la classifica aggiornata a aprile 2017|2017/04/i-10-migliori-passeggini-aprile-2017|data.oliviero.it/imgprodotto/passeggino-twin-swift-mgrafite_163484",
 "8 Pantaloni Bambino consigliati: marzo 2017|Gli 8 Pantaloni Bambino che preferiamo, a marzo 2017|2017/03/8-pantaloni-bambino-consigliati-marzo-2017|data.oliviero.it/imgprodotto/pantalone-jr-elasticizzato-in-gabardine-microfantasia-163mhbh002-842_155061",
