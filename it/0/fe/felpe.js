@@ -1,4 +1,3 @@
 Gr = [
 "Felpa Uomo Nero Adidas Essentials 3 Stripes|Felpa Uomo perfetta per le giornate più fresche, polsini e orlo a coste|2017/05/felpa-uomo-nero-adidas-essentials-3-stripes|data.oliviero.it/imgprodotto/felpa-uomo-nero-essentials-3-stripes-s98803_160228",
-"T-Shirt Uomo Taglie Forti Grigio - U546|Collezione Primavera Estate 2017 T-Shirt da uomo taglie forti|2017/05/t-shirt-uomo-taglie-forti-grigio-u546|data.oliviero.it/imgprodotto/t-shirt-uomo-taglie-forti-grigio-u546_162808",
 ];

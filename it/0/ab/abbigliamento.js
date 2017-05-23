@@ -1,4 +1,5 @@
 Gr = [
+"Felpa Uomo Nero Adidas Essentials 3 Stripes|Felpa Uomo perfetta per le giornate più fresche, polsini e orlo a coste|2017/05/felpa-uomo-nero-adidas-essentials-3-stripes|data.oliviero.it/imgprodotto/felpa-uomo-nero-essentials-3-stripes-s98803_160228",
 "Gilet donna due tasche a filetto|Gilet donna, chiusura con un bottone, collo a stola in contrasto|2017/05/gilet-donna-due-tasche-a-filetto|data.oliviero.it/imgprodotto/gilet-donna_82991",
 "T-Shirt Donna Nero stellata Converse|T-Shirt donna con girocollo e mezza manica Collezione Primavera Estate|2017/05/t-shirt-donna-nero-stellata-converse|data.oliviero.it/imgprodotto/t-shirt-donna-nero_165016",
 "Borsa Donna Bianco con manici regolabili|Borsa da donna con manici regolabili, scomparto unico con chiusura zip|2017/05/borsa-donna-bianco-con-manici-regolabili|data.oliviero.it/imgprodotto/borsa-donna-bianco-p743424d-707_158988",
