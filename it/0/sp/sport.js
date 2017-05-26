@@ -1,4 +1,5 @@
 Gr = [
+"Infadito Havaianas Donna Slim Logo Metallic|Le originali infradito brasiliane realizzate appositamente per la donna|2017/05/infadito-havaianas-donna-slim-logo-metallic|data.oliviero.it/imgprodotto/infadito-havaianas-slim-logo-metallic-4119875-0801_164332",
 "Bersaglio elettronico per il gioco delle freccette|Kit di 6 freccette con 40 punte in plastica di ricambio incluse|2017/05/bersaglio-elettronico-per-il-gioco-delle-freccette|data.oliviero.it/imgprodotto/bersaglio-elettronico-sirius_8382_big",
 "Costume Donna Speedo Fit Kickback|Costume da donna resistente al cloro, ideale per la piscina|2017/05/costume-donna-speedo-fit-kickback|data.oliviero.it/imgprodotto/costume-donna-speedo-fit-kickback-810367b079_153418",
 "Sacco Boxe e Arti Marziali Training 30 kg Nero|Pelle sintetica, riempitura a stracci triturati, certificati|2017/05/sacco-boxe-e-arti-marziali-training-30-kg-nero|data.oliviero.it/imgprodotto/sacco-training-30-kg-nero_159670",
