@@ -1,4 +1,5 @@
 Gr = [
+"Borsa Tennis Portaracchette Elite 12R Monstercombi|La partecipazione a un torneo di tennis richiede una buona attrezzatura|2017/05/borsa-tennis-portaracchette-elite-12r-monstercombi|data.oliviero.it/imgprodotto/borsa-portaracchette-elite-12r-monstercombi-283356_154543",
 "Infadito Havaianas Donna Slim Logo Metallic|Le originali infradito brasiliane realizzate appositamente per la donna|2017/05/infadito-havaianas-donna-slim-logo-metallic|data.oliviero.it/imgprodotto/infadito-havaianas-slim-logo-metallic-4119875-0801_164332",
 "Posate 24 pz Verde Chiaro Brio|Modello di posate dalla tradizionale semplicità con un tocco di allegria|2017/05/posate-24-pz-verde-chiaro-brio|data.oliviero.it/imgprodotto/posate-24-pz-verde-chiaro-brio_156496",
 "Passeggino Curvi leggero telaio in alluminio|Sistema di chiusura ad una sola mano, appoggiapiedi regolabile|2017/05/passeggino-curvi-leggero-telaio-in-alluminio|data.oliviero.it/imgprodotto/passeggino-curvi-119_159136",

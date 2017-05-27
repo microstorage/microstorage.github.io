@@ -1,4 +1,5 @@
 Gr = [
+"Borsa Tennis Portaracchette Elite 12R Monstercombi|La partecipazione a un torneo di tennis richiede una buona attrezzatura|2017/05/borsa-tennis-portaracchette-elite-12r-monstercombi|data.oliviero.it/imgprodotto/borsa-portaracchette-elite-12r-monstercombi-283356_154543",
 "Infadito Havaianas Donna Slim Logo Metallic|Le originali infradito brasiliane realizzate appositamente per la donna|2017/05/infadito-havaianas-donna-slim-logo-metallic|data.oliviero.it/imgprodotto/infadito-havaianas-slim-logo-metallic-4119875-0801_164332",
 "Bersaglio elettronico per il gioco delle freccette|Kit di 6 freccette con 40 punte in plastica di ricambio incluse|2017/05/bersaglio-elettronico-per-il-gioco-delle-freccette|data.oliviero.it/imgprodotto/bersaglio-elettronico-sirius_8382_big",
 "Costume Donna Speedo Fit Kickback|Costume da donna resistente al cloro, ideale per la piscina|2017/05/costume-donna-speedo-fit-kickback|data.oliviero.it/imgprodotto/costume-donna-speedo-fit-kickback-810367b079_153418",
