@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Basket Ua Curry 3|Migliorano la velocità iniziale e i cambi di direzione|2017/05/scarpe-basket-ua-curry-3|data.oliviero.it/imgprodotto/scarpe-basket-ua-curry-3-1269279-007_160533",
 "Leggings WR.UP Blu modellanti e contenitivi|Speciali cuciture sui glutei per un effetto sollevante e di sostegno|2017/05/leggings-wr-up-blu-modellanti-e-contenitivi|data.oliviero.it/imgprodotto/leggings-wr-up-blu-wrup1rj1e_160444",
 "Scarpe Sportive Baby per bambina|Tomaia in mesh traspirante e sistema di allacciatura veloce ultra rapido|2017/05/scarpe-sportive-baby-per-bambina|data.oliviero.it/imgprodotto/scarpe-sportive-baby-x_plr-c-bb2615_160006",
 "Veranda Roulotte campeggio Malta|Tetto in tessuto poliestere bispalmato con finestre laterali in zanzariera|2017/05/veranda-roulotte-campeggio-malta|data.oliviero.it/imgprodotto/veranda-malta_149643",

@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Basket Ua Curry 3|Migliorano la velocità iniziale e i cambi di direzione|2017/05/scarpe-basket-ua-curry-3|data.oliviero.it/imgprodotto/scarpe-basket-ua-curry-3-1269279-007_160533",
 "Scarpe Sportive Baby per bambina|Tomaia in mesh traspirante e sistema di allacciatura veloce ultra rapido|2017/05/scarpe-sportive-baby-per-bambina|data.oliviero.it/imgprodotto/scarpe-sportive-baby-x_plr-c-bb2615_160006",
 "Scarpe sportive All Star Ox Stars unisex|Calzatura sport unisex Bandiera Americana adatta ad ogni occasione|2017/05/scarpe-sportive-all-star-ox-stars-unisex|data.oliviero.it/imgprodotto/scarpe-all-star-ox-stars_73885",
 "Scarpe Classic Traditionnels da running|Un look accattivante senza bisogno di rivoltare la linguetta|2017/05/scarpe-classic-traditionnels-da-running|data.oliviero.it/imgprodotto/scarpe-classic-traditionnels-ml574poy_160179",

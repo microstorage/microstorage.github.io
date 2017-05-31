@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Basket Ua Curry 3|Migliorano la velocità iniziale e i cambi di direzione|2017/05/scarpe-basket-ua-curry-3|data.oliviero.it/imgprodotto/scarpe-basket-ua-curry-3-1269279-007_160533",
 "Veranda Roulotte campeggio Malta|Tetto in tessuto poliestere bispalmato con finestre laterali in zanzariera|2017/05/veranda-roulotte-campeggio-malta|data.oliviero.it/imgprodotto/veranda-malta_149643",
 "Borsa Tennis Portaracchette Elite 12R Monstercombi|La partecipazione a un torneo di tennis richiede una buona attrezzatura|2017/05/borsa-tennis-portaracchette-elite-12r-monstercombi|data.oliviero.it/imgprodotto/borsa-portaracchette-elite-12r-monstercombi-283356_154543",
 "Infadito Havaianas Donna Slim Logo Metallic|Le originali infradito brasiliane realizzate appositamente per la donna|2017/05/infadito-havaianas-donna-slim-logo-metallic|data.oliviero.it/imgprodotto/infadito-havaianas-slim-logo-metallic-4119875-0801_164332",
