@@ -1,4 +1,5 @@
 Gr = [
+"Leggings WR.UP Blu modellanti e contenitivi|Speciali cuciture sui glutei per un effetto sollevante e di sostegno|2017/05/leggings-wr-up-blu-modellanti-e-contenitivi|data.oliviero.it/imgprodotto/leggings-wr-up-blu-wrup1rj1e_160444",
 "Scarpe sportive All Star Ox Stars unisex|Calzatura sport unisex Bandiera Americana adatta ad ogni occasione|2017/05/scarpe-sportive-all-star-ox-stars-unisex|data.oliviero.it/imgprodotto/scarpe-all-star-ox-stars_73885",
 "Gilet donna due tasche a filetto|Gilet donna, chiusura con un bottone, collo a stola in contrasto|2017/05/gilet-donna-due-tasche-a-filetto|data.oliviero.it/imgprodotto/gilet-donna_82991",
 "T-Shirt Donna Nero stellata Converse|T-Shirt donna con girocollo e mezza manica Collezione Primavera Estate|2017/05/t-shirt-donna-nero-stellata-converse|data.oliviero.it/imgprodotto/t-shirt-donna-nero_165016",
