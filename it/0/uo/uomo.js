@@ -1,4 +1,5 @@
 Gr = [
+"Le scarpe sneakers in assoluto più di tendenza|Sneaker Vans bassa da uomo con tomaia in tessuto Chapman Stripe Camo|2017/06/le-scarpe-sneakers-in-assoluto-piu-di-tendenza|data.oliviero.it/imgprodotto/scarpe-chapman-stripe-camo-vn0a38cbmfv_159658",
 "Felpa Uomo Nero Adidas Essentials 3 Stripes|Felpa Uomo perfetta per le giornate più fresche, polsini e orlo a coste|2017/05/felpa-uomo-nero-adidas-essentials-3-stripes|data.oliviero.it/imgprodotto/felpa-uomo-nero-essentials-3-stripes-s98803_160228",
 "Scarpe sportive All Star Ox Stars unisex|Calzatura sport unisex Bandiera Americana adatta ad ogni occasione|2017/05/scarpe-sportive-all-star-ox-stars-unisex|data.oliviero.it/imgprodotto/scarpe-all-star-ox-stars_73885",
 "Pantalone Uomo Taglie Forti Ocra|Due tasche in vita, due nella parte posteriore, cuciture tono su tono|2017/05/pantalone-uomo-taglie-forti-ocra|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-ocra-p27-1067-12_163452",

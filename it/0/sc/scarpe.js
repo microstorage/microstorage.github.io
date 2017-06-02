@@ -1,4 +1,5 @@
 Gr = [
+"Le scarpe sneakers in assoluto più di tendenza|Sneaker Vans bassa da uomo con tomaia in tessuto Chapman Stripe Camo|2017/06/le-scarpe-sneakers-in-assoluto-piu-di-tendenza|data.oliviero.it/imgprodotto/scarpe-chapman-stripe-camo-vn0a38cbmfv_159658",
 "Scarpe Basket Ua Curry 3|Migliorano la velocità iniziale e i cambi di direzione|2017/05/scarpe-basket-ua-curry-3|data.oliviero.it/imgprodotto/scarpe-basket-ua-curry-3-1269279-007_160533",
 "Scarpe Sportive Baby per bambina|Tomaia in mesh traspirante e sistema di allacciatura veloce ultra rapido|2017/05/scarpe-sportive-baby-per-bambina|data.oliviero.it/imgprodotto/scarpe-sportive-baby-x_plr-c-bb2615_160006",
 "Scarpe sportive All Star Ox Stars unisex|Calzatura sport unisex Bandiera Americana adatta ad ogni occasione|2017/05/scarpe-sportive-all-star-ox-stars-unisex|data.oliviero.it/imgprodotto/scarpe-all-star-ox-stars_73885",
