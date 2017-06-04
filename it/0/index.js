@@ -1,4 +1,5 @@
 Gr = [
+"Moda: Maglia da Donna con maniche corte|Maglia da Donna con maniche corte, colore rosso ciliegia, catenella|2017/06/moda-maglia-da-donna-con-maniche-corte|data.oliviero.it/imgprodotto/maglia-donna-c15021-ma08a-81761_146628",
 "Set Pappa Bambino Peppa Pig|Il set per la pappa di Peppa Pig completo per il tuo bambino|2017/06/set-pappa-bambino-peppa-pig|data.oliviero.it/imgprodotto/set-pappa-peppa-pig_93903",
 "Le scarpe sneakers in assoluto più di tendenza|Sneaker Vans bassa da uomo con tomaia in tessuto Chapman Stripe Camo|2017/06/le-scarpe-sneakers-in-assoluto-piu-di-tendenza|data.oliviero.it/imgprodotto/scarpe-chapman-stripe-camo-vn0a38cbmfv_159658",
 "Mobile Libreria colore bianco|Mobile Libreria: dona un tocco di classe grazie alla sua semplicità|2017/06/mobile-libreria-colore-bianco|data.oliviero.it/imgprodotto/mobile-libreria-80-16-029_74127",

@@ -1,4 +1,5 @@
 Gr = [
+"Moda: Maglia da Donna con maniche corte|Maglia da Donna con maniche corte, colore rosso ciliegia, catenella|2017/06/moda-maglia-da-donna-con-maniche-corte|data.oliviero.it/imgprodotto/maglia-donna-c15021-ma08a-81761_146628",
 "Leggings WR.UP Blu modellanti e contenitivi|Speciali cuciture sui glutei per un effetto sollevante e di sostegno|2017/05/leggings-wr-up-blu-modellanti-e-contenitivi|data.oliviero.it/imgprodotto/leggings-wr-up-blu-wrup1rj1e_160444",
 "Scarpe sportive All Star Ox Stars unisex|Calzatura sport unisex Bandiera Americana adatta ad ogni occasione|2017/05/scarpe-sportive-all-star-ox-stars-unisex|data.oliviero.it/imgprodotto/scarpe-all-star-ox-stars_73885",
 "Gilet donna due tasche a filetto|Gilet donna, chiusura con un bottone, collo a stola in contrasto|2017/05/gilet-donna-due-tasche-a-filetto|data.oliviero.it/imgprodotto/gilet-donna_82991",

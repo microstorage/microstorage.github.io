@@ -1,4 +1,5 @@
 Gr = [
+"Moda: Maglia da Donna con maniche corte|Maglia da Donna con maniche corte, colore rosso ciliegia, catenella|2017/06/moda-maglia-da-donna-con-maniche-corte|data.oliviero.it/imgprodotto/maglia-donna-c15021-ma08a-81761_146628",
 "Leggings WR.UP Blu modellanti e contenitivi|Speciali cuciture sui glutei per un effetto sollevante e di sostegno|2017/05/leggings-wr-up-blu-modellanti-e-contenitivi|data.oliviero.it/imgprodotto/leggings-wr-up-blu-wrup1rj1e_160444",
 "T-Shirt Donna Nero stellata Converse|T-Shirt donna con girocollo e mezza manica Collezione Primavera Estate|2017/05/t-shirt-donna-nero-stellata-converse|data.oliviero.it/imgprodotto/t-shirt-donna-nero_165016",
 "Pantalone Uomo Taglie Forti Ocra|Due tasche in vita, due nella parte posteriore, cuciture tono su tono|2017/05/pantalone-uomo-taglie-forti-ocra|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-ocra-p27-1067-12_163452",
