@@ -1,4 +1,5 @@
 Gr = [
+"Set Pappa Bambino Peppa Pig|Il set per la pappa di Peppa Pig completo per il tuo bambino|2017/06/set-pappa-bambino-peppa-pig|data.oliviero.it/imgprodotto/set-pappa-peppa-pig_93903",
 "Passeggino Curvi leggero telaio in alluminio|Sistema di chiusura ad una sola mano, appoggiapiedi regolabile|2017/05/passeggino-curvi-leggero-telaio-in-alluminio|data.oliviero.it/imgprodotto/passeggino-curvi-119_159136",
 "Lettino Prestige Little Star Magnolia|Sicurezza e praticità per regolare le spondine con una sola mano|2017/05/lettino-prestige-little-star-magnolia|data.oliviero.it/imgprodotto/lettino-prestige-little-star-magnolia_25093_big",
 "Seggiolino auto omologato fino a 18 kg|Dalla nascita fino circa 3-4 anni, protezione contro urto laterale|2017/05/seggiolino-auto-omologato-fino-a-18-kg|data.oliviero.it/imgprodotto/cosmo-sp-luxe-agora-sable_160616",
