@@ -1,4 +1,5 @@
 Gr = [
+"Pantalone uomo taglie forti Chicago grigio|Rifiniture interne di alta qualità con fodera delle tasche colorata|2017/06/pantalone-uomo-taglie-forti-chicago-grigio|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-chicago-grigio-5130-34_160259",
 "Le scarpe sneakers in assoluto più di tendenza|Sneaker Vans bassa da uomo con tomaia in tessuto Chapman Stripe Camo|2017/06/le-scarpe-sneakers-in-assoluto-piu-di-tendenza|data.oliviero.it/imgprodotto/scarpe-chapman-stripe-camo-vn0a38cbmfv_159658",
 "Felpa Uomo Nero Adidas Essentials 3 Stripes|Felpa Uomo perfetta per le giornate più fresche, polsini e orlo a coste|2017/05/felpa-uomo-nero-adidas-essentials-3-stripes|data.oliviero.it/imgprodotto/felpa-uomo-nero-essentials-3-stripes-s98803_160228",
 "Scarpe sportive All Star Ox Stars unisex|Calzatura sport unisex Bandiera Americana adatta ad ogni occasione|2017/05/scarpe-sportive-all-star-ox-stars-unisex|data.oliviero.it/imgprodotto/scarpe-all-star-ox-stars_73885",

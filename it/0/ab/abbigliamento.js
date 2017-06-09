@@ -1,4 +1,5 @@
 Gr = [
+"Pantalone uomo taglie forti Chicago grigio|Rifiniture interne di alta qualità con fodera delle tasche colorata|2017/06/pantalone-uomo-taglie-forti-chicago-grigio|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-chicago-grigio-5130-34_160259",
 "Leggings WR.UP Blu modellanti e contenitivi|Speciali cuciture sui glutei per un effetto sollevante e di sostegno|2017/05/leggings-wr-up-blu-modellanti-e-contenitivi|data.oliviero.it/imgprodotto/leggings-wr-up-blu-wrup1rj1e_160444",
 "Felpa Uomo Nero Adidas Essentials 3 Stripes|Felpa Uomo perfetta per le giornate più fresche, polsini e orlo a coste|2017/05/felpa-uomo-nero-adidas-essentials-3-stripes|data.oliviero.it/imgprodotto/felpa-uomo-nero-essentials-3-stripes-s98803_160228",
 "Gilet donna due tasche a filetto|Gilet donna, chiusura con un bottone, collo a stola in contrasto|2017/05/gilet-donna-due-tasche-a-filetto|data.oliviero.it/imgprodotto/gilet-donna_82991",

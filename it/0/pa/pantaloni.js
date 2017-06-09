@@ -1,4 +1,5 @@
 Gr = [
+"Pantalone uomo taglie forti Chicago grigio|Rifiniture interne di alta qualità con fodera delle tasche colorata|2017/06/pantalone-uomo-taglie-forti-chicago-grigio|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-chicago-grigio-5130-34_160259",
 "Pantalone Uomo Taglie Forti Ocra|Due tasche in vita, due nella parte posteriore, cuciture tono su tono|2017/05/pantalone-uomo-taglie-forti-ocra|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-ocra-p27-1067-12_163452",
 "Pantaloni casual da donna colore rosa|Collezione Primavera Estate, prodotto Sottocosto!|2017/04/pantaloni-casual-da-donna-colore-rosa|data.oliviero.it/imgprodotto/pantaloni-donna-3-4-p557d-11020a-016_76917",
 "Pantaloni con Elastico Azzurro - 044042|Pantalone unisex realizzato in 35% cotone e 65% poliestere|2017/04/pantaloni-con-elastico-azzurro-044042|data.oliviero.it/imgprodotto/pantaloni-con-elastico-azzurro-044042_24257_big",
