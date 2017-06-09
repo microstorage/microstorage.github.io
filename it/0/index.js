@@ -1,4 +1,5 @@
 Gr = [
+"Cuscino Equilibrio per Pilates|Il Cuscino per Pilates, per creare esercizi di Pilates variati|2017/06/cuscino-equilibrio-per-pilates|data.oliviero.it/imgprodotto/cuscino-equilibrio_158869",
 "Pantalone uomo taglie forti Chicago grigio|Rifiniture interne di alta qualità con fodera delle tasche colorata|2017/06/pantalone-uomo-taglie-forti-chicago-grigio|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-chicago-grigio-5130-34_160259",
 "Porta da calcio e rete da rimbalzo Kickster|Kickster Combo: porta da calcio e rete da rimbalzo in un'unica soluzione|2017/06/porta-da-calcio-e-rete-da-rimbalzo-kickster|data.oliviero.it/imgprodotto/kickster-combo-goal-1-52-x-2-44-m_109454",
 "Moda: Maglia da Donna con maniche corte|Maglia da Donna con maniche corte, colore rosso ciliegia, catenella|2017/06/moda-maglia-da-donna-con-maniche-corte|data.oliviero.it/imgprodotto/maglia-donna-c15021-ma08a-81761_146628",

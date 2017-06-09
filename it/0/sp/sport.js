@@ -1,4 +1,5 @@
 Gr = [
+"Cuscino Equilibrio per Pilates|Il Cuscino per Pilates, per creare esercizi di Pilates variati|2017/06/cuscino-equilibrio-per-pilates|data.oliviero.it/imgprodotto/cuscino-equilibrio_158869",
 "Porta da calcio e rete da rimbalzo Kickster|Kickster Combo: porta da calcio e rete da rimbalzo in un'unica soluzione|2017/06/porta-da-calcio-e-rete-da-rimbalzo-kickster|data.oliviero.it/imgprodotto/kickster-combo-goal-1-52-x-2-44-m_109454",
 "Scarpe Basket Ua Curry 3|Migliorano la velocità iniziale e i cambi di direzione|2017/05/scarpe-basket-ua-curry-3|data.oliviero.it/imgprodotto/scarpe-basket-ua-curry-3-1269279-007_160533",
 "Veranda Roulotte campeggio Malta|Tetto in tessuto poliestere bispalmato con finestre laterali in zanzariera|2017/05/veranda-roulotte-campeggio-malta|data.oliviero.it/imgprodotto/veranda-malta_149643",
