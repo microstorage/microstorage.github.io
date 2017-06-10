@@ -1,4 +1,5 @@
 Gr = [
+"Poltrona dondolo oscillante Dallas Verde|Poltrona dondolo oscillante con struttura in legno massello verniciato|2017/06/poltrona-dondolo-oscillante-dallas-verde|data.oliviero.it/imgprodotto/dondolo-dallas-verde_108476",
 "Mobile Libreria colore bianco|Mobile Libreria: dona un tocco di classe grazie alla sua semplicità|2017/06/mobile-libreria-colore-bianco|data.oliviero.it/imgprodotto/mobile-libreria-80-16-029_74127",
 "Posate 24 pz Verde Chiaro Brio|Modello di posate dalla tradizionale semplicità con un tocco di allegria|2017/05/posate-24-pz-verde-chiaro-brio|data.oliviero.it/imgprodotto/posate-24-pz-verde-chiaro-brio_156496",
 "Scopa elettrica ciclonica 2 in 1|Contenitore raccogli polvere trasparente e rimovibile, senza sacchetto|2017/05/scopa-elettrica-ciclonica-2-in-1|data.oliviero.it/imgprodotto/scopa-elettrica-ciclonica-50-913b_100317",

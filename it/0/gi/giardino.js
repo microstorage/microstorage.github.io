@@ -1,4 +1,5 @@
 Gr = [
+"Poltrona dondolo oscillante Dallas Verde|Poltrona dondolo oscillante con struttura in legno massello verniciato|2017/06/poltrona-dondolo-oscillante-dallas-verde|data.oliviero.it/imgprodotto/dondolo-dallas-verde_108476",
 "Set Zanzibar Dining Ecrù|Set pranzo composto da tavolo in vetro temperato e 6 poltrone|2017/04/set-zanzibar-dining-ecru|data.oliviero.it/imgprodotto/set-zanzibar-dining-ecr%C3%B9_146616",
 "Amaca con Asta Miami Sand L|Amaca Miami Sand XL - aste extra lunghe per un relax extra|2017/04/amaca-con-asta-miami-sand-l|data.oliviero.it/imgprodotto/amaca-con-asta-miami-sand-l_158750",
 "Le 10 migliori Racchette da Spiaggia: marzo 2017|Le 10 Racchette da Spiaggia più gettonate, disponibili ora per l'acquisto|2017/03/le-10-migliori-racchette-da-spiaggia-marzo-2017|data.oliviero.it/imgprodotto/racchetta-beach-tennis-logo-xl_151977",
