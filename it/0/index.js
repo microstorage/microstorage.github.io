@@ -1,4 +1,5 @@
 Gr = [
+"Sponda letto cm 90|In metallo verniciato e rivestita di tessuto maglia rete|2017/06/sponda-letto-cm-90|data.oliviero.it/imgprodotto/sponda-letto-cm-90_132683",
 "Scarpe Adidas LA Trainer modello storico|Le scarpe Adidas LA Trainer hanno raggiunto la fama mondiale nel 1984|2017/06/scarpe-adidas-la-trainer-modello-storico|data.oliviero.it/imgprodotto/scarpe-la-trainer-og-bb1206_158684",
 "Poltrona dondolo oscillante Dallas Verde|Poltrona dondolo oscillante con struttura in legno massello verniciato|2017/06/poltrona-dondolo-oscillante-dallas-verde|data.oliviero.it/imgprodotto/dondolo-dallas-verde_108476",
 "Cuscino Equilibrio per Pilates|Il Cuscino per Pilates, per creare esercizi di Pilates variati|2017/06/cuscino-equilibrio-per-pilates|data.oliviero.it/imgprodotto/cuscino-equilibrio_158869",
