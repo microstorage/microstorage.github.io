@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloncini Ciclismo Uomo Rosso Git Gara 2|Morbido elastico con silicone interno a fondo gamba e fondello GIT|2017/06/pantaloncini-ciclismo-uomo-rosso-git-gara-2|data.oliviero.it/imgprodotto/pantaloncini-ciclismo-uomo-rosso-git-gara-2_164968",
 "Felpa Uomo Rossa|Collezione Primavera Estate Felpa da uomo con cappuccio e chiusura zip|2017/06/felpa-uomo-rossa|data.oliviero.it/imgprodotto/felpa-uomo-rosso_165064",
 "Sponda letto cm 90|In metallo verniciato e rivestita di tessuto maglia rete|2017/06/sponda-letto-cm-90|data.oliviero.it/imgprodotto/sponda-letto-cm-90_132683",
 "Scarpe Adidas LA Trainer modello storico|Le scarpe Adidas LA Trainer hanno raggiunto la fama mondiale nel 1984|2017/06/scarpe-adidas-la-trainer-modello-storico|data.oliviero.it/imgprodotto/scarpe-la-trainer-og-bb1206_158684",
