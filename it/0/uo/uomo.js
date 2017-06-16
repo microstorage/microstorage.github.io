@@ -1,4 +1,5 @@
 Gr = [
+"Polo Uomo Taglie Forti Blu|Polo da uomo taglie forti in filo di Scozia, profili in contrasto|2017/06/polo-uomo-taglie-forti-blu|data.oliviero.it/imgprodotto/polo-uomo-taglie-forti-blu_165425",
 "Felpa Uomo Rossa|Collezione Primavera Estate Felpa da uomo con cappuccio e chiusura zip|2017/06/felpa-uomo-rossa|data.oliviero.it/imgprodotto/felpa-uomo-rosso_165064",
 "Scarpe Adidas LA Trainer modello storico|Le scarpe Adidas LA Trainer hanno raggiunto la fama mondiale nel 1984|2017/06/scarpe-adidas-la-trainer-modello-storico|data.oliviero.it/imgprodotto/scarpe-la-trainer-og-bb1206_158684",
 "Pantalone uomo taglie forti Chicago grigio|Rifiniture interne di alta qualità con fodera delle tasche colorata|2017/06/pantalone-uomo-taglie-forti-chicago-grigio|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-chicago-grigio-5130-34_160259",
