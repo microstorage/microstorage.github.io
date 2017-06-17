@@ -1,4 +1,5 @@
 Gr = [
+"Racchetta Tennis Pure Drive Lite 2015|Nuova Babolat Pure Drive: gioca con potenza, domina il gioco|2017/06/racchetta-tennis-pure-drive-lite-2015|data.oliviero.it/imgprodotto/racchetta-pure-drive-lite-2015_93596",
 "Boxe e Arti Marziali: Pera Veloce|Pera veloce in pelle, interamente cucita a mano|2017/06/boxe-e-arti-marziali-pera-veloce|data.oliviero.it/imgprodotto/pera-veloce-at805_155002",
 "Pantaloncini Ciclismo Uomo Rosso Git Gara 2|Morbido elastico con silicone interno a fondo gamba e fondello GIT|2017/06/pantaloncini-ciclismo-uomo-rosso-git-gara-2|data.oliviero.it/imgprodotto/pantaloncini-ciclismo-uomo-rosso-git-gara-2_164968",
 "Cuscino Equilibrio per Pilates|Il Cuscino per Pilates, per creare esercizi di Pilates variati|2017/06/cuscino-equilibrio-per-pilates|data.oliviero.it/imgprodotto/cuscino-equilibrio_158869",

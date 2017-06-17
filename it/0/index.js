@@ -1,4 +1,5 @@
 Gr = [
+"Racchetta Tennis Pure Drive Lite 2015|Nuova Babolat Pure Drive: gioca con potenza, domina il gioco|2017/06/racchetta-tennis-pure-drive-lite-2015|data.oliviero.it/imgprodotto/racchetta-pure-drive-lite-2015_93596",
 "Triciclo summer rosso|Triciclo summer rosso musicale, dal design elegante con maniglione|2017/06/triciclo-summer-rosso|data.oliviero.it/imgprodotto/triciclo-summer-rosso_163837",
 "Boxe e Arti Marziali: Pera Veloce|Pera veloce in pelle, interamente cucita a mano|2017/06/boxe-e-arti-marziali-pera-veloce|data.oliviero.it/imgprodotto/pera-veloce-at805_155002",
 "Adattatore cinture di sicurezza bambini|Posizionatore delle cinture di sicurezza auto universale|2017/06/adattatore-cinture-di-sicurezza-bambini|data.oliviero.it/imgprodotto/sure-fit-adattatore_161269",
