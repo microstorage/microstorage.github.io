@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloni Uomo Cargo Navy|Questi pantaloni cargo color navy sono perfetti per il tempo libero|2017/06/pantaloni-uomo-cargo-navy|data.oliviero.it/imgprodotto/pantaloni-uomo-cargo-navy-w15ell49i_160958",
 "Pantaloncini Ciclismo Uomo Rosso Git Gara 2|Morbido elastico con silicone interno a fondo gamba e fondello GIT|2017/06/pantaloncini-ciclismo-uomo-rosso-git-gara-2|data.oliviero.it/imgprodotto/pantaloncini-ciclismo-uomo-rosso-git-gara-2_164968",
 "Pantalone uomo taglie forti Chicago grigio|Rifiniture interne di alta qualità con fodera delle tasche colorata|2017/06/pantalone-uomo-taglie-forti-chicago-grigio|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-chicago-grigio-5130-34_160259",
 "Pantalone Uomo Taglie Forti Ocra|Due tasche in vita, due nella parte posteriore, cuciture tono su tono|2017/05/pantalone-uomo-taglie-forti-ocra|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-ocra-p27-1067-12_163452",

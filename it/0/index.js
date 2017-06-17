@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloni Uomo Cargo Navy|Questi pantaloni cargo color navy sono perfetti per il tempo libero|2017/06/pantaloni-uomo-cargo-navy|data.oliviero.it/imgprodotto/pantaloni-uomo-cargo-navy-w15ell49i_160958",
 "Polo Uomo Taglie Forti Blu|Polo da uomo taglie forti in filo di Scozia, profili in contrasto|2017/06/polo-uomo-taglie-forti-blu|data.oliviero.it/imgprodotto/polo-uomo-taglie-forti-blu_165425",
 "Sandalo Donna Nero|Sandalo da Donna con laccetto alla caviglia, zip posteriore|2017/06/sandalo-donna-nero|data.oliviero.it/imgprodotto/sandalo-donna-nero-p717731d-100_163595",
 "Pantaloncini Ciclismo Uomo Rosso Git Gara 2|Morbido elastico con silicone interno a fondo gamba e fondello GIT|2017/06/pantaloncini-ciclismo-uomo-rosso-git-gara-2|data.oliviero.it/imgprodotto/pantaloncini-ciclismo-uomo-rosso-git-gara-2_164968",
