@@ -1,4 +1,5 @@
 Gr = [
+"Boxe e Arti Marziali: Pera Veloce|Pera veloce in pelle, interamente cucita a mano|2017/06/boxe-e-arti-marziali-pera-veloce|data.oliviero.it/imgprodotto/pera-veloce-at805_155002",
 "Adattatore cinture di sicurezza bambini|Posizionatore delle cinture di sicurezza auto universale|2017/06/adattatore-cinture-di-sicurezza-bambini|data.oliviero.it/imgprodotto/sure-fit-adattatore_161269",
 "Scarpe Pallavolo Gel Rocket 7 W|La GEL-ROCKET 7 è una scarpa da pallavolo che offre prestazioni...|2017/06/scarpe-pallavolo-gel-rocket-7-w|data.oliviero.it/imgprodotto/scarpe-pallavolo-gel-rocket-7-w-b455n-0190_154486",
 "Pantaloni Uomo Cargo Navy|Questi pantaloni cargo color navy sono perfetti per il tempo libero|2017/06/pantaloni-uomo-cargo-navy|data.oliviero.it/imgprodotto/pantaloni-uomo-cargo-navy-w15ell49i_160958",

@@ -1,4 +1,5 @@
 Gr = [
+"Boxe e Arti Marziali: Pera Veloce|Pera veloce in pelle, interamente cucita a mano|2017/06/boxe-e-arti-marziali-pera-veloce|data.oliviero.it/imgprodotto/pera-veloce-at805_155002",
 "Cuscino Equilibrio per Pilates|Il Cuscino per Pilates, per creare esercizi di Pilates variati|2017/06/cuscino-equilibrio-per-pilates|data.oliviero.it/imgprodotto/cuscino-equilibrio_158869",
 "Porta da calcio e rete da rimbalzo Kickster|Kickster Combo: porta da calcio e rete da rimbalzo in un'unica soluzione|2017/06/porta-da-calcio-e-rete-da-rimbalzo-kickster|data.oliviero.it/imgprodotto/kickster-combo-goal-1-52-x-2-44-m_109454",
 "Le 4 migliori Pedane Vibranti: aprile 2017|Le 4 Pedane Vibranti più vendute: la guida all'acquisto di aprile 2017|2017/04/le-4-migliori-pedane-vibranti-aprile-2017|data.oliviero.it/imgprodotto/pedana-vibrante-xg5_109695",
