@@ -1,4 +1,5 @@
 Gr = [
+"Adattatore cinture di sicurezza bambini|Posizionatore delle cinture di sicurezza auto universale|2017/06/adattatore-cinture-di-sicurezza-bambini|data.oliviero.it/imgprodotto/sure-fit-adattatore_161269",
 "Sponda letto cm 90|In metallo verniciato e rivestita di tessuto maglia rete|2017/06/sponda-letto-cm-90|data.oliviero.it/imgprodotto/sponda-letto-cm-90_132683",
 "Set Pappa Bambino Peppa Pig|Il set per la pappa di Peppa Pig completo per il tuo bambino|2017/06/set-pappa-bambino-peppa-pig|data.oliviero.it/imgprodotto/set-pappa-peppa-pig_93903",
 "Passeggino Curvi leggero telaio in alluminio|Sistema di chiusura ad una sola mano, appoggiapiedi regolabile|2017/05/passeggino-curvi-leggero-telaio-in-alluminio|data.oliviero.it/imgprodotto/passeggino-curvi-119_159136",
