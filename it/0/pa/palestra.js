@@ -1,4 +1,5 @@
 Gr = [
+"Fitness e Palestra: Pedaliera Welly E Plus|Pedaliera elettrica dalle elevatissime caratteristiche tecniche e funzionali|2017/06/fitness-e-palestra-pedaliera-welly-e-plus|data.oliviero.it/imgprodotto/pedaliera-welly-e-plus_61948",
 "Cuscino Equilibrio per Pilates|Il Cuscino per Pilates, per creare esercizi di Pilates variati|2017/06/cuscino-equilibrio-per-pilates|data.oliviero.it/imgprodotto/cuscino-equilibrio_158869",
 "Le 4 migliori Pedane Vibranti: aprile 2017|Le 4 Pedane Vibranti più vendute: la guida all'acquisto di aprile 2017|2017/04/le-4-migliori-pedane-vibranti-aprile-2017|data.oliviero.it/imgprodotto/pedana-vibrante-xg5_109695",
 "Palestra - La top 10 delle Panche Multifunzione: marzo 2017|La top 10 delle migliori Panche Multifunzione da palestra a marzo 2017|2017/03/palestra-la-top-10-delle-panche-multifunzione-marzo-2017|data.oliviero.it/imgprodotto/panca-multifunzione-delta-xl_135934",
