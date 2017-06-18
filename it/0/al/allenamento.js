@@ -1,4 +1,5 @@
 Gr = [
+"Tapis Roulant TRX 30S EVO|Tapis Roulant con sistema di rilevazione frequenza cardiaca|2017/06/tapis-roulant-trx-30s-evo|data.oliviero.it/imgprodotto/tapis-roulant-trx-30s-evo_159533",
 "Le 4 migliori Pedane Vibranti: aprile 2017|Le 4 Pedane Vibranti più vendute: la guida all'acquisto di aprile 2017|2017/04/le-4-migliori-pedane-vibranti-aprile-2017|data.oliviero.it/imgprodotto/pedana-vibrante-xg5_109695",
 "Gli 8 Paratibia migliori: marzo 2017|Gli 8 Paratibia più consigliati da chi li ha comprati: la classifica|2017/03/gli-8-paratibia-migliori-marzo-2017|data.oliviero.it/imgprodotto/paratibia-hornet-ii_159754",
 "I 3 Pantaloni Corti da Donna scelti: marzo 2017|Pantaloni Corti da Donna: i 3 che abbiamo scelto a marzo 2017|2017/03/i-3-pantaloni-corti-da-donna-scelti-marzo-2017|data.oliviero.it/imgprodotto/pantaloni-corti-540818-065_86898",

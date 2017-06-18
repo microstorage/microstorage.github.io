@@ -1,4 +1,5 @@
 Gr = [
+"Tapis Roulant TRX 30S EVO|Tapis Roulant con sistema di rilevazione frequenza cardiaca|2017/06/tapis-roulant-trx-30s-evo|data.oliviero.it/imgprodotto/tapis-roulant-trx-30s-evo_159533",
 "Divise da Lavoro: Grembiule Versailles|Allacciatura dietro, due tasche laterali e spacco centrale|2017/06/divise-da-lavoro-grembiule-versailles|data.oliviero.it/imgprodotto/grembiule-versailles_1662_big",
 "Fitness e Palestra: Pedaliera Welly E Plus|Pedaliera elettrica dalle elevatissime caratteristiche tecniche e funzionali|2017/06/fitness-e-palestra-pedaliera-welly-e-plus|data.oliviero.it/imgprodotto/pedaliera-welly-e-plus_61948",
 "Scarpe Calcio Mercurial Victory VI Dynamic|La scarpa da calcio per terreni duri Nike Mercurial Victory VI CR7 FG|2017/06/scarpe-calcio-mercurial-victory-vi-dynamic|data.oliviero.it/imgprodotto/scarpe-calcio-mercurial-victory-vi-dynamic-cr7-fg-903605-001_164589",
