@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Calcio Mercurial Victory VI Dynamic|La scarpa da calcio per terreni duri Nike Mercurial Victory VI CR7 FG|2017/06/scarpe-calcio-mercurial-victory-vi-dynamic|data.oliviero.it/imgprodotto/scarpe-calcio-mercurial-victory-vi-dynamic-cr7-fg-903605-001_164589",
 "Set 24 Posate da Tavola Rosso|Set 24 Posate ideale per tavole colorate ed eleganti|2017/06/set-24-posate-da-tavola-rosso|data.oliviero.it/imgprodotto/set-24-posate-da-tavola-rosso_156268",
 "Racchetta Tennis Pure Drive Lite 2015|Nuova Babolat Pure Drive: gioca con potenza, domina il gioco|2017/06/racchetta-tennis-pure-drive-lite-2015|data.oliviero.it/imgprodotto/racchetta-pure-drive-lite-2015_93596",
 "Triciclo summer rosso|Triciclo summer rosso musicale, dal design elegante con maniglione|2017/06/triciclo-summer-rosso|data.oliviero.it/imgprodotto/triciclo-summer-rosso_163837",

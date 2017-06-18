@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Calcio Mercurial Victory VI Dynamic|La scarpa da calcio per terreni duri Nike Mercurial Victory VI CR7 FG|2017/06/scarpe-calcio-mercurial-victory-vi-dynamic|data.oliviero.it/imgprodotto/scarpe-calcio-mercurial-victory-vi-dynamic-cr7-fg-903605-001_164589",
 "Porta da calcio e rete da rimbalzo Kickster|Kickster Combo: porta da calcio e rete da rimbalzo in un'unica soluzione|2017/06/porta-da-calcio-e-rete-da-rimbalzo-kickster|data.oliviero.it/imgprodotto/kickster-combo-goal-1-52-x-2-44-m_109454",
 "Gli 8 Paratibia migliori: marzo 2017|Gli 8 Paratibia più consigliati da chi li ha comprati: la classifica|2017/03/gli-8-paratibia-migliori-marzo-2017|data.oliviero.it/imgprodotto/paratibia-hornet-ii_159754",
 "I 10 Palloni da Calcio migliori: marzo 2017|I 10 Palloni da Calcio migliori, disponibili ora per l'acquisto|2017/03/i-10-palloni-da-calcio-migliori-marzo-2017|data.oliviero.it/imgprodotto/pallone-calcio-atletico-de-madrid-prestige-sc3010_152053",

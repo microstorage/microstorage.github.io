@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Calcio Mercurial Victory VI Dynamic|La scarpa da calcio per terreni duri Nike Mercurial Victory VI CR7 FG|2017/06/scarpe-calcio-mercurial-victory-vi-dynamic|data.oliviero.it/imgprodotto/scarpe-calcio-mercurial-victory-vi-dynamic-cr7-fg-903605-001_164589",
 "Racchetta Tennis Pure Drive Lite 2015|Nuova Babolat Pure Drive: gioca con potenza, domina il gioco|2017/06/racchetta-tennis-pure-drive-lite-2015|data.oliviero.it/imgprodotto/racchetta-pure-drive-lite-2015_93596",
 "Boxe e Arti Marziali: Pera Veloce|Pera veloce in pelle, interamente cucita a mano|2017/06/boxe-e-arti-marziali-pera-veloce|data.oliviero.it/imgprodotto/pera-veloce-at805_155002",
 "Pantaloncini Ciclismo Uomo Rosso Git Gara 2|Morbido elastico con silicone interno a fondo gamba e fondello GIT|2017/06/pantaloncini-ciclismo-uomo-rosso-git-gara-2|data.oliviero.it/imgprodotto/pantaloncini-ciclismo-uomo-rosso-git-gara-2_164968",
