@@ -1,4 +1,5 @@
 Gr = [
+"Divise da Lavoro: Grembiule Versailles|Allacciatura dietro, due tasche laterali e spacco centrale|2017/06/divise-da-lavoro-grembiule-versailles|data.oliviero.it/imgprodotto/grembiule-versailles_1662_big",
 "Fitness e Palestra: Pedaliera Welly E Plus|Pedaliera elettrica dalle elevatissime caratteristiche tecniche e funzionali|2017/06/fitness-e-palestra-pedaliera-welly-e-plus|data.oliviero.it/imgprodotto/pedaliera-welly-e-plus_61948",
 "Scarpe Calcio Mercurial Victory VI Dynamic|La scarpa da calcio per terreni duri Nike Mercurial Victory VI CR7 FG|2017/06/scarpe-calcio-mercurial-victory-vi-dynamic|data.oliviero.it/imgprodotto/scarpe-calcio-mercurial-victory-vi-dynamic-cr7-fg-903605-001_164589",
 "Set 24 Posate da Tavola Rosso|Set 24 Posate ideale per tavole colorate ed eleganti|2017/06/set-24-posate-da-tavola-rosso|data.oliviero.it/imgprodotto/set-24-posate-da-tavola-rosso_156268",
