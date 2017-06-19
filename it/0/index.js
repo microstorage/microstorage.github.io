@@ -1,4 +1,5 @@
 Gr = [
+"Faretto in alluminio bianco|Arredamento: Faretto completamente realizzato in alluminio bianco|2017/06/faretto-in-alluminio-bianco|data.oliviero.it/imgprodotto/faro-singolo-lampada-da-soffitto_161919",
 "Sacco a Pelo Ultralight 1000|Coprilampo imbottita, sistema antinceppamento lampo, cappuccio|2017/06/sacco-a-pelo-ultralight-1000|data.oliviero.it/imgprodotto/sacco-a-pelo-ultralight-1000_87299",
 "Scarpe da corsa da donna Running Adrenaline|Il punto d'incontro tra sostegno e morbida ammortizzazione|2017/06/scarpe-da-corsa-da-donna-running-adrenaline|data.oliviero.it/imgprodotto/scarpe-running-adrenaline-gts-16-w-120203-068_155382",
 "Coordinato lettino 3 pezzi Baby Baby|Piumotto sfilabile, Paracolpi e Federa Cuscino|2017/06/coordinato-lettino-3-pezzi-baby-baby|data.oliviero.it/imgprodotto/piumone-e-paracolpi-baby-baby_132572",

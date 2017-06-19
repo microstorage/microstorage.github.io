@@ -1,4 +1,5 @@
 Gr = [
+"Faretto in alluminio bianco|Arredamento: Faretto completamente realizzato in alluminio bianco|2017/06/faretto-in-alluminio-bianco|data.oliviero.it/imgprodotto/faro-singolo-lampada-da-soffitto_161919",
 "Mobiletti: i 10 più utili di febbraio 2017|La top 10 dei migliori Mobiletti in commercio a febbraio 2017|2017/02/mobiletti-i-10-piu-utili-di-febbraio-2017|data.oliviero.it/imgprodotto/mobiletto-42-45-29_55450",
 "Le 10 Librerie più pratiche: febbraio 2017|La top 10 delle migliori Librerie valutate a febbraio 2017|2017/02/le-10-librerie-piu-pratiche-febbraio-2017|data.oliviero.it/imgprodotto/mobile-libreria-80-67-027_74136",
 "Applique: le 6 più interessanti a febbraio 2017|Le 6 Applique consigliate, tra le migliori in commercio: febbraio 2017|2017/02/applique-le-6-piu-interessanti-a-febbraio-2017|data.oliviero.it/imgprodotto/applique-bolla_77996",

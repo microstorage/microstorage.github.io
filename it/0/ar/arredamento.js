@@ -1,4 +1,5 @@
 Gr = [
+"Faretto in alluminio bianco|Arredamento: Faretto completamente realizzato in alluminio bianco|2017/06/faretto-in-alluminio-bianco|data.oliviero.it/imgprodotto/faro-singolo-lampada-da-soffitto_161919",
 "Coordinato lettino 3 pezzi Baby Baby|Piumotto sfilabile, Paracolpi e Federa Cuscino|2017/06/coordinato-lettino-3-pezzi-baby-baby|data.oliviero.it/imgprodotto/piumone-e-paracolpi-baby-baby_132572",
 "Mobile Libreria colore bianco|Mobile Libreria: dona un tocco di classe grazie alla sua semplicità|2017/06/mobile-libreria-colore-bianco|data.oliviero.it/imgprodotto/mobile-libreria-80-16-029_74127",
 "Lettino Prestige Little Star Magnolia|Sicurezza e praticità per regolare le spondine con una sola mano|2017/05/lettino-prestige-little-star-magnolia|data.oliviero.it/imgprodotto/lettino-prestige-little-star-magnolia_25093_big",
