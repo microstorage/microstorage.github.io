@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe da corsa da donna Running Adrenaline|Il punto d'incontro tra sostegno e morbida ammortizzazione|2017/06/scarpe-da-corsa-da-donna-running-adrenaline|data.oliviero.it/imgprodotto/scarpe-running-adrenaline-gts-16-w-120203-068_155382",
 "Tapis Roulant TRX 30S EVO|Tapis Roulant con sistema di rilevazione frequenza cardiaca|2017/06/tapis-roulant-trx-30s-evo|data.oliviero.it/imgprodotto/tapis-roulant-trx-30s-evo_159533",
 "Fitness e Palestra: Pedaliera Welly E Plus|Pedaliera elettrica dalle elevatissime caratteristiche tecniche e funzionali|2017/06/fitness-e-palestra-pedaliera-welly-e-plus|data.oliviero.it/imgprodotto/pedaliera-welly-e-plus_61948",
 "Scarpe Calcio Mercurial Victory VI Dynamic|La scarpa da calcio per terreni duri Nike Mercurial Victory VI CR7 FG|2017/06/scarpe-calcio-mercurial-victory-vi-dynamic|data.oliviero.it/imgprodotto/scarpe-calcio-mercurial-victory-vi-dynamic-cr7-fg-903605-001_164589",
