@@ -1,4 +1,5 @@
 Gr = [
+"Coordinato lettino 3 pezzi Baby Baby|Piumotto sfilabile, Paracolpi e Federa Cuscino|2017/06/coordinato-lettino-3-pezzi-baby-baby|data.oliviero.it/imgprodotto/piumone-e-paracolpi-baby-baby_132572",
 "Tapis Roulant TRX 30S EVO|Tapis Roulant con sistema di rilevazione frequenza cardiaca|2017/06/tapis-roulant-trx-30s-evo|data.oliviero.it/imgprodotto/tapis-roulant-trx-30s-evo_159533",
 "Divise da Lavoro: Grembiule Versailles|Allacciatura dietro, due tasche laterali e spacco centrale|2017/06/divise-da-lavoro-grembiule-versailles|data.oliviero.it/imgprodotto/grembiule-versailles_1662_big",
 "Fitness e Palestra: Pedaliera Welly E Plus|Pedaliera elettrica dalle elevatissime caratteristiche tecniche e funzionali|2017/06/fitness-e-palestra-pedaliera-welly-e-plus|data.oliviero.it/imgprodotto/pedaliera-welly-e-plus_61948",
