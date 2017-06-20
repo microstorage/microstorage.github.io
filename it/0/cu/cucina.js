@@ -1,4 +1,5 @@
 Gr = [
+"Scolaposate in acciaio con finiture cromo|Scolaposate con cassettino per raccogliere e svuotare l'acqua di scolo|2017/06/scolaposate-in-acciaio-con-finiture-cromo|data.oliviero.it/imgprodotto/scolaposate_73996",
 "Piastre per Waffle: le 2 scelte di aprile 2017|La 2 Piastre per Waffle che ci piacciono di più: aprile 2017|2017/04/piastre-per-waffle-le-2-scelte-di-aprile-2017|data.oliviero.it/imgprodotto/piastra-waffle-a-cuore-90-602y_161315",
 "Padelle: le 10 migliori a marzo 2017|Le 10 Padelle più comprate ora in commercio: marzo 2017|2017/03/padelle-le-10-migliori-a-marzo-2017|data.oliviero.it/imgprodotto/padella-silver-22-cm_156392",
 "I 6 migliori Tagliapasta e Tagliapizza: marzo 2017|Tagliapasta e Tagliapizza: i 6 migliori in commercio a marzo 2017|2017/03/i-6-migliori-tagliapasta-e-tagliapizza-marzo-2017|data.oliviero.it/imgprodotto/rullo-taglia-pasta-tondo-diam-7-cm_77731",

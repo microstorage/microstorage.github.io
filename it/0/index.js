@@ -1,4 +1,5 @@
 Gr = [
+"Scolaposate in acciaio con finiture cromo|Scolaposate con cassettino per raccogliere e svuotare l'acqua di scolo|2017/06/scolaposate-in-acciaio-con-finiture-cromo|data.oliviero.it/imgprodotto/scolaposate_73996",
 "Cyclette Home Fitness|Cyclette home fitness, tempo, velocità, distanza, calorie, pulsazioni|2017/06/cyclette-home-fitness|data.oliviero.it/imgprodotto/cyclette-mf602_148549",
 "Scarpe Nike Air Max Tavas Special Edition|Un modello di grande successo sia tra gli atleti che tra i collezionisti|2017/06/scarpe-nike-air-max-tavas-special-edition|data.oliviero.it/imgprodotto/scarpe-air-max-tavas-special-edition-718895-012_157970",
 "Reggiseno Allattamento Bianco Preformato|Pratico e confortevole, coppe preformate senza cuciture|2017/06/reggiseno-allattamento-bianco-preformato|data.oliviero.it/imgprodotto/reggiseno-allatt-bianco-preformato-82208_52920",

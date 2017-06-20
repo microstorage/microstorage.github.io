@@ -1,4 +1,5 @@
 Gr = [
+"Scolaposate in acciaio con finiture cromo|Scolaposate con cassettino per raccogliere e svuotare l'acqua di scolo|2017/06/scolaposate-in-acciaio-con-finiture-cromo|data.oliviero.it/imgprodotto/scolaposate_73996",
 "Faretto in alluminio bianco|Arredamento: Faretto completamente realizzato in alluminio bianco|2017/06/faretto-in-alluminio-bianco|data.oliviero.it/imgprodotto/faro-singolo-lampada-da-soffitto_161919",
 "Set 24 Posate da Tavola Rosso|Set 24 Posate ideale per tavole colorate ed eleganti|2017/06/set-24-posate-da-tavola-rosso|data.oliviero.it/imgprodotto/set-24-posate-da-tavola-rosso_156268",
 "Poltrona dondolo oscillante Dallas Verde|Poltrona dondolo oscillante con struttura in legno massello verniciato|2017/06/poltrona-dondolo-oscillante-dallas-verde|data.oliviero.it/imgprodotto/dondolo-dallas-verde_108476",
