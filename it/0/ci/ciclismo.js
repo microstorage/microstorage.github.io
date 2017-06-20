@@ -1,4 +1,5 @@
 Gr = [
+"Cyclette Home Fitness|Cyclette home fitness, tempo, velocità, distanza, calorie, pulsazioni|2017/06/cyclette-home-fitness|data.oliviero.it/imgprodotto/cyclette-mf602_148549",
 "Pantaloncini Ciclismo Uomo Rosso Git Gara 2|Morbido elastico con silicone interno a fondo gamba e fondello GIT|2017/06/pantaloncini-ciclismo-uomo-rosso-git-gara-2|data.oliviero.it/imgprodotto/pantaloncini-ciclismo-uomo-rosso-git-gara-2_164968",
 "I 3 Pantaloni Corti da Donna scelti: marzo 2017|Pantaloni Corti da Donna: i 3 che abbiamo scelto a marzo 2017|2017/03/i-3-pantaloni-corti-da-donna-scelti-marzo-2017|data.oliviero.it/imgprodotto/pantaloni-corti-540818-065_86898",
 "I 10 migliori Pantaloni Corti da Uomo: marzo 2017|La top 10 dei migliori Pantaloni Corti da Uomo sul mercato a marzo 2017|2017/03/i-10-migliori-pantaloni-corti-da-uomo-marzo-2017|data.oliviero.it/imgprodotto/pantaloni-corti-uomo-sport-essential-s17629_151709",

@@ -1,4 +1,5 @@
 Gr = [
+"Cyclette Home Fitness|Cyclette home fitness, tempo, velocità, distanza, calorie, pulsazioni|2017/06/cyclette-home-fitness|data.oliviero.it/imgprodotto/cyclette-mf602_148549",
 "Tapis Roulant TRX 30S EVO|Tapis Roulant con sistema di rilevazione frequenza cardiaca|2017/06/tapis-roulant-trx-30s-evo|data.oliviero.it/imgprodotto/tapis-roulant-trx-30s-evo_159533",
 "Fitness e Palestra: Pedaliera Welly E Plus|Pedaliera elettrica dalle elevatissime caratteristiche tecniche e funzionali|2017/06/fitness-e-palestra-pedaliera-welly-e-plus|data.oliviero.it/imgprodotto/pedaliera-welly-e-plus_61948",
 "Cuscino Equilibrio per Pilates|Il Cuscino per Pilates, per creare esercizi di Pilates variati|2017/06/cuscino-equilibrio-per-pilates|data.oliviero.it/imgprodotto/cuscino-equilibrio_158869",
