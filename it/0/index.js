@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Nike Air Max Tavas Special Edition|Un modello di grande successo sia tra gli atleti che tra i collezionisti|2017/06/scarpe-nike-air-max-tavas-special-edition|data.oliviero.it/imgprodotto/scarpe-air-max-tavas-special-edition-718895-012_157970",
 "Reggiseno Allattamento Bianco Preformato|Pratico e confortevole, coppe preformate senza cuciture|2017/06/reggiseno-allattamento-bianco-preformato|data.oliviero.it/imgprodotto/reggiseno-allatt-bianco-preformato-82208_52920",
 "Faretto in alluminio bianco|Arredamento: Faretto completamente realizzato in alluminio bianco|2017/06/faretto-in-alluminio-bianco|data.oliviero.it/imgprodotto/faro-singolo-lampada-da-soffitto_161919",
 "Sacco a Pelo Ultralight 1000|Coprilampo imbottita, sistema antinceppamento lampo, cappuccio|2017/06/sacco-a-pelo-ultralight-1000|data.oliviero.it/imgprodotto/sacco-a-pelo-ultralight-1000_87299",
