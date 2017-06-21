@@ -1,4 +1,5 @@
 Gr = [
+"Trapunta matrimoniale Tuilerie|Trapunta matrimoniale in raso satin di puro cotone stampa pizzo|2017/06/trapunta-matrimoniale-tuilerie|data.oliviero.it/imgprodotto/trapunta-tuilerie_117456",
 "Set 24 Posate da Tavola Rosso|Set 24 Posate ideale per tavole colorate ed eleganti|2017/06/set-24-posate-da-tavola-rosso|data.oliviero.it/imgprodotto/set-24-posate-da-tavola-rosso_156268",
 "Posate 24 pz Verde Chiaro Brio|Modello di posate dalla tradizionale semplicità con un tocco di allegria|2017/05/posate-24-pz-verde-chiaro-brio|data.oliviero.it/imgprodotto/posate-24-pz-verde-chiaro-brio_156496",
 "Materasso estivo e invernale 80x190 Singolo Splendid|Lato invernale misto lana, lato estivo puro cotone bianco|2017/04/materasso-estivo-e-invernale-80x190-singolo-splendid|data.oliviero.it/imgprodotto/materasso-80x190-singolo-splendid_93509",
