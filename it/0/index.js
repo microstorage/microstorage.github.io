@@ -1,4 +1,5 @@
 Gr = [
+"Tanica Pieghevole con manico e rubinetto|Taniche pieghevoli in plastica resistente con manico e rubinetto|2017/06/tanica-pieghevole-con-manico-e-rubinetto|data.oliviero.it/imgprodotto/tanica-pieghevole-78445_163540",
 "Maglia calcio bambino Nazionale Italiana|La maglia per infiammare la passione di tutti i tifosi degli Azzurri|2017/06/maglia-calcio-bambino-nazionale-italiana|data.oliviero.it/imgprodotto/maglia-figc-kids-home-replica-748833_148488",
 "Trapunta matrimoniale Tuilerie|Trapunta matrimoniale in raso satin di puro cotone stampa pizzo|2017/06/trapunta-matrimoniale-tuilerie|data.oliviero.it/imgprodotto/trapunta-tuilerie_117456",
 "Scolaposate in acciaio con finiture cromo|Scolaposate con cassettino per raccogliere e svuotare l'acqua di scolo|2017/06/scolaposate-in-acciaio-con-finiture-cromo|data.oliviero.it/imgprodotto/scolaposate_73996",
