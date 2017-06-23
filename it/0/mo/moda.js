@@ -1,4 +1,5 @@
 Gr = [
+"Costume donna mare fucsia|Collezione Beachwear Costume Slip da mare con brillantini, fucsia|2017/06/costume-donna-mare-fucsia|data.oliviero.it/imgprodotto/costume-donna-slip-v15062-j7389-82143_146995",
 "Maglia calcio bambino Nazionale Italiana|La maglia per infiammare la passione di tutti i tifosi degli Azzurri|2017/06/maglia-calcio-bambino-nazionale-italiana|data.oliviero.it/imgprodotto/maglia-figc-kids-home-replica-748833_148488",
 "Pantaloni Uomo Cargo Navy|Questi pantaloni cargo color navy sono perfetti per il tempo libero|2017/06/pantaloni-uomo-cargo-navy|data.oliviero.it/imgprodotto/pantaloni-uomo-cargo-navy-w15ell49i_160958",
 "Pantalone uomo taglie forti Chicago grigio|Rifiniture interne di alta qualità con fodera delle tasche colorata|2017/06/pantalone-uomo-taglie-forti-chicago-grigio|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-chicago-grigio-5130-34_160259",

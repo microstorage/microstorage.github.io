@@ -1,4 +1,5 @@
 Gr = [
+"Costume donna mare fucsia|Collezione Beachwear Costume Slip da mare con brillantini, fucsia|2017/06/costume-donna-mare-fucsia|data.oliviero.it/imgprodotto/costume-donna-slip-v15062-j7389-82143_146995",
 "Calcio balilla G 2000 Evolution|Calcio balilla nero con bordatura e serigrafia silver, 10 palline in dotazione|2017/06/calcio-balilla-g-2000-evolution|data.oliviero.it/imgprodotto/calcio-balilla-g-2000-evolution_150011",
 "Integratore Alimentare Hydro Plus Arancia|Riduzione della stanchezza e affaticamento in una gradevole bevanda|2017/06/integratore-alimentare-hydro-plus-arancia|data.oliviero.it/imgprodotto/hydro-plus-420-gr-gusto-arancia_108755",
 "Tanica Pieghevole con manico e rubinetto|Taniche pieghevoli in plastica resistente con manico e rubinetto|2017/06/tanica-pieghevole-con-manico-e-rubinetto|data.oliviero.it/imgprodotto/tanica-pieghevole-78445_163540",

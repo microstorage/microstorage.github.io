@@ -1,4 +1,5 @@
 Gr = [
+"Costume donna mare fucsia|Collezione Beachwear Costume Slip da mare con brillantini, fucsia|2017/06/costume-donna-mare-fucsia|data.oliviero.it/imgprodotto/costume-donna-slip-v15062-j7389-82143_146995",
 "Scarpe da corsa da donna Running Adrenaline|Il punto d'incontro tra sostegno e morbida ammortizzazione|2017/06/scarpe-da-corsa-da-donna-running-adrenaline|data.oliviero.it/imgprodotto/scarpe-running-adrenaline-gts-16-w-120203-068_155382",
 "Sandalo Donna Nero|Sandalo da Donna con laccetto alla caviglia, zip posteriore|2017/06/sandalo-donna-nero|data.oliviero.it/imgprodotto/sandalo-donna-nero-p717731d-100_163595",
 "Moda: Maglia da Donna con maniche corte|Maglia da Donna con maniche corte, colore rosso ciliegia, catenella|2017/06/moda-maglia-da-donna-con-maniche-corte|data.oliviero.it/imgprodotto/maglia-donna-c15021-ma08a-81761_146628",
