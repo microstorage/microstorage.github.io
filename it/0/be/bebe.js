@@ -1,5 +1,6 @@
 Tt = "Bebè";
 Gr = [
+"Bambini: Seggiolino da tavolo Fast|Si aggancia a tutti i tipi di tavolo, è lavabile e richiudibile|2017/06/bambini-seggiolino-da-tavolo-fast|data.oliviero.it/imgprodotto/seggiolino-da-tavolo-fast-light-blue_154909",
 "Rialzo alza sedia bambino con cintura|Cinghia di sicurezza a 3 punti, per la sicurezza del bambino|2017/06/rialzo-alza-sedia-bambino-con-cintura|data.oliviero.it/imgprodotto/rialzo-alza-sedia-up-orange_138621",
 "Fascia Porta Bebè Carry Sling 450 cm|Fascia porta bebè, sostiene perfettamente la schiena delicata|2017/06/fascia-porta-bebe-carry-sling-450-cm|data.oliviero.it/imgprodotto/fascia-porta-beb%C3%A8-carry-sling-450-cm-pacific_84002",
 "I 10 migliori Passeggini: aprile 2017|I 10 Passeggini più pratici: la classifica aggiornata a aprile 2017|2017/04/i-10-migliori-passeggini-aprile-2017|data.oliviero.it/imgprodotto/passeggino-twin-swift-mgrafite_163484",
