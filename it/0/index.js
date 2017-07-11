@@ -1,4 +1,5 @@
 Gr = [
+"Seggiolino Auto Viaggiosicuro|Seggiolino Auto con sistema di controllo per la corretta istallazione|2017/07/seggiolino-auto-viaggiosicuro|data.oliviero.it/imgprodotto/viaggiosicuro-isofix-522_139436",
 "Camicia estiva Timberland in lino|Respira in completa libertà con la più bella camicia estiva Timberland|2017/07/camicia-estiva-timberland-in-lino|data.oliviero.it/imgprodotto/camicia-uomo-blu-a1amt433_164020",
 "Porta TV in fossilstone bianco agata|Elegante Porta TV in fossilstone, colore white agata|2017/07/porta-tv-in-fossilstone-bianco-agata|data.oliviero.it/imgprodotto/porta-tv-in-fossilstone-fs-004-wa_94214",
 "T-Shirt Uomo Los Angeles Box Graphic|Collezione Primavera Estate T-Shirt da uomo con stampa colorata|2017/07/t-shirt-uomo-los-angeles-box-graphic|data.oliviero.it/imgprodotto/t-shirt-uomo-los-angeles-box-graphic-bk7693_164777",
