@@ -1,4 +1,5 @@
 Gr = [
+"Pantalone Denim Bambino|Pantalone Bambino in denim elasticizzato con passanti in vita|2017/07/pantalone-denim-bambino|data.oliviero.it/imgprodotto/pantalone-denim-bambino-171mhbf002_163693",
 "Seggiolino Auto Viaggiosicuro|Seggiolino Auto con sistema di controllo per la corretta istallazione|2017/07/seggiolino-auto-viaggiosicuro|data.oliviero.it/imgprodotto/viaggiosicuro-isofix-522_139436",
 "Camicia estiva Timberland in lino|Respira in completa libertà con la più bella camicia estiva Timberland|2017/07/camicia-estiva-timberland-in-lino|data.oliviero.it/imgprodotto/camicia-uomo-blu-a1amt433_164020",
 "Porta TV in fossilstone bianco agata|Elegante Porta TV in fossilstone, colore white agata|2017/07/porta-tv-in-fossilstone-bianco-agata|data.oliviero.it/imgprodotto/porta-tv-in-fossilstone-fs-004-wa_94214",
