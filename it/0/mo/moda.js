@@ -1,4 +1,5 @@
 Gr = [
+"Zaino Sdoppiabile SJ High Tech|Zaino sdoppiabile capace di adattarsi alla crescita del bambino|2017/07/zaino-sdoppiabile-sj-high-tech|data.oliviero.it/imgprodotto/zaino-sdoppiabile-sj-high-tech_166228",
 "Pantalone Denim Bambino|Pantalone Bambino in denim elasticizzato con passanti in vita|2017/07/pantalone-denim-bambino|data.oliviero.it/imgprodotto/pantalone-denim-bambino-171mhbf002_163693",
 "T-Shirt Uomo Los Angeles Box Graphic|Collezione Primavera Estate T-Shirt da uomo con stampa colorata|2017/07/t-shirt-uomo-los-angeles-box-graphic|data.oliviero.it/imgprodotto/t-shirt-uomo-los-angeles-box-graphic-bk7693_164777",
 "Costume donna mare fucsia|Collezione Beachwear Costume Slip da mare con brillantini, fucsia|2017/06/costume-donna-mare-fucsia|data.oliviero.it/imgprodotto/costume-donna-slip-v15062-j7389-82143_146995",

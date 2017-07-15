@@ -1,4 +1,5 @@
 Gr = [
+"Zaino Sdoppiabile SJ High Tech|Zaino sdoppiabile capace di adattarsi alla crescita del bambino|2017/07/zaino-sdoppiabile-sj-high-tech|data.oliviero.it/imgprodotto/zaino-sdoppiabile-sj-high-tech_166228",
 "T-Shirt Uomo Los Angeles Box Graphic|Collezione Primavera Estate T-Shirt da uomo con stampa colorata|2017/07/t-shirt-uomo-los-angeles-box-graphic|data.oliviero.it/imgprodotto/t-shirt-uomo-los-angeles-box-graphic-bk7693_164777",
 "Calcio balilla G 2000 Evolution|Calcio balilla nero con bordatura e serigrafia silver, 10 palline in dotazione|2017/06/calcio-balilla-g-2000-evolution|data.oliviero.it/imgprodotto/calcio-balilla-g-2000-evolution_150011",
 "Maglia calcio bambino Nazionale Italiana|La maglia per infiammare la passione di tutti i tifosi degli Azzurri|2017/06/maglia-calcio-bambino-nazionale-italiana|data.oliviero.it/imgprodotto/maglia-figc-kids-home-replica-748833_148488",

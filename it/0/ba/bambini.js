@@ -1,4 +1,5 @@
 Gr = [
+"Zaino Sdoppiabile SJ High Tech|Zaino sdoppiabile capace di adattarsi alla crescita del bambino|2017/07/zaino-sdoppiabile-sj-high-tech|data.oliviero.it/imgprodotto/zaino-sdoppiabile-sj-high-tech_166228",
 "Seggiolino Auto Viaggiosicuro|Seggiolino Auto con sistema di controllo per la corretta istallazione|2017/07/seggiolino-auto-viaggiosicuro|data.oliviero.it/imgprodotto/viaggiosicuro-isofix-522_139436",
 "T-Shirt Uomo Los Angeles Box Graphic|Collezione Primavera Estate T-Shirt da uomo con stampa colorata|2017/07/t-shirt-uomo-los-angeles-box-graphic|data.oliviero.it/imgprodotto/t-shirt-uomo-los-angeles-box-graphic-bk7693_164777",
 "Bambini: Seggiolino da tavolo Fast|Si aggancia a tutti i tipi di tavolo, è lavabile e richiudibile|2017/06/bambini-seggiolino-da-tavolo-fast|data.oliviero.it/imgprodotto/seggiolino-da-tavolo-fast-light-blue_154909",
