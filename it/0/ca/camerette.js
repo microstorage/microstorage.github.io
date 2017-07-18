@@ -1,4 +1,5 @@
 Gr = [
+"Cameretta Fabiana|Bella e funzionale, questa cameretta gestisce gli spazi al meglio|2017/07/cameretta-fabiana|data.oliviero.it/imgprodotto/cameretta-fabiana-gt4061_160275",
 "Coordinato lettino 3 pezzi Baby Baby|Piumotto sfilabile, Paracolpi e Federa Cuscino|2017/06/coordinato-lettino-3-pezzi-baby-baby|data.oliviero.it/imgprodotto/piumone-e-paracolpi-baby-baby_132572",
 "Lettino Prestige Little Star Magnolia|Sicurezza e praticità per regolare le spondine con una sola mano|2017/05/lettino-prestige-little-star-magnolia|data.oliviero.it/imgprodotto/lettino-prestige-little-star-magnolia_25093_big",
 "Lettino Blinky Bianco Panna|Bellissimo lettino bianco con applicativi della serie Blinky|2017/05/lettino-blinky-bianco-panna|data.oliviero.it/imgprodotto/lettino-blinky-bianco-panna_68523",

@@ -1,4 +1,5 @@
 Gr = [
+"Cameretta Fabiana|Bella e funzionale, questa cameretta gestisce gli spazi al meglio|2017/07/cameretta-fabiana|data.oliviero.it/imgprodotto/cameretta-fabiana-gt4061_160275",
 "Zaino Sdoppiabile SJ High Tech|Zaino sdoppiabile capace di adattarsi alla crescita del bambino|2017/07/zaino-sdoppiabile-sj-high-tech|data.oliviero.it/imgprodotto/zaino-sdoppiabile-sj-high-tech_166228",
 "I 10 Pantaloni con Elastico migliori: marzo 2017|I 10 Pantaloni con Elastico più richiesti: la classifica di marzo 2017|2017/03/i-10-pantaloni-con-elastico-migliori-marzo-2017|data.oliviero.it/imgprodotto/pantaloni-con-elastico-mela-044726_151125",
 "I 10 Pantaloni Donna scelti a marzo 2017|I 10 Pantaloni Donna più amati: la guida all'acquisto di marzo 2017|2017/03/i-10-pantaloni-donna-scelti-a-marzo-2017|data.oliviero.it/imgprodotto/pantaloni-donna-casual-tzs44d-00459_147048",
