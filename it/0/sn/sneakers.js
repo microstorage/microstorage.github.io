@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Basket Uomo D Rose|Calzatura basket uomo con Tomaia in Tessuto sintetico|2017/07/scarpe-basket-uomo-d-rose|data.oliviero.it/imgprodotto/scarpe-basket-d-rose-773-lux-s85119_106664",
 "Scarpe Nike Air Max Tavas Special Edition|Un modello di grande successo sia tra gli atleti che tra i collezionisti|2017/06/scarpe-nike-air-max-tavas-special-edition|data.oliviero.it/imgprodotto/scarpe-air-max-tavas-special-edition-718895-012_157970",
 "Scarpe Adidas LA Trainer modello storico|Le scarpe Adidas LA Trainer hanno raggiunto la fama mondiale nel 1984|2017/06/scarpe-adidas-la-trainer-modello-storico|data.oliviero.it/imgprodotto/scarpe-la-trainer-og-bb1206_158684",
 "Le scarpe sneakers in assoluto più di tendenza|Sneaker Vans bassa da uomo con tomaia in tessuto Chapman Stripe Camo|2017/06/le-scarpe-sneakers-in-assoluto-piu-di-tendenza|data.oliviero.it/imgprodotto/scarpe-chapman-stripe-camo-vn0a38cbmfv_159658",

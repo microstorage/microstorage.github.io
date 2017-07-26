@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Basket Uomo D Rose|Calzatura basket uomo con Tomaia in Tessuto sintetico|2017/07/scarpe-basket-uomo-d-rose|data.oliviero.it/imgprodotto/scarpe-basket-d-rose-773-lux-s85119_106664",
 "T-Shirt Uomo Los Angeles Box Graphic|Collezione Primavera Estate T-Shirt da uomo con stampa colorata|2017/07/t-shirt-uomo-los-angeles-box-graphic|data.oliviero.it/imgprodotto/t-shirt-uomo-los-angeles-box-graphic-bk7693_164777",
 "Scarpe Adidas LA Trainer modello storico|Le scarpe Adidas LA Trainer hanno raggiunto la fama mondiale nel 1984|2017/06/scarpe-adidas-la-trainer-modello-storico|data.oliviero.it/imgprodotto/scarpe-la-trainer-og-bb1206_158684",
 "Scarpe Sportive Baby per bambina|Tomaia in mesh traspirante e sistema di allacciatura veloce ultra rapido|2017/05/scarpe-sportive-baby-per-bambina|data.oliviero.it/imgprodotto/scarpe-sportive-baby-x_plr-c-bb2615_160006",

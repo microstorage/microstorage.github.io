@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Basket Uomo D Rose|Calzatura basket uomo con Tomaia in Tessuto sintetico|2017/07/scarpe-basket-uomo-d-rose|data.oliviero.it/imgprodotto/scarpe-basket-d-rose-773-lux-s85119_106664",
 "Cuscino da Viaggio morbido|Questo cuscino da viaggio sposa perfettamente la forma della nuca|2017/07/cuscino-da-viaggio-morbido|data.oliviero.it/imgprodotto/cuscino-da-viaggio-rosso-003940260_160629",
 "Grattugia per Affettare SuperAffilata|Grattugia con lame eccezionalmente affilate ed altamente resistenti|2017/07/grattugia-per-affettare-superaffilata|data.oliviero.it/imgprodotto/grattugia-per-affettare-linea-presto-x-sharp_90672",
 "T-Shirt Donna Nero Leni|Collezione Primavera Estate T-shirt bianca a manica corta a righe|2017/07/t-shirt-donna-nero-leni|data.oliviero.it/imgprodotto/t-shirt-donna-nero-leni-72t2yb22000_161387",
