@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloncini da Calcio FIGC Italia|Shorts football per la passione di tutti i tifosi degli Azzurri|2017/07/pantaloncini-da-calcio-figc-italia|data.oliviero.it/imgprodotto/pantaloncini-figc-italia-replica-748835_148491",
 "Leggings Neri Donna|Leggings in misto cotone elasticizzato per un fit confortevole|2017/07/leggings-neri-donna|data.oliviero.it/imgprodotto/leggings-nero-donna-726085-010_162242",
 "T-Shirt Donna Nero Leni|Collezione Primavera Estate T-shirt bianca a manica corta a righe|2017/07/t-shirt-donna-nero-leni|data.oliviero.it/imgprodotto/t-shirt-donna-nero-leni-72t2yb22000_161387",
 "Pantalone Denim Bambino|Pantalone Bambino in denim elasticizzato con passanti in vita|2017/07/pantalone-denim-bambino|data.oliviero.it/imgprodotto/pantalone-denim-bambino-171mhbf002_163693",

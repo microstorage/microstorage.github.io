@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloncini da Calcio FIGC Italia|Shorts football per la passione di tutti i tifosi degli Azzurri|2017/07/pantaloncini-da-calcio-figc-italia|data.oliviero.it/imgprodotto/pantaloncini-figc-italia-replica-748835_148491",
 "Calcio balilla G 2000 Evolution|Calcio balilla nero con bordatura e serigrafia silver, 10 palline in dotazione|2017/06/calcio-balilla-g-2000-evolution|data.oliviero.it/imgprodotto/calcio-balilla-g-2000-evolution_150011",
 "Le 4 migliori Pedane Vibranti: aprile 2017|Le 4 Pedane Vibranti più vendute: la guida all'acquisto di aprile 2017|2017/04/le-4-migliori-pedane-vibranti-aprile-2017|data.oliviero.it/imgprodotto/pedana-vibrante-xg5_109695",
 "Gli 8 Paratibia migliori: marzo 2017|Gli 8 Paratibia più consigliati da chi li ha comprati: la classifica|2017/03/gli-8-paratibia-migliori-marzo-2017|data.oliviero.it/imgprodotto/paratibia-hornet-ii_159754",

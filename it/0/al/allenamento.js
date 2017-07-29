@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloncini da Calcio FIGC Italia|Shorts football per la passione di tutti i tifosi degli Azzurri|2017/07/pantaloncini-da-calcio-figc-italia|data.oliviero.it/imgprodotto/pantaloncini-figc-italia-replica-748835_148491",
 "Cyclette Home Fitness|Cyclette home fitness, tempo, velocità, distanza, calorie, pulsazioni|2017/06/cyclette-home-fitness|data.oliviero.it/imgprodotto/cyclette-mf602_148549",
 "Scarpe da corsa da donna Running Adrenaline|Il punto d'incontro tra sostegno e morbida ammortizzazione|2017/06/scarpe-da-corsa-da-donna-running-adrenaline|data.oliviero.it/imgprodotto/scarpe-running-adrenaline-gts-16-w-120203-068_155382",
 "Tapis Roulant TRX 30S EVO|Tapis Roulant con sistema di rilevazione frequenza cardiaca|2017/06/tapis-roulant-trx-30s-evo|data.oliviero.it/imgprodotto/tapis-roulant-trx-30s-evo_159533",

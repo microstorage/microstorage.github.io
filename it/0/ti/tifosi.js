@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloncini da Calcio FIGC Italia|Shorts football per la passione di tutti i tifosi degli Azzurri|2017/07/pantaloncini-da-calcio-figc-italia|data.oliviero.it/imgprodotto/pantaloncini-figc-italia-replica-748835_148491",
 "Maglia calcio bambino Nazionale Italiana|La maglia per infiammare la passione di tutti i tifosi degli Azzurri|2017/06/maglia-calcio-bambino-nazionale-italiana|data.oliviero.it/imgprodotto/maglia-figc-kids-home-replica-748833_148488",
 "Gli 8 Paratibia migliori: marzo 2017|Gli 8 Paratibia più consigliati da chi li ha comprati: la classifica|2017/03/gli-8-paratibia-migliori-marzo-2017|data.oliviero.it/imgprodotto/paratibia-hornet-ii_159754",
 "Le 10 T-Shirt Calcio migliori: febbraio 2017|Le 10 T-Shirt Calcio più vendute oggi sul mercato: febbraio 2017|2017/02/le-10-t-shirt-calcio-migliori-febbraio-2017|data.oliviero.it/imgprodotto/t-shirt-calcio-uomo-arancio-f50488_160382",

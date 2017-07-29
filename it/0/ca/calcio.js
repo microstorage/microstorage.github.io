@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloncini da Calcio FIGC Italia|Shorts football per la passione di tutti i tifosi degli Azzurri|2017/07/pantaloncini-da-calcio-figc-italia|data.oliviero.it/imgprodotto/pantaloncini-figc-italia-replica-748835_148491",
 "Calcio balilla G 2000 Evolution|Calcio balilla nero con bordatura e serigrafia silver, 10 palline in dotazione|2017/06/calcio-balilla-g-2000-evolution|data.oliviero.it/imgprodotto/calcio-balilla-g-2000-evolution_150011",
 "Maglia calcio bambino Nazionale Italiana|La maglia per infiammare la passione di tutti i tifosi degli Azzurri|2017/06/maglia-calcio-bambino-nazionale-italiana|data.oliviero.it/imgprodotto/maglia-figc-kids-home-replica-748833_148488",
 "Scarpe Calcio Mercurial Victory VI Dynamic|La scarpa da calcio per terreni duri Nike Mercurial Victory VI CR7 FG|2017/06/scarpe-calcio-mercurial-victory-vi-dynamic|data.oliviero.it/imgprodotto/scarpe-calcio-mercurial-victory-vi-dynamic-cr7-fg-903605-001_164589",
