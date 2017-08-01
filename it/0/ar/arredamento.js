@@ -1,4 +1,5 @@
 Gr = [
+"Materasso 80x190 Singolo Extra ortopedico|Lato invernale in lana, lato estivo in puro cotone bianco|2017/08/materasso-80x190-singolo-extra-ortopedico|data.oliviero.it/imgprodotto/materasso-80x190-singolo-extra-ortopedico_93518",
 "Cameretta Fabiana|Bella e funzionale, questa cameretta gestisce gli spazi al meglio|2017/07/cameretta-fabiana|data.oliviero.it/imgprodotto/cameretta-fabiana-gt4061_160275",
 "Porta TV in fossilstone bianco agata|Elegante Porta TV in fossilstone, colore white agata|2017/07/porta-tv-in-fossilstone-bianco-agata|data.oliviero.it/imgprodotto/porta-tv-in-fossilstone-fs-004-wa_94214",
 "Faretto in alluminio bianco|Arredamento: Faretto completamente realizzato in alluminio bianco|2017/06/faretto-in-alluminio-bianco|data.oliviero.it/imgprodotto/faro-singolo-lampada-da-soffitto_161919",

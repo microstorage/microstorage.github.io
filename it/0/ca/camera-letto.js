@@ -1,5 +1,6 @@
 Tt = "Camera da Letto";
 Gr = [
+"Materasso 80x190 Singolo Extra ortopedico|Lato invernale in lana, lato estivo in puro cotone bianco|2017/08/materasso-80x190-singolo-extra-ortopedico|data.oliviero.it/imgprodotto/materasso-80x190-singolo-extra-ortopedico_93518",
 "I 3 Termoventilatori scelti a febbraio 2017|3 dei Termoventilatori più apprezzati, subito disponibili|2017/02/i-3-termoventilatori-scelti-a-febbraio-2017|data.oliviero.it/imgprodotto/termoventilatore-ceramico-zumba-ri-087_89985",
 "I 10 Materassi Singoli più amati: febbraio 2017|I 10 Materassi Singoli migliori: la classifica di febbraio 2017|2017/02/i-10-materassi-singoli-piu-amati-febbraio-2017|data.oliviero.it/imgprodotto/materasso-80x190-singolo-extra_93515",
 "I 9 migliori Materassi Matrimoniali: febbraio 2017|La top 9 dei migliori Materassi Matrimoniali, disponibili ora per l'acquisto|2017/02/i-9-migliori-materassi-matrimoniali-febbraio-2017|data.oliviero.it/imgprodotto/materasso-160x190-matrimoniale-export_93502",
