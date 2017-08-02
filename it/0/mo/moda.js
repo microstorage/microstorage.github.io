@@ -1,4 +1,5 @@
 Gr = [
+"Abito donna effetto vedo-non-vedo|Abito da donna con mezze maniche Collezione Le coeur de Twin|2017/08/abito-donna-effetto-vedo-non-vedo|data.oliviero.it/imgprodotto/abito-donna-k2s4vb-00006_146697",
 "Accappatoio taglie forti uomo OKEY|Accappatoio modello classico in pura spugna di Cotone con cappuccio|2017/07/accappatoio-taglie-forti-uomo-okey|data.oliviero.it/imgprodotto/accappatoio-taglie-forti-uomo-okey_23939_big",
 "Pantaloncini da Calcio FIGC Italia|Shorts football per la passione di tutti i tifosi degli Azzurri|2017/07/pantaloncini-da-calcio-figc-italia|data.oliviero.it/imgprodotto/pantaloncini-figc-italia-replica-748835_148491",
 "Leggings Neri Donna|Leggings in misto cotone elasticizzato per un fit confortevole|2017/07/leggings-neri-donna|data.oliviero.it/imgprodotto/leggings-nero-donna-726085-010_162242",

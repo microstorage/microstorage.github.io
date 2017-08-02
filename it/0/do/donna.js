@@ -1,4 +1,5 @@
 Gr = [
+"Abito donna effetto vedo-non-vedo|Abito da donna con mezze maniche Collezione Le coeur de Twin|2017/08/abito-donna-effetto-vedo-non-vedo|data.oliviero.it/imgprodotto/abito-donna-k2s4vb-00006_146697",
 "Leggings Neri Donna|Leggings in misto cotone elasticizzato per un fit confortevole|2017/07/leggings-neri-donna|data.oliviero.it/imgprodotto/leggings-nero-donna-726085-010_162242",
 "T-Shirt Donna Nero Leni|Collezione Primavera Estate T-shirt bianca a manica corta a righe|2017/07/t-shirt-donna-nero-leni|data.oliviero.it/imgprodotto/t-shirt-donna-nero-leni-72t2yb22000_161387",
 "Costume donna mare fucsia|Collezione Beachwear Costume Slip da mare con brillantini, fucsia|2017/06/costume-donna-mare-fucsia|data.oliviero.it/imgprodotto/costume-donna-slip-v15062-j7389-82143_146995",
