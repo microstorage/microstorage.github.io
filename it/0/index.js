@@ -1,4 +1,5 @@
 Gr = [
+"Casco ciclismo Zumax|Tenere la testa fresca e asciutta è fondamentale per prestazioni super|2017/08/casco-ciclismo-zumax|data.oliviero.it/imgprodotto/casco-ciclismo-zumax_146287",
 "Abito donna effetto vedo-non-vedo|Abito da donna con mezze maniche Collezione Le coeur de Twin|2017/08/abito-donna-effetto-vedo-non-vedo|data.oliviero.it/imgprodotto/abito-donna-k2s4vb-00006_146697",
 "Materasso 80x190 Singolo Extra ortopedico|Lato invernale in lana, lato estivo in puro cotone bianco|2017/08/materasso-80x190-singolo-extra-ortopedico|data.oliviero.it/imgprodotto/materasso-80x190-singolo-extra-ortopedico_93518",
 "Accappatoio taglie forti uomo OKEY|Accappatoio modello classico in pura spugna di Cotone con cappuccio|2017/07/accappatoio-taglie-forti-uomo-okey|data.oliviero.it/imgprodotto/accappatoio-taglie-forti-uomo-okey_23939_big",

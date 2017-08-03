@@ -1,4 +1,5 @@
 Gr = [
+"Casco ciclismo Zumax|Tenere la testa fresca e asciutta è fondamentale per prestazioni super|2017/08/casco-ciclismo-zumax|data.oliviero.it/imgprodotto/casco-ciclismo-zumax_146287",
 "Cyclette Home Fitness|Cyclette home fitness, tempo, velocità, distanza, calorie, pulsazioni|2017/06/cyclette-home-fitness|data.oliviero.it/imgprodotto/cyclette-mf602_148549",
 "Cyclette Recumbent: le 10 migliori a marzo 2017|La top 10 delle migliori Cyclette Recumbent disponibili da subito|2017/03/cyclette-recumbent-le-10-migliori-a-marzo-2017|data.oliviero.it/imgprodotto/recumbent-bk-r-209-pro_144179",
 "I 10 Cardiofrequenzimetri consigliati: marzo 2017|La top 10 dei migliori Cardiofrequenzimetri sul mercato a marzo 2017|2017/03/i-10-cardiofrequenzimetri-consigliati-marzo-2017|data.oliviero.it/imgprodotto/forerunner-10_22640_big",

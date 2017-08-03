@@ -1,4 +1,5 @@
 Gr = [
+"Casco ciclismo Zumax|Tenere la testa fresca e asciutta è fondamentale per prestazioni super|2017/08/casco-ciclismo-zumax|data.oliviero.it/imgprodotto/casco-ciclismo-zumax_146287",
 "Seggiolino Auto Viaggiosicuro|Seggiolino Auto con sistema di controllo per la corretta istallazione|2017/07/seggiolino-auto-viaggiosicuro|data.oliviero.it/imgprodotto/viaggiosicuro-isofix-522_139436",
 "I 10 Caschi da Sci più quotati: gennaio 2017|La classifica di gennaio 2017 dei 10 Caschi da Sci più amati|2017/01/i-10-caschi-da-sci-piu-quotati-gennaio-2017|data.oliviero.it/imgprodotto/casco-sci-p1us-s5661532007_154605",
 "Casco ciclismo Rush: leggero, sicuro, professionale|Dedicato a chi vuole raggiungere le migliori prestazioni|2017/01/casco-ciclismo-rush-leggero-sicuro-professionale|data.oliviero.it/imgprodotto/casco-ciclismo-rush_146291",
