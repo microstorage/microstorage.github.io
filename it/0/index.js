@@ -1,4 +1,5 @@
 Gr = [
+"Binocolo con prismi di Porro 7x50|Elegante binocolo con maggior percezione della profondità e campo visivo|2017/08/binocolo-con-prismi-di-porro-7x50|data.oliviero.it/imgprodotto/binocolo-con-prismi-di-porro-7x50_83801",
 "Casco ciclismo Zumax|Tenere la testa fresca e asciutta è fondamentale per prestazioni super|2017/08/casco-ciclismo-zumax|data.oliviero.it/imgprodotto/casco-ciclismo-zumax_146287",
 "Abito donna effetto vedo-non-vedo|Abito da donna con mezze maniche Collezione Le coeur de Twin|2017/08/abito-donna-effetto-vedo-non-vedo|data.oliviero.it/imgprodotto/abito-donna-k2s4vb-00006_146697",
 "Materasso 80x190 Singolo Extra ortopedico|Lato invernale in lana, lato estivo in puro cotone bianco|2017/08/materasso-80x190-singolo-extra-ortopedico|data.oliviero.it/imgprodotto/materasso-80x190-singolo-extra-ortopedico_93518",
