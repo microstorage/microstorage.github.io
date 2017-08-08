@@ -1,4 +1,5 @@
 Gr = [
+"Sacco a Pelo Campeggio Montagna Easy|Sacco a Pelo Campeggio Montagna con cerniera più semplice e veloce|2017/08/sacco-a-pelo-campeggio-montagna-easy|data.oliviero.it/imgprodotto/sacco-a-pelo-easy-cotton-blue_147539",
 "Binocolo con prismi di Porro 7x50|Elegante binocolo con maggior percezione della profondità e campo visivo|2017/08/binocolo-con-prismi-di-porro-7x50|data.oliviero.it/imgprodotto/binocolo-con-prismi-di-porro-7x50_83801",
 "Tanica Pieghevole con manico e rubinetto|Taniche pieghevoli in plastica resistente con manico e rubinetto|2017/06/tanica-pieghevole-con-manico-e-rubinetto|data.oliviero.it/imgprodotto/tanica-pieghevole-78445_163540",
 "Sacco a Pelo Ultralight 1000|Coprilampo imbottita, sistema antinceppamento lampo, cappuccio|2017/06/sacco-a-pelo-ultralight-1000|data.oliviero.it/imgprodotto/sacco-a-pelo-ultralight-1000_87299",
