@@ -1,4 +1,5 @@
 Gr = [
+"Jeans Uomo Bright Stroke Greensboro|Jeans blu con fit regular e risvolto alla caviglia|2017/08/jeans-uomo-bright-stroke-greensboro|data.oliviero.it/imgprodotto/jeans-uomo-bright-stroke-greensboro-w15qmu91q_159497",
 "I 10 Pantaloni con Elastico migliori: marzo 2017|I 10 Pantaloni con Elastico più richiesti: la classifica di marzo 2017|2017/03/i-10-pantaloni-con-elastico-migliori-marzo-2017|data.oliviero.it/imgprodotto/pantaloni-con-elastico-mela-044726_151125",
 "I 10 Pantaloni Uomo scelti: marzo 2017|La top 10 dei migliori Pantaloni Uomo in commercio a marzo 2017|2017/03/i-10-pantaloni-uomo-scelti-marzo-2017|data.oliviero.it/imgprodotto/pantaloni-uomo-casual-mojo_72473",
 "Jeans da Uomo: i 10 migliori a marzo 2017|La top 10 dei migliori Jeans da Uomo venduti a marzo 2017|2017/03/jeans-da-uomo-i-10-migliori-a-marzo-2017|data.oliviero.it/imgprodotto/jeans-taglie-forti-uomo-22062-001_154057",

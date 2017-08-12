@@ -1,4 +1,5 @@
 Gr = [
+"Jeans Uomo Bright Stroke Greensboro|Jeans blu con fit regular e risvolto alla caviglia|2017/08/jeans-uomo-bright-stroke-greensboro|data.oliviero.it/imgprodotto/jeans-uomo-bright-stroke-greensboro-w15qmu91q_159497",
 "I 3 Jeggings selezionati: marzo 2017|La top 3 dei migliori Jeggings sul mercato a marzo 2017|2017/03/i-3-jeggings-selezionati-marzo-2017|data.oliviero.it/imgprodotto/jeggings-t2s4pc-00094_146864",
 "Jeans da Uomo: i 10 migliori a marzo 2017|La top 10 dei migliori Jeans da Uomo venduti a marzo 2017|2017/03/jeans-da-uomo-i-10-migliori-a-marzo-2017|data.oliviero.it/imgprodotto/jeans-taglie-forti-uomo-22062-001_154057",
 "I 6 Jeans da Ragazza più belli: marzo 2017|I 6 Jeans da Ragazza più carini disponibili ora per l'acquisto|2017/03/i-6-jeans-da-ragazza-piu-belli-marzo-2017|data.oliviero.it/imgprodotto/jeans-jr-tf15756_154640",
