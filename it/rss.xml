@@ -5,12 +5,44 @@
 <link>http://www.sale42.com</link>
 <description>// Sale42.com :: La Risposta Definitiva alla tua Voglia di Shopping //</description>
 <language>it</language>
-<pubDate>Tue, 15 Aug 2017 16:05:14 +0000</pubDate>
+<pubDate>Wed, 16 Aug 2017 16:41:47 +0000</pubDate>
 <image>
 	<url>http://www.sale42.com/0/1/logo_420x212.png</url>
 	<title>Sale42.com</title>
 	<link>http://www.sale42.com/it/</link>
 </image>
+<item>
+	<title>Amaca con Asta Tonga Bubblegum // Amaca molto confortevole grazie a cavi particolarmente lunghi // #giardino #campeggio #amaca #amache</title>
+	<link>http://www.sale42.com/it/2017/08/amaca-con-asta-tonga-bubblegum.html</link>
+	<description>
+		<![CDATA[
+			<table cellpadding="2" cellspacing="0" border="0" bgcolor="#D0D0D0">
+				<tr>
+					<td>
+						<table width="340" cellpadding="10" cellspacing="0" border="0">
+							<tr>
+								<td bgcolor="#F0F0F0">
+									<a href="http://www.sale42.com/it/2017/08/amaca-con-asta-tonga-bubblegum.html"><img src="http://data.oliviero.it/imgprodotto/amaca-con-asta-tonga-bubblegum-l_158739.jpg" width="100%" alt="#giardino #campeggio #amaca #amache"></a>
+									<a href="http://www.sale42.com/it/2017/08/amaca-con-asta-tonga-bubblegum.html"><font face="Verdana,Arial,Helvetica" size="4" color="#BB0000"><b>Amaca con Asta Tonga Bubblegum</b></font></a><br>
+									<font face="Verdana,Arial,Helvetica" size="2" color="#000000">
+										Amaca molto confortevole grazie a cavi particolarmente lunghi<br>
+										<font color="#646464">#giardino #campeggio #amaca #amache :: 16 agosto 2017</font>
+									</font>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		]]>
+	</description>
+	<pubDate>Wed, 16 Aug 2017 16:41:46 +0000</pubDate>
+	<guid>http://www.sale42.com/it/2017/08/amaca-con-asta-tonga-bubblegum.html</guid>
+	<category>giardino</category>
+	<category>campeggio</category>
+	<category>amaca</category>
+	<category>amache</category>
+</item>
 <item>
 	<title>Scarpe Uomo Navy Box // Le sneakers uomo multipurpose di Geox! // #scarpe #uomo #sneakers-basse #geox #mocassini #mocassini-uomo #scarpe-uomo #calzature #moda #stile #tendenze #abbigliamento</title>
 	<link>http://www.sale42.com/it/2017/08/scarpe-uomo-navy-box.html</link>
@@ -1803,39 +1835,6 @@
 	<category>volley</category>
 	<category>atletica</category>
 	<category>asics</category>
-</item>
-<item>
-	<title>Pantaloni Uomo Cargo Navy // Questi pantaloni cargo color navy sono perfetti per il tempo libero // #abbigliamento #uomo #pantaloni #moda #wrangler</title>
-	<link>http://www.sale42.com/it/2017/06/pantaloni-uomo-cargo-navy.html</link>
-	<description>
-		<![CDATA[
-			<table cellpadding="2" cellspacing="0" border="0" bgcolor="#D0D0D0">
-				<tr>
-					<td>
-						<table width="340" cellpadding="10" cellspacing="0" border="0">
-							<tr>
-								<td bgcolor="#F0F0F0">
-									<a href="http://www.sale42.com/it/2017/06/pantaloni-uomo-cargo-navy.html"><img src="http://data.oliviero.it/imgprodotto/pantaloni-uomo-cargo-navy-w15ell49i_160958.jpg" width="100%" alt="#abbigliamento #uomo #pantaloni #moda #wrangler"></a>
-									<a href="http://www.sale42.com/it/2017/06/pantaloni-uomo-cargo-navy.html"><font face="Verdana,Arial,Helvetica" size="4" color="#BB0000"><b>Pantaloni Uomo Cargo Navy</b></font></a><br>
-									<font face="Verdana,Arial,Helvetica" size="2" color="#000000">
-										Questi pantaloni cargo color navy sono perfetti per il tempo libero<br>
-										<font color="#646464">#abbigliamento #uomo #pantaloni #moda #wrangler :: 17 giugno 2017</font>
-									</font>
-								</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-		]]>
-	</description>
-	<pubDate>Sat, 17 Jun 2017 09:33:34 +0000</pubDate>
-	<guid>http://www.sale42.com/it/2017/06/pantaloni-uomo-cargo-navy.html</guid>
-	<category>abbigliamento</category>
-	<category>uomo</category>
-	<category>pantaloni</category>
-	<category>moda</category>
-	<category>wrangler</category>
 </item>
 </channel>
 </rss>

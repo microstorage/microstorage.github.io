@@ -1,4 +1,5 @@
 Gr = [
+"Amaca con Asta Tonga Bubblegum|Amaca molto confortevole grazie a cavi particolarmente lunghi|2017/08/amaca-con-asta-tonga-bubblegum|data.oliviero.it/imgprodotto/amaca-con-asta-tonga-bubblegum-l_158739",
 "Scarpe Uomo Navy Box|Le sneakers uomo multipurpose di Geox!|2017/08/scarpe-uomo-navy-box|data.oliviero.it/imgprodotto/scarpe-uomo-navy-box-u64r3f-c4002_164904",
 "Jeans Uomo Bright Stroke Greensboro|Jeans blu con fit regular e risvolto alla caviglia|2017/08/jeans-uomo-bright-stroke-greensboro|data.oliviero.it/imgprodotto/jeans-uomo-bright-stroke-greensboro-w15qmu91q_159497",
 "Sacco a Pelo Campeggio Montagna Easy|Sacco a Pelo Campeggio Montagna con cerniera più semplice e veloce|2017/08/sacco-a-pelo-campeggio-montagna-easy|data.oliviero.it/imgprodotto/sacco-a-pelo-easy-cotton-blue_147539",
