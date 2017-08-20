@@ -1,4 +1,5 @@
 Gr = [
+"Poltrona reclinabile Caterina|Poltrona Relax Reclinabile con elevatore e reclinatore elettrici|2017/08/poltrona-reclinabile-caterina|data.oliviero.it/imgprodotto/poltrona-reclinabile-caterina_96310",
 "Materasso 80x190 Singolo Extra ortopedico|Lato invernale in lana, lato estivo in puro cotone bianco|2017/08/materasso-80x190-singolo-extra-ortopedico|data.oliviero.it/imgprodotto/materasso-80x190-singolo-extra-ortopedico_93518",
 "Grattugia per Affettare SuperAffilata|Grattugia con lame eccezionalmente affilate ed altamente resistenti|2017/07/grattugia-per-affettare-superaffilata|data.oliviero.it/imgprodotto/grattugia-per-affettare-linea-presto-x-sharp_90672",
 "Porta TV in fossilstone bianco agata|Elegante Porta TV in fossilstone, colore white agata|2017/07/porta-tv-in-fossilstone-bianco-agata|data.oliviero.it/imgprodotto/porta-tv-in-fossilstone-fs-004-wa_94214",

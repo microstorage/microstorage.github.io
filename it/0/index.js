@@ -1,4 +1,5 @@
 Gr = [
+"Poltrona reclinabile Caterina|Poltrona Relax Reclinabile con elevatore e reclinatore elettrici|2017/08/poltrona-reclinabile-caterina|data.oliviero.it/imgprodotto/poltrona-reclinabile-caterina_96310",
 "Costume Mare Uomo Safety Yellow|Costume uomo mare tessuto 4-way stretch Repreve sopra il ginocchio|2017/08/costume-mare-uomo-safety-yellow|data.oliviero.it/imgprodotto/costume-mare-uomo-safety-yellow_165985",
 "Amaca con Asta Tonga Bubblegum|Amaca molto confortevole grazie a cavi particolarmente lunghi|2017/08/amaca-con-asta-tonga-bubblegum|data.oliviero.it/imgprodotto/amaca-con-asta-tonga-bubblegum-l_158739",
 "Scarpe Uomo Navy Box|Le sneakers uomo multipurpose di Geox!|2017/08/scarpe-uomo-navy-box|data.oliviero.it/imgprodotto/scarpe-uomo-navy-box-u64r3f-c4002_164904",
