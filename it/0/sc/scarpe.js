@@ -1,4 +1,5 @@
 Gr = [
+"Stivaletti con tacco e plateau Donna Champagne Columbia|Stivaletti con tacco e plateau Tomaia in pelle Allacciatura con zip|2017/08/stivaletti-con-tacco-e-plateau-donna-champagne-columbia|data.oliviero.it/imgprodotto/scarpe-donna-champagne-columbia-p717010d-439_157797",
 "Scarpe Uomo Navy Box|Le sneakers uomo multipurpose di Geox!|2017/08/scarpe-uomo-navy-box|data.oliviero.it/imgprodotto/scarpe-uomo-navy-box-u64r3f-c4002_164904",
 "Scarpe Basket Uomo D Rose|Calzatura basket uomo con Tomaia in Tessuto sintetico|2017/07/scarpe-basket-uomo-d-rose|data.oliviero.it/imgprodotto/scarpe-basket-d-rose-773-lux-s85119_106664",
 "Scarpe Nike Air Max Tavas Special Edition|Un modello di grande successo sia tra gli atleti che tra i collezionisti|2017/06/scarpe-nike-air-max-tavas-special-edition|data.oliviero.it/imgprodotto/scarpe-air-max-tavas-special-edition-718895-012_157970",
