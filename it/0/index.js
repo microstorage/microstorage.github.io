@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe con Ruote Veloz|Le Heelys sono scarpe munite di ruote per spostarsi come su uno skate|2017/08/scarpe-con-ruote-veloz|data.oliviero.it/imgprodotto/scarpe-con-ruote-veloz-770827_157593",
 "Stivaletti con tacco e plateau Donna Champagne Columbia|Stivaletti con tacco e plateau Tomaia in pelle Allacciatura con zip|2017/08/stivaletti-con-tacco-e-plateau-donna-champagne-columbia|data.oliviero.it/imgprodotto/scarpe-donna-champagne-columbia-p717010d-439_157797",
 "Poltrona reclinabile Caterina|Poltrona Relax Reclinabile con elevatore e reclinatore elettrici|2017/08/poltrona-reclinabile-caterina|data.oliviero.it/imgprodotto/poltrona-reclinabile-caterina_96310",
 "Costume Mare Uomo Safety Yellow|Costume uomo mare tessuto 4-way stretch Repreve sopra il ginocchio|2017/08/costume-mare-uomo-safety-yellow|data.oliviero.it/imgprodotto/costume-mare-uomo-safety-yellow_165985",

@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe con Ruote Veloz|Le Heelys sono scarpe munite di ruote per spostarsi come su uno skate|2017/08/scarpe-con-ruote-veloz|data.oliviero.it/imgprodotto/scarpe-con-ruote-veloz-770827_157593",
 "Pantaloncini da Calcio FIGC Italia|Shorts football per la passione di tutti i tifosi degli Azzurri|2017/07/pantaloncini-da-calcio-figc-italia|data.oliviero.it/imgprodotto/pantaloncini-figc-italia-replica-748835_148491",
 "Longboard CRUISER LAND NEW|Skateboard Longboard in fibra di poliuretano ad alta resistenza|2017/07/longboard-cruiser-land-new|data.oliviero.it/imgprodotto/longboard-cruiser-land-new_162378",
 "Cameretta Fabiana|Bella e funzionale, questa cameretta gestisce gli spazi al meglio|2017/07/cameretta-fabiana|data.oliviero.it/imgprodotto/cameretta-fabiana-gt4061_160275",
