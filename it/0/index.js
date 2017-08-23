@@ -1,4 +1,5 @@
 Gr = [
+"Passeggino leggero flip 24|Il passeggino leggero e versatile per bambini da 0 a 36 mesi|2017/08/passeggino-leggero-flip-24|data.oliviero.it/imgprodotto/passeggino-flip-24_139397",
 "Scarpe con Ruote Veloz|Le Heelys sono scarpe munite di ruote per spostarsi come su uno skate|2017/08/scarpe-con-ruote-veloz|data.oliviero.it/imgprodotto/scarpe-con-ruote-veloz-770827_157593",
 "Stivaletti con tacco e plateau Donna Champagne Columbia|Stivaletti con tacco e plateau Tomaia in pelle Allacciatura con zip|2017/08/stivaletti-con-tacco-e-plateau-donna-champagne-columbia|data.oliviero.it/imgprodotto/scarpe-donna-champagne-columbia-p717010d-439_157797",
 "Poltrona reclinabile Caterina|Poltrona Relax Reclinabile con elevatore e reclinatore elettrici|2017/08/poltrona-reclinabile-caterina|data.oliviero.it/imgprodotto/poltrona-reclinabile-caterina_96310",
