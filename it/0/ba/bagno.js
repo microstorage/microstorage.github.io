@@ -1,4 +1,5 @@
 Gr = [
+"Tappetino Insonorizzante 200X100|Tappetino protettivo insonorizzante, massimo assorbimento dei rumori|2017/08/tappetino-insonorizzante-200x100|data.oliviero.it/imgprodotto/tappetino-insonorizzante-200x100_75806",
 "I 3 Termoventilatori scelti a febbraio 2017|3 dei Termoventilatori più apprezzati, subito disponibili|2017/02/i-3-termoventilatori-scelti-a-febbraio-2017|data.oliviero.it/imgprodotto/termoventilatore-ceramico-zumba-ri-087_89985",
 "10 Termometri per ogni uso: febbraio 2017|I 10 Termometri migliori per mutipli usi, subito disponibili|2017/02/10-termometri-per-ogni-uso-febbraio-2017|data.oliviero.it/imgprodotto/termometro-cuoco-linea-gradius_90687",
 "10 dei Tappeti più utili: febbraio 2017|I 10 Tappeti che più piacciono: la classifica di febbraio 2017|2017/02/10-dei-tappeti-piu-utili-febbraio-2017|data.oliviero.it/imgprodotto/tappeto-puzzle-candy-village_138957",
