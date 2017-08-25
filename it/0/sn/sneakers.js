@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Bambino Allacciatura con strap|Scarpe da bambino con Tomaia in tessuto e Allacciatura con strap|2017/08/scarpe-bambino-allacciatura-con-strap|data.oliviero.it/imgprodotto/scarpe-bambino-blu-p734200m-200_159033",
 "Scarpe con Ruote Veloz|Le Heelys sono scarpe munite di ruote per spostarsi come su uno skate|2017/08/scarpe-con-ruote-veloz|data.oliviero.it/imgprodotto/scarpe-con-ruote-veloz-770827_157593",
 "Scarpe Basket Uomo D Rose|Calzatura basket uomo con Tomaia in Tessuto sintetico|2017/07/scarpe-basket-uomo-d-rose|data.oliviero.it/imgprodotto/scarpe-basket-d-rose-773-lux-s85119_106664",
 "Scarpe Nike Air Max Tavas Special Edition|Un modello di grande successo sia tra gli atleti che tra i collezionisti|2017/06/scarpe-nike-air-max-tavas-special-edition|data.oliviero.it/imgprodotto/scarpe-air-max-tavas-special-edition-718895-012_157970",

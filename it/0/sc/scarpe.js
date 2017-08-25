@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Bambino Allacciatura con strap|Scarpe da bambino con Tomaia in tessuto e Allacciatura con strap|2017/08/scarpe-bambino-allacciatura-con-strap|data.oliviero.it/imgprodotto/scarpe-bambino-blu-p734200m-200_159033",
 "Scarpe con Ruote Veloz|Le Heelys sono scarpe munite di ruote per spostarsi come su uno skate|2017/08/scarpe-con-ruote-veloz|data.oliviero.it/imgprodotto/scarpe-con-ruote-veloz-770827_157593",
 "Stivaletti con tacco e plateau Donna Champagne Columbia|Stivaletti con tacco e plateau Tomaia in pelle Allacciatura con zip|2017/08/stivaletti-con-tacco-e-plateau-donna-champagne-columbia|data.oliviero.it/imgprodotto/scarpe-donna-champagne-columbia-p717010d-439_157797",
 "Scarpe Uomo Navy Box|Le sneakers uomo multipurpose di Geox!|2017/08/scarpe-uomo-navy-box|data.oliviero.it/imgprodotto/scarpe-uomo-navy-box-u64r3f-c4002_164904",

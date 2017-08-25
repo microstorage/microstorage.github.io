@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Bambino Allacciatura con strap|Scarpe da bambino con Tomaia in tessuto e Allacciatura con strap|2017/08/scarpe-bambino-allacciatura-con-strap|data.oliviero.it/imgprodotto/scarpe-bambino-blu-p734200m-200_159033",
 "Passeggino leggero flip 24|Il passeggino leggero e versatile per bambini da 0 a 36 mesi|2017/08/passeggino-leggero-flip-24|data.oliviero.it/imgprodotto/passeggino-flip-24_139397",
 "Cameretta Fabiana|Bella e funzionale, questa cameretta gestisce gli spazi al meglio|2017/07/cameretta-fabiana|data.oliviero.it/imgprodotto/cameretta-fabiana-gt4061_160275",
 "Seggiolino Auto Viaggiosicuro|Seggiolino Auto con sistema di controllo per la corretta istallazione|2017/07/seggiolino-auto-viaggiosicuro|data.oliviero.it/imgprodotto/viaggiosicuro-isofix-522_139436",

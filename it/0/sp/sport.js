@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Bambino Allacciatura con strap|Scarpe da bambino con Tomaia in tessuto e Allacciatura con strap|2017/08/scarpe-bambino-allacciatura-con-strap|data.oliviero.it/imgprodotto/scarpe-bambino-blu-p734200m-200_159033",
 "Tappetino Insonorizzante 200X100|Tappetino protettivo insonorizzante, massimo assorbimento dei rumori|2017/08/tappetino-insonorizzante-200x100|data.oliviero.it/imgprodotto/tappetino-insonorizzante-200x100_75806",
 "Costume Mare Uomo Safety Yellow|Costume uomo mare tessuto 4-way stretch Repreve sopra il ginocchio|2017/08/costume-mare-uomo-safety-yellow|data.oliviero.it/imgprodotto/costume-mare-uomo-safety-yellow_165985",
 "Sacco a Pelo Campeggio Montagna Easy|Sacco a Pelo Campeggio Montagna con cerniera più semplice e veloce|2017/08/sacco-a-pelo-campeggio-montagna-easy|data.oliviero.it/imgprodotto/sacco-a-pelo-easy-cotton-blue_147539",
