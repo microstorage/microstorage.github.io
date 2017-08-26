@@ -1,5 +1,6 @@
 Tt = "Bebè";
 Gr = [
+"Paraspigoli proteggi-bambino|I paraspigoli e parangoli Nuvita sono adatti a tutte le superfici|2017/08/paraspigoli-proteggi-bambino|data.oliviero.it/imgprodotto/paraspigoli_150284",
 "Passeggino leggero flip 24|Il passeggino leggero e versatile per bambini da 0 a 36 mesi|2017/08/passeggino-leggero-flip-24|data.oliviero.it/imgprodotto/passeggino-flip-24_139397",
 "Bambini: Seggiolino da tavolo Fast|Si aggancia a tutti i tipi di tavolo, è lavabile e richiudibile|2017/06/bambini-seggiolino-da-tavolo-fast|data.oliviero.it/imgprodotto/seggiolino-da-tavolo-fast-light-blue_154909",
 "Rialzo alza sedia bambino con cintura|Cinghia di sicurezza a 3 punti, per la sicurezza del bambino|2017/06/rialzo-alza-sedia-bambino-con-cintura|data.oliviero.it/imgprodotto/rialzo-alza-sedia-up-orange_138621",
