@@ -1,4 +1,5 @@
 Gr = [
+"Come cambiare il pannolino in 10 semplici mosse|Quando va cambiato il pannolino, e come fare: tecniche di sopravvivenza|2017/08/come-cambiare-il-pannolino-in-10-semplici-mosse|computer-baby",
 "Paraspigoli proteggi-bambino|I paraspigoli e parangoli Nuvita sono adatti a tutte le superfici|2017/08/paraspigoli-proteggi-bambino|data.oliviero.it/imgprodotto/paraspigoli_150284",
 "Passeggino leggero flip 24|Il passeggino leggero e versatile per bambini da 0 a 36 mesi|2017/08/passeggino-leggero-flip-24|data.oliviero.it/imgprodotto/passeggino-flip-24_139397",
 "Seggiolino Auto Viaggiosicuro|Seggiolino Auto con sistema di controllo per la corretta istallazione|2017/07/seggiolino-auto-viaggiosicuro|data.oliviero.it/imgprodotto/viaggiosicuro-isofix-522_139436",
