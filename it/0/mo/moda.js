@@ -1,4 +1,5 @@
 Gr = [
+"T-Shirt Uomo Taglie Forti Sabbia|T-Shirt taglie forti da uomo: girocollo, mezze maniche, stampa frontale|2017/08/t-shirt-uomo-taglie-forti-sabbia|data.oliviero.it/imgprodotto/t-shirt-uomo-taglie-forti-sabbia-25613-90_164790",
 "Scarpe Uomo Navy Box|Le sneakers uomo multipurpose di Geox!|2017/08/scarpe-uomo-navy-box|data.oliviero.it/imgprodotto/scarpe-uomo-navy-box-u64r3f-c4002_164904",
 "Jeans Uomo Bright Stroke Greensboro|Jeans blu con fit regular e risvolto alla caviglia|2017/08/jeans-uomo-bright-stroke-greensboro|data.oliviero.it/imgprodotto/jeans-uomo-bright-stroke-greensboro-w15qmu91q_159497",
 "Abito donna effetto vedo-non-vedo|Abito da donna con mezze maniche Collezione Le coeur de Twin|2017/08/abito-donna-effetto-vedo-non-vedo|data.oliviero.it/imgprodotto/abito-donna-k2s4vb-00006_146697",

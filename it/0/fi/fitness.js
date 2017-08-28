@@ -1,4 +1,5 @@
 Gr = [
+"T-Shirt Uomo Taglie Forti Sabbia|T-Shirt taglie forti da uomo: girocollo, mezze maniche, stampa frontale|2017/08/t-shirt-uomo-taglie-forti-sabbia|data.oliviero.it/imgprodotto/t-shirt-uomo-taglie-forti-sabbia-25613-90_164790",
 "Tappetino Insonorizzante 200X100|Tappetino protettivo insonorizzante, massimo assorbimento dei rumori|2017/08/tappetino-insonorizzante-200x100|data.oliviero.it/imgprodotto/tappetino-insonorizzante-200x100_75806",
 "Cyclette Home Fitness|Cyclette home fitness, tempo, velocità, distanza, calorie, pulsazioni|2017/06/cyclette-home-fitness|data.oliviero.it/imgprodotto/cyclette-mf602_148549",
 "Scarpe da corsa da donna Running Adrenaline|Il punto d'incontro tra sostegno e morbida ammortizzazione|2017/06/scarpe-da-corsa-da-donna-running-adrenaline|data.oliviero.it/imgprodotto/scarpe-running-adrenaline-gts-16-w-120203-068_155382",

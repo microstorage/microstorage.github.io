@@ -1,4 +1,5 @@
 Gr = [
+"T-Shirt Uomo Taglie Forti Sabbia|T-Shirt taglie forti da uomo: girocollo, mezze maniche, stampa frontale|2017/08/t-shirt-uomo-taglie-forti-sabbia|data.oliviero.it/imgprodotto/t-shirt-uomo-taglie-forti-sabbia-25613-90_164790",
 "Scarpe Uomo Navy Box|Le sneakers uomo multipurpose di Geox!|2017/08/scarpe-uomo-navy-box|data.oliviero.it/imgprodotto/scarpe-uomo-navy-box-u64r3f-c4002_164904",
 "Jeans Uomo Bright Stroke Greensboro|Jeans blu con fit regular e risvolto alla caviglia|2017/08/jeans-uomo-bright-stroke-greensboro|data.oliviero.it/imgprodotto/jeans-uomo-bright-stroke-greensboro-w15qmu91q_159497",
 "Pantaloncini da Calcio FIGC Italia|Shorts football per la passione di tutti i tifosi degli Azzurri|2017/07/pantaloncini-da-calcio-figc-italia|data.oliviero.it/imgprodotto/pantaloncini-figc-italia-replica-748835_148491",

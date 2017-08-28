@@ -1,4 +1,5 @@
 Gr = [
+"T-Shirt Uomo Taglie Forti Sabbia|T-Shirt taglie forti da uomo: girocollo, mezze maniche, stampa frontale|2017/08/t-shirt-uomo-taglie-forti-sabbia|data.oliviero.it/imgprodotto/t-shirt-uomo-taglie-forti-sabbia-25613-90_164790",
 "Accappatoio taglie forti uomo OKEY|Accappatoio modello classico in pura spugna di Cotone con cappuccio|2017/07/accappatoio-taglie-forti-uomo-okey|data.oliviero.it/imgprodotto/accappatoio-taglie-forti-uomo-okey_23939_big",
 "Polo Uomo Taglie Forti Blu|Polo da uomo taglie forti in filo di Scozia, profili in contrasto|2017/06/polo-uomo-taglie-forti-blu|data.oliviero.it/imgprodotto/polo-uomo-taglie-forti-blu_165425",
 "T-Shirt Uomo Taglie Forti Grigio - U546|Collezione Primavera Estate 2017 T-Shirt da uomo taglie forti|2017/05/t-shirt-uomo-taglie-forti-grigio-u546|data.oliviero.it/imgprodotto/t-shirt-uomo-taglie-forti-grigio-u546_162808",

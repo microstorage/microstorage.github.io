@@ -1,4 +1,5 @@
 Gr = [
+"T-Shirt Uomo Taglie Forti Sabbia|T-Shirt taglie forti da uomo: girocollo, mezze maniche, stampa frontale|2017/08/t-shirt-uomo-taglie-forti-sabbia|data.oliviero.it/imgprodotto/t-shirt-uomo-taglie-forti-sabbia-25613-90_164790",
 "Camicia estiva Timberland in lino|Respira in completa libertà con la più bella camicia estiva Timberland|2017/07/camicia-estiva-timberland-in-lino|data.oliviero.it/imgprodotto/camicia-uomo-blu-a1amt433_164020",
 "Polo Uomo Taglie Forti Blu|Polo da uomo taglie forti in filo di Scozia, profili in contrasto|2017/06/polo-uomo-taglie-forti-blu|data.oliviero.it/imgprodotto/polo-uomo-taglie-forti-blu_165425",
 "Felpa Uomo Rossa|Collezione Primavera Estate Felpa da uomo con cappuccio e chiusura zip|2017/06/felpa-uomo-rossa|data.oliviero.it/imgprodotto/felpa-uomo-rosso_165064",
