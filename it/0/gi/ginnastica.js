@@ -1,4 +1,5 @@
 Gr = [
+"Tapis Roulant Track 9 con 938 programmi|Tapis Roulant ammortizzato, controllo anche tramite smartphone|2017/08/tapis-roulant-track-9-con-938-programmi|data.oliviero.it/imgprodotto/tapis-roulant-track-9_162684",
 "Le 4 migliori Pedane Vibranti: aprile 2017|Le 4 Pedane Vibranti più vendute: la guida all'acquisto di aprile 2017|2017/04/le-4-migliori-pedane-vibranti-aprile-2017|data.oliviero.it/imgprodotto/pedana-vibrante-xg5_109695",
 "I 3 Pantaloni Corti da Donna scelti: marzo 2017|Pantaloni Corti da Donna: i 3 che abbiamo scelto a marzo 2017|2017/03/i-3-pantaloni-corti-da-donna-scelti-marzo-2017|data.oliviero.it/imgprodotto/pantaloni-corti-540818-065_86898",
 "I 10 migliori Pantaloni Corti da Uomo: marzo 2017|La top 10 dei migliori Pantaloni Corti da Uomo sul mercato a marzo 2017|2017/03/i-10-migliori-pantaloni-corti-da-uomo-marzo-2017|data.oliviero.it/imgprodotto/pantaloni-corti-uomo-sport-essential-s17629_151709",

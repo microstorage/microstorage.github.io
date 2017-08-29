@@ -1,4 +1,5 @@
 Gr = [
+"Tapis Roulant Track 9 con 938 programmi|Tapis Roulant ammortizzato, controllo anche tramite smartphone|2017/08/tapis-roulant-track-9-con-938-programmi|data.oliviero.it/imgprodotto/tapis-roulant-track-9_162684",
 "Tapis Roulant TRX 30S EVO|Tapis Roulant con sistema di rilevazione frequenza cardiaca|2017/06/tapis-roulant-trx-30s-evo|data.oliviero.it/imgprodotto/tapis-roulant-trx-30s-evo_159533",
 "I 10 Cardiofrequenzimetri consigliati: marzo 2017|La top 10 dei migliori Cardiofrequenzimetri sul mercato a marzo 2017|2017/03/i-10-cardiofrequenzimetri-consigliati-marzo-2017|data.oliviero.it/imgprodotto/forerunner-10_22640_big",
 "Le 3 Fasce Cardio selezionate: febbraio 2017|Le 3 Fasce Cardio che più ci piacciono: febbraio 2017|2017/02/le-3-fasce-cardio-selezionate-febbraio-2017|data.oliviero.it/imgprodotto/fascia-cardio-puls-set_8429_big",
