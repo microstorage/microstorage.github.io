@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloncini Uomo Obsidian|Pantaloncino sportivo da uomo in morbido cotone, cintura sottile|2017/08/pantaloncini-uomo-obsidian|data.oliviero.it/imgprodotto/pantaloncini-uomo-obsidian-804419-452_161824",
 "I 10 migliori Pantaloni Corti da Uomo: marzo 2017|La top 10 dei migliori Pantaloni Corti da Uomo sul mercato a marzo 2017|2017/03/i-10-migliori-pantaloni-corti-da-uomo-marzo-2017|data.oliviero.it/imgprodotto/pantaloni-corti-uomo-sport-essential-s17629_151709",
 "I 10 Pantaloncini da Boxe migliori: marzo 2017|I 10 Pantaloncini da Boxe al top: la classifica aggiornata|2017/03/i-10-pantaloncini-da-boxe-migliori-marzo-2017|data.oliviero.it/imgprodotto/pantaloncino-da-boxe-ab734_93252",
 "4 Pantaloncini da Tennis scelti: marzo 2017|Marzo 2017: i 4 Pantaloncini da Tennis che più ci piacciono|2017/03/4-pantaloncini-da-tennis-scelti-marzo-2017|data.oliviero.it/imgprodotto/pantaloncini-tennis-uomo-blu-830817-410_162290",

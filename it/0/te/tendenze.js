@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloncini Uomo Obsidian|Pantaloncino sportivo da uomo in morbido cotone, cintura sottile|2017/08/pantaloncini-uomo-obsidian|data.oliviero.it/imgprodotto/pantaloncini-uomo-obsidian-804419-452_161824",
 "Scarpe Uomo Navy Box|Le sneakers uomo multipurpose di Geox!|2017/08/scarpe-uomo-navy-box|data.oliviero.it/imgprodotto/scarpe-uomo-navy-box-u64r3f-c4002_164904",
 "Jeans Uomo Bright Stroke Greensboro|Jeans blu con fit regular e risvolto alla caviglia|2017/08/jeans-uomo-bright-stroke-greensboro|data.oliviero.it/imgprodotto/jeans-uomo-bright-stroke-greensboro-w15qmu91q_159497",
 "Leggings Neri Donna|Leggings in misto cotone elasticizzato per un fit confortevole|2017/07/leggings-neri-donna|data.oliviero.it/imgprodotto/leggings-nero-donna-726085-010_162242",

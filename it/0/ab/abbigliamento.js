@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloncini Uomo Obsidian|Pantaloncino sportivo da uomo in morbido cotone, cintura sottile|2017/08/pantaloncini-uomo-obsidian|data.oliviero.it/imgprodotto/pantaloncini-uomo-obsidian-804419-452_161824",
 "T-Shirt Uomo Taglie Forti Sabbia|T-Shirt taglie forti da uomo: girocollo, mezze maniche, stampa frontale|2017/08/t-shirt-uomo-taglie-forti-sabbia|data.oliviero.it/imgprodotto/t-shirt-uomo-taglie-forti-sabbia-25613-90_164790",
 "Scarpe Bambino Allacciatura con strap|Scarpe da bambino con Tomaia in tessuto e Allacciatura con strap|2017/08/scarpe-bambino-allacciatura-con-strap|data.oliviero.it/imgprodotto/scarpe-bambino-blu-p734200m-200_159033",
 "Scarpe Uomo Navy Box|Le sneakers uomo multipurpose di Geox!|2017/08/scarpe-uomo-navy-box|data.oliviero.it/imgprodotto/scarpe-uomo-navy-box-u64r3f-c4002_164904",

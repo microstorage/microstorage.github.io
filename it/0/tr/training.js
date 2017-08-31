@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloncini Uomo Obsidian|Pantaloncino sportivo da uomo in morbido cotone, cintura sottile|2017/08/pantaloncini-uomo-obsidian|data.oliviero.it/imgprodotto/pantaloncini-uomo-obsidian-804419-452_161824",
 "Tapis Roulant Track 9 con 938 programmi|Tapis Roulant ammortizzato, controllo anche tramite smartphone|2017/08/tapis-roulant-track-9-con-938-programmi|data.oliviero.it/imgprodotto/tapis-roulant-track-9_162684",
 "T-Shirt Uomo Taglie Forti Sabbia|T-Shirt taglie forti da uomo: girocollo, mezze maniche, stampa frontale|2017/08/t-shirt-uomo-taglie-forti-sabbia|data.oliviero.it/imgprodotto/t-shirt-uomo-taglie-forti-sabbia-25613-90_164790",
 "Pantaloncini da Calcio FIGC Italia|Shorts football per la passione di tutti i tifosi degli Azzurri|2017/07/pantaloncini-da-calcio-figc-italia|data.oliviero.it/imgprodotto/pantaloncini-figc-italia-replica-748835_148491",

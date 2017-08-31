@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloncini Uomo Obsidian|Pantaloncino sportivo da uomo in morbido cotone, cintura sottile|2017/08/pantaloncini-uomo-obsidian|data.oliviero.it/imgprodotto/pantaloncini-uomo-obsidian-804419-452_161824",
 "Racchetta Tennis Pure Drive Lite 2015|Nuova Babolat Pure Drive: gioca con potenza, domina il gioco|2017/06/racchetta-tennis-pure-drive-lite-2015|data.oliviero.it/imgprodotto/racchetta-pure-drive-lite-2015_93596",
 "Borsa Tennis Portaracchette Elite 12R Monstercombi|La partecipazione a un torneo di tennis richiede una buona attrezzatura|2017/05/borsa-tennis-portaracchette-elite-12r-monstercombi|data.oliviero.it/imgprodotto/borsa-portaracchette-elite-12r-monstercombi-283356_154543",
 "4 Pantaloncini da Tennis scelti: marzo 2017|Marzo 2017: i 4 Pantaloncini da Tennis che più ci piacciono|2017/03/4-pantaloncini-da-tennis-scelti-marzo-2017|data.oliviero.it/imgprodotto/pantaloncini-tennis-uomo-blu-830817-410_162290",

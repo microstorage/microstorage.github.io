@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloncini Uomo Obsidian|Pantaloncino sportivo da uomo in morbido cotone, cintura sottile|2017/08/pantaloncini-uomo-obsidian|data.oliviero.it/imgprodotto/pantaloncini-uomo-obsidian-804419-452_161824",
 "Tapis Roulant Track 9 con 938 programmi|Tapis Roulant ammortizzato, controllo anche tramite smartphone|2017/08/tapis-roulant-track-9-con-938-programmi|data.oliviero.it/imgprodotto/tapis-roulant-track-9_162684",
 "Scarpe da corsa da donna Running Adrenaline|Il punto d'incontro tra sostegno e morbida ammortizzazione|2017/06/scarpe-da-corsa-da-donna-running-adrenaline|data.oliviero.it/imgprodotto/scarpe-running-adrenaline-gts-16-w-120203-068_155382",
 "I 3 Pantaloni Corti da Donna scelti: marzo 2017|Pantaloni Corti da Donna: i 3 che abbiamo scelto a marzo 2017|2017/03/i-3-pantaloni-corti-da-donna-scelti-marzo-2017|data.oliviero.it/imgprodotto/pantaloni-corti-540818-065_86898",
