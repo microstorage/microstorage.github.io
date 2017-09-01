@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Running Uomo Duramo 7|Le scarpe da running Duramo 7 danno slancio con la tomaia in air mesh|2017/09/scarpe-running-uomo-duramo-7|data.oliviero.it/imgprodotto/scarpe-running-duramo-7-m-aq6497_151908",
 "Scarpe Basket Uomo D Rose|Calzatura basket uomo con Tomaia in Tessuto sintetico|2017/07/scarpe-basket-uomo-d-rose|data.oliviero.it/imgprodotto/scarpe-basket-d-rose-773-lux-s85119_106664",
 "T-Shirt Uomo Los Angeles Box Graphic|Collezione Primavera Estate T-Shirt da uomo con stampa colorata|2017/07/t-shirt-uomo-los-angeles-box-graphic|data.oliviero.it/imgprodotto/t-shirt-uomo-los-angeles-box-graphic-bk7693_164777",
 "Scarpe Adidas LA Trainer modello storico|Le scarpe Adidas LA Trainer hanno raggiunto la fama mondiale nel 1984|2017/06/scarpe-adidas-la-trainer-modello-storico|data.oliviero.it/imgprodotto/scarpe-la-trainer-og-bb1206_158684",

@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Running Uomo Duramo 7|Le scarpe da running Duramo 7 danno slancio con la tomaia in air mesh|2017/09/scarpe-running-uomo-duramo-7|data.oliviero.it/imgprodotto/scarpe-running-duramo-7-m-aq6497_151908",
 "Pantaloncini Uomo Obsidian|Pantaloncino sportivo da uomo in morbido cotone, cintura sottile|2017/08/pantaloncini-uomo-obsidian|data.oliviero.it/imgprodotto/pantaloncini-uomo-obsidian-804419-452_161824",
 "Jeans Uomo Bright Stroke Greensboro|Jeans blu con fit regular e risvolto alla caviglia|2017/08/jeans-uomo-bright-stroke-greensboro|data.oliviero.it/imgprodotto/jeans-uomo-bright-stroke-greensboro-w15qmu91q_159497",
 "I 3 Pantaloni Corti da Donna scelti: marzo 2017|Pantaloni Corti da Donna: i 3 che abbiamo scelto a marzo 2017|2017/03/i-3-pantaloni-corti-da-donna-scelti-marzo-2017|data.oliviero.it/imgprodotto/pantaloni-corti-540818-065_86898",

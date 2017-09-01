@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Running Uomo Duramo 7|Le scarpe da running Duramo 7 danno slancio con la tomaia in air mesh|2017/09/scarpe-running-uomo-duramo-7|data.oliviero.it/imgprodotto/scarpe-running-duramo-7-m-aq6497_151908",
 "Tapis Roulant Track 9 con 938 programmi|Tapis Roulant ammortizzato, controllo anche tramite smartphone|2017/08/tapis-roulant-track-9-con-938-programmi|data.oliviero.it/imgprodotto/tapis-roulant-track-9_162684",
 "Tappetino Insonorizzante 200X100|Tappetino protettivo insonorizzante, massimo assorbimento dei rumori|2017/08/tappetino-insonorizzante-200x100|data.oliviero.it/imgprodotto/tappetino-insonorizzante-200x100_75806",
 "Cyclette Home Fitness|Cyclette home fitness, tempo, velocità, distanza, calorie, pulsazioni|2017/06/cyclette-home-fitness|data.oliviero.it/imgprodotto/cyclette-mf602_148549",

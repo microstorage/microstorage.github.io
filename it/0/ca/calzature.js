@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Running Uomo Duramo 7|Le scarpe da running Duramo 7 danno slancio con la tomaia in air mesh|2017/09/scarpe-running-uomo-duramo-7|data.oliviero.it/imgprodotto/scarpe-running-duramo-7-m-aq6497_151908",
 "Scarpe Uomo Navy Box|Le sneakers uomo multipurpose di Geox!|2017/08/scarpe-uomo-navy-box|data.oliviero.it/imgprodotto/scarpe-uomo-navy-box-u64r3f-c4002_164904",
 "Le 5 Francesine più belle di marzo 2017|La top 5 delle migliori Francesine sul mercato a marzo 2017|2017/03/le-5-francesine-piu-belle-di-marzo-2017|data.oliviero.it/imgprodotto/scarpe-donna-perlato-bianco-p717001d-505_157809",
 "Moon Boot: i 4 migliori in commercio a febbraio 2017|I 4 migliori Moon Boot, subito disponibili: febbraio 2017|2017/02/moon-boot-i-4-migliori-in-commercio-a-febbraio-2017|data.oliviero.it/imgprodotto/moon-boot-lem-14200100-001_156526",
