@@ -1,4 +1,5 @@
 Gr = [
+"Luce notturna per bambino con simpatico animaletto|Delicata luce notturna per aiutare il bambino ad addormentarsi tranquillo|2017/09/luce-notturna-per-bambino-con-simpatico-animaletto|data.oliviero.it/imgprodotto/luce-notturna_142996",
 "Scarpe Bambino Allacciatura con strap|Scarpe da bambino con Tomaia in tessuto e Allacciatura con strap|2017/08/scarpe-bambino-allacciatura-con-strap|data.oliviero.it/imgprodotto/scarpe-bambino-blu-p734200m-200_159033",
 "Scarpe con Ruote Veloz|Le Heelys sono scarpe munite di ruote per spostarsi come su uno skate|2017/08/scarpe-con-ruote-veloz|data.oliviero.it/imgprodotto/scarpe-con-ruote-veloz-770827_157593",
 "Bambini: Seggiolino da tavolo Fast|Si aggancia a tutti i tipi di tavolo, è lavabile e richiudibile|2017/06/bambini-seggiolino-da-tavolo-fast|data.oliviero.it/imgprodotto/seggiolino-da-tavolo-fast-light-blue_154909",
