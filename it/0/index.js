@@ -1,4 +1,5 @@
 Gr = [
+"Tegame multifunzione 24 cm Ingenio|Tegame multifunzione utilizzabile su piani cottura, in forno, in frigorifero|2017/09/tegame-multifunzione-24-cm-ingenio|data.oliviero.it/imgprodotto/tegame-24-cm-ingenio_155883",
 "Luce notturna per bambino con simpatico animaletto|Delicata luce notturna per aiutare il bambino ad addormentarsi tranquillo|2017/09/luce-notturna-per-bambino-con-simpatico-animaletto|data.oliviero.it/imgprodotto/luce-notturna_142996",
 "Scarpe Running Uomo Duramo 7|Le scarpe da running Duramo 7 danno slancio con la tomaia in air mesh|2017/09/scarpe-running-uomo-duramo-7|data.oliviero.it/imgprodotto/scarpe-running-duramo-7-m-aq6497_151908",
 "Pantaloncini Uomo Obsidian|Pantaloncino sportivo da uomo in morbido cotone, cintura sottile|2017/08/pantaloncini-uomo-obsidian|data.oliviero.it/imgprodotto/pantaloncini-uomo-obsidian-804419-452_161824",

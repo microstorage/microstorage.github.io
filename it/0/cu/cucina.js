@@ -1,4 +1,5 @@
 Gr = [
+"Tegame multifunzione 24 cm Ingenio|Tegame multifunzione utilizzabile su piani cottura, in forno, in frigorifero|2017/09/tegame-multifunzione-24-cm-ingenio|data.oliviero.it/imgprodotto/tegame-24-cm-ingenio_155883",
 "Grattugia per Affettare SuperAffilata|Grattugia con lame eccezionalmente affilate ed altamente resistenti|2017/07/grattugia-per-affettare-superaffilata|data.oliviero.it/imgprodotto/grattugia-per-affettare-linea-presto-x-sharp_90672",
 "Scolaposate in acciaio con finiture cromo|Scolaposate con cassettino per raccogliere e svuotare l'acqua di scolo|2017/06/scolaposate-in-acciaio-con-finiture-cromo|data.oliviero.it/imgprodotto/scolaposate_73996",
 "Piastre per Waffle: le 2 scelte di aprile 2017|La 2 Piastre per Waffle che ci piacciono di più: aprile 2017|2017/04/piastre-per-waffle-le-2-scelte-di-aprile-2017|data.oliviero.it/imgprodotto/piastra-waffle-a-cuore-90-602y_161315",

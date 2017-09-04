@@ -1,4 +1,5 @@
 Gr = [
+"Tegame multifunzione 24 cm Ingenio|Tegame multifunzione utilizzabile su piani cottura, in forno, in frigorifero|2017/09/tegame-multifunzione-24-cm-ingenio|data.oliviero.it/imgprodotto/tegame-24-cm-ingenio_155883",
 "Padelle: le 10 migliori a marzo 2017|Le 10 Padelle più comprate ora in commercio: marzo 2017|2017/03/padelle-le-10-migliori-a-marzo-2017|data.oliviero.it/imgprodotto/padella-silver-22-cm_156392",
 "I 5 Forni migliori venduti a marzo 2017|I 5 Forni più interessanti da vedere: la classifica di marzo 2017|2017/03/i-5-forni-migliori-venduti-a-marzo-2017|data.oliviero.it/imgprodotto/forno-per-pizza-rosso-90-371_106101",
 "I 3 Fornelli scelti a marzo 2017|3 dei migliori Fornelli, disponibili da subito: marzo 2017|2017/03/i-3-fornelli-scelti-a-marzo-2017|data.oliviero.it/imgprodotto/fornello-magnum-camping-1-fuoco_55394",
