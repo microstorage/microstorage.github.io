@@ -1,4 +1,5 @@
 Gr = [
+"Zaino Timberland Crofton 22L|Zaino Timberland dotato anche di una pratica tasca interna per laptop|2017/09/zaino-timberland-crofton-22l|data.oliviero.it/imgprodotto/zaino-crofton-22l-a1lqq005_163078",
 "Stivaletti con tacco e plateau Donna Champagne Columbia|Stivaletti con tacco e plateau Tomaia in pelle Allacciatura con zip|2017/08/stivaletti-con-tacco-e-plateau-donna-champagne-columbia|data.oliviero.it/imgprodotto/scarpe-donna-champagne-columbia-p717010d-439_157797",
 "Abito donna effetto vedo-non-vedo|Abito da donna con mezze maniche Collezione Le coeur de Twin|2017/08/abito-donna-effetto-vedo-non-vedo|data.oliviero.it/imgprodotto/abito-donna-k2s4vb-00006_146697",
 "Leggings Neri Donna|Leggings in misto cotone elasticizzato per un fit confortevole|2017/07/leggings-neri-donna|data.oliviero.it/imgprodotto/leggings-nero-donna-726085-010_162242",

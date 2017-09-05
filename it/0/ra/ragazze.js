@@ -1,4 +1,5 @@
 Gr = [
+"Zaino Timberland Crofton 22L|Zaino Timberland dotato anche di una pratica tasca interna per laptop|2017/09/zaino-timberland-crofton-22l|data.oliviero.it/imgprodotto/zaino-crofton-22l-a1lqq005_163078",
 "Leggings Neri Donna|Leggings in misto cotone elasticizzato per un fit confortevole|2017/07/leggings-neri-donna|data.oliviero.it/imgprodotto/leggings-nero-donna-726085-010_162242",
 "Cameretta Fabiana|Bella e funzionale, questa cameretta gestisce gli spazi al meglio|2017/07/cameretta-fabiana|data.oliviero.it/imgprodotto/cameretta-fabiana-gt4061_160275",
 "Zaino Sdoppiabile SJ High Tech|Zaino sdoppiabile capace di adattarsi alla crescita del bambino|2017/07/zaino-sdoppiabile-sj-high-tech|data.oliviero.it/imgprodotto/zaino-sdoppiabile-sj-high-tech_166228",

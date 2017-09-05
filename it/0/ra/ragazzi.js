@@ -1,4 +1,5 @@
 Gr = [
+"Zaino Timberland Crofton 22L|Zaino Timberland dotato anche di una pratica tasca interna per laptop|2017/09/zaino-timberland-crofton-22l|data.oliviero.it/imgprodotto/zaino-crofton-22l-a1lqq005_163078",
 "Skateboard FREEDOM tavola azzurra|Skateboard con Ruote in fibra di poliuretano ad alta resistenza e durabilità|2017/08/skateboard-freedom-tavola-azzurra|data.oliviero.it/imgprodotto/skateboard-freedom-tavola-azzurra-ruote-gialle_162373",
 "Pantaloncini da Calcio FIGC Italia|Shorts football per la passione di tutti i tifosi degli Azzurri|2017/07/pantaloncini-da-calcio-figc-italia|data.oliviero.it/imgprodotto/pantaloncini-figc-italia-replica-748835_148491",
 "Longboard CRUISER LAND NEW|Skateboard Longboard in fibra di poliuretano ad alta resistenza|2017/07/longboard-cruiser-land-new|data.oliviero.it/imgprodotto/longboard-cruiser-land-new_162378",
