@@ -1,5 +1,5 @@
 Gr = [
-"Gilet uomo a 4 bottoni, 2 tasche|Gilet uomo chiusura 4 bottoni, due tasche, cinturino posteriore|2017/10/gilet-uomo-a-4-bottoni-2-tasche|https://data.oliviero.it/imgprodotto/gilet-uomo_83013",
+"Gilet uomo a 4 bottoni, 2 tasche|Gilet uomo chiusura 4 bottoni, due tasche, cinturino posteriore|2017/10/gilet-uomo-a-4-bottoni-2-tasche|data.oliviero.it/imgprodotto/gilet-uomo_83013",
 "Gym Ball 75 cm per stretching, fitness|Gym Ball ideale per lo stretching e il fitness con pompa gonfiaggio inclusa|2017/09/gym-ball-75-cm-per-stretching-fitness|data.oliviero.it/imgprodotto/gym-ball-75-cm_154898",
 "Maglia Ciclismo Uomo Nero|Maglia Ciclismo con orlo della manica tagliato al Laser|2017/09/maglia-ciclismo-uomo-nero|data.oliviero.it/imgprodotto/maglia-ciclismo-uomo-nero_145430",
 "Zaino Timberland Crofton 22L|Zaino Timberland dotato anche di una pratica tasca interna per laptop|2017/09/zaino-timberland-crofton-22l|data.oliviero.it/imgprodotto/zaino-crofton-22l-a1lqq005_163078",

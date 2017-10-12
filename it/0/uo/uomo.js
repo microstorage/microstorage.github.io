@@ -1,5 +1,5 @@
 Gr = [
-"Gilet uomo a 4 bottoni, 2 tasche|Gilet uomo chiusura 4 bottoni, due tasche, cinturino posteriore|2017/10/gilet-uomo-a-4-bottoni-2-tasche|https://data.oliviero.it/imgprodotto/gilet-uomo_83013",
+"Gilet uomo a 4 bottoni, 2 tasche|Gilet uomo chiusura 4 bottoni, due tasche, cinturino posteriore|2017/10/gilet-uomo-a-4-bottoni-2-tasche|data.oliviero.it/imgprodotto/gilet-uomo_83013",
 "Scarpe Running Uomo Duramo 7|Le scarpe da running Duramo 7 danno slancio con la tomaia in air mesh|2017/09/scarpe-running-uomo-duramo-7|data.oliviero.it/imgprodotto/scarpe-running-duramo-7-m-aq6497_151908",
 "Pantaloncini Uomo Obsidian|Pantaloncino sportivo da uomo in morbido cotone, cintura sottile|2017/08/pantaloncini-uomo-obsidian|data.oliviero.it/imgprodotto/pantaloncini-uomo-obsidian-804419-452_161824",
 "T-Shirt Uomo Taglie Forti Sabbia|T-Shirt taglie forti da uomo: girocollo, mezze maniche, stampa frontale|2017/08/t-shirt-uomo-taglie-forti-sabbia|data.oliviero.it/imgprodotto/t-shirt-uomo-taglie-forti-sabbia-25613-90_164790",
