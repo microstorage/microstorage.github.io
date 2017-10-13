@@ -1,4 +1,5 @@
 Gr = [
+"Porta Torte con tavoletta refrigerante|Le torte sono la tua passione? Ecco un comodissimo portatorte!|2017/10/porta-torte-con-tavoletta-refrigerante|data.oliviero.it/imgprodotto/porta-torte-630842_155105",
 "Gilet uomo a 4 bottoni, 2 tasche|Gilet uomo chiusura 4 bottoni, due tasche, cinturino posteriore|2017/10/gilet-uomo-a-4-bottoni-2-tasche|data.oliviero.it/imgprodotto/gilet-uomo_83013",
 "Gym Ball 75 cm per stretching, fitness|Gym Ball ideale per lo stretching e il fitness con pompa gonfiaggio inclusa|2017/09/gym-ball-75-cm-per-stretching-fitness|data.oliviero.it/imgprodotto/gym-ball-75-cm_154898",
 "Maglia Ciclismo Uomo Nero|Maglia Ciclismo con orlo della manica tagliato al Laser|2017/09/maglia-ciclismo-uomo-nero|data.oliviero.it/imgprodotto/maglia-ciclismo-uomo-nero_145430",

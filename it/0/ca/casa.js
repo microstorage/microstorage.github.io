@@ -1,4 +1,5 @@
 Gr = [
+"Porta Torte con tavoletta refrigerante|Le torte sono la tua passione? Ecco un comodissimo portatorte!|2017/10/porta-torte-con-tavoletta-refrigerante|data.oliviero.it/imgprodotto/porta-torte-630842_155105",
 "Tegame multifunzione 24 cm Ingenio|Tegame multifunzione utilizzabile su piani cottura, in forno, in frigorifero|2017/09/tegame-multifunzione-24-cm-ingenio|data.oliviero.it/imgprodotto/tegame-24-cm-ingenio_155883",
 "Sdraio con cuscino in ecopelle|Sdraio con Schienale Ergonomico reclinabile in 6 posizioni, Poggiapiedi|2017/08/sdraio-con-cuscino-in-ecopelle|data.oliviero.it/imgprodotto/sdraio-2004_164745",
 "Tappetino Insonorizzante 200X100|Tappetino protettivo insonorizzante, massimo assorbimento dei rumori|2017/08/tappetino-insonorizzante-200x100|data.oliviero.it/imgprodotto/tappetino-insonorizzante-200x100_75806",
