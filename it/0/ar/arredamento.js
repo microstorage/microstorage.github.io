@@ -1,4 +1,5 @@
 Gr = [
+"Cameretta Bambino Carmen|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/10/cameretta-bambino-carmen|data.oliviero.it/imgprodotto/cameretta-carmen-gt4057_160265",
 "Tappetino Insonorizzante 200X100|Tappetino protettivo insonorizzante, massimo assorbimento dei rumori|2017/08/tappetino-insonorizzante-200x100|data.oliviero.it/imgprodotto/tappetino-insonorizzante-200x100_75806",
 "Poltrona reclinabile Caterina|Poltrona Relax Reclinabile con elevatore e reclinatore elettrici|2017/08/poltrona-reclinabile-caterina|data.oliviero.it/imgprodotto/poltrona-reclinabile-caterina_96310",
 "Materasso 80x190 Singolo Extra ortopedico|Lato invernale in lana, lato estivo in puro cotone bianco|2017/08/materasso-80x190-singolo-extra-ortopedico|data.oliviero.it/imgprodotto/materasso-80x190-singolo-extra-ortopedico_93518",
