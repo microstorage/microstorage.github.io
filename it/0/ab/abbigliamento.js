@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Sneakers Chapman Mid|La Scarpa Vans Chapman Mid M è una Sneakers Alta Uomo|2017/10/scarpe-sneakers-chapman-mid|data.oliviero.it/imgprodotto/scarpe-chapman-mid-vn0a2xswc4r_167709",
 "Gilet uomo a 4 bottoni, 2 tasche|Gilet uomo chiusura 4 bottoni, due tasche, cinturino posteriore|2017/10/gilet-uomo-a-4-bottoni-2-tasche|data.oliviero.it/imgprodotto/gilet-uomo_83013",
 "Maglia Ciclismo Uomo Nero|Maglia Ciclismo con orlo della manica tagliato al Laser|2017/09/maglia-ciclismo-uomo-nero|data.oliviero.it/imgprodotto/maglia-ciclismo-uomo-nero_145430",
 "Zaino Timberland Crofton 22L|Zaino Timberland dotato anche di una pratica tasca interna per laptop|2017/09/zaino-timberland-crofton-22l|data.oliviero.it/imgprodotto/zaino-crofton-22l-a1lqq005_163078",

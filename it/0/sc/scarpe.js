@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Sneakers Chapman Mid|La Scarpa Vans Chapman Mid M è una Sneakers Alta Uomo|2017/10/scarpe-sneakers-chapman-mid|data.oliviero.it/imgprodotto/scarpe-chapman-mid-vn0a2xswc4r_167709",
 "Scarpe Running Uomo Duramo 7|Le scarpe da running Duramo 7 danno slancio con la tomaia in air mesh|2017/09/scarpe-running-uomo-duramo-7|data.oliviero.it/imgprodotto/scarpe-running-duramo-7-m-aq6497_151908",
 "Scarpe Bambino Allacciatura con strap|Scarpe da bambino con Tomaia in tessuto e Allacciatura con strap|2017/08/scarpe-bambino-allacciatura-con-strap|data.oliviero.it/imgprodotto/scarpe-bambino-blu-p734200m-200_159033",
 "Scarpe con Ruote Veloz|Le Heelys sono scarpe munite di ruote per spostarsi come su uno skate|2017/08/scarpe-con-ruote-veloz|data.oliviero.it/imgprodotto/scarpe-con-ruote-veloz-770827_157593",

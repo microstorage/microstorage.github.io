@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Sneakers Chapman Mid|La Scarpa Vans Chapman Mid M è una Sneakers Alta Uomo|2017/10/scarpe-sneakers-chapman-mid|data.oliviero.it/imgprodotto/scarpe-chapman-mid-vn0a2xswc4r_167709",
 "Gilet uomo a 4 bottoni, 2 tasche|Gilet uomo chiusura 4 bottoni, due tasche, cinturino posteriore|2017/10/gilet-uomo-a-4-bottoni-2-tasche|data.oliviero.it/imgprodotto/gilet-uomo_83013",
 "Scarpe Running Uomo Duramo 7|Le scarpe da running Duramo 7 danno slancio con la tomaia in air mesh|2017/09/scarpe-running-uomo-duramo-7|data.oliviero.it/imgprodotto/scarpe-running-duramo-7-m-aq6497_151908",
 "Pantaloncini Uomo Obsidian|Pantaloncino sportivo da uomo in morbido cotone, cintura sottile|2017/08/pantaloncini-uomo-obsidian|data.oliviero.it/imgprodotto/pantaloncini-uomo-obsidian-804419-452_161824",

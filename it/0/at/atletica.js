@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Sneakers Chapman Mid|La Scarpa Vans Chapman Mid M è una Sneakers Alta Uomo|2017/10/scarpe-sneakers-chapman-mid|data.oliviero.it/imgprodotto/scarpe-chapman-mid-vn0a2xswc4r_167709",
 "Scarpe Basket Uomo D Rose|Calzatura basket uomo con Tomaia in Tessuto sintetico|2017/07/scarpe-basket-uomo-d-rose|data.oliviero.it/imgprodotto/scarpe-basket-d-rose-773-lux-s85119_106664",
 "Scarpe Nike Air Max Tavas Special Edition|Un modello di grande successo sia tra gli atleti che tra i collezionisti|2017/06/scarpe-nike-air-max-tavas-special-edition|data.oliviero.it/imgprodotto/scarpe-air-max-tavas-special-edition-718895-012_157970",
 "Scarpe Pallavolo Gel Rocket 7 W|La GEL-ROCKET 7 è una scarpa da pallavolo che offre prestazioni...|2017/06/scarpe-pallavolo-gel-rocket-7-w|data.oliviero.it/imgprodotto/scarpe-pallavolo-gel-rocket-7-w-b455n-0190_154486",

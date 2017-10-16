@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Sneakers Chapman Mid|La Scarpa Vans Chapman Mid M è una Sneakers Alta Uomo|2017/10/scarpe-sneakers-chapman-mid|data.oliviero.it/imgprodotto/scarpe-chapman-mid-vn0a2xswc4r_167709",
 "Cameretta Bambino Carmen|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/10/cameretta-bambino-carmen|data.oliviero.it/imgprodotto/cameretta-carmen-gt4057_160265",
 "Tapis Roulant St 1500|Tapis Roulant con chiave di sicurezza per lo spegnimento di emergenza|2017/10/tapis-roulant-st-1500|data.oliviero.it/imgprodotto/tapis-roulant-st-1500_90737",
 "Porta Torte con tavoletta refrigerante|Le torte sono la tua passione? Ecco un comodissimo portatorte!|2017/10/porta-torte-con-tavoletta-refrigerante|data.oliviero.it/imgprodotto/porta-torte-630842_155105",
