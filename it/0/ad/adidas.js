@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloni Sportivi Donna Nero|Questi pantaloni in spugna sfoggiano un look essenziale e moderno|2017/10/pantaloni-sportivi-donna-nero|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-nero_168115",
 "Scarpe Running Uomo Duramo 7|Le scarpe da running Duramo 7 danno slancio con la tomaia in air mesh|2017/09/scarpe-running-uomo-duramo-7|data.oliviero.it/imgprodotto/scarpe-running-duramo-7-m-aq6497_151908",
 "Scarpe Basket Uomo D Rose|Calzatura basket uomo con Tomaia in Tessuto sintetico|2017/07/scarpe-basket-uomo-d-rose|data.oliviero.it/imgprodotto/scarpe-basket-d-rose-773-lux-s85119_106664",
 "T-Shirt Uomo Los Angeles Box Graphic|Collezione Primavera Estate T-Shirt da uomo con stampa colorata|2017/07/t-shirt-uomo-los-angeles-box-graphic|data.oliviero.it/imgprodotto/t-shirt-uomo-los-angeles-box-graphic-bk7693_164777",

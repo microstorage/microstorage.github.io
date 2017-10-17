@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloni Sportivi Donna Nero|Questi pantaloni in spugna sfoggiano un look essenziale e moderno|2017/10/pantaloni-sportivi-donna-nero|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-nero_168115",
 "Trolley Big Facce adatto per la scuola|Questo è il Big trolley comodissimo da trascinare e da portare a spalle|2017/10/trolley-big-facce-adatto-per-la-scuola|data.oliviero.it/imgprodotto/trolley-big-facce-da-sj_166109",
 "Scarpe Sneakers Chapman Mid|La Scarpa Vans Chapman Mid M è una Sneakers Alta Uomo|2017/10/scarpe-sneakers-chapman-mid|data.oliviero.it/imgprodotto/scarpe-chapman-mid-vn0a2xswc4r_167709",
 "Cameretta Bambino Carmen|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/10/cameretta-bambino-carmen|data.oliviero.it/imgprodotto/cameretta-carmen-gt4057_160265",

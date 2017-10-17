@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloni Sportivi Donna Nero|Questi pantaloni in spugna sfoggiano un look essenziale e moderno|2017/10/pantaloni-sportivi-donna-nero|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-nero_168115",
 "Tapis Roulant St 1500|Tapis Roulant con chiave di sicurezza per lo spegnimento di emergenza|2017/10/tapis-roulant-st-1500|data.oliviero.it/imgprodotto/tapis-roulant-st-1500_90737",
 "Gym Ball 75 cm per stretching, fitness|Gym Ball ideale per lo stretching e il fitness con pompa gonfiaggio inclusa|2017/09/gym-ball-75-cm-per-stretching-fitness|data.oliviero.it/imgprodotto/gym-ball-75-cm_154898",
 "Maglia Ciclismo Uomo Nero|Maglia Ciclismo con orlo della manica tagliato al Laser|2017/09/maglia-ciclismo-uomo-nero|data.oliviero.it/imgprodotto/maglia-ciclismo-uomo-nero_145430",
