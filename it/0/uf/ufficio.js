@@ -1,4 +1,5 @@
 Gr = [
+"Lampadario 6 luci Jewel Silver Ring|Lampadario 6 luci \"JEWEL SILVER RING\" realizzato in metallo cromato|2017/10/lampadario-6-luci-jewel-silver-ring|data.oliviero.it/imgprodotto/lampadario-6-luci-jewel-silver-ring_137836",
 "Tappetino Insonorizzante 200X100|Tappetino protettivo insonorizzante, massimo assorbimento dei rumori|2017/08/tappetino-insonorizzante-200x100|data.oliviero.it/imgprodotto/tappetino-insonorizzante-200x100_75806",
 "Faretto in alluminio bianco|Arredamento: Faretto completamente realizzato in alluminio bianco|2017/06/faretto-in-alluminio-bianco|data.oliviero.it/imgprodotto/faro-singolo-lampada-da-soffitto_161919",
 "Poltrona da ufficio EVOLUTION|Poltrona da ufficio EVOLUTION con seduta rivestita in tessuto Sale e Pepe|2017/04/poltrona-da-ufficio-evolution|data.oliviero.it/imgprodotto/poltrona-da-ufficio-evolution_136170",

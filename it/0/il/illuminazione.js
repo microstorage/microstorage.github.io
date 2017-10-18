@@ -1,4 +1,5 @@
 Gr = [
+"Lampadario 6 luci Jewel Silver Ring|Lampadario 6 luci \"JEWEL SILVER RING\" realizzato in metallo cromato|2017/10/lampadario-6-luci-jewel-silver-ring|data.oliviero.it/imgprodotto/lampadario-6-luci-jewel-silver-ring_137836",
 "Faretto in alluminio bianco|Arredamento: Faretto completamente realizzato in alluminio bianco|2017/06/faretto-in-alluminio-bianco|data.oliviero.it/imgprodotto/faro-singolo-lampada-da-soffitto_161919",
 "Le 7 Torce Elettriche più utili: febbraio 2017|Le 7 Torce Elettriche più comprate, disponibili ora per l'acquisto|2017/02/le-7-torce-elettriche-piu-utili-febbraio-2017|data.oliviero.it/imgprodotto/torcia-ricaricabile-konuslight-rc2_93075",
 "Applique: le 6 più interessanti a febbraio 2017|Le 6 Applique consigliate, tra le migliori in commercio: febbraio 2017|2017/02/applique-le-6-piu-interessanti-a-febbraio-2017|data.oliviero.it/imgprodotto/applique-bolla_77996",
