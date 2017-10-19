@@ -1,4 +1,5 @@
 Gr = [
+"Gym bike SRX 45 Cyclette per dimagrire|Gym bike con con leva di sicurezza per il bloccaggio rapido del volano|2017/10/gym-bike-srx-45-cyclette-per-dimagrire|data.oliviero.it/imgprodotto/gym-bike-srx-45_90130",
 "I 6 Phon più venduti: aprile 2017|La top 6 dei migliori Phon sul mercato a aprile 2017|2017/04/i-6-phon-piu-venduti-aprile-2017|data.oliviero.it/imgprodotto/kit-phon-e-piastra-hello-kitty-hk-zd118-hairkit_89529",
 "Le 4 migliori Pedane Vibranti: aprile 2017|Le 4 Pedane Vibranti più vendute: la guida all'acquisto di aprile 2017|2017/04/le-4-migliori-pedane-vibranti-aprile-2017|data.oliviero.it/imgprodotto/pedana-vibrante-xg5_109695",
 "Palestra - La top 10 delle Panche Multifunzione: marzo 2017|La top 10 delle migliori Panche Multifunzione da palestra a marzo 2017|2017/03/palestra-la-top-10-delle-panche-multifunzione-marzo-2017|data.oliviero.it/imgprodotto/panca-multifunzione-delta-xl_135934",

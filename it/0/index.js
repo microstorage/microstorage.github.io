@@ -1,4 +1,5 @@
 Gr = [
+"Gym bike SRX 45 Cyclette per dimagrire|Gym bike con con leva di sicurezza per il bloccaggio rapido del volano|2017/10/gym-bike-srx-45-cyclette-per-dimagrire|data.oliviero.it/imgprodotto/gym-bike-srx-45_90130",
 "Passeggino gemellare Echo Twin|Passeggino gemellare: massimo comfort per i bambini e praticità|2017/10/passeggino-gemellare-echo-twin|data.oliviero.it/imgprodotto/passeggino-echo-twin-coal_69873",
 "Lampadario 6 luci Jewel Silver Ring|Lampadario 6 luci \"JEWEL SILVER RING\" realizzato in metallo cromato|2017/10/lampadario-6-luci-jewel-silver-ring|data.oliviero.it/imgprodotto/lampadario-6-luci-jewel-silver-ring_137836",
 "Pantaloni Sportivi Donna Nero|Questi pantaloni in spugna sfoggiano un look essenziale e moderno|2017/10/pantaloni-sportivi-donna-nero|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-nero_168115",

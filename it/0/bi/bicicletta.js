@@ -1,4 +1,5 @@
 Gr = [
+"Gym bike SRX 45 Cyclette per dimagrire|Gym bike con con leva di sicurezza per il bloccaggio rapido del volano|2017/10/gym-bike-srx-45-cyclette-per-dimagrire|data.oliviero.it/imgprodotto/gym-bike-srx-45_90130",
 "Casco ciclismo Zumax|Tenere la testa fresca e asciutta è fondamentale per prestazioni super|2017/08/casco-ciclismo-zumax|data.oliviero.it/imgprodotto/casco-ciclismo-zumax_146287",
 "Cyclette Home Fitness|Cyclette home fitness, tempo, velocità, distanza, calorie, pulsazioni|2017/06/cyclette-home-fitness|data.oliviero.it/imgprodotto/cyclette-mf602_148549",
 "Cyclette Recumbent: le 10 migliori a marzo 2017|La top 10 delle migliori Cyclette Recumbent disponibili da subito|2017/03/cyclette-recumbent-le-10-migliori-a-marzo-2017|data.oliviero.it/imgprodotto/recumbent-bk-r-209-pro_144179",
