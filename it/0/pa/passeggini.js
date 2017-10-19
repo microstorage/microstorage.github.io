@@ -1,4 +1,5 @@
 Gr = [
+"Passeggino gemellare Echo Twin|Passeggino gemellare: massimo comfort per i bambini e praticità|2017/10/passeggino-gemellare-echo-twin|data.oliviero.it/imgprodotto/passeggino-echo-twin-coal_69873",
 "Passeggino leggero flip 24|Il passeggino leggero e versatile per bambini da 0 a 36 mesi|2017/08/passeggino-leggero-flip-24|data.oliviero.it/imgprodotto/passeggino-flip-24_139397",
 "Passeggino Curvi leggero telaio in alluminio|Sistema di chiusura ad una sola mano, appoggiapiedi regolabile|2017/05/passeggino-curvi-leggero-telaio-in-alluminio|data.oliviero.it/imgprodotto/passeggino-curvi-119_159136",
 "I 10 migliori Passeggini: aprile 2017|I 10 Passeggini più pratici: la classifica aggiornata a aprile 2017|2017/04/i-10-migliori-passeggini-aprile-2017|data.oliviero.it/imgprodotto/passeggino-twin-swift-mgrafite_163484",

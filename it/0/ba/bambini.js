@@ -1,4 +1,5 @@
 Gr = [
+"Passeggino gemellare Echo Twin|Passeggino gemellare: massimo comfort per i bambini e praticità|2017/10/passeggino-gemellare-echo-twin|data.oliviero.it/imgprodotto/passeggino-echo-twin-coal_69873",
 "Trolley Big Facce adatto per la scuola|Questo è il Big trolley comodissimo da trascinare e da portare a spalle|2017/10/trolley-big-facce-adatto-per-la-scuola|data.oliviero.it/imgprodotto/trolley-big-facce-da-sj_166109",
 "Cameretta Bambino Carmen|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/10/cameretta-bambino-carmen|data.oliviero.it/imgprodotto/cameretta-carmen-gt4057_160265",
 "Zaino Timberland Crofton 22L|Zaino Timberland dotato anche di una pratica tasca interna per laptop|2017/09/zaino-timberland-crofton-22l|data.oliviero.it/imgprodotto/zaino-crofton-22l-a1lqq005_163078",
