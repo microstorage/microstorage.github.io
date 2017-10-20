@@ -1,4 +1,5 @@
 Gr = [
+"Essiccatore per frutta e Verdura|Essiccazione rapida e sicura con flusso continuo di aria calda|2017/10/essiccatore-per-frutta-e-verdura|data.oliviero.it/imgprodotto/essiccatore-per-frutta-e-verdura-90-506_130752",
 "Piastre per Waffle: le 2 scelte di aprile 2017|La 2 Piastre per Waffle che ci piacciono di più: aprile 2017|2017/04/piastre-per-waffle-le-2-scelte-di-aprile-2017|data.oliviero.it/imgprodotto/piastra-waffle-a-cuore-90-602y_161315",
 "I 6 Robot da Cucina più venduti: marzo 2017|La top 6 dei migliori Robot da Cucina sul mercato a marzo 2017|2017/03/i-6-robot-da-cucina-piu-venduti-marzo-2017|data.oliviero.it/imgprodotto/robot-da-cucina-500w-bianco-90-470b_160692",
 "I 7 migliori Frullatori a Immersione: marzo 2017|I 7 Frullatori a Immersione più utilizzati, subito disponibili per l'acquisto|2017/03/i-7-migliori-frullatori-a-immersione-marzo-2017|data.oliviero.it/imgprodotto/frullatore-a-immersione-professionale-800-watt-90-325_89137",
