@@ -1,4 +1,5 @@
 Gr = [
+"Reggiseno sportivo Adidas|Questo reggiseno sportivo garantisce la massima libertà di movimento|2017/10/reggiseno-sportivo-adidas|data.oliviero.it/imgprodotto/reggiseno-techfit-aj2172_146051",
 "Pantaloni Sportivi Donna Nero|Questi pantaloni in spugna sfoggiano un look essenziale e moderno|2017/10/pantaloni-sportivi-donna-nero|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-nero_168115",
 "Scarpe Sneakers Chapman Mid|La Scarpa Vans Chapman Mid M è una Sneakers Alta Uomo|2017/10/scarpe-sneakers-chapman-mid|data.oliviero.it/imgprodotto/scarpe-chapman-mid-vn0a2xswc4r_167709",
 "Maglia Ciclismo Uomo Nero|Maglia Ciclismo con orlo della manica tagliato al Laser|2017/09/maglia-ciclismo-uomo-nero|data.oliviero.it/imgprodotto/maglia-ciclismo-uomo-nero_145430",
