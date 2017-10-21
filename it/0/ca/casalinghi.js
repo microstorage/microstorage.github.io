@@ -1,4 +1,5 @@
 Gr = [
+"Vaporiera multicottura|Vaporiera multicottura con spegnimento automatico|2017/10/vaporiera-multicottura|data.oliviero.it/imgprodotto/vaporiera-multicottura_88965",
 "Essiccatore per frutta e Verdura|Essiccazione rapida e sicura con flusso continuo di aria calda|2017/10/essiccatore-per-frutta-e-verdura|data.oliviero.it/imgprodotto/essiccatore-per-frutta-e-verdura-90-506_130752",
 "Porta Torte con tavoletta refrigerante|Le torte sono la tua passione? Ecco un comodissimo portatorte!|2017/10/porta-torte-con-tavoletta-refrigerante|data.oliviero.it/imgprodotto/porta-torte-630842_155105",
 "Tegame multifunzione 24 cm Ingenio|Tegame multifunzione utilizzabile su piani cottura, in forno, in frigorifero|2017/09/tegame-multifunzione-24-cm-ingenio|data.oliviero.it/imgprodotto/tegame-24-cm-ingenio_155883",

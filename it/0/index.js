@@ -1,4 +1,5 @@
 Gr = [
+"Vaporiera multicottura|Vaporiera multicottura con spegnimento automatico|2017/10/vaporiera-multicottura|data.oliviero.it/imgprodotto/vaporiera-multicottura_88965",
 "Vogatore richiudibile domestico|Vogatore richiudibile pensato per l'utilizzo domestico|2017/10/vogatore-richiudibile-domestico|data.oliviero.it/imgprodotto/vogatore-jk-5070_371_big",
 "Reggiseno sportivo Adidas|Questo reggiseno sportivo garantisce la massima libertà di movimento|2017/10/reggiseno-sportivo-adidas|data.oliviero.it/imgprodotto/reggiseno-techfit-aj2172_146051",
 "Essiccatore per frutta e Verdura|Essiccazione rapida e sicura con flusso continuo di aria calda|2017/10/essiccatore-per-frutta-e-verdura|data.oliviero.it/imgprodotto/essiccatore-per-frutta-e-verdura-90-506_130752",

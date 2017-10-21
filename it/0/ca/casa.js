@@ -1,4 +1,5 @@
 Gr = [
+"Vaporiera multicottura|Vaporiera multicottura con spegnimento automatico|2017/10/vaporiera-multicottura|data.oliviero.it/imgprodotto/vaporiera-multicottura_88965",
 "Essiccatore per frutta e Verdura|Essiccazione rapida e sicura con flusso continuo di aria calda|2017/10/essiccatore-per-frutta-e-verdura|data.oliviero.it/imgprodotto/essiccatore-per-frutta-e-verdura-90-506_130752",
 "Lampadario 6 luci Jewel Silver Ring|Lampadario 6 luci \"JEWEL SILVER RING\" realizzato in metallo cromato|2017/10/lampadario-6-luci-jewel-silver-ring|data.oliviero.it/imgprodotto/lampadario-6-luci-jewel-silver-ring_137836",
 "Porta Torte con tavoletta refrigerante|Le torte sono la tua passione? Ecco un comodissimo portatorte!|2017/10/porta-torte-con-tavoletta-refrigerante|data.oliviero.it/imgprodotto/porta-torte-630842_155105",
