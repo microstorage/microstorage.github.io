@@ -1,4 +1,5 @@
 Gr = [
+"Il mitico zaino con le faccine di Invicta|Spallacci imbottiti e rivestiti in tessuto, tasca porta computer|2017/10/il-mitico-zaino-con-le-faccine-di-invicta|data.oliviero.it/imgprodotto/zaino-dial-face-fantasy_167450",
 "Cameretta Bambino Carmen|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/10/cameretta-bambino-carmen|data.oliviero.it/imgprodotto/cameretta-carmen-gt4057_160265",
 "Zaino Timberland Crofton 22L|Zaino Timberland dotato anche di una pratica tasca interna per laptop|2017/09/zaino-timberland-crofton-22l|data.oliviero.it/imgprodotto/zaino-crofton-22l-a1lqq005_163078",
 "Luce notturna per bambino con simpatico animaletto|Delicata luce notturna per aiutare il bambino ad addormentarsi tranquillo|2017/09/luce-notturna-per-bambino-con-simpatico-animaletto|data.oliviero.it/imgprodotto/luce-notturna_142996",

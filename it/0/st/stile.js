@@ -1,4 +1,5 @@
 Gr = [
+"Il mitico zaino con le faccine di Invicta|Spallacci imbottiti e rivestiti in tessuto, tasca porta computer|2017/10/il-mitico-zaino-con-le-faccine-di-invicta|data.oliviero.it/imgprodotto/zaino-dial-face-fantasy_167450",
 "Maglia da donna con ampio scollo|Maglia da donna con ampio scollo, maniche lunghe, collezione Liu Jo|2017/10/maglia-da-donna-con-ampio-scollo|data.oliviero.it/imgprodotto/maglia-donna-w15069-ma361-33801_146669",
 "Reggiseno sportivo Adidas|Questo reggiseno sportivo garantisce la massima libertà di movimento|2017/10/reggiseno-sportivo-adidas|data.oliviero.it/imgprodotto/reggiseno-techfit-aj2172_146051",
 "Pantaloni Sportivi Donna Nero|Questi pantaloni in spugna sfoggiano un look essenziale e moderno|2017/10/pantaloni-sportivi-donna-nero|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-nero_168115",

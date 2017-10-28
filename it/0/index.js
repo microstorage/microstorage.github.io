@@ -1,4 +1,5 @@
 Gr = [
+"Il mitico zaino con le faccine di Invicta|Spallacci imbottiti e rivestiti in tessuto, tasca porta computer|2017/10/il-mitico-zaino-con-le-faccine-di-invicta|data.oliviero.it/imgprodotto/zaino-dial-face-fantasy_167450",
 "Maglia da donna con ampio scollo|Maglia da donna con ampio scollo, maniche lunghe, collezione Liu Jo|2017/10/maglia-da-donna-con-ampio-scollo|data.oliviero.it/imgprodotto/maglia-donna-w15069-ma361-33801_146669",
 "Vaporiera multicottura|Vaporiera multicottura con spegnimento automatico|2017/10/vaporiera-multicottura|data.oliviero.it/imgprodotto/vaporiera-multicottura_88965",
 "Vogatore richiudibile domestico|Vogatore richiudibile pensato per l'utilizzo domestico|2017/10/vogatore-richiudibile-domestico|data.oliviero.it/imgprodotto/vogatore-jk-5070_371_big",

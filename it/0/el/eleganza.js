@@ -1,4 +1,5 @@
 Gr = [
+"Il mitico zaino con le faccine di Invicta|Spallacci imbottiti e rivestiti in tessuto, tasca porta computer|2017/10/il-mitico-zaino-con-le-faccine-di-invicta|data.oliviero.it/imgprodotto/zaino-dial-face-fantasy_167450",
 "Zaino Timberland Crofton 22L|Zaino Timberland dotato anche di una pratica tasca interna per laptop|2017/09/zaino-timberland-crofton-22l|data.oliviero.it/imgprodotto/zaino-crofton-22l-a1lqq005_163078",
 "I 6 Abiti Ragazza scelti a febbraio 2017|La top 6 dei migliori Abiti Ragazza scelti per voi a febbraio 2017|2017/02/i-6-abiti-ragazza-scelti-a-febbraio-2017|data.oliviero.it/imgprodotto/abito-jr-nero-tf15750_154636",
 "10 Abiti Donna selezionati: febbraio 2017|I 10 Abiti Donna più interessanti per l'acquisto a febbraio 2017|2017/02/10-abiti-donna-selezionati-febbraio-2017|data.oliviero.it/imgprodotto/abito-donna-spaghetti_88036",
