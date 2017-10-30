@@ -1,4 +1,5 @@
 Gr = [
+"Portapenne Bitmap per la scuola|Tanti modelli, grafiche e colori proprio per tutti i gusti|2017/10/portapenne-bitmap-per-la-scuola|data.oliviero.it/imgprodotto/portapenne-bitmap_166309",
 "Il mitico zaino con le faccine di Invicta|Spallacci imbottiti e rivestiti in tessuto, tasca porta computer|2017/10/il-mitico-zaino-con-le-faccine-di-invicta|data.oliviero.it/imgprodotto/zaino-dial-face-fantasy_167450",
 "Passeggino gemellare Echo Twin|Passeggino gemellare: massimo comfort per i bambini e praticità|2017/10/passeggino-gemellare-echo-twin|data.oliviero.it/imgprodotto/passeggino-echo-twin-coal_69873",
 "Trolley Big Facce adatto per la scuola|Questo è il Big trolley comodissimo da trascinare e da portare a spalle|2017/10/trolley-big-facce-adatto-per-la-scuola|data.oliviero.it/imgprodotto/trolley-big-facce-da-sj_166109",
