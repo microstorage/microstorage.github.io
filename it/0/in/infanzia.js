@@ -1,4 +1,5 @@
 Gr = [
+"Fascia Porta Bebè Carry Sling 450 cm Mystic|Potrà anche servire da sciarpa, amaca, coperta da gioco, parasole, ecc|2017/11/fascia-porta-bebe-carry-sling-450-cm-mystic|data.oliviero.it/imgprodotto/fascia-porta-beb%C3%A8-carry-sling-450-cm-mystic_84009",
 "Passeggino gemellare Echo Twin|Passeggino gemellare: massimo comfort per i bambini e praticità|2017/10/passeggino-gemellare-echo-twin|data.oliviero.it/imgprodotto/passeggino-echo-twin-coal_69873",
 "Cameretta Bambino Carmen|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/10/cameretta-bambino-carmen|data.oliviero.it/imgprodotto/cameretta-carmen-gt4057_160265",
 "Luce notturna per bambino con simpatico animaletto|Delicata luce notturna per aiutare il bambino ad addormentarsi tranquillo|2017/09/luce-notturna-per-bambino-con-simpatico-animaletto|data.oliviero.it/imgprodotto/luce-notturna_142996",
