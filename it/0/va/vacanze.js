@@ -1,4 +1,5 @@
 Gr = [
+"Trolley con fasce ferma abiti|Trolley grande e capiente, tasca frontale con chiusura a zip, lucchetto|2017/11/trolley-con-fasce-ferma-abiti|data.oliviero.it/imgprodotto/trolley-up-2r_147899",
 "Cuscino da Viaggio morbido|Questo cuscino da viaggio sposa perfettamente la forma della nuca|2017/07/cuscino-da-viaggio-morbido|data.oliviero.it/imgprodotto/cuscino-da-viaggio-rosso-003940260_160629",
 "Seggiolino Auto Viaggiosicuro|Seggiolino Auto con sistema di controllo per la corretta istallazione|2017/07/seggiolino-auto-viaggiosicuro|data.oliviero.it/imgprodotto/viaggiosicuro-isofix-522_139436",
 "I 3 Trolley per la Scuola più pazzi: gennaio 2017|I 3 Trolley per la Scuola preferiti dai SuperEroi, e non solo|2017/01/i-3-trolley-per-la-scuola-piu-pazzi-gennaio-2017|data.oliviero.it/imgprodotto/trolley-superstar-marvel-comics-ma901000_150728",
