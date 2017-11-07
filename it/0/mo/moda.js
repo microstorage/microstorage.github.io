@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloni Sportivi Donna Nero|Pantaloni sportivi da donna, elastico in vita, polsini alle caviglie|2017/11/pantaloni-sportivi-donna-nero|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-nero_169469",
 "Marsupio con tasca sul retro per banconote|Un pratico accessorio per riporre in sicurezza le tue cose|2017/11/marsupio-con-tasca-sul-retro-per-banconote|data.oliviero.it/imgprodotto/marsupio-springer-black_166721",
 "Felpa uomo blu Adidas con cappuccio foderato|Un look moderno quando vai in palestra o esci a divertirti|2017/11/felpa-uomo-blu-adidas-con-cappuccio-foderato|data.oliviero.it/imgprodotto/felpa-uomo-blu_166881",
 "Trolley con fasce ferma abiti|Trolley grande e capiente, tasca frontale con chiusura a zip, lucchetto|2017/11/trolley-con-fasce-ferma-abiti|data.oliviero.it/imgprodotto/trolley-up-2r_147899",

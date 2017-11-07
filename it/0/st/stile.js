@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloni Sportivi Donna Nero|Pantaloni sportivi da donna, elastico in vita, polsini alle caviglie|2017/11/pantaloni-sportivi-donna-nero|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-nero_169469",
 "Marsupio con tasca sul retro per banconote|Un pratico accessorio per riporre in sicurezza le tue cose|2017/11/marsupio-con-tasca-sul-retro-per-banconote|data.oliviero.it/imgprodotto/marsupio-springer-black_166721",
 "Felpa uomo blu Adidas con cappuccio foderato|Un look moderno quando vai in palestra o esci a divertirti|2017/11/felpa-uomo-blu-adidas-con-cappuccio-foderato|data.oliviero.it/imgprodotto/felpa-uomo-blu_166881",
 "Il mitico zaino con le faccine di Invicta|Spallacci imbottiti e rivestiti in tessuto, tasca porta computer|2017/10/il-mitico-zaino-con-le-faccine-di-invicta|data.oliviero.it/imgprodotto/zaino-dial-face-fantasy_167450",
