@@ -1,4 +1,5 @@
 Gr = [
+"Cameretta Enzo, bella e funzionale|Design e funzionalità a portata di bimbo e genitori, pratica e minimalista|2017/11/cameretta-enzo-bella-e-funzionale|data.oliviero.it/imgprodotto/cameretta-enzo-gt4003_160077",
 "Fascia Porta Bebè Carry Sling 450 cm Mystic|Potrà anche servire da sciarpa, amaca, coperta da gioco, parasole, ecc|2017/11/fascia-porta-bebe-carry-sling-450-cm-mystic|data.oliviero.it/imgprodotto/fascia-porta-beb%C3%A8-carry-sling-450-cm-mystic_84009",
 "Passeggino gemellare Echo Twin|Passeggino gemellare: massimo comfort per i bambini e praticità|2017/10/passeggino-gemellare-echo-twin|data.oliviero.it/imgprodotto/passeggino-echo-twin-coal_69873",
 "Cameretta Bambino Carmen|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/10/cameretta-bambino-carmen|data.oliviero.it/imgprodotto/cameretta-carmen-gt4057_160265",

@@ -1,4 +1,5 @@
 Gr = [
+"Cameretta Enzo, bella e funzionale|Design e funzionalità a portata di bimbo e genitori, pratica e minimalista|2017/11/cameretta-enzo-bella-e-funzionale|data.oliviero.it/imgprodotto/cameretta-enzo-gt4003_160077",
 "Portapenne Bitmap per la scuola|Tanti modelli, grafiche e colori proprio per tutti i gusti|2017/10/portapenne-bitmap-per-la-scuola|data.oliviero.it/imgprodotto/portapenne-bitmap_166309",
 "Il mitico zaino con le faccine di Invicta|Spallacci imbottiti e rivestiti in tessuto, tasca porta computer|2017/10/il-mitico-zaino-con-le-faccine-di-invicta|data.oliviero.it/imgprodotto/zaino-dial-face-fantasy_167450",
 "Trolley Big Facce adatto per la scuola|Questo è il Big trolley comodissimo da trascinare e da portare a spalle|2017/10/trolley-big-facce-adatto-per-la-scuola|data.oliviero.it/imgprodotto/trolley-big-facce-da-sj_166109",
