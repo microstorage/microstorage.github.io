@@ -1,5 +1,6 @@
 Tt = "T-Shirt";
 Gr = [
+"T-Shirt Uomo Taglie Forti Bordeaux|T-Shirt uomo taglie forti: maniche lunghe, girocollo e logo al petto, cotone|2017/11/t-shirt-uomo-taglie-forti-bordeaux|data.oliviero.it/imgprodotto/t-shirt-uomo-taglie-forti-bordeaux_167299",
 "T-Shirt Uomo Taglie Forti Sabbia|T-Shirt taglie forti da uomo: girocollo, mezze maniche, stampa frontale|2017/08/t-shirt-uomo-taglie-forti-sabbia|data.oliviero.it/imgprodotto/t-shirt-uomo-taglie-forti-sabbia-25613-90_164790",
 "T-Shirt Donna Nero Leni|Collezione Primavera Estate T-shirt bianca a manica corta a righe|2017/07/t-shirt-donna-nero-leni|data.oliviero.it/imgprodotto/t-shirt-donna-nero-leni-72t2yb22000_161387",
 "T-Shirt Uomo Los Angeles Box Graphic|Collezione Primavera Estate T-Shirt da uomo con stampa colorata|2017/07/t-shirt-uomo-los-angeles-box-graphic|data.oliviero.it/imgprodotto/t-shirt-uomo-los-angeles-box-graphic-bk7693_164777",

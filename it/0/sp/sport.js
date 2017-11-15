@@ -1,4 +1,5 @@
 Gr = [
+"T-Shirt Uomo Taglie Forti Bordeaux|T-Shirt uomo taglie forti: maniche lunghe, girocollo e logo al petto, cotone|2017/11/t-shirt-uomo-taglie-forti-bordeaux|data.oliviero.it/imgprodotto/t-shirt-uomo-taglie-forti-bordeaux_167299",
 "Pantaloni Sportivi Donna Nero|Pantaloni sportivi da donna, elastico in vita, polsini alle caviglie|2017/11/pantaloni-sportivi-donna-nero|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-nero_169469",
 "Marsupio con tasca sul retro per banconote|Un pratico accessorio per riporre in sicurezza le tue cose|2017/11/marsupio-con-tasca-sul-retro-per-banconote|data.oliviero.it/imgprodotto/marsupio-springer-black_166721",
 "Felpa uomo blu Adidas con cappuccio foderato|Un look moderno quando vai in palestra o esci a divertirti|2017/11/felpa-uomo-blu-adidas-con-cappuccio-foderato|data.oliviero.it/imgprodotto/felpa-uomo-blu_166881",
