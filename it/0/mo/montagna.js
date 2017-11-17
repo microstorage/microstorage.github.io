@@ -1,4 +1,5 @@
 Gr = [
+"Casco Sci Donna da Head|Cloe è il casco più leggero di Head, con shell in policarbonato|2017/11/casco-sci-donna-da-head|data.oliviero.it/imgprodotto/casco-sci-cloe-325613_92266",
 "Sacco a Pelo Campeggio Montagna Easy|Sacco a Pelo Campeggio Montagna con cerniera più semplice e veloce|2017/08/sacco-a-pelo-campeggio-montagna-easy|data.oliviero.it/imgprodotto/sacco-a-pelo-easy-cotton-blue_147539",
 "Binocolo con prismi di Porro 7x50|Elegante binocolo con maggior percezione della profondità e campo visivo|2017/08/binocolo-con-prismi-di-porro-7x50|data.oliviero.it/imgprodotto/binocolo-con-prismi-di-porro-7x50_83801",
 "Sacco a Pelo Ultralight 1000|Coprilampo imbottita, sistema antinceppamento lampo, cappuccio|2017/06/sacco-a-pelo-ultralight-1000|data.oliviero.it/imgprodotto/sacco-a-pelo-ultralight-1000_87299",
