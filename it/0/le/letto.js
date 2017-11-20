@@ -1,4 +1,5 @@
 Gr = [
+"Rete 200x160 Matrimoniale con doghe in legno|Doghe in legno naturale inserite all'interno del telaio, gambe smontabili|2017/11/rete-200x160-matrimoniale-con-doghe-in-legno|data.oliviero.it/imgprodotto/rete-200x160-matrimoniale-con-doghe-in-legno-jumbo-160_163220",
 "Cameretta Enzo, bella e funzionale|Design e funzionalità a portata di bimbo e genitori, pratica e minimalista|2017/11/cameretta-enzo-bella-e-funzionale|data.oliviero.it/imgprodotto/cameretta-enzo-gt4003_160077",
 "Materasso 80x190 Singolo Extra ortopedico|Lato invernale in lana, lato estivo in puro cotone bianco|2017/08/materasso-80x190-singolo-extra-ortopedico|data.oliviero.it/imgprodotto/materasso-80x190-singolo-extra-ortopedico_93518",
 "Trapunta matrimoniale Tuilerie|Trapunta matrimoniale in raso satin di puro cotone stampa pizzo|2017/06/trapunta-matrimoniale-tuilerie|data.oliviero.it/imgprodotto/trapunta-tuilerie_117456",
