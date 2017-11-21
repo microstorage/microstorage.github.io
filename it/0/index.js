@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Basket Ua Curry 2.5|Scarpe Basket con tomaia modellata per una calzata leggera e precisa|2017/11/scarpe-basket-ua-curry-2-5|data.oliviero.it/imgprodotto/scarpe-basket-ua-curry-2-5-1274425-105_151972",
 "Rete 200x160 Matrimoniale con doghe in legno|Doghe in legno naturale inserite all'interno del telaio, gambe smontabili|2017/11/rete-200x160-matrimoniale-con-doghe-in-legno|data.oliviero.it/imgprodotto/rete-200x160-matrimoniale-con-doghe-in-legno-jumbo-160_163220",
 "Casco Sci Donna da Head|Cloe è il casco più leggero di Head, con shell in policarbonato|2017/11/casco-sci-donna-da-head|data.oliviero.it/imgprodotto/casco-sci-cloe-325613_92266",
 "T-Shirt Uomo Taglie Forti Bordeaux|T-Shirt uomo taglie forti: maniche lunghe, girocollo e logo al petto, cotone|2017/11/t-shirt-uomo-taglie-forti-bordeaux|data.oliviero.it/imgprodotto/t-shirt-uomo-taglie-forti-bordeaux_167299",

@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Basket Ua Curry 2.5|Scarpe Basket con tomaia modellata per una calzata leggera e precisa|2017/11/scarpe-basket-ua-curry-2-5|data.oliviero.it/imgprodotto/scarpe-basket-ua-curry-2-5-1274425-105_151972",
 "Scarpe Basket Ua Curry 3|Migliorano la velocità iniziale e i cambi di direzione|2017/05/scarpe-basket-ua-curry-3|data.oliviero.it/imgprodotto/scarpe-basket-ua-curry-3-1269279-007_160533",
 "Piantana Basket USA trasportabile|1 Piantana Basket USA trasportabile e regolabile|2017/05/piantana-basket-usa-trasportabile|data.oliviero.it/imgprodotto/1-piantana-basket-usa-70-320-0016_157445",
 "I 7 migliori Palloni e Set Basket: marzo 2017|La top 7 dei migliori Palloni e Set da Pallacanestro, disponibili da subito|2017/03/i-7-migliori-palloni-e-set-basket-marzo-2017|data.oliviero.it/imgprodotto/set-basket-regolamentare_71351",
