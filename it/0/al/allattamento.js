@@ -1,4 +1,5 @@
 Gr = [
+"Carrozzina omologata per il trasporto in auto|Chiusura a libro compatta con la seduta in entrambe le posizioni di marcia|2017/11/carrozzina-omologata-per-il-trasporto-in-auto|data.oliviero.it/imgprodotto/trio-fluido-top-687-telaio-nero_158960",
 "Passeggino gemellare Echo Twin|Passeggino gemellare: massimo comfort per i bambini e praticità|2017/10/passeggino-gemellare-echo-twin|data.oliviero.it/imgprodotto/passeggino-echo-twin-coal_69873",
 "Fascia Porta Bebè Carry Sling 450 cm|Fascia porta bebè, sostiene perfettamente la schiena delicata|2017/06/fascia-porta-bebe-carry-sling-450-cm|data.oliviero.it/imgprodotto/fascia-porta-beb%C3%A8-carry-sling-450-cm-pacific_84002",
 "Reggiseno Allattamento Bianco Preformato|Pratico e confortevole, coppe preformate senza cuciture|2017/06/reggiseno-allattamento-bianco-preformato|data.oliviero.it/imgprodotto/reggiseno-allatt-bianco-preformato-82208_52920",

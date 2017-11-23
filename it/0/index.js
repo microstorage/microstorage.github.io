@@ -1,4 +1,5 @@
 Gr = [
+"Carrozzina omologata per il trasporto in auto|Chiusura a libro compatta con la seduta in entrambe le posizioni di marcia|2017/11/carrozzina-omologata-per-il-trasporto-in-auto|data.oliviero.it/imgprodotto/trio-fluido-top-687-telaio-nero_158960",
 "Scarpe Basket Ua Curry 2.5|Scarpe Basket con tomaia modellata per una calzata leggera e precisa|2017/11/scarpe-basket-ua-curry-2-5|data.oliviero.it/imgprodotto/scarpe-basket-ua-curry-2-5-1274425-105_151972",
 "Rete 200x160 Matrimoniale con doghe in legno|Doghe in legno naturale inserite all'interno del telaio, gambe smontabili|2017/11/rete-200x160-matrimoniale-con-doghe-in-legno|data.oliviero.it/imgprodotto/rete-200x160-matrimoniale-con-doghe-in-legno-jumbo-160_163220",
 "Casco Sci Donna da Head|Cloe è il casco più leggero di Head, con shell in policarbonato|2017/11/casco-sci-donna-da-head|data.oliviero.it/imgprodotto/casco-sci-cloe-325613_92266",

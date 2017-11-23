@@ -1,4 +1,5 @@
 Gr = [
+"Carrozzina omologata per il trasporto in auto|Chiusura a libro compatta con la seduta in entrambe le posizioni di marcia|2017/11/carrozzina-omologata-per-il-trasporto-in-auto|data.oliviero.it/imgprodotto/trio-fluido-top-687-telaio-nero_158960",
 "Portapenne Bitmap per la scuola|Gli accessori che non possono mancare nel tuo zaino per la scuola|2017/11/portapenne-bitmap-per-la-scuola|data.oliviero.it/imgprodotto/portapenne-bitmap_166310",
 "Cameretta Enzo, bella e funzionale|Design e funzionalità a portata di bimbo e genitori, pratica e minimalista|2017/11/cameretta-enzo-bella-e-funzionale|data.oliviero.it/imgprodotto/cameretta-enzo-gt4003_160077",
 "Fascia Porta Bebè Carry Sling 450 cm Mystic|Potrà anche servire da sciarpa, amaca, coperta da gioco, parasole, ecc|2017/11/fascia-porta-bebe-carry-sling-450-cm-mystic|data.oliviero.it/imgprodotto/fascia-porta-beb%C3%A8-carry-sling-450-cm-mystic_84009",
