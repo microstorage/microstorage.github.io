@@ -1,4 +1,5 @@
 Gr = [
+"Macchina Caffè Tekna nera + 120 capsule|Macchina Caffè Tekna Nera Espresso Cap Termozeta + 4x30 capsule|2017/11/macchina-caffe-tekna-nera-+-120-capsule|www.cialdamia.it/media/catalog/product/cache/1/image/85e4522595efc69f496374d01ef2bf13/t/e/tekna-nera-_-120-capsule.png",
 "I 7 migliori Frullatori a Immersione: marzo 2017|I 7 Frullatori a Immersione più utilizzati, subito disponibili per l'acquisto|2017/03/i-7-migliori-frullatori-a-immersione-marzo-2017|data.oliviero.it/imgprodotto/frullatore-a-immersione-professionale-800-watt-90-325_89137",
 "I 10 Frullatori migliori sul mercato: marzo 2017|I 10 Frullatori che piacciono di più in commercio: marzo 2017|2017/03/i-10-frullatori-migliori-sul-mercato-marzo-2017|data.oliviero.it/imgprodotto/frullatore-400w-verde-90-430v_160676",
 "I 4 migliori Set per Fonduta: marzo 2017|I 4 Set per Fonduta più desiderati, disponibili ora per l'acquisto|2017/03/i-4-migliori-set-per-fonduta-marzo-2017|data.oliviero.it/imgprodotto/fonduta-e-bourgignon-90-387_90336",

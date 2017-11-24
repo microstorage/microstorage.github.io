@@ -1,4 +1,5 @@
 Gr = [
+"Macchina Caffè Tekna nera + 120 capsule|Macchina Caffè Tekna Nera Espresso Cap Termozeta + 4x30 capsule|2017/11/macchina-caffe-tekna-nera-+-120-capsule|www.cialdamia.it/media/catalog/product/cache/1/image/85e4522595efc69f496374d01ef2bf13/t/e/tekna-nera-_-120-capsule.png",
 "Vaporiera multicottura|Vaporiera multicottura con spegnimento automatico|2017/10/vaporiera-multicottura|data.oliviero.it/imgprodotto/vaporiera-multicottura_88965",
 "Essiccatore per frutta e Verdura|Essiccazione rapida e sicura con flusso continuo di aria calda|2017/10/essiccatore-per-frutta-e-verdura|data.oliviero.it/imgprodotto/essiccatore-per-frutta-e-verdura-90-506_130752",
 "Tegame multifunzione 24 cm Ingenio|Tegame multifunzione utilizzabile su piani cottura, in forno, in frigorifero|2017/09/tegame-multifunzione-24-cm-ingenio|data.oliviero.it/imgprodotto/tegame-24-cm-ingenio_155883",

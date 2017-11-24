@@ -1,4 +1,5 @@
 Gr = [
+"Macchina Caffè Tekna nera + 120 capsule|Macchina Caffè Tekna Nera Espresso Cap Termozeta + 4x30 capsule|2017/11/macchina-caffe-tekna-nera-+-120-capsule|www.cialdamia.it/media/catalog/product/cache/1/image/85e4522595efc69f496374d01ef2bf13/t/e/tekna-nera-_-120-capsule.png",
 "Tegame multifunzione 24 cm Ingenio|Tegame multifunzione utilizzabile su piani cottura, in forno, in frigorifero|2017/09/tegame-multifunzione-24-cm-ingenio|data.oliviero.it/imgprodotto/tegame-24-cm-ingenio_155883",
 "Padelle: le 10 migliori a marzo 2017|Le 10 Padelle più comprate ora in commercio: marzo 2017|2017/03/padelle-le-10-migliori-a-marzo-2017|data.oliviero.it/imgprodotto/padella-silver-22-cm_156392",
 "I 3 Fornelli scelti a marzo 2017|3 dei migliori Fornelli, disponibili da subito: marzo 2017|2017/03/i-3-fornelli-scelti-a-marzo-2017|data.oliviero.it/imgprodotto/fornello-magnum-camping-1-fuoco_55394",
