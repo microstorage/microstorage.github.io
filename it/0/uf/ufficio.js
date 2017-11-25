@@ -1,4 +1,5 @@
 Gr = [
+"Promozione Macchina Illy Iperespresso Y3 Verde + 108 capsule|Offerta imperdibile per la Macchina Illy Iperespresso Y3 Verde!|2017/11/promozione-macchina-illy-iperespresso-y3-verde-+-108-capsule|www.cialdamia.it/media/catalog/product/cache/1/image/85e4522595efc69f496374d01ef2bf13/p/r/promozione-macchina-illy-iperespresso-y3-verde-108-capsule.png",
 "Macchina Caffè Tekna nera + 120 capsule|Macchina Caffè Tekna Nera Espresso Cap Termozeta + 4x30 capsule|2017/11/macchina-caffe-tekna-nera-+-120-capsule|www.cialdamia.it/media/catalog/product/cache/1/image/85e4522595efc69f496374d01ef2bf13/t/e/tekna-nera-_-120-capsule.png",
 "Lampadario 6 luci Jewel Silver Ring|Lampadario 6 luci \"JEWEL SILVER RING\" realizzato in metallo cromato|2017/10/lampadario-6-luci-jewel-silver-ring|data.oliviero.it/imgprodotto/lampadario-6-luci-jewel-silver-ring_137836",
 "Tappetino Insonorizzante 200X100|Tappetino protettivo insonorizzante, massimo assorbimento dei rumori|2017/08/tappetino-insonorizzante-200x100|data.oliviero.it/imgprodotto/tappetino-insonorizzante-200x100_75806",

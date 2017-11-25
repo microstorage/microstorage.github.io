@@ -1,4 +1,5 @@
 Gr = [
+"Promozione Macchina Illy Iperespresso Y3 Verde + 108 capsule|Offerta imperdibile per la Macchina Illy Iperespresso Y3 Verde!|2017/11/promozione-macchina-illy-iperespresso-y3-verde-+-108-capsule|www.cialdamia.it/media/catalog/product/cache/1/image/85e4522595efc69f496374d01ef2bf13/p/r/promozione-macchina-illy-iperespresso-y3-verde-108-capsule.png",
 "Macchina Caffè Tekna nera + 120 capsule|Macchina Caffè Tekna Nera Espresso Cap Termozeta + 4x30 capsule|2017/11/macchina-caffe-tekna-nera-+-120-capsule|www.cialdamia.it/media/catalog/product/cache/1/image/85e4522595efc69f496374d01ef2bf13/t/e/tekna-nera-_-120-capsule.png",
 "I 7 migliori Frullatori a Immersione: marzo 2017|I 7 Frullatori a Immersione più utilizzati, subito disponibili per l'acquisto|2017/03/i-7-migliori-frullatori-a-immersione-marzo-2017|data.oliviero.it/imgprodotto/frullatore-a-immersione-professionale-800-watt-90-325_89137",
 "I 10 Frullatori migliori sul mercato: marzo 2017|I 10 Frullatori che piacciono di più in commercio: marzo 2017|2017/03/i-10-frullatori-migliori-sul-mercato-marzo-2017|data.oliviero.it/imgprodotto/frullatore-400w-verde-90-430v_160676",
