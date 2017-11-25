@@ -1,4 +1,5 @@
 Gr = [
+"Zoccoli professionali antistatici in gomma|Zoccoli professionali unisex anatomici, antiscivolo, idrorepellenti|2017/11/zoccoli-professionali-antistatici-in-gomma|data.oliviero.it/imgprodotto/zoccolo-autoclavabile-112601_94285",
 "Felpa uomo blu Adidas con cappuccio foderato|Un look moderno quando vai in palestra o esci a divertirti|2017/11/felpa-uomo-blu-adidas-con-cappuccio-foderato|data.oliviero.it/imgprodotto/felpa-uomo-blu_166881",
 "Scarpe Sneakers Chapman Mid|La Scarpa Vans Chapman Mid M è una Sneakers Alta Uomo|2017/10/scarpe-sneakers-chapman-mid|data.oliviero.it/imgprodotto/scarpe-chapman-mid-vn0a2xswc4r_167709",
 "Gilet uomo a 4 bottoni, 2 tasche|Gilet uomo chiusura 4 bottoni, due tasche, cinturino posteriore|2017/10/gilet-uomo-a-4-bottoni-2-tasche|data.oliviero.it/imgprodotto/gilet-uomo_83013",

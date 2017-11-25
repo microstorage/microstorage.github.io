@@ -1,4 +1,5 @@
 Gr = [
+"Zoccoli professionali antistatici in gomma|Zoccoli professionali unisex anatomici, antiscivolo, idrorepellenti|2017/11/zoccoli-professionali-antistatici-in-gomma|data.oliviero.it/imgprodotto/zoccolo-autoclavabile-112601_94285",
 "Macchina Caffè Tekna nera + 120 capsule|Macchina Caffè Tekna Nera Espresso Cap Termozeta + 4x30 capsule|2017/11/macchina-caffe-tekna-nera-+-120-capsule|www.cialdamia.it/media/catalog/product/cache/1/image/85e4522595efc69f496374d01ef2bf13/t/e/tekna-nera-_-120-capsule.png",
 "Carrozzina omologata per il trasporto in auto|Chiusura a libro compatta con la seduta in entrambe le posizioni di marcia|2017/11/carrozzina-omologata-per-il-trasporto-in-auto|data.oliviero.it/imgprodotto/trio-fluido-top-687-telaio-nero_158960",
 "Scarpe Basket Ua Curry 2.5|Scarpe Basket con tomaia modellata per una calzata leggera e precisa|2017/11/scarpe-basket-ua-curry-2-5|data.oliviero.it/imgprodotto/scarpe-basket-ua-curry-2-5-1274425-105_151972",
