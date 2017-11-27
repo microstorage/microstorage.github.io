@@ -1,4 +1,5 @@
 Gr = [
+"100 capsule Lollo Caffè Classico compatibili Lavazza Espresso Point|Confezione contenente 100 capsule di caffè in miscela lollo classico|2017/11/100-capsule-lollo-caffe-classico-compatibili-lavazza-espresso-point|www.cialdamia.it/media/catalog/product/cache/1/image/85e4522595efc69f496374d01ef2bf13/1/0/100-capsule-lollo-caffe-classico-compatibili-lavazza-espresso-point_1.png",
 "Panca Palestra WB50|Regolazione altezza supporti su 7 posizioni|2017/11/panca-palestra-wb50|data.oliviero.it/imgprodotto/panca-wb50_171163",
 "150 cialde ESE 44 mm Lavazza Gran Espresso|Per chi ama i caffè più corposi Lavazza ha espressamente studiato|2017/11/150-cialde-ese-44-mm-lavazza-gran-espresso|www.cialdamia.it/media/catalog/product/cache/1/image/85e4522595efc69f496374d01ef2bf13/1/5/150-cialde-ese-44-mm-lavazza-gran_espresso.png",
 "Scarpe con Ruote Thunder X2|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/11/scarpe-con-ruote-thunder-x2|data.oliviero.it/imgprodotto/scarpe-con-ruote-thunder-x2-770480k_131811",
