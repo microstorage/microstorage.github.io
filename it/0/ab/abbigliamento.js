@@ -1,4 +1,5 @@
 Gr = [
+"Reggiseno Donna Arancio Techfit TF MC Bra|Supporto medio ideale per discipline come elliptical training o hiking|2017/11/reggiseno-donna-arancio-techfit-tf-mc-bra|data.oliviero.it/imgprodotto/reggiseno-donna-arancio-techfit-tf-mc-bra-bk3776_159438",
 "Sneaker uomo Vinto da Geox|Esclusivo brevetto Geox nella suola perforata per piedi sempre asciutti|2017/11/sneaker-uomo-vinto-da-geox|data.oliviero.it/imgprodotto/scarpe-uomo-vinto_167158",
 "Zoccoli professionali antistatici in gomma|Zoccoli professionali unisex anatomici, antiscivolo, idrorepellenti|2017/11/zoccoli-professionali-antistatici-in-gomma|data.oliviero.it/imgprodotto/zoccolo-autoclavabile-112601_94285",
 "Scarpe Basket Ua Curry 2.5|Scarpe Basket con tomaia modellata per una calzata leggera e precisa|2017/11/scarpe-basket-ua-curry-2-5|data.oliviero.it/imgprodotto/scarpe-basket-ua-curry-2-5-1274425-105_151972",
