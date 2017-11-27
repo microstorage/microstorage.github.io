@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe con Ruote Thunder X2|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/11/scarpe-con-ruote-thunder-x2|data.oliviero.it/imgprodotto/scarpe-con-ruote-thunder-x2-770480k_131811",
 "Carrozzina omologata per il trasporto in auto|Chiusura a libro compatta con la seduta in entrambe le posizioni di marcia|2017/11/carrozzina-omologata-per-il-trasporto-in-auto|data.oliviero.it/imgprodotto/trio-fluido-top-687-telaio-nero_158960",
 "Portapenne Bitmap per la scuola|Gli accessori che non possono mancare nel tuo zaino per la scuola|2017/11/portapenne-bitmap-per-la-scuola|data.oliviero.it/imgprodotto/portapenne-bitmap_166310",
 "Cameretta Enzo, bella e funzionale|Design e funzionalità a portata di bimbo e genitori, pratica e minimalista|2017/11/cameretta-enzo-bella-e-funzionale|data.oliviero.it/imgprodotto/cameretta-enzo-gt4003_160077",
