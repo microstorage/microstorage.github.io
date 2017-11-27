@@ -1,4 +1,5 @@
 Gr = [
+"Sneaker uomo Vinto da Geox|Esclusivo brevetto Geox nella suola perforata per piedi sempre asciutti|2017/11/sneaker-uomo-vinto-da-geox|data.oliviero.it/imgprodotto/scarpe-uomo-vinto_167158",
 "Scarpe Basket Ua Curry 2.5|Scarpe Basket con tomaia modellata per una calzata leggera e precisa|2017/11/scarpe-basket-ua-curry-2-5|data.oliviero.it/imgprodotto/scarpe-basket-ua-curry-2-5-1274425-105_151972",
 "Scarpe Sneakers Chapman Mid|La Scarpa Vans Chapman Mid M è una Sneakers Alta Uomo|2017/10/scarpe-sneakers-chapman-mid|data.oliviero.it/imgprodotto/scarpe-chapman-mid-vn0a2xswc4r_167709",
 "Scarpe Basket Uomo D Rose|Calzatura basket uomo con Tomaia in Tessuto sintetico|2017/07/scarpe-basket-uomo-d-rose|data.oliviero.it/imgprodotto/scarpe-basket-d-rose-773-lux-s85119_106664",

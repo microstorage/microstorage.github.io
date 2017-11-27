@@ -1,4 +1,5 @@
 Gr = [
+"Sneaker uomo Vinto da Geox|Esclusivo brevetto Geox nella suola perforata per piedi sempre asciutti|2017/11/sneaker-uomo-vinto-da-geox|data.oliviero.it/imgprodotto/scarpe-uomo-vinto_167158",
 "Zoccoli professionali antistatici in gomma|Zoccoli professionali unisex anatomici, antiscivolo, idrorepellenti|2017/11/zoccoli-professionali-antistatici-in-gomma|data.oliviero.it/imgprodotto/zoccolo-autoclavabile-112601_94285",
 "T-Shirt Uomo Taglie Forti Bordeaux|T-Shirt uomo taglie forti: maniche lunghe, girocollo e logo al petto, cotone|2017/11/t-shirt-uomo-taglie-forti-bordeaux|data.oliviero.it/imgprodotto/t-shirt-uomo-taglie-forti-bordeaux_167299",
 "Pantaloni Sportivi Donna Nero|Pantaloni sportivi da donna, elastico in vita, polsini alle caviglie|2017/11/pantaloni-sportivi-donna-nero|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-nero_169469",
