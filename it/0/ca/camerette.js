@@ -1,4 +1,5 @@
 Gr = [
+"Cesta Porta Enfant loving bear rosa|Cesta portabebè con materassino cuscino e piumetto. Tessuto 100%|2017/12/cesta-porta-enfant-loving-bear-rosa|data.oliviero.it/imgprodotto/cesta-porta-enfant-loving-bear-rosa_86201",
 "Cameretta Enzo, bella e funzionale|Design e funzionalità a portata di bimbo e genitori, pratica e minimalista|2017/11/cameretta-enzo-bella-e-funzionale|data.oliviero.it/imgprodotto/cameretta-enzo-gt4003_160077",
 "Cameretta Bambino Carmen|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/10/cameretta-bambino-carmen|data.oliviero.it/imgprodotto/cameretta-carmen-gt4057_160265",
 "Cameretta Fabiana|Bella e funzionale, questa cameretta gestisce gli spazi al meglio|2017/07/cameretta-fabiana|data.oliviero.it/imgprodotto/cameretta-fabiana-gt4061_160275",
