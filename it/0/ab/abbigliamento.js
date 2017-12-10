@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloni donna Casual P2S4SB 00433|Pantalone Casual da donna con stampe floreali. Il modello presenta|2017/12/pantaloni-donna-casual-p2s4sb-00433|data.oliviero.it/imgprodotto/pantaloni-donna-casual-p2s4sb-00433_146928",
 "Reggiseno Donna Arancio Techfit TF MC Bra|Supporto medio ideale per discipline come elliptical training o hiking|2017/11/reggiseno-donna-arancio-techfit-tf-mc-bra|data.oliviero.it/imgprodotto/reggiseno-donna-arancio-techfit-tf-mc-bra-bk3776_159438",
 "Sneaker uomo Vinto da Geox|Esclusivo brevetto Geox nella suola perforata per piedi sempre asciutti|2017/11/sneaker-uomo-vinto-da-geox|data.oliviero.it/imgprodotto/scarpe-uomo-vinto_167158",
 "Zoccoli professionali antistatici in gomma|Zoccoli professionali unisex anatomici, antiscivolo, idrorepellenti|2017/11/zoccoli-professionali-antistatici-in-gomma|data.oliviero.it/imgprodotto/zoccolo-autoclavabile-112601_94285",
