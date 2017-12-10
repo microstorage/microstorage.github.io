@@ -1,4 +1,5 @@
 Gr = [
+"Tavolo Ping Pong Outdoor 10 Verde|OUTDOOR 10 Modello per uso ricreativo per utilizzatori di tutte le|2017/12/tavolo-ping-pong-outdoor-10-verde|data.oliviero.it/imgprodotto/tavolo-ping-pong-outdoor-10-verde_111276",
 "Calcio balilla Olympic con Gettoniera|OLYMPIC Prodotto in due diverse opzioni di colore: radica e nero|2017/12/calcio-balilla-olympic-con-gettoniera|data.oliviero.it/imgprodotto/calcio-balilla-olympic-con-gettoniera_2010_big",
 "Tavolo Ping Pong Axos Outdoor 3|Piano gioco per esterno in ALU-TEC+ multistrati spessore mm. 22|2017/11/tavolo-ping-pong-axos-outdoor-3|data.oliviero.it/imgprodotto/tavolo-ping-pong-axos-outdoor-3_147326",
 "Panca Palestra WB50|Regolazione altezza supporti su 7 posizioni|2017/11/panca-palestra-wb50|data.oliviero.it/imgprodotto/panca-wb50_171163",

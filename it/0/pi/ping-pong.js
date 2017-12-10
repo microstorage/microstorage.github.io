@@ -1,4 +1,5 @@
 Gr = [
+"Tavolo Ping Pong Outdoor 10 Verde|OUTDOOR 10 Modello per uso ricreativo per utilizzatori di tutte le|2017/12/tavolo-ping-pong-outdoor-10-verde|data.oliviero.it/imgprodotto/tavolo-ping-pong-outdoor-10-verde_111276",
 "Tavolo Ping Pong Axos Outdoor 3|Piano gioco per esterno in ALU-TEC+ multistrati spessore mm. 22|2017/11/tavolo-ping-pong-axos-outdoor-3|data.oliviero.it/imgprodotto/tavolo-ping-pong-axos-outdoor-3_147326",
 "Tavolo Ping Pong 11 Indoor|Tavolo Ping Pong facile da ripiegare, salva spazio|2017/05/tavolo-ping-pong-11-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-11-indoor_59111",
 "Le 9 Racchette da Ping Pong top: marzo 2017|La top 9 delle migliori Racchette da Ping Pong vendute a marzo 2017|2017/03/le-9-racchette-da-ping-pong-top-marzo-2017|data.oliviero.it/imgprodotto/racchetta-tornado-6-stelle_8318_big",
