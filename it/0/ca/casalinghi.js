@@ -1,4 +1,5 @@
 Gr = [
+"Set 2 tazzine con piattini, cucchiaini e zuccheriera Verde Muschio|DESIGN BY ANGELETTI RUZZA Il nuovo design del corpo|2017/12/set-2-tazzine-con-piattini-cucchiaini-e-zuccheriera-verde-muschio|data.oliviero.it/imgprodotto/set-2-tazzine-con-piattini-cucchiaini-e-zuccheriera-verde-muschio_99947",
 "Vaporiera multicottura|Vaporiera multicottura con spegnimento automatico|2017/10/vaporiera-multicottura|data.oliviero.it/imgprodotto/vaporiera-multicottura_88965",
 "Essiccatore per frutta e Verdura|Essiccazione rapida e sicura con flusso continuo di aria calda|2017/10/essiccatore-per-frutta-e-verdura|data.oliviero.it/imgprodotto/essiccatore-per-frutta-e-verdura-90-506_130752",
 "Porta Torte con tavoletta refrigerante|Le torte sono la tua passione? Ecco un comodissimo portatorte!|2017/10/porta-torte-con-tavoletta-refrigerante|data.oliviero.it/imgprodotto/porta-torte-630842_155105",
