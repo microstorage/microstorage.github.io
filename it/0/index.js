@@ -1,4 +1,6 @@
 Gr = [
+"Wok 28 cm Ingenio|Estremamente versatile, i corpi della linea Ingenio possono essere|2017/12/wok-28-cm-ingenio|data.oliviero.it/imgprodotto/wok-28-cm-ingenio_155886",
+"Scarpe Calcetto Tiempo Genio II Leather IC|La scarpa da calcio per partite indoor Nike Tiempo Genio II Leather|2017/12/scarpe-calcetto-tiempo-genio-ii-leather-ic|data.oliviero.it/imgprodotto/scarpe-calcetto-tiempo-genio-ii-leather-ic-819215-010_151197",
 "Trio Taski 696|CARROZZINA: omologata per il trasporto in auto (0-10 kg), molto|2017/12/trio-taski-696|data.oliviero.it/imgprodotto/trio-taski-696_171576",
 "Scarpe Pro Leather Vulc Distressed Ox|Le Converse Pro Leather sono sneakers dall'aspetto classico sempre in|2017/12/scarpe-pro-leather-vulc-distressed-ox|data.oliviero.it/imgprodotto/scarpe-pro-leather-vulc-distressed-ox_170969",
 "Completo Lenzuola Niki Beige|Completo lenzuola composto da lenzuola da sotto, lenzuolo da sopra|2017/12/completo-lenzuola-niki-beige|data.oliviero.it/imgprodotto/completo-lenzuola-niki-beige_153857",

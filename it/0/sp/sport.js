@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Calcetto Tiempo Genio II Leather IC|La scarpa da calcio per partite indoor Nike Tiempo Genio II Leather|2017/12/scarpe-calcetto-tiempo-genio-ii-leather-ic|data.oliviero.it/imgprodotto/scarpe-calcetto-tiempo-genio-ii-leather-ic-819215-010_151197",
 "Ruota doppia per addominali AHF047|Ideale per allenare e rafforzare addominali, schiena, spalle|2017/12/ruota-doppia-per-addominali-ahf047|data.oliviero.it/imgprodotto/ruota-doppia-per-addominali-ahf047_151339",
 "Tenda Igloo Vis a Vis 6 VIP da Campeggio|Tenda da campeggio Sopratetto: polyestere 210T, trattamento U.V|2017/12/tenda-igloo-vis-a-vis-6-vip-da-campeggio|data.oliviero.it/imgprodotto/tenda-igloo-vis-a-vis-6-vip-da-campeggio_149963",
 "Guanti da Boxe Crossfire Gara 2.0|Guanti da Gara 2.0 Caratteristiche: Pelle di qualità Chiusura polso|2017/12/guanti-da-boxe-crossfire-gara-2-0|data.oliviero.it/imgprodotto/guanti-da-boxe-crossfire-gara-2-0-s09c_92997",
