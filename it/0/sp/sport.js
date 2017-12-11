@@ -1,4 +1,5 @@
 Gr = [
+"Cyclette Ergometer AM-3i|La cyclette DKN AM-3i è un ergometro dal design accattivante e dalle|2017/12/cyclette-ergometer-am-3i|data.oliviero.it/imgprodotto/cyclette-ergometer-am-3i_165734",
 "Calcio Balilla College 4x4 Blu|MOBILE MULTISTRATO DI PIOPPO RIVESTITO IN LAMINATO MELAMINICO|2017/12/calcio-balilla-college-4x4-blu|data.oliviero.it/imgprodotto/calcio-balilla-college-4x4-blu_147237",
 "Tavolo Ping Pong Outdoor 10 Verde|OUTDOOR 10 Modello per uso ricreativo per utilizzatori di tutte le|2017/12/tavolo-ping-pong-outdoor-10-verde|data.oliviero.it/imgprodotto/tavolo-ping-pong-outdoor-10-verde_111276",
 "Calcio balilla Olympic con Gettoniera|OLYMPIC Prodotto in due diverse opzioni di colore: radica e nero|2017/12/calcio-balilla-olympic-con-gettoniera|data.oliviero.it/imgprodotto/calcio-balilla-olympic-con-gettoniera_2010_big",
