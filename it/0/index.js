@@ -1,4 +1,5 @@
 Gr = [
+"Ruota doppia per addominali AHF047|Ideale per allenare e rafforzare addominali, schiena, spalle|2017/12/ruota-doppia-per-addominali-ahf047|data.oliviero.it/imgprodotto/ruota-doppia-per-addominali-ahf047_151339",
 "Borsa Nero Giardini|Collezione Autunno Inverno/2018 Shopping bag donna Nero Giardini|2017/12/borsa-nero-giardini|data.oliviero.it/imgprodotto/borsa-nero-a743516d-100_168740",
 "Scarpe Jr. Gazelle|Queste scarpe per bambini sono una perfetta riproduzione delle|2017/12/scarpe-jr-gazelle|data.oliviero.it/imgprodotto/scarpe-jr-gazelle_165571",
 "Felpa Biker Donna Dark Grey Melange|Collezione Autunno Inverno/2018 felpa pesante con zip diagonale|2017/12/felpa-biker-donna-dark-grey-melange|data.oliviero.it/imgprodotto/felpa-biker-donna-dark-grey-melange_170342",

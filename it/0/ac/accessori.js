@@ -1,4 +1,5 @@
 Gr = [
+"Ruota doppia per addominali AHF047|Ideale per allenare e rafforzare addominali, schiena, spalle|2017/12/ruota-doppia-per-addominali-ahf047|data.oliviero.it/imgprodotto/ruota-doppia-per-addominali-ahf047_151339",
 "Zoccoli professionali antistatici in gomma|Zoccoli professionali unisex anatomici, antiscivolo, idrorepellenti|2017/11/zoccoli-professionali-antistatici-in-gomma|data.oliviero.it/imgprodotto/zoccolo-autoclavabile-112601_94285",
 "Gym Ball 75 cm per stretching, fitness|Gym Ball ideale per lo stretching e il fitness con pompa gonfiaggio inclusa|2017/09/gym-ball-75-cm-per-stretching-fitness|data.oliviero.it/imgprodotto/gym-ball-75-cm_154898",
 "Tappetino Insonorizzante 200X100|Tappetino protettivo insonorizzante, massimo assorbimento dei rumori|2017/08/tappetino-insonorizzante-200x100|data.oliviero.it/imgprodotto/tappetino-insonorizzante-200x100_75806",

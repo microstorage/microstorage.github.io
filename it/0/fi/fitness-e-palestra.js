@@ -1,4 +1,5 @@
 Gr = [
+"Ruota doppia per addominali AHF047|Ideale per allenare e rafforzare addominali, schiena, spalle|2017/12/ruota-doppia-per-addominali-ahf047|data.oliviero.it/imgprodotto/ruota-doppia-per-addominali-ahf047_151339",
 "Cyclette Ergometer AM-3i|La cyclette DKN AM-3i è un ergometro dal design accattivante e dalle|2017/12/cyclette-ergometer-am-3i|data.oliviero.it/imgprodotto/cyclette-ergometer-am-3i_165734",
 "Vogatore richiudibile domestico|Vogatore richiudibile pensato per l'utilizzo domestico|2017/10/vogatore-richiudibile-domestico|data.oliviero.it/imgprodotto/vogatore-jk-5070_371_big",
 "Gym bike SRX 45 Cyclette per dimagrire|Gym bike con con leva di sicurezza per il bloccaggio rapido del volano|2017/10/gym-bike-srx-45-cyclette-per-dimagrire|data.oliviero.it/imgprodotto/gym-bike-srx-45_90130",
