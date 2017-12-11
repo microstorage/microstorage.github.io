@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Jr. Gazelle|Queste scarpe per bambini sono una perfetta riproduzione delle|2017/12/scarpe-jr-gazelle|data.oliviero.it/imgprodotto/scarpe-jr-gazelle_165571",
 "Scarpe con Ruote Thunder X2|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/11/scarpe-con-ruote-thunder-x2|data.oliviero.it/imgprodotto/scarpe-con-ruote-thunder-x2-770480k_131811",
 "Sneaker uomo Vinto da Geox|Esclusivo brevetto Geox nella suola perforata per piedi sempre asciutti|2017/11/sneaker-uomo-vinto-da-geox|data.oliviero.it/imgprodotto/scarpe-uomo-vinto_167158",
 "Scarpe Sneakers Chapman Mid|La Scarpa Vans Chapman Mid M è una Sneakers Alta Uomo|2017/10/scarpe-sneakers-chapman-mid|data.oliviero.it/imgprodotto/scarpe-chapman-mid-vn0a2xswc4r_167709",

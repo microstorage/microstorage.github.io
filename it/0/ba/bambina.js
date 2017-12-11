@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Jr. Gazelle|Queste scarpe per bambini sono una perfetta riproduzione delle|2017/12/scarpe-jr-gazelle|data.oliviero.it/imgprodotto/scarpe-jr-gazelle_165571",
 "Trolley Tindy|Il Tindy Trolley di Invicta è ideale per andare a scuola o per un|2017/12/trolley-tindy|data.oliviero.it/imgprodotto/trolley-tindy_167471",
 "Carrozzina omologata per il trasporto in auto|Chiusura a libro compatta con la seduta in entrambe le posizioni di marcia|2017/11/carrozzina-omologata-per-il-trasporto-in-auto|data.oliviero.it/imgprodotto/trio-fluido-top-687-telaio-nero_158960",
 "Portapenne Bitmap per la scuola|Gli accessori che non possono mancare nel tuo zaino per la scuola|2017/11/portapenne-bitmap-per-la-scuola|data.oliviero.it/imgprodotto/portapenne-bitmap_166310",

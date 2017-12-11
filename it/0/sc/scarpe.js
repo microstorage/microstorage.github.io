@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Jr. Gazelle|Queste scarpe per bambini sono una perfetta riproduzione delle|2017/12/scarpe-jr-gazelle|data.oliviero.it/imgprodotto/scarpe-jr-gazelle_165571",
 "Scarpe Meadow '16 TXT|Scarpe sportive da uomo con tomaia in mesh, tessuto e pelle|2017/12/scarpe-meadow-16-txt|data.oliviero.it/imgprodotto/scarpe-meadow-16-txt-833517-141_149131",
 "Scarpe Game P High|Tomaia in ecopelle Logo Diadora a rilievo a lato Ampia linguetta con|2017/12/scarpe-game-p-high|data.oliviero.it/imgprodotto/scarpe-game-p-high_168217",
 "Scarpe con Ruote Thunder X2|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/11/scarpe-con-ruote-thunder-x2|data.oliviero.it/imgprodotto/scarpe-con-ruote-thunder-x2-770480k_131811",
