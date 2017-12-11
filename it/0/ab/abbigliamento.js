@@ -1,4 +1,5 @@
 Gr = [
+"Felpa Uomo Antracite|Collezione Autunno Inverno/2018 La felpa da allenamento con cappuccio|2017/12/felpa-uomo-antracite|data.oliviero.it/imgprodotto/felpa-uomo-antracite_169422",
 "Abito donna T3S4JC 00006|Abito intero da donna, composto da canotta lunga e maglia forata con|2017/12/abito-donna-t3s4jc-00006|data.oliviero.it/imgprodotto/abito-donna-t3s4jc-00006_146565",
 "Borsa Nero Giardini|Collezione Autunno Inverno/2018 Shopping bag donna Nero Giardini|2017/12/borsa-nero-giardini|data.oliviero.it/imgprodotto/borsa-nero-a743516d-100_168740",
 "Felpa Biker Donna Dark Grey Melange|Collezione Autunno Inverno/2018 felpa pesante con zip diagonale|2017/12/felpa-biker-donna-dark-grey-melange|data.oliviero.it/imgprodotto/felpa-biker-donna-dark-grey-melange_170342",

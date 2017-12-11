@@ -1,4 +1,5 @@
 Gr = [
+"Racchetta Beach Tennis Flowers 49cm|Caratteristiche Modello: RACCHETTA BEACH TENNIS RAKKETTONE FLOWER|2017/12/racchetta-beach-tennis-flowers-49cm|data.oliviero.it/imgprodotto/racchetta-beach-tennis-flowers-49cm_166401",
 "Pantaloncini Uomo Obsidian|Pantaloncino sportivo da uomo in morbido cotone, cintura sottile|2017/08/pantaloncini-uomo-obsidian|data.oliviero.it/imgprodotto/pantaloncini-uomo-obsidian-804419-452_161824",
 "Racchetta Tennis Pure Drive Lite 2015|Nuova Babolat Pure Drive: gioca con potenza, domina il gioco|2017/06/racchetta-tennis-pure-drive-lite-2015|data.oliviero.it/imgprodotto/racchetta-pure-drive-lite-2015_93596",
 "Borsa Tennis Portaracchette Elite 12R Monstercombi|La partecipazione a un torneo di tennis richiede una buona attrezzatura|2017/05/borsa-tennis-portaracchette-elite-12r-monstercombi|data.oliviero.it/imgprodotto/borsa-portaracchette-elite-12r-monstercombi-283356_154543",

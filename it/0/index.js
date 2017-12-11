@@ -1,4 +1,6 @@
 Gr = [
+"Felpa Uomo Antracite|Collezione Autunno Inverno/2018 La felpa da allenamento con cappuccio|2017/12/felpa-uomo-antracite|data.oliviero.it/imgprodotto/felpa-uomo-antracite_169422",
+"Racchetta Beach Tennis Flowers 49cm|Caratteristiche Modello: RACCHETTA BEACH TENNIS RAKKETTONE FLOWER|2017/12/racchetta-beach-tennis-flowers-49cm|data.oliviero.it/imgprodotto/racchetta-beach-tennis-flowers-49cm_166401",
 "Abito donna T3S4JC 00006|Abito intero da donna, composto da canotta lunga e maglia forata con|2017/12/abito-donna-t3s4jc-00006|data.oliviero.it/imgprodotto/abito-donna-t3s4jc-00006_146565",
 "Bistecchiera BS25|Bistecchiera con piastre antiaderenti, 30 x 27 cm. Indicatori di|2017/12/bistecchiera-bs25|data.oliviero.it/imgprodotto/bistecchiera-bs25_155552",
 "Lettino Cheesecake bianco|Letto collezione Cheesecake in legno laccato con cassetto, ruote|2017/12/lettino-cheesecake-bianco|data.oliviero.it/imgprodotto/lettino-cheesecake-bianco_140306",
