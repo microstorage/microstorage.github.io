@@ -1,4 +1,5 @@
 Gr = [
+"Tenda Igloo Vis a Vis 6 VIP da Campeggio|Tenda da campeggio Sopratetto: polyestere 210T, trattamento U.V|2017/12/tenda-igloo-vis-a-vis-6-vip-da-campeggio|data.oliviero.it/imgprodotto/tenda-igloo-vis-a-vis-6-vip-da-campeggio_149963",
 "Guanti da Boxe Crossfire Gara 2.0|Guanti da Gara 2.0 Caratteristiche: Pelle di qualità Chiusura polso|2017/12/guanti-da-boxe-crossfire-gara-2-0|data.oliviero.it/imgprodotto/guanti-da-boxe-crossfire-gara-2-0-s09c_92997",
 "Cyclette Ergometer AM-3i|La cyclette DKN AM-3i è un ergometro dal design accattivante e dalle|2017/12/cyclette-ergometer-am-3i|data.oliviero.it/imgprodotto/cyclette-ergometer-am-3i_165734",
 "Calcio Balilla College 4x4 Blu|MOBILE MULTISTRATO DI PIOPPO RIVESTITO IN LAMINATO MELAMINICO|2017/12/calcio-balilla-college-4x4-blu|data.oliviero.it/imgprodotto/calcio-balilla-college-4x4-blu_147237",

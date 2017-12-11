@@ -1,4 +1,5 @@
 Gr = [
+"Tenda Igloo Vis a Vis 6 VIP da Campeggio|Tenda da campeggio Sopratetto: polyestere 210T, trattamento U.V|2017/12/tenda-igloo-vis-a-vis-6-vip-da-campeggio|data.oliviero.it/imgprodotto/tenda-igloo-vis-a-vis-6-vip-da-campeggio_149963",
 "Amaca con Asta Tonga Bubblegum|Amaca molto confortevole grazie a cavi particolarmente lunghi|2017/08/amaca-con-asta-tonga-bubblegum|data.oliviero.it/imgprodotto/amaca-con-asta-tonga-bubblegum-l_158739",
 "Sacco a Pelo Campeggio Montagna Easy|Sacco a Pelo Campeggio Montagna con cerniera più semplice e veloce|2017/08/sacco-a-pelo-campeggio-montagna-easy|data.oliviero.it/imgprodotto/sacco-a-pelo-easy-cotton-blue_147539",
 "Binocolo con prismi di Porro 7x50|Elegante binocolo con maggior percezione della profondità e campo visivo|2017/08/binocolo-con-prismi-di-porro-7x50|data.oliviero.it/imgprodotto/binocolo-con-prismi-di-porro-7x50_83801",
