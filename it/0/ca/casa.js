@@ -1,4 +1,5 @@
 Gr = [
+"Completo Lenzuola Niki Beige|Completo lenzuola composto da lenzuola da sotto, lenzuolo da sopra|2017/12/completo-lenzuola-niki-beige|data.oliviero.it/imgprodotto/completo-lenzuola-niki-beige_153857",
 "Set 2 tazzine con piattini, cucchiaini e zuccheriera Verde Muschio|DESIGN BY ANGELETTI RUZZA Il nuovo design del corpo|2017/12/set-2-tazzine-con-piattini-cucchiaini-e-zuccheriera-verde-muschio|data.oliviero.it/imgprodotto/set-2-tazzine-con-piattini-cucchiaini-e-zuccheriera-verde-muschio_99947",
 "Poltrona reclinabile Alessandra|Poltrona Relax Reclinabile ALESSANDRA - RE/001/PB Poltrona con|2017/12/poltrona-reclinabile-alessandra|data.oliviero.it/imgprodotto/poltrona-reclinabile-alessandra_157332",
 "100 capsule Lollo Caffè Classico compatibili Lavazza Espresso Point|Confezione contenente 100 capsule di caffè in miscela lollo classico|2017/11/100-capsule-lollo-caffe-classico-compatibili-lavazza-espresso-point|www.cialdamia.it/media/catalog/product/cache/1/image/85e4522595efc69f496374d01ef2bf13/1/0/100-capsule-lollo-caffe-classico-compatibili-lavazza-espresso-point_1.png",
