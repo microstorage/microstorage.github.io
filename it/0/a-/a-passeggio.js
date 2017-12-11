@@ -1,4 +1,5 @@
 Gr = [
+"Trio Taski 696|CARROZZINA: omologata per il trasporto in auto (0-10 kg), molto|2017/12/trio-taski-696|data.oliviero.it/imgprodotto/trio-taski-696_171576",
 "Sacco Ovetto-Carrozzina Mucky Sabbia/Latte|Sacco Ovetto Mucky PICCI. Sacco imbottito studiato per i climi più|2017/12/sacco-ovetto-carrozzina-mucky-sabbia-latte|data.oliviero.it/imgprodotto/sacco-ovetto-carrozzina-mucky-sabbia-latte_172168",
 "Carrozzina omologata per il trasporto in auto|Chiusura a libro compatta con la seduta in entrambe le posizioni di marcia|2017/11/carrozzina-omologata-per-il-trasporto-in-auto|data.oliviero.it/imgprodotto/trio-fluido-top-687-telaio-nero_158960",
 "Fascia Porta Bebè Carry Sling 450 cm Mystic|Potrà anche servire da sciarpa, amaca, coperta da gioco, parasole, ecc|2017/11/fascia-porta-bebe-carry-sling-450-cm-mystic|data.oliviero.it/imgprodotto/fascia-porta-beb%C3%A8-carry-sling-450-cm-mystic_84009",
