@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Meadow '16 TXT|Scarpe sportive da uomo con tomaia in mesh, tessuto e pelle|2017/12/scarpe-meadow-16-txt|data.oliviero.it/imgprodotto/scarpe-meadow-16-txt-833517-141_149131",
 "Scarpe Game P High|Tomaia in ecopelle Logo Diadora a rilievo a lato Ampia linguetta con|2017/12/scarpe-game-p-high|data.oliviero.it/imgprodotto/scarpe-game-p-high_168217",
 "Sneaker uomo Vinto da Geox|Esclusivo brevetto Geox nella suola perforata per piedi sempre asciutti|2017/11/sneaker-uomo-vinto-da-geox|data.oliviero.it/imgprodotto/scarpe-uomo-vinto_167158",
 "Zoccoli professionali antistatici in gomma|Zoccoli professionali unisex anatomici, antiscivolo, idrorepellenti|2017/11/zoccoli-professionali-antistatici-in-gomma|data.oliviero.it/imgprodotto/zoccolo-autoclavabile-112601_94285",

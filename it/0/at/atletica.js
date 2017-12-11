@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Meadow '16 TXT|Scarpe sportive da uomo con tomaia in mesh, tessuto e pelle|2017/12/scarpe-meadow-16-txt|data.oliviero.it/imgprodotto/scarpe-meadow-16-txt-833517-141_149131",
 "Scarpe Game P High|Tomaia in ecopelle Logo Diadora a rilievo a lato Ampia linguetta con|2017/12/scarpe-game-p-high|data.oliviero.it/imgprodotto/scarpe-game-p-high_168217",
 "Sneaker uomo Vinto da Geox|Esclusivo brevetto Geox nella suola perforata per piedi sempre asciutti|2017/11/sneaker-uomo-vinto-da-geox|data.oliviero.it/imgprodotto/scarpe-uomo-vinto_167158",
 "Scarpe Basket Ua Curry 2.5|Scarpe Basket con tomaia modellata per una calzata leggera e precisa|2017/11/scarpe-basket-ua-curry-2-5|data.oliviero.it/imgprodotto/scarpe-basket-ua-curry-2-5-1274425-105_151972",

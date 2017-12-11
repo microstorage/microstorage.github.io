@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Meadow '16 TXT|Scarpe sportive da uomo con tomaia in mesh, tessuto e pelle|2017/12/scarpe-meadow-16-txt|data.oliviero.it/imgprodotto/scarpe-meadow-16-txt-833517-141_149131",
 "Pantaloni Sportivi Donna Nero|Pantaloni sportivi da donna, elastico in vita, polsini alle caviglie|2017/11/pantaloni-sportivi-donna-nero|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-nero_169469",
 "Pantaloncini Uomo Obsidian|Pantaloncino sportivo da uomo in morbido cotone, cintura sottile|2017/08/pantaloncini-uomo-obsidian|data.oliviero.it/imgprodotto/pantaloncini-uomo-obsidian-804419-452_161824",
 "Leggings Neri Donna|Leggings in misto cotone elasticizzato per un fit confortevole|2017/07/leggings-neri-donna|data.oliviero.it/imgprodotto/leggings-nero-donna-726085-010_162242",
