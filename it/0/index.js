@@ -1,4 +1,5 @@
 Gr = [
+"Trolley Tindy|Il Tindy Trolley di Invicta è ideale per andare a scuola o per un|2017/12/trolley-tindy|data.oliviero.it/imgprodotto/trolley-tindy_167471",
 "Sacco Ovetto-Carrozzina Mucky Sabbia/Latte|Sacco Ovetto Mucky PICCI. Sacco imbottito studiato per i climi più|2017/12/sacco-ovetto-carrozzina-mucky-sabbia-latte|data.oliviero.it/imgprodotto/sacco-ovetto-carrozzina-mucky-sabbia-latte_172168",
 "Scarpe Meadow '16 TXT|Scarpe sportive da uomo con tomaia in mesh, tessuto e pelle|2017/12/scarpe-meadow-16-txt|data.oliviero.it/imgprodotto/scarpe-meadow-16-txt-833517-141_149131",
 "Guanti da Boxe Crossfire Gara 2.0|Guanti da Gara 2.0 Caratteristiche: Pelle di qualità Chiusura polso|2017/12/guanti-da-boxe-crossfire-gara-2-0|data.oliviero.it/imgprodotto/guanti-da-boxe-crossfire-gara-2-0-s09c_92997",
