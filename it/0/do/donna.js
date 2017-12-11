@@ -1,4 +1,5 @@
 Gr = [
+"Abito donna T3S4JC 00006|Abito intero da donna, composto da canotta lunga e maglia forata con|2017/12/abito-donna-t3s4jc-00006|data.oliviero.it/imgprodotto/abito-donna-t3s4jc-00006_146565",
 "Scarpe Pro Leather Vulc Distressed Ox|Le Converse Pro Leather sono sneakers dall'aspetto classico sempre in|2017/12/scarpe-pro-leather-vulc-distressed-ox|data.oliviero.it/imgprodotto/scarpe-pro-leather-vulc-distressed-ox_170969",
 "Felpa Biker Donna Dark Grey Melange|Collezione Autunno Inverno/2018 felpa pesante con zip diagonale|2017/12/felpa-biker-donna-dark-grey-melange|data.oliviero.it/imgprodotto/felpa-biker-donna-dark-grey-melange_170342",
 "Pantaloni donna Casual P2S4SB 00433|Pantalone Casual da donna con stampe floreali. Il modello presenta|2017/12/pantaloni-donna-casual-p2s4sb-00433|data.oliviero.it/imgprodotto/pantaloni-donna-casual-p2s4sb-00433_146928",

@@ -1,4 +1,6 @@
 Gr = [
+"Abito donna T3S4JC 00006|Abito intero da donna, composto da canotta lunga e maglia forata con|2017/12/abito-donna-t3s4jc-00006|data.oliviero.it/imgprodotto/abito-donna-t3s4jc-00006_146565",
+"Bistecchiera BS25|Bistecchiera con piastre antiaderenti, 30 x 27 cm. Indicatori di|2017/12/bistecchiera-bs25|data.oliviero.it/imgprodotto/bistecchiera-bs25_155552",
 "Lettino Cheesecake bianco|Letto collezione Cheesecake in legno laccato con cassetto, ruote|2017/12/lettino-cheesecake-bianco|data.oliviero.it/imgprodotto/lettino-cheesecake-bianco_140306",
 "Wok 28 cm Ingenio|Estremamente versatile, i corpi della linea Ingenio possono essere|2017/12/wok-28-cm-ingenio|data.oliviero.it/imgprodotto/wok-28-cm-ingenio_155886",
 "Scarpe Calcetto Tiempo Genio II Leather IC|La scarpa da calcio per partite indoor Nike Tiempo Genio II Leather|2017/12/scarpe-calcetto-tiempo-genio-ii-leather-ic|data.oliviero.it/imgprodotto/scarpe-calcetto-tiempo-genio-ii-leather-ic-819215-010_151197",

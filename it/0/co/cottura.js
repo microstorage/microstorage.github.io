@@ -1,4 +1,5 @@
 Gr = [
+"Bistecchiera BS25|Bistecchiera con piastre antiaderenti, 30 x 27 cm. Indicatori di|2017/12/bistecchiera-bs25|data.oliviero.it/imgprodotto/bistecchiera-bs25_155552",
 "Vaporiera multicottura|Vaporiera multicottura con spegnimento automatico|2017/10/vaporiera-multicottura|data.oliviero.it/imgprodotto/vaporiera-multicottura_88965",
 "Tegame multifunzione 24 cm Ingenio|Tegame multifunzione utilizzabile su piani cottura, in forno, in frigorifero|2017/09/tegame-multifunzione-24-cm-ingenio|data.oliviero.it/imgprodotto/tegame-24-cm-ingenio_155883",
 "Padelle: le 10 migliori a marzo 2017|Le 10 Padelle più comprate ora in commercio: marzo 2017|2017/03/padelle-le-10-migliori-a-marzo-2017|data.oliviero.it/imgprodotto/padella-silver-22-cm_156392",
