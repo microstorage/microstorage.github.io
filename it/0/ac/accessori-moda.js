@@ -1,4 +1,5 @@
 Gr = [
+"Borsa Nero Giardini|Collezione Autunno Inverno/2018 Shopping bag donna Nero Giardini|2017/12/borsa-nero-giardini|data.oliviero.it/imgprodotto/borsa-nero-a743516d-100_168740",
 "Marsupio con tasca sul retro per banconote|Un pratico accessorio per riporre in sicurezza le tue cose|2017/11/marsupio-con-tasca-sul-retro-per-banconote|data.oliviero.it/imgprodotto/marsupio-springer-black_166721",
 "Trolley con fasce ferma abiti|Trolley grande e capiente, tasca frontale con chiusura a zip, lucchetto|2017/11/trolley-con-fasce-ferma-abiti|data.oliviero.it/imgprodotto/trolley-up-2r_147899",
 "Il mitico zaino con le faccine di Invicta|Spallacci imbottiti e rivestiti in tessuto, tasca porta computer|2017/10/il-mitico-zaino-con-le-faccine-di-invicta|data.oliviero.it/imgprodotto/zaino-dial-face-fantasy_167450",

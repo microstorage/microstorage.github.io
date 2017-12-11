@@ -1,4 +1,5 @@
 Gr = [
+"Borsa Nero Giardini|Collezione Autunno Inverno/2018 Shopping bag donna Nero Giardini|2017/12/borsa-nero-giardini|data.oliviero.it/imgprodotto/borsa-nero-a743516d-100_168740",
 "Felpa Biker Donna Dark Grey Melange|Collezione Autunno Inverno/2018 felpa pesante con zip diagonale|2017/12/felpa-biker-donna-dark-grey-melange|data.oliviero.it/imgprodotto/felpa-biker-donna-dark-grey-melange_170342",
 "Trolley Tindy|Il Tindy Trolley di Invicta è ideale per andare a scuola o per un|2017/12/trolley-tindy|data.oliviero.it/imgprodotto/trolley-tindy_167471",
 "Pantaloni donna Casual P2S4SB 00433|Pantalone Casual da donna con stampe floreali. Il modello presenta|2017/12/pantaloni-donna-casual-p2s4sb-00433|data.oliviero.it/imgprodotto/pantaloni-donna-casual-p2s4sb-00433_146928",
