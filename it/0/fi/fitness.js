@@ -1,4 +1,5 @@
 Gr = [
+"Home Gym HG60|La stazione multifunzione Tunturi HG60 Home Gym è stata disegnata con|2017/12/home-gym-hg60|data.oliviero.it/imgprodotto/home-gym-hg60_171225",
 "Felpa uomo blu Adidas con cappuccio foderato|Un look moderno quando vai in palestra o esci a divertirti|2017/11/felpa-uomo-blu-adidas-con-cappuccio-foderato|data.oliviero.it/imgprodotto/felpa-uomo-blu_166881",
 "Vogatore richiudibile domestico|Vogatore richiudibile pensato per l'utilizzo domestico|2017/10/vogatore-richiudibile-domestico|data.oliviero.it/imgprodotto/vogatore-jk-5070_371_big",
 "Gym bike SRX 45 Cyclette per dimagrire|Gym bike con con leva di sicurezza per il bloccaggio rapido del volano|2017/10/gym-bike-srx-45-cyclette-per-dimagrire|data.oliviero.it/imgprodotto/gym-bike-srx-45_90130",

@@ -1,4 +1,5 @@
 Gr = [
+"Scaldotto Italian Style Naturale|Scaldotto Caleffi cm.130x170. Morbido, caldo avvolgente. Si lava|2017/12/scaldotto-italian-style-naturale|data.oliviero.it/imgprodotto/scaldotto-italian-style-naturale_168949",
 "Wok 28 cm Ingenio|Estremamente versatile, i corpi della linea Ingenio possono essere|2017/12/wok-28-cm-ingenio|data.oliviero.it/imgprodotto/wok-28-cm-ingenio_155886",
 "Completo Lenzuola Niki Beige|Completo lenzuola composto da lenzuola da sotto, lenzuolo da sopra|2017/12/completo-lenzuola-niki-beige|data.oliviero.it/imgprodotto/completo-lenzuola-niki-beige_153857",
 "Set 2 tazzine con piattini, cucchiaini e zuccheriera Verde Muschio|DESIGN BY ANGELETTI RUZZA Il nuovo design del corpo|2017/12/set-2-tazzine-con-piattini-cucchiaini-e-zuccheriera-verde-muschio|data.oliviero.it/imgprodotto/set-2-tazzine-con-piattini-cucchiaini-e-zuccheriera-verde-muschio_99947",

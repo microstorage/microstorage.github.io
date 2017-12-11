@@ -1,4 +1,6 @@
 Gr = [
+"Home Gym HG60|La stazione multifunzione Tunturi HG60 Home Gym è stata disegnata con|2017/12/home-gym-hg60|data.oliviero.it/imgprodotto/home-gym-hg60_171225",
+"Scaldotto Italian Style Naturale|Scaldotto Caleffi cm.130x170. Morbido, caldo avvolgente. Si lava|2017/12/scaldotto-italian-style-naturale|data.oliviero.it/imgprodotto/scaldotto-italian-style-naturale_168949",
 "Scarpe Trekking Authentic LTR GTX|Scarpe Trekking Authentic LTR GTX - 373260 Scarpa leggera in pelle|2017/12/scarpe-trekking-authentic-ltr-gtx|data.oliviero.it/imgprodotto/scarpe-trekking-authentic-ltr-gtx-373260_145350",
 "Diario 10 mesi SJ Gang Boy|Seven SJ gang faccine diario agenda 10 mesi non datato, pagine|2017/12/diario-10-mesi-sj-gang-boy|data.oliviero.it/imgprodotto/diario-10-mesi-sj-gang-boy_167512",
 "Racchetta Tennis Challenge Lite|Racchetta con piatto corde Head IG Challenge Lite (Blu)|2017/12/racchetta-tennis-challenge-lite|data.oliviero.it/imgprodotto/racchetta-tennis-challenge-lite_165484",

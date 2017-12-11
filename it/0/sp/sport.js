@@ -1,4 +1,5 @@
 Gr = [
+"Home Gym HG60|La stazione multifunzione Tunturi HG60 Home Gym è stata disegnata con|2017/12/home-gym-hg60|data.oliviero.it/imgprodotto/home-gym-hg60_171225",
 "Racchetta Tennis Challenge Lite|Racchetta con piatto corde Head IG Challenge Lite (Blu)|2017/12/racchetta-tennis-challenge-lite|data.oliviero.it/imgprodotto/racchetta-tennis-challenge-lite_165484",
 "Racchetta Beach Tennis Flowers 49cm|Caratteristiche Modello: RACCHETTA BEACH TENNIS RAKKETTONE FLOWER|2017/12/racchetta-beach-tennis-flowers-49cm|data.oliviero.it/imgprodotto/racchetta-beach-tennis-flowers-49cm_166401",
 "Scarpe Calcetto Tiempo Genio II Leather IC|La scarpa da calcio per partite indoor Nike Tiempo Genio II Leather|2017/12/scarpe-calcetto-tiempo-genio-ii-leather-ic|data.oliviero.it/imgprodotto/scarpe-calcetto-tiempo-genio-ii-leather-ic-819215-010_151197",
