@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Tanjun Uomo Rosso|Comoda, leggera, sportiva, Nike Tanjun è la scarpa ideale per il|2017/12/scarpe-tanjun-uomo-rosso|data.oliviero.it/imgprodotto/scarpe-tanjun-uomo-rosso_167086",
 "Scarpe Pro Leather Vulc Distressed Ox|Le Converse Pro Leather sono sneakers dall'aspetto classico sempre in|2017/12/scarpe-pro-leather-vulc-distressed-ox|data.oliviero.it/imgprodotto/scarpe-pro-leather-vulc-distressed-ox_170969",
 "Scarpe Meadow '16 TXT|Scarpe sportive da uomo con tomaia in mesh, tessuto e pelle|2017/12/scarpe-meadow-16-txt|data.oliviero.it/imgprodotto/scarpe-meadow-16-txt-833517-141_149131",
 "Sneaker uomo Vinto da Geox|Esclusivo brevetto Geox nella suola perforata per piedi sempre asciutti|2017/11/sneaker-uomo-vinto-da-geox|data.oliviero.it/imgprodotto/scarpe-uomo-vinto_167158",

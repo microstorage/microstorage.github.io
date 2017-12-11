@@ -1,4 +1,7 @@
 Gr = [
+"Scarpe Tanjun Uomo Rosso|Comoda, leggera, sportiva, Nike Tanjun è la scarpa ideale per il|2017/12/scarpe-tanjun-uomo-rosso|data.oliviero.it/imgprodotto/scarpe-tanjun-uomo-rosso_167086",
+"T-Shirt Uomo Grigio Melange|Collezione Primavera Estate Questa T-shirt da uomo è pensata per|2017/12/t-shirt-uomo-grigio-melange|data.oliviero.it/imgprodotto/t-shirt-uomo-grigio-melange-s98738_162965",
+"Roller Macroblade 90|L'ideale connessione tra il piede e il pattino, sin dal primo|2017/12/roller-macroblade-90|data.oliviero.it/imgprodotto/roller-macroblade-90_171914",
 "Home Gym HG60|La stazione multifunzione Tunturi HG60 Home Gym è stata disegnata con|2017/12/home-gym-hg60|data.oliviero.it/imgprodotto/home-gym-hg60_171225",
 "Scaldotto Italian Style Naturale|Scaldotto Caleffi cm.130x170. Morbido, caldo avvolgente. Si lava|2017/12/scaldotto-italian-style-naturale|data.oliviero.it/imgprodotto/scaldotto-italian-style-naturale_168949",
 "Scarpe Trekking Authentic LTR GTX|Scarpe Trekking Authentic LTR GTX - 373260 Scarpa leggera in pelle|2017/12/scarpe-trekking-authentic-ltr-gtx|data.oliviero.it/imgprodotto/scarpe-trekking-authentic-ltr-gtx-373260_145350",
