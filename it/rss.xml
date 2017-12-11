@@ -5,12 +5,45 @@
 <link>http://www.sale42.com</link>
 <description>// Sale42.com :: La Risposta Definitiva alla tua Voglia di Shopping //</description>
 <language>it</language>
-<pubDate>Mon, 11 Dec 2017 19:08:43 +0000</pubDate>
+<pubDate>Mon, 11 Dec 2017 19:09:42 +0000</pubDate>
 <image>
 	<url>http://www.sale42.com/0/1/logo_420x212.png</url>
 	<title>Sale42.com</title>
 	<link>http://www.sale42.com/it/</link>
 </image>
+<item>
+	<title>Lettino Cheesecake bianco // Letto collezione Cheesecake in legno laccato con cassetto, ruote // #infanzia #camerette #lettini #arredamento #picci</title>
+	<link>http://www.sale42.com/it/2017/12/lettino-cheesecake-bianco.html</link>
+	<description>
+		<![CDATA[
+			<table cellpadding="2" cellspacing="0" border="0" bgcolor="#D0D0D0">
+				<tr>
+					<td>
+						<table width="340" cellpadding="10" cellspacing="0" border="0">
+							<tr>
+								<td bgcolor="#F0F0F0">
+									<a href="http://www.sale42.com/it/2017/12/lettino-cheesecake-bianco.html"><img src="http://data.oliviero.it/imgprodotto/lettino-cheesecake-bianco_140306.jpg" width="100%" alt="#infanzia #camerette #lettini #arredamento #picci"></a>
+									<a href="http://www.sale42.com/it/2017/12/lettino-cheesecake-bianco.html"><font face="Verdana,Arial,Helvetica" size="4" color="#BB0000"><b>Lettino Cheesecake bianco</b></font></a><br>
+									<font face="Verdana,Arial,Helvetica" size="2" color="#000000">
+										Letto collezione Cheesecake in legno laccato con cassetto, ruote<br>
+										<font color="#646464">#infanzia #camerette #lettini #arredamento #picci :: 11 dicembre 2017</font>
+									</font>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		]]>
+	</description>
+	<pubDate>Mon, 11 Dec 2017 19:09:42 +0000</pubDate>
+	<guid>http://www.sale42.com/it/2017/12/lettino-cheesecake-bianco.html</guid>
+	<category>infanzia</category>
+	<category>camerette</category>
+	<category>lettini</category>
+	<category>arredamento</category>
+	<category>picci</category>
+</item>
 <item>
 	<title>Wok 28 cm Ingenio // Estremamente versatile, i corpi della linea Ingenio possono essere // #casa #casalinghi #pentole-piatti-posate #casa-e-giardino #lagostina</title>
 	<link>http://www.sale42.com/it/2017/12/wok-28-cm-ingenio.html</link>
@@ -1833,46 +1866,6 @@
 	<category>guardaroba</category>
 	<category>maglieria</category>
 	<category>tendenze</category>
-</item>
-<item>
-	<title>Vaporiera multicottura // Vaporiera multicottura con spegnimento automatico // #cucina #casa #casalinghi #cottura #riscaldamento-e-refrigerazione #beper #vaporiera #preparazione-cibi #elettrodomestici #cibo #alimentazione #gastronomia</title>
-	<link>http://www.sale42.com/it/2017/10/vaporiera-multicottura.html</link>
-	<description>
-		<![CDATA[
-			<table cellpadding="2" cellspacing="0" border="0" bgcolor="#D0D0D0">
-				<tr>
-					<td>
-						<table width="340" cellpadding="10" cellspacing="0" border="0">
-							<tr>
-								<td bgcolor="#F0F0F0">
-									<a href="http://www.sale42.com/it/2017/10/vaporiera-multicottura.html"><img src="http://data.oliviero.it/imgprodotto/vaporiera-multicottura_88965.jpg" width="100%" alt="#cucina #casa #casalinghi #cottura #riscaldamento-e-refrigerazione #beper #vaporiera #preparazione-cibi #elettrodomestici #cibo #alimentazione #gastronomia"></a>
-									<a href="http://www.sale42.com/it/2017/10/vaporiera-multicottura.html"><font face="Verdana,Arial,Helvetica" size="4" color="#BB0000"><b>Vaporiera multicottura</b></font></a><br>
-									<font face="Verdana,Arial,Helvetica" size="2" color="#000000">
-										Vaporiera multicottura con spegnimento automatico<br>
-										<font color="#646464">#cucina #casa #casalinghi #cottura #riscaldamento-e-refrigerazione #beper #vaporiera #preparazione-cibi #elettrodomestici #cibo #alimentazione #gastronomia :: 21 ottobre 2017</font>
-									</font>
-								</td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-			</table>
-		]]>
-	</description>
-	<pubDate>Sat, 21 Oct 2017 15:17:46 +0000</pubDate>
-	<guid>http://www.sale42.com/it/2017/10/vaporiera-multicottura.html</guid>
-	<category>cucina</category>
-	<category>casa</category>
-	<category>casalinghi</category>
-	<category>cottura</category>
-	<category>riscaldamento-e-refrigerazione</category>
-	<category>beper</category>
-	<category>vaporiera</category>
-	<category>preparazione-cibi</category>
-	<category>elettrodomestici</category>
-	<category>cibo</category>
-	<category>alimentazione</category>
-	<category>gastronomia</category>
 </item>
 </channel>
 </rss>
