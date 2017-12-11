@@ -1,4 +1,5 @@
 Gr = [
+"Guanti da Boxe Crossfire Gara 2.0|Guanti da Gara 2.0 Caratteristiche: Pelle di qualità Chiusura polso|2017/12/guanti-da-boxe-crossfire-gara-2-0|data.oliviero.it/imgprodotto/guanti-da-boxe-crossfire-gara-2-0-s09c_92997",
 "Cyclette Ergometer AM-3i|La cyclette DKN AM-3i è un ergometro dal design accattivante e dalle|2017/12/cyclette-ergometer-am-3i|data.oliviero.it/imgprodotto/cyclette-ergometer-am-3i_165734",
 "Calcio Balilla College 4x4 Blu|MOBILE MULTISTRATO DI PIOPPO RIVESTITO IN LAMINATO MELAMINICO|2017/12/calcio-balilla-college-4x4-blu|data.oliviero.it/imgprodotto/calcio-balilla-college-4x4-blu_147237",
 "Tavolo Ping Pong Outdoor 10 Verde|OUTDOOR 10 Modello per uso ricreativo per utilizzatori di tutte le|2017/12/tavolo-ping-pong-outdoor-10-verde|data.oliviero.it/imgprodotto/tavolo-ping-pong-outdoor-10-verde_111276",
