@@ -1,4 +1,5 @@
 Gr = [
+"Grembiule Sommelier|Colore : Sole Composizione : tessuto 100% poliestere|2017/12/grembiule-sommelier|data.oliviero.it/imgprodotto/grembiule-sommelier_24708_big",
 "Gilet uomo a 4 bottoni, 2 tasche|Gilet uomo chiusura 4 bottoni, due tasche, cinturino posteriore|2017/10/gilet-uomo-a-4-bottoni-2-tasche|data.oliviero.it/imgprodotto/gilet-uomo_83013",
 "Divise da Lavoro: Grembiule Versailles|Allacciatura dietro, due tasche laterali e spacco centrale|2017/06/divise-da-lavoro-grembiule-versailles|data.oliviero.it/imgprodotto/grembiule-versailles_1662_big",
 "Grembiule Sommelier|Modello con due bottoni al collo allacciatura dietro e due tasche laterali|2017/04/grembiule-sommelier|data.oliviero.it/imgprodotto/grembiule-sommelier_24711_big",

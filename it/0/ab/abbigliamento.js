@@ -1,4 +1,6 @@
 Gr = [
+"Diario 10 mesi SJ Gang Boy|Seven SJ gang faccine diario agenda 10 mesi non datato, pagine|2017/12/diario-10-mesi-sj-gang-boy|data.oliviero.it/imgprodotto/diario-10-mesi-sj-gang-boy_167512",
+"Grembiule Sommelier|Colore : Sole Composizione : tessuto 100% poliestere|2017/12/grembiule-sommelier|data.oliviero.it/imgprodotto/grembiule-sommelier_24708_big",
 "Felpa Uomo Antracite|Collezione Autunno Inverno/2018 La felpa da allenamento con cappuccio|2017/12/felpa-uomo-antracite|data.oliviero.it/imgprodotto/felpa-uomo-antracite_169422",
 "Abito donna T3S4JC 00006|Abito intero da donna, composto da canotta lunga e maglia forata con|2017/12/abito-donna-t3s4jc-00006|data.oliviero.it/imgprodotto/abito-donna-t3s4jc-00006_146565",
 "Borsa Nero Giardini|Collezione Autunno Inverno/2018 Shopping bag donna Nero Giardini|2017/12/borsa-nero-giardini|data.oliviero.it/imgprodotto/borsa-nero-a743516d-100_168740",

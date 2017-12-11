@@ -1,4 +1,8 @@
 Gr = [
+"Scarpe Trekking Authentic LTR GTX|Scarpe Trekking Authentic LTR GTX - 373260 Scarpa leggera in pelle|2017/12/scarpe-trekking-authentic-ltr-gtx|data.oliviero.it/imgprodotto/scarpe-trekking-authentic-ltr-gtx-373260_145350",
+"Diario 10 mesi SJ Gang Boy|Seven SJ gang faccine diario agenda 10 mesi non datato, pagine|2017/12/diario-10-mesi-sj-gang-boy|data.oliviero.it/imgprodotto/diario-10-mesi-sj-gang-boy_167512",
+"Racchetta Tennis Challenge Lite|Racchetta con piatto corde Head IG Challenge Lite (Blu)|2017/12/racchetta-tennis-challenge-lite|data.oliviero.it/imgprodotto/racchetta-tennis-challenge-lite_165484",
+"Grembiule Sommelier|Colore : Sole Composizione : tessuto 100% poliestere|2017/12/grembiule-sommelier|data.oliviero.it/imgprodotto/grembiule-sommelier_24708_big",
 "Felpa Uomo Antracite|Collezione Autunno Inverno/2018 La felpa da allenamento con cappuccio|2017/12/felpa-uomo-antracite|data.oliviero.it/imgprodotto/felpa-uomo-antracite_169422",
 "Racchetta Beach Tennis Flowers 49cm|Caratteristiche Modello: RACCHETTA BEACH TENNIS RAKKETTONE FLOWER|2017/12/racchetta-beach-tennis-flowers-49cm|data.oliviero.it/imgprodotto/racchetta-beach-tennis-flowers-49cm_166401",
 "Abito donna T3S4JC 00006|Abito intero da donna, composto da canotta lunga e maglia forata con|2017/12/abito-donna-t3s4jc-00006|data.oliviero.it/imgprodotto/abito-donna-t3s4jc-00006_146565",

@@ -1,4 +1,5 @@
 Gr = [
+"Diario 10 mesi SJ Gang Boy|Seven SJ gang faccine diario agenda 10 mesi non datato, pagine|2017/12/diario-10-mesi-sj-gang-boy|data.oliviero.it/imgprodotto/diario-10-mesi-sj-gang-boy_167512",
 "Felpa Uomo Antracite|Collezione Autunno Inverno/2018 La felpa da allenamento con cappuccio|2017/12/felpa-uomo-antracite|data.oliviero.it/imgprodotto/felpa-uomo-antracite_169422",
 "Felpa Biker Donna Dark Grey Melange|Collezione Autunno Inverno/2018 felpa pesante con zip diagonale|2017/12/felpa-biker-donna-dark-grey-melange|data.oliviero.it/imgprodotto/felpa-biker-donna-dark-grey-melange_170342",
 "Trolley Tindy|Il Tindy Trolley di Invicta è ideale per andare a scuola o per un|2017/12/trolley-tindy|data.oliviero.it/imgprodotto/trolley-tindy_167471",

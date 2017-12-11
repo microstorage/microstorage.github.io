@@ -1,4 +1,5 @@
 Gr = [
+"Diario 10 mesi SJ Gang Boy|Seven SJ gang faccine diario agenda 10 mesi non datato, pagine|2017/12/diario-10-mesi-sj-gang-boy|data.oliviero.it/imgprodotto/diario-10-mesi-sj-gang-boy_167512",
 "Scarpe con Ruote Thunder X2|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/11/scarpe-con-ruote-thunder-x2|data.oliviero.it/imgprodotto/scarpe-con-ruote-thunder-x2-770480k_131811",
 "Carrozzina omologata per il trasporto in auto|Chiusura a libro compatta con la seduta in entrambe le posizioni di marcia|2017/11/carrozzina-omologata-per-il-trasporto-in-auto|data.oliviero.it/imgprodotto/trio-fluido-top-687-telaio-nero_158960",
 "Portapenne Bitmap per la scuola|Gli accessori che non possono mancare nel tuo zaino per la scuola|2017/11/portapenne-bitmap-per-la-scuola|data.oliviero.it/imgprodotto/portapenne-bitmap_166310",
