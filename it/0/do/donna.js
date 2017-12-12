@@ -1,4 +1,5 @@
 Gr = [
+"Sandalo Donna Nero Vernice|Collezione Primavera Estate Sandalo da donna con allacciatura tramite|2017/12/sandalo-donna-nero-vernice|data.oliviero.it/imgprodotto/sandalo-donna-nero-vernice-p717860de-100_164534",
 "Scarpe CT AS Rummage Hi|Utilizzo: Calzatura Moda Sport Tomaia: Tessuto traspirante|2017/12/scarpe-ct-as-rummage-hi|data.oliviero.it/imgprodotto/scarpe-ct-as-rummage-hi_94677",
 "Abito donna T3S4JC 00006|Abito intero da donna, composto da canotta lunga e maglia forata con|2017/12/abito-donna-t3s4jc-00006|data.oliviero.it/imgprodotto/abito-donna-t3s4jc-00006_146565",
 "Scarpe Pro Leather Vulc Distressed Ox|Le Converse Pro Leather sono sneakers dall'aspetto classico sempre in|2017/12/scarpe-pro-leather-vulc-distressed-ox|data.oliviero.it/imgprodotto/scarpe-pro-leather-vulc-distressed-ox_170969",

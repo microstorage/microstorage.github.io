@@ -1,4 +1,5 @@
 Gr = [
+"Sandalo Donna Nero Vernice|Collezione Primavera Estate Sandalo da donna con allacciatura tramite|2017/12/sandalo-donna-nero-vernice|data.oliviero.it/imgprodotto/sandalo-donna-nero-vernice-p717860de-100_164534",
 "Scarpe Weels Uomo Grigio Scuro|Collezione Autunno Inverno/2018 Sneakers da uomo Tomaia in pelle|2017/12/scarpe-weels-uomo-grigio-scuro|data.oliviero.it/imgprodotto/scarpe-weels-uomo-grigio-scuro_167147",
 "Scarpe Brandled Uomo Dark Coffee|Collezione Autunno Inverno/2018 Stivaletti da uomo Tomaia in pelle|2017/12/scarpe-brandled-uomo-dark-coffee|data.oliviero.it/imgprodotto/scarpe-brandled-uomo-dark-coffee_167195",
 "Scarpe CT AS Rummage Hi|Utilizzo: Calzatura Moda Sport Tomaia: Tessuto traspirante|2017/12/scarpe-ct-as-rummage-hi|data.oliviero.it/imgprodotto/scarpe-ct-as-rummage-hi_94677",

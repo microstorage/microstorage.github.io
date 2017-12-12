@@ -1,4 +1,9 @@
 Gr = [
+"Puzzle Farfalla|Età 2+ Anni Puzzle In Legno Aiuta I Bambini a sviluppare le proprie|2017/12/puzzle-farfalla|data.oliviero.it/imgprodotto/puzzle-farfalla_139662",
+"Felpa Uomo Royal|Collezione Autunno Inverno/2018 Felpa da uomo di Champion della|2017/12/felpa-uomo-royal|data.oliviero.it/imgprodotto/felpa-uomo-royal_169778",
+"Sandalo Donna Nero Vernice|Collezione Primavera Estate Sandalo da donna con allacciatura tramite|2017/12/sandalo-donna-nero-vernice|data.oliviero.it/imgprodotto/sandalo-donna-nero-vernice-p717860de-100_164534",
+"Sacco Passeggino New Mucky Rosso|Nuovo sacco imbottito studiato per i climi più rigidi, cerniera|2017/12/sacco-passeggino-new-mucky-rosso|data.oliviero.it/imgprodotto/sacco-passeggino-new-mucky-rosso_170126",
+"Sacco a Pelo Ultralight 1500|Esterno: 100% polyestere 75D 230T diamond ripstop Interno: 100%|2017/12/sacco-a-pelo-ultralight-1500|data.oliviero.it/imgprodotto/sacco-a-pelo-ultralight-1500_87298",
 "Sdraio Cordonata 704E|Sdraio cordonata completamente a mano. Caratteristiche: Telaio in|2017/12/sdraio-cordonata-704e|data.oliviero.it/imgprodotto/sdraio-cordonata-704e_163212",
 "Pallone Calcio FC Barcelona Prestige|Il pallone da calcio FC Barcelona Prestige offre un tocco eccellente|2017/12/pallone-calcio-fc-barcelona-prestige|data.oliviero.it/imgprodotto/pallone-calcio-fc-barcelona-prestige_169700",
 "Lenzuolo sotto Flanella Bianco|Tessuto in flanella di puro cotone. Singolo 90x200 cm Piazza e Mezza|2017/12/lenzuolo-sotto-flanella-bianco|data.oliviero.it/imgprodotto/lenzuolo-sotto-flanella-bianco_169023",

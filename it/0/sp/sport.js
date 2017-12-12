@@ -1,4 +1,6 @@
 Gr = [
+"Puzzle Farfalla|Età 2+ Anni Puzzle In Legno Aiuta I Bambini a sviluppare le proprie|2017/12/puzzle-farfalla|data.oliviero.it/imgprodotto/puzzle-farfalla_139662",
+"Sacco a Pelo Ultralight 1500|Esterno: 100% polyestere 75D 230T diamond ripstop Interno: 100%|2017/12/sacco-a-pelo-ultralight-1500|data.oliviero.it/imgprodotto/sacco-a-pelo-ultralight-1500_87298",
 "Pallone Calcio FC Barcelona Prestige|Il pallone da calcio FC Barcelona Prestige offre un tocco eccellente|2017/12/pallone-calcio-fc-barcelona-prestige|data.oliviero.it/imgprodotto/pallone-calcio-fc-barcelona-prestige_169700",
 "Panca Multifunzione Multigym|Il Kettler Powercenter Multigym per un approccio a costi ridotti|2017/12/panca-multifunzione-multigym|data.oliviero.it/imgprodotto/panca-multifunzione-multigym_165866",
 "Tavolo Music Band|È il nuovissimo tavolo musicale 3 in 1 completo di 8 attività|2017/12/tavolo-music-band|data.oliviero.it/imgprodotto/tavolo-music-band_65825",

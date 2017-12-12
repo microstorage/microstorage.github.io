@@ -1,4 +1,5 @@
 Gr = [
+"Felpa Uomo Royal|Collezione Autunno Inverno/2018 Felpa da uomo di Champion della|2017/12/felpa-uomo-royal|data.oliviero.it/imgprodotto/felpa-uomo-royal_169778",
 "Accappatoio taglie forti blu scuro OKEY|Accappatoio uomo ideato per taglie forti. Modello classico im pura|2017/12/accappatoio-taglie-forti-blu-scuro-okey|data.oliviero.it/imgprodotto/accappatoio-taglie-forti-blu-scuro-okey_23948_big",
 "Diario 10 mesi SJ Gang Boy|Seven SJ gang faccine diario agenda 10 mesi non datato, pagine|2017/12/diario-10-mesi-sj-gang-boy|data.oliviero.it/imgprodotto/diario-10-mesi-sj-gang-boy_167512",
 "Felpa Uomo Antracite|Collezione Autunno Inverno/2018 La felpa da allenamento con cappuccio|2017/12/felpa-uomo-antracite|data.oliviero.it/imgprodotto/felpa-uomo-antracite_169422",

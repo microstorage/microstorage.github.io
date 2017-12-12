@@ -1,4 +1,5 @@
 Gr = [
+"Felpa Uomo Royal|Collezione Autunno Inverno/2018 Felpa da uomo di Champion della|2017/12/felpa-uomo-royal|data.oliviero.it/imgprodotto/felpa-uomo-royal_169778",
 "Grembiule Vita|Falda vita con tasca Caratteristiche: Colore: Bianco|2017/12/grembiule-vita|data.oliviero.it/imgprodotto/grembiule-vita-086397_159022",
 "Accappatoio taglie forti blu scuro OKEY|Accappatoio uomo ideato per taglie forti. Modello classico im pura|2017/12/accappatoio-taglie-forti-blu-scuro-okey|data.oliviero.it/imgprodotto/accappatoio-taglie-forti-blu-scuro-okey_23948_big",
 "Gilet Uomo|Colore base : Davanti rigato , dietro in tinta unita Composizione|2017/12/gilet-uomo|data.oliviero.it/imgprodotto/gilet-uomo_83014",

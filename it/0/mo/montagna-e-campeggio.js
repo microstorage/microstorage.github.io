@@ -1,4 +1,5 @@
 Gr = [
+"Sacco a Pelo Ultralight 1500|Esterno: 100% polyestere 75D 230T diamond ripstop Interno: 100%|2017/12/sacco-a-pelo-ultralight-1500|data.oliviero.it/imgprodotto/sacco-a-pelo-ultralight-1500_87298",
 "Grembiule Vita|Falda vita con tasca Caratteristiche: Colore: Bianco|2017/12/grembiule-vita|data.oliviero.it/imgprodotto/grembiule-vita-086397_159022",
 "Gilet Uomo|Colore base : Davanti rigato , dietro in tinta unita Composizione|2017/12/gilet-uomo|data.oliviero.it/imgprodotto/gilet-uomo_83014",
 "Grembiule Sommelier|Colore : Sole Composizione : tessuto 100% poliestere|2017/12/grembiule-sommelier|data.oliviero.it/imgprodotto/grembiule-sommelier_24708_big",
