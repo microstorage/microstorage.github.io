@@ -1,4 +1,6 @@
 Gr = [
+"Scarpe Weels Uomo Grigio Scuro|Collezione Autunno Inverno/2018 Sneakers da uomo Tomaia in pelle|2017/12/scarpe-weels-uomo-grigio-scuro|data.oliviero.it/imgprodotto/scarpe-weels-uomo-grigio-scuro_167147",
+"Scarpe Brandled Uomo Dark Coffee|Collezione Autunno Inverno/2018 Stivaletti da uomo Tomaia in pelle|2017/12/scarpe-brandled-uomo-dark-coffee|data.oliviero.it/imgprodotto/scarpe-brandled-uomo-dark-coffee_167195",
 "Scarpe EQT Support RF|Scarpe stile running anni '90 rivitalizzate con aggiornamenti|2017/12/scarpe-eqt-support-rf|data.oliviero.it/imgprodotto/scarpe-eqt-support-rf_167256",
 "Zoccolo Antiscivolo 581 Bianco 90262401|Calzatura ideata per l'uso nel settore professionale medico e cucina|2017/12/zoccolo-antiscivolo-581-bianco-90262401|data.oliviero.it/imgprodotto/zoccolo-antiscivolo-581-bianco-90262401_50987_big",
 "Scarpe Tanjun Uomo Rosso|Comoda, leggera, sportiva, Nike Tanjun è la scarpa ideale per il|2017/12/scarpe-tanjun-uomo-rosso|data.oliviero.it/imgprodotto/scarpe-tanjun-uomo-rosso_167086",

@@ -1,4 +1,5 @@
 Gr = [
+"Grembiule Vita|Falda vita con tasca Caratteristiche: Colore: Bianco|2017/12/grembiule-vita|data.oliviero.it/imgprodotto/grembiule-vita-086397_159022",
 "Gilet Uomo|Colore base : Davanti rigato , dietro in tinta unita Composizione|2017/12/gilet-uomo|data.oliviero.it/imgprodotto/gilet-uomo_83014",
 "Grembiule Sommelier|Colore : Sole Composizione : tessuto 100% poliestere|2017/12/grembiule-sommelier|data.oliviero.it/imgprodotto/grembiule-sommelier_24708_big",
 "Gilet uomo a 4 bottoni, 2 tasche|Gilet uomo chiusura 4 bottoni, due tasche, cinturino posteriore|2017/10/gilet-uomo-a-4-bottoni-2-tasche|data.oliviero.it/imgprodotto/gilet-uomo_83013",

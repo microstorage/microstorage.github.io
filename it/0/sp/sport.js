@@ -1,4 +1,6 @@
 Gr = [
+"Pallone Calcio FC Barcelona Prestige|Il pallone da calcio FC Barcelona Prestige offre un tocco eccellente|2017/12/pallone-calcio-fc-barcelona-prestige|data.oliviero.it/imgprodotto/pallone-calcio-fc-barcelona-prestige_169700",
+"Panca Multifunzione Multigym|Il Kettler Powercenter Multigym per un approccio a costi ridotti|2017/12/panca-multifunzione-multigym|data.oliviero.it/imgprodotto/panca-multifunzione-multigym_165866",
 "Tavolo Music Band|È il nuovissimo tavolo musicale 3 in 1 completo di 8 attività|2017/12/tavolo-music-band|data.oliviero.it/imgprodotto/tavolo-music-band_65825",
 "Brandina Da Campo, Blu|Brandina Da Campo, Blu - 97065 Telaio in alluminio con snodi in|2017/12/brandina-da-campo-blu|data.oliviero.it/imgprodotto/brandina-da-campo-blu-97065_158929",
 "Activa Slim Pancera|Pancera dimagrante GLOBUS Activa Slim - AB Pancera dimagrante in|2017/12/activa-slim-pancera|data.oliviero.it/imgprodotto/activa-slim-pancera_71145",

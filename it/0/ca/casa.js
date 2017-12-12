@@ -1,4 +1,8 @@
 Gr = [
+"Sdraio Cordonata 704E|Sdraio cordonata completamente a mano. Caratteristiche: Telaio in|2017/12/sdraio-cordonata-704e|data.oliviero.it/imgprodotto/sdraio-cordonata-704e_163212",
+"Lenzuolo sotto Flanella Bianco|Tessuto in flanella di puro cotone. Singolo 90x200 cm Piazza e Mezza|2017/12/lenzuolo-sotto-flanella-bianco|data.oliviero.it/imgprodotto/lenzuolo-sotto-flanella-bianco_169023",
+"Trapunta Modern Anice|Trapunta in tessuto in microfibra di poliestere. SINGOLO 170X270 cm|2017/12/trapunta-modern-anice|data.oliviero.it/imgprodotto/trapunta-modern-anice_166709",
+"Trapunta Frozen Magia|Tessuto in microfibra. Imbottitura in fibra di poliestere|2017/12/trapunta-frozen-magia|data.oliviero.it/imgprodotto/trapunta-frozen-magia_168979",
 "Madia 2 ante scorrevoli 3 cassetti HIJO|Madia 2 ante scorrevoli 3 cassetti HIJO 1 anta laccata grigio opaco|2017/12/madia-2-ante-scorrevoli-3-cassetti-hijo|data.oliviero.it/imgprodotto/madia-2-ante-scorrevoli-3-cassetti-hijo_135015",
 "Cassettiera con ruote BIG BOBO|Cassettiera con ruote BIG BOBO 5 cassetti realizzati in MDF|2017/12/cassettiera-con-ruote-big-bobo|data.oliviero.it/imgprodotto/cassettiera-con-ruote-big-bobo_136091",
 "Materasso 120x190 Una Piazza e Mezzo Extra lusso|Materasso 120x190 Una Piazza e Mezzo Extra lusso. Spessore 20cm|2017/12/materasso-120x190-una-piazza-e-mezzo-extra-lusso|data.oliviero.it/imgprodotto/materasso-120x190-una-piazza-e-mezzo-extra-lusso_93519",

@@ -1,4 +1,5 @@
 Gr = [
+"Grembiule Vita|Falda vita con tasca Caratteristiche: Colore: Bianco|2017/12/grembiule-vita|data.oliviero.it/imgprodotto/grembiule-vita-086397_159022",
 "Accappatoio taglie forti blu scuro OKEY|Accappatoio uomo ideato per taglie forti. Modello classico im pura|2017/12/accappatoio-taglie-forti-blu-scuro-okey|data.oliviero.it/imgprodotto/accappatoio-taglie-forti-blu-scuro-okey_23948_big",
 "Gilet Uomo|Colore base : Davanti rigato , dietro in tinta unita Composizione|2017/12/gilet-uomo|data.oliviero.it/imgprodotto/gilet-uomo_83014",
 "T-Shirt Uomo Grigio Melange|Collezione Primavera Estate Questa T-shirt da uomo è pensata per|2017/12/t-shirt-uomo-grigio-melange|data.oliviero.it/imgprodotto/t-shirt-uomo-grigio-melange-s98738_162965",

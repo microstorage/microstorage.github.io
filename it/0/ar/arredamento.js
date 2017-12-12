@@ -1,4 +1,5 @@
 Gr = [
+"Abat Jour Gigi e Lele|Ecco arrivare finalmente la colorata e simpatica linea Gigi e Lele|2017/12/abat-jour-gigi-e-lele|data.oliviero.it/imgprodotto/abat-jour-gigi-e-lele_5603_big",
 "Madia 2 ante scorrevoli 3 cassetti HIJO|Madia 2 ante scorrevoli 3 cassetti HIJO 1 anta laccata grigio opaco|2017/12/madia-2-ante-scorrevoli-3-cassetti-hijo|data.oliviero.it/imgprodotto/madia-2-ante-scorrevoli-3-cassetti-hijo_135015",
 "Cassettiera con ruote BIG BOBO|Cassettiera con ruote BIG BOBO 5 cassetti realizzati in MDF|2017/12/cassettiera-con-ruote-big-bobo|data.oliviero.it/imgprodotto/cassettiera-con-ruote-big-bobo_136091",
 "Caminetto da muro oxy|Caminetto da muro a bioetanolo OXY struttura esterna in metallo|2017/12/caminetto-da-muro-oxy|data.oliviero.it/imgprodotto/caminetto-da-muro-oxy_78084",

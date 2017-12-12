@@ -1,4 +1,5 @@
 Gr = [
+"Panca Multifunzione Multigym|Il Kettler Powercenter Multigym per un approccio a costi ridotti|2017/12/panca-multifunzione-multigym|data.oliviero.it/imgprodotto/panca-multifunzione-multigym_165866",
 "Activa Slim Pancera|Pancera dimagrante GLOBUS Activa Slim - AB Pancera dimagrante in|2017/12/activa-slim-pancera|data.oliviero.it/imgprodotto/activa-slim-pancera_71145",
 "Home Gym HG60|La stazione multifunzione Tunturi HG60 Home Gym è stata disegnata con|2017/12/home-gym-hg60|data.oliviero.it/imgprodotto/home-gym-hg60_171225",
 "Ruota doppia per addominali AHF047|Ideale per allenare e rafforzare addominali, schiena, spalle|2017/12/ruota-doppia-per-addominali-ahf047|data.oliviero.it/imgprodotto/ruota-doppia-per-addominali-ahf047_151339",
