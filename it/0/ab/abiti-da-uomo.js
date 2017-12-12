@@ -1,4 +1,8 @@
 Gr = [
+"Jeans Uomo Taglie Forti Super stone wash|Collezione Primavera Estate Jeans uomo taglie forti con allacciatura|2017/12/jeans-uomo-taglie-forti-super-stone-wash|data.oliviero.it/imgprodotto/jeans-uomo-taglie-forti-super-stone-wash_163503",
+"Jeans Uomo Taglie Forti Blu denim|Collezione Autunno Inverno/2018 Jeans Uomo taglie Forti. Il modello|2017/12/jeans-uomo-taglie-forti-blu-denim|data.oliviero.it/imgprodotto/jeans-uomo-taglie-forti-blu-denim_169237",
+"Camicia Uomo Western Blue Stance|Collezione Autunno Inverno/2018 La leggendaria Lee® Western Shirt|2017/12/camicia-uomo-western-blue-stance|data.oliviero.it/imgprodotto/camicia-uomo-western-blue-stance_170884",
+"Jeans Uomo Taglie Forti Agnus|Jeans Uomo Taglie Forti. Il modello presenta allacciatura frontale|2017/12/jeans-uomo-taglie-forti-agnus|data.oliviero.it/imgprodotto/jeans-uomo-taglie-forti-agnus_168558",
 "Felpa Uomo Royal|Collezione Autunno Inverno/2018 Felpa da uomo di Champion della|2017/12/felpa-uomo-royal|data.oliviero.it/imgprodotto/felpa-uomo-royal_169778",
 "Accappatoio taglie forti blu scuro OKEY|Accappatoio uomo ideato per taglie forti. Modello classico im pura|2017/12/accappatoio-taglie-forti-blu-scuro-okey|data.oliviero.it/imgprodotto/accappatoio-taglie-forti-blu-scuro-okey_23948_big",
 "Diario 10 mesi SJ Gang Boy|Seven SJ gang faccine diario agenda 10 mesi non datato, pagine|2017/12/diario-10-mesi-sj-gang-boy|data.oliviero.it/imgprodotto/diario-10-mesi-sj-gang-boy_167512",

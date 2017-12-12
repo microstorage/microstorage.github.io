@@ -1,4 +1,6 @@
 Gr = [
+"Jeans Uomo Taglie Forti Super stone wash|Collezione Primavera Estate Jeans uomo taglie forti con allacciatura|2017/12/jeans-uomo-taglie-forti-super-stone-wash|data.oliviero.it/imgprodotto/jeans-uomo-taglie-forti-super-stone-wash_163503",
+"Jeans Uomo Taglie Forti Blu denim|Collezione Autunno Inverno/2018 Jeans Uomo taglie Forti. Il modello|2017/12/jeans-uomo-taglie-forti-blu-denim|data.oliviero.it/imgprodotto/jeans-uomo-taglie-forti-blu-denim_169237",
 "Jeans Uomo Bright Stroke Greensboro|Jeans blu con fit regular e risvolto alla caviglia|2017/08/jeans-uomo-bright-stroke-greensboro|data.oliviero.it/imgprodotto/jeans-uomo-bright-stroke-greensboro-w15qmu91q_159497",
 "Jeans uomo Slim Fit 511 Valley Ford|Per un look snello, aderiscono senza stringere troppo|2017/05/jeans-uomo-slim-fit-511-valley-ford|data.oliviero.it/imgprodotto/jeans-uomo-slim-fit-511-valley-ford-04511-1586_137118",
 "Jeans donna colore nero|Jeans dalla vestibilità slim, da donna con 5 tasche, allacciatura frontale|2017/05/jeans-donna-colore-nero|data.oliviero.it/imgprodotto/jeans-donna-p2s4s2-00006_146868",

@@ -1,4 +1,5 @@
 Gr = [
+"Poltrona pensile Baby Hang Mini Zebra|Poltrona sospesa Hang Mini Zebra - piacevole richiamo della|2017/12/poltrona-pensile-baby-hang-mini-zebra|data.oliviero.it/imgprodotto/poltrona-pensile-baby-hang-mini-zebra_83995",
 "Amaca con Asta Tonga Bubblegum|Amaca molto confortevole grazie a cavi particolarmente lunghi|2017/08/amaca-con-asta-tonga-bubblegum|data.oliviero.it/imgprodotto/amaca-con-asta-tonga-bubblegum-l_158739",
 "Calcio balilla G 2000 Evolution|Calcio balilla nero con bordatura e serigrafia silver, 10 palline in dotazione|2017/06/calcio-balilla-g-2000-evolution|data.oliviero.it/imgprodotto/calcio-balilla-g-2000-evolution_150011",
 "Poltrona dondolo oscillante Dallas Verde|Poltrona dondolo oscillante con struttura in legno massello verniciato|2017/06/poltrona-dondolo-oscillante-dallas-verde|data.oliviero.it/imgprodotto/dondolo-dallas-verde_108476",

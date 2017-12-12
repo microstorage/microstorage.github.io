@@ -1,4 +1,6 @@
 Gr = [
+"Scarpe Tennis Gel Resolution 7 Clay|Asics Gel Resolution 7 Clay è la scarpa da tennis campionessa in|2017/12/scarpe-tennis-gel-resolution-7-clay|data.oliviero.it/imgprodotto/scarpe-tennis-gel-resolution-7-clay-e702y-0749_164142",
+"Scarpe Roshe One|La scarpa Nike Roshe One - Uomo, morbida e traspirante, offre un|2017/12/scarpe-roshe-one|data.oliviero.it/imgprodotto/scarpe-roshe-one_167857",
 "Sandalo Donna Nero Vernice|Collezione Primavera Estate Sandalo da donna con allacciatura tramite|2017/12/sandalo-donna-nero-vernice|data.oliviero.it/imgprodotto/sandalo-donna-nero-vernice-p717860de-100_164534",
 "Scarpe Weels Uomo Grigio Scuro|Collezione Autunno Inverno/2018 Sneakers da uomo Tomaia in pelle|2017/12/scarpe-weels-uomo-grigio-scuro|data.oliviero.it/imgprodotto/scarpe-weels-uomo-grigio-scuro_167147",
 "Scarpe Brandled Uomo Dark Coffee|Collezione Autunno Inverno/2018 Stivaletti da uomo Tomaia in pelle|2017/12/scarpe-brandled-uomo-dark-coffee|data.oliviero.it/imgprodotto/scarpe-brandled-uomo-dark-coffee_167195",

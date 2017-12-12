@@ -1,4 +1,7 @@
 Gr = [
+"T-Shirt Uomo Navy|Collezione Primavera Estate T-Shirt uomo con girocollo e mezza|2017/12/t-shirt-uomo-navy|data.oliviero.it/imgprodotto/t-shirt-uomo-navy_165045",
+"Pantaloni donna WPT407 G102|Collezione Primavera Estate Tipologia: Pantalane donna Tessuto: 97%|2017/12/pantaloni-donna-wpt407-g102|data.oliviero.it/imgprodotto/pantaloni-donna-wpt407-g102_73281",
+"Giacche donna Bomber T2S4XB 00001|Giacca modello bomber da donna con allacciatura frontale tramite zip|2017/12/giacche-donna-bomber-t2s4xb-00001|data.oliviero.it/imgprodotto/giacche-donna-bomber-t2s4xb-00001_146406",
 "T-Shirt Uomo Grigio Melange|Collezione Primavera Estate Questa T-shirt da uomo è pensata per|2017/12/t-shirt-uomo-grigio-melange|data.oliviero.it/imgprodotto/t-shirt-uomo-grigio-melange-s98738_162965",
 "Abito donna T3S4JC 00006|Abito intero da donna, composto da canotta lunga e maglia forata con|2017/12/abito-donna-t3s4jc-00006|data.oliviero.it/imgprodotto/abito-donna-t3s4jc-00006_146565",
 "Pantaloni donna Casual P2S4SB 00433|Pantalone Casual da donna con stampe floreali. Il modello presenta|2017/12/pantaloni-donna-casual-p2s4sb-00433|data.oliviero.it/imgprodotto/pantaloni-donna-casual-p2s4sb-00433_146928",

@@ -1,4 +1,6 @@
 Gr = [
+"Pantaloni donna WPT407 G102|Collezione Primavera Estate Tipologia: Pantalane donna Tessuto: 97%|2017/12/pantaloni-donna-wpt407-g102|data.oliviero.it/imgprodotto/pantaloni-donna-wpt407-g102_73281",
+"Giacche donna Bomber T2S4XB 00001|Giacca modello bomber da donna con allacciatura frontale tramite zip|2017/12/giacche-donna-bomber-t2s4xb-00001|data.oliviero.it/imgprodotto/giacche-donna-bomber-t2s4xb-00001_146406",
 "Sandalo Donna Nero Vernice|Collezione Primavera Estate Sandalo da donna con allacciatura tramite|2017/12/sandalo-donna-nero-vernice|data.oliviero.it/imgprodotto/sandalo-donna-nero-vernice-p717860de-100_164534",
 "Scarpe CT AS Rummage Hi|Utilizzo: Calzatura Moda Sport Tomaia: Tessuto traspirante|2017/12/scarpe-ct-as-rummage-hi|data.oliviero.it/imgprodotto/scarpe-ct-as-rummage-hi_94677",
 "Abito donna T3S4JC 00006|Abito intero da donna, composto da canotta lunga e maglia forata con|2017/12/abito-donna-t3s4jc-00006|data.oliviero.it/imgprodotto/abito-donna-t3s4jc-00006_146565",

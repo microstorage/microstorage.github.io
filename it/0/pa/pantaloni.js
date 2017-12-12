@@ -1,4 +1,6 @@
 Gr = [
+"Pantaloni donna WPT407 G102|Collezione Primavera Estate Tipologia: Pantalane donna Tessuto: 97%|2017/12/pantaloni-donna-wpt407-g102|data.oliviero.it/imgprodotto/pantaloni-donna-wpt407-g102_73281",
+"Jeans Uomo Taglie Forti Agnus|Jeans Uomo Taglie Forti. Il modello presenta allacciatura frontale|2017/12/jeans-uomo-taglie-forti-agnus|data.oliviero.it/imgprodotto/jeans-uomo-taglie-forti-agnus_168558",
 "Pantaloni donna Casual P2S4SB 00433|Pantalone Casual da donna con stampe floreali. Il modello presenta|2017/12/pantaloni-donna-casual-p2s4sb-00433|data.oliviero.it/imgprodotto/pantaloni-donna-casual-p2s4sb-00433_146928",
 "Pantaloni Sportivi Donna Nero|Pantaloni sportivi da donna, elastico in vita, polsini alle caviglie|2017/11/pantaloni-sportivi-donna-nero|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-nero_169469",
 "Pantaloni Sportivi Donna Nero|Questi pantaloni in spugna sfoggiano un look essenziale e moderno|2017/10/pantaloni-sportivi-donna-nero|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-nero_168115",

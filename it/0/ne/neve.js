@@ -1,4 +1,5 @@
 Gr = [
+"Maschera Sci Comanche TO|Uvex Comanche utilizza la tecnologia delle lenti uvex. Se le|2017/12/maschera-sci-comanche-to|data.oliviero.it/imgprodotto/maschera-sci-comanche-to-s5512094126_171356",
 "Casco Sci Donna da Head|Cloe è il casco più leggero di Head, con shell in policarbonato|2017/11/casco-sci-donna-da-head|data.oliviero.it/imgprodotto/casco-sci-cloe-325613_92266",
 "Moon Boot: i 4 migliori in commercio a febbraio 2017|I 4 migliori Moon Boot, subito disponibili: febbraio 2017|2017/02/moon-boot-i-4-migliori-in-commercio-a-febbraio-2017|data.oliviero.it/imgprodotto/moon-boot-lem-14200100-001_156526",
 "2 Pantaloni Sci Uomo da avere: gennaio 2017|I 2 Pantaloni Sci da Uomo che amerai dopo una giornata sulle piste|2017/01/2-pantaloni-sci-uomo-da-avere-gennaio-2017|data.oliviero.it/imgprodotto/pantaloni-sci-uomo-nero-0166g-4ko-99_155710",

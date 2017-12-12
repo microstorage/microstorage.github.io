@@ -1,4 +1,7 @@
 Gr = [
+"T-Shirt Uomo Navy|Collezione Primavera Estate T-Shirt uomo con girocollo e mezza|2017/12/t-shirt-uomo-navy|data.oliviero.it/imgprodotto/t-shirt-uomo-navy_165045",
+"Camicia Uomo Western Blue Stance|Collezione Autunno Inverno/2018 La leggendaria Lee® Western Shirt|2017/12/camicia-uomo-western-blue-stance|data.oliviero.it/imgprodotto/camicia-uomo-western-blue-stance_170884",
+"Scarpe Roshe One|La scarpa Nike Roshe One - Uomo, morbida e traspirante, offre un|2017/12/scarpe-roshe-one|data.oliviero.it/imgprodotto/scarpe-roshe-one_167857",
 "Felpa Uomo Royal|Collezione Autunno Inverno/2018 Felpa da uomo di Champion della|2017/12/felpa-uomo-royal|data.oliviero.it/imgprodotto/felpa-uomo-royal_169778",
 "Scarpe Weels Uomo Grigio Scuro|Collezione Autunno Inverno/2018 Sneakers da uomo Tomaia in pelle|2017/12/scarpe-weels-uomo-grigio-scuro|data.oliviero.it/imgprodotto/scarpe-weels-uomo-grigio-scuro_167147",
 "Scarpe Brandled Uomo Dark Coffee|Collezione Autunno Inverno/2018 Stivaletti da uomo Tomaia in pelle|2017/12/scarpe-brandled-uomo-dark-coffee|data.oliviero.it/imgprodotto/scarpe-brandled-uomo-dark-coffee_167195",

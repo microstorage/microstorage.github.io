@@ -1,4 +1,7 @@
 Gr = [
+"Jeans Uomo Taglie Forti Super stone wash|Collezione Primavera Estate Jeans uomo taglie forti con allacciatura|2017/12/jeans-uomo-taglie-forti-super-stone-wash|data.oliviero.it/imgprodotto/jeans-uomo-taglie-forti-super-stone-wash_163503",
+"Jeans Uomo Taglie Forti Blu denim|Collezione Autunno Inverno/2018 Jeans Uomo taglie Forti. Il modello|2017/12/jeans-uomo-taglie-forti-blu-denim|data.oliviero.it/imgprodotto/jeans-uomo-taglie-forti-blu-denim_169237",
+"Jeans Uomo Taglie Forti Agnus|Jeans Uomo Taglie Forti. Il modello presenta allacciatura frontale|2017/12/jeans-uomo-taglie-forti-agnus|data.oliviero.it/imgprodotto/jeans-uomo-taglie-forti-agnus_168558",
 "Accappatoio taglie forti blu scuro OKEY|Accappatoio uomo ideato per taglie forti. Modello classico im pura|2017/12/accappatoio-taglie-forti-blu-scuro-okey|data.oliviero.it/imgprodotto/accappatoio-taglie-forti-blu-scuro-okey_23948_big",
 "T-Shirt Uomo Taglie Forti Bordeaux|T-Shirt uomo taglie forti: maniche lunghe, girocollo e logo al petto, cotone|2017/11/t-shirt-uomo-taglie-forti-bordeaux|data.oliviero.it/imgprodotto/t-shirt-uomo-taglie-forti-bordeaux_167299",
 "T-Shirt Uomo Taglie Forti Sabbia|T-Shirt taglie forti da uomo: girocollo, mezze maniche, stampa frontale|2017/08/t-shirt-uomo-taglie-forti-sabbia|data.oliviero.it/imgprodotto/t-shirt-uomo-taglie-forti-sabbia-25613-90_164790",

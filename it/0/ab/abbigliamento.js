@@ -1,4 +1,12 @@
 Gr = [
+"Jeans Uomo Taglie Forti Super stone wash|Collezione Primavera Estate Jeans uomo taglie forti con allacciatura|2017/12/jeans-uomo-taglie-forti-super-stone-wash|data.oliviero.it/imgprodotto/jeans-uomo-taglie-forti-super-stone-wash_163503",
+"Jeans Uomo Taglie Forti Blu denim|Collezione Autunno Inverno/2018 Jeans Uomo taglie Forti. Il modello|2017/12/jeans-uomo-taglie-forti-blu-denim|data.oliviero.it/imgprodotto/jeans-uomo-taglie-forti-blu-denim_169237",
+"T-Shirt Uomo Navy|Collezione Primavera Estate T-Shirt uomo con girocollo e mezza|2017/12/t-shirt-uomo-navy|data.oliviero.it/imgprodotto/t-shirt-uomo-navy_165045",
+"Short Thai Basic|Shorts da kick/thai boxing in satin lucido con logo ricamato, bordi|2017/12/short-thai-basic|data.oliviero.it/imgprodotto/short-thai-basic_171400",
+"Camicia Uomo Western Blue Stance|Collezione Autunno Inverno/2018 La leggendaria Lee® Western Shirt|2017/12/camicia-uomo-western-blue-stance|data.oliviero.it/imgprodotto/camicia-uomo-western-blue-stance_170884",
+"Pantaloni donna WPT407 G102|Collezione Primavera Estate Tipologia: Pantalane donna Tessuto: 97%|2017/12/pantaloni-donna-wpt407-g102|data.oliviero.it/imgprodotto/pantaloni-donna-wpt407-g102_73281",
+"Giacche donna Bomber T2S4XB 00001|Giacca modello bomber da donna con allacciatura frontale tramite zip|2017/12/giacche-donna-bomber-t2s4xb-00001|data.oliviero.it/imgprodotto/giacche-donna-bomber-t2s4xb-00001_146406",
+"Jeans Uomo Taglie Forti Agnus|Jeans Uomo Taglie Forti. Il modello presenta allacciatura frontale|2017/12/jeans-uomo-taglie-forti-agnus|data.oliviero.it/imgprodotto/jeans-uomo-taglie-forti-agnus_168558",
 "Felpa Uomo Royal|Collezione Autunno Inverno/2018 Felpa da uomo di Champion della|2017/12/felpa-uomo-royal|data.oliviero.it/imgprodotto/felpa-uomo-royal_169778",
 "Grembiule Vita|Falda vita con tasca Caratteristiche: Colore: Bianco|2017/12/grembiule-vita|data.oliviero.it/imgprodotto/grembiule-vita-086397_159022",
 "Accappatoio taglie forti blu scuro OKEY|Accappatoio uomo ideato per taglie forti. Modello classico im pura|2017/12/accappatoio-taglie-forti-blu-scuro-okey|data.oliviero.it/imgprodotto/accappatoio-taglie-forti-blu-scuro-okey_23948_big",

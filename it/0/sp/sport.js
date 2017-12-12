@@ -1,4 +1,13 @@
 Gr = [
+"Cyclette EB2100i|Con la exercise bike EB-2100i DKN trasforma il design industriale|2017/12/cyclette-eb2100i|data.oliviero.it/imgprodotto/cyclette-eb2100i_154180",
+"Fascia per gomito|Fascia per gomito pensata per chi soffre di epicondilite, dona|2017/12/fascia-per-gomito|data.oliviero.it/imgprodotto/fascia-per-gomito_171805",
+"Panca Multifunzione Fitmaster|La stazione multifunzione Kettler Fitmaster 300 è una stazione|2017/12/panca-multifunzione-fitmaster|data.oliviero.it/imgprodotto/panca-multifunzione-fitmaster_140051",
+"Corda Salto AT829|Corda da salto professionale in nylon con treccia in acciaio. Il|2017/12/corda-salto-at829|data.oliviero.it/imgprodotto/corda-salto-at829_169637",
+"Short Thai Basic|Shorts da kick/thai boxing in satin lucido con logo ricamato, bordi|2017/12/short-thai-basic|data.oliviero.it/imgprodotto/short-thai-basic_171400",
+"Poltrona pensile Baby Hang Mini Zebra|Poltrona sospesa Hang Mini Zebra - piacevole richiamo della|2017/12/poltrona-pensile-baby-hang-mini-zebra|data.oliviero.it/imgprodotto/poltrona-pensile-baby-hang-mini-zebra_83995",
+"Scarpe Tennis Gel Resolution 7 Clay|Asics Gel Resolution 7 Clay è la scarpa da tennis campionessa in|2017/12/scarpe-tennis-gel-resolution-7-clay|data.oliviero.it/imgprodotto/scarpe-tennis-gel-resolution-7-clay-e702y-0749_164142",
+"Maschera Sci Comanche TO|Uvex Comanche utilizza la tecnologia delle lenti uvex. Se le|2017/12/maschera-sci-comanche-to|data.oliviero.it/imgprodotto/maschera-sci-comanche-to-s5512094126_171356",
+"Guanti da Passata Armalite|Guanti da passata Caratteristiche: Pelle esterna SLV3 per durata|2017/12/guanti-da-passata-armalite|data.oliviero.it/imgprodotto/guanti-da-passata-armalite-safm-0108_92995",
 "Puzzle Farfalla|Età 2+ Anni Puzzle In Legno Aiuta I Bambini a sviluppare le proprie|2017/12/puzzle-farfalla|data.oliviero.it/imgprodotto/puzzle-farfalla_139662",
 "Sacco a Pelo Ultralight 1500|Esterno: 100% polyestere 75D 230T diamond ripstop Interno: 100%|2017/12/sacco-a-pelo-ultralight-1500|data.oliviero.it/imgprodotto/sacco-a-pelo-ultralight-1500_87298",
 "Pallone Calcio FC Barcelona Prestige|Il pallone da calcio FC Barcelona Prestige offre un tocco eccellente|2017/12/pallone-calcio-fc-barcelona-prestige|data.oliviero.it/imgprodotto/pallone-calcio-fc-barcelona-prestige_169700",

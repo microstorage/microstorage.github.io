@@ -1,4 +1,6 @@
 Gr = [
+"Scarpe Tennis Gel Resolution 7 Clay|Asics Gel Resolution 7 Clay è la scarpa da tennis campionessa in|2017/12/scarpe-tennis-gel-resolution-7-clay|data.oliviero.it/imgprodotto/scarpe-tennis-gel-resolution-7-clay-e702y-0749_164142",
+"Scarpe Roshe One|La scarpa Nike Roshe One - Uomo, morbida e traspirante, offre un|2017/12/scarpe-roshe-one|data.oliviero.it/imgprodotto/scarpe-roshe-one_167857",
 "Scarpe Weels Uomo Grigio Scuro|Collezione Autunno Inverno/2018 Sneakers da uomo Tomaia in pelle|2017/12/scarpe-weels-uomo-grigio-scuro|data.oliviero.it/imgprodotto/scarpe-weels-uomo-grigio-scuro_167147",
 "Scarpe Brandled Uomo Dark Coffee|Collezione Autunno Inverno/2018 Stivaletti da uomo Tomaia in pelle|2017/12/scarpe-brandled-uomo-dark-coffee|data.oliviero.it/imgprodotto/scarpe-brandled-uomo-dark-coffee_167195",
 "Scarpe CT AS Rummage Hi|Utilizzo: Calzatura Moda Sport Tomaia: Tessuto traspirante|2017/12/scarpe-ct-as-rummage-hi|data.oliviero.it/imgprodotto/scarpe-ct-as-rummage-hi_94677",
