@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe EQT Support RF|Scarpe stile running anni '90 rivitalizzate con aggiornamenti|2017/12/scarpe-eqt-support-rf|data.oliviero.it/imgprodotto/scarpe-eqt-support-rf_167256",
 "T-Shirt Uomo Grigio Melange|Collezione Primavera Estate Questa T-shirt da uomo è pensata per|2017/12/t-shirt-uomo-grigio-melange|data.oliviero.it/imgprodotto/t-shirt-uomo-grigio-melange-s98738_162965",
 "Scarpe Jr. Gazelle|Queste scarpe per bambini sono una perfetta riproduzione delle|2017/12/scarpe-jr-gazelle|data.oliviero.it/imgprodotto/scarpe-jr-gazelle_165571",
 "Reggiseno Donna Arancio Techfit TF MC Bra|Supporto medio ideale per discipline come elliptical training o hiking|2017/11/reggiseno-donna-arancio-techfit-tf-mc-bra|data.oliviero.it/imgprodotto/reggiseno-donna-arancio-techfit-tf-mc-bra-bk3776_159438",

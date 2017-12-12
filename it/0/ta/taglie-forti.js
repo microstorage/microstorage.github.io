@@ -1,4 +1,5 @@
 Gr = [
+"Accappatoio taglie forti blu scuro OKEY|Accappatoio uomo ideato per taglie forti. Modello classico im pura|2017/12/accappatoio-taglie-forti-blu-scuro-okey|data.oliviero.it/imgprodotto/accappatoio-taglie-forti-blu-scuro-okey_23948_big",
 "T-Shirt Uomo Taglie Forti Bordeaux|T-Shirt uomo taglie forti: maniche lunghe, girocollo e logo al petto, cotone|2017/11/t-shirt-uomo-taglie-forti-bordeaux|data.oliviero.it/imgprodotto/t-shirt-uomo-taglie-forti-bordeaux_167299",
 "T-Shirt Uomo Taglie Forti Sabbia|T-Shirt taglie forti da uomo: girocollo, mezze maniche, stampa frontale|2017/08/t-shirt-uomo-taglie-forti-sabbia|data.oliviero.it/imgprodotto/t-shirt-uomo-taglie-forti-sabbia-25613-90_164790",
 "Accappatoio taglie forti uomo OKEY|Accappatoio modello classico in pura spugna di Cotone con cappuccio|2017/07/accappatoio-taglie-forti-uomo-okey|data.oliviero.it/imgprodotto/accappatoio-taglie-forti-uomo-okey_23939_big",

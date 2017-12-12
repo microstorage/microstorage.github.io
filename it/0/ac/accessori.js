@@ -1,4 +1,5 @@
 Gr = [
+"Brandina Da Campo, Blu|Brandina Da Campo, Blu - 97065 Telaio in alluminio con snodi in|2017/12/brandina-da-campo-blu|data.oliviero.it/imgprodotto/brandina-da-campo-blu-97065_158929",
 "Ruota doppia per addominali AHF047|Ideale per allenare e rafforzare addominali, schiena, spalle|2017/12/ruota-doppia-per-addominali-ahf047|data.oliviero.it/imgprodotto/ruota-doppia-per-addominali-ahf047_151339",
 "Zoccoli professionali antistatici in gomma|Zoccoli professionali unisex anatomici, antiscivolo, idrorepellenti|2017/11/zoccoli-professionali-antistatici-in-gomma|data.oliviero.it/imgprodotto/zoccolo-autoclavabile-112601_94285",
 "Gym Ball 75 cm per stretching, fitness|Gym Ball ideale per lo stretching e il fitness con pompa gonfiaggio inclusa|2017/09/gym-ball-75-cm-per-stretching-fitness|data.oliviero.it/imgprodotto/gym-ball-75-cm_154898",

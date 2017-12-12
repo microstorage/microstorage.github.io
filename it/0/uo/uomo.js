@@ -1,4 +1,6 @@
 Gr = [
+"Scarpe EQT Support RF|Scarpe stile running anni '90 rivitalizzate con aggiornamenti|2017/12/scarpe-eqt-support-rf|data.oliviero.it/imgprodotto/scarpe-eqt-support-rf_167256",
+"Zoccolo Antiscivolo 581 Bianco 90262401|Calzatura ideata per l'uso nel settore professionale medico e cucina|2017/12/zoccolo-antiscivolo-581-bianco-90262401|data.oliviero.it/imgprodotto/zoccolo-antiscivolo-581-bianco-90262401_50987_big",
 "Scarpe Tanjun Uomo Rosso|Comoda, leggera, sportiva, Nike Tanjun è la scarpa ideale per il|2017/12/scarpe-tanjun-uomo-rosso|data.oliviero.it/imgprodotto/scarpe-tanjun-uomo-rosso_167086",
 "T-Shirt Uomo Grigio Melange|Collezione Primavera Estate Questa T-shirt da uomo è pensata per|2017/12/t-shirt-uomo-grigio-melange|data.oliviero.it/imgprodotto/t-shirt-uomo-grigio-melange-s98738_162965",
 "Felpa Uomo Antracite|Collezione Autunno Inverno/2018 La felpa da allenamento con cappuccio|2017/12/felpa-uomo-antracite|data.oliviero.it/imgprodotto/felpa-uomo-antracite_169422",

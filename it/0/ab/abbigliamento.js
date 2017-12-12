@@ -1,4 +1,6 @@
 Gr = [
+"Accappatoio taglie forti blu scuro OKEY|Accappatoio uomo ideato per taglie forti. Modello classico im pura|2017/12/accappatoio-taglie-forti-blu-scuro-okey|data.oliviero.it/imgprodotto/accappatoio-taglie-forti-blu-scuro-okey_23948_big",
+"Gilet Uomo|Colore base : Davanti rigato , dietro in tinta unita Composizione|2017/12/gilet-uomo|data.oliviero.it/imgprodotto/gilet-uomo_83014",
 "T-Shirt Uomo Grigio Melange|Collezione Primavera Estate Questa T-shirt da uomo è pensata per|2017/12/t-shirt-uomo-grigio-melange|data.oliviero.it/imgprodotto/t-shirt-uomo-grigio-melange-s98738_162965",
 "Diario 10 mesi SJ Gang Boy|Seven SJ gang faccine diario agenda 10 mesi non datato, pagine|2017/12/diario-10-mesi-sj-gang-boy|data.oliviero.it/imgprodotto/diario-10-mesi-sj-gang-boy_167512",
 "Grembiule Sommelier|Colore : Sole Composizione : tessuto 100% poliestere|2017/12/grembiule-sommelier|data.oliviero.it/imgprodotto/grembiule-sommelier_24708_big",

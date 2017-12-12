@@ -1,4 +1,5 @@
 Gr = [
+"Brandina Da Campo, Blu|Brandina Da Campo, Blu - 97065 Telaio in alluminio con snodi in|2017/12/brandina-da-campo-blu|data.oliviero.it/imgprodotto/brandina-da-campo-blu-97065_158929",
 "Tenda Igloo Vis a Vis 6 VIP da Campeggio|Tenda da campeggio Sopratetto: polyestere 210T, trattamento U.V|2017/12/tenda-igloo-vis-a-vis-6-vip-da-campeggio|data.oliviero.it/imgprodotto/tenda-igloo-vis-a-vis-6-vip-da-campeggio_149963",
 "Amaca con Asta Tonga Bubblegum|Amaca molto confortevole grazie a cavi particolarmente lunghi|2017/08/amaca-con-asta-tonga-bubblegum|data.oliviero.it/imgprodotto/amaca-con-asta-tonga-bubblegum-l_158739",
 "Sacco a Pelo Campeggio Montagna Easy|Sacco a Pelo Campeggio Montagna con cerniera più semplice e veloce|2017/08/sacco-a-pelo-campeggio-montagna-easy|data.oliviero.it/imgprodotto/sacco-a-pelo-easy-cotton-blue_147539",

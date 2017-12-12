@@ -1,4 +1,7 @@
 Gr = [
+"Tavolo Music Band|È il nuovissimo tavolo musicale 3 in 1 completo di 8 attività|2017/12/tavolo-music-band|data.oliviero.it/imgprodotto/tavolo-music-band_65825",
+"Brandina Da Campo, Blu|Brandina Da Campo, Blu - 97065 Telaio in alluminio con snodi in|2017/12/brandina-da-campo-blu|data.oliviero.it/imgprodotto/brandina-da-campo-blu-97065_158929",
+"Activa Slim Pancera|Pancera dimagrante GLOBUS Activa Slim - AB Pancera dimagrante in|2017/12/activa-slim-pancera|data.oliviero.it/imgprodotto/activa-slim-pancera_71145",
 "Triciclo Charm Plus azzurro|Charm Plus è il triciclo 3 in 1 di Fisher Price comodo e funzionale|2017/12/triciclo-charm-plus-azzurro|data.oliviero.it/imgprodotto/triciclo-charm-plus-azzurro_149884",
 "Roller Macroblade 90|L'ideale connessione tra il piede e il pattino, sin dal primo|2017/12/roller-macroblade-90|data.oliviero.it/imgprodotto/roller-macroblade-90_171914",
 "Home Gym HG60|La stazione multifunzione Tunturi HG60 Home Gym è stata disegnata con|2017/12/home-gym-hg60|data.oliviero.it/imgprodotto/home-gym-hg60_171225",

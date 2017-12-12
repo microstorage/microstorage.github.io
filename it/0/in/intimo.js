@@ -1,4 +1,5 @@
 Gr = [
+"Accappatoio taglie forti blu scuro OKEY|Accappatoio uomo ideato per taglie forti. Modello classico im pura|2017/12/accappatoio-taglie-forti-blu-scuro-okey|data.oliviero.it/imgprodotto/accappatoio-taglie-forti-blu-scuro-okey_23948_big",
 "Reggiseno Donna Arancio Techfit TF MC Bra|Supporto medio ideale per discipline come elliptical training o hiking|2017/11/reggiseno-donna-arancio-techfit-tf-mc-bra|data.oliviero.it/imgprodotto/reggiseno-donna-arancio-techfit-tf-mc-bra-bk3776_159438",
 "Reggiseno sportivo Adidas|Questo reggiseno sportivo garantisce la massima libertà di movimento|2017/10/reggiseno-sportivo-adidas|data.oliviero.it/imgprodotto/reggiseno-techfit-aj2172_146051",
 "Accappatoio taglie forti uomo OKEY|Accappatoio modello classico in pura spugna di Cotone con cappuccio|2017/07/accappatoio-taglie-forti-uomo-okey|data.oliviero.it/imgprodotto/accappatoio-taglie-forti-uomo-okey_23939_big",

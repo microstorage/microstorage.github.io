@@ -1,4 +1,7 @@
 Gr = [
+"Scarpe CT AS Rummage Hi|Utilizzo: Calzatura Moda Sport Tomaia: Tessuto traspirante|2017/12/scarpe-ct-as-rummage-hi|data.oliviero.it/imgprodotto/scarpe-ct-as-rummage-hi_94677",
+"Scarpe EQT Support RF|Scarpe stile running anni '90 rivitalizzate con aggiornamenti|2017/12/scarpe-eqt-support-rf|data.oliviero.it/imgprodotto/scarpe-eqt-support-rf_167256",
+"Zoccolo Antiscivolo 581 Bianco 90262401|Calzatura ideata per l'uso nel settore professionale medico e cucina|2017/12/zoccolo-antiscivolo-581-bianco-90262401|data.oliviero.it/imgprodotto/zoccolo-antiscivolo-581-bianco-90262401_50987_big",
 "Scarpe Tanjun Uomo Rosso|Comoda, leggera, sportiva, Nike Tanjun è la scarpa ideale per il|2017/12/scarpe-tanjun-uomo-rosso|data.oliviero.it/imgprodotto/scarpe-tanjun-uomo-rosso_167086",
 "Scarpe Trekking Authentic LTR GTX|Scarpe Trekking Authentic LTR GTX - 373260 Scarpa leggera in pelle|2017/12/scarpe-trekking-authentic-ltr-gtx|data.oliviero.it/imgprodotto/scarpe-trekking-authentic-ltr-gtx-373260_145350",
 "Scarpe Pro Leather Vulc Distressed Ox|Le Converse Pro Leather sono sneakers dall'aspetto classico sempre in|2017/12/scarpe-pro-leather-vulc-distressed-ox|data.oliviero.it/imgprodotto/scarpe-pro-leather-vulc-distressed-ox_170969",

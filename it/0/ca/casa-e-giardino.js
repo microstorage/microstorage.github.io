@@ -1,4 +1,5 @@
 Gr = [
+"Materasso 120x190 Una Piazza e Mezzo Extra lusso|Materasso 120x190 Una Piazza e Mezzo Extra lusso. Spessore 20cm|2017/12/materasso-120x190-una-piazza-e-mezzo-extra-lusso|data.oliviero.it/imgprodotto/materasso-120x190-una-piazza-e-mezzo-extra-lusso_93519",
 "Scaldotto Italian Style Naturale|Scaldotto Caleffi cm.130x170. Morbido, caldo avvolgente. Si lava|2017/12/scaldotto-italian-style-naturale|data.oliviero.it/imgprodotto/scaldotto-italian-style-naturale_168949",
 "Wok 28 cm Ingenio|Estremamente versatile, i corpi della linea Ingenio possono essere|2017/12/wok-28-cm-ingenio|data.oliviero.it/imgprodotto/wok-28-cm-ingenio_155886",
 "Completo Lenzuola Niki Beige|Completo lenzuola composto da lenzuola da sotto, lenzuolo da sopra|2017/12/completo-lenzuola-niki-beige|data.oliviero.it/imgprodotto/completo-lenzuola-niki-beige_153857",

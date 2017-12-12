@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe CT AS Rummage Hi|Utilizzo: Calzatura Moda Sport Tomaia: Tessuto traspirante|2017/12/scarpe-ct-as-rummage-hi|data.oliviero.it/imgprodotto/scarpe-ct-as-rummage-hi_94677",
 "Scarpe Pro Leather Vulc Distressed Ox|Le Converse Pro Leather sono sneakers dall'aspetto classico sempre in|2017/12/scarpe-pro-leather-vulc-distressed-ox|data.oliviero.it/imgprodotto/scarpe-pro-leather-vulc-distressed-ox_170969",
 "Felpa Uomo Rossa|Collezione Primavera Estate Felpa da uomo con cappuccio e chiusura zip|2017/06/felpa-uomo-rossa|data.oliviero.it/imgprodotto/felpa-uomo-rosso_165064",
 "Scarpe sportive All Star Ox Stars unisex|Calzatura sport unisex Bandiera Americana adatta ad ogni occasione|2017/05/scarpe-sportive-all-star-ox-stars-unisex|data.oliviero.it/imgprodotto/scarpe-all-star-ox-stars_73885",
