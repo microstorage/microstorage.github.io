@@ -1,4 +1,5 @@
 Gr = [
+"Caminetto da muro oxy|Caminetto da muro a bioetanolo OXY struttura esterna in metallo|2017/12/caminetto-da-muro-oxy|data.oliviero.it/imgprodotto/caminetto-da-muro-oxy_78084",
 "Scrivania 41.42.62|MADE IN ITALY Elegante scrivania, ideale per essere collocata in una|2017/12/scrivania-41-42-62|data.oliviero.it/imgprodotto/scrivania-41-42-62_55421",
 "Scaldotto Italian Style Naturale|Scaldotto Caleffi cm.130x170. Morbido, caldo avvolgente. Si lava|2017/12/scaldotto-italian-style-naturale|data.oliviero.it/imgprodotto/scaldotto-italian-style-naturale_168949",
 "Bistecchiera BS25|Bistecchiera con piastre antiaderenti, 30 x 27 cm. Indicatori di|2017/12/bistecchiera-bs25|data.oliviero.it/imgprodotto/bistecchiera-bs25_155552",
