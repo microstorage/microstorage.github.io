@@ -1,4 +1,5 @@
 Gr = [
+"Telo bagno Triangolino Stella|Triangolino spugna di cotone 100% collezione Stella. Dimensione 75|2017/12/telo-bagno-triangolino-stella|data.oliviero.it/imgprodotto/telo-bagno-triangolino-stella_172097",
 "Fascia per gomito|Fascia per gomito pensata per chi soffre di epicondilite, dona|2017/12/fascia-per-gomito|data.oliviero.it/imgprodotto/fascia-per-gomito_171805",
 "Corda Salto AT829|Corda da salto professionale in nylon con treccia in acciaio. Il|2017/12/corda-salto-at829|data.oliviero.it/imgprodotto/corda-salto-at829_169637",
 "Brandina Da Campo, Blu|Brandina Da Campo, Blu - 97065 Telaio in alluminio con snodi in|2017/12/brandina-da-campo-blu|data.oliviero.it/imgprodotto/brandina-da-campo-blu-97065_158929",

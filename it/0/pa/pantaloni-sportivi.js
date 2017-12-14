@@ -1,4 +1,6 @@
 Gr = [
+"Pantaloni Sportivi Essentials Performance Logo|Mostra la tua passione per adidas indossando questi pantaloni|2017/12/pantaloni-sportivi-essentials-performance-logo|data.oliviero.it/imgprodotto/pantaloni-sportivi-essentials-performance-logo-bk7410_159280",
+"Leggings Donna Nero|I tights da running Nike Epic Run - Donna offrono compression fit|2017/12/leggings-donna-nero|data.oliviero.it/imgprodotto/leggings-donna-nero_169504",
 "Pantaloni Sportivi Donna Nero|Pantaloni sportivi da donna, elastico in vita, polsini alle caviglie|2017/11/pantaloni-sportivi-donna-nero|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-nero_169469",
 "Pantaloni Sportivi Donna Nero|Questi pantaloni in spugna sfoggiano un look essenziale e moderno|2017/10/pantaloni-sportivi-donna-nero|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-nero_168115",
 "Leggings Neri Donna|Leggings in misto cotone elasticizzato per un fit confortevole|2017/07/leggings-neri-donna|data.oliviero.it/imgprodotto/leggings-nero-donna-726085-010_162242",

@@ -1,4 +1,8 @@
 Gr = [
+"Libricino del Cagnolino|I personaggi Ridi e Impara più amati insegnano al bambino a contare!|2017/12/libricino-del-cagnolino|data.oliviero.it/imgprodotto/libricino-del-cagnolino-cdk27-ma211_156680",
+"Tummy pad|È un coloratissimo e morbido tappeto, completo di cuscino e|2017/12/tummy-pad|data.oliviero.it/imgprodotto/tummy-pad_71487",
+"Triciclo Charisma verde|Charisma è il triciclo 4 in 1 di Fisher Price comodo e funzionale per|2017/12/triciclo-charisma-verde|data.oliviero.it/imgprodotto/triciclo-charisma-verde_149870",
+"Puzzle Animali da Compagnia|Età 2+ Anni Puzzle in legno. Questo puzzle è ideale affinchè i più|2017/12/puzzle-animali-da-compagnia|data.oliviero.it/imgprodotto/puzzle-animali-da-compagnia-53128_154380",
 "Puzzle Farfalla|Età 2+ Anni Puzzle In Legno Aiuta I Bambini a sviluppare le proprie|2017/12/puzzle-farfalla|data.oliviero.it/imgprodotto/puzzle-farfalla_139662",
 "Tavolo Music Band|È il nuovissimo tavolo musicale 3 in 1 completo di 8 attività|2017/12/tavolo-music-band|data.oliviero.it/imgprodotto/tavolo-music-band_65825",
 "Triciclo Charm Plus azzurro|Charm Plus è il triciclo 3 in 1 di Fisher Price comodo e funzionale|2017/12/triciclo-charm-plus-azzurro|data.oliviero.it/imgprodotto/triciclo-charm-plus-azzurro_149884",

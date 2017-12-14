@@ -1,4 +1,7 @@
 Gr = [
+"Pantaloni Sportivi Essentials Performance Logo|Mostra la tua passione per adidas indossando questi pantaloni|2017/12/pantaloni-sportivi-essentials-performance-logo|data.oliviero.it/imgprodotto/pantaloni-sportivi-essentials-performance-logo-bk7410_159280",
+"Felpa Donna Grigio|Collezione Autunno Inverno/2018 Se ti piace correre al sorgere del|2017/12/felpa-donna-grigio|data.oliviero.it/imgprodotto/felpa-donna-grigio_166886",
+"Calzettoni AC Milan|Rivivi la leggendaria storia dei Rossoneri. Ispirati alla storica|2017/12/calzettoni-ac-milan|data.oliviero.it/imgprodotto/calzettoni-ac-milan_166988",
 "Scarpe EQT Support RF|Scarpe stile running anni '90 rivitalizzate con aggiornamenti|2017/12/scarpe-eqt-support-rf|data.oliviero.it/imgprodotto/scarpe-eqt-support-rf_167256",
 "T-Shirt Uomo Grigio Melange|Collezione Primavera Estate Questa T-shirt da uomo è pensata per|2017/12/t-shirt-uomo-grigio-melange|data.oliviero.it/imgprodotto/t-shirt-uomo-grigio-melange-s98738_162965",
 "Scarpe Jr. Gazelle|Queste scarpe per bambini sono una perfetta riproduzione delle|2017/12/scarpe-jr-gazelle|data.oliviero.it/imgprodotto/scarpe-jr-gazelle_165571",

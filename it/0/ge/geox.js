@@ -1,4 +1,6 @@
 Gr = [
+"Scarpe Uomo Matias ABX Taupe|Collezione Autunno Inverno/2018 Un pò sneakers, un pò stivali. Le|2017/12/scarpe-uomo-matias-abx-taupe|data.oliviero.it/imgprodotto/scarpe-uomo-matias-abx-taupe_168836",
+"Scarpe Donna Taupe Myria|Collezione Primavera Estate Un perfetto mix tra comfort e design|2017/12/scarpe-donna-taupe-myria|data.oliviero.it/imgprodotto/scarpe-donna-taupe-myria-d6268b-c6738_163249",
 "Scarpe Weels Uomo Grigio Scuro|Collezione Autunno Inverno/2018 Sneakers da uomo Tomaia in pelle|2017/12/scarpe-weels-uomo-grigio-scuro|data.oliviero.it/imgprodotto/scarpe-weels-uomo-grigio-scuro_167147",
 "Scarpe Brandled Uomo Dark Coffee|Collezione Autunno Inverno/2018 Stivaletti da uomo Tomaia in pelle|2017/12/scarpe-brandled-uomo-dark-coffee|data.oliviero.it/imgprodotto/scarpe-brandled-uomo-dark-coffee_167195",
 "Sneaker uomo Vinto da Geox|Esclusivo brevetto Geox nella suola perforata per piedi sempre asciutti|2017/11/sneaker-uomo-vinto-da-geox|data.oliviero.it/imgprodotto/scarpe-uomo-vinto_167158",

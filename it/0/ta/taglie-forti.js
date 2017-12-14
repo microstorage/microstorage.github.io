@@ -1,4 +1,8 @@
 Gr = [
+"Felpa Taglie Forti Uomo Blu|Collezione Autunno Inverno/2018 Felpa uomo taglie forti. Il modello|2017/12/felpa-taglie-forti-uomo-blu|data.oliviero.it/imgprodotto/felpa-taglie-forti-uomo-blu_172140",
+"Camicia Uomo Taglie Forti Naturale|Collezione Primavera Estate Camicia da uomo taglie forti. Il modello|2017/12/camicia-uomo-taglie-forti-naturale|data.oliviero.it/imgprodotto/camicia-uomo-taglie-forti-naturale_166390",
+"Pantalone Uomo Taglie Forti Nero Cadmo|Collezione Primavera Estate Pantalone casual uomo taglie forti. Il|2017/12/pantalone-uomo-taglie-forti-nero-cadmo|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-nero-cadmo_162729",
+"Jeans Taglie Forti Uomo Nero|Jeans uomo taglie forti. Il modello presenta allacciatura frontale|2017/12/jeans-taglie-forti-uomo-nero|data.oliviero.it/imgprodotto/jeans-taglie-forti-uomo-nero_170916",
 "Jeans Uomo Taglie Forti Super stone wash|Collezione Primavera Estate Jeans uomo taglie forti con allacciatura|2017/12/jeans-uomo-taglie-forti-super-stone-wash|data.oliviero.it/imgprodotto/jeans-uomo-taglie-forti-super-stone-wash_163503",
 "Jeans Uomo Taglie Forti Blu denim|Collezione Autunno Inverno/2018 Jeans Uomo taglie Forti. Il modello|2017/12/jeans-uomo-taglie-forti-blu-denim|data.oliviero.it/imgprodotto/jeans-uomo-taglie-forti-blu-denim_169237",
 "Jeans Uomo Taglie Forti Agnus|Jeans Uomo Taglie Forti. Il modello presenta allacciatura frontale|2017/12/jeans-uomo-taglie-forti-agnus|data.oliviero.it/imgprodotto/jeans-uomo-taglie-forti-agnus_168558",

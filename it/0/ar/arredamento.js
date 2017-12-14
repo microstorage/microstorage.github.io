@@ -1,4 +1,12 @@
 Gr = [
+"Tavolino da salotto OM 141|Tavolino da salotto in resina laccato bianco, top in MDF laccato|2017/12/tavolino-da-salotto-om-141|data.oliviero.it/imgprodotto/tavolino-da-salotto-om-141_94185",
+"Cameretta Felice|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/12/cameretta-felice|data.oliviero.it/imgprodotto/cameretta-felice-gt4060_160272",
+"Lettino Tommy Naturale|Tutti i Lettini e tutti i componenti delle camerette Pali sono sempre|2017/12/lettino-tommy-naturale|data.oliviero.it/imgprodotto/lettino-tommy-naturale_135882",
+"Stampa FASHION|Stampa \"FASHION - B\" stampa su tela telaio in legno cm H100 x L70 x P3|2017/12/stampa-fashion|data.oliviero.it/imgprodotto/stampa-fashion-b_134130",
+"Cameretta Vasco|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/12/cameretta-vasco|data.oliviero.it/imgprodotto/cameretta-vasco-gt4063_160283",
+"Sgabello Funny Rosso|Sgabello con struttura in acciaio cromato, seduta in nylon|2017/12/sgabello-funny-rosso|data.oliviero.it/imgprodotto/sgabello-funny-rosso_108546",
+"Cestino In Palma Blinky Bianco Panna|Cestino in giunco di palma comprensivo di rivestimento interno|2017/12/cestino-in-palma-blinky-bianco-panna|data.oliviero.it/imgprodotto/cestino-in-palma-blinky-bianco-panna_68542",
+"Sedia Brera|Grazie all'ampiezza della sedia puoi trovare facilmente la posizione|2017/12/sedia-brera|data.oliviero.it/imgprodotto/sedia-brera-om-230-pe_158252",
 "Cesta Porta Enfant georgia|Cesta portabebè con materassino, cuscino e piumetto. Tessuto 100%|2017/12/cesta-porta-enfant-georgia|data.oliviero.it/imgprodotto/cesta-porta-enfant-georgia_147347",
 "Abat Jour Gigi e Lele|Ecco arrivare finalmente la colorata e simpatica linea Gigi e Lele|2017/12/abat-jour-gigi-e-lele|data.oliviero.it/imgprodotto/abat-jour-gigi-e-lele_5603_big",
 "Madia 2 ante scorrevoli 3 cassetti HIJO|Madia 2 ante scorrevoli 3 cassetti HIJO 1 anta laccata grigio opaco|2017/12/madia-2-ante-scorrevoli-3-cassetti-hijo|data.oliviero.it/imgprodotto/madia-2-ante-scorrevoli-3-cassetti-hijo_135015",

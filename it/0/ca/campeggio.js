@@ -1,4 +1,6 @@
 Gr = [
+"Sedia Pensile Belize Kolibri|Prodotta da Amazonas, azienda conosciuta tutto il mondo per l'ottima|2017/12/sedia-pensile-belize-kolibri|data.oliviero.it/imgprodotto/sedia-pensile-belize-kolibri_81405",
+"Sacco a Pelo Tibet|Misura cm: 220 x 75 Esterno: poliestere 170 T Interno: T/C|2017/12/sacco-a-pelo-tibet|data.oliviero.it/imgprodotto/sacco-a-pelo-tibet_150064",
 "Poltrona pensile Baby Hang Mini Zebra|Poltrona sospesa Hang Mini Zebra - piacevole richiamo della|2017/12/poltrona-pensile-baby-hang-mini-zebra|data.oliviero.it/imgprodotto/poltrona-pensile-baby-hang-mini-zebra_83995",
 "Sacco a Pelo Ultralight 1500|Esterno: 100% polyestere 75D 230T diamond ripstop Interno: 100%|2017/12/sacco-a-pelo-ultralight-1500|data.oliviero.it/imgprodotto/sacco-a-pelo-ultralight-1500_87298",
 "Brandina Da Campo, Blu|Brandina Da Campo, Blu - 97065 Telaio in alluminio con snodi in|2017/12/brandina-da-campo-blu|data.oliviero.it/imgprodotto/brandina-da-campo-blu-97065_158929",

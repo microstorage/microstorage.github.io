@@ -1,4 +1,8 @@
 Gr = [
+"Cameretta Felice|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/12/cameretta-felice|data.oliviero.it/imgprodotto/cameretta-felice-gt4060_160272",
+"Lettino Tommy Naturale|Tutti i Lettini e tutti i componenti delle camerette Pali sono sempre|2017/12/lettino-tommy-naturale|data.oliviero.it/imgprodotto/lettino-tommy-naturale_135882",
+"Cameretta Vasco|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/12/cameretta-vasco|data.oliviero.it/imgprodotto/cameretta-vasco-gt4063_160283",
+"Cestino In Palma Blinky Bianco Panna|Cestino in giunco di palma comprensivo di rivestimento interno|2017/12/cestino-in-palma-blinky-bianco-panna|data.oliviero.it/imgprodotto/cestino-in-palma-blinky-bianco-panna_68542",
 "Cesta Porta Enfant georgia|Cesta portabebè con materassino, cuscino e piumetto. Tessuto 100%|2017/12/cesta-porta-enfant-georgia|data.oliviero.it/imgprodotto/cesta-porta-enfant-georgia_147347",
 "Abat Jour Gigi e Lele|Ecco arrivare finalmente la colorata e simpatica linea Gigi e Lele|2017/12/abat-jour-gigi-e-lele|data.oliviero.it/imgprodotto/abat-jour-gigi-e-lele_5603_big",
 "Lettino Cheesecake bianco|Letto collezione Cheesecake in legno laccato con cassetto, ruote|2017/12/lettino-cheesecake-bianco|data.oliviero.it/imgprodotto/lettino-cheesecake-bianco_140306",

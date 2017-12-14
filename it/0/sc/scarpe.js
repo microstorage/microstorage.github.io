@@ -1,4 +1,12 @@
 Gr = [
+"Scarpe Tennis Wmns Court Lite|Scarpa da tennis da donna, ideale per le principianti in cerca di una|2017/12/scarpe-tennis-wmns-court-lite|data.oliviero.it/imgprodotto/scarpe-tennis-wmns-court-lite-845048-041_151381",
+"Sandali Techamphibian 3 W|L'ultima evoluzione della classica scarpa anfibia, con fodera più|2017/12/sandali-techamphibian-3-w|data.oliviero.it/imgprodotto/sandali-techamphibian-3-w-128490_147664",
+"Scarpe Uomo Matias ABX Taupe|Collezione Autunno Inverno/2018 Un pò sneakers, un pò stivali. Le|2017/12/scarpe-uomo-matias-abx-taupe|data.oliviero.it/imgprodotto/scarpe-uomo-matias-abx-taupe_168836",
+"Felpa Donna Grigio|Collezione Autunno Inverno/2018 Se ti piace correre al sorgere del|2017/12/felpa-donna-grigio|data.oliviero.it/imgprodotto/felpa-donna-grigio_166886",
+"Scarpe Donna Nero|Collezione Autunno Inverno/2018 Scarpe da donna Tomaia in pelle|2017/12/scarpe-donna-nero|data.oliviero.it/imgprodotto/scarpe-donna-nero_168783",
+"Scarpe Running Wmns Nike Free 5.0|Ideale per i runner che ancora non conoscono Nike Free, la scarpa da|2017/12/scarpe-running-wmns-nike-free-5-0|data.oliviero.it/imgprodotto/scarpe-running-wmns-nike-free-5-0-724383-002_109544",
+"Scarpe Uomo K Run II|Modello derivante dal mondo running proposto in una versione sportiva|2017/12/scarpe-uomo-k-run-ii|data.oliviero.it/imgprodotto/scarpe-uomo-k-run-ii_167244",
+"Scarpe Donna Taupe Myria|Collezione Primavera Estate Un perfetto mix tra comfort e design|2017/12/scarpe-donna-taupe-myria|data.oliviero.it/imgprodotto/scarpe-donna-taupe-myria-d6268b-c6738_163249",
 "Scarpe Tennis Gel Resolution 7 Clay|Asics Gel Resolution 7 Clay è la scarpa da tennis campionessa in|2017/12/scarpe-tennis-gel-resolution-7-clay|data.oliviero.it/imgprodotto/scarpe-tennis-gel-resolution-7-clay-e702y-0749_164142",
 "Scarpe Roshe One|La scarpa Nike Roshe One - Uomo, morbida e traspirante, offre un|2017/12/scarpe-roshe-one|data.oliviero.it/imgprodotto/scarpe-roshe-one_167857",
 "Sandalo Donna Nero Vernice|Collezione Primavera Estate Sandalo da donna con allacciatura tramite|2017/12/sandalo-donna-nero-vernice|data.oliviero.it/imgprodotto/sandalo-donna-nero-vernice-p717860de-100_164534",

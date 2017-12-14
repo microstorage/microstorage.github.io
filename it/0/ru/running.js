@@ -1,4 +1,6 @@
 Gr = [
+"Felpa Donna Grigio|Collezione Autunno Inverno/2018 Se ti piace correre al sorgere del|2017/12/felpa-donna-grigio|data.oliviero.it/imgprodotto/felpa-donna-grigio_166886",
+"Scarpe Running Wmns Nike Free 5.0|Ideale per i runner che ancora non conoscono Nike Free, la scarpa da|2017/12/scarpe-running-wmns-nike-free-5-0|data.oliviero.it/imgprodotto/scarpe-running-wmns-nike-free-5-0-724383-002_109544",
 "Felpa uomo blu Adidas con cappuccio foderato|Un look moderno quando vai in palestra o esci a divertirti|2017/11/felpa-uomo-blu-adidas-con-cappuccio-foderato|data.oliviero.it/imgprodotto/felpa-uomo-blu_166881",
 "Scarpe Running Uomo Duramo 7|Le scarpe da running Duramo 7 danno slancio con la tomaia in air mesh|2017/09/scarpe-running-uomo-duramo-7|data.oliviero.it/imgprodotto/scarpe-running-duramo-7-m-aq6497_151908",
 "Pantaloncini Uomo Obsidian|Pantaloncino sportivo da uomo in morbido cotone, cintura sottile|2017/08/pantaloncini-uomo-obsidian|data.oliviero.it/imgprodotto/pantaloncini-uomo-obsidian-804419-452_161824",

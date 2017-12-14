@@ -1,4 +1,5 @@
 Gr = [
+"Tavolo Ping Pong Winner Outdoor|Modello per esterno, perfetto per l'uso hobbistico e ricreativo|2017/12/tavolo-ping-pong-winner-outdoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-winner-outdoor_8322_big",
 "Tavolo Ping Pong Outdoor 10 Verde|OUTDOOR 10 Modello per uso ricreativo per utilizzatori di tutte le|2017/12/tavolo-ping-pong-outdoor-10-verde|data.oliviero.it/imgprodotto/tavolo-ping-pong-outdoor-10-verde_111276",
 "Tavolo Ping Pong Axos Outdoor 3|Piano gioco per esterno in ALU-TEC+ multistrati spessore mm. 22|2017/11/tavolo-ping-pong-axos-outdoor-3|data.oliviero.it/imgprodotto/tavolo-ping-pong-axos-outdoor-3_147326",
 "Tavolo Ping Pong 11 Indoor|Tavolo Ping Pong facile da ripiegare, salva spazio|2017/05/tavolo-ping-pong-11-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-11-indoor_59111",

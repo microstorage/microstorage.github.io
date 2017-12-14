@@ -1,4 +1,10 @@
 Gr = [
+"Leggings Donna Nero|I tights da running Nike Epic Run - Donna offrono compression fit|2017/12/leggings-donna-nero|data.oliviero.it/imgprodotto/leggings-donna-nero_169504",
+"Pantaloni donna Nani|Tipologia : Pantaloni donna Tessuto : 100% lana Caratteristiche|2017/12/pantaloni-donna-nani|data.oliviero.it/imgprodotto/pantaloni-donna-nani_73368",
+"Scarpe Donna Nero|Collezione Autunno Inverno/2018 Scarpe da donna Tomaia in pelle|2017/12/scarpe-donna-nero|data.oliviero.it/imgprodotto/scarpe-donna-nero_168783",
+"Felpa Donna Dark Grey Melange|Collezione Autunno Inverno/2018 giacca lunga con zip leggermente|2017/12/felpa-donna-dark-grey-melange|data.oliviero.it/imgprodotto/felpa-donna-dark-grey-melange_170350",
+"Gonna P15105 T1450 01021|Gonna longuette da donna con allacciatura posteriore tramite zip|2017/12/gonna-p15105-t1450-01021|data.oliviero.it/imgprodotto/gonna-p15105-t1450-01021_146775",
+"Scarpe Donna Taupe Myria|Collezione Primavera Estate Un perfetto mix tra comfort e design|2017/12/scarpe-donna-taupe-myria|data.oliviero.it/imgprodotto/scarpe-donna-taupe-myria-d6268b-c6738_163249",
 "Pantaloni donna WPT407 G102|Collezione Primavera Estate Tipologia: Pantalane donna Tessuto: 97%|2017/12/pantaloni-donna-wpt407-g102|data.oliviero.it/imgprodotto/pantaloni-donna-wpt407-g102_73281",
 "Giacche donna Bomber T2S4XB 00001|Giacca modello bomber da donna con allacciatura frontale tramite zip|2017/12/giacche-donna-bomber-t2s4xb-00001|data.oliviero.it/imgprodotto/giacche-donna-bomber-t2s4xb-00001_146406",
 "Sandalo Donna Nero Vernice|Collezione Primavera Estate Sandalo da donna con allacciatura tramite|2017/12/sandalo-donna-nero-vernice|data.oliviero.it/imgprodotto/sandalo-donna-nero-vernice-p717860de-100_164534",

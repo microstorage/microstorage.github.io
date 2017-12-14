@@ -1,4 +1,6 @@
 Gr = [
+"Scarpe da Calcio Jr. Tiempo Legend VI FG|La scarpa da calcio per terreni duri Nike Tiempo Jr Legend VI FG|2017/12/scarpe-da-calcio-jr-tiempo-legend-vi-fg|data.oliviero.it/imgprodotto/scarpe-da-calcio-jr-tiempo-legend-vi-fg-819186-707_160757",
+"Calzettoni AC Milan|Rivivi la leggendaria storia dei Rossoneri. Ispirati alla storica|2017/12/calzettoni-ac-milan|data.oliviero.it/imgprodotto/calzettoni-ac-milan_166988",
 "Pallone Calcio FC Barcelona Prestige|Il pallone da calcio FC Barcelona Prestige offre un tocco eccellente|2017/12/pallone-calcio-fc-barcelona-prestige|data.oliviero.it/imgprodotto/pallone-calcio-fc-barcelona-prestige_169700",
 "Scarpe Calcetto Tiempo Genio II Leather IC|La scarpa da calcio per partite indoor Nike Tiempo Genio II Leather|2017/12/scarpe-calcetto-tiempo-genio-ii-leather-ic|data.oliviero.it/imgprodotto/scarpe-calcetto-tiempo-genio-ii-leather-ic-819215-010_151197",
 "Scarpe Bambino Allacciatura con strap|Scarpe da bambino con Tomaia in tessuto e Allacciatura con strap|2017/08/scarpe-bambino-allacciatura-con-strap|data.oliviero.it/imgprodotto/scarpe-bambino-blu-p734200m-200_159033",

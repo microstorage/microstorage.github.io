@@ -1,4 +1,9 @@
 Gr = [
+"Ellittica JK Performa 415|Ellittica JK Performa 415 Sistema frenante ELETTROMAGNETICO|2017/12/ellittica-jk-performa-415|data.oliviero.it/imgprodotto/ellittica-jk-performa-415_148511",
+"Cyclette Ergometer AM-5i|AM-5i è un ergometro dal design esclusivo e moderno, ideato|2017/12/cyclette-ergometer-am-5i|data.oliviero.it/imgprodotto/cyclette-ergometer-am-5i_68615",
+"Kit Dumbell Set 15 Kg|Kit Portatile comprendente: 2 manubri a vite da 2,5kg 4 dischi da|2017/12/kit-dumbell-set-15-kg|data.oliviero.it/imgprodotto/kit-dumbell-set-15-kg_14259_big",
+"Elastico Tubolare Giallo|L'elastico tubolare è l'ideale per l'esercizio fisico. Facile da|2017/12/elastico-tubolare-giallo|data.oliviero.it/imgprodotto/elastico-tubolare-giallo_52228",
+"Elettrostimolatore Activa 700|Globus è un'azienda italiana leader nel settore|2017/12/elettrostimolatore-activa-700|data.oliviero.it/imgprodotto/elettrostimolatore-activa-700_73144",
 "Cyclette EB2100i|Con la exercise bike EB-2100i DKN trasforma il design industriale|2017/12/cyclette-eb2100i|data.oliviero.it/imgprodotto/cyclette-eb2100i_154180",
 "Fascia per gomito|Fascia per gomito pensata per chi soffre di epicondilite, dona|2017/12/fascia-per-gomito|data.oliviero.it/imgprodotto/fascia-per-gomito_171805",
 "Panca Multifunzione Fitmaster|La stazione multifunzione Kettler Fitmaster 300 è una stazione|2017/12/panca-multifunzione-fitmaster|data.oliviero.it/imgprodotto/panca-multifunzione-fitmaster_140051",

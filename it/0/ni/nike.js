@@ -1,4 +1,9 @@
 Gr = [
+"Scarpe Tennis Wmns Court Lite|Scarpa da tennis da donna, ideale per le principianti in cerca di una|2017/12/scarpe-tennis-wmns-court-lite|data.oliviero.it/imgprodotto/scarpe-tennis-wmns-court-lite-845048-041_151381",
+"Leggings Donna Nero|I tights da running Nike Epic Run - Donna offrono compression fit|2017/12/leggings-donna-nero|data.oliviero.it/imgprodotto/leggings-donna-nero_169504",
+"T-Shirt Uomo Jordan Dry Grigio|La t-shirt da allenamento Jordan Dry \"Beat The Best\" - Uomo|2017/12/t-shirt-uomo-jordan-dry-grigio|data.oliviero.it/imgprodotto/t-shirt-uomo-jordan-dry-grigio_167896",
+"Scarpe da Calcio Jr. Tiempo Legend VI FG|La scarpa da calcio per terreni duri Nike Tiempo Jr Legend VI FG|2017/12/scarpe-da-calcio-jr-tiempo-legend-vi-fg|data.oliviero.it/imgprodotto/scarpe-da-calcio-jr-tiempo-legend-vi-fg-819186-707_160757",
+"Scarpe Running Wmns Nike Free 5.0|Ideale per i runner che ancora non conoscono Nike Free, la scarpa da|2017/12/scarpe-running-wmns-nike-free-5-0|data.oliviero.it/imgprodotto/scarpe-running-wmns-nike-free-5-0-724383-002_109544",
 "Scarpe Roshe One|La scarpa Nike Roshe One - Uomo, morbida e traspirante, offre un|2017/12/scarpe-roshe-one|data.oliviero.it/imgprodotto/scarpe-roshe-one_167857",
 "Pallone Calcio FC Barcelona Prestige|Il pallone da calcio FC Barcelona Prestige offre un tocco eccellente|2017/12/pallone-calcio-fc-barcelona-prestige|data.oliviero.it/imgprodotto/pallone-calcio-fc-barcelona-prestige_169700",
 "Scarpe Tanjun Uomo Rosso|Comoda, leggera, sportiva, Nike Tanjun è la scarpa ideale per il|2017/12/scarpe-tanjun-uomo-rosso|data.oliviero.it/imgprodotto/scarpe-tanjun-uomo-rosso_167086",

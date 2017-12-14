@@ -1,4 +1,9 @@
 Gr = [
+"Pantaloni Sportivi Essentials Performance Logo|Mostra la tua passione per adidas indossando questi pantaloni|2017/12/pantaloni-sportivi-essentials-performance-logo|data.oliviero.it/imgprodotto/pantaloni-sportivi-essentials-performance-logo-bk7410_159280",
+"T-Shirt Uomo Jordan Dry Grigio|La t-shirt da allenamento Jordan Dry \"Beat The Best\" - Uomo|2017/12/t-shirt-uomo-jordan-dry-grigio|data.oliviero.it/imgprodotto/t-shirt-uomo-jordan-dry-grigio_167896",
+"Scarpe Uomo Matias ABX Taupe|Collezione Autunno Inverno/2018 Un pò sneakers, un pò stivali. Le|2017/12/scarpe-uomo-matias-abx-taupe|data.oliviero.it/imgprodotto/scarpe-uomo-matias-abx-taupe_168836",
+"Felpa Uomo Rosso|Collezione Autunno Inverno/2018 La grafica stampata sul petto di|2017/12/felpa-uomo-rosso|data.oliviero.it/imgprodotto/felpa-uomo-rosso_171031",
+"Scarpe Uomo K Run II|Modello derivante dal mondo running proposto in una versione sportiva|2017/12/scarpe-uomo-k-run-ii|data.oliviero.it/imgprodotto/scarpe-uomo-k-run-ii_167244",
 "T-Shirt Uomo Navy|Collezione Primavera Estate T-Shirt uomo con girocollo e mezza|2017/12/t-shirt-uomo-navy|data.oliviero.it/imgprodotto/t-shirt-uomo-navy_165045",
 "Camicia Uomo Western Blue Stance|Collezione Autunno Inverno/2018 La leggendaria Lee® Western Shirt|2017/12/camicia-uomo-western-blue-stance|data.oliviero.it/imgprodotto/camicia-uomo-western-blue-stance_170884",
 "Scarpe Roshe One|La scarpa Nike Roshe One - Uomo, morbida e traspirante, offre un|2017/12/scarpe-roshe-one|data.oliviero.it/imgprodotto/scarpe-roshe-one_167857",

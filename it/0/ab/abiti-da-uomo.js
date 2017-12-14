@@ -1,4 +1,12 @@
 Gr = [
+"Felpa Taglie Forti Uomo Blu|Collezione Autunno Inverno/2018 Felpa uomo taglie forti. Il modello|2017/12/felpa-taglie-forti-uomo-blu|data.oliviero.it/imgprodotto/felpa-taglie-forti-uomo-blu_172140",
+"Astuccio 3 Zip Colorful Girl|L'ASTUCCIO 3 ZIP Seven School è l'accessorio che non può mancare nel|2017/12/astuccio-3-zip-colorful-girl|data.oliviero.it/imgprodotto/astuccio-3-zip-colorful-girl_166328",
+"Felpa Uomo Rosso|Collezione Autunno Inverno/2018 La grafica stampata sul petto di|2017/12/felpa-uomo-rosso|data.oliviero.it/imgprodotto/felpa-uomo-rosso_171031",
+"Camicia Uomo Taglie Forti Naturale|Collezione Primavera Estate Camicia da uomo taglie forti. Il modello|2017/12/camicia-uomo-taglie-forti-naturale|data.oliviero.it/imgprodotto/camicia-uomo-taglie-forti-naturale_166390",
+"Pantalone Uomo Taglie Forti Nero Cadmo|Collezione Primavera Estate Pantalone casual uomo taglie forti. Il|2017/12/pantalone-uomo-taglie-forti-nero-cadmo|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-nero-cadmo_162729",
+"Astuccio Lip Fantasy|Dimensioni 22x9x5,5 cm Funzionali Portapenne interno. Tasche Taschino|2017/12/astuccio-lip-fantasy|data.oliviero.it/imgprodotto/astuccio-lip-fantasy_167534",
+"Felpa Donna Dark Grey Melange|Collezione Autunno Inverno/2018 giacca lunga con zip leggermente|2017/12/felpa-donna-dark-grey-melange|data.oliviero.it/imgprodotto/felpa-donna-dark-grey-melange_170350",
+"Jeans Taglie Forti Uomo Nero|Jeans uomo taglie forti. Il modello presenta allacciatura frontale|2017/12/jeans-taglie-forti-uomo-nero|data.oliviero.it/imgprodotto/jeans-taglie-forti-uomo-nero_170916",
 "Jeans Uomo Taglie Forti Super stone wash|Collezione Primavera Estate Jeans uomo taglie forti con allacciatura|2017/12/jeans-uomo-taglie-forti-super-stone-wash|data.oliviero.it/imgprodotto/jeans-uomo-taglie-forti-super-stone-wash_163503",
 "Jeans Uomo Taglie Forti Blu denim|Collezione Autunno Inverno/2018 Jeans Uomo taglie Forti. Il modello|2017/12/jeans-uomo-taglie-forti-blu-denim|data.oliviero.it/imgprodotto/jeans-uomo-taglie-forti-blu-denim_169237",
 "Camicia Uomo Western Blue Stance|Collezione Autunno Inverno/2018 La leggendaria Lee® Western Shirt|2017/12/camicia-uomo-western-blue-stance|data.oliviero.it/imgprodotto/camicia-uomo-western-blue-stance_170884",

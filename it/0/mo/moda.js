@@ -1,4 +1,8 @@
 Gr = [
+"Leggings Donna Nero|I tights da running Nike Epic Run - Donna offrono compression fit|2017/12/leggings-donna-nero|data.oliviero.it/imgprodotto/leggings-donna-nero_169504",
+"T-Shirt Uomo Jordan Dry Grigio|La t-shirt da allenamento Jordan Dry \"Beat The Best\" - Uomo|2017/12/t-shirt-uomo-jordan-dry-grigio|data.oliviero.it/imgprodotto/t-shirt-uomo-jordan-dry-grigio_167896",
+"Pantaloni donna Nani|Tipologia : Pantaloni donna Tessuto : 100% lana Caratteristiche|2017/12/pantaloni-donna-nani|data.oliviero.it/imgprodotto/pantaloni-donna-nani_73368",
+"Gonna P15105 T1450 01021|Gonna longuette da donna con allacciatura posteriore tramite zip|2017/12/gonna-p15105-t1450-01021|data.oliviero.it/imgprodotto/gonna-p15105-t1450-01021_146775",
 "T-Shirt Uomo Navy|Collezione Primavera Estate T-Shirt uomo con girocollo e mezza|2017/12/t-shirt-uomo-navy|data.oliviero.it/imgprodotto/t-shirt-uomo-navy_165045",
 "Pantaloni donna WPT407 G102|Collezione Primavera Estate Tipologia: Pantalane donna Tessuto: 97%|2017/12/pantaloni-donna-wpt407-g102|data.oliviero.it/imgprodotto/pantaloni-donna-wpt407-g102_73281",
 "Giacche donna Bomber T2S4XB 00001|Giacca modello bomber da donna con allacciatura frontale tramite zip|2017/12/giacche-donna-bomber-t2s4xb-00001|data.oliviero.it/imgprodotto/giacche-donna-bomber-t2s4xb-00001_146406",

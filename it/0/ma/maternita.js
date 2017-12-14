@@ -1,5 +1,6 @@
 Tt = "Maternità";
 Gr = [
+"Blocca Armadio|Il Blocca Armadio è un pratico dispositivo che blocca l'apertura di|2017/12/blocca-armadio|data.oliviero.it/imgprodotto/blocca-armadio_17455_big",
 "Carrozzina omologata per il trasporto in auto|Chiusura a libro compatta con la seduta in entrambe le posizioni di marcia|2017/11/carrozzina-omologata-per-il-trasporto-in-auto|data.oliviero.it/imgprodotto/trio-fluido-top-687-telaio-nero_158960",
 "Fascia Porta Bebè Carry Sling 450 cm Mystic|Potrà anche servire da sciarpa, amaca, coperta da gioco, parasole, ecc|2017/11/fascia-porta-bebe-carry-sling-450-cm-mystic|data.oliviero.it/imgprodotto/fascia-porta-beb%C3%A8-carry-sling-450-cm-mystic_84009",
 "Luce notturna per bambino con simpatico animaletto|Delicata luce notturna per aiutare il bambino ad addormentarsi tranquillo|2017/09/luce-notturna-per-bambino-con-simpatico-animaletto|data.oliviero.it/imgprodotto/luce-notturna_142996",

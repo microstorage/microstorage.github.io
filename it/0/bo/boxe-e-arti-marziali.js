@@ -1,4 +1,6 @@
 Gr = [
+"Guantoni Boxe Black and White 10 oz|I Guantoni Leone Black&White GN059 sono realizzati in poliuretano di|2017/12/guantoni-boxe-black-and-white-10-oz|data.oliviero.it/imgprodotto/guantoni-boxe-black-and-white-10-oz-gn059_161019",
+"Sacco Super Series 30d + Guanti da Sacco Armalite|SACCO DA BOXE PROFESSIONALE Peso 30kg Altezza 120cm Diametro 30cm|2017/12/sacco-super-series-30d-+-guanti-da-sacco-armalite|data.oliviero.it/imgprodotto/sacco-super-series-30d-guanti-da-sacco-armalite_136260",
 "Corda Salto AT829|Corda da salto professionale in nylon con treccia in acciaio. Il|2017/12/corda-salto-at829|data.oliviero.it/imgprodotto/corda-salto-at829_169637",
 "Short Thai Basic|Shorts da kick/thai boxing in satin lucido con logo ricamato, bordi|2017/12/short-thai-basic|data.oliviero.it/imgprodotto/short-thai-basic_171400",
 "Guanti da Passata Armalite|Guanti da passata Caratteristiche: Pelle esterna SLV3 per durata|2017/12/guanti-da-passata-armalite|data.oliviero.it/imgprodotto/guanti-da-passata-armalite-safm-0108_92995",

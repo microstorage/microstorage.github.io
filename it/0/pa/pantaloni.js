@@ -1,4 +1,6 @@
 Gr = [
+"Pantalone Uomo Taglie Forti Nero Cadmo|Collezione Primavera Estate Pantalone casual uomo taglie forti. Il|2017/12/pantalone-uomo-taglie-forti-nero-cadmo|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-nero-cadmo_162729",
+"Pantaloni donna Nani|Tipologia : Pantaloni donna Tessuto : 100% lana Caratteristiche|2017/12/pantaloni-donna-nani|data.oliviero.it/imgprodotto/pantaloni-donna-nani_73368",
 "Pantaloni donna WPT407 G102|Collezione Primavera Estate Tipologia: Pantalane donna Tessuto: 97%|2017/12/pantaloni-donna-wpt407-g102|data.oliviero.it/imgprodotto/pantaloni-donna-wpt407-g102_73281",
 "Jeans Uomo Taglie Forti Agnus|Jeans Uomo Taglie Forti. Il modello presenta allacciatura frontale|2017/12/jeans-uomo-taglie-forti-agnus|data.oliviero.it/imgprodotto/jeans-uomo-taglie-forti-agnus_168558",
 "Pantaloni donna Casual P2S4SB 00433|Pantalone Casual da donna con stampe floreali. Il modello presenta|2017/12/pantaloni-donna-casual-p2s4sb-00433|data.oliviero.it/imgprodotto/pantaloni-donna-casual-p2s4sb-00433_146928",

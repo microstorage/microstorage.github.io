@@ -1,4 +1,5 @@
 Gr = [
+"Optika 36 cps|Gli ingredienti contenuti in Optika favoriscono il benessere della|2017/12/optika-36-cps|data.oliviero.it/imgprodotto/optika-36-cps_108724",
 "Panca Palestra WB50|Regolazione altezza supporti su 7 posizioni|2017/11/panca-palestra-wb50|data.oliviero.it/imgprodotto/panca-wb50_171163",
 "Vogatore richiudibile domestico|Vogatore richiudibile pensato per l'utilizzo domestico|2017/10/vogatore-richiudibile-domestico|data.oliviero.it/imgprodotto/vogatore-jk-5070_371_big",
 "Essiccatore per frutta e Verdura|Essiccazione rapida e sicura con flusso continuo di aria calda|2017/10/essiccatore-per-frutta-e-verdura|data.oliviero.it/imgprodotto/essiccatore-per-frutta-e-verdura-90-506_130752",
