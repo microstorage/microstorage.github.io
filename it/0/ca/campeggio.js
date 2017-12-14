@@ -1,4 +1,6 @@
 Gr = [
+"Tavolo Campus 4 c panche|Tavolo in mdf Caratteristiche tecniche: Materiale: MDF Struttura:|2017/12/tavolo-campus-4-c-panche|data.oliviero.it/imgprodotto/tavolo-campus-4-c-panche_87126",
+"Amaca Barbados Mocca XL|Da anni la nostra comoda amaca Barbados è uno dei nostri articoli più|2017/12/amaca-barbados-mocca-xl|data.oliviero.it/imgprodotto/amaca-barbados-mocca-xl_158713",
 "Sedia Pensile Belize Kolibri|Prodotta da Amazonas, azienda conosciuta tutto il mondo per l'ottima|2017/12/sedia-pensile-belize-kolibri|data.oliviero.it/imgprodotto/sedia-pensile-belize-kolibri_81405",
 "Sacco a Pelo Tibet|Misura cm: 220 x 75 Esterno: poliestere 170 T Interno: T/C|2017/12/sacco-a-pelo-tibet|data.oliviero.it/imgprodotto/sacco-a-pelo-tibet_150064",
 "Poltrona pensile Baby Hang Mini Zebra|Poltrona sospesa Hang Mini Zebra - piacevole richiamo della|2017/12/poltrona-pensile-baby-hang-mini-zebra|data.oliviero.it/imgprodotto/poltrona-pensile-baby-hang-mini-zebra_83995",

@@ -1,4 +1,8 @@
 Gr = [
+"Pantaloni Slim Fit Uomo Navy|Collezione Autunno Inverno/2018 Pantaloni navy con patta con bottoni|2017/12/pantaloni-slim-fit-uomo-navy|data.oliviero.it/imgprodotto/pantaloni-slim-fit-uomo-navy_169184",
+"Pantalone Uomo Taglie Forti Bianco e Grigio|Collezione Priamavera Estate Pantalone casual uomo taglie forti. Il|2017/12/pantalone-uomo-taglie-forti-bianco-e-grigio|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-bianco-e-grigio_163462",
+"Pantaloni donna 210108|Collezione Primavera/estate Tipologia: Pantalone da donna Tessuto:|2017/12/pantaloni-donna-210108|data.oliviero.it/imgprodotto/pantaloni-donna-210108_13475_big",
+"Salopette da Sci Uomo Imbottita|Collezione Autunno Inverno/2018 Design giovane per il pantalone sci|2017/12/salopette-da-sci-uomo-imbottita|data.oliviero.it/imgprodotto/salopette-da-sci-uomo-imbottita_170474",
 "Pantalone Uomo Taglie Forti Nero Cadmo|Collezione Primavera Estate Pantalone casual uomo taglie forti. Il|2017/12/pantalone-uomo-taglie-forti-nero-cadmo|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-nero-cadmo_162729",
 "Pantaloni donna Nani|Tipologia : Pantaloni donna Tessuto : 100% lana Caratteristiche|2017/12/pantaloni-donna-nani|data.oliviero.it/imgprodotto/pantaloni-donna-nani_73368",
 "Pantaloni donna WPT407 G102|Collezione Primavera Estate Tipologia: Pantalane donna Tessuto: 97%|2017/12/pantaloni-donna-wpt407-g102|data.oliviero.it/imgprodotto/pantaloni-donna-wpt407-g102_73281",

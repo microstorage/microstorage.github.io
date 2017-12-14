@@ -1,4 +1,6 @@
 Gr = [
+"Flat Bench FB20|Caratteristiche PANCA ADDOMINALE NO APPOGGI PER GAMBE NO REGOLAZIONE|2017/12/flat-bench-fb20|data.oliviero.it/imgprodotto/flat-bench-fb20_171281",
+"Ellittica Vito M Fun|La Vito M Fun è dotata di un volano dal peso di 14 Kg, che permetterà|2017/12/ellittica-vito-m-fun|data.oliviero.it/imgprodotto/ellittica-vito-m-fun-7658-100_162632",
 "Ellittica JK Performa 415|Ellittica JK Performa 415 Sistema frenante ELETTROMAGNETICO|2017/12/ellittica-jk-performa-415|data.oliviero.it/imgprodotto/ellittica-jk-performa-415_148511",
 "Panca Multifunzione Fitmaster|La stazione multifunzione Kettler Fitmaster 300 è una stazione|2017/12/panca-multifunzione-fitmaster|data.oliviero.it/imgprodotto/panca-multifunzione-fitmaster_140051",
 "Panca Multifunzione Multigym|Il Kettler Powercenter Multigym per un approccio a costi ridotti|2017/12/panca-multifunzione-multigym|data.oliviero.it/imgprodotto/panca-multifunzione-multigym_165866",

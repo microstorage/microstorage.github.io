@@ -1,4 +1,12 @@
 Gr = [
+"Giubbino Uomo Taglie Forti Militare|Collezione Autunno Inverno/2018 Piumino uomo taglie forti. Il modello|2017/12/giubbino-uomo-taglie-forti-militare|data.oliviero.it/imgprodotto/giubbino-uomo-taglie-forti-militare_170320",
+"Pantalone Uomo Taglie Forti Bianco e Grigio|Collezione Priamavera Estate Pantalone casual uomo taglie forti. Il|2017/12/pantalone-uomo-taglie-forti-bianco-e-grigio|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-bianco-e-grigio_163462",
+"Bermuda uomo Taglie Forti Tortora Billi|Collezione Primavera Estate Bermuda uomo taglie forti. Il modello|2017/12/bermuda-uomo-taglie-forti-tortora-billi|data.oliviero.it/imgprodotto/bermuda-uomo-taglie-forti-tortora-billi_164851",
+"T-Shirt Uomo Taglie Forti Navy|Collezione Autunno Inverno/2018 T-shirt uomo taglie forti con|2017/12/t-shirt-uomo-taglie-forti-navy|data.oliviero.it/imgprodotto/t-shirt-uomo-taglie-forti-navy_167819",
+"Giubbino Uomo Taglie Forti Antracite|Collezione Autunno Inverno/2018 Giubbotto da uomo taglie forti. Il|2017/12/giubbino-uomo-taglie-forti-antracite|data.oliviero.it/imgprodotto/giubbino-uomo-taglie-forti-antracite_169326",
+"Camicia Uomo Taglie Forti a Righe|Collezione Primavera Estate Camicia uomo taglie forti. Il modello|2017/12/camicia-uomo-taglie-forti-a-righe|data.oliviero.it/imgprodotto/camicia-uomo-taglie-forti-a-righe_164498",
+"Felpa Uomo Taglie Forti Verde|Collezione Autunno Inverno/2018 Felpa da uomo taglie forti. Il|2017/12/felpa-uomo-taglie-forti-verde|data.oliviero.it/imgprodotto/felpa-uomo-taglie-forti-verde_167951",
+"T-shirt taglie forti uomo|T-Shirt corpo uomo realizzata in puro Cotone, girocollo, maniche|2017/12/t-shirt-taglie-forti-uomo|data.oliviero.it/imgprodotto/t-shirt-taglie-forti-uomo-501_57859",
 "Felpa Taglie Forti Uomo Blu|Collezione Autunno Inverno/2018 Felpa uomo taglie forti. Il modello|2017/12/felpa-taglie-forti-uomo-blu|data.oliviero.it/imgprodotto/felpa-taglie-forti-uomo-blu_172140",
 "Camicia Uomo Taglie Forti Naturale|Collezione Primavera Estate Camicia da uomo taglie forti. Il modello|2017/12/camicia-uomo-taglie-forti-naturale|data.oliviero.it/imgprodotto/camicia-uomo-taglie-forti-naturale_166390",
 "Pantalone Uomo Taglie Forti Nero Cadmo|Collezione Primavera Estate Pantalone casual uomo taglie forti. Il|2017/12/pantalone-uomo-taglie-forti-nero-cadmo|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-nero-cadmo_162729",

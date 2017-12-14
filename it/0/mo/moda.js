@@ -1,4 +1,9 @@
 Gr = [
+"Parka Uomo Blue Night|Collezione Autunno Inverno/2018 Il classico parka Canadiens, qui in|2017/12/parka-uomo-blue-night|data.oliviero.it/imgprodotto/parka-uomo-blue-night_171487",
+"Pantaloni Slim Fit Uomo Navy|Collezione Autunno Inverno/2018 Pantaloni navy con patta con bottoni|2017/12/pantaloni-slim-fit-uomo-navy|data.oliviero.it/imgprodotto/pantaloni-slim-fit-uomo-navy_169184",
+"Slip LS4M77 00465|Collezione Lingerie Slip da donna con particolari in pizzo, tessuto|2017/12/slip-ls4m77-00465|data.oliviero.it/imgprodotto/slip-ls4m77-00465_146970",
+"Pantaloni donna 210108|Collezione Primavera/estate Tipologia: Pantalone da donna Tessuto:|2017/12/pantaloni-donna-210108|data.oliviero.it/imgprodotto/pantaloni-donna-210108_13475_big",
+"Parka Donna Nero|Collezione Autunno Inverno/2018 Parka in tessuto cotone|2017/12/parka-donna-nero|data.oliviero.it/imgprodotto/parka-donna-nero_171498",
 "Leggings Donna Nero|I tights da running Nike Epic Run - Donna offrono compression fit|2017/12/leggings-donna-nero|data.oliviero.it/imgprodotto/leggings-donna-nero_169504",
 "T-Shirt Uomo Jordan Dry Grigio|La t-shirt da allenamento Jordan Dry \"Beat The Best\" - Uomo|2017/12/t-shirt-uomo-jordan-dry-grigio|data.oliviero.it/imgprodotto/t-shirt-uomo-jordan-dry-grigio_167896",
 "Pantaloni donna Nani|Tipologia : Pantaloni donna Tessuto : 100% lana Caratteristiche|2017/12/pantaloni-donna-nani|data.oliviero.it/imgprodotto/pantaloni-donna-nani_73368",

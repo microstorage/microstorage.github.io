@@ -1,4 +1,9 @@
 Gr = [
+"Set Città Legno con Mappa|La mia città - Playset per inventare tante storie dando vita ad un|2017/12/set-citta-legno-con-mappa|data.oliviero.it/imgprodotto/set-citta-legno-con-mappa-36890_156079",
+"Pista panoramica wild racing|La pista wild track in scala 1:64 con alimentazione elettrica con|2017/12/pista-panoramica-wild-racing|data.oliviero.it/imgprodotto/pista-panoramica-wild-racing_163928",
+"Leo il Re della Giungla|Età 2+ Anni Divertente gioco di logica e di associazione di coppie di|2017/12/leo-il-re-della-giungla|data.oliviero.it/imgprodotto/leo-il-re-della-giungla_139627",
+"Pallina Cucù|Pallina cucù, giocare da seduti o gattonare dietro alla palla in|2017/12/pallina-cucu|data.oliviero.it/imgprodotto/pallina-cuc%C3%B9_68522",
+"Libro Pappamolla|Non è colpa di Simone se il razzo che ha costruito cade per terra!!!|2017/12/libro-pappamolla|data.oliviero.it/imgprodotto/libro-pappamolla_156408",
 "Libricino del Cagnolino|I personaggi Ridi e Impara più amati insegnano al bambino a contare!|2017/12/libricino-del-cagnolino|data.oliviero.it/imgprodotto/libricino-del-cagnolino-cdk27-ma211_156680",
 "Tummy pad|È un coloratissimo e morbido tappeto, completo di cuscino e|2017/12/tummy-pad|data.oliviero.it/imgprodotto/tummy-pad_71487",
 "Triciclo Charisma verde|Charisma è il triciclo 4 in 1 di Fisher Price comodo e funzionale per|2017/12/triciclo-charisma-verde|data.oliviero.it/imgprodotto/triciclo-charisma-verde_149870",

@@ -1,4 +1,8 @@
 Gr = [
+"Sci Famous 2 W + Xpress W 10|Per le principianti, il nuovo modello femminile da pista di Rossignol|2017/12/sci-famous-2-w-+-xpress-w-10|data.oliviero.it/imgprodotto/sci-famous-2-w-xpress-w-10_171748",
+"Maschera Sci Nyira Free Fighter 7.6|Frame extra-wide in poliuretano termoplastico per garantire il|2017/12/maschera-sci-nyira-free-fighter-7-6|data.oliviero.it/imgprodotto/maschera-sci-nyira-free-fighter-7-6_171745",
+"Salopette da Sci Uomo Imbottita|Collezione Autunno Inverno/2018 Design giovane per il pantalone sci|2017/12/salopette-da-sci-uomo-imbottita|data.oliviero.it/imgprodotto/salopette-da-sci-uomo-imbottita_170474",
+"Scarpone Sci RS120|Scarponi sci Lange Rs 120 per sciatori esperti l nuovo scarpone da|2017/12/scarpone-sci-rs120|data.oliviero.it/imgprodotto/scarpone-sci-rs120_171749",
 "Maschera Sci Compact FM|100% protezione raggi UVA, UVB, UVC OBIETTIVO: Variomatic|2017/12/maschera-sci-compact-fm|data.oliviero.it/imgprodotto/maschera-sci-compact-fm_171339",
 "Maschera Sci Comanche TO|Uvex Comanche utilizza la tecnologia delle lenti uvex. Se le|2017/12/maschera-sci-comanche-to|data.oliviero.it/imgprodotto/maschera-sci-comanche-to-s5512094126_171356",
 "Casco Sci Donna da Head|Cloe è il casco più leggero di Head, con shell in policarbonato|2017/11/casco-sci-donna-da-head|data.oliviero.it/imgprodotto/casco-sci-cloe-325613_92266",

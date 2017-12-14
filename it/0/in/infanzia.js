@@ -1,4 +1,11 @@
 Gr = [
+"Bastoncini ovattati 64 pz|I bastoncini ovattati sono morbidi e flessibili. Estremità 100% puro|2017/12/bastoncini-ovattati-64-pz|data.oliviero.it/imgprodotto/bastoncini-ovattati-64-pz_139133",
+"Trio Combi Family Dolcecuore 2018|Trio composto da passeggino, carrozzina e seggiolino auto CARROZZINA|2017/12/trio-combi-family-dolcecuore-2018|data.oliviero.it/imgprodotto/trio-combi-family-dolcecuore-2018-845020-t647_171584",
+"Sdraietta Hooplà Stone|Realizzata con una seduta ampia e imbottita offrendo massimo comfort|2017/12/sdraietta-hoopla-stone|data.oliviero.it/imgprodotto/sdraietta-hoopl%C3%A0-stone-00079840850000_155416",
+"Trio ghibli prestige bianco|Ghibli è il trio che segue la crescita del bambino dai 0 ai 15 kg. Il|2017/12/trio-ghibli-prestige-bianco|data.oliviero.it/imgprodotto/trio-ghibli-prestige-bianco_88648",
+"Trio dinamico up top 686 telaio bianco|CARROZZINA: omologata per il trasporto in auto (0-10 kg), molto|2017/12/trio-dinamico-up-top-686-telaio-bianco|data.oliviero.it/imgprodotto/trio-dinamico-up-top-686-telaio-bianco_158951",
+"Bagnetto Fasciatoio Stella Bianco|Mobiletto fasciatoio legno bianco con applicativo completo di|2017/12/bagnetto-fasciatoio-stella-bianco|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-stella-bianco_171815",
+"Piumetto letto Cheesecake|CheeseCake è una innovazione lanciata da Picci. La collezione|2017/12/piumetto-letto-cheesecake|data.oliviero.it/imgprodotto/piumetto-letto-cheesecake_140292",
 "Sacca portaenfant per passeggino|Calda sacca invernale portaenfant marchio Britax-romer. Tessuto|2017/12/sacca-portaenfant-per-passeggino|data.oliviero.it/imgprodotto/sacca-portaenfant-per-passeggino_145157",
 "Telo bagno Triangolino Stella|Triangolino spugna di cotone 100% collezione Stella. Dimensione 75|2017/12/telo-bagno-triangolino-stella|data.oliviero.it/imgprodotto/telo-bagno-triangolino-stella_172097",
 "Sacco Ovetto-Carrozzina Mucky Viola|Sacco Ovetto Mucky PICCI. Sacco imbottito studiato per i climi più|2017/12/sacco-ovetto-carrozzina-mucky-viola|data.oliviero.it/imgprodotto/sacco-ovetto-carrozzina-mucky-viola_170107",

@@ -1,4 +1,11 @@
 Gr = [
+"Sandalo Donna Champagne Abbie|Collezione Primavera Estate Un sandalo donna che si adatta a tutte le|2017/12/sandalo-donna-champagne-abbie|data.oliviero.it/imgprodotto/sandalo-donna-champagne-abbie-d72p6a-ch6b5_163234",
+"Sandalo Donna Laminato|Collezione Primavera Estate Sandalo da donna con zip posteriore|2017/12/sandalo-donna-laminato|data.oliviero.it/imgprodotto/sandalo-donna-laminato-p717372de-434_162137",
+"Slip LS4M77 00465|Collezione Lingerie Slip da donna con particolari in pizzo, tessuto|2017/12/slip-ls4m77-00465|data.oliviero.it/imgprodotto/slip-ls4m77-00465_146970",
+"Pantaloni donna 210108|Collezione Primavera/estate Tipologia: Pantalone da donna Tessuto:|2017/12/pantaloni-donna-210108|data.oliviero.it/imgprodotto/pantaloni-donna-210108_13475_big",
+"Parka Donna Nero|Collezione Autunno Inverno/2018 Parka in tessuto cotone|2017/12/parka-donna-nero|data.oliviero.it/imgprodotto/parka-donna-nero_171498",
+"Scarpe Air Force 1 Mid|La lunga tradizione del basket si arricchisce con la scarpa Nike Air|2017/12/scarpe-air-force-1-mid|data.oliviero.it/imgprodotto/scarpe-air-force-1-mid_167850",
+"Scarpe Ct As Hi|Sneakers alte da donna Tomaia in tessuto Occhielli in metallo Suola|2017/12/scarpe-ct-as-hi|data.oliviero.it/imgprodotto/scarpe-ct-as-hi-156769_162696",
 "Leggings Donna Nero|I tights da running Nike Epic Run - Donna offrono compression fit|2017/12/leggings-donna-nero|data.oliviero.it/imgprodotto/leggings-donna-nero_169504",
 "Pantaloni donna Nani|Tipologia : Pantaloni donna Tessuto : 100% lana Caratteristiche|2017/12/pantaloni-donna-nani|data.oliviero.it/imgprodotto/pantaloni-donna-nani_73368",
 "Scarpe Donna Nero|Collezione Autunno Inverno/2018 Scarpe da donna Tomaia in pelle|2017/12/scarpe-donna-nero|data.oliviero.it/imgprodotto/scarpe-donna-nero_168783",

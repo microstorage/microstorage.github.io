@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloncini Basket 23 cm|Gli shorts da basket 23 cm Nike KD Elite - Uomo sono realizzati in|2017/12/pantaloncini-basket-23-cm|data.oliviero.it/imgprodotto/pantaloncini-basket-23-cm_167753",
 "Scarpe Basket Ua Curry 2.5|Scarpe Basket con tomaia modellata per una calzata leggera e precisa|2017/11/scarpe-basket-ua-curry-2-5|data.oliviero.it/imgprodotto/scarpe-basket-ua-curry-2-5-1274425-105_151972",
 "Scarpe Basket Ua Curry 3|Migliorano la velocità iniziale e i cambi di direzione|2017/05/scarpe-basket-ua-curry-3|data.oliviero.it/imgprodotto/scarpe-basket-ua-curry-3-1269279-007_160533",
 "Piantana Basket USA trasportabile|1 Piantana Basket USA trasportabile e regolabile|2017/05/piantana-basket-usa-trasportabile|data.oliviero.it/imgprodotto/1-piantana-basket-usa-70-320-0016_157445",

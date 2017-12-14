@@ -1,4 +1,6 @@
 Gr = [
+"Bagnetto Fasciatoio Stella Bianco|Mobiletto fasciatoio legno bianco con applicativo completo di|2017/12/bagnetto-fasciatoio-stella-bianco|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-stella-bianco_171815",
+"Piumetto letto Cheesecake|CheeseCake è una innovazione lanciata da Picci. La collezione|2017/12/piumetto-letto-cheesecake|data.oliviero.it/imgprodotto/piumetto-letto-cheesecake_140292",
 "Cameretta Felice|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/12/cameretta-felice|data.oliviero.it/imgprodotto/cameretta-felice-gt4060_160272",
 "Lettino Tommy Naturale|Tutti i Lettini e tutti i componenti delle camerette Pali sono sempre|2017/12/lettino-tommy-naturale|data.oliviero.it/imgprodotto/lettino-tommy-naturale_135882",
 "Cameretta Vasco|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/12/cameretta-vasco|data.oliviero.it/imgprodotto/cameretta-vasco-gt4063_160283",

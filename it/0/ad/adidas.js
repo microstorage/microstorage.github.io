@@ -1,4 +1,7 @@
 Gr = [
+"Pantaloncini Away Replica Juventus|Per la Juventus niente è impossibile. Questi short da calcio sono|2017/12/pantaloncini-away-replica-juventus|data.oliviero.it/imgprodotto/pantaloncini-away-replica-juventus_166975",
+"Felpa Uomo Nero|Una morbida giacca perfetta da indossare sopra l'abbigliamento da|2017/12/felpa-uomo-nero|data.oliviero.it/imgprodotto/felpa-uomo-nero_168033",
+"Scarpe Calcio Predator 18.3 FG|Domina il gioco con la tua creatività. Dimostra che sei il migliore|2017/12/scarpe-calcio-predator-18-3-fg|data.oliviero.it/imgprodotto/scarpe-calcio-predator-18-3-fg_172176",
 "Pantaloni Sportivi Essentials Performance Logo|Mostra la tua passione per adidas indossando questi pantaloni|2017/12/pantaloni-sportivi-essentials-performance-logo|data.oliviero.it/imgprodotto/pantaloni-sportivi-essentials-performance-logo-bk7410_159280",
 "Felpa Donna Grigio|Collezione Autunno Inverno/2018 Se ti piace correre al sorgere del|2017/12/felpa-donna-grigio|data.oliviero.it/imgprodotto/felpa-donna-grigio_166886",
 "Calzettoni AC Milan|Rivivi la leggendaria storia dei Rossoneri. Ispirati alla storica|2017/12/calzettoni-ac-milan|data.oliviero.it/imgprodotto/calzettoni-ac-milan_166988",

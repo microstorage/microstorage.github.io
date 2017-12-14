@@ -1,4 +1,5 @@
 Gr = [
+"Trapunta Spiderman Lights|Tessuto in microfibra di poliestere stampato. SINGOLO 170X270 cm|2017/12/trapunta-spiderman-lights|data.oliviero.it/imgprodotto/trapunta-spiderman-lights_166716",
 "Scaldasonno Rapid|IMETEC SCALDASONNO RAPID 100% LANA E MERINO. I vantaggi della|2017/12/scaldasonno-rapid|data.oliviero.it/imgprodotto/scaldasonno-rapid_154089",
 "Trapunta Modern Anice|Trapunta in tessuto in microfibra di poliestere. SINGOLO 170X270 cm|2017/12/trapunta-modern-anice|data.oliviero.it/imgprodotto/trapunta-modern-anice_166709",
 "Trapunta Frozen Magia|Tessuto in microfibra. Imbottitura in fibra di poliestere|2017/12/trapunta-frozen-magia|data.oliviero.it/imgprodotto/trapunta-frozen-magia_168979",

@@ -1,4 +1,6 @@
 Gr = [
+"Bastoncini ovattati 64 pz|I bastoncini ovattati sono morbidi e flessibili. Estremità 100% puro|2017/12/bastoncini-ovattati-64-pz|data.oliviero.it/imgprodotto/bastoncini-ovattati-64-pz_139133",
+"Sdraietta Hooplà Stone|Realizzata con una seduta ampia e imbottita offrendo massimo comfort|2017/12/sdraietta-hoopla-stone|data.oliviero.it/imgprodotto/sdraietta-hoopl%C3%A0-stone-00079840850000_155416",
 "Tummy pad|È un coloratissimo e morbido tappeto, completo di cuscino e|2017/12/tummy-pad|data.oliviero.it/imgprodotto/tummy-pad_71487",
 "Blocca Armadio|Il Blocca Armadio è un pratico dispositivo che blocca l'apertura di|2017/12/blocca-armadio|data.oliviero.it/imgprodotto/blocca-armadio_17455_big",
 "Sterilnatural 3 in 1|Steril Natural 3 in 1 di Chicco è lo sterilizzatore a vapore modulare|2017/12/sterilnatural-3-in-1|data.oliviero.it/imgprodotto/sterilnatural-3-in-1_139126",

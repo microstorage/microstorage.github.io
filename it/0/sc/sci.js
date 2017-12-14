@@ -1,4 +1,5 @@
 Gr = [
+"Sci Famous 2 W + Xpress W 10|Per le principianti, il nuovo modello femminile da pista di Rossignol|2017/12/sci-famous-2-w-+-xpress-w-10|data.oliviero.it/imgprodotto/sci-famous-2-w-xpress-w-10_171748",
 "Casco Sci Donna da Head|Cloe è il casco più leggero di Head, con shell in policarbonato|2017/11/casco-sci-donna-da-head|data.oliviero.it/imgprodotto/casco-sci-cloe-325613_92266",
 "2 Pantaloni Sci Uomo da avere: gennaio 2017|I 2 Pantaloni Sci da Uomo che amerai dopo una giornata sulle piste|2017/01/2-pantaloni-sci-uomo-da-avere-gennaio-2017|data.oliviero.it/imgprodotto/pantaloni-sci-uomo-nero-0166g-4ko-99_155710",
 "I 4 Pantaloni Sci da Donna consigliati: gennaio 2017|I 4 Pantaloni Sci da Donna più consigliati oggi sul mercato|2017/01/i-4-pantaloni-sci-da-donna-consigliati-gennaio-2017|data.oliviero.it/imgprodotto/pantaloni-sci-donna-bianco-0269g-4ko-01_155736",

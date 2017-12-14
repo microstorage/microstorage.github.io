@@ -1,5 +1,6 @@
 Tt = "T-Shirt";
 Gr = [
+"T-Shirt Uomo Taglie Forti Navy|Collezione Autunno Inverno/2018 T-shirt uomo taglie forti con|2017/12/t-shirt-uomo-taglie-forti-navy|data.oliviero.it/imgprodotto/t-shirt-uomo-taglie-forti-navy_167819",
 "T-Shirt Uomo Jordan Dry Grigio|La t-shirt da allenamento Jordan Dry \"Beat The Best\" - Uomo|2017/12/t-shirt-uomo-jordan-dry-grigio|data.oliviero.it/imgprodotto/t-shirt-uomo-jordan-dry-grigio_167896",
 "T-Shirt Uomo Navy|Collezione Primavera Estate T-Shirt uomo con girocollo e mezza|2017/12/t-shirt-uomo-navy|data.oliviero.it/imgprodotto/t-shirt-uomo-navy_165045",
 "T-Shirt Uomo Grigio Melange|Collezione Primavera Estate Questa T-shirt da uomo è pensata per|2017/12/t-shirt-uomo-grigio-melange|data.oliviero.it/imgprodotto/t-shirt-uomo-grigio-melange-s98738_162965",

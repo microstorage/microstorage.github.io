@@ -1,4 +1,9 @@
 Gr = [
+"Tapis Roulant TRX 100|DATI TECNICI TRX 100 Motore4/7 (Peak) HP AC - Garanzia 5 anni|2017/12/tapis-roulant-trx-100|data.oliviero.it/imgprodotto/tapis-roulant-trx-100_159583",
+"Flat Bench FB20|Caratteristiche PANCA ADDOMINALE NO APPOGGI PER GAMBE NO REGOLAZIONE|2017/12/flat-bench-fb20|data.oliviero.it/imgprodotto/flat-bench-fb20_171281",
+"Ellittica Vito M Fun|La Vito M Fun è dotata di un volano dal peso di 14 Kg, che permetterà|2017/12/ellittica-vito-m-fun|data.oliviero.it/imgprodotto/ellittica-vito-m-fun-7658-100_162632",
+"Scarpe Yourflex Trainette 9.0 MT|Non ti arrendi davanti a niente e nessuno: scegli una scarpa|2017/12/scarpe-yourflex-trainette-9-0-mt|data.oliviero.it/imgprodotto/scarpe-yourflex-trainette-9-0-mt_165678",
+"Tappetino Arrotolabile 180x50|Tappetino per il fitness arrotolabile &bull; Superficie antiscivolo|2017/12/tappetino-arrotolabile-180x50|data.oliviero.it/imgprodotto/tappetino-arrotolabile-180x50_14309_big",
 "Ellittica JK Performa 415|Ellittica JK Performa 415 Sistema frenante ELETTROMAGNETICO|2017/12/ellittica-jk-performa-415|data.oliviero.it/imgprodotto/ellittica-jk-performa-415_148511",
 "Cyclette Ergometer AM-5i|AM-5i è un ergometro dal design esclusivo e moderno, ideato|2017/12/cyclette-ergometer-am-5i|data.oliviero.it/imgprodotto/cyclette-ergometer-am-5i_68615",
 "Kit Dumbell Set 15 Kg|Kit Portatile comprendente: 2 manubri a vite da 2,5kg 4 dischi da|2017/12/kit-dumbell-set-15-kg|data.oliviero.it/imgprodotto/kit-dumbell-set-15-kg_14259_big",

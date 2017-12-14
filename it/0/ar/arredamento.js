@@ -1,4 +1,10 @@
 Gr = [
+"Trio Combi Family Dolcecuore 2018|Trio composto da passeggino, carrozzina e seggiolino auto CARROZZINA|2017/12/trio-combi-family-dolcecuore-2018|data.oliviero.it/imgprodotto/trio-combi-family-dolcecuore-2018-845020-t647_171584",
+"Sdraietta Hooplà Stone|Realizzata con una seduta ampia e imbottita offrendo massimo comfort|2017/12/sdraietta-hoopla-stone|data.oliviero.it/imgprodotto/sdraietta-hoopl%C3%A0-stone-00079840850000_155416",
+"Trio ghibli prestige bianco|Ghibli è il trio che segue la crescita del bambino dai 0 ai 15 kg. Il|2017/12/trio-ghibli-prestige-bianco|data.oliviero.it/imgprodotto/trio-ghibli-prestige-bianco_88648",
+"Trio dinamico up top 686 telaio bianco|CARROZZINA: omologata per il trasporto in auto (0-10 kg), molto|2017/12/trio-dinamico-up-top-686-telaio-bianco|data.oliviero.it/imgprodotto/trio-dinamico-up-top-686-telaio-bianco_158951",
+"Bagnetto Fasciatoio Stella Bianco|Mobiletto fasciatoio legno bianco con applicativo completo di|2017/12/bagnetto-fasciatoio-stella-bianco|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-stella-bianco_171815",
+"Piumetto letto Cheesecake|CheeseCake è una innovazione lanciata da Picci. La collezione|2017/12/piumetto-letto-cheesecake|data.oliviero.it/imgprodotto/piumetto-letto-cheesecake_140292",
 "Tavolino da salotto OM 141|Tavolino da salotto in resina laccato bianco, top in MDF laccato|2017/12/tavolino-da-salotto-om-141|data.oliviero.it/imgprodotto/tavolino-da-salotto-om-141_94185",
 "Cameretta Felice|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/12/cameretta-felice|data.oliviero.it/imgprodotto/cameretta-felice-gt4060_160272",
 "Lettino Tommy Naturale|Tutti i Lettini e tutti i componenti delle camerette Pali sono sempre|2017/12/lettino-tommy-naturale|data.oliviero.it/imgprodotto/lettino-tommy-naturale_135882",

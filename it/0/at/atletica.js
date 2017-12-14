@@ -1,4 +1,9 @@
 Gr = [
+"Scarpe Yourflex Trainette 9.0 MT|Non ti arrendi davanti a niente e nessuno: scegli una scarpa|2017/12/scarpe-yourflex-trainette-9-0-mt|data.oliviero.it/imgprodotto/scarpe-yourflex-trainette-9-0-mt_165678",
+"Scarpe Air Force 1 Mid|La lunga tradizione del basket si arricchisce con la scarpa Nike Air|2017/12/scarpe-air-force-1-mid|data.oliviero.it/imgprodotto/scarpe-air-force-1-mid_167850",
+"Scarpe Wmns Court Royale|Utilizzo: Sneakers donna Tomaia: pelle Battistrada: in gomma|2017/12/scarpe-wmns-court-royale|data.oliviero.it/imgprodotto/scarpe-wmns-court-royale-749867-002_161030",
+"Scarpe Ct As Hi|Sneakers alte da donna Tomaia in tessuto Occhielli in metallo Suola|2017/12/scarpe-ct-as-hi|data.oliviero.it/imgprodotto/scarpe-ct-as-hi-156769_162696",
+"Scarpe Stringate Philippe Marrone|Versace 1969 Abbigliamento Sportivo srl Milano Italia - Scarpa uomo|2017/12/scarpe-stringate-philippe-marrone|data.oliviero.it/imgprodotto/scarpe-stringate-philippe-marrone_101019",
 "Scarpe Tennis Wmns Court Lite|Scarpa da tennis da donna, ideale per le principianti in cerca di una|2017/12/scarpe-tennis-wmns-court-lite|data.oliviero.it/imgprodotto/scarpe-tennis-wmns-court-lite-845048-041_151381",
 "Scarpe Uomo Matias ABX Taupe|Collezione Autunno Inverno/2018 Un pò sneakers, un pò stivali. Le|2017/12/scarpe-uomo-matias-abx-taupe|data.oliviero.it/imgprodotto/scarpe-uomo-matias-abx-taupe_168836",
 "Scarpe Donna Nero|Collezione Autunno Inverno/2018 Scarpe da donna Tomaia in pelle|2017/12/scarpe-donna-nero|data.oliviero.it/imgprodotto/scarpe-donna-nero_168783",

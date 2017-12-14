@@ -1,4 +1,5 @@
 Gr = [
+"Sandalo Donna Champagne Abbie|Collezione Primavera Estate Un sandalo donna che si adatta a tutte le|2017/12/sandalo-donna-champagne-abbie|data.oliviero.it/imgprodotto/sandalo-donna-champagne-abbie-d72p6a-ch6b5_163234",
 "Scarpe Uomo Matias ABX Taupe|Collezione Autunno Inverno/2018 Un pò sneakers, un pò stivali. Le|2017/12/scarpe-uomo-matias-abx-taupe|data.oliviero.it/imgprodotto/scarpe-uomo-matias-abx-taupe_168836",
 "Scarpe Donna Taupe Myria|Collezione Primavera Estate Un perfetto mix tra comfort e design|2017/12/scarpe-donna-taupe-myria|data.oliviero.it/imgprodotto/scarpe-donna-taupe-myria-d6268b-c6738_163249",
 "Scarpe Weels Uomo Grigio Scuro|Collezione Autunno Inverno/2018 Sneakers da uomo Tomaia in pelle|2017/12/scarpe-weels-uomo-grigio-scuro|data.oliviero.it/imgprodotto/scarpe-weels-uomo-grigio-scuro_167147",

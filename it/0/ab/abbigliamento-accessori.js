@@ -1,4 +1,7 @@
 Gr = [
+"Cappello Uomo Nero|Collezione Autunno Inverno/2018 Cappello invernale da uomo in morbido|2017/12/cappello-uomo-nero|data.oliviero.it/imgprodotto/cappello-uomo-nero_170956",
+"Trolley 2 ruote Sound Grigio e Arancio|Trolley Struttura Super Light 2 ruote Lucchetto a combinazione con|2017/12/trolley-2-ruote-sound-grigio-e-arancio|data.oliviero.it/imgprodotto/trolley-2-ruote-sound-grigio-e-arancio_159462",
+"Zaino Small Sj Face|Per il tempo un modello di zaino tondo con 12 lt di capacità|2017/12/zaino-small-sj-face|data.oliviero.it/imgprodotto/zaino-small-sj-face_166106",
 "Borsa Charlotte Viversnake|Collezione Autunno Inverno/2018 Borsa a tracolla sottile di ecopelle|2017/12/borsa-charlotte-viversnake|data.oliviero.it/imgprodotto/borsa-charlotte-viversnake_170821",
 "Borsa Nero Giardini|Collezione Autunno Inverno/2018 Shopping bag donna Nero Giardini|2017/12/borsa-nero-giardini|data.oliviero.it/imgprodotto/borsa-nero-a743516d-100_168740",
 "Marsupio con tasca sul retro per banconote|Un pratico accessorio per riporre in sicurezza le tue cose|2017/11/marsupio-con-tasca-sul-retro-per-banconote|data.oliviero.it/imgprodotto/marsupio-springer-black_166721",

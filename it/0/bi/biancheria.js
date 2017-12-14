@@ -1,4 +1,6 @@
 Gr = [
+"Trapunta Spiderman Lights|Tessuto in microfibra di poliestere stampato. SINGOLO 170X270 cm|2017/12/trapunta-spiderman-lights|data.oliviero.it/imgprodotto/trapunta-spiderman-lights_166716",
+"Completo Lenzuola Flanella Avorio|Completo Lenzuola Flanella Avorio Singolo Lenzuolo superiore 160x280|2017/12/completo-lenzuola-flanella-avorio|data.oliviero.it/imgprodotto/completo-lenzuola-flanella-avorio_169041",
 "Scaldasonno Rapid|IMETEC SCALDASONNO RAPID 100% LANA E MERINO. I vantaggi della|2017/12/scaldasonno-rapid|data.oliviero.it/imgprodotto/scaldasonno-rapid_154089",
 "Lenzuolo sotto Flanella Bianco|Tessuto in flanella di puro cotone. Singolo 90x200 cm Piazza e Mezza|2017/12/lenzuolo-sotto-flanella-bianco|data.oliviero.it/imgprodotto/lenzuolo-sotto-flanella-bianco_169023",
 "Trapunta Modern Anice|Trapunta in tessuto in microfibra di poliestere. SINGOLO 170X270 cm|2017/12/trapunta-modern-anice|data.oliviero.it/imgprodotto/trapunta-modern-anice_166709",

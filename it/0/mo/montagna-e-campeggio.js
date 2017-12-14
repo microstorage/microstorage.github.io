@@ -1,4 +1,9 @@
 Gr = [
+"Pettorina Pied de Poule|Pettorina unisex realizzata in 100% cotone. Modello con laccio in|2017/12/pettorina-pied-de-poule|data.oliviero.it/imgprodotto/pettorina-pied-de-poule_1643_big",
+"Camice odontotecnico corto verde|Colore : Verde Composizione : tessuto 100% cotone Dimensioni : / Peso|2017/12/camice-odontotecnico-corto-verde|data.oliviero.it/imgprodotto/camice-odontotecnico-corto-verde_23009_big",
+"Tavolo Campus 4 c panche|Tavolo in mdf Caratteristiche tecniche: Materiale: MDF Struttura:|2017/12/tavolo-campus-4-c-panche|data.oliviero.it/imgprodotto/tavolo-campus-4-c-panche_87126",
+"Grembiule a vita|Colore base : Base bianca Composizione : 65% Poliestere 35% Cotone|2017/12/grembiule-a-vita|data.oliviero.it/imgprodotto/grembiule-a-vita_83000",
+"Scamiciato donna|Colore base : Nero Composizione : 100% Poliestere Descrizione|2017/12/scamiciato-donna|data.oliviero.it/imgprodotto/scamiciato-donna_82996",
 "Giacca Cuoco Coreana Bianco|100% cotton Bianco con profili colorati|2017/12/giacca-cuoco-coreana-bianco|data.oliviero.it/imgprodotto/giacca-cuoco-coreana-bianco-056022_151019",
 "Giacca Cuoco Alicante|65% poliestere e 35% cotone Mezza manica Nero e rosso|2017/12/giacca-cuoco-alicante|data.oliviero.it/imgprodotto/giacca-cuoco-alicante-056907_150965",
 "Camice odontotecnico lungo bianco 403|Colore : Bianco Composizione : tessuto 100% cotone Dimensioni :|2017/12/camice-odontotecnico-lungo-bianco-403|data.oliviero.it/imgprodotto/camice-odontotecnico-lungo-bianco-403_23010_big",

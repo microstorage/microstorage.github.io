@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Wmns Court Royale|Utilizzo: Sneakers donna Tomaia: pelle Battistrada: in gomma|2017/12/scarpe-wmns-court-royale|data.oliviero.it/imgprodotto/scarpe-wmns-court-royale-749867-002_161030",
 "Scarpe Uomo K Run II|Modello derivante dal mondo running proposto in una versione sportiva|2017/12/scarpe-uomo-k-run-ii|data.oliviero.it/imgprodotto/scarpe-uomo-k-run-ii_167244",
 "Scarpe Donna Taupe Myria|Collezione Primavera Estate Un perfetto mix tra comfort e design|2017/12/scarpe-donna-taupe-myria|data.oliviero.it/imgprodotto/scarpe-donna-taupe-myria-d6268b-c6738_163249",
 "Scarpe Roshe One|La scarpa Nike Roshe One - Uomo, morbida e traspirante, offre un|2017/12/scarpe-roshe-one|data.oliviero.it/imgprodotto/scarpe-roshe-one_167857",

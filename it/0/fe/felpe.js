@@ -1,4 +1,6 @@
 Gr = [
+"Felpa Uomo Nero|Una morbida giacca perfetta da indossare sopra l'abbigliamento da|2017/12/felpa-uomo-nero|data.oliviero.it/imgprodotto/felpa-uomo-nero_168033",
+"Felpa Uomo Taglie Forti Verde|Collezione Autunno Inverno/2018 Felpa da uomo taglie forti. Il|2017/12/felpa-uomo-taglie-forti-verde|data.oliviero.it/imgprodotto/felpa-uomo-taglie-forti-verde_167951",
 "Felpa Taglie Forti Uomo Blu|Collezione Autunno Inverno/2018 Felpa uomo taglie forti. Il modello|2017/12/felpa-taglie-forti-uomo-blu|data.oliviero.it/imgprodotto/felpa-taglie-forti-uomo-blu_172140",
 "Felpa Uomo Rosso|Collezione Autunno Inverno/2018 La grafica stampata sul petto di|2017/12/felpa-uomo-rosso|data.oliviero.it/imgprodotto/felpa-uomo-rosso_171031",
 "Felpa Donna Dark Grey Melange|Collezione Autunno Inverno/2018 giacca lunga con zip leggermente|2017/12/felpa-donna-dark-grey-melange|data.oliviero.it/imgprodotto/felpa-donna-dark-grey-melange_170350",

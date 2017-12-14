@@ -1,4 +1,6 @@
 Gr = [
+"Racchetta Tennis Radical Pro|Head arricchisce anche la Radical con il Graphene! La Radical YT|2017/12/racchetta-tennis-radical-pro|data.oliviero.it/imgprodotto/racchetta-tennis-radical-pro_70274",
+"Zaino Team Line|Lo zaino Babolat Team Line è pratico e comodo, adatto per chi vuole|2017/12/zaino-team-line|data.oliviero.it/imgprodotto/zaino-team-line_167545",
 "Scarpe Tennis Wmns Court Lite|Scarpa da tennis da donna, ideale per le principianti in cerca di una|2017/12/scarpe-tennis-wmns-court-lite|data.oliviero.it/imgprodotto/scarpe-tennis-wmns-court-lite-845048-041_151381",
 "Racchetta Beach Tennis Avio 2.1|Collezione Primavera Estate Dopo il clamoroso successo della prima|2017/12/racchetta-beach-tennis-avio-2-1|data.oliviero.it/imgprodotto/racchetta-beach-tennis-avio-2-1-btt1719_164740",
 "Scarpe Tennis Gel Resolution 7 Clay|Asics Gel Resolution 7 Clay è la scarpa da tennis campionessa in|2017/12/scarpe-tennis-gel-resolution-7-clay|data.oliviero.it/imgprodotto/scarpe-tennis-gel-resolution-7-clay-e702y-0749_164142",

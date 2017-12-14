@@ -1,4 +1,8 @@
 Gr = [
+"Scarpe Running Lunarglide 8|La scarpa da running Nike LunarGlide 8 - Uomo offre un sostegno|2017/12/scarpe-running-lunarglide-8|data.oliviero.it/imgprodotto/scarpe-running-lunarglide-8-843725-800_151190",
+"Pantaloncini Basket 23 cm|Gli shorts da basket 23 cm Nike KD Elite - Uomo sono realizzati in|2017/12/pantaloncini-basket-23-cm|data.oliviero.it/imgprodotto/pantaloncini-basket-23-cm_167753",
+"Scarpe Air Force 1 Mid|La lunga tradizione del basket si arricchisce con la scarpa Nike Air|2017/12/scarpe-air-force-1-mid|data.oliviero.it/imgprodotto/scarpe-air-force-1-mid_167850",
+"Scarpe Wmns Court Royale|Utilizzo: Sneakers donna Tomaia: pelle Battistrada: in gomma|2017/12/scarpe-wmns-court-royale|data.oliviero.it/imgprodotto/scarpe-wmns-court-royale-749867-002_161030",
 "Scarpe Tennis Wmns Court Lite|Scarpa da tennis da donna, ideale per le principianti in cerca di una|2017/12/scarpe-tennis-wmns-court-lite|data.oliviero.it/imgprodotto/scarpe-tennis-wmns-court-lite-845048-041_151381",
 "Leggings Donna Nero|I tights da running Nike Epic Run - Donna offrono compression fit|2017/12/leggings-donna-nero|data.oliviero.it/imgprodotto/leggings-donna-nero_169504",
 "T-Shirt Uomo Jordan Dry Grigio|La t-shirt da allenamento Jordan Dry \"Beat The Best\" - Uomo|2017/12/t-shirt-uomo-jordan-dry-grigio|data.oliviero.it/imgprodotto/t-shirt-uomo-jordan-dry-grigio_167896",

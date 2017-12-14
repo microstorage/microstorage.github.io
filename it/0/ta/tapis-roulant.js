@@ -1,4 +1,5 @@
 Gr = [
+"Tapis Roulant TRX 100|DATI TECNICI TRX 100 Motore4/7 (Peak) HP AC - Garanzia 5 anni|2017/12/tapis-roulant-trx-100|data.oliviero.it/imgprodotto/tapis-roulant-trx-100_159583",
 "Tapis Roulant St 1500|Tapis Roulant con chiave di sicurezza per lo spegnimento di emergenza|2017/10/tapis-roulant-st-1500|data.oliviero.it/imgprodotto/tapis-roulant-st-1500_90737",
 "Scarpe Running Uomo Duramo 7|Le scarpe da running Duramo 7 danno slancio con la tomaia in air mesh|2017/09/scarpe-running-uomo-duramo-7|data.oliviero.it/imgprodotto/scarpe-running-duramo-7-m-aq6497_151908",
 "Tapis Roulant Track 9 con 938 programmi|Tapis Roulant ammortizzato, controllo anche tramite smartphone|2017/08/tapis-roulant-track-9-con-938-programmi|data.oliviero.it/imgprodotto/tapis-roulant-track-9_162684",

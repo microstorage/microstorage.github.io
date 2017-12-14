@@ -1,4 +1,9 @@
 Gr = [
+"Parka Uomo Blue Night|Collezione Autunno Inverno/2018 Il classico parka Canadiens, qui in|2017/12/parka-uomo-blue-night|data.oliviero.it/imgprodotto/parka-uomo-blue-night_171487",
+"Pantaloni Slim Fit Uomo Navy|Collezione Autunno Inverno/2018 Pantaloni navy con patta con bottoni|2017/12/pantaloni-slim-fit-uomo-navy|data.oliviero.it/imgprodotto/pantaloni-slim-fit-uomo-navy_169184",
+"Felpa Uomo Nero|Una morbida giacca perfetta da indossare sopra l'abbigliamento da|2017/12/felpa-uomo-nero|data.oliviero.it/imgprodotto/felpa-uomo-nero_168033",
+"Scarpe Wmns Court Royale|Utilizzo: Sneakers donna Tomaia: pelle Battistrada: in gomma|2017/12/scarpe-wmns-court-royale|data.oliviero.it/imgprodotto/scarpe-wmns-court-royale-749867-002_161030",
+"Scarpe Stringate Philippe Marrone|Versace 1969 Abbigliamento Sportivo srl Milano Italia - Scarpa uomo|2017/12/scarpe-stringate-philippe-marrone|data.oliviero.it/imgprodotto/scarpe-stringate-philippe-marrone_101019",
 "Pantaloni Sportivi Essentials Performance Logo|Mostra la tua passione per adidas indossando questi pantaloni|2017/12/pantaloni-sportivi-essentials-performance-logo|data.oliviero.it/imgprodotto/pantaloni-sportivi-essentials-performance-logo-bk7410_159280",
 "T-Shirt Uomo Jordan Dry Grigio|La t-shirt da allenamento Jordan Dry \"Beat The Best\" - Uomo|2017/12/t-shirt-uomo-jordan-dry-grigio|data.oliviero.it/imgprodotto/t-shirt-uomo-jordan-dry-grigio_167896",
 "Scarpe Uomo Matias ABX Taupe|Collezione Autunno Inverno/2018 Un pò sneakers, un pò stivali. Le|2017/12/scarpe-uomo-matias-abx-taupe|data.oliviero.it/imgprodotto/scarpe-uomo-matias-abx-taupe_168836",

@@ -1,4 +1,6 @@
 Gr = [
+"Bendaggio Semi-elastico 3,5m|Bendaggio semi-elastico in diverse colorazioni per il comfort e la|2017/12/bendaggio-semi-elastico-3-5m|data.oliviero.it/imgprodotto/bendaggio-semi-elastico-3-5m-ab705_169622",
+"Tappetino Arrotolabile 180x50|Tappetino per il fitness arrotolabile &bull; Superficie antiscivolo|2017/12/tappetino-arrotolabile-180x50|data.oliviero.it/imgprodotto/tappetino-arrotolabile-180x50_14309_big",
 "Telo bagno Triangolino Stella|Triangolino spugna di cotone 100% collezione Stella. Dimensione 75|2017/12/telo-bagno-triangolino-stella|data.oliviero.it/imgprodotto/telo-bagno-triangolino-stella_172097",
 "Fascia per gomito|Fascia per gomito pensata per chi soffre di epicondilite, dona|2017/12/fascia-per-gomito|data.oliviero.it/imgprodotto/fascia-per-gomito_171805",
 "Corda Salto AT829|Corda da salto professionale in nylon con treccia in acciaio. Il|2017/12/corda-salto-at829|data.oliviero.it/imgprodotto/corda-salto-at829_169637",
