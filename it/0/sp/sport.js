@@ -1,4 +1,10 @@
 Gr = [
+"Ellittica Diamond D62|Ellittica Diamond D62 Sistema frenante elettromagnetico|2017/12/ellittica-diamond-d62|data.oliviero.it/imgprodotto/ellittica-diamond-d62_124144",
+"Palestrina della Foresta|Il tappetino attività portatile intrattiene il bambino con|2017/12/palestrina-della-foresta|data.oliviero.it/imgprodotto/palestrina-della-foresta-chp85-ma147_156594",
+"Sfera Tonificante|Ideale per il potenziamento muscolare di braccia spalle e gambe|2017/12/sfera-tonificante|data.oliviero.it/imgprodotto/sfera-tonificante_151342",
+"Calcio balilla G-500 Pied de Poule|Estrema robustezza della struttura, eccellente stabilità ed|2017/12/calcio-balilla-g-500-pied-de-poule|data.oliviero.it/imgprodotto/calcio-balilla-g-500-pied-de-poule_72106",
+"Barretta Slim Day 24 Pz Yogurt|La confezione contiene 24 barrette gusto yogurt SLIM DAY è una|2017/12/barretta-slim-day-24-pz-yogurt|data.oliviero.it/imgprodotto/barretta-slim-day-24-pz-yogurt_108406",
+"Guanti da allenamento Atomic S10W|Guanti da allenamento Caratteristiche: Grip progettato per aumentare|2017/12/guanti-da-allenamento-atomic-s10w|data.oliviero.it/imgprodotto/guanti-da-allenamento-atomic-s10w_93004",
 "Set Città Legno con Mappa|La mia città - Playset per inventare tante storie dando vita ad un|2017/12/set-citta-legno-con-mappa|data.oliviero.it/imgprodotto/set-citta-legno-con-mappa-36890_156079",
 "Pista panoramica wild racing|La pista wild track in scala 1:64 con alimentazione elettrica con|2017/12/pista-panoramica-wild-racing|data.oliviero.it/imgprodotto/pista-panoramica-wild-racing_163928",
 "Calcio balilla Top Speed Official Competition (ITSF)|Calcio balilla Top Speed Official Competition omologato ITSF MOBILE|2017/12/calcio-balilla-top-speed-official-competition-itsf|data.oliviero.it/imgprodotto/calcio-balilla-top-speed-official-competition-itsf-_147265",

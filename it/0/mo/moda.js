@@ -1,4 +1,7 @@
 Gr = [
+"2 Slip Basic Midi|Tipologia: Confezione da 2 slip donna Tessuto: 95% cotone e 5%|2017/12/2-slip-basic-midi|data.oliviero.it/imgprodotto/2-slip-basic-midi_142399",
+"Pantaloni donna Heritage|Tipologia : Pantaloni donna Tessuto : 100% cotone Caratteristiche|2017/12/pantaloni-donna-heritage|data.oliviero.it/imgprodotto/pantaloni-donna-heritage_73342",
+"Tuta Donna Navy Grigio e viola|Collezione Autunno Inverno/2018 Questa tuta da ragazza slim-fit|2017/12/tuta-donna-navy-grigio-e-viola|data.oliviero.it/imgprodotto/tuta-donna-navy-grigio-e-viola_168022",
 "Parka Uomo Blue Night|Collezione Autunno Inverno/2018 Il classico parka Canadiens, qui in|2017/12/parka-uomo-blue-night|data.oliviero.it/imgprodotto/parka-uomo-blue-night_171487",
 "Pantaloni Slim Fit Uomo Navy|Collezione Autunno Inverno/2018 Pantaloni navy con patta con bottoni|2017/12/pantaloni-slim-fit-uomo-navy|data.oliviero.it/imgprodotto/pantaloni-slim-fit-uomo-navy_169184",
 "Slip LS4M77 00465|Collezione Lingerie Slip da donna con particolari in pizzo, tessuto|2017/12/slip-ls4m77-00465|data.oliviero.it/imgprodotto/slip-ls4m77-00465_146970",

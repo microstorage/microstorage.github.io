@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Uomo Bianco Warrens|Collezione Primavera Estate Declinate in una classica versione|2017/12/scarpe-uomo-bianco-warrens|data.oliviero.it/imgprodotto/scarpe-uomo-bianco-warrens-u620lb-c0006_158183",
 "Scarpe Wmns Court Royale|Utilizzo: Sneakers donna Tomaia: pelle Battistrada: in gomma|2017/12/scarpe-wmns-court-royale|data.oliviero.it/imgprodotto/scarpe-wmns-court-royale-749867-002_161030",
 "Scarpe Uomo K Run II|Modello derivante dal mondo running proposto in una versione sportiva|2017/12/scarpe-uomo-k-run-ii|data.oliviero.it/imgprodotto/scarpe-uomo-k-run-ii_167244",
 "Scarpe Donna Taupe Myria|Collezione Primavera Estate Un perfetto mix tra comfort e design|2017/12/scarpe-donna-taupe-myria|data.oliviero.it/imgprodotto/scarpe-donna-taupe-myria-d6268b-c6738_163249",

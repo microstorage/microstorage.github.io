@@ -1,4 +1,5 @@
 Gr = [
+"Calcio balilla G-500 Pied de Poule|Estrema robustezza della struttura, eccellente stabilità ed|2017/12/calcio-balilla-g-500-pied-de-poule|data.oliviero.it/imgprodotto/calcio-balilla-g-500-pied-de-poule_72106",
 "Calcio balilla Top Speed Official Competition (ITSF)|Calcio balilla Top Speed Official Competition omologato ITSF MOBILE|2017/12/calcio-balilla-top-speed-official-competition-itsf|data.oliviero.it/imgprodotto/calcio-balilla-top-speed-official-competition-itsf-_147265",
 "Calcio balilla Roby Color Rosso|Calciobalilla senza gettoniera studiato per adattare la qualità dei|2017/12/calcio-balilla-roby-color-rosso|data.oliviero.it/imgprodotto/calcio-balilla-roby-color-rosso_72658",
 "Calcio balilla Family Rosso|Calcio balilla Family Caratteristiche tecniche: Mobile in legno|2017/12/calcio-balilla-family-rosso|data.oliviero.it/imgprodotto/calcio-balilla-family-rosso_72666",

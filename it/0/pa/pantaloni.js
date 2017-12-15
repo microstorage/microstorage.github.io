@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloni donna Heritage|Tipologia : Pantaloni donna Tessuto : 100% cotone Caratteristiche|2017/12/pantaloni-donna-heritage|data.oliviero.it/imgprodotto/pantaloni-donna-heritage_73342",
 "Pantaloni Slim Fit Uomo Navy|Collezione Autunno Inverno/2018 Pantaloni navy con patta con bottoni|2017/12/pantaloni-slim-fit-uomo-navy|data.oliviero.it/imgprodotto/pantaloni-slim-fit-uomo-navy_169184",
 "Pantalone Uomo Taglie Forti Bianco e Grigio|Collezione Priamavera Estate Pantalone casual uomo taglie forti. Il|2017/12/pantalone-uomo-taglie-forti-bianco-e-grigio|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-bianco-e-grigio_163462",
 "Pantaloni donna 210108|Collezione Primavera/estate Tipologia: Pantalone da donna Tessuto:|2017/12/pantaloni-donna-210108|data.oliviero.it/imgprodotto/pantaloni-donna-210108_13475_big",

@@ -1,4 +1,5 @@
 Gr = [
+"Aerosol a Pistone|L'Aerosol a Pistone di Chicco è indicato per la cura delle|2017/12/aerosol-a-pistone|data.oliviero.it/imgprodotto/aerosol-a-pistone-00003846000000_155660",
 "Bastoncini ovattati 64 pz|I bastoncini ovattati sono morbidi e flessibili. Estremità 100% puro|2017/12/bastoncini-ovattati-64-pz|data.oliviero.it/imgprodotto/bastoncini-ovattati-64-pz_139133",
 "Sdraietta Hooplà Stone|Realizzata con una seduta ampia e imbottita offrendo massimo comfort|2017/12/sdraietta-hoopla-stone|data.oliviero.it/imgprodotto/sdraietta-hoopl%C3%A0-stone-00079840850000_155416",
 "Tummy pad|È un coloratissimo e morbido tappeto, completo di cuscino e|2017/12/tummy-pad|data.oliviero.it/imgprodotto/tummy-pad_71487",

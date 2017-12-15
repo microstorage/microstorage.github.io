@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Uomo Bianco Warrens|Collezione Primavera Estate Declinate in una classica versione|2017/12/scarpe-uomo-bianco-warrens|data.oliviero.it/imgprodotto/scarpe-uomo-bianco-warrens-u620lb-c0006_158183",
 "Parka Uomo Blue Night|Collezione Autunno Inverno/2018 Il classico parka Canadiens, qui in|2017/12/parka-uomo-blue-night|data.oliviero.it/imgprodotto/parka-uomo-blue-night_171487",
 "Pantaloni Slim Fit Uomo Navy|Collezione Autunno Inverno/2018 Pantaloni navy con patta con bottoni|2017/12/pantaloni-slim-fit-uomo-navy|data.oliviero.it/imgprodotto/pantaloni-slim-fit-uomo-navy_169184",
 "Felpa Uomo Nero|Una morbida giacca perfetta da indossare sopra l'abbigliamento da|2017/12/felpa-uomo-nero|data.oliviero.it/imgprodotto/felpa-uomo-nero_168033",

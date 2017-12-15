@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Trekking Slope GTX|Storico modello da escursionismo AKU. 30 anni di successo sul mercato|2017/12/scarpe-trekking-slope-gtx|data.oliviero.it/imgprodotto/scarpe-trekking-slope-gtx_171836",
 "Sandali Techamphibian 3 W|L'ultima evoluzione della classica scarpa anfibia, con fodera più|2017/12/sandali-techamphibian-3-w|data.oliviero.it/imgprodotto/sandali-techamphibian-3-w-128490_147664",
 "Scarpe Trekking Authentic LTR GTX|Scarpe Trekking Authentic LTR GTX - 373260 Scarpa leggera in pelle|2017/12/scarpe-trekking-authentic-ltr-gtx|data.oliviero.it/imgprodotto/scarpe-trekking-authentic-ltr-gtx-373260_145350",
 "Binocolo con prismi di Porro 7x50|Elegante binocolo con maggior percezione della profondità e campo visivo|2017/08/binocolo-con-prismi-di-porro-7x50|data.oliviero.it/imgprodotto/binocolo-con-prismi-di-porro-7x50_83801",

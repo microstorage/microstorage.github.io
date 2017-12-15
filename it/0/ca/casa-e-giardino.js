@@ -1,4 +1,5 @@
 Gr = [
+"Teloncino Light 3 x 4 m|Teloncino da esterno 90 gr x mq Verde Oliva|2017/12/teloncino-light-3-x-4-m|data.oliviero.it/imgprodotto/teloncino-light-3-x-4-m_53675",
 "Robot da cucina 500W|Robot da cucina 500W - AZZURRO - 90.470A Descrizione: Potenza: 500|2017/12/robot-da-cucina-500w|data.oliviero.it/imgprodotto/robot-da-cucina-500w-azzurro-90-470a_160690",
 "Sdraio 952|Sdraio con cuscino in cotone Caratteristiche: Imbottito con gomma|2017/12/sdraio-952|data.oliviero.it/imgprodotto/sdraio-952_25423_big",
 "Bollitore BL20|Bollitore da 1,7 L per tisane e bevande calde. Molto pratico da usare|2017/12/bollitore-bl20|data.oliviero.it/imgprodotto/bollitore-bl20_156337",

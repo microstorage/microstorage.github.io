@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Uomo Bianco Warrens|Collezione Primavera Estate Declinate in una classica versione|2017/12/scarpe-uomo-bianco-warrens|data.oliviero.it/imgprodotto/scarpe-uomo-bianco-warrens-u620lb-c0006_158183",
 "Scarpe Yourflex Trainette 9.0 MT|Non ti arrendi davanti a niente e nessuno: scegli una scarpa|2017/12/scarpe-yourflex-trainette-9-0-mt|data.oliviero.it/imgprodotto/scarpe-yourflex-trainette-9-0-mt_165678",
 "Scarpe Air Force 1 Mid|La lunga tradizione del basket si arricchisce con la scarpa Nike Air|2017/12/scarpe-air-force-1-mid|data.oliviero.it/imgprodotto/scarpe-air-force-1-mid_167850",
 "Scarpe Wmns Court Royale|Utilizzo: Sneakers donna Tomaia: pelle Battistrada: in gomma|2017/12/scarpe-wmns-court-royale|data.oliviero.it/imgprodotto/scarpe-wmns-court-royale-749867-002_161030",

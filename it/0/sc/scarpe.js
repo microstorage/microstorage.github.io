@@ -1,4 +1,6 @@
 Gr = [
+"Scarpe Trekking Slope GTX|Storico modello da escursionismo AKU. 30 anni di successo sul mercato|2017/12/scarpe-trekking-slope-gtx|data.oliviero.it/imgprodotto/scarpe-trekking-slope-gtx_171836",
+"Scarpe Uomo Bianco Warrens|Collezione Primavera Estate Declinate in una classica versione|2017/12/scarpe-uomo-bianco-warrens|data.oliviero.it/imgprodotto/scarpe-uomo-bianco-warrens-u620lb-c0006_158183",
 "Sandalo Donna Champagne Abbie|Collezione Primavera Estate Un sandalo donna che si adatta a tutte le|2017/12/sandalo-donna-champagne-abbie|data.oliviero.it/imgprodotto/sandalo-donna-champagne-abbie-d72p6a-ch6b5_163234",
 "Sandalo Donna Laminato|Collezione Primavera Estate Sandalo da donna con zip posteriore|2017/12/sandalo-donna-laminato|data.oliviero.it/imgprodotto/sandalo-donna-laminato-p717372de-434_162137",
 "Scarpe Running Lunarglide 8|La scarpa da running Nike LunarGlide 8 - Uomo offre un sostegno|2017/12/scarpe-running-lunarglide-8|data.oliviero.it/imgprodotto/scarpe-running-lunarglide-8-843725-800_151190",

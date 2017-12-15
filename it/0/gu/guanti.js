@@ -1,4 +1,5 @@
 Gr = [
+"Guanti da allenamento Atomic S10W|Guanti da allenamento Caratteristiche: Grip progettato per aumentare|2017/12/guanti-da-allenamento-atomic-s10w|data.oliviero.it/imgprodotto/guanti-da-allenamento-atomic-s10w_93004",
 "Guantoni Boxe Doctor 10 Oz|Dalla collaborazione tra il campione mondiale di K1 Giorgio Petrosyan|2017/12/guantoni-boxe-doctor-10-oz|data.oliviero.it/imgprodotto/guantoni-boxe-doctor-10-oz-gn050_154531",
 "Guantoni Boxe Black and White 10 oz|I Guantoni Leone Black&White GN059 sono realizzati in poliuretano di|2017/12/guantoni-boxe-black-and-white-10-oz|data.oliviero.it/imgprodotto/guantoni-boxe-black-and-white-10-oz-gn059_161019",
 "Guanti da Passata Armalite|Guanti da passata Caratteristiche: Pelle esterna SLV3 per durata|2017/12/guanti-da-passata-armalite|data.oliviero.it/imgprodotto/guanti-da-passata-armalite-safm-0108_92995",

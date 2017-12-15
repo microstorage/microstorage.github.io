@@ -1,4 +1,5 @@
 Gr = [
+"Teloncino Light 3 x 4 m|Teloncino da esterno 90 gr x mq Verde Oliva|2017/12/teloncino-light-3-x-4-m|data.oliviero.it/imgprodotto/teloncino-light-3-x-4-m_53675",
 "Poltroncina Pensile Havanna Fuego|Poltrona sospesa Havanna Fuego. Dal Brasile, il paese dei campioni|2017/12/poltroncina-pensile-havanna-fuego|data.oliviero.it/imgprodotto/poltroncina-pensile-havanna-fuego_80612",
 "Sdraio 952|Sdraio con cuscino in cotone Caratteristiche: Imbottito con gomma|2017/12/sdraio-952|data.oliviero.it/imgprodotto/sdraio-952_25423_big",
 "Poltroncina Pensile Brasil Mocca L|Poltrona sospesa Brasil MoccaDal Brasile, il paese dei campioni del|2017/12/poltroncina-pensile-brasil-mocca-l|data.oliviero.it/imgprodotto/poltroncina-pensile-brasil-mocca-l_158758",

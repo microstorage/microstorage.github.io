@@ -1,4 +1,8 @@
 Gr = [
+"Jeans donna WPT357 B044|Collezione Primavera Estate Tipologia: Jeans donna Tessuto: 98%|2017/12/jeans-donna-wpt357-b044|data.oliviero.it/imgprodotto/jeans-donna-wpt357-b044_73320",
+"2 Slip Basic Midi|Tipologia: Confezione da 2 slip donna Tessuto: 95% cotone e 5%|2017/12/2-slip-basic-midi|data.oliviero.it/imgprodotto/2-slip-basic-midi_142399",
+"Pantaloni donna Heritage|Tipologia : Pantaloni donna Tessuto : 100% cotone Caratteristiche|2017/12/pantaloni-donna-heritage|data.oliviero.it/imgprodotto/pantaloni-donna-heritage_73342",
+"Tuta Donna Navy Grigio e viola|Collezione Autunno Inverno/2018 Questa tuta da ragazza slim-fit|2017/12/tuta-donna-navy-grigio-e-viola|data.oliviero.it/imgprodotto/tuta-donna-navy-grigio-e-viola_168022",
 "Sandalo Donna Champagne Abbie|Collezione Primavera Estate Un sandalo donna che si adatta a tutte le|2017/12/sandalo-donna-champagne-abbie|data.oliviero.it/imgprodotto/sandalo-donna-champagne-abbie-d72p6a-ch6b5_163234",
 "Sandalo Donna Laminato|Collezione Primavera Estate Sandalo da donna con zip posteriore|2017/12/sandalo-donna-laminato|data.oliviero.it/imgprodotto/sandalo-donna-laminato-p717372de-434_162137",
 "Slip LS4M77 00465|Collezione Lingerie Slip da donna con particolari in pizzo, tessuto|2017/12/slip-ls4m77-00465|data.oliviero.it/imgprodotto/slip-ls4m77-00465_146970",
