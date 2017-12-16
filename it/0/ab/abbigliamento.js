@@ -1,4 +1,5 @@
 Gr = [
+"Trolley Maxi Round Widget|Per chi ancora non lo conoscesse, questo è Maxi Trolley Round: un|2017/12/trolley-maxi-round-widget|data.oliviero.it/imgprodotto/trolley-maxi-round-widget_166138",
 "Jeans donna WPT357 B044|Collezione Primavera Estate Tipologia: Jeans donna Tessuto: 98%|2017/12/jeans-donna-wpt357-b044|data.oliviero.it/imgprodotto/jeans-donna-wpt357-b044_73320",
 "2 Slip Basic Midi|Tipologia: Confezione da 2 slip donna Tessuto: 95% cotone e 5%|2017/12/2-slip-basic-midi|data.oliviero.it/imgprodotto/2-slip-basic-midi_142399",
 "Pantaloni donna Heritage|Tipologia : Pantaloni donna Tessuto : 100% cotone Caratteristiche|2017/12/pantaloni-donna-heritage|data.oliviero.it/imgprodotto/pantaloni-donna-heritage_73342",

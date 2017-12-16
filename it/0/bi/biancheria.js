@@ -1,4 +1,5 @@
 Gr = [
+"Completo Lenzuola Pesco Flan. Giallo|Tessuto in flanella di puro cotone. Singolo Lenzuolo superiore|2017/12/completo-lenzuola-pesco-flan-giallo|data.oliviero.it/imgprodotto/completo-lenzuola-pesco-flan-giallo_169061",
 "Trapunta Spiderman Lights|Tessuto in microfibra di poliestere stampato. SINGOLO 170X270 cm|2017/12/trapunta-spiderman-lights|data.oliviero.it/imgprodotto/trapunta-spiderman-lights_166716",
 "Completo Lenzuola Flanella Avorio|Completo Lenzuola Flanella Avorio Singolo Lenzuolo superiore 160x280|2017/12/completo-lenzuola-flanella-avorio|data.oliviero.it/imgprodotto/completo-lenzuola-flanella-avorio_169041",
 "Scaldasonno Rapid|IMETEC SCALDASONNO RAPID 100% LANA E MERINO. I vantaggi della|2017/12/scaldasonno-rapid|data.oliviero.it/imgprodotto/scaldasonno-rapid_154089",

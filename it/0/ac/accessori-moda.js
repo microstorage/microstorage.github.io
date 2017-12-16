@@ -1,4 +1,5 @@
 Gr = [
+"Trolley Maxi Round Widget|Per chi ancora non lo conoscesse, questo è Maxi Trolley Round: un|2017/12/trolley-maxi-round-widget|data.oliviero.it/imgprodotto/trolley-maxi-round-widget_166138",
 "Cappello Uomo Nero|Collezione Autunno Inverno/2018 Cappello invernale da uomo in morbido|2017/12/cappello-uomo-nero|data.oliviero.it/imgprodotto/cappello-uomo-nero_170956",
 "Trolley 2 ruote Sound Grigio e Arancio|Trolley Struttura Super Light 2 ruote Lucchetto a combinazione con|2017/12/trolley-2-ruote-sound-grigio-e-arancio|data.oliviero.it/imgprodotto/trolley-2-ruote-sound-grigio-e-arancio_159462",
 "Zaino Small Sj Face|Per il tempo un modello di zaino tondo con 12 lt di capacità|2017/12/zaino-small-sj-face|data.oliviero.it/imgprodotto/zaino-small-sj-face_166106",

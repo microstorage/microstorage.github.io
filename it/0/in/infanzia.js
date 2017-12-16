@@ -1,4 +1,7 @@
 Gr = [
+"Kit Aerosol|Un kit completo con tutti gli accessori che ti permette di effettuare|2017/12/kit-aerosol|data.oliviero.it/imgprodotto/kit-aerosol_171621",
+"Dual Bag Sideral Grey|Borsa Inglesina Dual Bag è la pratica e comoda borsa da passeggino|2017/12/dual-bag-sideral-grey|data.oliviero.it/imgprodotto/dual-bag-sideral-grey_172112",
+"Passeggino Twin flip 27|Età di utilizzo: 0-36 mesi. Passeggino leggero (solo 10 kg)|2017/12/passeggino-twin-flip-27|data.oliviero.it/imgprodotto/passeggino-twin-flip-27_139234",
 "Aerosol a Pistone|L'Aerosol a Pistone di Chicco è indicato per la cura delle|2017/12/aerosol-a-pistone|data.oliviero.it/imgprodotto/aerosol-a-pistone-00003846000000_155660",
 "Bastoncini ovattati 64 pz|I bastoncini ovattati sono morbidi e flessibili. Estremità 100% puro|2017/12/bastoncini-ovattati-64-pz|data.oliviero.it/imgprodotto/bastoncini-ovattati-64-pz_139133",
 "Trio Combi Family Dolcecuore 2018|Trio composto da passeggino, carrozzina e seggiolino auto CARROZZINA|2017/12/trio-combi-family-dolcecuore-2018|data.oliviero.it/imgprodotto/trio-combi-family-dolcecuore-2018-845020-t647_171584",

@@ -1,4 +1,5 @@
 Gr = [
+"Canestro San Jose|un tabellone da basket di elevata qualità e design attraente, con|2017/12/canestro-san-jose|data.oliviero.it/imgprodotto/canestro-san-jose_1758_big",
 "Pantaloncini Basket 23 cm|Gli shorts da basket 23 cm Nike KD Elite - Uomo sono realizzati in|2017/12/pantaloncini-basket-23-cm|data.oliviero.it/imgprodotto/pantaloncini-basket-23-cm_167753",
 "Scarpe Basket Ua Curry 2.5|Scarpe Basket con tomaia modellata per una calzata leggera e precisa|2017/11/scarpe-basket-ua-curry-2-5|data.oliviero.it/imgprodotto/scarpe-basket-ua-curry-2-5-1274425-105_151972",
 "Scarpe Basket Ua Curry 3|Migliorano la velocità iniziale e i cambi di direzione|2017/05/scarpe-basket-ua-curry-3|data.oliviero.it/imgprodotto/scarpe-basket-ua-curry-3-1269279-007_160533",

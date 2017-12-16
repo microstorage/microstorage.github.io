@@ -1,4 +1,5 @@
 Gr = [
+"Piano di copertura Virginia 7|Piano di copertura per Biliardo Virginia 7 Piane di copertura: in MDF|2017/12/piano-di-copertura-virginia-7|data.oliviero.it/imgprodotto/piano-di-copertura-virginia-7_141758",
 "Palestrina della Foresta|Il tappetino attività portatile intrattiene il bambino con|2017/12/palestrina-della-foresta|data.oliviero.it/imgprodotto/palestrina-della-foresta-chp85-ma147_156594",
 "Calcio balilla G-500 Pied de Poule|Estrema robustezza della struttura, eccellente stabilità ed|2017/12/calcio-balilla-g-500-pied-de-poule|data.oliviero.it/imgprodotto/calcio-balilla-g-500-pied-de-poule_72106",
 "Set Città Legno con Mappa|La mia città - Playset per inventare tante storie dando vita ad un|2017/12/set-citta-legno-con-mappa|data.oliviero.it/imgprodotto/set-citta-legno-con-mappa-36890_156079",

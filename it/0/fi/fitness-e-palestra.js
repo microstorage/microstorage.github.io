@@ -1,4 +1,5 @@
 Gr = [
+"Tapis Roulant TRX Smart Compact|Tapis roulant pre-assemblato pronto all'uso. SALVASPAZIO. Innovativo|2017/12/tapis-roulant-trx-smart-compact|data.oliviero.it/imgprodotto/tapis-roulant-trx-smart-compact_153874",
 "Ellittica Diamond D62|Ellittica Diamond D62 Sistema frenante elettromagnetico|2017/12/ellittica-diamond-d62|data.oliviero.it/imgprodotto/ellittica-diamond-d62_124144",
 "Sfera Tonificante|Ideale per il potenziamento muscolare di braccia spalle e gambe|2017/12/sfera-tonificante|data.oliviero.it/imgprodotto/sfera-tonificante_151342",
 "Tapis Roulant TRX 100|DATI TECNICI TRX 100 Motore4/7 (Peak) HP AC - Garanzia 5 anni|2017/12/tapis-roulant-trx-100|data.oliviero.it/imgprodotto/tapis-roulant-trx-100_159583",

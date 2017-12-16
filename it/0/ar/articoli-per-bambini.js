@@ -1,4 +1,6 @@
 Gr = [
+"Dual Bag Sideral Grey|Borsa Inglesina Dual Bag è la pratica e comoda borsa da passeggino|2017/12/dual-bag-sideral-grey|data.oliviero.it/imgprodotto/dual-bag-sideral-grey_172112",
+"Passeggino Twin flip 27|Età di utilizzo: 0-36 mesi. Passeggino leggero (solo 10 kg)|2017/12/passeggino-twin-flip-27|data.oliviero.it/imgprodotto/passeggino-twin-flip-27_139234",
 "Sacca portaenfant per passeggino|Calda sacca invernale portaenfant marchio Britax-romer. Tessuto|2017/12/sacca-portaenfant-per-passeggino|data.oliviero.it/imgprodotto/sacca-portaenfant-per-passeggino_145157",
 "Sacco Ovetto-Carrozzina Mucky Viola|Sacco Ovetto Mucky PICCI. Sacco imbottito studiato per i climi più|2017/12/sacco-ovetto-carrozzina-mucky-viola|data.oliviero.it/imgprodotto/sacco-ovetto-carrozzina-mucky-viola_170107",
 "Dual Bag Village Denim|Borsa Inglesina Dual Bag è la pratica e comoda borsa da passeggino|2017/12/dual-bag-village-denim|data.oliviero.it/imgprodotto/dual-bag-village-denim_172113",

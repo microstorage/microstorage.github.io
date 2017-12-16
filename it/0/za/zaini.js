@@ -1,4 +1,6 @@
 Gr = [
+"Trolley Maxi Round Widget|Per chi ancora non lo conoscesse, questo è Maxi Trolley Round: un|2017/12/trolley-maxi-round-widget|data.oliviero.it/imgprodotto/trolley-maxi-round-widget_166138",
+"Zaino Zephyr 17+3|Zaino Zephyr 17+3 - 75811 Serie di zaini studiati per attività|2017/12/zaino-zephyr-17+3|data.oliviero.it/imgprodotto/zaino-zephyr-17-3-75811_145030",
 "Zaino Small Sj Face|Per il tempo un modello di zaino tondo con 12 lt di capacità|2017/12/zaino-small-sj-face|data.oliviero.it/imgprodotto/zaino-small-sj-face_166106",
 "Portapenne Bitmap per la scuola|Gli accessori che non possono mancare nel tuo zaino per la scuola|2017/11/portapenne-bitmap-per-la-scuola|data.oliviero.it/imgprodotto/portapenne-bitmap_166310",
 "Il mitico zaino con le faccine di Invicta|Spallacci imbottiti e rivestiti in tessuto, tasca porta computer|2017/10/il-mitico-zaino-con-le-faccine-di-invicta|data.oliviero.it/imgprodotto/zaino-dial-face-fantasy_167450",

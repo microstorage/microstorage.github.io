@@ -1,4 +1,9 @@
 Gr = [
+"Piano di copertura Virginia 7|Piano di copertura per Biliardo Virginia 7 Piane di copertura: in MDF|2017/12/piano-di-copertura-virginia-7|data.oliviero.it/imgprodotto/piano-di-copertura-virginia-7_141758",
+"Hoverboard VOYAGER 10.0|Hoverboard VOYAGER 10.0 Garlando Descrizione: Diametro ruota: 25,4 cm|2017/12/hoverboard-voyager-10-0|data.oliviero.it/imgprodotto/hoverboard-voyager-10-0_161079",
+"Zaino Zephyr 17+3|Zaino Zephyr 17+3 - 75811 Serie di zaini studiati per attività|2017/12/zaino-zephyr-17+3|data.oliviero.it/imgprodotto/zaino-zephyr-17-3-75811_145030",
+"Canestro San Jose|un tabellone da basket di elevata qualità e design attraente, con|2017/12/canestro-san-jose|data.oliviero.it/imgprodotto/canestro-san-jose_1758_big",
+"Tapis Roulant TRX Smart Compact|Tapis roulant pre-assemblato pronto all'uso. SALVASPAZIO. Innovativo|2017/12/tapis-roulant-trx-smart-compact|data.oliviero.it/imgprodotto/tapis-roulant-trx-smart-compact_153874",
 "Ellittica Diamond D62|Ellittica Diamond D62 Sistema frenante elettromagnetico|2017/12/ellittica-diamond-d62|data.oliviero.it/imgprodotto/ellittica-diamond-d62_124144",
 "Palestrina della Foresta|Il tappetino attività portatile intrattiene il bambino con|2017/12/palestrina-della-foresta|data.oliviero.it/imgprodotto/palestrina-della-foresta-chp85-ma147_156594",
 "Sfera Tonificante|Ideale per il potenziamento muscolare di braccia spalle e gambe|2017/12/sfera-tonificante|data.oliviero.it/imgprodotto/sfera-tonificante_151342",
