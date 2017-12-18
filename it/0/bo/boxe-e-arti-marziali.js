@@ -1,4 +1,5 @@
 Gr = [
+"Stivaletti Boxe CL186|Interamente in pelle e lavorazione artigianale per il classico|2017/12/stivaletti-boxe-cl186|data.oliviero.it/imgprodotto/stivaletti-boxe-cl186_65719",
 "Guanti da allenamento Atomic S10W|Guanti da allenamento Caratteristiche: Grip progettato per aumentare|2017/12/guanti-da-allenamento-atomic-s10w|data.oliviero.it/imgprodotto/guanti-da-allenamento-atomic-s10w_93004",
 "Bendaggio Semi-elastico 3,5m|Bendaggio semi-elastico in diverse colorazioni per il comfort e la|2017/12/bendaggio-semi-elastico-3-5m|data.oliviero.it/imgprodotto/bendaggio-semi-elastico-3-5m-ab705_169622",
 "Casco da Boxe CS410|Casco best-seller con protezione anti-shock sulla nuca, orecchie|2017/12/casco-da-boxe-cs410|data.oliviero.it/imgprodotto/casco-da-boxe-cs410_93262",

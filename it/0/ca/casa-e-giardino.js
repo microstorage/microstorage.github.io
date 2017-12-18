@@ -1,4 +1,5 @@
 Gr = [
+"Letto Matrimoniale Pegaso Ecopelle con contenitore|Caratteristiche Dimensioni letto 207x185x37 cm Dimensioni testiera|2017/12/letto-matrimoniale-pegaso-ecopelle-con-contenitore|data.oliviero.it/imgprodotto/letto-matrimoniale-pegaso-ecopelle-con-contenitore-musa_153601",
 "Completo Lenzuola Pesco Flan. Giallo|Tessuto in flanella di puro cotone. Singolo Lenzuolo superiore|2017/12/completo-lenzuola-pesco-flan-giallo|data.oliviero.it/imgprodotto/completo-lenzuola-pesco-flan-giallo_169061",
 "Teloncino Light 3 x 4 m|Teloncino da esterno 90 gr x mq Verde Oliva|2017/12/teloncino-light-3-x-4-m|data.oliviero.it/imgprodotto/teloncino-light-3-x-4-m_53675",
 "Robot da cucina 500W|Robot da cucina 500W - AZZURRO - 90.470A Descrizione: Potenza: 500|2017/12/robot-da-cucina-500w|data.oliviero.it/imgprodotto/robot-da-cucina-500w-azzurro-90-470a_160690",

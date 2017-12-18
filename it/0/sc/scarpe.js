@@ -1,4 +1,6 @@
 Gr = [
+"Scarpe con Ruote Helix|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/12/scarpe-con-ruote-helix|data.oliviero.it/imgprodotto/scarpe-con-ruote-helix-7764_132725",
+"Scarpe Hamburg|Comparse per la prima volta all'inizio degli anni '80, le scarpe|2017/12/scarpe-hamburg|data.oliviero.it/imgprodotto/scarpe-hamburg-s76697_158149",
 "Scarpe Trekking Slope GTX|Storico modello da escursionismo AKU. 30 anni di successo sul mercato|2017/12/scarpe-trekking-slope-gtx|data.oliviero.it/imgprodotto/scarpe-trekking-slope-gtx_171836",
 "Scarpe Uomo Bianco Warrens|Collezione Primavera Estate Declinate in una classica versione|2017/12/scarpe-uomo-bianco-warrens|data.oliviero.it/imgprodotto/scarpe-uomo-bianco-warrens-u620lb-c0006_158183",
 "Sandalo Donna Champagne Abbie|Collezione Primavera Estate Un sandalo donna che si adatta a tutte le|2017/12/sandalo-donna-champagne-abbie|data.oliviero.it/imgprodotto/sandalo-donna-champagne-abbie-d72p6a-ch6b5_163234",

@@ -1,4 +1,8 @@
 Gr = [
+"Sci Vantage X77 C + Lithium 10|L'Atomic Vantage X 77 C è un nuovo sci all-mountain che nasce dal mix|2017/12/sci-vantage-x77-c-+-lithium-10|data.oliviero.it/imgprodotto/sci-vantage-x77-c-lithium-10_156522",
+"Scarpe con ruote Propel 2.0|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/12/scarpe-con-ruote-propel-2-0|data.oliviero.it/imgprodotto/scarpe-con-ruote-propel-2-0-770603h_146320",
+"T-Shirt Donna Rosa|Questa maglia maniche lunghe Adidas è stata pensata per i vostri|2017/12/t-shirt-donna-rosa|data.oliviero.it/imgprodotto/t-shirt-donna-rosa_167977",
+"Stivaletti Boxe CL186|Interamente in pelle e lavorazione artigianale per il classico|2017/12/stivaletti-boxe-cl186|data.oliviero.it/imgprodotto/stivaletti-boxe-cl186_65719",
 "Piano di copertura Virginia 7|Piano di copertura per Biliardo Virginia 7 Piane di copertura: in MDF|2017/12/piano-di-copertura-virginia-7|data.oliviero.it/imgprodotto/piano-di-copertura-virginia-7_141758",
 "Hoverboard VOYAGER 10.0|Hoverboard VOYAGER 10.0 Garlando Descrizione: Diametro ruota: 25,4 cm|2017/12/hoverboard-voyager-10-0|data.oliviero.it/imgprodotto/hoverboard-voyager-10-0_161079",
 "Zaino Zephyr 17+3|Zaino Zephyr 17+3 - 75811 Serie di zaini studiati per attività|2017/12/zaino-zephyr-17+3|data.oliviero.it/imgprodotto/zaino-zephyr-17-3-75811_145030",

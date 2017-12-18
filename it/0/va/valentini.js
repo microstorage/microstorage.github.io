@@ -1,4 +1,5 @@
 Gr = [
+"Letto Matrimoniale Pegaso Ecopelle con contenitore|Caratteristiche Dimensioni letto 207x185x37 cm Dimensioni testiera|2017/12/letto-matrimoniale-pegaso-ecopelle-con-contenitore|data.oliviero.it/imgprodotto/letto-matrimoniale-pegaso-ecopelle-con-contenitore-musa_153601",
 "Cameretta Felice|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/12/cameretta-felice|data.oliviero.it/imgprodotto/cameretta-felice-gt4060_160272",
 "Cameretta Vasco|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/12/cameretta-vasco|data.oliviero.it/imgprodotto/cameretta-vasco-gt4063_160283",
 "Scrivania 41.42.62|MADE IN ITALY Elegante scrivania, ideale per essere collocata in una|2017/12/scrivania-41-42-62|data.oliviero.it/imgprodotto/scrivania-41-42-62_55421",

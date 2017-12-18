@@ -1,4 +1,7 @@
 Gr = [
+"Scarpe con Ruote Helix|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/12/scarpe-con-ruote-helix|data.oliviero.it/imgprodotto/scarpe-con-ruote-helix-7764_132725",
+"Felpa Uomo Taglie Forti Grigio 26700 250|Collezione Autunno Inverno/2018 Felpa uomo taglie forti. Il modello|2017/12/felpa-uomo-taglie-forti-grigio-26700-250|data.oliviero.it/imgprodotto/felpa-uomo-taglie-forti-grigio-26700-250_168557",
+"Giacca Sci Junior Ferrari|Collezione Autunno Inverno/2018 Chi desidera una giacca che|2017/12/giacca-sci-junior-ferrari|data.oliviero.it/imgprodotto/giacca-sci-junior-ferrari_169281",
 "Giubbino Uomo Taglie Forti Militare|Collezione Autunno Inverno/2018 Piumino uomo taglie forti. Il modello|2017/12/giubbino-uomo-taglie-forti-militare|data.oliviero.it/imgprodotto/giubbino-uomo-taglie-forti-militare_170320",
 "Pantalone Uomo Taglie Forti Bianco e Grigio|Collezione Priamavera Estate Pantalone casual uomo taglie forti. Il|2017/12/pantalone-uomo-taglie-forti-bianco-e-grigio|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-bianco-e-grigio_163462",
 "Bermuda uomo Taglie Forti Tortora Billi|Collezione Primavera Estate Bermuda uomo taglie forti. Il modello|2017/12/bermuda-uomo-taglie-forti-tortora-billi|data.oliviero.it/imgprodotto/bermuda-uomo-taglie-forti-tortora-billi_164851",

@@ -1,4 +1,5 @@
 Gr = [
+"Sci Vantage X77 C + Lithium 10|L'Atomic Vantage X 77 C è un nuovo sci all-mountain che nasce dal mix|2017/12/sci-vantage-x77-c-+-lithium-10|data.oliviero.it/imgprodotto/sci-vantage-x77-c-lithium-10_156522",
 "Sci Famous 2 W + Xpress W 10|Per le principianti, il nuovo modello femminile da pista di Rossignol|2017/12/sci-famous-2-w-+-xpress-w-10|data.oliviero.it/imgprodotto/sci-famous-2-w-xpress-w-10_171748",
 "Casco Sci Donna da Head|Cloe è il casco più leggero di Head, con shell in policarbonato|2017/11/casco-sci-donna-da-head|data.oliviero.it/imgprodotto/casco-sci-cloe-325613_92266",
 "2 Pantaloni Sci Uomo da avere: gennaio 2017|I 2 Pantaloni Sci da Uomo che amerai dopo una giornata sulle piste|2017/01/2-pantaloni-sci-uomo-da-avere-gennaio-2017|data.oliviero.it/imgprodotto/pantaloni-sci-uomo-nero-0166g-4ko-99_155710",

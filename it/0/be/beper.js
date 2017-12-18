@@ -1,4 +1,5 @@
 Gr = [
+"Bilancia da cucina 2 in 1 bianca 90.114B|Bilancia da cucina 2 in 1 bianca Descrizione Ciotola in acciaio inox|2017/12/bilancia-da-cucina-2-in-1-bianca-90-114b|data.oliviero.it/imgprodotto/bilancia-da-cucina-2-in-1-bianca-90-114b_160600",
 "Robot da cucina 500W|Robot da cucina 500W - AZZURRO - 90.470A Descrizione: Potenza: 500|2017/12/robot-da-cucina-500w|data.oliviero.it/imgprodotto/robot-da-cucina-500w-azzurro-90-470a_160690",
 "Tostiera Deluxe|Tostiera Deluxe Codice: 90.604 Descrizione: Piastra antiaderente|2017/12/tostiera-deluxe|data.oliviero.it/imgprodotto/tostiera-deluxe_90345",
 "Vaporiera multicottura|Vaporiera multicottura con spegnimento automatico|2017/10/vaporiera-multicottura|data.oliviero.it/imgprodotto/vaporiera-multicottura_88965",

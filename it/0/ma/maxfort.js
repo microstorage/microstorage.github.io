@@ -1,4 +1,5 @@
 Gr = [
+"Felpa Uomo Taglie Forti Grigio 26700 250|Collezione Autunno Inverno/2018 Felpa uomo taglie forti. Il modello|2017/12/felpa-uomo-taglie-forti-grigio-26700-250|data.oliviero.it/imgprodotto/felpa-uomo-taglie-forti-grigio-26700-250_168557",
 "Bermuda uomo Taglie Forti Tortora Billi|Collezione Primavera Estate Bermuda uomo taglie forti. Il modello|2017/12/bermuda-uomo-taglie-forti-tortora-billi|data.oliviero.it/imgprodotto/bermuda-uomo-taglie-forti-tortora-billi_164851",
 "T-shirt taglie forti uomo|T-Shirt corpo uomo realizzata in puro Cotone, girocollo, maniche|2017/12/t-shirt-taglie-forti-uomo|data.oliviero.it/imgprodotto/t-shirt-taglie-forti-uomo-501_57859",
 "Pantalone Uomo Taglie Forti Nero Cadmo|Collezione Primavera Estate Pantalone casual uomo taglie forti. Il|2017/12/pantalone-uomo-taglie-forti-nero-cadmo|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-nero-cadmo_162729",

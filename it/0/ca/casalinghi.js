@@ -1,4 +1,5 @@
 Gr = [
+"Bilancia da cucina 2 in 1 bianca 90.114B|Bilancia da cucina 2 in 1 bianca Descrizione Ciotola in acciaio inox|2017/12/bilancia-da-cucina-2-in-1-bianca-90-114b|data.oliviero.it/imgprodotto/bilancia-da-cucina-2-in-1-bianca-90-114b_160600",
 "Robot da cucina 500W|Robot da cucina 500W - AZZURRO - 90.470A Descrizione: Potenza: 500|2017/12/robot-da-cucina-500w|data.oliviero.it/imgprodotto/robot-da-cucina-500w-azzurro-90-470a_160690",
 "Bollitore BL20|Bollitore da 1,7 L per tisane e bevande calde. Molto pratico da usare|2017/12/bollitore-bl20|data.oliviero.it/imgprodotto/bollitore-bl20_156337",
 "Porta cucchiai|Porta cucchiai in acciaio con finiture cromo, ideale per appoggiare|2017/12/porta-cucchiai|data.oliviero.it/imgprodotto/porta-cucchiai_74104",

@@ -1,4 +1,5 @@
 Gr = [
+"Stivaletti Boxe CL186|Interamente in pelle e lavorazione artigianale per il classico|2017/12/stivaletti-boxe-cl186|data.oliviero.it/imgprodotto/stivaletti-boxe-cl186_65719",
 "Bendaggio Semi-elastico 3,5m|Bendaggio semi-elastico in diverse colorazioni per il comfort e la|2017/12/bendaggio-semi-elastico-3-5m|data.oliviero.it/imgprodotto/bendaggio-semi-elastico-3-5m-ab705_169622",
 "Casco da Boxe CS410|Casco best-seller con protezione anti-shock sulla nuca, orecchie|2017/12/casco-da-boxe-cs410|data.oliviero.it/imgprodotto/casco-da-boxe-cs410_93262",
 "Guantoni Boxe Doctor 10 Oz|Dalla collaborazione tra il campione mondiale di K1 Giorgio Petrosyan|2017/12/guantoni-boxe-doctor-10-oz|data.oliviero.it/imgprodotto/guantoni-boxe-doctor-10-oz-gn050_154531",

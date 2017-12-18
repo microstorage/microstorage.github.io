@@ -1,4 +1,6 @@
 Gr = [
+"T-Shirt Donna Rosa|Questa maglia maniche lunghe Adidas è stata pensata per i vostri|2017/12/t-shirt-donna-rosa|data.oliviero.it/imgprodotto/t-shirt-donna-rosa_167977",
+"Scarpe Hamburg|Comparse per la prima volta all'inizio degli anni '80, le scarpe|2017/12/scarpe-hamburg|data.oliviero.it/imgprodotto/scarpe-hamburg-s76697_158149",
 "Tuta Donna Navy Grigio e viola|Collezione Autunno Inverno/2018 Questa tuta da ragazza slim-fit|2017/12/tuta-donna-navy-grigio-e-viola|data.oliviero.it/imgprodotto/tuta-donna-navy-grigio-e-viola_168022",
 "Pantaloncini Away Replica Juventus|Per la Juventus niente è impossibile. Questi short da calcio sono|2017/12/pantaloncini-away-replica-juventus|data.oliviero.it/imgprodotto/pantaloncini-away-replica-juventus_166975",
 "Felpa Uomo Nero|Una morbida giacca perfetta da indossare sopra l'abbigliamento da|2017/12/felpa-uomo-nero|data.oliviero.it/imgprodotto/felpa-uomo-nero_168033",

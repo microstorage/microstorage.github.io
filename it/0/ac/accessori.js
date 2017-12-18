@@ -1,4 +1,5 @@
 Gr = [
+"Stivaletti Boxe CL186|Interamente in pelle e lavorazione artigianale per il classico|2017/12/stivaletti-boxe-cl186|data.oliviero.it/imgprodotto/stivaletti-boxe-cl186_65719",
 "Sfera Tonificante|Ideale per il potenziamento muscolare di braccia spalle e gambe|2017/12/sfera-tonificante|data.oliviero.it/imgprodotto/sfera-tonificante_151342",
 "Bendaggio Semi-elastico 3,5m|Bendaggio semi-elastico in diverse colorazioni per il comfort e la|2017/12/bendaggio-semi-elastico-3-5m|data.oliviero.it/imgprodotto/bendaggio-semi-elastico-3-5m-ab705_169622",
 "Tappetino Arrotolabile 180x50|Tappetino per il fitness arrotolabile &bull; Superficie antiscivolo|2017/12/tappetino-arrotolabile-180x50|data.oliviero.it/imgprodotto/tappetino-arrotolabile-180x50_14309_big",

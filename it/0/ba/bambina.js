@@ -1,4 +1,5 @@
 Gr = [
+"Giacca Sci Junior Ferrari|Collezione Autunno Inverno/2018 Chi desidera una giacca che|2017/12/giacca-sci-junior-ferrari|data.oliviero.it/imgprodotto/giacca-sci-junior-ferrari_169281",
 "Astuccio 3 Zip Colorful Girl|L'ASTUCCIO 3 ZIP Seven School è l'accessorio che non può mancare nel|2017/12/astuccio-3-zip-colorful-girl|data.oliviero.it/imgprodotto/astuccio-3-zip-colorful-girl_166328",
 "Astuccio Lip Fantasy|Dimensioni 22x9x5,5 cm Funzionali Portapenne interno. Tasche Taschino|2017/12/astuccio-lip-fantasy|data.oliviero.it/imgprodotto/astuccio-lip-fantasy_167534",
 "Scarpe Jr. Gazelle|Queste scarpe per bambini sono una perfetta riproduzione delle|2017/12/scarpe-jr-gazelle|data.oliviero.it/imgprodotto/scarpe-jr-gazelle_165571",
