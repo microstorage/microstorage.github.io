@@ -1,4 +1,7 @@
 Gr = [
+"Felpa Donna Nero|Collezione Autunno Inverno/2018 Felpa da donna di Champion, della|2017/12/felpa-donna-nero|data.oliviero.it/imgprodotto/felpa-donna-nero_169768",
+"Jeans donna J2S4ZW 00100|Collezione Twin Set Jeans Jeans Boyfriend da donna dalla vestibilità|2017/12/jeans-donna-j2s4zw-00100|data.oliviero.it/imgprodotto/jeans-donna-j2s4zw-00100_146921",
+"Stringate Elsa Multicolor|Ana Lublin scarpe donna - Collezione Autunno/Inverno/2015 - MADE IN|2017/12/stringate-elsa-multicolor|data.oliviero.it/imgprodotto/stringate-elsa-multicolor_96830",
 "Jeans donna WPT357 B044|Collezione Primavera Estate Tipologia: Jeans donna Tessuto: 98%|2017/12/jeans-donna-wpt357-b044|data.oliviero.it/imgprodotto/jeans-donna-wpt357-b044_73320",
 "2 Slip Basic Midi|Tipologia: Confezione da 2 slip donna Tessuto: 95% cotone e 5%|2017/12/2-slip-basic-midi|data.oliviero.it/imgprodotto/2-slip-basic-midi_142399",
 "Pantaloni donna Heritage|Tipologia : Pantaloni donna Tessuto : 100% cotone Caratteristiche|2017/12/pantaloni-donna-heritage|data.oliviero.it/imgprodotto/pantaloni-donna-heritage_73342",

@@ -1,4 +1,5 @@
 Gr = [
+"Maglia Taglie Forti Uomo Nero|Collezione Autunno Inverno/2018 Pullover in misto lana scollo V, con|2017/12/maglia-taglie-forti-uomo-nero|data.oliviero.it/imgprodotto/maglia-taglie-forti-uomo-nero-nv11005ad20_170220",
 "Felpa Uomo Taglie Forti Grigio 26700 250|Collezione Autunno Inverno/2018 Felpa uomo taglie forti. Il modello|2017/12/felpa-uomo-taglie-forti-grigio-26700-250|data.oliviero.it/imgprodotto/felpa-uomo-taglie-forti-grigio-26700-250_168557",
 "Giubbino Uomo Taglie Forti Militare|Collezione Autunno Inverno/2018 Piumino uomo taglie forti. Il modello|2017/12/giubbino-uomo-taglie-forti-militare|data.oliviero.it/imgprodotto/giubbino-uomo-taglie-forti-militare_170320",
 "Pantalone Uomo Taglie Forti Bianco e Grigio|Collezione Priamavera Estate Pantalone casual uomo taglie forti. Il|2017/12/pantalone-uomo-taglie-forti-bianco-e-grigio|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-bianco-e-grigio_163462",

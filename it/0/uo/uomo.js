@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloni Sportivi Uomo Blu|Collezione Autunno Inverno/2018 I pantaloni da jogging Nike|2017/12/pantaloni-sportivi-uomo-blu|data.oliviero.it/imgprodotto/pantaloni-sportivi-uomo-blu_169482",
 "Scarpe Hamburg|Comparse per la prima volta all'inizio degli anni '80, le scarpe|2017/12/scarpe-hamburg|data.oliviero.it/imgprodotto/scarpe-hamburg-s76697_158149",
 "Scarpe Uomo Bianco Warrens|Collezione Primavera Estate Declinate in una classica versione|2017/12/scarpe-uomo-bianco-warrens|data.oliviero.it/imgprodotto/scarpe-uomo-bianco-warrens-u620lb-c0006_158183",
 "Parka Uomo Blue Night|Collezione Autunno Inverno/2018 Il classico parka Canadiens, qui in|2017/12/parka-uomo-blue-night|data.oliviero.it/imgprodotto/parka-uomo-blue-night_171487",

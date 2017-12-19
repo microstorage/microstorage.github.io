@@ -1,4 +1,5 @@
 Gr = [
+"Trio Book 51 Breeze Blue|Gli esclusivi sistemi modulari Peg Perego sono stati concepiti per|2017/12/trio-book-51-breeze-blue|data.oliviero.it/imgprodotto/trio-book-51-breeze-blue_170264",
 "Dual Bag Sideral Grey|Borsa Inglesina Dual Bag è la pratica e comoda borsa da passeggino|2017/12/dual-bag-sideral-grey|data.oliviero.it/imgprodotto/dual-bag-sideral-grey_172112",
 "Passeggino Twin flip 27|Età di utilizzo: 0-36 mesi. Passeggino leggero (solo 10 kg)|2017/12/passeggino-twin-flip-27|data.oliviero.it/imgprodotto/passeggino-twin-flip-27_139234",
 "Trio Combi Family Dolcecuore 2018|Trio composto da passeggino, carrozzina e seggiolino auto CARROZZINA|2017/12/trio-combi-family-dolcecuore-2018|data.oliviero.it/imgprodotto/trio-combi-family-dolcecuore-2018-845020-t647_171584",

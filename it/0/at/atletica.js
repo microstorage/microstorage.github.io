@@ -1,4 +1,5 @@
 Gr = [
+"Stringate Elsa Multicolor|Ana Lublin scarpe donna - Collezione Autunno/Inverno/2015 - MADE IN|2017/12/stringate-elsa-multicolor|data.oliviero.it/imgprodotto/stringate-elsa-multicolor_96830",
 "Scarpe Hamburg|Comparse per la prima volta all'inizio degli anni '80, le scarpe|2017/12/scarpe-hamburg|data.oliviero.it/imgprodotto/scarpe-hamburg-s76697_158149",
 "Scarpe Uomo Bianco Warrens|Collezione Primavera Estate Declinate in una classica versione|2017/12/scarpe-uomo-bianco-warrens|data.oliviero.it/imgprodotto/scarpe-uomo-bianco-warrens-u620lb-c0006_158183",
 "Scarpe Yourflex Trainette 9.0 MT|Non ti arrendi davanti a niente e nessuno: scegli una scarpa|2017/12/scarpe-yourflex-trainette-9-0-mt|data.oliviero.it/imgprodotto/scarpe-yourflex-trainette-9-0-mt_165678",

@@ -1,4 +1,9 @@
 Gr = [
+"Pantaloni Sportivi Uomo Blu|Collezione Autunno Inverno/2018 I pantaloni da jogging Nike|2017/12/pantaloni-sportivi-uomo-blu|data.oliviero.it/imgprodotto/pantaloni-sportivi-uomo-blu_169482",
+"Felpa Donna Nero|Collezione Autunno Inverno/2018 Felpa da donna di Champion, della|2017/12/felpa-donna-nero|data.oliviero.it/imgprodotto/felpa-donna-nero_169768",
+"Zaino Advanced Bitmap|Lo zaino pensato per chi ha esigenze di carico ma non vuole|2017/12/zaino-advanced-bitmap|data.oliviero.it/imgprodotto/zaino-advanced-bitmap_166298",
+"Maglia Taglie Forti Uomo Nero|Collezione Autunno Inverno/2018 Pullover in misto lana scollo V, con|2017/12/maglia-taglie-forti-uomo-nero|data.oliviero.it/imgprodotto/maglia-taglie-forti-uomo-nero-nv11005ad20_170220",
+"Jeans donna J2S4ZW 00100|Collezione Twin Set Jeans Jeans Boyfriend da donna dalla vestibilità|2017/12/jeans-donna-j2s4zw-00100|data.oliviero.it/imgprodotto/jeans-donna-j2s4zw-00100_146921",
 "Felpa Uomo Taglie Forti Grigio 26700 250|Collezione Autunno Inverno/2018 Felpa uomo taglie forti. Il modello|2017/12/felpa-uomo-taglie-forti-grigio-26700-250|data.oliviero.it/imgprodotto/felpa-uomo-taglie-forti-grigio-26700-250_168557",
 "Giacca Sci Junior Ferrari|Collezione Autunno Inverno/2018 Chi desidera una giacca che|2017/12/giacca-sci-junior-ferrari|data.oliviero.it/imgprodotto/giacca-sci-junior-ferrari_169281",
 "Trolley Maxi Round Widget|Per chi ancora non lo conoscesse, questo è Maxi Trolley Round: un|2017/12/trolley-maxi-round-widget|data.oliviero.it/imgprodotto/trolley-maxi-round-widget_166138",

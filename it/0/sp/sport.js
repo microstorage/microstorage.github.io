@@ -1,4 +1,7 @@
 Gr = [
+"Pantaloni Sportivi Uomo Blu|Collezione Autunno Inverno/2018 I pantaloni da jogging Nike|2017/12/pantaloni-sportivi-uomo-blu|data.oliviero.it/imgprodotto/pantaloni-sportivi-uomo-blu_169482",
+"Maschera Sci Nyira|Frame in poliuretano termoplastico per garantire il miglior comfort|2017/12/maschera-sci-nyira|data.oliviero.it/imgprodotto/maschera-sci-nyira-g00030-y016_157087",
+"Panca Multifunzione Hydro Master|Panca fitness multifunzione di ultima generazione che, grazie ai|2017/12/panca-multifunzione-hydro-master|data.oliviero.it/imgprodotto/panca-multifunzione-hydro-master_163732",
 "Sci Vantage X77 C + Lithium 10|L'Atomic Vantage X 77 C è un nuovo sci all-mountain che nasce dal mix|2017/12/sci-vantage-x77-c-+-lithium-10|data.oliviero.it/imgprodotto/sci-vantage-x77-c-lithium-10_156522",
 "Scarpe con ruote Propel 2.0|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/12/scarpe-con-ruote-propel-2-0|data.oliviero.it/imgprodotto/scarpe-con-ruote-propel-2-0-770603h_146320",
 "T-Shirt Donna Rosa|Questa maglia maniche lunghe Adidas è stata pensata per i vostri|2017/12/t-shirt-donna-rosa|data.oliviero.it/imgprodotto/t-shirt-donna-rosa_167977",

@@ -1,4 +1,5 @@
 Gr = [
+"Jeans donna J2S4ZW 00100|Collezione Twin Set Jeans Jeans Boyfriend da donna dalla vestibilità|2017/12/jeans-donna-j2s4zw-00100|data.oliviero.it/imgprodotto/jeans-donna-j2s4zw-00100_146921",
 "Jeans donna WPT357 B044|Collezione Primavera Estate Tipologia: Jeans donna Tessuto: 98%|2017/12/jeans-donna-wpt357-b044|data.oliviero.it/imgprodotto/jeans-donna-wpt357-b044_73320",
 "Jeans Taglie Forti Uomo Nero|Jeans uomo taglie forti. Il modello presenta allacciatura frontale|2017/12/jeans-taglie-forti-uomo-nero|data.oliviero.it/imgprodotto/jeans-taglie-forti-uomo-nero_170916",
 "Jeans Uomo Taglie Forti Super stone wash|Collezione Primavera Estate Jeans uomo taglie forti con allacciatura|2017/12/jeans-uomo-taglie-forti-super-stone-wash|data.oliviero.it/imgprodotto/jeans-uomo-taglie-forti-super-stone-wash_163503",

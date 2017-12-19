@@ -1,4 +1,5 @@
 Gr = [
+"Maschera Sci Nyira|Frame in poliuretano termoplastico per garantire il miglior comfort|2017/12/maschera-sci-nyira|data.oliviero.it/imgprodotto/maschera-sci-nyira-g00030-y016_157087",
 "Sci Vantage X77 C + Lithium 10|L'Atomic Vantage X 77 C è un nuovo sci all-mountain che nasce dal mix|2017/12/sci-vantage-x77-c-+-lithium-10|data.oliviero.it/imgprodotto/sci-vantage-x77-c-lithium-10_156522",
 "Sci Famous 2 W + Xpress W 10|Per le principianti, il nuovo modello femminile da pista di Rossignol|2017/12/sci-famous-2-w-+-xpress-w-10|data.oliviero.it/imgprodotto/sci-famous-2-w-xpress-w-10_171748",
 "Maschera Sci Nyira Free Fighter 7.6|Frame extra-wide in poliuretano termoplastico per garantire il|2017/12/maschera-sci-nyira-free-fighter-7-6|data.oliviero.it/imgprodotto/maschera-sci-nyira-free-fighter-7-6_171745",

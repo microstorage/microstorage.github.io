@@ -1,4 +1,6 @@
 Gr = [
+"Specchio Prestige Oro|Ecco arrivare finalmente la linea PRESTIGE Pali per chi vuole far|2017/12/specchio-prestige-oro|data.oliviero.it/imgprodotto/specchio-prestige-oro_25066_big",
+"Trio Book 51 Breeze Blue|Gli esclusivi sistemi modulari Peg Perego sono stati concepiti per|2017/12/trio-book-51-breeze-blue|data.oliviero.it/imgprodotto/trio-book-51-breeze-blue_170264",
 "Trio Combi Family Dolcecuore 2018|Trio composto da passeggino, carrozzina e seggiolino auto CARROZZINA|2017/12/trio-combi-family-dolcecuore-2018|data.oliviero.it/imgprodotto/trio-combi-family-dolcecuore-2018-845020-t647_171584",
 "Sdraietta Hooplà Stone|Realizzata con una seduta ampia e imbottita offrendo massimo comfort|2017/12/sdraietta-hoopla-stone|data.oliviero.it/imgprodotto/sdraietta-hoopl%C3%A0-stone-00079840850000_155416",
 "Trio ghibli prestige bianco|Ghibli è il trio che segue la crescita del bambino dai 0 ai 15 kg. Il|2017/12/trio-ghibli-prestige-bianco|data.oliviero.it/imgprodotto/trio-ghibli-prestige-bianco_88648",

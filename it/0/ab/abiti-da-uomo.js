@@ -1,4 +1,7 @@
 Gr = [
+"Felpa Donna Nero|Collezione Autunno Inverno/2018 Felpa da donna di Champion, della|2017/12/felpa-donna-nero|data.oliviero.it/imgprodotto/felpa-donna-nero_169768",
+"Zaino Advanced Bitmap|Lo zaino pensato per chi ha esigenze di carico ma non vuole|2017/12/zaino-advanced-bitmap|data.oliviero.it/imgprodotto/zaino-advanced-bitmap_166298",
+"Maglia Taglie Forti Uomo Nero|Collezione Autunno Inverno/2018 Pullover in misto lana scollo V, con|2017/12/maglia-taglie-forti-uomo-nero|data.oliviero.it/imgprodotto/maglia-taglie-forti-uomo-nero-nv11005ad20_170220",
 "Scarpe con Ruote Helix|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/12/scarpe-con-ruote-helix|data.oliviero.it/imgprodotto/scarpe-con-ruote-helix-7764_132725",
 "Felpa Uomo Taglie Forti Grigio 26700 250|Collezione Autunno Inverno/2018 Felpa uomo taglie forti. Il modello|2017/12/felpa-uomo-taglie-forti-grigio-26700-250|data.oliviero.it/imgprodotto/felpa-uomo-taglie-forti-grigio-26700-250_168557",
 "Giacca Sci Junior Ferrari|Collezione Autunno Inverno/2018 Chi desidera una giacca che|2017/12/giacca-sci-junior-ferrari|data.oliviero.it/imgprodotto/giacca-sci-junior-ferrari_169281",

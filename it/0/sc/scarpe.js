@@ -1,4 +1,5 @@
 Gr = [
+"Stringate Elsa Multicolor|Ana Lublin scarpe donna - Collezione Autunno/Inverno/2015 - MADE IN|2017/12/stringate-elsa-multicolor|data.oliviero.it/imgprodotto/stringate-elsa-multicolor_96830",
 "Scarpe con Ruote Helix|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/12/scarpe-con-ruote-helix|data.oliviero.it/imgprodotto/scarpe-con-ruote-helix-7764_132725",
 "Scarpe Hamburg|Comparse per la prima volta all'inizio degli anni '80, le scarpe|2017/12/scarpe-hamburg|data.oliviero.it/imgprodotto/scarpe-hamburg-s76697_158149",
 "Scarpe Trekking Slope GTX|Storico modello da escursionismo AKU. 30 anni di successo sul mercato|2017/12/scarpe-trekking-slope-gtx|data.oliviero.it/imgprodotto/scarpe-trekking-slope-gtx_171836",

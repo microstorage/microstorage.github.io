@@ -1,4 +1,5 @@
 Gr = [
+"Specchio Prestige Oro|Ecco arrivare finalmente la linea PRESTIGE Pali per chi vuole far|2017/12/specchio-prestige-oro|data.oliviero.it/imgprodotto/specchio-prestige-oro_25066_big",
 "Bagnetto Fasciatoio Stella Bianco|Mobiletto fasciatoio legno bianco con applicativo completo di|2017/12/bagnetto-fasciatoio-stella-bianco|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-stella-bianco_171815",
 "Piumetto letto Cheesecake|CheeseCake è una innovazione lanciata da Picci. La collezione|2017/12/piumetto-letto-cheesecake|data.oliviero.it/imgprodotto/piumetto-letto-cheesecake_140292",
 "Cameretta Felice|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/12/cameretta-felice|data.oliviero.it/imgprodotto/cameretta-felice-gt4060_160272",

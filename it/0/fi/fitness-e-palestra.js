@@ -1,4 +1,5 @@
 Gr = [
+"Panca Multifunzione Hydro Master|Panca fitness multifunzione di ultima generazione che, grazie ai|2017/12/panca-multifunzione-hydro-master|data.oliviero.it/imgprodotto/panca-multifunzione-hydro-master_163732",
 "Tapis Roulant TRX Smart Compact|Tapis roulant pre-assemblato pronto all'uso. SALVASPAZIO. Innovativo|2017/12/tapis-roulant-trx-smart-compact|data.oliviero.it/imgprodotto/tapis-roulant-trx-smart-compact_153874",
 "Ellittica Diamond D62|Ellittica Diamond D62 Sistema frenante elettromagnetico|2017/12/ellittica-diamond-d62|data.oliviero.it/imgprodotto/ellittica-diamond-d62_124144",
 "Sfera Tonificante|Ideale per il potenziamento muscolare di braccia spalle e gambe|2017/12/sfera-tonificante|data.oliviero.it/imgprodotto/sfera-tonificante_151342",
