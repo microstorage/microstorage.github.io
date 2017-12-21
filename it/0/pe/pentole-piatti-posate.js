@@ -1,4 +1,12 @@
 Gr = [
+"Set 24 Posate da Tavola Blu|Set posate caratterizzato da un manico, con acciaio passante, in|2017/12/set-24-posate-da-tavola-blu|data.oliviero.it/imgprodotto/set-24-posate-da-tavola-blu_155656",
+"Set 8 Pentole Madame Petravera|Batteria di pentola Petravera dura come la pietra per una cucina|2017/12/set-8-pentole-madame-petravera|data.oliviero.it/imgprodotto/set-8-pentole-madame-petravera_156085",
+"Posate 24 pz Arancio Brio|Modello di posate dalla tradizionale semplicità che grazie alle|2017/12/posate-24-pz-arancio-brio|data.oliviero.it/imgprodotto/posate-24-pz-arancio-brio_156488",
+"Padella Mammola 28 cm|MAMMOLA STONE. Solida Eleganza. Come uno scrigno di pietra, Mammola|2017/12/padella-mammola-28-cm|data.oliviero.it/imgprodotto/padella-mammola-28-cm_155932",
+"Padella Mammola 32 cm|MAMMOLA STONE. Solida Eleganza. Come uno scrigno di pietra, Mammola|2017/12/padella-mammola-32-cm|data.oliviero.it/imgprodotto/padella-mammola-32-cm_155934",
+"Posate 24 pz Nero Brio|Modello di posate dalla tradizionale semplicità che grazie alle|2017/12/posate-24-pz-nero-brio|data.oliviero.it/imgprodotto/posate-24-pz-nero-brio_156493",
+"Set Caraffa + 2 Bicchieri Bitita Verde Muschio|La caraffa Belle Epoque in acrilico colorato trasparente in divere|2017/12/set-caraffa-+-2-bicchieri-bitita-verde-muschio|data.oliviero.it/imgprodotto/set-caraffa-2-bicchieri-bitita-verde-muschio_99979",
+"Casseruola 20 cm Granito Antiaderente|Casseruola antiaderente granito. Realizzata in alluminio pressofuso|2017/12/casseruola-20-cm-granito-antiaderente|data.oliviero.it/imgprodotto/casseruola-20-cm-granito-antiaderente_156006",
 "Padella 28 cm Silver|Caratteristiche: Cottura senza grassi, grande resistenza, facile da|2017/12/padella-28-cm-silver|data.oliviero.it/imgprodotto/padella-28-cm-silver_155964",
 "Posate 24 pz Blu Chiaro Brio|Modello di posate dalla tradizionale semplicità che grazie alle|2017/12/posate-24-pz-blu-chiaro-brio|data.oliviero.it/imgprodotto/posate-24-pz-blu-chiaro-brio_156490",
 "Padella 24 cm Ingegno|LAGOSTINA PADELLA ANTIADERENTE Ingenio 24cm SENZA MANICO Facile da|2017/12/padella-24-cm-ingegno|data.oliviero.it/imgprodotto/padella-24-cm-ingegno_156210",

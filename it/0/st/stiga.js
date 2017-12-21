@@ -1,4 +1,5 @@
 Gr = [
+"Set di 4 racchette Family|L'attrezzatura ideale per organizzare tornei di famiglia in giardino|2017/12/set-di-4-racchette-family|data.oliviero.it/imgprodotto/set-di-4-racchette-family_8373_big",
 "Hockey da Tavolo Play Off|L'Hockey su tavolo, dinamico gioco di origine nordica, offre puro|2017/12/hockey-da-tavolo-play-off|data.oliviero.it/imgprodotto/hockey-da-tavolo-play-off_8356_big",
 "Racchetta Cosmo WRB 3 Stelle|Racchetta Ping Pong Grazie all'uso della tecnologia WRB, Cosmo ha una|2017/12/racchetta-cosmo-wrb-3-stelle|data.oliviero.it/imgprodotto/racchetta-cosmo-wrb-3-stelle_8332_big",
 "Set Solara|Set Solara composto da 2 racchette e 3 palline + tendirete e rete Set|2017/12/set-solara|data.oliviero.it/imgprodotto/set-solara_8353_big",

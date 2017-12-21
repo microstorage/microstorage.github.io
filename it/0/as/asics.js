@@ -1,4 +1,8 @@
 Gr = [
+"Scarpe Running Gel Nimbus 19 W|Accumula chilometri senza sforzare i piedi indossando la leggerissima|2017/12/scarpe-running-gel-nimbus-19-w|data.oliviero.it/imgprodotto/scarpe-running-gel-nimbus-19-w_169601",
+"Scarpe Running Gel Pulse 9|Le scarpe running Asics Gel Pulse 9 si presentano con un nuovo design|2017/12/scarpe-running-gel-pulse-9|data.oliviero.it/imgprodotto/scarpe-running-gel-pulse-9_169597",
+"Scarpe Volley Gel Netburber Ballistic|Un elemento essenziale per i migliori club e le squadre|2017/12/scarpe-volley-gel-netburber-ballistic|data.oliviero.it/imgprodotto/scarpe-volley-gel-netburber-ballistic_169173",
+"Scarpe Volley Gel Netburner Ballistic|Un elemento essenziale per i migliori club e le squadre|2017/12/scarpe-volley-gel-netburner-ballistic|data.oliviero.it/imgprodotto/scarpe-volley-gel-netburner-ballistic_169604",
 "Scarpe Indoor Gel Rocket 8|La GEL-ROCKET è una scarpa versatile, adatta a tutti i tipi di campo|2017/12/scarpe-indoor-gel-rocket-8|data.oliviero.it/imgprodotto/scarpe-indoor-gel-rocket-8_169171",
 "Scarpe Volley Gel Rocket 8 W|La GEL-ROCKET 8 è una scarpa da pallavolo che offre prestazioni|2017/12/scarpe-volley-gel-rocket-8-w|data.oliviero.it/imgprodotto/scarpe-volley-gel-rocket-8-w_169607",
 "Scarpe Running GT 1000 6|Le scarpe running Asics GT 1000 6 donna sono ideali per le runner che|2017/12/scarpe-running-gt-1000-6|data.oliviero.it/imgprodotto/scarpe-running-gt-1000-6_169174",

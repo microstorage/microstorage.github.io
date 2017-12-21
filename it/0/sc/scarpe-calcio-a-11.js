@@ -1,4 +1,6 @@
 Gr = [
+"Scarpe Calcio Hypervenom Phelon III FG|La scarpa da calcio per terreni duri Nike Hypervenom Phelon 3 - Uomo|2017/12/scarpe-calcio-hypervenom-phelon-iii-fg|data.oliviero.it/imgprodotto/scarpe-calcio-hypervenom-phelon-iii-fg-852556-308_160764",
+"Scarpe Calcio Jr. Mercurial Victory 6 DF AGPRO|Progettata con tomaia testurizzata e una trazione innovativa, la|2017/12/scarpe-calcio-jr-mercurial-victory-6-df-agpro|data.oliviero.it/imgprodotto/scarpe-calcio-jr-mercurial-victory-6-df-agpro_167389",
 "Scarpe Calcio EvoPower 4.3 AG|Le evoPOWER 4.3 per terreni compatti sono scarpe da calcio per|2017/12/scarpe-calcio-evopower-4-3-ag|data.oliviero.it/imgprodotto/scarpe-calcio-evopower-4-3-ag-103585-03_152755",
 "Scarpe da calcio MRL Club MD|La MRL Club mantiene le caratteristiche base di tocco e calzata|2017/12/scarpe-da-calcio-mrl-club-md|data.oliviero.it/imgprodotto/scarpe-da-calcio-mrl-club-md-12kp97601_166519",
 "Scarpe Calcio Ace 17.2 Primemesh|Hai già vinto. Servono solo 90 minuti perché se ne accorgano anche|2017/12/scarpe-calcio-ace-17-2-primemesh|data.oliviero.it/imgprodotto/scarpe-calcio-ace-17-2-primemesh-bb4325_158143",

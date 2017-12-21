@@ -1,4 +1,11 @@
 Gr = [
+"Scarpe Trekking Evasion 2 Aero|Andare lontano con lo sguardo verso l'orizzonte seguendo i propri|2017/12/scarpe-trekking-evasion-2-aero|data.oliviero.it/imgprodotto/scarpe-trekking-evasion-2-aero-393597_163289",
+"Scarpone Trekking Rigel Mid|Scarpone da trekking adatto a tutte le superfici, sia bagnate che|2017/12/scarpone-trekking-rigel-mid|data.oliviero.it/imgprodotto/scarpone-trekking-rigel-mid-3q12947-516q_164284",
+"Mantella R-Cloak|Mantella con cappuccio in Nylon e bottoni a pressione lungo i bordi|2017/12/mantella-r-cloak|data.oliviero.it/imgprodotto/mantella-r-cloak_108098",
+"Zaino Trekking Walk 30|Caratteristiche Capacità: litri 30 Materiale: kodratex 200D diamond|2017/12/zaino-trekking-walk-30|data.oliviero.it/imgprodotto/zaino-trekking-walk-30-zai020_164382",
+"Scarpe Trekking Montera GTX|Calzatura leggera e versatile per utilizzo su terreni facili o di|2017/12/scarpe-trekking-montera-gtx|data.oliviero.it/imgprodotto/scarpe-trekking-montera-gtx_171833",
+"Bastoncini Telescopici Carbon Pole|Bastone telescopico per trekking. Fabbricato in fibra di carbonio|2017/12/bastoncini-telescopici-carbon-pole|data.oliviero.it/imgprodotto/bastoncini-telescopici-carbon-pole_172893",
+"Scarpe Trekking Makalu III GTX|Utente primario: Amanti dell'hiking, che ricercano una calzatura|2017/12/scarpe-trekking-makalu-iii-gtx|data.oliviero.it/imgprodotto/scarpe-trekking-makalu-iii-gtx-212173-002_159651",
 "Ramponi Ice Master|Ramponcino con 12 punte in acciaio per maggiore stabilità su|2017/12/ramponi-ice-master|data.oliviero.it/imgprodotto/ramponi-ice-master-0179_157355",
 "Sacca Impermeabile 0016|Desideriamo proporre la nostra nuova linea di borse e sacche|2017/12/sacca-impermeabile-0016|data.oliviero.it/imgprodotto/sacca-impermeabile-0016_163370",
 "Zaino S-Lab Advanced Skin Hydro 12 Set|Nuovo zaino form-fitting per le gare sulle lunghe distanze, super|2017/12/zaino-s-lab-advanced-skin-hydro-12-set|data.oliviero.it/imgprodotto/zaino-s-lab-advanced-skin-hydro-12-set_80306",

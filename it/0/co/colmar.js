@@ -1,4 +1,10 @@
 Gr = [
+"Pile elasticizzato mezza zip Uomo Nero|Collezione Autunno Inverno/2018 Maglia termica uomo in pile|2017/12/pile-elasticizzato-mezza-zip-uomo-nero|data.oliviero.it/imgprodotto/pile-elasticizzato-mezza-zip-uomo-nero_171779",
+"Pantalone da Sci Donna Imbottito|Collezione Autunno Inverno/2018 Pantalone sci da donna imbottito in|2017/12/pantalone-da-sci-donna-imbottito|data.oliviero.it/imgprodotto/pantalone-da-sci-donna-imbottito_170470",
+"Pile Uomo effetto Melange Mezza Zip|Collezione Autunno Inverno/2018 Maglia termica uomo in pile effetto|2017/12/pile-uomo-effetto-melange-mezza-zip|data.oliviero.it/imgprodotto/pile-uomo-effetto-melange-mezza-zip_170475",
+"Cappello Uomo Grigio|Collezione Autunno Inverno/2018 Cappello invernale da uomo in morbido|2017/12/cappello-uomo-grigio|data.oliviero.it/imgprodotto/cappello-uomo-grigio_170952",
+"Pantalone da Sci Donna in Softshell|Collezione Autunno Inverno/2018 Il pantalone sci da donna in|2017/12/pantalone-da-sci-donna-in-softshell|data.oliviero.it/imgprodotto/pantalone-da-sci-donna-in-softshell_170468",
+"Piumino Outdoor Uomo Grigio|Collezione Autunno Inverno/2018 Giacca da uomo tecnica, calda|2017/12/piumino-outdoor-uomo-grigio|data.oliviero.it/imgprodotto/piumino-outdoor-uomo-grigio_171791",
 "Cappello Uomo Blu|Collezione Autunno Inverno/2018 Cappello invernale da uomo in morbido|2017/12/cappello-uomo-blu|data.oliviero.it/imgprodotto/cappello-uomo-blu_170954",
 "Pile elasticizzato mezza zip Uomo Giallo|Collezione Autunno Inverno/2018 Maglia termica uomo in pile|2017/12/pile-elasticizzato-mezza-zip-uomo-giallo|data.oliviero.it/imgprodotto/pile-elasticizzato-mezza-zip-uomo-giallo_171784",
 "Softshell Uomo Antivento Outdoor|Collezione Autunno Inverno/2018 Giacca da uomo tecnica, antivento|2017/12/softshell-uomo-antivento-outdoor|data.oliviero.it/imgprodotto/softshell-uomo-antivento-outdoor_170442",

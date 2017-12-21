@@ -1,4 +1,10 @@
 Gr = [
+"Caminetto da tavolo FP 020 A|Caminetti da tavolo FP/020/A Caminetto a bioetanolo da tavolo, con|2017/12/caminetto-da-tavolo-fp-020-a|data.oliviero.it/imgprodotto/caminetto-da-tavolo-fp-020-a_94242",
+"Tavolo Executive|È facile e veloce allungare il tavolo in base alle tue esigenze:|2017/12/tavolo-executive|data.oliviero.it/imgprodotto/tavolo-executive-om-223-ca_158288",
+"Caminetto da pavimento FP 008|Caminetti da pavimento FP/008 Caminetto a bioetanolo in acciaio|2017/12/caminetto-da-pavimento-fp-008|data.oliviero.it/imgprodotto/caminetto-da-pavimento-fp-008_94247",
+"Poltrona reclinabile Manuela|Poltrona Relax Reclinabile MANUELA - RE/003/SG Poltrona con elevatore|2017/12/poltrona-reclinabile-manuela|data.oliviero.it/imgprodotto/poltrona-reclinabile-manuela_157333",
+"Tavolino da salotto FS-137-WA|DESCRIZIONE Tavolino da salotto in pietra fossile di forma rotonda|2017/12/tavolino-da-salotto-fs-137-wa|data.oliviero.it/imgprodotto/tavolino-da-salotto-fs-137-wa-round-1_162151",
+"Tavolo Alexander|Tavolo da pranzo allungabile. Tavolo di stile classico, ma facilmente|2017/12/tavolo-alexander|data.oliviero.it/imgprodotto/tavolo-alexander-om-218-b_158285",
 "Caminetto da pavimento FP 005|Caminetti da pavimento FP/005 Caminetto a bioetanolo da pavimento in|2017/12/caminetto-da-pavimento-fp-005|data.oliviero.it/imgprodotto/caminetto-da-pavimento-fp-005_94256",
 "Caminetto da tavolo FP 020 B|Caminetti da tavolo FP/020/B Caminetto a bioetanolo da tavolo, con|2017/12/caminetto-da-tavolo-fp-020-b|data.oliviero.it/imgprodotto/caminetto-da-tavolo-fp-020-b_94243",
 "Caminetto da pavimento FP 006|Caminetti da pavimento FP/006 Caminetto a bioetanolo da pavimento, in|2017/12/caminetto-da-pavimento-fp-006|data.oliviero.it/imgprodotto/caminetto-da-pavimento-fp-006_94257",

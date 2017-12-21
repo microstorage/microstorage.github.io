@@ -1,4 +1,8 @@
 Gr = [
+"Biberon Caucciù 240 ml viaggio|Biberon Linea Benessere in caucciu 330 ml 0% BPA Chicco sono dedicati|2017/12/biberon-caucciu-240-ml-viaggio|data.oliviero.it/imgprodotto/biberon-caucci%C3%B9-240-ml-viaggio_138613",
+"Biberon Silicone 330 ml|Biberon Linea Benessere in caucciu 330 ml 0% BPA Chicco sono dedicati|2017/12/biberon-silicone-330-ml|data.oliviero.it/imgprodotto/biberon-silicone-330-ml_138609",
+"Biberon 260ml azzurro|Con il biberon First Bottle i bambini si sentono al sicuro fin dal|2017/12/biberon-260ml-azzurro|data.oliviero.it/imgprodotto/biberon-260ml-azzurro_53144",
+"Biberon 160 ml azzurro|Con il biberon First Bottle i bambini si sentono al sicuro fin dal|2017/12/biberon-160-ml-azzurro|data.oliviero.it/imgprodotto/biberon-160-ml-azzurro_53141",
 "Biberon Caucciù 150 ml|biberon Linea Benessere in caucciu 150 ml 0% BPA Chicco sono dedicati|2017/12/biberon-caucciu-150-ml|data.oliviero.it/imgprodotto/biberon-caucci%C3%B9-150-ml_51996",
 "Biberon 160 ml rosa|Con il biberon First Bottle i bambini si sentono al sicuro fin dal|2017/12/biberon-160-ml-rosa|data.oliviero.it/imgprodotto/biberon-160-ml-rosa_53142",
 "Biberon Silicone 250 ml|La linea Chicco Benessere è dedicata alle mamme allegre e piene di|2017/12/biberon-silicone-250-ml|data.oliviero.it/imgprodotto/biberon-silicone-250-ml_138864",

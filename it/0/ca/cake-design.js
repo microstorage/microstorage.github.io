@@ -1,4 +1,13 @@
 Gr = [
+"Stendipasta 48 x 38 cm linea Delicia|È una pratica tovaglietta in silicone, leggera, resistente|2017/12/stendipasta-48-x-38-cm-linea-delicia|data.oliviero.it/imgprodotto/stendipasta-48-x-38-cm-linea-delicia_90685",
+"Stampo Tagliabiscotti con bordi festonati|Ideale per preparare velocemente biscotti dolci con bordi festonati|2017/12/stampo-tagliabiscotti-con-bordi-festonati|data.oliviero.it/imgprodotto/stampo-tagliabiscotti-con-bordi-festonati_74041",
+"Stampo per cannolo|Stampo ideale per preparare facilmente cannoli. Semplicissimo da|2017/12/stampo-per-cannolo|data.oliviero.it/imgprodotto/stampo-per-cannolo_74038",
+"Stampo Tagliabiscotti Natale|Realizza i tuoi biscotti natalizi in un attimo con questo prezioso|2017/12/stampo-tagliabiscotti-natale|data.oliviero.it/imgprodotto/stampo-tagliabiscotti-natale_93305",
+"Fontana di cioccolato|Fontana di cioccolato Codice: 90.531 Descrizione : Ciotola e fontana|2017/12/fontana-di-cioccolato|data.oliviero.it/imgprodotto/fontana-di-cioccolato-90-531_90324",
+"Bottiglia per Bagne|Completa i tuoi dolci preparati con pan di spagna: una bagna|2017/12/bottiglia-per-bagne|data.oliviero.it/imgprodotto/bottiglia-per-bagne_93325",
+"Stampo da Forno ad Albero Delicia|Ecco uno stampo da forno particolare, lo appoggi su una teglia piana|2017/12/stampo-da-forno-ad-albero-delicia|data.oliviero.it/imgprodotto/stampo-da-forno-ad-albero-delicia_93298",
+"Raffredda Torta Tondo|Un dolce appena cotto va fatto raffreddare facilitando la dispersione|2017/12/raffredda-torta-tondo|data.oliviero.it/imgprodotto/raffredda-torta-tondo-630720_155172",
+"Stampo da Forno Pupazzo di Neve|Ecco uno stampo da forno particolare, lo appoggi su una teglia piana|2017/12/stampo-da-forno-pupazzo-di-neve|data.oliviero.it/imgprodotto/stampo-da-forno-pupazzo-di-neve_93300",
 "Anello Regolabile rettangolare|Realizza dolci di dimensioni diverse con un'unica tortiera! Lo stampo|2017/12/anello-regolabile-rettangolare|data.oliviero.it/imgprodotto/anello-regolabile-rettangolare_75868",
 "Stampo cioccolatini cucchiaini|Lascia a bocca aperta i tuoi invitati! Servi il caffè sostituendo al|2017/12/stampo-cioccolatini-cucchiaini|data.oliviero.it/imgprodotto/stampo-cioccolatini-cucchiaini-629370_157786",
 "Rullo Taglia Raviolini Tondi diam. 7 cm|Per ottenere da un impasto file di cerchi perfetti con uno scarto|2017/12/rullo-taglia-raviolini-tondi-diam-7-cm|data.oliviero.it/imgprodotto/rullo-taglia-raviolini-tondi-diam-7-cm_144200",

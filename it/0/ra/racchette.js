@@ -1,4 +1,9 @@
 Gr = [
+"Racchetta Tennis Biomimetic 400|Racchetta con piatto corde Biomimetic 400 è la racchetta ideale per|2017/12/racchetta-tennis-biomimetic-400|data.oliviero.it/imgprodotto/racchetta-tennis-biomimetic-400_15274_big",
+"Racchetta Tennis Burn FST 99|La racchetta Wilson Burn FST 99 è l'ideale per i tennisti che|2017/12/racchetta-tennis-burn-fst-99|data.oliviero.it/imgprodotto/racchetta-tennis-burn-fst-99_147738",
+"Set di 4 racchette Family|L'attrezzatura ideale per organizzare tornei di famiglia in giardino|2017/12/set-di-4-racchette-family|data.oliviero.it/imgprodotto/set-di-4-racchette-family_8373_big",
+"Racchetta Pure Drive Jr. 25|Look rinnovato per la nuova Pure Drive Junior 25 Girl! Per le|2017/12/racchetta-pure-drive-jr-25|data.oliviero.it/imgprodotto/racchetta-pure-drive-jr-25-140159_162191",
+"Racchetta Tennis AeroGel 265|Racchetta con piatto corde Caratteristiche: Ovale: 100 pollici Peso:|2017/12/racchetta-tennis-aerogel-265|data.oliviero.it/imgprodotto/racchetta-tennis-aerogel-265_15281_big",
 "Racchetta Boost Strike|Potenza e performance per questa racchetta 100% grafite con i colori|2017/12/racchetta-boost-strike|data.oliviero.it/imgprodotto/racchetta-boost-strike_172889",
 "Racchetta Tennis Pure Junior 26|Questa racchetta in grafite composto è ideale per i giovani giocatori|2017/12/racchetta-tennis-pure-junior-26|data.oliviero.it/imgprodotto/racchetta-tennis-pure-junior-26_80027",
 "Racchetta Pure Drive Team|Racchetta senza piatto corde Questa versione leggera e veloce del|2017/12/racchetta-pure-drive-team|data.oliviero.it/imgprodotto/racchetta-pure-drive-team-101300_162193",

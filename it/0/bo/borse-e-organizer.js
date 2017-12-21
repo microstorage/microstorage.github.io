@@ -1,4 +1,10 @@
 Gr = [
+"Dual Bag Oxford Blue|Borsa Inglesina Dual Bag è la pratica e comoda borsa da passeggino|2017/12/dual-bag-oxford-blue|data.oliviero.it/imgprodotto/dual-bag-oxford-blue_172107",
+"Finder zaino Rosso e Grigio|Chicco Finder è la soluzione ideale per chi vuole passeggiare in|2017/12/finder-zaino-rosso-e-grigio|data.oliviero.it/imgprodotto/finder-zaino-rosso-e-grigio_162916",
+"Buggy board MAXI +|Pedanina per il trasporto del secondo bambino applicabile alla|2017/12/buggy-board-maxi-+|data.oliviero.it/imgprodotto/buggy-board-maxi-_3104_big",
+"Day Bag Pantelleria|É una borsa capiente e funzionale, di foggia esclusiva, con interno|2017/12/day-bag-pantelleria|data.oliviero.it/imgprodotto/day-bag-pantelleria_170206",
+"Gancio per Passeggino buggy buddy|Aggancialo al passeggino, alla carrozzina, al carrello della spesa|2017/12/gancio-per-passeggino-buggy-buddy|data.oliviero.it/imgprodotto/gancio-per-passeggino-buggy-buddy_109418",
+"Day Bag Derby Grey|Borsa modulabile che si fa in due per te. Una comoda e grande borsa|2017/12/day-bag-derby-grey|data.oliviero.it/imgprodotto/day-bag-derby-grey_170209",
 "Dual Bag Imperial Blue|Borsa Inglesina Dual Bag è la pratica e comoda borsa da passeggino|2017/12/dual-bag-imperial-blue|data.oliviero.it/imgprodotto/dual-bag-imperial-blue_172110",
 "Day Bag Oxford Blue|Borsa modulabile che si fa in due per te. Una comoda e grande borsa|2017/12/day-bag-oxford-blue|data.oliviero.it/imgprodotto/day-bag-oxford-blue_170215",
 "Day Bag Rodeo Sand|Borsa modulabile che si fa in due per te. Una comoda e grande borsa|2017/12/day-bag-rodeo-sand|data.oliviero.it/imgprodotto/day-bag-rodeo-sand_170211",

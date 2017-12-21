@@ -1,3 +1,5 @@
 Gr = [
+"Bermuda WB57DA1D14|Collezione : Primavera Estate Tipologia : Bermuda casual da donna|2017/12/bermuda-wb57da1d14|data.oliviero.it/imgprodotto/bermuda-wb57da1d14_77591",
+"Bermuda T2S4MR 00457|Collezione Twin Set Jeans Bermuda da donna dalla vestibilità comoda|2017/12/bermuda-t2s4mr-00457|data.oliviero.it/imgprodotto/bermuda-t2s4mr-00457_146903",
 "Pantaloni da donna, logo con brillantini|Tipologia: Pantalone da donna in cotone, elastan|2017/04/pantaloni-da-donna-logo-con-brillantini|data.oliviero.it/imgprodotto/pantaloni-e8w3417_20582_big",
 ];

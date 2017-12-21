@@ -1,4 +1,8 @@
 Gr = [
+"Scarpe CT as seasnl hi|Utilizzo: Calzatura Moda Sport Tomaia: Tela Battistrada: Gomma|2017/12/scarpe-ct-as-seasnl-hi|data.oliviero.it/imgprodotto/scarpe-ct-as-seasnl-hi_73804",
+"Scarpe CT Specialty OX|Utilizzo: Calzatura Moda sport da donna Tomaia : tessuto Battistrada:|2017/12/scarpe-ct-specialty-ox|data.oliviero.it/imgprodotto/scarpe-ct-specialty-ox-549312c_114693",
+"Scarpe Pro Leather Vulc Distressed Mid|Sneakers uomo Tomaia tessuto sulola in gomma con disegno antiscivolo|2017/12/scarpe-pro-leather-vulc-distressed-mid|data.oliviero.it/imgprodotto/scarpe-pro-leather-vulc-distressed-mid_169810",
+"Felpa Uomo Navy|Collezione Autunno Inverno/2018 Felpa in caldo cotone con cappuccio|2017/12/felpa-uomo-navy|data.oliviero.it/imgprodotto/felpa-uomo-navy_171435",
 "Scarpe All Star Hi Ecopelle Sughero|Utilizzo: Calzatura moda sport Unisex Tomaia: Tessuto Battistrada: in|2017/12/scarpe-all-star-hi-ecopelle-sughero|data.oliviero.it/imgprodotto/scarpe-all-star-hi-ecopelle-sughero_139916",
 "Scarpe All Star Hi Total Glitter e borchie|Utilizzo: Calzatura moda sport Unisex Tomaia: Tessuto Battistrada: in|2017/12/scarpe-all-star-hi-total-glitter-e-borchie|data.oliviero.it/imgprodotto/scarpe-all-star-hi-total-glitter-e-borchie_124580",
 "Scarpe Ct As OX|Di tanto in tanto, cambiare colore fa bene. La Chuck Taylor All Star|2017/12/scarpe-ct-as-ox|data.oliviero.it/imgprodotto/scarpe-ct-as-ox-155571_164364",

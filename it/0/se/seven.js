@@ -1,4 +1,13 @@
 Gr = [
+"Astuccio 3 Zip Shift|L'ASTUCCIO 3 ZIP Seven School è l'accessorio che non può mancare nel|2017/12/astuccio-3-zip-shift|data.oliviero.it/imgprodotto/astuccio-3-zip-shift_166351",
+"Zaino Triplicabile Bundle Girl|Moltiplica lo spazio e stai sempre al passo con le mode! Guarda che|2017/12/zaino-triplicabile-bundle-girl|data.oliviero.it/imgprodotto/zaino-triplicabile-bundle-girl_166114",
+"Zaino Advanced Colorful Girl|Lo zaino pensato per chi ha esigenze di carico ma non vuole|2017/12/zaino-advanced-colorful-girl|data.oliviero.it/imgprodotto/zaino-advanced-colorful-girl_166195",
+"Portapenne Widget|Tanti modelli, grafiche e colori… proprio per tutti i gusti!!!|2017/12/portapenne-widget|data.oliviero.it/imgprodotto/portapenne-widget_166288",
+"Astuccio 3 Zip Bitmap|L'ASTUCCIO 3 ZIP Seven School è l'accessorio che non può mancare nel|2017/12/astuccio-3-zip-bitmap|data.oliviero.it/imgprodotto/astuccio-3-zip-bitmap_166301",
+"Diario 10 Mesi SJ Gang Girl|Seven SJ gang Girl diario agenda 10 mesi non datato, pagine|2017/12/diario-10-mesi-sj-gang-girl|data.oliviero.it/imgprodotto/diario-10-mesi-sj-gang-girl_167506",
+"Astuccio 3 Zip SJ High Tech|L'ASTUCCIO 3 ZIP SJ GANG è l'accessorio che non può mancare nel tuo|2017/12/astuccio-3-zip-sj-high-tech|data.oliviero.it/imgprodotto/astuccio-3-zip-sj-high-tech_166381",
+"Portapenne Fancy|Tanti modelli, grafiche e colori… proprio per tutti i gusti!!!|2017/12/portapenne-fancy|data.oliviero.it/imgprodotto/portapenne-fancy_166319",
+"Portapenne Pinky Hearts|Tanti modelli, grafiche e colori… proprio per tutti i gusti!!!|2017/12/portapenne-pinky-hearts|data.oliviero.it/imgprodotto/portapenne-pinky-hearts_166363",
 "Trolley New Jack Bitmap|Non conosci ancora Jack??? JACK è il trolley brevettato Seven che|2017/12/trolley-new-jack-bitmap|data.oliviero.it/imgprodotto/trolley-new-jack-bitmap_166146",
 "Trolley Maxi Round Bitmap|Per chi ancora non lo conoscesse, questo è Maxi Trolley Round: un|2017/12/trolley-maxi-round-bitmap|data.oliviero.it/imgprodotto/trolley-maxi-round-bitmap_166148",
 "Zaino Sdoppiabile Swag Boy|Per te, che sei sempre alla ricerca di qualcosa di veramente nuovo,|2017/12/zaino-sdoppiabile-swag-boy|data.oliviero.it/imgprodotto/zaino-sdoppiabile-swag-boy_166122",

@@ -1,4 +1,8 @@
 Gr = [
+"Grembiule Madeira Zip|Colore : Grigio Composizione : tessuto 100% poliestere Dimensioni :|2017/12/grembiule-madeira-zip|data.oliviero.it/imgprodotto/grembiule-madeira-zip_24720_big",
+"Grembiule Pub Liverpool|Colore : Gessato nero Composizione : tessuto 100% poliestere|2017/12/grembiule-pub-liverpool|data.oliviero.it/imgprodotto/grembiule-pub-liverpool_1661_big",
+"Grembiule Bistrò Rosso|Colore : Rosso Composizione : tessuto 100% poliestere Dimensioni :|2017/12/grembiule-bistro-rosso|data.oliviero.it/imgprodotto/grembiule-bistro-rosso_1669_big",
+"Grembiule Pub Lincoln|Colore : Gessato grigio Composizione : tessuto 100% poliestere|2017/12/grembiule-pub-lincoln|data.oliviero.it/imgprodotto/grembiule-pub-lincoln_24468_big",
 "Grembiule cuoco unisex|Colore : Bianco Inserto : Scozzese grigio Composizione : Tessuto 100%|2017/12/grembiule-cuoco-unisex|data.oliviero.it/imgprodotto/grembiule-cuoco-unisex_79010",
 "Grembiule Bistrò|Colore : Nero Composizione : tessuto 100% poliestere Dimensioni :|2017/12/grembiule-bistro|data.oliviero.it/imgprodotto/grembiule-bistro_24701_big",
 "Grembiule Pettorina|Grembiule pettorina corto con tasca Caratteristiche: Colore: Bianco|2017/12/grembiule-pettorina|data.oliviero.it/imgprodotto/grembiule-pettorina-087097_159017",

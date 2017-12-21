@@ -1,4 +1,11 @@
 Gr = [
+"Base seggiolino auto Belted|Omologata secondo la normativa Europea in vigore ECE R44/04, per|2017/12/base-seggiolino-auto-belted|data.oliviero.it/imgprodotto/base-seggiolino-auto-belted_67768",
+"Galileo I-fix grey|Galileo l-Fix è il seggiolino auto Inglesina omologato per i Gruppi|2017/12/galileo-i-fix-grey|data.oliviero.it/imgprodotto/galileo-i-fix-grey-av93f0gry_154905",
+"Seggiolino Tazio tt isofix nero-grigio|TAZIO Isofix TT il seggiolino 1.2.3 auto reclinabile isofix|2017/12/seggiolino-tazio-tt-isofix-nero-grigio|data.oliviero.it/imgprodotto/seggiolino-tazio-tt-isofix-nero-grigio_151414",
+"Seggiolino Youniverse Grey|Il Seggiolino Auto Chicco Youniverse è omologato dai 9 ai 36 Kg del|2017/12/seggiolino-youniverse-grey|data.oliviero.it/imgprodotto/seggiolino-youniverse-grey_167555",
+"Iseos Isofix black|Iséos IsoFix, la garanzia di un sistema di fissaggio universale per|2017/12/iseos-isofix-black|data.oliviero.it/imgprodotto/iseos-isofix-black_108745",
+"Seggiolino Auto Oasys 23 FixPlus Evo Nero 079159|Il tuo bambino cresce velocemente? Il suo seggiolino cresce con lui!|2017/12/seggiolino-auto-oasys-23-fixplus-evo-nero-079159|data.oliviero.it/imgprodotto/seggiolino-auto-oasys-23-fixplus-evo-nero-079159_158619",
+"See me too specchietto|Specchietto retrovisore supplementare per controllare il vostro|2017/12/see-me-too-specchietto|data.oliviero.it/imgprodotto/see-me-too-specchietto_73425",
 "Calibro isofix 150|Seggiolino Auto Cam Calibro Isofix è omologato per il trasporto in|2017/12/calibro-isofix-150|data.oliviero.it/imgprodotto/calibro-isofix-150_171616",
 "Seggiolimo X-space grey|Seggiolino auto gruppo 1 - Da 9 a 18 kg. Il seggiolino auto X-space|2017/12/seggiolimo-x-space-grey|data.oliviero.it/imgprodotto/seggiolimo-x-space-grey_72584",
 "Seggiolino Seat up 012 grey 079828|Seat Up 012 è il seggiolino auto di Chicco, omologato come Gruppo|2017/12/seggiolino-seat-up-012-grey-079828|data.oliviero.it/imgprodotto/seggiolino-seat-up-012-grey-079828_149861",

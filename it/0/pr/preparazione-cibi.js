@@ -1,4 +1,12 @@
 Gr = [
+"Sfogliatrici per impastatrice 90.342A|Sfogliatrici per impastatrice 90.342A Inclusi: Rotolo di stiramento|2017/12/sfogliatrici-per-impastatrice-90-342a|data.oliviero.it/imgprodotto/sfogliatrici-per-impastatrice-90-342a_160646",
+"Macchina Per Pasta Fresca 180 Atlas|Caratteristiche principali del SMV Marcato Ampia 180 Macchina|2017/12/macchina-per-pasta-fresca-180-atlas|data.oliviero.it/imgprodotto/macchina-per-pasta-fresca-180-atlas_156439",
+"Accessorio Spaghetti Atlas 150|Accessorio per macchina Atlas 150 per spaghetti da 2 mm. Progettato|2017/12/accessorio-spaghetti-atlas-150|data.oliviero.it/imgprodotto/accessorio-spaghetti-atlas-150_156202",
+"Piastra Induzione PI01|Per padelle e caffettiere ad induzione. Potenza 2000 W 2 velocita di|2017/12/piastra-induzione-pi01|data.oliviero.it/imgprodotto/piastra-induzione-pi01_156338",
+"Stampo per Ravioli Tondi|Siamo fan del 'fatto in casà e quando si parla di pasta fresca, ci|2017/12/stampo-per-ravioli-tondi|data.oliviero.it/imgprodotto/stampo-per-ravioli-tondi-630875_155240",
+"Passaverdura cm 24|Professionale maneggievole e pratico. il Passaverdure I cucinieri|2017/12/passaverdura-cm-24|data.oliviero.it/imgprodotto/passaverdura-cm-24_156150",
+"Coltello Pelacipolle|Uno strumento piccolo, leggero e utilissimo per pelare le cipolle!|2017/12/coltello-pelacipolle|data.oliviero.it/imgprodotto/coltello-pelacipolle-420633_155193",
+"Grattugia Multifunzionale a tamburo|Sminuzzi, affetti e grattugi frutta, verdura, formaggio, legumi|2017/12/grattugia-multifunzionale-a-tamburo|data.oliviero.it/imgprodotto/grattugia-multifunzionale-a-tamburo-643582_157827",
 "Grattugia a fori piccoli e medi|Eleganti ed incredibilmente funzionali le nuove grattugie della linea|2017/12/grattugia-a-fori-piccoli-e-medi|data.oliviero.it/imgprodotto/grattugia-a-fori-piccoli-e-medi_74071",
 "Macchina per la pasta manuale|Macchina per la pasta manuale Corpo e rulli in acciaio Funzionamento|2017/12/macchina-per-la-pasta-manuale|data.oliviero.it/imgprodotto/macchina-per-la-pasta-manuale_160586",
 "Temperino Julienne|Per preparare in modo semplice e veloce golosi spaghetti di verdura|2017/12/temperino-julienne|data.oliviero.it/imgprodotto/temperino-julienne-422060_157889",

@@ -1,4 +1,7 @@
 Gr = [
+"Maglia donna W15045 MA758|Collezione Liu Jo Jeans Maglia da donna con girocollo e maniche|2017/12/maglia-donna-w15045-ma758|data.oliviero.it/imgprodotto/maglia-donna-w15045-ma758_146477",
+"Maglia Uomo Grigio|Collezione Autunno Inverno/2018 Aggiungi un tocco di comfort al tuo|2017/12/maglia-uomo-grigio|data.oliviero.it/imgprodotto/maglia-uomo-grigio_171043",
+"Maglia Half Zip Grey Melange|Collezione Autunno Inverno/2018 Il nuovo pullover in maglia grossa|2017/12/maglia-half-zip-grey-melange|data.oliviero.it/imgprodotto/maglia-half-zip-grey-melange_170580",
 "Maglia donna P3S4LA 00429|Maglia da donna in tessuto lurex con possibilità di fare un fiocco|2017/12/maglia-donna-p3s4la-00429|data.oliviero.it/imgprodotto/maglia-donna-p3s4la-00429_146454",
 "Maglia donna P2S4FB 00437|Maglia da donna composta da maglia e canotta. La parte superiore è in|2017/12/maglia-donna-p2s4fb-00437|data.oliviero.it/imgprodotto/maglia-donna-p2s4fb-00437_146542",
 "Maglia Uomo Verde|Collezione Autunno Inverno/2018 Il nostro maglione da uomo con zip|2017/12/maglia-uomo-verde|data.oliviero.it/imgprodotto/maglia-uomo-verde_171045",

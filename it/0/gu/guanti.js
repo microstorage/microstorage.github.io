@@ -1,4 +1,13 @@
 Gr = [
+"Guanti Fit Karate|Questi guanti sono ideali per la fitness boxe e il karate|2017/12/guanti-fit-karate|data.oliviero.it/imgprodotto/guanti-fit-karate_169632",
+"Guanti da passata veloce STRYKER|Caratteristiche : Guanti da passata veloce STRYKER SYNTEX TECH G3|2017/12/guanti-da-passata-veloce-stryker|data.oliviero.it/imgprodotto/guanti-da-passata-veloce-stryker_159684",
+"Guanto Muay Thai 10oz|Costituiscono la scelta ideale per tutti coloro che praticano la muay|2017/12/guanto-muay-thai-10oz|data.oliviero.it/imgprodotto/guanto-muay-thai-10oz_171399",
+"Guantoni DYNAMIC FXX PRO Rosso 10 oz|Caratteristiche: GENUINE LEATHER pelle ultra morbida e liscia|2017/12/guantoni-dynamic-fxx-pro-rosso-10-oz|data.oliviero.it/imgprodotto/guantoni-dynamic-fxx-pro-rosso-10-oz_159711",
+"Guanti da Moto Mega X Lady|Mega-X Lady il guanto espressamente sviluppato per il motocross da|2017/12/guanti-da-moto-mega-x-lady|data.oliviero.it/imgprodotto/guanti-da-moto-mega-x-lady_165754",
+"Guantoni Ultimate Warrior Thai 10 oz|Caratteristiche: Ultimate Warrior Syntex PU: materiale composito|2017/12/guantoni-ultimate-warrior-thai-10-oz|data.oliviero.it/imgprodotto/guantoni-ultimate-warrior-thai-10-oz_159714",
+"Guantoni Boxe 10oz|Rappresentano il giusto compromesso per chi cerca un prodotto alla|2017/12/guantoni-boxe-10oz|data.oliviero.it/imgprodotto/guantoni-boxe-10oz_169639",
+"Guantoni Boxe Record 10 Oz|Quando la cura dei dettagli si fonde con lo studio e la ricerca dei|2017/12/guantoni-boxe-record-10-oz|data.oliviero.it/imgprodotto/guantoni-boxe-record-10-oz-gn056_154532",
+"Guanti da Sacco Armalite|Guanti da allenamento per Sacco Caratteristiche: Pelle esterna SLV3|2017/12/guanti-da-sacco-armalite|data.oliviero.it/imgprodotto/guanti-da-sacco-armalite-sabm-0101_157058",
 "Guanti Boxe in Pelle da competizione 12oz|Guanti da Boxe da competizione Caratteristiche: Strato esterno in|2017/12/guanti-boxe-in-pelle-da-competizione-12oz|data.oliviero.it/imgprodotto/guanti-boxe-in-pelle-da-competizione-12oz-s2ag-0213_92990",
 "Guanto da Boxe 6 oz|Quando la cura dei dettagli si fonde con lo studio e la ricerca dei|2017/12/guanto-da-boxe-6-oz|data.oliviero.it/imgprodotto/guanto-da-boxe-6-oz-gn056-record_154071",
 "Guanto da Boxe Active GN061 14 Oz|Guantoni in materiale anti-strappo, garantiscono la resistenza tipica|2017/12/guanto-da-boxe-active-gn061-14-oz|data.oliviero.it/imgprodotto/guanto-da-boxe-active-gn061-14-oz_93126",

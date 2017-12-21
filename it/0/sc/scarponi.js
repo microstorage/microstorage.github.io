@@ -1,4 +1,8 @@
 Gr = [
+"Scarponi Sci Advant Edge 95|Sciate di precisione con il minimo sforzo e fatica: questo è Advant|2017/12/scarponi-sci-advant-edge-95|data.oliviero.it/imgprodotto/scarponi-sci-advant-edge-95_156517",
+"Scarponi Sci NXT N4 W|NXT N4 W di Nordica è facile da calzare, completamente regolabile|2017/12/scarponi-sci-nxt-n4-w|data.oliviero.it/imgprodotto/scarponi-sci-nxt-n4-w_140325",
+"Scarponi Sci Vector Evo 120|Lo scarpone alpine versatile Vector Evo 120, destinato agli sciatori|2017/12/scarponi-sci-vector-evo-120|data.oliviero.it/imgprodotto/scarponi-sci-vector-evo-120_156520",
+"Scarpone Sci RX100|Il modello RX100 è una potente combinazione di tecnicità da velocità|2017/12/scarpone-sci-rx100|data.oliviero.it/imgprodotto/scarpone-sci-rx100_171751",
 "Scarpone Sci SX90|I Lange SX90 sono dedicati alla pista.Si adattano perfettamente|2017/12/scarpone-sci-sx90|data.oliviero.it/imgprodotto/scarpone-sci-sx90_171753",
 "Scarponi Cruise 80|Cruise è lo scarpone ideale per lo sciatore alla ricerca di un|2017/12/scarponi-cruise-80|data.oliviero.it/imgprodotto/scarponi-cruise-80-05054203570_155221",
 "Scarponi Speedmachine 100|Speedmachine 100 domina totalmente la categoria All Mountain, in|2017/12/scarponi-speedmachine-100|data.oliviero.it/imgprodotto/scarponi-speedmachine-100-050h3800m99_155220",

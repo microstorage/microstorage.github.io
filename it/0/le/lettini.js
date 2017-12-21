@@ -1,4 +1,7 @@
 Gr = [
+"Lettino Glammy bianco|Il Lettino Pali Glammy è il lettino caratterizzato da un elegante|2017/12/lettino-glammy-bianco|data.oliviero.it/imgprodotto/lettino-glammy-bianco_125863",
+"Lettino Tulip Avorio anticato|Il Lettino Tulip, è una nuovo modello di Pali, le suo forme|2017/12/lettino-tulip-avorio-anticato|data.oliviero.it/imgprodotto/lettino-tulip-avorio-anticato_140078",
+"Lettino Bravo Bianco|Tutti i Lettini e tutti i componenti delle camerette Pali sono sempre|2017/12/lettino-bravo-bianco|data.oliviero.it/imgprodotto/lettino-bravo-bianco_171867",
 "Lettino Voyager Bianco Grigio|Il lettino trasformabile pali voyager è unico con l'esclusivo sistema|2017/12/lettino-voyager-bianco-grigio|data.oliviero.it/imgprodotto/lettino-voyager-bianco-grigio_147349",
 "Lettino Zoe Bianco Rosa|Il Lettino Zoe è composto da una struttura in legno dondolante con|2017/12/lettino-zoe-bianco-rosa|data.oliviero.it/imgprodotto/lettino-zoe-bianco-rosa_147375",
 "Culla Kaja Natura|Con la culla Kaya natura, potete essere sempre vicino al vostro|2017/12/culla-kaja-natura|data.oliviero.it/imgprodotto/culla-kaja-natura_84087",

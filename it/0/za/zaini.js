@@ -1,4 +1,7 @@
 Gr = [
+"Zaino Triplicabile Bundle Girl|Moltiplica lo spazio e stai sempre al passo con le mode! Guarda che|2017/12/zaino-triplicabile-bundle-girl|data.oliviero.it/imgprodotto/zaino-triplicabile-bundle-girl_166114",
+"Zaino Trekking Walk 30|Caratteristiche Capacità: litri 30 Materiale: kodratex 200D diamond|2017/12/zaino-trekking-walk-30|data.oliviero.it/imgprodotto/zaino-trekking-walk-30-zai020_164382",
+"Zainetto Monkey|Zainetto da asilo ideale per contenere tutto il necessario per una|2017/12/zainetto-monkey|data.oliviero.it/imgprodotto/zainetto-monkey-skip-hop_140409",
 "Zainetto per il Pranzo Dog|Zainetto per l'asilo, morbido e con un capiente vano principale|2017/12/zainetto-per-il-pranzo-dog|data.oliviero.it/imgprodotto/zainetto-per-il-pranzo-dog-skip-hop_140397",
 "Zaino 34X44X12 Cm| Zaino di colore nero  Realizzato in tessuto impermeabile|2017/12/zaino-34x44x12-cm|data.oliviero.it/imgprodotto/zaino-34x44x12-cm_117388",
 "Trolley New Jack Bitmap|Non conosci ancora Jack??? JACK è il trolley brevettato Seven che|2017/12/trolley-new-jack-bitmap|data.oliviero.it/imgprodotto/trolley-new-jack-bitmap_166146",

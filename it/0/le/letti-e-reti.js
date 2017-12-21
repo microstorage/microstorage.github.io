@@ -1,4 +1,7 @@
 Gr = [
+"Letto Matrimoniale Dionyso con contenitore|Caratteristiche Dimensioni letto 200x170x37 cm Dimensioni testiera|2017/12/letto-matrimoniale-dionyso-con-contenitore|data.oliviero.it/imgprodotto/letto-matrimoniale-dionyso-con-contenitore-musa_153589",
+"Letto Matrimoniale Ulisse con contenitore|Caratteristiche Dimensioni letto 200x170x37 cm Dimensioni testiera|2017/12/letto-matrimoniale-ulisse-con-contenitore|data.oliviero.it/imgprodotto/letto-matrimoniale-ulisse-con-contenitore-musa_153607",
+"Letto Matrimoniale Narciso Rete Fissa|Caratteristiche Dimensioni letto 208x176x37 cm Dimensioni testiera|2017/12/letto-matrimoniale-narciso-rete-fissa|data.oliviero.it/imgprodotto/letto-matrimoniale-narciso-rete-fissa-musa_153596",
 "Letto Matrimoniale Zeus con contenitore|Caratteristiche Dimensioni letto 209x176x37 cm Dimensioni testiera|2017/12/letto-matrimoniale-zeus-con-contenitore|data.oliviero.it/imgprodotto/letto-matrimoniale-zeus-con-contenitore-musa_153609",
 "Rete 80x200 Singolo con doghe in legno Jumbo 80|Caratteristiche tecniche: Telaio in acciaio 42x42 Verniciatura|2017/12/rete-80x200-singolo-con-doghe-in-legno-jumbo-80|data.oliviero.it/imgprodotto/rete-80x200-singolo-con-doghe-in-legno-jumbo-80_61432",
 "Letto Matrimoniale Poseidone Ecopelle Rete Fissa|Caratteristiche Dimensioni letto 207x185x31 cm Dimensioni testiera|2017/12/letto-matrimoniale-poseidone-ecopelle-rete-fissa|data.oliviero.it/imgprodotto/letto-matrimoniale-poseidone-ecopelle-rete-fissa-musa_153602",

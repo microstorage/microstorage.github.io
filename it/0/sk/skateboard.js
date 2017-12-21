@@ -1,4 +1,7 @@
 Gr = [
+"Skateboard FREEDOM tavola gialla|Descrizione: Dimensioni tavola : 57x15,2 cm Materiale tavola|2017/12/skateboard-freedom-tavola-gialla|data.oliviero.it/imgprodotto/skateboard-freedom-tavola-gialla-ruote-azzurre_162372",
+"Surfskate Birdless 29\"|Il Ventura 29″ riproduce fedelmente la sensazione di una tavola da|2017/12/surfskate-birdless-29|data.oliviero.it/imgprodotto/surfskate-birdless-29_165563",
+"Skateboard FREEDOM tavola rossa|Descrizione: Dimensioni tavola : 57x15,2 cm Materiale tavola|2017/12/skateboard-freedom-tavola-rossa|data.oliviero.it/imgprodotto/skateboard-freedom-tavola-rossa-ruote-gialle_162371",
 "Skateboard Fishtail|Skateboard Fishtail, tavola concava da cm. 68,5 in legno di acero a|2017/12/skateboard-fishtail|data.oliviero.it/imgprodotto/skateboard-fishtail_87724",
 "Hoverboard SKYLON 6.5|\"Hoverboard SKYLON 6.5 con Descrizione : Diametro ruota: 16,5 cm|2017/12/hoverboard-skylon-6-5|data.oliviero.it/imgprodotto/hoverboard-skylon-6-5_161078",
 "Surfskate Ventura 29\"|Il Ventura 29″ riproduce fedelmente la sensazione di una tavola da|2017/12/surfskate-ventura-29|data.oliviero.it/imgprodotto/surfskate-ventura-29_165555",

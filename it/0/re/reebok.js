@@ -1,4 +1,7 @@
 Gr = [
+"Scarpe Classic Leather|Non sarai mai a corto di stile. La tomaia in morbida pelle offre il|2017/12/scarpe-classic-leather|data.oliviero.it/imgprodotto/scarpe-classic-leather-28413_159833",
+"Scarpe Melted Metal (W)|Tra stile moderno e tradizionale non serve più scegliere: questa|2017/12/scarpe-melted-metal-w|data.oliviero.it/imgprodotto/scarpe-melted-metal-w-_168676",
+"Scarpe Club 85 LTHR (W)|Tra stile moderno e tradizionale non serve più scegliere: questa Club|2017/12/scarpe-club-85-lthr-w|data.oliviero.it/imgprodotto/scarpe-club-85-lthr-w-_168688",
 "Scarpe Cl Leather SF|Uno stile elegante e caratterizzato da linee pulite si combina alla|2017/12/scarpe-cl-leather-sf|data.oliviero.it/imgprodotto/scarpe-cl-leather-sf-v67859_147707",
 "Scarpe Classic Leather Womens nere|Utilizzo: Calzatura Moda Sport Donna Tomaia: Pelle e Mesh|2017/12/scarpe-classic-leather-womens-nere|data.oliviero.it/imgprodotto/scarpe-classic-leather-womens-nere_149680",
 "Scarpe Yourflex Train 9.0 MT|Non ti arrendi davanti a niente e nessuno: scegli una scarpa|2017/12/scarpe-yourflex-train-9-0-mt|data.oliviero.it/imgprodotto/scarpe-yourflex-train-9-0-mt_166820",

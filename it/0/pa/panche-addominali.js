@@ -1,4 +1,6 @@
 Gr = [
+"Panca Addominali Universal Bench|UNIVERSAL 07629-800 Robusta panca piana/inclinabile deale per|2017/12/panca-addominali-universal-bench|data.oliviero.it/imgprodotto/panca-addominali-universal-bench_130328",
+"Panca addominali Vic 100|Panca addominali regolabile in altezza. La possibilità di regolare la|2017/12/panca-addominali-vic-100|data.oliviero.it/imgprodotto/panca-addominali-vic-100_150165",
 "Panca Addominale Adonis|La panca per esercizi Adonis della Horizon Fitness si adatta a tutte|2017/12/panca-addominale-adonis|data.oliviero.it/imgprodotto/panca-addominale-adonis_154163",
 "Panca Palestra WB50|Regolazione altezza supporti su 7 posizioni|2017/11/panca-palestra-wb50|data.oliviero.it/imgprodotto/panca-wb50_171163",
 "Palestra - La top 10 delle Panche Multifunzione: marzo 2017|La top 10 delle migliori Panche Multifunzione da palestra a marzo 2017|2017/03/palestra-la-top-10-delle-panche-multifunzione-marzo-2017|data.oliviero.it/imgprodotto/panca-multifunzione-delta-xl_135934",

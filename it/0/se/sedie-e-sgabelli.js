@@ -1,4 +1,13 @@
 Gr = [
+"Sgabello Quadro Rosso|Sgabello con base e struttura in acciaio cromato, seduta e schienale|2017/12/sgabello-quadro-rosso|data.oliviero.it/imgprodotto/sgabello-quadro-rosso_130777",
+"Coppia Sgabelli Tappo Red|sgabello bar TAPPO RED Elevazione con pistone a gas. Altezza|2017/12/coppia-sgabelli-tappo-red|data.oliviero.it/imgprodotto/coppia-sgabelli-tappo-red_147611",
+"4 Sedie Match White|Sedia Match White Sedia Impilabile Seduta Rivestita In Pelle|2017/12/4-sedie-match-white|data.oliviero.it/imgprodotto/4-sedie-match-white_170165",
+"2 sedie trasparenti monaco|Sedia Con Braccioli Da Interno / Esterno Monaco Realizzata In|2017/12/2-sedie-trasparenti-monaco|data.oliviero.it/imgprodotto/2-sedie-trasparenti-monaco_170002",
+"4 Sedie Well Grey|Sedia Well Grey Rivestita In Pelle Sintetica Di Colore Grigio Gambe|2017/12/4-sedie-well-grey|data.oliviero.it/imgprodotto/4-sedie-well-grey_170166",
+"Coppia di Sedie Margò Tortora|Sedie MARGO' TORTORA rivestita in pelle ecologica di colore tortora|2017/12/coppia-di-sedie-margo-tortora|data.oliviero.it/imgprodotto/coppia-di-sedie-margo-tortora_137910",
+"Coppia Sgabelli Kris Marrone|Sgabello con struttura in acciaio cromato, seduta in ecopelle|2017/12/coppia-sgabelli-kris-marrone|data.oliviero.it/imgprodotto/coppia-sgabelli-kris-marrone_108547",
+"Coppia di sedie Kable Grey|Sedia KABLE GREY rivestita in pelle ecologica di colore Grigio|2017/12/coppia-di-sedie-kable-grey|data.oliviero.it/imgprodotto/coppia-di-sedie-kable-grey_137881",
+"Coppia di Sgabelli casting white|SGABELLO \"CASTING WHITE\" seduta e schienale in pelle ecologica bianca|2017/12/coppia-di-sgabelli-casting-white|data.oliviero.it/imgprodotto/coppia-di-sgabelli-casting-white_78496",
 "4 Sedie Margo White|Sedia \"\"Margò White\"\" Rivestita In Pelle Sintetica Gambe In Metallo|2017/12/4-sedie-margo-white|data.oliviero.it/imgprodotto/4-sedie-margo-white_170162",
 "2 sedie camy tortora|Sedie Camy Tortora Completamente Rivestita In Pelle Sintetica Di|2017/12/2-sedie-camy-tortora|data.oliviero.it/imgprodotto/2-sedie-camy-tortora_169980",
 "4 Sedie Just Taupe|Sedia Just Taupe Seduta Rivestita In Pelle Sintetica Di Colore|2017/12/4-sedie-just-taupe|data.oliviero.it/imgprodotto/4-sedie-just-taupe_169927",

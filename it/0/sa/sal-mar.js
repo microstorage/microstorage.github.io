@@ -1,4 +1,11 @@
 Gr = [
+"Set Verline Sofa Ecrù|Set sofa composto da divanetto 2 posti, 2 poltrone e tavolino da|2017/12/set-verline-sofa-ecru|data.oliviero.it/imgprodotto/set-verline-sofa-ecr%C3%B9_164383",
+"Sgabello Quadro Rosso|Sgabello con base e struttura in acciaio cromato, seduta e schienale|2017/12/sgabello-quadro-rosso|data.oliviero.it/imgprodotto/sgabello-quadro-rosso_130777",
+"Divanetto Ascott Caffé|Divanetto Bistrot Strutture in ferro rivestite da intreccio in fibre|2017/12/divanetto-ascott-caffe|data.oliviero.it/imgprodotto/divanetto-ascott-caff%C3%A9_108468",
+"Altalena Kiko 3|Altalena a due posti con struttura tubolare in ferro, presenta un|2017/12/altalena-kiko-3|data.oliviero.it/imgprodotto/altalena-kiko-3_108449",
+"Gazebo Creta 3x4 Ecru|Gazebo Ferro 3x4 Metri Struttura in ferro verniciato a polvere|2017/12/gazebo-creta-3x4-ecru|data.oliviero.it/imgprodotto/gazebo-creta-3x4-ecru_153521",
+"Coppia Sgabelli Kris Marrone|Sgabello con struttura in acciaio cromato, seduta in ecopelle|2017/12/coppia-sgabelli-kris-marrone|data.oliviero.it/imgprodotto/coppia-sgabelli-kris-marrone_108547",
+"Ombrellone Senso 3X4 Bianco|Ombrellone a Braccio Retrattile Struttura in alluminio verniciato|2017/12/ombrellone-senso-3x4-bianco|data.oliviero.it/imgprodotto/ombrellone-senso-3x4-bianco_108501",
 "Sdraio Ocean Ecrù|Sdraio Relax Multi-posizione Struttura in tubolare di ferro|2017/12/sdraio-ocean-ecru|data.oliviero.it/imgprodotto/sdraio-ocean-ecr%C3%B9_108539",
 "Set Lobra Dining Ecrù|Set Pranzo composto da tavolo e 6 poltrone Struttura in tubolare di|2017/12/set-lobra-dining-ecru|data.oliviero.it/imgprodotto/set-lobra-dining-ecr%C3%B9_108543",
 "Barbecue Grande Pupo|Barbecue a carbone Cottura a carbone Area di cottura diametro: 57 cm|2017/12/barbecue-grande-pupo|data.oliviero.it/imgprodotto/barbecue-grande-pupo_146591",

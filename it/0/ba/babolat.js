@@ -1,4 +1,7 @@
 Gr = [
+"Borsone Tennis X12 Pure Drive|Il design di questa nuova borsa da tennis Babolat Pure x 12|2017/12/borsone-tennis-x12-pure-drive|data.oliviero.it/imgprodotto/borsone-tennis-x12-pure-drive_169177",
+"Pro Skin Overgrip|Nuovo nome per l'overgrip Pro Team Tacky Thin che conserva però tutte|2017/12/pro-skin-overgrip|data.oliviero.it/imgprodotto/pro-skin-overgrip-653036-105_162202",
+"Racchetta Pure Drive Jr. 25|Look rinnovato per la nuova Pure Drive Junior 25 Girl! Per le|2017/12/racchetta-pure-drive-jr-25|data.oliviero.it/imgprodotto/racchetta-pure-drive-jr-25-140159_162191",
 "Racchetta Boost Strike|Potenza e performance per questa racchetta 100% grafite con i colori|2017/12/racchetta-boost-strike|data.oliviero.it/imgprodotto/racchetta-boost-strike_172889",
 "Zaino Club Blue|Questo zaino propone un compartimento specifico per racchette con|2017/12/zaino-club-blue|data.oliviero.it/imgprodotto/zaino-club-blue_167540",
 "Racchetta Tennis Pure Junior 26|Questa racchetta in grafite composto è ideale per i giovani giocatori|2017/12/racchetta-tennis-pure-junior-26|data.oliviero.it/imgprodotto/racchetta-tennis-pure-junior-26_80027",

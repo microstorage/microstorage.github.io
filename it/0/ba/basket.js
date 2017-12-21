@@ -1,4 +1,13 @@
 Gr = [
+"Canestro Tabellone 6098|UNICO PEZZO DISPONIBILE. PRODOTTO VENDUTO MONTATO SU BANCALE. EX|2017/12/canestro-tabellone-6098|data.oliviero.it/imgprodotto/canestro-tabellone-6098_19361_big",
+"Canestro Detroit|Detroit è il tabellone da basket con colonna con altezza regolabile|2017/12/canestro-detroit|data.oliviero.it/imgprodotto/canestro-detroit_1755_big",
+"Total Training Experience MF527|Il Total Training Experience della Movi Fitness MF527 è un attrezzo|2017/12/total-training-experience-mf527|data.oliviero.it/imgprodotto/total-training-experience-mf527_90813",
+"Scarpe Basket Harden Vol.1|Quando attacca, James Harden è semplicemente inarrestabile. Queste|2017/12/scarpe-basket-harden-vol-1|data.oliviero.it/imgprodotto/scarpe-basket-harden-vol-1_167288",
+"Canestro El Paso|Tabellone da basket con colonna di altezza regolabile, adatto per|2017/12/canestro-el-paso|data.oliviero.it/imgprodotto/canestro-el-paso_1754_big",
+"Scarpe Basket UA Clutchfit Drive 3 Low|La scarpa da Basket Drive 3 Low di Under Armour è stata progettata|2017/12/scarpe-basket-ua-clutchfit-drive-3-low|data.oliviero.it/imgprodotto/scarpe-basket-ua-clutchfit-drive-3-low-1274422-600_154320",
+"Pilates Roller|Descrizione Pilates roller MF514 Ø cm 15 x cm 91 di JK Fitness Il|2017/12/pilates-roller|data.oliviero.it/imgprodotto/pilates-roller_74468",
+"Canotta Basket Uomo|La canotta da basket Nike Dry Kyrie - Uomo è realizzata in tessuto|2017/12/canotta-basket-uomo|data.oliviero.it/imgprodotto/canotta-basket-uomo_167798",
+"Canestri basket zincati a caldo|CANESTRI BASKET ZINCATI A CALDO rinforzati. Caratteristiche tecniche:|2017/12/canestri-basket-zincati-a-caldo|data.oliviero.it/imgprodotto/canestri-basket-zincati-a-caldo_162171",
 "Scarpe Basket Jordan Flight Origin 4|ISPIRATA AL VOLO - La scarpa Jordan Flight Origin 4 - Uomo offre un|2017/12/scarpe-basket-jordan-flight-origin-4|data.oliviero.it/imgprodotto/scarpe-basket-jordan-flight-origin-4_172374",
 "Basket a colonna Junior|BASKETBALL JUNIOR trasportabile. Caratteristiche tecniche: Base in|2017/12/basket-a-colonna-junior|data.oliviero.it/imgprodotto/basket-a-colonna-junior_162173",
 "Scarpe Basket D Rose 7 Primeknit|Quando Derrick Rose conquista il pallone, sembra che i giocatori|2017/12/scarpe-basket-d-rose-7-primeknit|data.oliviero.it/imgprodotto/scarpe-basket-d-rose-7-primeknit-aq7743_154497",

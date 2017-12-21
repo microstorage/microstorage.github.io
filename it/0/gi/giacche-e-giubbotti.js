@@ -1,4 +1,10 @@
 Gr = [
+"Giubbino Uomo Taglie Forti Ove Tortora|Collezione Autunno Inverno/2018 Parka da uomo taglie forti con|2017/12/giubbino-uomo-taglie-forti-ove-tortora|data.oliviero.it/imgprodotto/giubbino-uomo-taglie-forti-ove-tortora_170904",
+"Piumino Taglie Forti Uomo Frode Verde e Blu|Collezione Autunno Inverno/2018 Piumino uomo taglie forti. Il modello|2017/12/piumino-taglie-forti-uomo-frode-verde-e-blu|data.oliviero.it/imgprodotto/piumino-taglie-forti-uomo-frode-verde-e-blu_171459",
+"Giubbotto Uomo Taglie Forti Navy|Collezione Autunno Inverno/2018 Giubbotto da uomo taglie Forti. Il|2017/12/giubbotto-uomo-taglie-forti-navy|data.oliviero.it/imgprodotto/giubbotto-uomo-taglie-forti-navy_168591",
+"Giacca Taglie Forti Uomo Sven Blu|Collezione Autunno Inverno/2018 Giacca da uomo taglie forti. Il|2017/12/giacca-taglie-forti-uomo-sven-blu|data.oliviero.it/imgprodotto/giacca-taglie-forti-uomo-sven-blu_168517",
+"Giubbino Uomo Taglie Forti Olav Nero|Collezione Autunno Inverno/2018 Giubbotto in ecopelle da uomo taglie|2017/12/giubbino-uomo-taglie-forti-olav-nero|data.oliviero.it/imgprodotto/giubbino-uomo-taglie-forti-olav-nero_170899",
+"Giubbotto Uomo Taglie Forti Blu|Collezione Primavera Estate Giubbotto da uomo taglie forti. Il|2017/12/giubbotto-uomo-taglie-forti-blu|data.oliviero.it/imgprodotto/giubbotto-uomo-taglie-forti-blu-71311-0580_161462",
 "Giubbotto Taglie Forti Limone Acerbo NV67010AD 211|Collezione Primavera Estate Giubbotto da uomo taglie forti in tessuto|2017/12/giubbotto-taglie-forti-limone-acerbo-nv67010ad-211|data.oliviero.it/imgprodotto/giubbotto-taglie-forti-limone-acerbo-nv67010ad-211_158595",
 "Giacca Taglie Forti Uomo Sven Nero|Collezione Autunno Inverno/2018 Giacca da uomo taglie forti. Il|2017/12/giacca-taglie-forti-uomo-sven-nero|data.oliviero.it/imgprodotto/giacca-taglie-forti-uomo-sven-nero_168523",
 "Giubbino Uomo Taglie Forti Tortora|Collezione Primavera Estate Giubbino da uomo taglie Forti. Il modello|2017/12/giubbino-uomo-taglie-forti-tortora|data.oliviero.it/imgprodotto/giubbino-uomo-taglie-forti-tortora-nv67014ad-035_161303",

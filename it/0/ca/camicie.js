@@ -1,4 +1,10 @@
 Gr = [
+"Camicia Uomo Taglie Forti Blu|Collezione Primavera Estate Camicia uomo taglie Forti. Il modello|2017/12/camicia-uomo-taglie-forti-blu|data.oliviero.it/imgprodotto/camicia-uomo-taglie-forti-blu_164288",
+"Camicia Uomo Western Directoire Blue|Collezione Autunno Inverno/2018 Questa camicia slim con bottoni|2017/12/camicia-uomo-western-directoire-blue|data.oliviero.it/imgprodotto/camicia-uomo-western-directoire-blue_170493",
+"Camicia Uomo Bianco|Collezione Autunno Inverno/2018 Chi ha detto che l'abbigliamento da|2017/12/camicia-uomo-bianco|data.oliviero.it/imgprodotto/camicia-uomo-bianco_171000",
+"Camicia Taglie Forti Uomo London bianca|Tipologia : Camicia Taglie Forti uomo Tessuto : 65% cotone, 32%|2017/12/camicia-taglie-forti-uomo-london-bianca|data.oliviero.it/imgprodotto/camicia-taglie-forti-uomo-london-bianca_53509",
+"Camicia Uomo Western Kaki|Collezione Autunno Inverno/2018 Parti all'avventura con questa|2017/12/camicia-uomo-western-kaki|data.oliviero.it/imgprodotto/camicia-uomo-western-kaki_170487",
+"Camicia e T-shirt Taglie Forti Uomo|Collezione Autunno Inverno/2018 Camicia uomo taglie forti. Il modello|2017/12/camicia-e-t-shirt-taglie-forti-uomo|data.oliviero.it/imgprodotto/camicia-e-t-shirt-taglie-forti-uomo_169523",
 "Camicia Uomo Caramello|Collezione Primavera Estate Camicia da uomo in cotone Il modello|2017/12/camicia-uomo-caramello|data.oliviero.it/imgprodotto/camicia-uomo-caramello-n692026-116_158576",
 "Camicia Barstow Western|Collezione Autunno Inverno/2018 Indossate da pionieri e fuorilegge|2017/12/camicia-barstow-western|data.oliviero.it/imgprodotto/camicia-barstow-western_171138",
 "Camicia Uomo Taglie Forti Bronx|Collezione Primavera Estate Camicia da uomo taglie forti con|2017/12/camicia-uomo-taglie-forti-bronx|data.oliviero.it/imgprodotto/camicia-uomo-taglie-forti-bronx_162584",

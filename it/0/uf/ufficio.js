@@ -1,4 +1,8 @@
 Gr = [
+"Scrivania 41.42.25|MADE IN ITALY La serie \"SPRINT\" di \"Valentini\" comprende mobiletti|2017/12/scrivania-41-42-25|data.oliviero.it/imgprodotto/scrivania-41-42-25_55420",
+"Poltrona con poggiatesta da ufficio COOL ORANGE|Poltrona con poggiatesta da ufficio COOL ORANGE seduta in tessuto|2017/12/poltrona-con-poggiatesta-da-ufficio-cool-orange|data.oliviero.it/imgprodotto/poltrona-con-poggiatesta-da-ufficio-cool-orange_135082",
+"Poltrona con poggiatesta da ufficio COOL BLUE|Poltrona con poggiatesta da ufficio COOL BLUE seduta in tessuto|2017/12/poltrona-con-poggiatesta-da-ufficio-cool-blue|data.oliviero.it/imgprodotto/poltrona-con-poggiatesta-da-ufficio-cool-blue_135081",
+"Poltrona da ufficio PRESTIGE GREY|Poltrona da ufficio PRESTIGE GREY seduta in pelle ecologica grigia|2017/12/poltrona-da-ufficio-prestige-grey|data.oliviero.it/imgprodotto/poltrona-da-ufficio-prestige-grey_136184",
 "Poltrona Start Similpelle Bianca|Poltrona per ufficio Operativa, con base e braccioli in nylon, seduta|2017/12/poltrona-start-similpelle-bianca|data.oliviero.it/imgprodotto/poltrona-start-similpelle-bianca_149141",
 "poltrona da ufficio SEM|Poltrona da ufficio SEM rivestita in pelle ecologica di colore Nero|2017/12/poltrona-da-ufficio-sem|data.oliviero.it/imgprodotto/poltrona-da-ufficio-sem_136192",
 "Scrivania Picture_Car|Scrivania con struttura in ferro verniciato di colore bianco, vetro|2017/12/scrivania-picture_car|data.oliviero.it/imgprodotto/scrivania-picture_car_108531",

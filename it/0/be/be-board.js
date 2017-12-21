@@ -1,4 +1,12 @@
 Gr = [
+"Maglia Taglie Forti Uomo Grafite|Collezione Autunno Inverno/2018 Felpa uomo taglie forti con zip al|2017/12/maglia-taglie-forti-uomo-grafite|data.oliviero.it/imgprodotto/maglia-taglie-forti-uomo-grafite_170235",
+"Pantaloni Sportivi Taglie Forti Nero|Collezione Autunno Inverno/2018 Pantaloni sportivi da uomo taglie|2017/12/pantaloni-sportivi-taglie-forti-nero|data.oliviero.it/imgprodotto/pantaloni-sportivi-taglie-forti-nero-9038c_152683",
+"Pile Taglie Forti Uomo Foresta|Collezione Autunno Inverno/2018 Pile uomo taglie Forti. Il modello|2017/12/pile-taglie-forti-uomo-foresta|data.oliviero.it/imgprodotto/pile-taglie-forti-uomo-foresta_172119",
+"Polo Uomo Taglie Forti Fango|Collezione Autunno Inverno/2018 Polo uomo taglie forti Il modello|2017/12/polo-uomo-taglie-forti-fango|data.oliviero.it/imgprodotto/polo-uomo-taglie-forti-fango_167294",
+"Micro Pile Taglie Forti Uomo Grigio|Collezione Autunno Inverno/2018 Micro pile da uomo taglie forti. Il|2017/12/micro-pile-taglie-forti-uomo-grigio|data.oliviero.it/imgprodotto/micro-pile-taglie-forti-uomo-grigio_171384",
+"Pantaloni sportivi Taglie Forti|Collezione : Primavera Estate Tipologia : Pantalone sportivo Taglie|2017/12/pantaloni-sportivi-taglie-forti|data.oliviero.it/imgprodotto/pantaloni-sportivi-taglie-forti-9116_107461",
+"Gilet Taglie Forti Uomo Nero|Collezione Autunno Inverno/2018 Gilet taglie forti uomo in pile. Il|2017/12/gilet-taglie-forti-uomo-nero|data.oliviero.it/imgprodotto/gilet-taglie-forti-uomo-nero_172153",
+"Maglia Taglie Forti Uomo Blu|Collezione Autunno Inverno/2018 Felpa uomo taglie forti con zip al|2017/12/maglia-taglie-forti-uomo-blu|data.oliviero.it/imgprodotto/maglia-taglie-forti-uomo-blu_170236",
 "Felpa Taglie Forti Uomo Fango|Collezione Autunno Inverno/2018 Felpa uomo taglie forti. Il modello|2017/12/felpa-taglie-forti-uomo-fango|data.oliviero.it/imgprodotto/felpa-taglie-forti-uomo-fango_171863",
 "Pantaloni Uomo Taglie Forti 9036 Grafite|Collezione Autunno Inverno/2018 Collezione Autunno Inverno/2018|2017/12/pantaloni-uomo-taglie-forti-9036-grafite|data.oliviero.it/imgprodotto/pantaloni-uomo-taglie-forti-9036-grafite_171346",
 "Felpa Taglie Forti Uomo Grafite|Collezione Autunno Inverno/2018 Felpa uomo taglie forti. ll modello|2017/12/felpa-taglie-forti-uomo-grafite|data.oliviero.it/imgprodotto/felpa-taglie-forti-uomo-grafite_172138",

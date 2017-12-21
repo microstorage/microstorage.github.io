@@ -1,4 +1,7 @@
 Gr = [
+"Borsa Rigida Nero|Collezione Autunno Inverno/2018 Composizione: Esterno ecopelle|2017/12/borsa-rigida-nero|data.oliviero.it/imgprodotto/borsa-rigida-nero-a743514d-100_168738",
+"Tracolla Con Logo| Tracolla realizzata in tessuto  Colore nero  Chiusura con zip|2017/12/tracolla-con-logo|data.oliviero.it/imgprodotto/tracolla-con-logo_117135",
+"Borsa Bauletto morbido Sabbia|Collezione Primavera EState Borsa bauletto da donna con manico|2017/12/borsa-bauletto-morbido-sabbia|data.oliviero.it/imgprodotto/borsa-bauletto-morbido-sabbia-p743120d-506_159009",
 "Borsa Porta Pc Nero|Collezione Primavera Estate Borsa porta pc in morbida pelle. Tasca|2017/12/borsa-porta-pc-nero|data.oliviero.it/imgprodotto/borsa-porta-pc-nero-p743435u-100_158966",
 "Pochette Manime Nero|Collezione Primavera Estate Pochette da donna in ecopelle con|2017/12/pochette-manime-nero|data.oliviero.it/imgprodotto/pochette-manime-nero-p743406d-100_159089",
 "Zaino Reversibile Madeira Cougar|Collezione Autunno Inverno/2018 Zaino reversibile, nero da un lato|2017/12/zaino-reversibile-madeira-cougar|data.oliviero.it/imgprodotto/zaino-reversibile-madeira-cougar_170824",

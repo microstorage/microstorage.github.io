@@ -1,4 +1,9 @@
 Gr = [
+"Scarpe Gazelle J|Queste scarpe junior sono una perfetta riproduzione delle mitiche|2017/12/scarpe-gazelle-j|data.oliviero.it/imgprodotto/scarpe-gazelle-j_172200",
+"Scarpe con Ruote Launch 2.0|Utilizzo : scarpe munite di ruote Tomaia : Tessuto Battistrada|2017/12/scarpe-con-ruote-launch-2-0|data.oliviero.it/imgprodotto/scarpe-con-ruote-launch-2-0-770252h_91898",
+"Scarpe Sportive Baby X_PLR C|Sneakers basse Baby Ispirata alle moderne scarpe da corsa queste|2017/12/scarpe-sportive-baby-x_plr-c|data.oliviero.it/imgprodotto/scarpe-sportive-baby-x_plr-c-bb2616_160009",
+"Scarpe con Ruote X2 Bolt|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/12/scarpe-con-ruote-x2-bolt|data.oliviero.it/imgprodotto/scarpe-con-ruote-x2-bolt-770797_157595",
+"Scarpe Training Junior Core Pink X_PLR J|La tomaia in tessuto knit dona a queste scarpe un look moderno. Un|2017/12/scarpe-training-junior-core-pink-x_plr-j|data.oliviero.it/imgprodotto/scarpe-training-junior-core-pink-x_plr-j-bb2579_159885",
 "Scarpe Bambino Blu|Collezione Primavera Estate Scarpe casual da bambino. Il modello si|2017/12/scarpe-bambino-blu|data.oliviero.it/imgprodotto/scarpe-bambino-blu-p734150m-200_162035",
 "Scarponcini Jr. Marrone|Collezione Autunno Inverno/2018 Gli scarponcini Timberland Authentics|2017/12/scarponcini-jr-marrone|data.oliviero.it/imgprodotto/scarponcini-jr-marrone_171121",
 "Scarponcino Donna Giallo|Collezione Autunno Inverno/2018 L'iconico scarponcino Timberland®|2017/12/scarponcino-donna-giallo|data.oliviero.it/imgprodotto/scarponcino-donna-giallo_171126",

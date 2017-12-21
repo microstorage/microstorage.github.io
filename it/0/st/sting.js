@@ -1,4 +1,5 @@
 Gr = [
+"Guanti da Sacco Armalite|Guanti da allenamento per Sacco Caratteristiche: Pelle esterna SLV3|2017/12/guanti-da-sacco-armalite|data.oliviero.it/imgprodotto/guanti-da-sacco-armalite-sabm-0101_157058",
 "Guanti Boxe in Pelle da competizione 12oz|Guanti da Boxe da competizione Caratteristiche: Strato esterno in|2017/12/guanti-boxe-in-pelle-da-competizione-12oz|data.oliviero.it/imgprodotto/guanti-boxe-in-pelle-da-competizione-12oz-s2ag-0213_92990",
 "Sacco Super Series 30D 150x30|SACCO DA BOXE PROFESSIONALE Peso 40kg Altezza 150cm Diametro 30cm|2017/12/sacco-super-series-30d-150x30|data.oliviero.it/imgprodotto/sacco-super-series-30d-150x30_109025",
 "Guanto Allenamento Fusion|Costruzione del dorso della mano in neoprene tagliato anatomicamente|2017/12/guanto-allenamento-fusion|data.oliviero.it/imgprodotto/guanto-allenamento-fusion-s13f-g111_164189",

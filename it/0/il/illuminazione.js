@@ -1,4 +1,5 @@
 Gr = [
+"Lampada Led da Parete o Soffitto Minnie Mouse|Questa lampada rotonda Philips e Disney si accende con un'immagine|2017/12/lampada-led-da-parete-o-soffitto-minnie-mouse|data.oliviero.it/imgprodotto/lampada-led-da-parete-o-soffitto-minnie-mouse_107528",
 "Lampada a sospensione Minnie Mouse|Le ragazze adoreranno questa lampada a sospensione Philips and Disney|2017/12/lampada-a-sospensione-minnie-mouse|data.oliviero.it/imgprodotto/lampada-a-sospensione-minnie-mouse_107545",
 "Lampadario a Cupola Gigi e Lele|Ecco arrivare finalmente la colorata e simpatica linea Gigi e Lele|2017/12/lampadario-a-cupola-gigi-e-lele|data.oliviero.it/imgprodotto/lampadario-a-cupola-gigi-e-lele_5613_big",
 "MINERVA|DESCRIZIONE Un'applique che diffonde la luce sia verso l'alto che|2017/12/minerva|data.oliviero.it/imgprodotto/minerva-lampada-da-parete_161910",

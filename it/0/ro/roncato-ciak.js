@@ -1,4 +1,6 @@
 Gr = [
+"Trolley 2 ruote Sound Grigio e verde|Trolley Struttura Super Light 2 ruote Lucchetto a combinazione con|2017/12/trolley-2-ruote-sound-grigio-e-verde|data.oliviero.it/imgprodotto/trolley-2-ruote-sound-grigio-e-verde_159466",
+"Trolley 42.33.02 Medio|Trolley system multistep in alluminio con push button, chiusura|2017/12/trolley-42-33-02-medio|data.oliviero.it/imgprodotto/trolley-42-33-02-medio_84242",
 "Trolley 2 ruote Sound Grigio|Trolley Struttura Super Light 2 ruote Lucchetto a combinazione con|2017/12/trolley-2-ruote-sound-grigio|data.oliviero.it/imgprodotto/trolley-2-ruote-sound-grigio_159459",
 "Trolley 2 ruote Lining Nero e Silver|Trolley Struttura Super Light 2 ruote Lucchetto a combinazione con|2017/12/trolley-2-ruote-lining-nero-e-silver|data.oliviero.it/imgprodotto/trolley-2-ruote-lining-nero-e-silver_159472",
 "Trolley Cubito 4R Esp|Collezione di design moderno, classico con un tocco sportivo|2017/12/trolley-cubito-4r-esp|data.oliviero.it/imgprodotto/trolley-cubito-4r-esp_88193",

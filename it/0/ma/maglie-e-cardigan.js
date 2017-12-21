@@ -1,4 +1,13 @@
 Gr = [
+"Maglia Taglie Forti Uomo Abisso|Collezione Autunno Inverno/2018 Pullover in misto lana scollo V, con|2017/12/maglia-taglie-forti-uomo-abisso|data.oliviero.it/imgprodotto/maglia-taglie-forti-uomo-abisso_170230",
+"Maglia Taglie Forti Uomo Grafite|Collezione Autunno Inverno/2018 Felpa uomo taglie forti con zip al|2017/12/maglia-taglie-forti-uomo-grafite|data.oliviero.it/imgprodotto/maglia-taglie-forti-uomo-grafite_170235",
+"Maglia Taglie Forti Uomo Inchiostro|Collezione Autunno Inverno/2018 Pullover girocollo in misto lana, con|2017/12/maglia-taglie-forti-uomo-inchiostro|data.oliviero.it/imgprodotto/maglia-taglie-forti-uomo-inchiostro_170232",
+"Maglia Taglie Forti Uomo Militare|Collezione Autunno Inverno/2018 Pullover in misto lana scollo V, con|2017/12/maglia-taglie-forti-uomo-militare|data.oliviero.it/imgprodotto/maglia-taglie-forti-uomo-militare_170228",
+"Gilet Uomo Taglie Forti Militare|Collezione Autunno Inverno/2018 Gilet da uomo taglie forti. Il|2017/12/gilet-uomo-taglie-forti-militare|data.oliviero.it/imgprodotto/gilet-uomo-taglie-forti-militare_169324",
+"Maglia Uomo Taglie Forti Verde|Collezione Primavera Estate Maglia da uomo taglie forti. Il modello|2017/12/maglia-uomo-taglie-forti-verde|data.oliviero.it/imgprodotto/maglia-uomo-taglie-forti-verde-nv00009ad-30_162611",
+"Gilet Taglie Forti Uomo Nero|Collezione Autunno Inverno/2018 Gilet taglie forti uomo in pile. Il|2017/12/gilet-taglie-forti-uomo-nero|data.oliviero.it/imgprodotto/gilet-taglie-forti-uomo-nero_172153",
+"Maglia Taglie Forti Uomo Blu|Collezione Autunno Inverno/2018 Felpa uomo taglie forti con zip al|2017/12/maglia-taglie-forti-uomo-blu|data.oliviero.it/imgprodotto/maglia-taglie-forti-uomo-blu_170236",
+"Maglia Taglie Forti Uomo Burgundy|Collezione Autunno Inverno/2018 Maglia uomo taglie forti. Il modello|2017/12/maglia-taglie-forti-uomo-burgundy|data.oliviero.it/imgprodotto/maglia-taglie-forti-uomo-burgundy_169520",
 "Maglia Taglie Forti Uomo Tortora|Collezione Autunno Inverno/2018 Pullover in misto lana scollo V, con|2017/12/maglia-taglie-forti-uomo-tortora|data.oliviero.it/imgprodotto/maglia-taglie-forti-uomo-tortora_170226",
 "Maglia Uomo Taglie Forti Sabbia|Collezione Autunno Inverno/2018 Maglia da uomo taglie forti. Il|2017/12/maglia-uomo-taglie-forti-sabbia|data.oliviero.it/imgprodotto/maglia-uomo-taglie-forti-sabbia_167333",
 "Maglia Uomo Taglie Forti Blu|Collezione Autunno Inverno/2018 Maglia da uomo taglie forti. Il|2017/12/maglia-uomo-taglie-forti-blu|data.oliviero.it/imgprodotto/maglia-uomo-taglie-forti-blu_167335",

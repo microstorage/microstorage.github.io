@@ -1,4 +1,12 @@
 Gr = [
+"Jeans Arizona Bright Stroke|Collezione Autunno Inverno/2018 Jeans a gamba dritta in denim chiaro|2017/12/jeans-arizona-bright-stroke|data.oliviero.it/imgprodotto/jeans-arizona-bright-stroke_170529",
+"T-Shirt Logo Navy|Collezione Autunno Inverno/2018 Questa t-shirt blu girocollo, con|2017/12/t-shirt-logo-navy|data.oliviero.it/imgprodotto/t-shirt-logo-navy_170625",
+"Jeans Bryson Mid Stone|Collezione Autunno Inverno/2018 Jeans skinny in denim blu con|2017/12/jeans-bryson-mid-stone|data.oliviero.it/imgprodotto/jeans-bryson-mid-stone_170515",
+"Camicia Uomo Western Directoire Blue|Collezione Autunno Inverno/2018 Questa camicia slim con bottoni|2017/12/camicia-uomo-western-directoire-blue|data.oliviero.it/imgprodotto/camicia-uomo-western-directoire-blue_170493",
+"Jeans Boyton Blaze|Collezione Autunno Inverno/2018 Jeans in denim scuro con vita bassa|2017/12/jeans-boyton-blaze|data.oliviero.it/imgprodotto/jeans-boyton-blaze_170519",
+"Camicia Uomo Western Kaki|Collezione Autunno Inverno/2018 Parti all'avventura con questa|2017/12/camicia-uomo-western-kaki|data.oliviero.it/imgprodotto/camicia-uomo-western-kaki_170487",
+"Maglia Half Zip Grey Melange|Collezione Autunno Inverno/2018 Il nuovo pullover in maglia grossa|2017/12/maglia-half-zip-grey-melange|data.oliviero.it/imgprodotto/maglia-half-zip-grey-melange_170580",
+"Giubbino Sherpa Blue Note|Collezione Autunno Inverno/2018 Classica giacca di jeans in denim blu|2017/12/giubbino-sherpa-blue-note|data.oliviero.it/imgprodotto/giubbino-sherpa-blue-note_170582",
 "Jeans Greensboro Black|Collezione Autunno Inverno/2018 Look semplice ed essenziale per|2017/12/jeans-greensboro-black|data.oliviero.it/imgprodotto/jeans-greensboro-black_170525",
 "Jeans Greensboro Blend In|Collezione Autunno Inverno/2018 Jeans con vita regolare e gamba|2017/12/jeans-greensboro-blend-in|data.oliviero.it/imgprodotto/jeans-greensboro-blend-in_170548",
 "Jeans Bryson Cool Black|Collezione Autunno Inverno/2018 Jeans neri skinny a vita bassa Look|2017/12/jeans-bryson-cool-black|data.oliviero.it/imgprodotto/jeans-bryson-cool-black_170539",

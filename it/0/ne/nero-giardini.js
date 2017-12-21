@@ -1,4 +1,8 @@
 Gr = [
+"Borsa Rigida Nero|Collezione Autunno Inverno/2018 Composizione: Esterno ecopelle|2017/12/borsa-rigida-nero|data.oliviero.it/imgprodotto/borsa-rigida-nero-a743514d-100_168738",
+"Sandalo Donna Laminato Oro|Collezione Primavera Estate Sandalo da donna Tomaia in ecopelle|2017/12/sandalo-donna-laminato-oro|data.oliviero.it/imgprodotto/sandalo-donna-laminato-oro-p717371de-434_159214",
+"Borsa Bauletto morbido Sabbia|Collezione Primavera EState Borsa bauletto da donna con manico|2017/12/borsa-bauletto-morbido-sabbia|data.oliviero.it/imgprodotto/borsa-bauletto-morbido-sabbia-p743120d-506_159009",
+"Scarpe Donna Royal Nero|Collezione Autunno Inverno/2018 Stivaletto da donna con Tomaia in|2017/12/scarpe-donna-royal-nero|data.oliviero.it/imgprodotto/scarpe-donna-royal-nero_166535",
 "Jeans Uomo Denim|Collezione Autunno Inverno/2018 Jeans da uomo con allacciatura|2017/12/jeans-uomo-denim|data.oliviero.it/imgprodotto/jeans-uomo-denim_169370",
 "Scarpe Bambino Blu|Collezione Primavera Estate Scarpe casual da bambino. Il modello si|2017/12/scarpe-bambino-blu|data.oliviero.it/imgprodotto/scarpe-bambino-blu-p734150m-200_162035",
 "Borsa Porta Pc Nero|Collezione Primavera Estate Borsa porta pc in morbida pelle. Tasca|2017/12/borsa-porta-pc-nero|data.oliviero.it/imgprodotto/borsa-porta-pc-nero-p743435u-100_158966",

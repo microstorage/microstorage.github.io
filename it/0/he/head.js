@@ -1,4 +1,11 @@
 Gr = [
+"Scarponi Sci Advant Edge 95|Sciate di precisione con il minimo sforzo e fatica: questo è Advant|2017/12/scarponi-sci-advant-edge-95|data.oliviero.it/imgprodotto/scarponi-sci-advant-edge-95_156517",
+"Scarponi Sci Vector Evo 120|Lo scarpone alpine versatile Vector Evo 120, destinato agli sciatori|2017/12/scarponi-sci-vector-evo-120|data.oliviero.it/imgprodotto/scarponi-sci-vector-evo-120_156520",
+"Casco Sci Avril Black|Questo modello è ideale per ragazze che vogliono andare alla grande!|2017/12/casco-sci-avril-black|data.oliviero.it/imgprodotto/casco-sci-avril-black-325214_93909",
+"Casco Sci Queen|Il casco QUEEN, con visiera integrata e intercambiabile, è un mix di|2017/12/casco-sci-queen|data.oliviero.it/imgprodotto/casco-sci-queen_171332",
+"Hydrosorb Tour|Costruzione High-tech, design innovativo e materiali di qualità, ecco|2017/12/hydrosorb-tour|data.oliviero.it/imgprodotto/hydrosorb-tour_15419_big",
+"Borsa Portaracchette Radical 12R Monstercombi|Caratteristiche tecniche: materiale 100% poliestere sistema a zaino|2017/12/borsa-portaracchette-radical-12r-monstercombi|data.oliviero.it/imgprodotto/borsa-portaracchette-radical-12r-monstercombi-283165_145702",
+"Sci Supershape I.Rally + PRD12|Con un DNA da gara e un'ampia spatola, l'i.Supershape Rally è uno sci|2017/12/sci-supershape-i-rally-+-prd12|data.oliviero.it/imgprodotto/sci-supershape-i-rally-prd12_171326",
 "Sci Cyclic 115 + Attack 13|Gli sci freeride Cyclic 115, con TNT Rocker, sono agili, versatili|2017/12/sci-cyclic-115-+-attack-13|data.oliviero.it/imgprodotto/sci-cyclic-115-attack-13_144138",
 "Casco Sci Agent Black|Questo è il modello scelto dai freestylers, grazie al guscio ABS|2017/12/casco-sci-agent-black|data.oliviero.it/imgprodotto/casco-sci-agent-black-324154_93907",
 "Casco Sci Vico|Il casco VICO assicura la massima protezione dal park alla pista|2017/12/casco-sci-vico|data.oliviero.it/imgprodotto/casco-sci-vico_171330",

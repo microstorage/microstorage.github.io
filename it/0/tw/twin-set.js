@@ -1,4 +1,13 @@
 Gr = [
+"Pantaloni donna Casual J2S43Q 00001|Collezione Twin Set Jeans Pantaloni casual da donna. Il modello|2017/12/pantaloni-donna-casual-j2s43q-00001|data.oliviero.it/imgprodotto/pantaloni-donna-casual-j2s43q-00001_146939",
+"Jeans donna J2S4ZE 00435|Collezione Twin Set Jeans Jeans Skinny da donna dalla vestibilità|2017/12/jeans-donna-j2s4ze-00435|data.oliviero.it/imgprodotto/jeans-donna-j2s4ze-00435_146934",
+"Jeans donna J2S43N 001451|Collezione Twin Set jeans Jeans da donna dalla vestibilità slim,|2017/12/jeans-donna-j2s43n-001451|data.oliviero.it/imgprodotto/jeans-donna-j2s43n-001451_147056",
+"Abito donna K2S4S4 00431|Collezione Le couer de Twin Set A bito intero da donna|2017/12/abito-donna-k2s4s4-00431|data.oliviero.it/imgprodotto/abito-donna-k2s4s4-00431_146560",
+"Bermuda T2S4MR 00457|Collezione Twin Set Jeans Bermuda da donna dalla vestibilità comoda|2017/12/bermuda-t2s4mr-00457|data.oliviero.it/imgprodotto/bermuda-t2s4mr-00457_146903",
+"Top J2S4XB 00100|Collezione Twin-set Jeans Top da donna senza bretelle in tessuto|2017/12/top-j2s4xb-00100|data.oliviero.it/imgprodotto/top-j2s4xb-00100_146527",
+"Abito donna P3S4NE|Abito intero da donna in maglia. Il modello presenta mezze maniche|2017/12/abito-donna-p3s4ne|data.oliviero.it/imgprodotto/abito-donna-p3s4ne_146548",
+"Pantaloncino Lingerie LS4ADD 00466|Collezione Twin Set Lingerie Pantaloncino da donna con elastico in|2017/12/pantaloncino-lingerie-ls4add-00466|data.oliviero.it/imgprodotto/pantaloncino-lingerie-ls4add-00466_146829",
+"Giacche donna Jeans J2S4RA 00100|Collezione Twin Set Jeans Giacca Jeans da donna con maniche lunghe|2017/12/giacche-donna-jeans-j2s4ra-00100|data.oliviero.it/imgprodotto/giacche-donna-jeans-j2s4ra-00100_146613",
 "Maglia donna P3S4LA 00429|Maglia da donna in tessuto lurex con possibilità di fare un fiocco|2017/12/maglia-donna-p3s4la-00429|data.oliviero.it/imgprodotto/maglia-donna-p3s4la-00429_146454",
 "Maglia donna P2S4FB 00437|Maglia da donna composta da maglia e canotta. La parte superiore è in|2017/12/maglia-donna-p2s4fb-00437|data.oliviero.it/imgprodotto/maglia-donna-p2s4fb-00437_146542",
 "Abito donna J2S4WN 00252|Collezione Twin - Set Jeans Abito intero da donna con spacchetto|2017/12/abito-donna-j2s4wn-00252|data.oliviero.it/imgprodotto/abito-donna-j2s4wn-00252_146574",

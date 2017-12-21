@@ -1,4 +1,11 @@
 Gr = [
+"Astuccio 3 Zip Shift|L'ASTUCCIO 3 ZIP Seven School è l'accessorio che non può mancare nel|2017/12/astuccio-3-zip-shift|data.oliviero.it/imgprodotto/astuccio-3-zip-shift_166351",
+"Portapenne Widget|Tanti modelli, grafiche e colori… proprio per tutti i gusti!!!|2017/12/portapenne-widget|data.oliviero.it/imgprodotto/portapenne-widget_166288",
+"Astuccio 3 Zip Bitmap|L'ASTUCCIO 3 ZIP Seven School è l'accessorio che non può mancare nel|2017/12/astuccio-3-zip-bitmap|data.oliviero.it/imgprodotto/astuccio-3-zip-bitmap_166301",
+"Diario 10 Mesi SJ Gang Girl|Seven SJ gang Girl diario agenda 10 mesi non datato, pagine|2017/12/diario-10-mesi-sj-gang-girl|data.oliviero.it/imgprodotto/diario-10-mesi-sj-gang-girl_167506",
+"Astuccio 3 Zip SJ High Tech|L'ASTUCCIO 3 ZIP SJ GANG è l'accessorio che non può mancare nel tuo|2017/12/astuccio-3-zip-sj-high-tech|data.oliviero.it/imgprodotto/astuccio-3-zip-sj-high-tech_166381",
+"Portapenne Fancy|Tanti modelli, grafiche e colori… proprio per tutti i gusti!!!|2017/12/portapenne-fancy|data.oliviero.it/imgprodotto/portapenne-fancy_166319",
+"Portapenne Pinky Hearts|Tanti modelli, grafiche e colori… proprio per tutti i gusti!!!|2017/12/portapenne-pinky-hearts|data.oliviero.it/imgprodotto/portapenne-pinky-hearts_166363",
 "Astuccio Lip Face|L'ormai mitico astuccio con le faccine ha sempre la sua da dire; con|2017/12/astuccio-lip-face|data.oliviero.it/imgprodotto/astuccio-lip-face_167481",
 "Diario Face 16 Mesi|Invicta Face diario pocket 16 mesi non datato, copertina cartonata|2017/12/diario-face-16-mesi|data.oliviero.it/imgprodotto/diario-face-16-mesi_167495",
 "Astuccio 3 Zip Sunflower|L'ASTUCCIO 3 ZIP Seven School è l'accessorio che non può mancare nel|2017/12/astuccio-3-zip-sunflower|data.oliviero.it/imgprodotto/astuccio-3-zip-sunflower_166289",

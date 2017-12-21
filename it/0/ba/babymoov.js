@@ -1,3 +1,5 @@
 Gr = [
+"tenda parasole|Un utile alleato per riparare, con divertimento, il bebè dal sole|2017/12/tenda-parasole|data.oliviero.it/imgprodotto/tenda-parasole_125005",
+"Marsupio ergonomico|Permette al bambino di stare nella naturale posizione fisiologica \"a|2017/12/marsupio-ergonomico|data.oliviero.it/imgprodotto/marsupio-ergonomico_132121",
 "Supporto ergonomico dorsale laterale|I pediatri raccomandano di far dormire il bebè sulla schiena per|2017/12/supporto-ergonomico-dorsale-laterale|data.oliviero.it/imgprodotto/supporto-ergonomico-dorsale-laterale_132118",
 ];

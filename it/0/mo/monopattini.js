@@ -1,4 +1,8 @@
 Gr = [
+"Skateboard FREEDOM tavola gialla|Descrizione: Dimensioni tavola : 57x15,2 cm Materiale tavola|2017/12/skateboard-freedom-tavola-gialla|data.oliviero.it/imgprodotto/skateboard-freedom-tavola-gialla-ruote-azzurre_162372",
+"Scarpe con Ruote Speed X2|Caratteristiche Tecniche : Le Heelys sono scarpe munite di ruote con|2017/12/scarpe-con-ruote-speed-x2|data.oliviero.it/imgprodotto/scarpe-con-ruote-speed-x2-770047k_153466",
+"Scarpe con Ruote Veloz|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/12/scarpe-con-ruote-veloz|data.oliviero.it/imgprodotto/scarpe-con-ruote-veloz-770557h_131810",
+"Monopattino Street 120 Blu|Solido e maneggevole, l'ideale per bambini e ragazzi.Manubrio|2017/12/monopattino-street-120-blu|data.oliviero.it/imgprodotto/monopattino-street-120-blu-70-730-0016_87761",
 "Monopattino 205 MM VOOV 2.0 Verde e Nero|Porta il divertimento sempre con te! Il monopattino in alluminio|2017/12/monopattino-205-mm-voov-2-0-verde-e-nero|data.oliviero.it/imgprodotto/monopattino-205-mm-voov-2-0-verde-e-nero_165276",
 "Longboard Sunshine Palm|Dimensione: 34\" x 9\" Carrello Alluminio Ruote 62 mm x 51mm Il|2017/12/longboard-sunshine-palm|data.oliviero.it/imgprodotto/longboard-sunshine-palm_151101",
 "Hoverboard SKYLON 6.5|\"Hoverboard SKYLON 6.5 con Descrizione : Diametro ruota: 16,5 cm|2017/12/hoverboard-skylon-6-5|data.oliviero.it/imgprodotto/hoverboard-skylon-6-5_161078",

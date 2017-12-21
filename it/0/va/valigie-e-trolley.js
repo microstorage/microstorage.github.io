@@ -1,4 +1,13 @@
 Gr = [
+"Cartella Parvis Nero M|Cartella a 1 scomparto - protezione pc H 30 x L 41 x E 9 cm - 0.5kg|2017/12/cartella-parvis-nero-m|data.oliviero.it/imgprodotto/cartella-parvis-nero-m-003943160_160622",
+"Trolley 607730 Piccolo|Valigia Rigida, 2 ruote Dimensioni: 48 x 34 x 24 cm Peso: 3 Kg|2017/12/trolley-607730-piccolo|data.oliviero.it/imgprodotto/trolley-607730-piccolo_63188",
+"Trolley Espandibile Indiscrete Marrone XL|Valigia trolley espandibile 4 ruote 78 cm H 78 x L 48 x E 32 cm|2017/12/trolley-espandibile-indiscrete-marrone-xl|data.oliviero.it/imgprodotto/trolley-espandibile-indiscrete-marrone-xl-3035821_160863",
+"Trolley 4R Belmont Antracite L|Valigia trolley 4 ruote 70 cm H 70.5 x L 47 x E 28.5 cm - 76.23L|2017/12/trolley-4r-belmont-antracite-l|data.oliviero.it/imgprodotto/trolley-4r-belmont-antracite-l-3840820_160837",
+"Trolley 2 ruote Sound Grigio e verde|Trolley Struttura Super Light 2 ruote Lucchetto a combinazione con|2017/12/trolley-2-ruote-sound-grigio-e-verde|data.oliviero.it/imgprodotto/trolley-2-ruote-sound-grigio-e-verde_159466",
+"Trolley 4R Belmont Blu XL|Valigia trolley 4 ruote 76 cm H 76 x L 52 x E 30 cm - 108.63L - 4.4kg|2017/12/trolley-4r-belmont-blu-xl|data.oliviero.it/imgprodotto/trolley-4r-belmont-blu-xl-3840821_160852",
+"Trunky Tipu Tiger|FARE I BAGAGLI. CAVALCARE. FARSI TRAINARE! Ecco tutto quello che si|2017/12/trunky-tipu-tiger|data.oliviero.it/imgprodotto/trunky-tipu-tiger_163477",
+"Trolley 42.33.02 Medio|Trolley system multistep in alluminio con push button, chiusura|2017/12/trolley-42-33-02-medio|data.oliviero.it/imgprodotto/trolley-42-33-02-medio_84242",
+"Trolley Espandibile Rosso L|Valigia trolley espandibile 4 ruote 69 cm H 69 x L 43 x E 28 cm|2017/12/trolley-espandibile-rosso-l|data.oliviero.it/imgprodotto/trolley-espandibile-rosso-l-3035810_160859",
 "Trolley 2 ruote Sound Grigio|Trolley Struttura Super Light 2 ruote Lucchetto a combinazione con|2017/12/trolley-2-ruote-sound-grigio|data.oliviero.it/imgprodotto/trolley-2-ruote-sound-grigio_159459",
 "Trolley 2 ruote Lining Nero e Silver|Trolley Struttura Super Light 2 ruote Lucchetto a combinazione con|2017/12/trolley-2-ruote-lining-nero-e-silver|data.oliviero.it/imgprodotto/trolley-2-ruote-lining-nero-e-silver_159472",
 "Trolley Cubito 4R Esp|Collezione di design moderno, classico con un tocco sportivo|2017/12/trolley-cubito-4r-esp|data.oliviero.it/imgprodotto/trolley-cubito-4r-esp_88193",

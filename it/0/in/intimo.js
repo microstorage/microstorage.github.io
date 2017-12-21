@@ -1,4 +1,6 @@
 Gr = [
+"2 Paia di Calzini|Confezione da due paia Bordi a coste con 3 strisce e Trifoglio Pianta|2017/12/2-paia-di-calzini|data.oliviero.it/imgprodotto/2-paia-di-calzini_167625",
+"Boxer taglie forti 100 nero|Boxer uomo taglie forti con bottone realizzato in cotone 100%|2017/12/boxer-taglie-forti-100-nero|data.oliviero.it/imgprodotto/boxer-taglie-forti-100-nero_63511",
 "Boxer 2pz Start Hipster|Tipologia: Confezione da 2 boxer uomo Tessuto: 96% cotone e 4%|2017/12/boxer-2pz-start-hipster|data.oliviero.it/imgprodotto/boxer-2pz-start-hipster_20481_big",
 "3 Calzini Neri|Quando ti alleni duramente per raggiungere i tuoi obiettivi,|2017/12/3-calzini-neri|data.oliviero.it/imgprodotto/3-calzini-neri_166987",
 "Slip taglie forti uomo 300XF nero|Slip uomo taglie forti. Comodi e avvolgenti, garantiscono confort|2017/12/slip-taglie-forti-uomo-300xf-nero|data.oliviero.it/imgprodotto/slip-taglie-forti-uomo-300xf-nero_63515",

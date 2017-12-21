@@ -1,4 +1,7 @@
 Gr = [
+"Giubbotto Bambino Navy|Collezione Primavera Estate Giubbotto imbottito, termico da bambino|2017/12/giubbotto-bambino-navy|data.oliviero.it/imgprodotto/giubbotto-bambino-navy-4s282_159334",
+"Polo Bambino Panna|Collezione Primavera Estate Polo da bambino dallo stile casual. Il|2017/12/polo-bambino-panna|data.oliviero.it/imgprodotto/polo-bambino-panna-0s121_159329",
+"Scarpe con Ruote Launch 2.0|Utilizzo : scarpe munite di ruote Tomaia : Tessuto Battistrada|2017/12/scarpe-con-ruote-launch-2-0|data.oliviero.it/imgprodotto/scarpe-con-ruote-launch-2-0-770252h_91898",
 "Cardigan Bambino Navy|Collezione Primavera Estate Ideale sia per un abbigliamento casual|2017/12/cardigan-bambino-navy|data.oliviero.it/imgprodotto/cardigan-bambino-navy-0s101_159328",
 "Pantaloni Sportivi Donna Nero|Pantaloni sportivi da donna, elastico in vita, polsini alle caviglie|2017/11/pantaloni-sportivi-donna-nero|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-nero_169469",
 "Pantaloni Sportivi Donna Nero|Questi pantaloni in spugna sfoggiano un look essenziale e moderno|2017/10/pantaloni-sportivi-donna-nero|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-nero_168115",

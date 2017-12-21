@@ -1,4 +1,7 @@
 Gr = [
+"Fasciatoio Tris Ciak Bianco|Pali offre una linea completa di bagnetti fasciatoio, per la cura del|2017/12/fasciatoio-tris-ciak-bianco|data.oliviero.it/imgprodotto/fasciatoio-tris-ciak-bianco_153453",
+"Bagnetto dell'ippopotamo|La struttura dalle forme arrotondate crea una zona confortevole per|2017/12/bagnetto-dell-ippopotamo|data.oliviero.it/imgprodotto/bagnetto-dellippopotamo_87951",
+"Bagnetto Fasciatoio Zoe Crema|Pali offre una linea completa di bagnetti fasciatoio, per la cura del|2017/12/bagnetto-fasciatoio-zoe-crema|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-zoe-crema_147377",
 "Telini monouso 60*60|Il nuovo Trudi Baby Care Telino Multiuso adatto per proteggere|2017/12/telini-monouso-60*60|data.oliviero.it/imgprodotto/telini-monouso-60-60_148493",
 "Idrobaby estraibile 219|Fasciatoio e vaschetta uniti in una struttura da posizionare|2017/12/idrobaby-estraibile-219|data.oliviero.it/imgprodotto/idrobaby-estraibile-219_136970",
 "Fasciatoio Cambio 222|Morbido fasciatoio con sistema di anti-ribaltamento, include|2017/12/fasciatoio-cambio-222|data.oliviero.it/imgprodotto/fasciatoio-cambio-222_156024",

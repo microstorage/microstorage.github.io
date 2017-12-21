@@ -1,4 +1,7 @@
 Gr = [
+"Costume Donna Fit Muscleback|Collezione Autunno Inverno/2017 Costume da donna ideale per la|2017/12/costume-donna-fit-muscleback|data.oliviero.it/imgprodotto/costume-donna-fit-muscleback-810379b072_153422",
+"Costume Uomo Blu|Caratteristiche Composizione: 78% poliammide, 22% elastan Adattamento|2017/12/costume-uomo-blu|data.oliviero.it/imgprodotto/costume-uomo-blu_166997",
+"Costume Baby Fruit Party Allover|Collezione Autunno Inverno/2017 Costume adatto per le più piccole|2017/12/costume-baby-fruit-party-allover|data.oliviero.it/imgprodotto/costume-baby-fruit-party-allover-807970b047_153437",
 "Tenda Spiaggia Sun Canopy|Caratteristiche Monotelo: polyestere 190T P.U. 800 mm., alluminato|2017/12/tenda-spiaggia-sun-canopy|data.oliviero.it/imgprodotto/tenda-spiaggia-sun-canopy-adv003_164367",
 "Antiacqua Pacific Wp Kit|Il completo antipioggia SPIDI Pacific è composto da una lunga giacca|2017/12/antiacqua-pacific-wp-kit|data.oliviero.it/imgprodotto/antiacqua-pacific-wp-kit_165781",
 "Costume Mare Uomo Safety Yellow|Costume uomo mare tessuto 4-way stretch Repreve sopra il ginocchio|2017/08/costume-mare-uomo-safety-yellow|data.oliviero.it/imgprodotto/costume-mare-uomo-safety-yellow_165985",

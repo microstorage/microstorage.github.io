@@ -1,4 +1,8 @@
 Gr = [
+"Fasciatoio Asia bianco|Cassettiera in legno con fasciatoio, vaschetta, portaoggetti|2017/12/fasciatoio-asia-bianco|data.oliviero.it/imgprodotto/fasciatoio-asia-bianco_136987",
+"Bagnetto Fasciatoio Amelie Panna|Mobiletto fasciatoio 3 cassetti legno bianco con applicativo completo|2017/12/bagnetto-fasciatoio-amelie-panna|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-amelie-panna_172739",
+"Bagnetto Fasciatoio meggie|Bagnetto Fasciatoio collezione Meggie Maggie Pali è un pratico|2017/12/bagnetto-fasciatoio-meggie|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-meggie_86405",
+"Bagnetto Fasciatoio Milky|Mobiletto fasciatoio 4 cassetti legno bianco con applicativo variante|2017/12/bagnetto-fasciatoio-milky|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-milky_173236",
 "Como Gigi e Lele|Ecco arrivare finalmente la colorata e simpatica linea Gigi e Lele|2017/12/como-gigi-e-lele|data.oliviero.it/imgprodotto/como-gigi-e-lele_5602_big",
 "Fasciatoio volare 235|Bagnetto / fasciatoio pieghevole dalle forme moderne, dispone di un|2017/12/fasciatoio-volare-235|data.oliviero.it/imgprodotto/fasciatoio-volare-235_171524",
 "Bagnetto Fasciatoio Caprice Royal|Linea dal gusto romantico e antico. Soddisfa un vero e proprio|2017/12/bagnetto-fasciatoio-caprice-royal|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-caprice-royal_5653_big",

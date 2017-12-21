@@ -1,4 +1,6 @@
 Gr = [
+"Triciclo Charm Plus rosa|Charm Plus è il triciclo 3 in 1 di Fisher Price comodo e funzionale|2017/12/triciclo-charm-plus-rosa|data.oliviero.it/imgprodotto/triciclo-charm-plus-rosa_149882",
+"Bagnetto dell'ippopotamo|La struttura dalle forme arrotondate crea una zona confortevole per|2017/12/bagnetto-dell-ippopotamo|data.oliviero.it/imgprodotto/bagnetto-dellippopotamo_87951",
 "Giostrina 3 in 1|Ecco un giocattolo musicale perfetto per il lettino e per il|2017/12/giostrina-3-in-1|data.oliviero.it/imgprodotto/giostrina-3-in-1-chr11-ma143_156591",
 "Palestrina della Foresta|Il tappetino attività portatile intrattiene il bambino con|2017/12/palestrina-della-foresta|data.oliviero.it/imgprodotto/palestrina-della-foresta-chp85-ma147_156594",
 "Pallina Cucù|Pallina cucù, giocare da seduti o gattonare dietro alla palla in|2017/12/pallina-cucu|data.oliviero.it/imgprodotto/pallina-cuc%C3%B9_68522",

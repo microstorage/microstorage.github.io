@@ -1,4 +1,10 @@
 Gr = [
+"Berretto con visiera Unisex|Colore : Bianco Composizione : Tessuto 100% Poliestere Descrizione|2017/12/berretto-con-visiera-unisex|data.oliviero.it/imgprodotto/berretto-con-visiera-unisex_79009",
+"Pantaloni con coulisse Unisex|Colore : Gessato Nero Composizione : Tessuto Gabardina 100% Cotone|2017/12/pantaloni-con-coulisse-unisex|data.oliviero.it/imgprodotto/pantaloni-con-coulisse-unisex_79015",
+"Camice donna da medico|Colore : Bianco Composizione : tessuto 100% cotone Dimensioni :|2017/12/camice-donna-da-medico|data.oliviero.it/imgprodotto/camice-donna-da-medico_153967",
+"Giacca Cuoco Lux Uomo|Colore base : Nero Profili : Argento Composizione : Tessuto Gabardina|2017/12/giacca-cuoco-lux-uomo|data.oliviero.it/imgprodotto/giacca-cuoco-lux-uomo_78983",
+"Camice uomo da medico|Colore : Bianco Composizione : tessuto 100% cotone Dimensioni :|2017/12/camice-uomo-da-medico|data.oliviero.it/imgprodotto/camice-uomo-da-medico_153970",
+"Camice donna per piani|Colore : Rigato fine Inserto : In cotone piquet colore Bianco|2017/12/camice-donna-per-piani|data.oliviero.it/imgprodotto/camice-donna-per-piani_82989",
 "Grembiule cuoco unisex|Colore : Bianco Inserto : Scozzese grigio Composizione : Tessuto 100%|2017/12/grembiule-cuoco-unisex|data.oliviero.it/imgprodotto/grembiule-cuoco-unisex_79010",
 "Grembiule uomo|Colore :Bianco Composizione : tessuto 65% poliestere e 35% cotone|2017/12/grembiule-uomo|data.oliviero.it/imgprodotto/grembiule-uomo_23014_big",
 "Grembiule con pettorina|Colore base : Base colore Nero Composizione : 100% Poliestere|2017/12/grembiule-con-pettorina|data.oliviero.it/imgprodotto/grembiule-con-pettorina_83008",

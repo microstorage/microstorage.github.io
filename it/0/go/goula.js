@@ -1,4 +1,8 @@
 Gr = [
+"Scatola degli attrezzi|Età 3+ Anni Descrizione del prodotto: Scatola degli attrezzi per|2017/12/scatola-degli-attrezzi|data.oliviero.it/imgprodotto/scatola-degli-attrezzi_139647",
+"Avvita e Gioca Animali della Fattoria|Età 3+ Anni Un gioco favoloso di manualità, con pezzi in legno|2017/12/avvita-e-gioca-animali-della-fattoria|data.oliviero.it/imgprodotto/avvita-e-gioca-animali-della-fattoria-55239_154345",
+"Domino Animali della Giungla|Età 3+ Anni Domino con pezzi giganti in cartone per il gioco dei|2017/12/domino-animali-della-giungla|data.oliviero.it/imgprodotto/domino-animali-della-giungla_139635",
+"Memo Tom e i suoi Amici della Foresta|Età 3+ Anni Un gioco di memoria per i più piccoli con i personaggi|2017/12/memo-tom-e-i-suoi-amici-della-foresta|data.oliviero.it/imgprodotto/memo-tom-e-i-suoi-amici-della-foresta_139632",
 "Tavolo di Attività|Età 3+ Anni Un tavolino di attività per i più piccini. I vari pezzi|2017/12/tavolo-di-attivita|data.oliviero.it/imgprodotto/tavolo-di-attivit%C3%A0-55231_154364",
 "Puzzle Principessa|Età 3+ Anni Puzzle composto da 35 pezzi rappresentanti principesse La|2017/12/puzzle-principessa|data.oliviero.it/imgprodotto/puzzle-principessa_139680",
 "Memo Cappuccetto Rosso|Età 3+ Anni Un gioco di memoria per i più piccoli con i personaggi|2017/12/memo-cappuccetto-rosso|data.oliviero.it/imgprodotto/memo-cappuccetto-rosso_139625",

@@ -1,4 +1,11 @@
 Gr = [
+"Plastiart gran ristorante|6 barattoli da 57 gr piattino con posate estrusore effetto panna|2017/12/plastiart-gran-ristorante|data.oliviero.it/imgprodotto/plastiart-gran-ristorante_136285",
+"Roller Coaster Maxi Rail|7A+ Con Roller Coaster puoi costruire fantastiche piste sospese per|2017/12/roller-coaster-maxi-rail|data.oliviero.it/imgprodotto/roller-coaster-maxi-rail-6435_156312",
+"Stazione di Polizia Click Clack|Mattoncini con i quali si può costruire una perfetta stazione di|2017/12/stazione-di-polizia-click-clack|data.oliviero.it/imgprodotto/stazione-di-polizia-click-clack-63807_156830",
+"Libro Quando avevo paura del buio|Roberto è a letto. Crac! \"Da dove viene questo rumore? Dev'essere|2017/12/libro-quando-avevo-paura-del-buio|data.oliviero.it/imgprodotto/libro-quando-avevo-paura-del-buio_156410",
+"Memo Tom e i suoi Amici della Foresta|Età 3+ Anni Un gioco di memoria per i più piccoli con i personaggi|2017/12/memo-tom-e-i-suoi-amici-della-foresta|data.oliviero.it/imgprodotto/memo-tom-e-i-suoi-amici-della-foresta_139632",
+"Libro Blub Blub Blub|È una bellissima giornata d'estate. A mollo sul suo salvagente, un|2017/12/libro-blub-blub-blub|data.oliviero.it/imgprodotto/libro-blub-blub-blub_156330",
+"Plastiart Cake design|Contiene 4 vasetti da 85 grammi; 2 stampi che contengono 6 formine|2017/12/plastiart-cake-design|data.oliviero.it/imgprodotto/plastiart-cake-design_136288",
 "Range Rover 6V Con Radiocomando|Jeep elettrica 6V Range Rover, un posto con acceleratore a pedale|2017/12/range-rover-6v-con-radiocomando|data.oliviero.it/imgprodotto/range-rover-6v-con-radiocomando_162224",
 "Tenda Gioco Pirati|Simpatica tenda gioco per bambini con ambientazione Pirati|2017/12/tenda-gioco-pirati|data.oliviero.it/imgprodotto/tenda-gioco-pirati-64680_156860",
 "FantaColor Portable Large|4A+ Fantacolor portable è un intramontabile gioco di composizione che|2017/12/fantacolor-portable-large|data.oliviero.it/imgprodotto/fantacolor-portable-large-0952_156276",

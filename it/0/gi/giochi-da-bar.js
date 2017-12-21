@@ -1,4 +1,7 @@
 Gr = [
+"Biliardo Alexandra 6 Ardesia|Alexandra è l'ultima creazione Garlando in fatto di biliardi per la|2017/12/biliardo-alexandra-6-ardesia|data.oliviero.it/imgprodotto/biliardo-alexandra-6-ardesia_73388",
+"Biliardo Night Club|Tavolo da Biliardo Night di Sport One composto da una cassa in|2017/12/biliardo-night-club|data.oliviero.it/imgprodotto/biliardo-night-club_87638",
+"Biliardo Florida 8 da esterno|Biliardo per esterni linea Games per la casa di Garlando. Resistente|2017/12/biliardo-florida-8-da-esterno|data.oliviero.it/imgprodotto/biliardo-florida-8-da-esterno_3408_big",
 "Bersaglio per freccette Antares elettronico|Bersaglio elettronico per il gioco delle freccette. con effetti|2017/12/bersaglio-per-freccette-antares-elettronico|data.oliviero.it/imgprodotto/bersaglio-per-freccette-antares-elettronico_150058",
 "Hockey da Tavolo Play Off|L'Hockey su tavolo, dinamico gioco di origine nordica, offre puro|2017/12/hockey-da-tavolo-play-off|data.oliviero.it/imgprodotto/hockey-da-tavolo-play-off_8356_big",
 "Biliardo Alexandra 8 Ardesia|Alexandra è l'ultima creazione Garlando in fatto di biliardi per la|2017/12/biliardo-alexandra-8-ardesia|data.oliviero.it/imgprodotto/biliardo-alexandra-8-ardesia_73390",

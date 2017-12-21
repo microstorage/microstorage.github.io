@@ -1,4 +1,7 @@
 Gr = [
+"Piumino Donna Ash|Collezione Autunno Inverno/2018 Piumino da donna con zip frontale|2017/12/piumino-donna-ash|data.oliviero.it/imgprodotto/piumino-donna-ash_169356",
+"Giubbotto Donna Ash|Collezione Autunno Inverno/2018 Leggera e calda, questa giacca donna|2017/12/giubbotto-donna-ash|data.oliviero.it/imgprodotto/giubbotto-donna-ash_169354",
+"Giubbotto Donna Nero|Collezione Autunno Inverno/2018 Leggera e calda, questa giacca donna|2017/12/giubbotto-donna-nero|data.oliviero.it/imgprodotto/giubbotto-donna-nero_169352",
 "Giacca Donna Nero|Collezione Autunno Inverno/2018 Giubbino della linea|2017/12/giacca-donna-nero|data.oliviero.it/imgprodotto/giacca-donna-nero_171503",
 "Parka Donna Kaki|Collezione Autunno Inverno/2018 Parka in tessuto cotone|2017/12/parka-donna-kaki|data.oliviero.it/imgprodotto/parka-donna-kaki_171495",
 "Piumino Donna Bungee Cord|Collezione Autunno Inverno/2018 Piumino da donna con zip frontale|2017/12/piumino-donna-bungee-cord|data.oliviero.it/imgprodotto/piumino-donna-bungee-cord_169362",

@@ -1,4 +1,13 @@
 Gr = [
+"Paratibia PRO-AM neoprene-gel, PHOENIX II|Caratteristiche : SYNTEX TECH G3 e NEOPRENE LIGHT II, alta durata|2017/12/paratibia-pro-am-neoprene-gel-phoenix-ii|data.oliviero.it/imgprodotto/paratibia-pro-am-neoprene-gel-phoenix-ii_159724",
+"Guanti da passata veloce STRYKER|Caratteristiche : Guanti da passata veloce STRYKER SYNTEX TECH G3|2017/12/guanti-da-passata-veloce-stryker|data.oliviero.it/imgprodotto/guanti-da-passata-veloce-stryker_159684",
+"Calzari NAKAMURA|Caratteristiche : Calzare gara FULL-Kick COMPETITION SYNTEX FHX|2017/12/calzari-nakamura|data.oliviero.it/imgprodotto/calzari-nakamura_159675",
+"Pantaloncini Boxe Breath-Tech|Caratteristiche: Pantaloncino boxe pro series Hi tech Satin, morbido|2017/12/pantaloncini-boxe-breath-tech|data.oliviero.it/imgprodotto/pantaloncini-boxe-breath-tech_159716",
+"Guantoni DYNAMIC FXX PRO Rosso 10 oz|Caratteristiche: GENUINE LEATHER pelle ultra morbida e liscia|2017/12/guantoni-dynamic-fxx-pro-rosso-10-oz|data.oliviero.it/imgprodotto/guantoni-dynamic-fxx-pro-rosso-10-oz_159711",
+"Protezioni braccia Pao PRO|Caratteristiche : Pao PRO, VANGARD MMX protezione braccio DURA HIGH|2017/12/protezioni-braccia-pao-pro|data.oliviero.it/imgprodotto/protezioni-braccia-pao-pro_159723",
+"Guantoni Ultimate Warrior Thai 10 oz|Caratteristiche: Ultimate Warrior Syntex PU: materiale composito|2017/12/guantoni-ultimate-warrior-thai-10-oz|data.oliviero.it/imgprodotto/guantoni-ultimate-warrior-thai-10-oz_159714",
+"Paratibia PRO SHADOW RFD Bushido Edition|Caratteristiche : SYNTEX TECH G3 materiale composito finitura pelle|2017/12/paratibia-pro-shadow-rfd-bushido-edition|data.oliviero.it/imgprodotto/paratibia-pro-shadow-rfd-bushido-edition_159728",
+"Paratibia PRO SHADOW RFD Thailand Edition|Caratteristiche : SYNTEX TECH G3 materiale composito finitura pelle|2017/12/paratibia-pro-shadow-rfd-thailand-edition|data.oliviero.it/imgprodotto/paratibia-pro-shadow-rfd-thailand-edition_159725",
 "Conchiglia PRO pugilato in pelle|Caratteristiche : American D-Luxe conchiglia omologata pugilato|2017/12/conchiglia-pro-pugilato-in-pelle|data.oliviero.it/imgprodotto/conchiglia-pro-pugilato-in-pelle_159682",
 "Guantoni BLACKSTORM Skull Bianco 10 oz|Caratteristiche Prodotto: -Prestazione 3/5 -Qualità 4/5 -Sistema di|2017/12/guantoni-blackstorm-skull-bianco-10-oz|data.oliviero.it/imgprodotto/guantoni-blackstorm-skull-bianco-10-oz_159706",
 "Guanti semicontact PRO FIGHT II|Caratteristiche: SYBTEX TECH G3 materiale composito finitura pelle|2017/12/guanti-semicontact-pro-fight-ii|data.oliviero.it/imgprodotto/guanti-semicontact-pro-fight-ii_159689",

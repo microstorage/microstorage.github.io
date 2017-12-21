@@ -1,4 +1,5 @@
 Gr = [
+"Ellittica DIamond D63|Ellittica Diamond D63 Caratteristiche Sistema frenante|2017/12/ellittica-diamond-d63|data.oliviero.it/imgprodotto/ellittica-diamond-d63_146194",
 "Tapis Roulant Diamond D95|Tapis Roulant Diamond D95 Caratteristiche Motore 3,5 hp AC|2017/12/tapis-roulant-diamond-d95|data.oliviero.it/imgprodotto/tapis-roulant-diamond-d95_146192",
 "Recumbent Diamond D40|Sistema frenante elettromagnetico autoalimentato con generatore|2017/12/recumbent-diamond-d40|data.oliviero.it/imgprodotto/recumbent-diamond-d40_23629_big",
 "Cyclette Diamond D71|JK FITNESS D 71: LA CICLO AUTOALIMENTATA PROFESSIONALE DELLA NUOVA|2017/12/cyclette-diamond-d71|data.oliviero.it/imgprodotto/cyclette-diamond-d71_14501_big",

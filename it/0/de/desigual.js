@@ -1,4 +1,5 @@
 Gr = [
+"Foulard Caribou Nero|Collezione Autunno Inverno/2018 Foulard rettangolare nero con una|2017/12/foulard-caribou-nero|data.oliviero.it/imgprodotto/foulard-caribou-nero_170709",
 "Maglia Donna Sorpresa|Collezione Autunno Inverno/2018 Maglia nera da donna con pizzo sul|2017/12/maglia-donna-sorpresa|data.oliviero.it/imgprodotto/maglia-donna-sorpresa_170677",
 "Zaino Reversibile Madeira Cougar|Collezione Autunno Inverno/2018 Zaino reversibile, nero da un lato|2017/12/zaino-reversibile-madeira-cougar|data.oliviero.it/imgprodotto/zaino-reversibile-madeira-cougar_170824",
 "Cappotto Melan|Collezione Autunno Inverno/2018 Caldo cappotto da donna in due|2017/12/cappotto-melan|data.oliviero.it/imgprodotto/cappotto-melan_170743",

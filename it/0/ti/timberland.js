@@ -1,4 +1,8 @@
 Gr = [
+"Scarponcini Uomo Giallo|Collezione autunno Inverno/2018 Le stesse caratteristiche e la|2017/12/scarponcini-uomo-giallo|data.oliviero.it/imgprodotto/scarponcini-uomo-giallo_171094",
+"Pantaloni Uomo Nero|Collezione Autunno Inverno/2018 Pensati per una vita dinamica e di|2017/12/pantaloni-uomo-nero|data.oliviero.it/imgprodotto/pantaloni-uomo-nero_171006",
+"Camicia Uomo Bianco|Collezione Autunno Inverno/2018 Chi ha detto che l'abbigliamento da|2017/12/camicia-uomo-bianco|data.oliviero.it/imgprodotto/camicia-uomo-bianco_171000",
+"Maglia Uomo Grigio|Collezione Autunno Inverno/2018 Aggiungi un tocco di comfort al tuo|2017/12/maglia-uomo-grigio|data.oliviero.it/imgprodotto/maglia-uomo-grigio_171043",
 "Scarpe Uomo Adventure 2.0 Nero|Collezione Autunno Inverno/2018 Stai sempre in movimento e sfida|2017/12/scarpe-uomo-adventure-2-0-nero|data.oliviero.it/imgprodotto/scarpe-uomo-adventure-2-0-nero_171078",
 "Maglia Uomo Verde|Collezione Autunno Inverno/2018 Il nostro maglione da uomo con zip|2017/12/maglia-uomo-verde|data.oliviero.it/imgprodotto/maglia-uomo-verde_171045",
 "Scarpe Uomo Larchmont|Collezione Autunno Inverno/2018 Questa stagione, esplora con|2017/12/scarpe-uomo-larchmont|data.oliviero.it/imgprodotto/scarpe-uomo-larchmont_171080",

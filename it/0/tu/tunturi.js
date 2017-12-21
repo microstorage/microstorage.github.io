@@ -1,4 +1,10 @@
 Gr = [
+"Power Tower PT40|Caratteristiche tecniche PULL UP BAR SI DIP STATION SI REGOLAZIONE IN|2017/12/power-tower-pt40|data.oliviero.it/imgprodotto/power-tower-pt40_171192",
+"Cyclette Endurance E80|Endurance E80 SCHERMO 7 INCH LCD - COLORE TFT PROGRAMMI 10|2017/12/cyclette-endurance-e80|data.oliviero.it/imgprodotto/cyclette-endurance-e80_172884",
+"Cyclette Tunturi Cardio Fit B30|Cyclette Tunturi Cardio Fit B30 SCHERMO LCD - MONOCOLORE|2017/12/cyclette-tunturi-cardio-fit-b30|data.oliviero.it/imgprodotto/cyclette-tunturi-cardio-fit-b30_172872",
+"Utility Bench UB80|La panca Tunturi UB80 Utility è stata disegnata con un materiale di|2017/12/utility-bench-ub80|data.oliviero.it/imgprodotto/utility-bench-ub80_171306",
+"Panca Leverage Gym WT80|La panca Tunturi WT80 Leverage Gym è ideale per un allenamento|2017/12/panca-leverage-gym-wt80|data.oliviero.it/imgprodotto/panca-leverage-gym-wt80_171262",
+"Power Tower PT60|Caratteristiche Tecniche PULL UP BAR SI DIP STATION SI REGOLAZIONE IN|2017/12/power-tower-pt60|data.oliviero.it/imgprodotto/power-tower-pt60_171285",
 "Weight Bench WB40|Caratteristiche: Altezza non regolabile Spazio interno minimo della|2017/12/weight-bench-wb40|data.oliviero.it/imgprodotto/weight-bench-wb40_171271",
 "Panca WB20 Weight Bench|Panca comoda pieghevole e pratica, e occupa uno spazio minimo quando|2017/12/panca-wb20-weight-bench|data.oliviero.it/imgprodotto/panca-wb20-weight-bench_171180",
 "Recumbent E50 R|Performance E50R SCHERMO 5,5 INCH LCD - COLORE RETROILLUMINATO|2017/12/recumbent-e50-r|data.oliviero.it/imgprodotto/recumbent-e50-r_172886",

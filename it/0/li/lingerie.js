@@ -1,4 +1,6 @@
 Gr = [
+"2 Paia di Calzini|Confezione da due paia Bordi a coste con 3 strisce e Trifoglio Pianta|2017/12/2-paia-di-calzini|data.oliviero.it/imgprodotto/2-paia-di-calzini_167625",
+"Reggiseno Sportivo Bianco|Caratterizzato da un design a supporto medio ideale per discipline|2017/12/reggiseno-sportivo-bianco|data.oliviero.it/imgprodotto/reggiseno-sportivo-bianco-aj2173_162228",
 "Mutande a Rete Monouso 3pz|CONFEZIONE 3 PEZZI In rete elasticizzata igienica e morbida. Studiata|2017/12/mutande-a-rete-monouso-3pz|data.oliviero.it/imgprodotto/mutande-a-rete-monouso-3pz_53121",
 "Boxer 2pz Start Hipster|Tipologia: Confezione da 2 boxer uomo Tessuto: 96% cotone e 4%|2017/12/boxer-2pz-start-hipster|data.oliviero.it/imgprodotto/boxer-2pz-start-hipster_20481_big",
 "3 Calzini Neri|Quando ti alleni duramente per raggiungere i tuoi obiettivi,|2017/12/3-calzini-neri|data.oliviero.it/imgprodotto/3-calzini-neri_166987",

@@ -1,4 +1,9 @@
 Gr = [
+"Rasoio Ricaricabile|Rasoio Ricaricabile 3 in 1 Wet and Dry - 40.996 Caratteristiche:|2017/12/rasoio-ricaricabile|data.oliviero.it/imgprodotto/rasoio-ricaricabile-40-996_106092",
+"Phon Studio Dry 2100|Ultracompatto ed estremamente potente al contempo, l'asciugacapelli|2017/12/phon-studio-dry-2100|data.oliviero.it/imgprodotto/phon-studio-dry-2100_161661",
+"Phon SHD-7036 Sinbo|Caratteristiche principali SHS 7603 2 temperatura impostazioni di|2017/12/phon-shd-7036-sinbo|data.oliviero.it/imgprodotto/phon-shd-7036-sinbo_155935",
+"Sauna Facciale|Sauna Facciale Codice: 40.967N Descrizione : Corpo e maschera in|2017/12/sauna-facciale|data.oliviero.it/imgprodotto/sauna-facciale-40-967n_89831",
+"Phon Professionale HTD 889|Asciugacapelli professionale. 2000 WattImpostazioni potenza 3 di|2017/12/phon-professionale-htd-889|data.oliviero.it/imgprodotto/phon-professionale-htd-889_155645",
 "Massaggiatore Lipomodellante Anticellulite|Massaggiatore Lipomodellante Anticellulite Codice: 40.946 Descrizione|2017/12/massaggiatore-lipomodellante-anticellulite|data.oliviero.it/imgprodotto/massaggiatore-lipomodellante-anticellulite-40-946_89805",
 "Hair Kit da viaggio Phon e piastra|Hair Kit da viaggio Phon e piastra Codice: 40.956 Descrizione|2017/12/hair-kit-da-viaggio-phon-e-piastra|data.oliviero.it/imgprodotto/hair-kit-da-viaggio-phon-e-piastra-40-956_89823",
 "Lampada LED per Gel unghie|Lampada LED per gel unghie 40.995 Caratteristiche: Timer 10/30/60 sec|2017/12/lampada-led-per-gel-unghie|data.oliviero.it/imgprodotto/lampada-led-per-gel-unghie-40-995_91935",

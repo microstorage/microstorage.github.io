@@ -1,4 +1,6 @@
 Gr = [
+"Completo Copripiumino Alice in Wonderland|Completo copripiumino composto da sacco, lenzuolo con angoli e federa|2017/12/completo-copripiumino-alice-in-wonderland|data.oliviero.it/imgprodotto/completo-copripiumino-alice-in-wonderland_153924",
+"Completo Copripiumino Norvegia Antracite|Collezione Autunno Inverno/2018 Tessuto di puro cotone. Colore Vivo|2017/12/completo-copripiumino-norvegia-antracite|data.oliviero.it/imgprodotto/completo-copripiumino-norvegia-antracite_166688",
 "Plaid Riscaldabile 140x180 cm|Più caldo, più morbido. Il plaid elettrico intelligente, versione|2017/12/plaid-riscaldabile-140x180-cm|data.oliviero.it/imgprodotto/plaid-riscaldabile-140x180-cm-6877m_154092",
 "Trapunta Porthole|La simpatica Masha e il suo amico Orso, conquisteranno i vostri bimbi|2017/12/trapunta-porthole|data.oliviero.it/imgprodotto/trapunta-porthole_137031",
 "Trapunta Spiderman Lights|Tessuto in microfibra di poliestere stampato. SINGOLO 170X270 cm|2017/12/trapunta-spiderman-lights|data.oliviero.it/imgprodotto/trapunta-spiderman-lights_166716",

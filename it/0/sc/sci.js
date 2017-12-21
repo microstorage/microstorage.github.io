@@ -1,4 +1,7 @@
 Gr = [
+"Sci Vantage X80 Wmn CTI + W 11 DT|Come su Vantage, abbiamo inserito all'interno dello sci uno strato|2017/12/sci-vantage-x80-wmn-cti-+-w-11-dt|data.oliviero.it/imgprodotto/sci-vantage-x80-wmn-cti-w-11-dt-aass01140_157945",
+"Sci Vantage X80 CTI + XT 12|L'Atomic Vantage X 80 CTI fa parte della nostra nuova serie di sci|2017/12/sci-vantage-x80-cti-+-xt-12|data.oliviero.it/imgprodotto/sci-vantage-x80-cti-xt-12_156423",
+"Sci Supershape I.Rally + PRD12|Con un DNA da gara e un'ampia spatola, l'i.Supershape Rally è uno sci|2017/12/sci-supershape-i-rally-+-prd12|data.oliviero.it/imgprodotto/sci-supershape-i-rally-prd12_171326",
 "Sci Cloud Nine + Lithium 10|L'Atomic Cloud Nine è uno degli sci da pista più venduti per le|2017/12/sci-cloud-nine-+-lithium-10|data.oliviero.it/imgprodotto/sci-cloud-nine-lithium-10_156419",
 "Sci Cyclic 115 + Attack 13|Gli sci freeride Cyclic 115, con TNT Rocker, sono agili, versatili|2017/12/sci-cyclic-115-+-attack-13|data.oliviero.it/imgprodotto/sci-cyclic-115-attack-13_144138",
 "Sci Pursuit 300 Xpress + Xpress 10 B83|Power to the people! La chiave d'accesso alla padronanza di nuove|2017/12/sci-pursuit-300-xpress-+-xpress-10-b83|data.oliviero.it/imgprodotto/sci-pursuit-300-xpress-xpress-10-b83_171746",

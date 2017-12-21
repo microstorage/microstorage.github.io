@@ -1,4 +1,10 @@
 Gr = [
+"Scarpe Fierce Eng Mesh (W)|La versione Engineered Mesh delle Fierce di PUMA by Rihanna presenta|2017/12/scarpe-fierce-eng-mesh-w|data.oliviero.it/imgprodotto/scarpe-fierce-eng-mesh-w-189417-04_152743",
+"Scarpe CT as seasnl hi|Utilizzo: Calzatura Moda Sport Tomaia: Tela Battistrada: Gomma|2017/12/scarpe-ct-as-seasnl-hi|data.oliviero.it/imgprodotto/scarpe-ct-as-seasnl-hi_73804",
+"Scarpe Donna Breeda Nero|Collezione Autunno Inverno/2018 Comode e versatili, adatte ai look|2017/12/scarpe-donna-breeda-nero|data.oliviero.it/imgprodotto/scarpe-donna-breeda-nero_168875",
+"Scarpe Pro Leather Vulc Distressed Mid|Sneakers uomo Tomaia tessuto sulola in gomma con disegno antiscivolo|2017/12/scarpe-pro-leather-vulc-distressed-mid|data.oliviero.it/imgprodotto/scarpe-pro-leather-vulc-distressed-mid_169810",
+"Scarpe Tubular Defiant W|Ripensate in chiave moderna, queste scarpe da donna arricchiscono con|2017/12/scarpe-tubular-defiant-w|data.oliviero.it/imgprodotto/scarpe-tubular-defiant-w-s75250_158792",
+"Scarpe Basket Ua Rocket 2|La tomaia in pelle leggera offre una struttura flessibile Colletto|2017/12/scarpe-basket-ua-rocket-2|data.oliviero.it/imgprodotto/scarpe-basket-ua-rocket-2-1286385-100_160515",
 "Scarpe All Star Hi Ecopelle Sughero|Utilizzo: Calzatura moda sport Unisex Tomaia: Tessuto Battistrada: in|2017/12/scarpe-all-star-hi-ecopelle-sughero|data.oliviero.it/imgprodotto/scarpe-all-star-hi-ecopelle-sughero_139916",
 "Scarpe All Star Hi Total Glitter e borchie|Utilizzo: Calzatura moda sport Unisex Tomaia: Tessuto Battistrada: in|2017/12/scarpe-all-star-hi-total-glitter-e-borchie|data.oliviero.it/imgprodotto/scarpe-all-star-hi-total-glitter-e-borchie_124580",
 "Scarpe Uomo Taiki ABX Taupe|Collezione Autunno Inverno/2018 Design casual e contemporaneo per|2017/12/scarpe-uomo-taiki-abx-taupe|data.oliviero.it/imgprodotto/scarpe-uomo-taiki-abx-taupe_168833",
