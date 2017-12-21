@@ -1,4 +1,5 @@
 Gr = [
+"2 Tettarelle Silicone flusso pappa|Confezione composta da 2 tettarelle in silicone a flusso PAPPA|2017/12/2-tettarelle-silicone-flusso-pappa|data.oliviero.it/imgprodotto/2-tettarelle-silicone-flusso-pappa_9056_big",
 "Carrozzina omologata per il trasporto in auto|Chiusura a libro compatta con la seduta in entrambe le posizioni di marcia|2017/11/carrozzina-omologata-per-il-trasporto-in-auto|data.oliviero.it/imgprodotto/trio-fluido-top-687-telaio-nero_158960",
 "Passeggino gemellare Echo Twin|Passeggino gemellare: massimo comfort per i bambini e praticità|2017/10/passeggino-gemellare-echo-twin|data.oliviero.it/imgprodotto/passeggino-echo-twin-coal_69873",
 "2 Tettarelle Silicone flusso medio|Confezione composta da 2 tettarelle in silicone a flusso MEDIO|2017/05/2-tettarelle-silicone-flusso-medio|data.oliviero.it/imgprodotto/2-tettarelle-silicone-flusso-medio_9053_big",

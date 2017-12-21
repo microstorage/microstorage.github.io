@@ -1,4 +1,6 @@
 Gr = [
+"Jeans Hoxie Skinny Boot|Vi presentiamo i Lee® Skinny Boot, ispirati ai nostri classici|2017/12/jeans-hoxie-skinny-boot|data.oliviero.it/imgprodotto/jeans-hoxie-skinny-boot_170944",
+"Jeans Uomo Asphalt Grey|Jeans casual da uomo Allacciatura con bottone e zip Vestibilità|2017/12/jeans-uomo-asphalt-grey|data.oliviero.it/imgprodotto/jeans-uomo-asphalt-grey_169090",
 "Jeans donna J2S4ZW 00100|Collezione Twin Set Jeans Jeans Boyfriend da donna dalla vestibilità|2017/12/jeans-donna-j2s4zw-00100|data.oliviero.it/imgprodotto/jeans-donna-j2s4zw-00100_146921",
 "Jeans donna WPT357 B044|Collezione Primavera Estate Tipologia: Jeans donna Tessuto: 98%|2017/12/jeans-donna-wpt357-b044|data.oliviero.it/imgprodotto/jeans-donna-wpt357-b044_73320",
 "Jeans Taglie Forti Uomo Nero|Jeans uomo taglie forti. Il modello presenta allacciatura frontale|2017/12/jeans-taglie-forti-uomo-nero|data.oliviero.it/imgprodotto/jeans-taglie-forti-uomo-nero_170916",

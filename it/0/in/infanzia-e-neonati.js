@@ -1,4 +1,6 @@
 Gr = [
+"Coniglio Musicale|Il Gioco Chicco Coniglio Musicale sarà un simpatico compagno di|2017/12/coniglio-musicale|data.oliviero.it/imgprodotto/coniglio-musicale_8765_big",
+"Puzzle Gigante Il Grande Giardino|Divertiti a comporre il grande giardino! Il cagnolino insegue la|2017/12/puzzle-gigante-il-grande-giardino|data.oliviero.it/imgprodotto/puzzle-gigante-il-grande-giardino_156567",
 "Palestrina della Foresta|Il tappetino attività portatile intrattiene il bambino con|2017/12/palestrina-della-foresta|data.oliviero.it/imgprodotto/palestrina-della-foresta-chp85-ma147_156594",
 "Set Città Legno con Mappa|La mia città - Playset per inventare tante storie dando vita ad un|2017/12/set-citta-legno-con-mappa|data.oliviero.it/imgprodotto/set-citta-legno-con-mappa-36890_156079",
 "Pista panoramica wild racing|La pista wild track in scala 1:64 con alimentazione elettrica con|2017/12/pista-panoramica-wild-racing|data.oliviero.it/imgprodotto/pista-panoramica-wild-racing_163928",

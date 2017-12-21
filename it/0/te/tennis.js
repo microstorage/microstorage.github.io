@@ -1,4 +1,5 @@
 Gr = [
+"Berretto Aerobill Elite Bianco|Il cappellino da running Nike AeroBill è leggero e traspirante|2017/12/berretto-aerobill-elite-bianco|data.oliviero.it/imgprodotto/berretto-aerobill-elite-bianco_169748",
 "T-Shirt Donna Rosa|Questa maglia maniche lunghe Adidas è stata pensata per i vostri|2017/12/t-shirt-donna-rosa|data.oliviero.it/imgprodotto/t-shirt-donna-rosa_167977",
 "Racchetta Tennis Radical Pro|Head arricchisce anche la Radical con il Graphene! La Radical YT|2017/12/racchetta-tennis-radical-pro|data.oliviero.it/imgprodotto/racchetta-tennis-radical-pro_70274",
 "Zaino Team Line|Lo zaino Babolat Team Line è pratico e comodo, adatto per chi vuole|2017/12/zaino-team-line|data.oliviero.it/imgprodotto/zaino-team-line_167545",

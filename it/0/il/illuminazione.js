@@ -1,4 +1,5 @@
 Gr = [
+"Lampada Led da Parete o Soffitto Mickey Mouse|Questa lampada per bambini rotonda Philips and Disney Mickey Mouse si|2017/12/lampada-led-da-parete-o-soffitto-mickey-mouse|data.oliviero.it/imgprodotto/lampada-led-da-parete-o-soffitto-mickey-mouse_107547",
 "Abat Jour Gigi e Lele|Ecco arrivare finalmente la colorata e simpatica linea Gigi e Lele|2017/12/abat-jour-gigi-e-lele|data.oliviero.it/imgprodotto/abat-jour-gigi-e-lele_5603_big",
 "Lampadario 6 luci Jewel Silver Ring|Lampadario 6 luci \"JEWEL SILVER RING\" realizzato in metallo cromato|2017/10/lampadario-6-luci-jewel-silver-ring|data.oliviero.it/imgprodotto/lampadario-6-luci-jewel-silver-ring_137836",
 "Faretto in alluminio bianco|Arredamento: Faretto completamente realizzato in alluminio bianco|2017/06/faretto-in-alluminio-bianco|data.oliviero.it/imgprodotto/faro-singolo-lampada-da-soffitto_161919",

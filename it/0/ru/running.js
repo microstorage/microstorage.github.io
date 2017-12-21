@@ -1,4 +1,6 @@
 Gr = [
+"Scarpe Running Gel Cumulus 18 (W)|Il tuo piede riceverà grande spinta in fase di stacco grazie alla|2017/12/scarpe-running-gel-cumulus-18-w|data.oliviero.it/imgprodotto/scarpe-running-gel-cumulus-18-w-t6c8n-0149_163809",
+"Scarpe Running Gel Pulse 8 (W)|Stabilisci tempi da record sui tuoi percorsi preferiti indossando le|2017/12/scarpe-running-gel-pulse-8-w|data.oliviero.it/imgprodotto/scarpe-running-gel-pulse-8-w-t6e6n-2001_164133",
 "Scarpe Running Lunarglide 8|La scarpa da running Nike LunarGlide 8 - Uomo offre un sostegno|2017/12/scarpe-running-lunarglide-8|data.oliviero.it/imgprodotto/scarpe-running-lunarglide-8-843725-800_151190",
 "Felpa Donna Grigio|Collezione Autunno Inverno/2018 Se ti piace correre al sorgere del|2017/12/felpa-donna-grigio|data.oliviero.it/imgprodotto/felpa-donna-grigio_166886",
 "Scarpe Running Wmns Nike Free 5.0|Ideale per i runner che ancora non conoscono Nike Free, la scarpa da|2017/12/scarpe-running-wmns-nike-free-5-0|data.oliviero.it/imgprodotto/scarpe-running-wmns-nike-free-5-0-724383-002_109544",

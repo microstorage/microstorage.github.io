@@ -1,4 +1,6 @@
 Gr = [
+"Zaino Trail Vest Light|Cinghia addominale e cinghia sternale dotate delle fibbie EZ OP ad|2017/12/zaino-trail-vest-light|data.oliviero.it/imgprodotto/zaino-trail-vest-light-1465_164190",
+"Zainetto Dog|Zainetto da asilo ideale per contenere tutto il necessario per una|2017/12/zainetto-dog|data.oliviero.it/imgprodotto/zainetto-dog-skip-hop_140413",
 "Trolley Maxi Round Widget|Per chi ancora non lo conoscesse, questo è Maxi Trolley Round: un|2017/12/trolley-maxi-round-widget|data.oliviero.it/imgprodotto/trolley-maxi-round-widget_166138",
 "Zaino Zephyr 17+3|Zaino Zephyr 17+3 - 75811 Serie di zaini studiati per attività|2017/12/zaino-zephyr-17+3|data.oliviero.it/imgprodotto/zaino-zephyr-17-3-75811_145030",
 "Zaino Small Sj Face|Per il tempo un modello di zaino tondo con 12 lt di capacità|2017/12/zaino-small-sj-face|data.oliviero.it/imgprodotto/zaino-small-sj-face_166106",

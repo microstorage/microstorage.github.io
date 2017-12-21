@@ -1,4 +1,6 @@
 Gr = [
+"Scarponi Sci Hawx 1.0 100|L'Atomic Hawx 1.0 100 è perfetto per gli sciatori di medio livello|2017/12/scarponi-sci-hawx-1-0-100|data.oliviero.it/imgprodotto/scarponi-sci-hawx-1-0-100_140318",
+"Pile Mezza Zip Donna Grigio Perla|Collezione Autunno Inverno/2018 Maglia termica donna in pile|2017/12/pile-mezza-zip-donna-grigio-perla|data.oliviero.it/imgprodotto/pile-mezza-zip-donna-grigio-perla_171780",
 "Maschera Sci Nyira|Frame in poliuretano termoplastico per garantire il miglior comfort|2017/12/maschera-sci-nyira|data.oliviero.it/imgprodotto/maschera-sci-nyira-g00030-y016_157087",
 "Sci Vantage X77 C + Lithium 10|L'Atomic Vantage X 77 C è un nuovo sci all-mountain che nasce dal mix|2017/12/sci-vantage-x77-c-+-lithium-10|data.oliviero.it/imgprodotto/sci-vantage-x77-c-lithium-10_156522",
 "Sci Famous 2 W + Xpress W 10|Per le principianti, il nuovo modello femminile da pista di Rossignol|2017/12/sci-famous-2-w-+-xpress-w-10|data.oliviero.it/imgprodotto/sci-famous-2-w-xpress-w-10_171748",

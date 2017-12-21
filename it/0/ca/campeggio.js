@@ -1,4 +1,7 @@
 Gr = [
+"Barbecue Più Saporillo|Pratico e maneggevole. Facilmente trasportabile, è fornito di un|2017/12/barbecue-piu-saporillo|data.oliviero.it/imgprodotto/barbecue-piu-saporillo_108456",
+"Amaca Salsa Marine L|Amaca Salsa Marine - L La nostra nuova serie ( Marine ) porta una|2017/12/amaca-salsa-marine-l|data.oliviero.it/imgprodotto/amaca-salsa-marine-l_80409",
+"Set esplorazione terra e acqua|Caratteristiche tecniche: Set per esplorare e scoprire il mondo della|2017/12/set-esplorazione-terra-e-acqua|data.oliviero.it/imgprodotto/set-esplorazione-terra-e-acqua_83922",
 "Tavolo Campus 4 c panche|Tavolo in mdf Caratteristiche tecniche: Materiale: MDF Struttura:|2017/12/tavolo-campus-4-c-panche|data.oliviero.it/imgprodotto/tavolo-campus-4-c-panche_87126",
 "Amaca Barbados Mocca XL|Da anni la nostra comoda amaca Barbados è uno dei nostri articoli più|2017/12/amaca-barbados-mocca-xl|data.oliviero.it/imgprodotto/amaca-barbados-mocca-xl_158713",
 "Sedia Pensile Belize Kolibri|Prodotta da Amazonas, azienda conosciuta tutto il mondo per l'ottima|2017/12/sedia-pensile-belize-kolibri|data.oliviero.it/imgprodotto/sedia-pensile-belize-kolibri_81405",

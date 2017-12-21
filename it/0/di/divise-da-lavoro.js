@@ -1,4 +1,10 @@
 Gr = [
+"Grembiule Versailles|Colore : Nero Composizione : tessuto 100% poliestere Dimensioni|2017/12/grembiule-versailles|data.oliviero.it/imgprodotto/grembiule-versailles_24691_big",
+"Giacca Cuoco Uomo|Colore base : Bianco Inserti : Gessato Nero Profilo collo : Bianco|2017/12/giacca-cuoco-uomo|data.oliviero.it/imgprodotto/giacca-cuoco-uomo_79000",
+"Bolero Unisex Antracite|Bolero unisex, ideale per sale e ricevimento 100% poliestere Antracite|2017/12/bolero-unisex-antracite|data.oliviero.it/imgprodotto/bolero-unisex-antracite-035087_151460",
+"Pantaloni Cuoco Pantalaccio Bluette|35% cotone 65% poliestere Colore Bluette|2017/12/pantaloni-cuoco-pantalaccio-bluette|data.oliviero.it/imgprodotto/pantaloni-cuoco-pantalaccio-bluette-044606_151031",
+"Camicia donna bianca Tenerife Stretch|Colore :Bianco Composizione : tessuto 97% cotone e 3% spandex|2017/12/camicia-donna-bianca-tenerife-stretch|data.oliviero.it/imgprodotto/camicia-donna-bianca-tenerife-stretch_2340_big",
+"Casacca Collo A V|Colore : Lilla Composizione : tessuto 65% poliestere e 35% cotone|2017/12/casacca-collo-a-v|data.oliviero.it/imgprodotto/casacca-collo-a-v_1630_big",
 "Pettorina Pied de Poule|Pettorina unisex realizzata in 100% cotone. Modello con laccio in|2017/12/pettorina-pied-de-poule|data.oliviero.it/imgprodotto/pettorina-pied-de-poule_1643_big",
 "Camice odontotecnico corto verde|Colore : Verde Composizione : tessuto 100% cotone Dimensioni : / Peso|2017/12/camice-odontotecnico-corto-verde|data.oliviero.it/imgprodotto/camice-odontotecnico-corto-verde_23009_big",
 "Grembiule a vita|Colore base : Base bianca Composizione : 65% Poliestere 35% Cotone|2017/12/grembiule-a-vita|data.oliviero.it/imgprodotto/grembiule-a-vita_83000",

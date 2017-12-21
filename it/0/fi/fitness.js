@@ -1,4 +1,5 @@
 Gr = [
+"Home Gym HG20|Tunturi HG20 palestra compatta multifunzione in acciaio con colonna|2017/12/home-gym-hg20|data.oliviero.it/imgprodotto/home-gym-hg20_171206",
 "Panca Multifunzione Hydro Master|Panca fitness multifunzione di ultima generazione che, grazie ai|2017/12/panca-multifunzione-hydro-master|data.oliviero.it/imgprodotto/panca-multifunzione-hydro-master_163732",
 "Ellittica Diamond D62|Ellittica Diamond D62 Sistema frenante elettromagnetico|2017/12/ellittica-diamond-d62|data.oliviero.it/imgprodotto/ellittica-diamond-d62_124144",
 "Flat Bench FB20|Caratteristiche PANCA ADDOMINALE NO APPOGGI PER GAMBE NO REGOLAZIONE|2017/12/flat-bench-fb20|data.oliviero.it/imgprodotto/flat-bench-fb20_171281",

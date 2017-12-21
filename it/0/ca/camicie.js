@@ -1,4 +1,6 @@
 Gr = [
+"Camicia Uomo Western Smoked Grey|Collezione Autunno Inverno/2018 Questa classica camicia western con|2017/12/camicia-uomo-western-smoked-grey|data.oliviero.it/imgprodotto/camicia-uomo-western-smoked-grey_170495",
+"Camicia Donna Classic Western|Collezione Autunno Inverno/2018 Indossate da pionieri, agricoltori|2017/12/camicia-donna-classic-western|data.oliviero.it/imgprodotto/camicia-donna-classic-western_171141",
 "Camicia Uomo Taglie Forti a Righe|Collezione Primavera Estate Camicia uomo taglie forti. Il modello|2017/12/camicia-uomo-taglie-forti-a-righe|data.oliviero.it/imgprodotto/camicia-uomo-taglie-forti-a-righe_164498",
 "Camicia Uomo Taglie Forti Naturale|Collezione Primavera Estate Camicia da uomo taglie forti. Il modello|2017/12/camicia-uomo-taglie-forti-naturale|data.oliviero.it/imgprodotto/camicia-uomo-taglie-forti-naturale_166390",
 "Camicia Uomo Western Blue Stance|Collezione Autunno Inverno/2018 La leggendaria Lee® Western Shirt|2017/12/camicia-uomo-western-blue-stance|data.oliviero.it/imgprodotto/camicia-uomo-western-blue-stance_170884",

@@ -1,4 +1,7 @@
 Gr = [
+"Felpa Uomo Blu|Felpa con zip e collo alto di Adidas Originals, classicissima, con|2017/12/felpa-uomo-blu|data.oliviero.it/imgprodotto/felpa-uomo-blu_168181",
+"Felpa Uomo Charcoal|Collezione Autunno Inverno/2018 La felpa con cappuccio Nike|2017/12/felpa-uomo-charcoal|data.oliviero.it/imgprodotto/felpa-uomo-charcoal_169409",
+"Felpa Donna Bianco|Collezione Autunno Inverno/2018 La felpa con cappuccio Nike|2017/12/felpa-donna-bianco|data.oliviero.it/imgprodotto/felpa-donna-bianco_169394",
 "Felpa Donna Nero|Collezione Autunno Inverno/2018 Felpa da donna di Champion, della|2017/12/felpa-donna-nero|data.oliviero.it/imgprodotto/felpa-donna-nero_169768",
 "Felpa Uomo Taglie Forti Grigio 26700 250|Collezione Autunno Inverno/2018 Felpa uomo taglie forti. Il modello|2017/12/felpa-uomo-taglie-forti-grigio-26700-250|data.oliviero.it/imgprodotto/felpa-uomo-taglie-forti-grigio-26700-250_168557",
 "Felpa Uomo Nero|Una morbida giacca perfetta da indossare sopra l'abbigliamento da|2017/12/felpa-uomo-nero|data.oliviero.it/imgprodotto/felpa-uomo-nero_168033",

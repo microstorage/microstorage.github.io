@@ -1,4 +1,11 @@
 Gr = [
+"Spugna per passeggino azzurro|Copripasseggino in spugna di cotone al 100%. Facilmente lavabile in|2017/12/spugna-per-passeggino-azzurro|data.oliviero.it/imgprodotto/spugna-per-passeggino-azzurro_80553",
+"Sacco Passeggino Mucky Blù|Sacco imbottito studiato per i climi più rigidi, cerniera centrale|2017/12/sacco-passeggino-mucky-blu|data.oliviero.it/imgprodotto/sacco-passeggino-mucky-bl%C3%B9_170116",
+"Trio combi tris 745|Trio combi tris con seduta reversibile fronte mamma e fronte strada|2017/12/trio-combi-tris-745|data.oliviero.it/imgprodotto/trio-combi-tris-745_165036",
+"Dual Bag Rodeo Sand|Borsa Inglesina Dual Bag è la pratica e comoda borsa da passeggino|2017/12/dual-bag-rodeo-sand|data.oliviero.it/imgprodotto/dual-bag-rodeo-sand_172108",
+"Wally Pedana|La pedana porta bimbo Wally si applica a passeggini e carrozzine|2017/12/wally-pedana|data.oliviero.it/imgprodotto/wally-pedana_172584",
+"Fascia Porta Bebè Carry Sling 450 cm Carrageen|Fascia porta bebè Carry Sling Carrageen - 450 cm La Carry Sling di|2017/12/fascia-porta-bebe-carry-sling-450-cm-carrageen|data.oliviero.it/imgprodotto/fascia-porta-beb%C3%A8-carry-sling-450-cm-carrageen_83999",
+"Day Bag Lipari|É una borsa capiente e funzionale, di foggia esclusiva, con interno|2017/12/day-bag-lipari|data.oliviero.it/imgprodotto/day-bag-lipari_170200",
 "Trio Book 51 Breeze Blue|Gli esclusivi sistemi modulari Peg Perego sono stati concepiti per|2017/12/trio-book-51-breeze-blue|data.oliviero.it/imgprodotto/trio-book-51-breeze-blue_170264",
 "Dual Bag Sideral Grey|Borsa Inglesina Dual Bag è la pratica e comoda borsa da passeggino|2017/12/dual-bag-sideral-grey|data.oliviero.it/imgprodotto/dual-bag-sideral-grey_172112",
 "Passeggino Twin flip 27|Età di utilizzo: 0-36 mesi. Passeggino leggero (solo 10 kg)|2017/12/passeggino-twin-flip-27|data.oliviero.it/imgprodotto/passeggino-twin-flip-27_139234",

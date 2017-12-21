@@ -1,4 +1,10 @@
 Gr = [
+"Jeans Hoxie Skinny Boot|Vi presentiamo i Lee® Skinny Boot, ispirati ai nostri classici|2017/12/jeans-hoxie-skinny-boot|data.oliviero.it/imgprodotto/jeans-hoxie-skinny-boot_170944",
+"Scarpe Wmns Air Max 90|La scarpa Nike Air Max 90 - Donna rende omaggio alle proprie radici|2017/12/scarpe-wmns-air-max-90|data.oliviero.it/imgprodotto/scarpe-wmns-air-max-90_166484",
+"Pantaloni Sportivi Donna Nero|I pantaloni lunghi adidas ZNE Slim da donna è un capo molto|2017/12/pantaloni-sportivi-donna-nero|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-nero_168060",
+"Camicia Donna Classic Western|Collezione Autunno Inverno/2018 Indossate da pionieri, agricoltori|2017/12/camicia-donna-classic-western|data.oliviero.it/imgprodotto/camicia-donna-classic-western_171141",
+"Scarpe All Star Hi Pelle lucida|Utilizzo: Calzatura moda sport Unisex Tomaia: Tessuto Battistrada: in|2017/12/scarpe-all-star-hi-pelle-lucida|data.oliviero.it/imgprodotto/scarpe-all-star-hi-pelle-lucida_139899",
+"Felpa Donna Bianco|Collezione Autunno Inverno/2018 La felpa con cappuccio Nike|2017/12/felpa-donna-bianco|data.oliviero.it/imgprodotto/felpa-donna-bianco_169394",
 "Felpa Donna Nero|Collezione Autunno Inverno/2018 Felpa da donna di Champion, della|2017/12/felpa-donna-nero|data.oliviero.it/imgprodotto/felpa-donna-nero_169768",
 "Jeans donna J2S4ZW 00100|Collezione Twin Set Jeans Jeans Boyfriend da donna dalla vestibilità|2017/12/jeans-donna-j2s4zw-00100|data.oliviero.it/imgprodotto/jeans-donna-j2s4zw-00100_146921",
 "Stringate Elsa Multicolor|Ana Lublin scarpe donna - Collezione Autunno/Inverno/2015 - MADE IN|2017/12/stringate-elsa-multicolor|data.oliviero.it/imgprodotto/stringate-elsa-multicolor_96830",

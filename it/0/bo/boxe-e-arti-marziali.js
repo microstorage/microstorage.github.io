@@ -1,4 +1,6 @@
 Gr = [
+"Guanti Fit Boxe e KICK-FIT|Caratteristiche: SYNTEX TECH G3 e neoprene alta durata e resistenza|2017/12/guanti-fit-boxe-e-kick-fit|data.oliviero.it/imgprodotto/guanti-fit-boxe-e-kick-fit_159685",
+"Guantoni Boxe 10oz. GN083|Guantoni 10oz. Chiusura: Velcro Disciplina: Boxe, kick boxing, muay|2017/12/guantoni-boxe-10oz-gn083|data.oliviero.it/imgprodotto/guantoni-boxe-10oz-gn083_154999",
 "Stivaletti Boxe CL186|Interamente in pelle e lavorazione artigianale per il classico|2017/12/stivaletti-boxe-cl186|data.oliviero.it/imgprodotto/stivaletti-boxe-cl186_65719",
 "Guanti da allenamento Atomic S10W|Guanti da allenamento Caratteristiche: Grip progettato per aumentare|2017/12/guanti-da-allenamento-atomic-s10w|data.oliviero.it/imgprodotto/guanti-da-allenamento-atomic-s10w_93004",
 "Bendaggio Semi-elastico 3,5m|Bendaggio semi-elastico in diverse colorazioni per il comfort e la|2017/12/bendaggio-semi-elastico-3-5m|data.oliviero.it/imgprodotto/bendaggio-semi-elastico-3-5m-ab705_169622",

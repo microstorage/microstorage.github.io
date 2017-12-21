@@ -1,4 +1,5 @@
 Gr = [
+"Grembiule Versailles|Colore : Nero Composizione : tessuto 100% poliestere Dimensioni|2017/12/grembiule-versailles|data.oliviero.it/imgprodotto/grembiule-versailles_24691_big",
 "Pettorina Pied de Poule|Pettorina unisex realizzata in 100% cotone. Modello con laccio in|2017/12/pettorina-pied-de-poule|data.oliviero.it/imgprodotto/pettorina-pied-de-poule_1643_big",
 "Grembiule a vita|Colore base : Base bianca Composizione : 65% Poliestere 35% Cotone|2017/12/grembiule-a-vita|data.oliviero.it/imgprodotto/grembiule-a-vita_83000",
 "Scamiciato donna|Colore base : Nero Composizione : 100% Poliestere Descrizione|2017/12/scamiciato-donna|data.oliviero.it/imgprodotto/scamiciato-donna_82996",

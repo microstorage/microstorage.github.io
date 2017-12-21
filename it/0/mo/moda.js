@@ -1,4 +1,8 @@
 Gr = [
+"T-shirt uomo CMP62J JY610 001|Collezione : Primavera Estate Tipologia : T-Shirt Uomo manica lunga|2017/12/t-shirt-uomo-cmp62j-jy610-001|data.oliviero.it/imgprodotto/t-shirt-uomo-cmp62j-jy610-001_56766",
+"Pantaloni Sportivi Donna Nero|I pantaloni lunghi adidas ZNE Slim da donna è un capo molto|2017/12/pantaloni-sportivi-donna-nero|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-nero_168060",
+"Piumino Uomo Dark Military|Collezione Autunno Inverno/2018 Piumino da uomo corto in nylon|2017/12/piumino-uomo-dark-military|data.oliviero.it/imgprodotto/piumino-uomo-dark-military_169340",
+"Maglia Uomo Nero|Collezione Autunno Inverno/2018 Afferma il tuo senso dello stile|2017/12/maglia-uomo-nero|data.oliviero.it/imgprodotto/maglia-uomo-nero_171069",
 "2 Slip Basic Midi|Tipologia: Confezione da 2 slip donna Tessuto: 95% cotone e 5%|2017/12/2-slip-basic-midi|data.oliviero.it/imgprodotto/2-slip-basic-midi_142399",
 "Pantaloni donna Heritage|Tipologia : Pantaloni donna Tessuto : 100% cotone Caratteristiche|2017/12/pantaloni-donna-heritage|data.oliviero.it/imgprodotto/pantaloni-donna-heritage_73342",
 "Tuta Donna Navy Grigio e viola|Collezione Autunno Inverno/2018 Questa tuta da ragazza slim-fit|2017/12/tuta-donna-navy-grigio-e-viola|data.oliviero.it/imgprodotto/tuta-donna-navy-grigio-e-viola_168022",

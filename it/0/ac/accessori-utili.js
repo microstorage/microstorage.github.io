@@ -1,4 +1,6 @@
 Gr = [
+"3 Coppapasta Triangolo|Vuoi impiattare da vero professionista? Con i coppapasta|2017/12/3-coppapasta-triangolo|data.oliviero.it/imgprodotto/3-coppapasta-triangolo-422216_155185",
+"Portavivande Termico 2,5 lt|Con i nuovi elegantissimi contenitori termici puoi organizzare una|2017/12/portavivande-termico-2-5-lt|data.oliviero.it/imgprodotto/portavivande-termico-2-5-lt_93332",
 "Bilancia da cucina 2 in 1 bianca 90.114B|Bilancia da cucina 2 in 1 bianca Descrizione Ciotola in acciaio inox|2017/12/bilancia-da-cucina-2-in-1-bianca-90-114b|data.oliviero.it/imgprodotto/bilancia-da-cucina-2-in-1-bianca-90-114b_160600",
 "Porta cucchiai|Porta cucchiai in acciaio con finiture cromo, ideale per appoggiare|2017/12/porta-cucchiai|data.oliviero.it/imgprodotto/porta-cucchiai_74104",
 "Porta Torte con tavoletta refrigerante|Le torte sono la tua passione? Ecco un comodissimo portatorte!|2017/10/porta-torte-con-tavoletta-refrigerante|data.oliviero.it/imgprodotto/porta-torte-630842_155105",

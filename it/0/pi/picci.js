@@ -1,4 +1,6 @@
 Gr = [
+"Sacco Passeggino Mucky Blù|Sacco imbottito studiato per i climi più rigidi, cerniera centrale|2017/12/sacco-passeggino-mucky-blu|data.oliviero.it/imgprodotto/sacco-passeggino-mucky-bl%C3%B9_170116",
+"Cestino Giunco Amelie|Cestino in palma rettangolare Amelie rivestito, utile come portacose|2017/12/cestino-giunco-amelie|data.oliviero.it/imgprodotto/cestino-giunco-amelie_172777",
 "Bagnetto Fasciatoio Stella Bianco|Mobiletto fasciatoio legno bianco con applicativo completo di|2017/12/bagnetto-fasciatoio-stella-bianco|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-stella-bianco_171815",
 "Piumetto letto Cheesecake|CheeseCake è una innovazione lanciata da Picci. La collezione|2017/12/piumetto-letto-cheesecake|data.oliviero.it/imgprodotto/piumetto-letto-cheesecake_140292",
 "Telo bagno Triangolino Stella|Triangolino spugna di cotone 100% collezione Stella. Dimensione 75|2017/12/telo-bagno-triangolino-stella|data.oliviero.it/imgprodotto/telo-bagno-triangolino-stella_172097",

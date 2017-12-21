@@ -1,4 +1,6 @@
 Gr = [
+"Amaca Salsa Marine L|Amaca Salsa Marine - L La nostra nuova serie ( Marine ) porta una|2017/12/amaca-salsa-marine-l|data.oliviero.it/imgprodotto/amaca-salsa-marine-l_80409",
+"Fascia Porta Bebè Carry Sling 450 cm Carrageen|Fascia porta bebè Carry Sling Carrageen - 450 cm La Carry Sling di|2017/12/fascia-porta-bebe-carry-sling-450-cm-carrageen|data.oliviero.it/imgprodotto/fascia-porta-beb%C3%A8-carry-sling-450-cm-carrageen_83999",
 "Amaca con Asta Tonga Kolibri L|Non è un gigante ma confortevole - grazie a cavi particolarmente|2017/12/amaca-con-asta-tonga-kolibri-l|data.oliviero.it/imgprodotto/amaca-con-asta-tonga-kolibri-l_158741",
 "Poltroncina Pensile Havanna Fuego|Poltrona sospesa Havanna Fuego. Dal Brasile, il paese dei campioni|2017/12/poltroncina-pensile-havanna-fuego|data.oliviero.it/imgprodotto/poltroncina-pensile-havanna-fuego_80612",
 "Poltroncina Pensile Brasil Mocca L|Poltrona sospesa Brasil MoccaDal Brasile, il paese dei campioni del|2017/12/poltroncina-pensile-brasil-mocca-l|data.oliviero.it/imgprodotto/poltroncina-pensile-brasil-mocca-l_158758",

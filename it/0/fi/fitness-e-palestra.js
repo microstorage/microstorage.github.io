@@ -1,4 +1,8 @@
 Gr = [
+"Supporto Bilanciere Regolabile|Supporto bilanciere è l'attrezzo ideale per chi è esperto negli|2017/12/supporto-bilanciere-regolabile|data.oliviero.it/imgprodotto/supporto-bilanciere-regolabile_168728",
+"RF Clinic Pro Radiofrequenza|Globus, azienda italiana che da anni opera nel settore dell'estetica|2017/12/rf-clinic-pro-radiofrequenza|data.oliviero.it/imgprodotto/rf-clinic-pro-radiofrequenza_71099",
+"Home Gym HG20|Tunturi HG20 palestra compatta multifunzione in acciaio con colonna|2017/12/home-gym-hg20|data.oliviero.it/imgprodotto/home-gym-hg20_171206",
+"Medisound 922 Ultrasuono Terapia|Globus Medisound 922 è un dispositivo ad ultrasuoni multifunzionale|2017/12/medisound-922-ultrasuono-terapia|data.oliviero.it/imgprodotto/medisound-922-ultrasuono-terapia_71110",
 "Panca Multifunzione Hydro Master|Panca fitness multifunzione di ultima generazione che, grazie ai|2017/12/panca-multifunzione-hydro-master|data.oliviero.it/imgprodotto/panca-multifunzione-hydro-master_163732",
 "Tapis Roulant TRX Smart Compact|Tapis roulant pre-assemblato pronto all'uso. SALVASPAZIO. Innovativo|2017/12/tapis-roulant-trx-smart-compact|data.oliviero.it/imgprodotto/tapis-roulant-trx-smart-compact_153874",
 "Ellittica Diamond D62|Ellittica Diamond D62 Sistema frenante elettromagnetico|2017/12/ellittica-diamond-d62|data.oliviero.it/imgprodotto/ellittica-diamond-d62_124144",

@@ -1,4 +1,5 @@
 Gr = [
+"4 Sedie Lion Brown|Sedia \"\"Lion Brown\"\" Completamente Rivestita In Pelle Sintetica|2017/12/4-sedie-lion-brown|data.oliviero.it/imgprodotto/4-sedie-lion-brown_170158",
 "Stampa FASHION|Stampa \"FASHION - B\" stampa su tela telaio in legno cm H100 x L70 x P3|2017/12/stampa-fashion|data.oliviero.it/imgprodotto/stampa-fashion-b_134130",
 "Madia 2 ante scorrevoli 3 cassetti HIJO|Madia 2 ante scorrevoli 3 cassetti HIJO 1 anta laccata grigio opaco|2017/12/madia-2-ante-scorrevoli-3-cassetti-hijo|data.oliviero.it/imgprodotto/madia-2-ante-scorrevoli-3-cassetti-hijo_135015",
 "Cassettiera con ruote BIG BOBO|Cassettiera con ruote BIG BOBO 5 cassetti realizzati in MDF|2017/12/cassettiera-con-ruote-big-bobo|data.oliviero.it/imgprodotto/cassettiera-con-ruote-big-bobo_136091",

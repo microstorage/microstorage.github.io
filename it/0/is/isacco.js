@@ -1,4 +1,9 @@
 Gr = [
+"Grembiule Versailles|Colore : Nero Composizione : tessuto 100% poliestere Dimensioni|2017/12/grembiule-versailles|data.oliviero.it/imgprodotto/grembiule-versailles_24691_big",
+"Bolero Unisex Antracite|Bolero unisex, ideale per sale e ricevimento 100% poliestere Antracite|2017/12/bolero-unisex-antracite|data.oliviero.it/imgprodotto/bolero-unisex-antracite-035087_151460",
+"Pantaloni Cuoco Pantalaccio Bluette|35% cotone 65% poliestere Colore Bluette|2017/12/pantaloni-cuoco-pantalaccio-bluette|data.oliviero.it/imgprodotto/pantaloni-cuoco-pantalaccio-bluette-044606_151031",
+"Camicia donna bianca Tenerife Stretch|Colore :Bianco Composizione : tessuto 97% cotone e 3% spandex|2017/12/camicia-donna-bianca-tenerife-stretch|data.oliviero.it/imgprodotto/camicia-donna-bianca-tenerife-stretch_2340_big",
+"Casacca Collo A V|Colore : Lilla Composizione : tessuto 65% poliestere e 35% cotone|2017/12/casacca-collo-a-v|data.oliviero.it/imgprodotto/casacca-collo-a-v_1630_big",
 "Pettorina Pied de Poule|Pettorina unisex realizzata in 100% cotone. Modello con laccio in|2017/12/pettorina-pied-de-poule|data.oliviero.it/imgprodotto/pettorina-pied-de-poule_1643_big",
 "Giacca Cuoco Coreana Bianco|100% cotton Bianco con profili colorati|2017/12/giacca-cuoco-coreana-bianco|data.oliviero.it/imgprodotto/giacca-cuoco-coreana-bianco-056022_151019",
 "Giacca Cuoco Alicante|65% poliestere e 35% cotone Mezza manica Nero e rosso|2017/12/giacca-cuoco-alicante|data.oliviero.it/imgprodotto/giacca-cuoco-alicante-056907_150965",

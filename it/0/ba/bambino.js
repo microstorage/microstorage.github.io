@@ -1,4 +1,5 @@
 Gr = [
+"Camicia Neonato Azzurro Blu|Collezione Primavera Estate Camicia da neonato con maniche lunghe|2017/12/camicia-neonato-azzurro-blu|data.oliviero.it/imgprodotto/camicia-neonato-azzurro-blu-3s616_159231",
 "Zaino Advanced Bitmap|Lo zaino pensato per chi ha esigenze di carico ma non vuole|2017/12/zaino-advanced-bitmap|data.oliviero.it/imgprodotto/zaino-advanced-bitmap_166298",
 "Scarpe con Ruote Helix|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/12/scarpe-con-ruote-helix|data.oliviero.it/imgprodotto/scarpe-con-ruote-helix-7764_132725",
 "Diario 10 mesi SJ Gang Boy|Seven SJ gang faccine diario agenda 10 mesi non datato, pagine|2017/12/diario-10-mesi-sj-gang-boy|data.oliviero.it/imgprodotto/diario-10-mesi-sj-gang-boy_167512",

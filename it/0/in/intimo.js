@@ -1,4 +1,5 @@
 Gr = [
+"Canotta taglie forti uomo bianca XF550|Tipologia : Canotta intima Taglie Forti uomo Tessuto : 100% cotone|2017/12/canotta-taglie-forti-uomo-bianca-xf550|data.oliviero.it/imgprodotto/canotta-taglie-forti-uomo-bianca-xf550_57471",
 "T-shirt taglie forti uomo|T-Shirt corpo uomo realizzata in puro Cotone, girocollo, maniche|2017/12/t-shirt-taglie-forti-uomo|data.oliviero.it/imgprodotto/t-shirt-taglie-forti-uomo-501_57859",
 "Accappatoio taglie forti blu scuro OKEY|Accappatoio uomo ideato per taglie forti. Modello classico im pura|2017/12/accappatoio-taglie-forti-blu-scuro-okey|data.oliviero.it/imgprodotto/accappatoio-taglie-forti-blu-scuro-okey_23948_big",
 "Reggiseno Donna Arancio Techfit TF MC Bra|Supporto medio ideale per discipline come elliptical training o hiking|2017/11/reggiseno-donna-arancio-techfit-tf-mc-bra|data.oliviero.it/imgprodotto/reggiseno-donna-arancio-techfit-tf-mc-bra-bk3776_159438",

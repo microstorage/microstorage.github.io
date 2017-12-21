@@ -1,4 +1,9 @@
 Gr = [
+"Scarpe Wmns Air Max 90|La scarpa Nike Air Max 90 - Donna rende omaggio alle proprie radici|2017/12/scarpe-wmns-air-max-90|data.oliviero.it/imgprodotto/scarpe-wmns-air-max-90_166484",
+"Felpa Uomo Charcoal|Collezione Autunno Inverno/2018 La felpa con cappuccio Nike|2017/12/felpa-uomo-charcoal|data.oliviero.it/imgprodotto/felpa-uomo-charcoal_169409",
+"Berretto Aerobill Elite Bianco|Il cappellino da running Nike AeroBill è leggero e traspirante|2017/12/berretto-aerobill-elite-bianco|data.oliviero.it/imgprodotto/berretto-aerobill-elite-bianco_169748",
+"Scarpe Court Royale|Utilizzo: Sneakers uomo Tomaia: pelle Battistrada: in gomma|2017/12/scarpe-court-royale|data.oliviero.it/imgprodotto/scarpe-court-royale-749747-411_167848",
+"Felpa Donna Bianco|Collezione Autunno Inverno/2018 La felpa con cappuccio Nike|2017/12/felpa-donna-bianco|data.oliviero.it/imgprodotto/felpa-donna-bianco_169394",
 "Pantaloni Sportivi Uomo Blu|Collezione Autunno Inverno/2018 I pantaloni da jogging Nike|2017/12/pantaloni-sportivi-uomo-blu|data.oliviero.it/imgprodotto/pantaloni-sportivi-uomo-blu_169482",
 "Scarpe Running Lunarglide 8|La scarpa da running Nike LunarGlide 8 - Uomo offre un sostegno|2017/12/scarpe-running-lunarglide-8|data.oliviero.it/imgprodotto/scarpe-running-lunarglide-8-843725-800_151190",
 "Pantaloncini Basket 23 cm|Gli shorts da basket 23 cm Nike KD Elite - Uomo sono realizzati in|2017/12/pantaloncini-basket-23-cm|data.oliviero.it/imgprodotto/pantaloncini-basket-23-cm_167753",

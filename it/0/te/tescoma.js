@@ -1,4 +1,6 @@
 Gr = [
+"3 Coppapasta Triangolo|Vuoi impiattare da vero professionista? Con i coppapasta|2017/12/3-coppapasta-triangolo|data.oliviero.it/imgprodotto/3-coppapasta-triangolo-422216_155185",
+"Portavivande Termico 2,5 lt|Con i nuovi elegantissimi contenitori termici puoi organizzare una|2017/12/portavivande-termico-2-5-lt|data.oliviero.it/imgprodotto/portavivande-termico-2-5-lt_93332",
 "Porta cucchiai|Porta cucchiai in acciaio con finiture cromo, ideale per appoggiare|2017/12/porta-cucchiai|data.oliviero.it/imgprodotto/porta-cucchiai_74104",
 "Affetta Uovo|Se devi preparare sfiziose tartine o affettare le uova per guarnire|2017/12/affetta-uovo|data.oliviero.it/imgprodotto/affetta-uovo-420644_155103",
 "Tagliabiscotti per frollini tradizionali|Con questi tagliabiscotti potrai preparare frollini dalle forme|2017/12/tagliabiscotti-per-frollini-tradizionali|data.oliviero.it/imgprodotto/tagliabiscotti-per-frollini-tradizionali-630932_157768",

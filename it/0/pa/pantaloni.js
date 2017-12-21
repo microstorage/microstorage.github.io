@@ -1,4 +1,6 @@
 Gr = [
+"Pantalone Uomo Taglie Forti Sabbia|Collezione Primavera Estate Pantaloni uomo Taglie Forti. Il modello|2017/12/pantalone-uomo-taglie-forti-sabbia|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-sabbia_161445",
+"Pantaloni Cuoco Pantalaccio Bluette|35% cotone 65% poliestere Colore Bluette|2017/12/pantaloni-cuoco-pantalaccio-bluette|data.oliviero.it/imgprodotto/pantaloni-cuoco-pantalaccio-bluette-044606_151031",
 "Pantaloni donna Heritage|Tipologia : Pantaloni donna Tessuto : 100% cotone Caratteristiche|2017/12/pantaloni-donna-heritage|data.oliviero.it/imgprodotto/pantaloni-donna-heritage_73342",
 "Pantaloni Slim Fit Uomo Navy|Collezione Autunno Inverno/2018 Pantaloni navy con patta con bottoni|2017/12/pantaloni-slim-fit-uomo-navy|data.oliviero.it/imgprodotto/pantaloni-slim-fit-uomo-navy_169184",
 "Pantalone Uomo Taglie Forti Bianco e Grigio|Collezione Priamavera Estate Pantalone casual uomo taglie forti. Il|2017/12/pantalone-uomo-taglie-forti-bianco-e-grigio|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-bianco-e-grigio_163462",

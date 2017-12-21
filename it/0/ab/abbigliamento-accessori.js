@@ -1,4 +1,8 @@
 Gr = [
+"Zaino Trail Vest Light|Cinghia addominale e cinghia sternale dotate delle fibbie EZ OP ad|2017/12/zaino-trail-vest-light|data.oliviero.it/imgprodotto/zaino-trail-vest-light-1465_164190",
+"Zainetto Dog|Zainetto da asilo ideale per contenere tutto il necessario per una|2017/12/zainetto-dog|data.oliviero.it/imgprodotto/zainetto-dog-skip-hop_140413",
+"Braccialetto in metallo SBS3NA 00114|Braccialetto in metallo e tessuto Lunghezza 21 cm (compreso|2017/12/braccialetto-in-metallo-sbs3na-00114|data.oliviero.it/imgprodotto/braccialetto-in-metallo-sbs3na-00114_146964",
+"Style Trolley Cowboy 4 ruote|Trolley Cabina 4 ruote con chiusura a combinazione laterale con TSA|2017/12/style-trolley-cowboy-4-ruote|data.oliviero.it/imgprodotto/style-trolley-cowboy-4-ruote-tsa-40x55x20_84255",
 "Trolley Maxi Round Widget|Per chi ancora non lo conoscesse, questo è Maxi Trolley Round: un|2017/12/trolley-maxi-round-widget|data.oliviero.it/imgprodotto/trolley-maxi-round-widget_166138",
 "Zaino Zephyr 17+3|Zaino Zephyr 17+3 - 75811 Serie di zaini studiati per attività|2017/12/zaino-zephyr-17+3|data.oliviero.it/imgprodotto/zaino-zephyr-17-3-75811_145030",
 "Cappello Uomo Nero|Collezione Autunno Inverno/2018 Cappello invernale da uomo in morbido|2017/12/cappello-uomo-nero|data.oliviero.it/imgprodotto/cappello-uomo-nero_170956",

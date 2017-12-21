@@ -1,4 +1,12 @@
 Gr = [
+"Scarpe Wmns Air Max 90|La scarpa Nike Air Max 90 - Donna rende omaggio alle proprie radici|2017/12/scarpe-wmns-air-max-90|data.oliviero.it/imgprodotto/scarpe-wmns-air-max-90_166484",
+"Mocassini Uomo Antracite|Collezione Autunno Inverno/2018 Mocassini da uomo Tomaia in pelle|2017/12/mocassini-uomo-antracite|data.oliviero.it/imgprodotto/mocassini-uomo-antracite_166630",
+"Scarpe Running Gel Cumulus 18 (W)|Il tuo piede riceverà grande spinta in fase di stacco grazie alla|2017/12/scarpe-running-gel-cumulus-18-w|data.oliviero.it/imgprodotto/scarpe-running-gel-cumulus-18-w-t6c8n-0149_163809",
+"Scarpe Calcetto X 17.4 TF|Sfida il tuo avversario. Gioca con agilità che lascia paralizzato|2017/12/scarpe-calcetto-x-17-4-tf|data.oliviero.it/imgprodotto/scarpe-calcetto-x-17-4-tf_171649",
+"Scarpe Running Gel Pulse 8 (W)|Stabilisci tempi da record sui tuoi percorsi preferiti indossando le|2017/12/scarpe-running-gel-pulse-8-w|data.oliviero.it/imgprodotto/scarpe-running-gel-pulse-8-w-t6e6n-2001_164133",
+"Scarpe All Star Hi Pelle lucida|Utilizzo: Calzatura moda sport Unisex Tomaia: Tessuto Battistrada: in|2017/12/scarpe-all-star-hi-pelle-lucida|data.oliviero.it/imgprodotto/scarpe-all-star-hi-pelle-lucida_139899",
+"Scarpe Court Royale|Utilizzo: Sneakers uomo Tomaia: pelle Battistrada: in gomma|2017/12/scarpe-court-royale|data.oliviero.it/imgprodotto/scarpe-court-royale-749747-411_167848",
+"Scarpe Faulkner|Utilizzo: Calzatura Moda Sport unisex Tomaia: Pelle effetto|2017/12/scarpe-faulkner|data.oliviero.it/imgprodotto/scarpe-faulkner-sjvdxp_167695",
 "Stringate Elsa Multicolor|Ana Lublin scarpe donna - Collezione Autunno/Inverno/2015 - MADE IN|2017/12/stringate-elsa-multicolor|data.oliviero.it/imgprodotto/stringate-elsa-multicolor_96830",
 "Scarpe con Ruote Helix|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/12/scarpe-con-ruote-helix|data.oliviero.it/imgprodotto/scarpe-con-ruote-helix-7764_132725",
 "Scarpe Hamburg|Comparse per la prima volta all'inizio degli anni '80, le scarpe|2017/12/scarpe-hamburg|data.oliviero.it/imgprodotto/scarpe-hamburg-s76697_158149",

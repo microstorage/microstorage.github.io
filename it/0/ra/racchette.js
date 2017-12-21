@@ -1,4 +1,5 @@
 Gr = [
+"Set Solara|Set Solara composto da 2 racchette e 3 palline + tendirete e rete Set|2017/12/set-solara|data.oliviero.it/imgprodotto/set-solara_8353_big",
 "Racchetta Tennis Radical Pro|Head arricchisce anche la Radical con il Graphene! La Radical YT|2017/12/racchetta-tennis-radical-pro|data.oliviero.it/imgprodotto/racchetta-tennis-radical-pro_70274",
 "Racchetta Tennis Challenge Lite|Racchetta con piatto corde Head IG Challenge Lite (Blu)|2017/12/racchetta-tennis-challenge-lite|data.oliviero.it/imgprodotto/racchetta-tennis-challenge-lite_165484",
 "Tavolo Ping Pong Axos Outdoor 3|Piano gioco per esterno in ALU-TEC+ multistrati spessore mm. 22|2017/11/tavolo-ping-pong-axos-outdoor-3|data.oliviero.it/imgprodotto/tavolo-ping-pong-axos-outdoor-3_147326",

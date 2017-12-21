@@ -1,4 +1,5 @@
 Gr = [
+"Letto Matrimoniale Ares Ecopelle con contenitore|Caratteristiche Dimensioni letto 206x174x37 cm Dimensioni testiera|2017/12/letto-matrimoniale-ares-ecopelle-con-contenitore|data.oliviero.it/imgprodotto/letto-matrimoniale-ares-ecopelle-con-contenitore-musa_153581",
 "Letto Matrimoniale Pegaso Ecopelle con contenitore|Caratteristiche Dimensioni letto 207x185x37 cm Dimensioni testiera|2017/12/letto-matrimoniale-pegaso-ecopelle-con-contenitore|data.oliviero.it/imgprodotto/letto-matrimoniale-pegaso-ecopelle-con-contenitore-musa_153601",
 "Cameretta Felice|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/12/cameretta-felice|data.oliviero.it/imgprodotto/cameretta-felice-gt4060_160272",
 "Cameretta Vasco|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/12/cameretta-vasco|data.oliviero.it/imgprodotto/cameretta-vasco-gt4063_160283",

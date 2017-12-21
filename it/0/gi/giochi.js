@@ -1,4 +1,7 @@
 Gr = [
+"Coniglio Musicale|Il Gioco Chicco Coniglio Musicale sarà un simpatico compagno di|2017/12/coniglio-musicale|data.oliviero.it/imgprodotto/coniglio-musicale_8765_big",
+"Trampolino Fit and Balance|\"Fit&Balance\" è un vero e proprio attrezzo per l'allenamento e il|2017/12/trampolino-fit-and-balance|data.oliviero.it/imgprodotto/trampolino-fit-and-balance_153472",
+"Puzzle Gigante Il Grande Giardino|Divertiti a comporre il grande giardino! Il cagnolino insegue la|2017/12/puzzle-gigante-il-grande-giardino|data.oliviero.it/imgprodotto/puzzle-gigante-il-grande-giardino_156567",
 "Scarpe con ruote Propel 2.0|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/12/scarpe-con-ruote-propel-2-0|data.oliviero.it/imgprodotto/scarpe-con-ruote-propel-2-0-770603h_146320",
 "Piano di copertura Virginia 7|Piano di copertura per Biliardo Virginia 7 Piane di copertura: in MDF|2017/12/piano-di-copertura-virginia-7|data.oliviero.it/imgprodotto/piano-di-copertura-virginia-7_141758",
 "Palestrina della Foresta|Il tappetino attività portatile intrattiene il bambino con|2017/12/palestrina-della-foresta|data.oliviero.it/imgprodotto/palestrina-della-foresta-chp85-ma147_156594",

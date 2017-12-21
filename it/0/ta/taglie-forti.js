@@ -1,4 +1,7 @@
 Gr = [
+"Pantalone Uomo Taglie Forti Sabbia|Collezione Primavera Estate Pantaloni uomo Taglie Forti. Il modello|2017/12/pantalone-uomo-taglie-forti-sabbia|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-sabbia_161445",
+"Canotta taglie forti uomo bianca XF550|Tipologia : Canotta intima Taglie Forti uomo Tessuto : 100% cotone|2017/12/canotta-taglie-forti-uomo-bianca-xf550|data.oliviero.it/imgprodotto/canotta-taglie-forti-uomo-bianca-xf550_57471",
+"T-Shirt Uomo Taglie Forti Oliva|Collezione Autunno Inverno/2018 T-Shirt manica lunga da uomo taglie|2017/12/t-shirt-uomo-taglie-forti-oliva|data.oliviero.it/imgprodotto/t-shirt-uomo-taglie-forti-oliva_167336",
 "Maglia Taglie Forti Uomo Nero|Collezione Autunno Inverno/2018 Pullover in misto lana scollo V, con|2017/12/maglia-taglie-forti-uomo-nero|data.oliviero.it/imgprodotto/maglia-taglie-forti-uomo-nero-nv11005ad20_170220",
 "Felpa Uomo Taglie Forti Grigio 26700 250|Collezione Autunno Inverno/2018 Felpa uomo taglie forti. Il modello|2017/12/felpa-uomo-taglie-forti-grigio-26700-250|data.oliviero.it/imgprodotto/felpa-uomo-taglie-forti-grigio-26700-250_168557",
 "Giubbino Uomo Taglie Forti Militare|Collezione Autunno Inverno/2018 Piumino uomo taglie forti. Il modello|2017/12/giubbino-uomo-taglie-forti-militare|data.oliviero.it/imgprodotto/giubbino-uomo-taglie-forti-militare_170320",

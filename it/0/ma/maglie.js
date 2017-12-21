@@ -1,4 +1,5 @@
 Gr = [
+"Maglia Uomo Nero|Collezione Autunno Inverno/2018 Afferma il tuo senso dello stile|2017/12/maglia-uomo-nero|data.oliviero.it/imgprodotto/maglia-uomo-nero_171069",
 "Maglia da donna con ampio scollo|Maglia da donna con ampio scollo, maniche lunghe, collezione Liu Jo|2017/10/maglia-da-donna-con-ampio-scollo|data.oliviero.it/imgprodotto/maglia-donna-w15069-ma361-33801_146669",
 "Maglia calcio bambino Nazionale Italiana|La maglia per infiammare la passione di tutti i tifosi degli Azzurri|2017/06/maglia-calcio-bambino-nazionale-italiana|data.oliviero.it/imgprodotto/maglia-figc-kids-home-replica-748833_148488",
 "Maglia donna, fiocco frontale|Maglia da donna con ampio scollo, maniche a 3/4, fiocco frontale|2017/04/maglia-donna-fiocco-frontale|data.oliviero.it/imgprodotto/maglia-donna-s3s4ap-00428_146606",

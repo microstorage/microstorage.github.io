@@ -1,4 +1,8 @@
 Gr = [
+"Felpa Uomo Blu|Felpa con zip e collo alto di Adidas Originals, classicissima, con|2017/12/felpa-uomo-blu|data.oliviero.it/imgprodotto/felpa-uomo-blu_168181",
+"Pantaloni Sportivi Donna Nero|I pantaloni lunghi adidas ZNE Slim da donna è un capo molto|2017/12/pantaloni-sportivi-donna-nero|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-nero_168060",
+"Scarpe Calcetto X 17.4 TF|Sfida il tuo avversario. Gioca con agilità che lascia paralizzato|2017/12/scarpe-calcetto-x-17-4-tf|data.oliviero.it/imgprodotto/scarpe-calcetto-x-17-4-tf_171649",
+"Scarpe da Calcio X15.3 FG-AG Leather|Distruggi l'ordine. Con queste scarpe da calcio puoi cogliere di|2017/12/scarpe-da-calcio-x15-3-fg-ag-leather|data.oliviero.it/imgprodotto/scarpe-da-calcio-x15-3-fg-ag-leather-s74640_142639",
 "T-Shirt Donna Rosa|Questa maglia maniche lunghe Adidas è stata pensata per i vostri|2017/12/t-shirt-donna-rosa|data.oliviero.it/imgprodotto/t-shirt-donna-rosa_167977",
 "Scarpe Hamburg|Comparse per la prima volta all'inizio degli anni '80, le scarpe|2017/12/scarpe-hamburg|data.oliviero.it/imgprodotto/scarpe-hamburg-s76697_158149",
 "Tuta Donna Navy Grigio e viola|Collezione Autunno Inverno/2018 Questa tuta da ragazza slim-fit|2017/12/tuta-donna-navy-grigio-e-viola|data.oliviero.it/imgprodotto/tuta-donna-navy-grigio-e-viola_168022",

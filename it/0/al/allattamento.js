@@ -1,4 +1,6 @@
 Gr = [
+"Dosatore latte in polvere|Pratico dosatore per latte in polvere da passeggio. Diviso|2017/12/dosatore-latte-in-polvere|data.oliviero.it/imgprodotto/dosatore-latte-in-polvere_114885",
+"2 Tettarelle Silicone flusso pappa|Confezione composta da 2 tettarelle in silicone a flusso PAPPA|2017/12/2-tettarelle-silicone-flusso-pappa|data.oliviero.it/imgprodotto/2-tettarelle-silicone-flusso-pappa_9056_big",
 "Biberon Silicone 250 ml|La linea Chicco Benessere è dedicata alle mamme allegre e piene di|2017/12/biberon-silicone-250-ml|data.oliviero.it/imgprodotto/biberon-silicone-250-ml_138864",
 "Tiralatte manuale|Quando ci si sente a proprio agio e ci si sente rilassate, il latte|2017/12/tiralatte-manuale|data.oliviero.it/imgprodotto/tiralatte-manuale_73762",
 "Sterilnatural 3 in 1|Steril Natural 3 in 1 di Chicco è lo sterilizzatore a vapore modulare|2017/12/sterilnatural-3-in-1|data.oliviero.it/imgprodotto/sterilnatural-3-in-1_139126",

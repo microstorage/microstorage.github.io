@@ -1,4 +1,5 @@
 Gr = [
+"Poltrona Sake Nera|Poltrona per ufficio Direzionale, con base in acciaio cromato|2017/12/poltrona-sake-nera|data.oliviero.it/imgprodotto/poltrona-sake-nera_108512",
 "Scrivania 41.42.62|MADE IN ITALY Elegante scrivania, ideale per essere collocata in una|2017/12/scrivania-41-42-62|data.oliviero.it/imgprodotto/scrivania-41-42-62_55421",
 "100 capsule Lollo Caffè Classico compatibili Lavazza Espresso Point|Confezione contenente 100 capsule di caffè in miscela lollo classico|2017/11/100-capsule-lollo-caffe-classico-compatibili-lavazza-espresso-point|www.cialdamia.it/media/catalog/product/cache/1/image/85e4522595efc69f496374d01ef2bf13/1/0/100-capsule-lollo-caffe-classico-compatibili-lavazza-espresso-point_1.png",
 "Promozione Macchina Illy Iperespresso Y3 Verde + 108 capsule|Offerta imperdibile per la Macchina Illy Iperespresso Y3 Verde!|2017/11/promozione-macchina-illy-iperespresso-y3-verde-+-108-capsule|www.cialdamia.it/media/catalog/product/cache/1/image/85e4522595efc69f496374d01ef2bf13/p/r/promozione-macchina-illy-iperespresso-y3-verde-108-capsule.png",

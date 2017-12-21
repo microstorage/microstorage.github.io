@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloni Sportivi Donna Nero|I pantaloni lunghi adidas ZNE Slim da donna è un capo molto|2017/12/pantaloni-sportivi-donna-nero|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-nero_168060",
 "Pantaloni Sportivi Uomo Blu|Collezione Autunno Inverno/2018 I pantaloni da jogging Nike|2017/12/pantaloni-sportivi-uomo-blu|data.oliviero.it/imgprodotto/pantaloni-sportivi-uomo-blu_169482",
 "Pantaloni Sportivi Essentials Performance Logo|Mostra la tua passione per adidas indossando questi pantaloni|2017/12/pantaloni-sportivi-essentials-performance-logo|data.oliviero.it/imgprodotto/pantaloni-sportivi-essentials-performance-logo-bk7410_159280",
 "Leggings Donna Nero|I tights da running Nike Epic Run - Donna offrono compression fit|2017/12/leggings-donna-nero|data.oliviero.it/imgprodotto/leggings-donna-nero_169504",

@@ -1,4 +1,6 @@
 Gr = [
+"Guanti Fit Boxe e KICK-FIT|Caratteristiche: SYNTEX TECH G3 e neoprene alta durata e resistenza|2017/12/guanti-fit-boxe-e-kick-fit|data.oliviero.it/imgprodotto/guanti-fit-boxe-e-kick-fit_159685",
+"Guantoni Boxe 10oz. GN083|Guantoni 10oz. Chiusura: Velcro Disciplina: Boxe, kick boxing, muay|2017/12/guantoni-boxe-10oz-gn083|data.oliviero.it/imgprodotto/guantoni-boxe-10oz-gn083_154999",
 "Guanti da allenamento Atomic S10W|Guanti da allenamento Caratteristiche: Grip progettato per aumentare|2017/12/guanti-da-allenamento-atomic-s10w|data.oliviero.it/imgprodotto/guanti-da-allenamento-atomic-s10w_93004",
 "Guantoni Boxe Doctor 10 Oz|Dalla collaborazione tra il campione mondiale di K1 Giorgio Petrosyan|2017/12/guantoni-boxe-doctor-10-oz|data.oliviero.it/imgprodotto/guantoni-boxe-doctor-10-oz-gn050_154531",
 "Guantoni Boxe Black and White 10 oz|I Guantoni Leone Black&White GN059 sono realizzati in poliuretano di|2017/12/guantoni-boxe-black-and-white-10-oz|data.oliviero.it/imgprodotto/guantoni-boxe-black-and-white-10-oz-gn059_161019",
