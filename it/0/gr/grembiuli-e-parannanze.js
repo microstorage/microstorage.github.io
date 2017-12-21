@@ -1,4 +1,11 @@
 Gr = [
+"Grembiule cuoco unisex|Colore : Bianco Inserto : Scozzese grigio Composizione : Tessuto 100%|2017/12/grembiule-cuoco-unisex|data.oliviero.it/imgprodotto/grembiule-cuoco-unisex_79010",
+"Grembiule Bistrò|Colore : Nero Composizione : tessuto 100% poliestere Dimensioni :|2017/12/grembiule-bistro|data.oliviero.it/imgprodotto/grembiule-bistro_24701_big",
+"Grembiule Pettorina|Grembiule pettorina corto con tasca Caratteristiche: Colore: Bianco|2017/12/grembiule-pettorina|data.oliviero.it/imgprodotto/grembiule-pettorina-087097_159017",
+"Grembiule Orleans|Colore : Gessato Composizione : tessuto 100% poliestere Dimensioni|2017/12/grembiule-orleans|data.oliviero.it/imgprodotto/grembiule-orleans_24474_big",
+"Pettorina Colours|Colore : Rosso Composizione : tessuto 65% poliestere e 35% cotone|2017/12/pettorina-colours|data.oliviero.it/imgprodotto/pettorina-colours_24659_big",
+"Grembiule uomo|Colore :Bianco Composizione : tessuto 65% poliestere e 35% cotone|2017/12/grembiule-uomo|data.oliviero.it/imgprodotto/grembiule-uomo_23014_big",
+"Grembiule con pettorina|Colore base : Base colore Nero Composizione : 100% Poliestere|2017/12/grembiule-con-pettorina|data.oliviero.it/imgprodotto/grembiule-con-pettorina_83008",
 "Grembiule Versailles|Colore : Nero Composizione : tessuto 100% poliestere Dimensioni|2017/12/grembiule-versailles|data.oliviero.it/imgprodotto/grembiule-versailles_24691_big",
 "Pettorina Pied de Poule|Pettorina unisex realizzata in 100% cotone. Modello con laccio in|2017/12/pettorina-pied-de-poule|data.oliviero.it/imgprodotto/pettorina-pied-de-poule_1643_big",
 "Grembiule a vita|Colore base : Base bianca Composizione : 65% Poliestere 35% Cotone|2017/12/grembiule-a-vita|data.oliviero.it/imgprodotto/grembiule-a-vita_83000",

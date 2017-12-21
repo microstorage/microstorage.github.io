@@ -1,4 +1,9 @@
 Gr = [
+"Scarpe Basket Jordan Flight Origin 4|ISPIRATA AL VOLO - La scarpa Jordan Flight Origin 4 - Uomo offre un|2017/12/scarpe-basket-jordan-flight-origin-4|data.oliviero.it/imgprodotto/scarpe-basket-jordan-flight-origin-4_172374",
+"Basket a colonna Junior|BASKETBALL JUNIOR trasportabile. Caratteristiche tecniche: Base in|2017/12/basket-a-colonna-junior|data.oliviero.it/imgprodotto/basket-a-colonna-junior_162173",
+"Scarpe Basket D Rose 7 Primeknit|Quando Derrick Rose conquista il pallone, sembra che i giocatori|2017/12/scarpe-basket-d-rose-7-primeknit|data.oliviero.it/imgprodotto/scarpe-basket-d-rose-7-primeknit-aq7743_154497",
+"Scarpe Basket KD Trey 5 V|La scarpa da basket KD Trey 5 V - Uomo è pensata per un comfort|2017/12/scarpe-basket-kd-trey-5-v|data.oliviero.it/imgprodotto/scarpe-basket-kd-trey-5-v_167394",
+"Berretto Jordan Jampman Bianco|Il berretto regolabile Jordan Jumpman H86 offre una struttura comoda|2017/12/berretto-jordan-jampman-bianco|data.oliviero.it/imgprodotto/berretto-jordan-jampman-bianco_169742",
 "Canestro Basket Regolamentare 46 cm|Canestro basket adatto per tabellone regolamentare. Caratteristiche|2017/12/canestro-basket-regolamentare-46-cm|data.oliviero.it/imgprodotto/canestro-basket-regolamentare-46-cm-70-320-0021_157440",
 "Canestro Seattle|Seattle è un tabellone da basket di qualità professionale e di misure|2017/12/canestro-seattle|data.oliviero.it/imgprodotto/canestro-seattle_1747_big",
 "Canestro San Jose|un tabellone da basket di elevata qualità e design attraente, con|2017/12/canestro-san-jose|data.oliviero.it/imgprodotto/canestro-san-jose_1758_big",

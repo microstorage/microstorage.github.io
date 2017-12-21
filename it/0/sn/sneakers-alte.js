@@ -1,4 +1,11 @@
 Gr = [
+"Scarpe All Star Hi Ecopelle Sughero|Utilizzo: Calzatura moda sport Unisex Tomaia: Tessuto Battistrada: in|2017/12/scarpe-all-star-hi-ecopelle-sughero|data.oliviero.it/imgprodotto/scarpe-all-star-hi-ecopelle-sughero_139916",
+"Scarpe All Star Hi Total Glitter e borchie|Utilizzo: Calzatura moda sport Unisex Tomaia: Tessuto Battistrada: in|2017/12/scarpe-all-star-hi-total-glitter-e-borchie|data.oliviero.it/imgprodotto/scarpe-all-star-hi-total-glitter-e-borchie_124580",
+"Scarpe Uomo Taiki ABX Taupe|Collezione Autunno Inverno/2018 Design casual e contemporaneo per|2017/12/scarpe-uomo-taiki-abx-taupe|data.oliviero.it/imgprodotto/scarpe-uomo-taiki-abx-taupe_168833",
+"Scarpe Uomo Smart Nero|Collezione Autunno Inverno/2018 Smart di nome e di fatto questa|2017/12/scarpe-uomo-smart-nero|data.oliviero.it/imgprodotto/scarpe-uomo-smart-nero_168817",
+"Scarpe Uomo Adventure 2.0 Nero|Collezione Autunno Inverno/2018 Stai sempre in movimento e sfida|2017/12/scarpe-uomo-adventure-2-0-nero|data.oliviero.it/imgprodotto/scarpe-uomo-adventure-2-0-nero_171078",
+"Scarpe Ct Lux Mid|Sneakers da donna Tomaia in pelle con punta in vernice Tacco interno|2017/12/scarpe-ct-lux-mid|data.oliviero.it/imgprodotto/scarpe-ct-lux-mid-550668_130279",
+"Scarpe Donna Grigio|Collezione Autunno Inverno/2018 Tipologia: sneaker alta con zeppa|2017/12/scarpe-donna-grigio|data.oliviero.it/imgprodotto/scarpe-donna-grigio_168920",
 "Scarpe All Star Hi Pelle lucida|Utilizzo: Calzatura moda sport Unisex Tomaia: Tessuto Battistrada: in|2017/12/scarpe-all-star-hi-pelle-lucida|data.oliviero.it/imgprodotto/scarpe-all-star-hi-pelle-lucida_139899",
 "Scarpe Air Force 1 Mid|La lunga tradizione del basket si arricchisce con la scarpa Nike Air|2017/12/scarpe-air-force-1-mid|data.oliviero.it/imgprodotto/scarpe-air-force-1-mid_167850",
 "Scarpe Ct As Hi|Sneakers alte da donna Tomaia in tessuto Occhielli in metallo Suola|2017/12/scarpe-ct-as-hi|data.oliviero.it/imgprodotto/scarpe-ct-as-hi-156769_162696",

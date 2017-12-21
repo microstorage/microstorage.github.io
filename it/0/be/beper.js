@@ -1,4 +1,13 @@
 Gr = [
+"Massaggiatore Lipomodellante Anticellulite|Massaggiatore Lipomodellante Anticellulite Codice: 40.946 Descrizione|2017/12/massaggiatore-lipomodellante-anticellulite|data.oliviero.it/imgprodotto/massaggiatore-lipomodellante-anticellulite-40-946_89805",
+"Macchina per la pasta manuale|Macchina per la pasta manuale Corpo e rulli in acciaio Funzionamento|2017/12/macchina-per-la-pasta-manuale|data.oliviero.it/imgprodotto/macchina-per-la-pasta-manuale_160586",
+"Vaporiera multicottura 7 Lt rettangolare|Vaporiera multicottura 7 Lt rettangolare Codice: 90.502 Descrizione:|2017/12/vaporiera-multicottura-7-lt-rettangolare|data.oliviero.it/imgprodotto/vaporiera-multicottura-7-lt-rettangolare-90-502_88966",
+"Hair Kit da viaggio Phon e piastra|Hair Kit da viaggio Phon e piastra Codice: 40.956 Descrizione|2017/12/hair-kit-da-viaggio-phon-e-piastra|data.oliviero.it/imgprodotto/hair-kit-da-viaggio-phon-e-piastra-40-956_89823",
+"Bollitore Elettrico 1.7 litri acciaio 90.351N|90.351A Bollitore Elettrico 1.7 litri acciaio Corpo in acciaio|2017/12/bollitore-elettrico-1-7-litri-acciaio-90-351n|data.oliviero.it/imgprodotto/bollitore-elettrico-1-7-litri-acciaio-90-351n_165162",
+"Lampada LED per Gel unghie|Lampada LED per gel unghie 40.995 Caratteristiche: Timer 10/30/60 sec|2017/12/lampada-led-per-gel-unghie|data.oliviero.it/imgprodotto/lampada-led-per-gel-unghie-40-995_91935",
+"Bilancia Pesapersone Hello Kitty HK-B90042|Bilancia Pesapersone Hello Kitty Codice: HK-B90042 Descrizione|2017/12/bilancia-pesapersone-hello-kitty-hk-b90042|data.oliviero.it/imgprodotto/bilancia-pesapersone-hello-kitty-hk-b90042_89521",
+"Grattugia e Affettaverdura|Grattugia e Affettaverdura Codice: 90.055 colore bianco e rosso|2017/12/grattugia-e-affettaverdura|data.oliviero.it/imgprodotto/grattugia-e-affettaverdura-90-055_89042",
+"Caminetto Elettrico LED Nexa con telecomando|Caminetto Elettrico LED con telecomando Codice: RI.501SL Descrizione|2017/12/caminetto-elettrico-led-nexa-con-telecomando|data.oliviero.it/imgprodotto/caminetto-elettrico-led-nexa-con-telecomando_89547",
 "Bilancia da cucina 2 in 1 bianca 90.114B|Bilancia da cucina 2 in 1 bianca Descrizione Ciotola in acciaio inox|2017/12/bilancia-da-cucina-2-in-1-bianca-90-114b|data.oliviero.it/imgprodotto/bilancia-da-cucina-2-in-1-bianca-90-114b_160600",
 "Robot da cucina 500W|Robot da cucina 500W - AZZURRO - 90.470A Descrizione: Potenza: 500|2017/12/robot-da-cucina-500w|data.oliviero.it/imgprodotto/robot-da-cucina-500w-azzurro-90-470a_160690",
 "Tostiera Deluxe|Tostiera Deluxe Codice: 90.604 Descrizione: Piastra antiaderente|2017/12/tostiera-deluxe|data.oliviero.it/imgprodotto/tostiera-deluxe_90345",

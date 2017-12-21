@@ -1,4 +1,11 @@
 Gr = [
+"Passeggino Trip Denim 2017|Trip è un passeggino compatto e leggero con forme sobrie e sportive|2017/12/passeggino-trip-denim-2017|data.oliviero.it/imgprodotto/passeggino-trip-denim-2017_146464",
+"Passeggino Trip Marina 2017|Trip è un passeggino compatto e leggero con forme sobrie e sportive|2017/12/passeggino-trip-marina-2017|data.oliviero.it/imgprodotto/passeggino-trip-marina-2017_146463",
+"Dual Bag Imperial Blue|Borsa Inglesina Dual Bag è la pratica e comoda borsa da passeggino|2017/12/dual-bag-imperial-blue|data.oliviero.it/imgprodotto/dual-bag-imperial-blue_172110",
+"Day Bag Oxford Blue|Borsa modulabile che si fa in due per te. Una comoda e grande borsa|2017/12/day-bag-oxford-blue|data.oliviero.it/imgprodotto/day-bag-oxford-blue_170215",
+"Day Bag Rodeo Sand|Borsa modulabile che si fa in due per te. Una comoda e grande borsa|2017/12/day-bag-rodeo-sand|data.oliviero.it/imgprodotto/day-bag-rodeo-sand_170211",
+"Marsupio Front Cappuccino|Il marsupio per muoversi agevolmente in totale libertà sempre al|2017/12/marsupio-front-cappuccino|data.oliviero.it/imgprodotto/marsupio-front-cappuccino_154913",
+"Day Bag Panarea|É una borsa capiente e funzionale, di foggia esclusiva, con interno|2017/12/day-bag-panarea|data.oliviero.it/imgprodotto/day-bag-panarea_170203",
 "Dual Bag Rodeo Sand|Borsa Inglesina Dual Bag è la pratica e comoda borsa da passeggino|2017/12/dual-bag-rodeo-sand|data.oliviero.it/imgprodotto/dual-bag-rodeo-sand_172108",
 "Day Bag Lipari|É una borsa capiente e funzionale, di foggia esclusiva, con interno|2017/12/day-bag-lipari|data.oliviero.it/imgprodotto/day-bag-lipari_170200",
 "Dual Bag Sideral Grey|Borsa Inglesina Dual Bag è la pratica e comoda borsa da passeggino|2017/12/dual-bag-sideral-grey|data.oliviero.it/imgprodotto/dual-bag-sideral-grey_172112",

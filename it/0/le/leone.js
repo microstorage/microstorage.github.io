@@ -1,4 +1,10 @@
 Gr = [
+"Guanto da Boxe 6 oz|Quando la cura dei dettagli si fonde con lo studio e la ricerca dei|2017/12/guanto-da-boxe-6-oz|data.oliviero.it/imgprodotto/guanto-da-boxe-6-oz-gn056-record_154071",
+"Guanto da Boxe Active GN061 14 Oz|Guantoni in materiale anti-strappo, garantiscono la resistenza tipica|2017/12/guanto-da-boxe-active-gn061-14-oz|data.oliviero.it/imgprodotto/guanto-da-boxe-active-gn061-14-oz_93126",
+"Guanti Boxe Explosion|Incredibile design per il guanto Explosion consigliato per tutte le|2017/12/guanti-boxe-explosion|data.oliviero.it/imgprodotto/guanti-boxe-explosion_171403",
+"T-Shirt Basic X|T- shirt da allenamento a manica corta e girocollo classico. La sua|2017/12/t-shirt-basic-x|data.oliviero.it/imgprodotto/t-shirt-basic-x_171413",
+"Paratibia Defender PT120|Innovativi paratibia a calza con parapiede. L'accrata sagomatura|2017/12/paratibia-defender-pt120|data.oliviero.it/imgprodotto/paratibia-defender-pt120_169614",
+"T-Shirt Leone Extrema Nero|La T-shirt Leone Extrema ABX20 è realizzata in poliestere, è leggera|2017/12/t-shirt-leone-extrema-nero|data.oliviero.it/imgprodotto/t-shirt-leone-extrema-nero-abx20_161021",
 "Guantoni Boxe 10oz. GN083|Guantoni 10oz. Chiusura: Velcro Disciplina: Boxe, kick boxing, muay|2017/12/guantoni-boxe-10oz-gn083|data.oliviero.it/imgprodotto/guantoni-boxe-10oz-gn083_154999",
 "Stivaletti Boxe CL186|Interamente in pelle e lavorazione artigianale per il classico|2017/12/stivaletti-boxe-cl186|data.oliviero.it/imgprodotto/stivaletti-boxe-cl186_65719",
 "Bendaggio Semi-elastico 3,5m|Bendaggio semi-elastico in diverse colorazioni per il comfort e la|2017/12/bendaggio-semi-elastico-3-5m|data.oliviero.it/imgprodotto/bendaggio-semi-elastico-3-5m-ab705_169622",

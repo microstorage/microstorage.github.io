@@ -1,4 +1,6 @@
 Gr = [
+"Borsa Porta Bottiglie Refrigerante|Mantiene a lungo la temperatura delle bevande refrigerate durante la|2017/12/borsa-porta-bottiglie-refrigerante|data.oliviero.it/imgprodotto/borsa-porta-bottiglie-refrigerante-308846_155233",
+"Brezza Extend Stendibiancheria|Caratteristiche: Telaio in acciaio Fili grossi antipiega in acciaio|2017/12/brezza-extend-stendibiancheria|data.oliviero.it/imgprodotto/brezza-extend-stendibiancheria_156196",
 "3 Coppapasta Triangolo|Vuoi impiattare da vero professionista? Con i coppapasta|2017/12/3-coppapasta-triangolo|data.oliviero.it/imgprodotto/3-coppapasta-triangolo-422216_155185",
 "Portavivande Termico 2,5 lt|Con i nuovi elegantissimi contenitori termici puoi organizzare una|2017/12/portavivande-termico-2-5-lt|data.oliviero.it/imgprodotto/portavivande-termico-2-5-lt_93332",
 "Bilancia da cucina 2 in 1 bianca 90.114B|Bilancia da cucina 2 in 1 bianca Descrizione Ciotola in acciaio inox|2017/12/bilancia-da-cucina-2-in-1-bianca-90-114b|data.oliviero.it/imgprodotto/bilancia-da-cucina-2-in-1-bianca-90-114b_160600",

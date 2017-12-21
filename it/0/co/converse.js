@@ -1,4 +1,12 @@
 Gr = [
+"Scarpe All Star Hi Ecopelle Sughero|Utilizzo: Calzatura moda sport Unisex Tomaia: Tessuto Battistrada: in|2017/12/scarpe-all-star-hi-ecopelle-sughero|data.oliviero.it/imgprodotto/scarpe-all-star-hi-ecopelle-sughero_139916",
+"Scarpe All Star Hi Total Glitter e borchie|Utilizzo: Calzatura moda sport Unisex Tomaia: Tessuto Battistrada: in|2017/12/scarpe-all-star-hi-total-glitter-e-borchie|data.oliviero.it/imgprodotto/scarpe-all-star-hi-total-glitter-e-borchie_124580",
+"Scarpe Ct As OX|Di tanto in tanto, cambiare colore fa bene. La Chuck Taylor All Star|2017/12/scarpe-ct-as-ox|data.oliviero.it/imgprodotto/scarpe-ct-as-ox-155571_164364",
+"Scarpe Chuck Taylor|Utilizzo: Calzatura Moda sport Tomaia: Tela Battistrada: Gomma|2017/12/scarpe-chuck-taylor|data.oliviero.it/imgprodotto/scarpe-chuck-taylor-1u647_94652",
+"Scarpe Pro Leather Vulc Ox|Sneakers unisex Tomaia in pelle sulola in gomma con disegno|2017/12/scarpe-pro-leather-vulc-ox|data.oliviero.it/imgprodotto/scarpe-pro-leather-vulc-ox-156741_164225",
+"Scarpe Pro Leather Vulc|Sneakers unisex Tomaia in pelle sulola in gomma con disegno|2017/12/scarpe-pro-leather-vulc|data.oliviero.it/imgprodotto/scarpe-pro-leather-vulc-152724c_162651",
+"Scarpe Ct Taylor A-S Ox glitter e borchie|Converse originali personalizzate da glitter e borchie Questo modello|2017/12/scarpe-ct-taylor-a-s-ox-glitter-e-borchie|data.oliviero.it/imgprodotto/scarpe-ct-taylor-a-s-ox-glitter-e-borchie_124623",
+"Scarpe Ct Lux Mid|Sneakers da donna Tomaia in pelle con punta in vernice Tacco interno|2017/12/scarpe-ct-lux-mid|data.oliviero.it/imgprodotto/scarpe-ct-lux-mid-550668_130279",
 "Scarpe All Star Hi Pelle lucida|Utilizzo: Calzatura moda sport Unisex Tomaia: Tessuto Battistrada: in|2017/12/scarpe-all-star-hi-pelle-lucida|data.oliviero.it/imgprodotto/scarpe-all-star-hi-pelle-lucida_139899",
 "Scarpe Ct As Hi|Sneakers alte da donna Tomaia in tessuto Occhielli in metallo Suola|2017/12/scarpe-ct-as-hi|data.oliviero.it/imgprodotto/scarpe-ct-as-hi-156769_162696",
 "T-Shirt Uomo Navy|Collezione Primavera Estate T-Shirt uomo con girocollo e mezza|2017/12/t-shirt-uomo-navy|data.oliviero.it/imgprodotto/t-shirt-uomo-navy_165045",

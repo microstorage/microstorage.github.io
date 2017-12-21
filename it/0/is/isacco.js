@@ -1,4 +1,12 @@
 Gr = [
+"Casacca Alberville|Colore : Azzurro Composizione : tessuto 65% poliestere e 35% cotone|2017/12/casacca-alberville|data.oliviero.it/imgprodotto/casacca-alberville_73548",
+"Grembiule Bistrò|Colore : Nero Composizione : tessuto 100% poliestere Dimensioni :|2017/12/grembiule-bistro|data.oliviero.it/imgprodotto/grembiule-bistro_24701_big",
+"Grembiule Pettorina|Grembiule pettorina corto con tasca Caratteristiche: Colore: Bianco|2017/12/grembiule-pettorina|data.oliviero.it/imgprodotto/grembiule-pettorina-087097_159017",
+"Grembiule Orleans|Colore : Gessato Composizione : tessuto 100% poliestere Dimensioni|2017/12/grembiule-orleans|data.oliviero.it/imgprodotto/grembiule-orleans_24474_big",
+"Bandana cuoco San Francisco|Colore : San Francisco Composizione : tessuto 100% cotone Dimensioni|2017/12/bandana-cuoco-san-francisco|data.oliviero.it/imgprodotto/bandana-cuoco-san-francisco_24489_big",
+"Pantaloni Cuoco Nero|Modello con passanti in vita chiusura con due bottoni e zip. due|2017/12/pantaloni-cuoco-nero|data.oliviero.it/imgprodotto/pantaloni-cuoco-nero-064101_151131",
+"Polo Manica Corta|Polo unisex mezza manica con colletto e allacciatura ad altezza petto|2017/12/polo-manica-corta|data.oliviero.it/imgprodotto/polo-manica-corta_24286_big",
+"Pettorina Colours|Colore : Rosso Composizione : tessuto 65% poliestere e 35% cotone|2017/12/pettorina-colours|data.oliviero.it/imgprodotto/pettorina-colours_24659_big",
 "Grembiule Versailles|Colore : Nero Composizione : tessuto 100% poliestere Dimensioni|2017/12/grembiule-versailles|data.oliviero.it/imgprodotto/grembiule-versailles_24691_big",
 "Bolero Unisex Antracite|Bolero unisex, ideale per sale e ricevimento 100% poliestere Antracite|2017/12/bolero-unisex-antracite|data.oliviero.it/imgprodotto/bolero-unisex-antracite-035087_151460",
 "Pantaloni Cuoco Pantalaccio Bluette|35% cotone 65% poliestere Colore Bluette|2017/12/pantaloni-cuoco-pantalaccio-bluette|data.oliviero.it/imgprodotto/pantaloni-cuoco-pantalaccio-bluette-044606_151031",

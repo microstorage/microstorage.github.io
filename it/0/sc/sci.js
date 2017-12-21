@@ -1,4 +1,7 @@
 Gr = [
+"Sci Cloud Nine + Lithium 10|L'Atomic Cloud Nine è uno degli sci da pista più venduti per le|2017/12/sci-cloud-nine-+-lithium-10|data.oliviero.it/imgprodotto/sci-cloud-nine-lithium-10_156419",
+"Sci Cyclic 115 + Attack 13|Gli sci freeride Cyclic 115, con TNT Rocker, sono agili, versatili|2017/12/sci-cyclic-115-+-attack-13|data.oliviero.it/imgprodotto/sci-cyclic-115-attack-13_144138",
+"Sci Pursuit 300 Xpress + Xpress 10 B83|Power to the people! La chiave d'accesso alla padronanza di nuove|2017/12/sci-pursuit-300-xpress-+-xpress-10-b83|data.oliviero.it/imgprodotto/sci-pursuit-300-xpress-xpress-10-b83_171746",
 "Sci Vantage X77 C + Lithium 10|L'Atomic Vantage X 77 C è un nuovo sci all-mountain che nasce dal mix|2017/12/sci-vantage-x77-c-+-lithium-10|data.oliviero.it/imgprodotto/sci-vantage-x77-c-lithium-10_156522",
 "Sci Famous 2 W + Xpress W 10|Per le principianti, il nuovo modello femminile da pista di Rossignol|2017/12/sci-famous-2-w-+-xpress-w-10|data.oliviero.it/imgprodotto/sci-famous-2-w-xpress-w-10_171748",
 "Casco Sci Donna da Head|Cloe è il casco più leggero di Head, con shell in policarbonato|2017/11/casco-sci-donna-da-head|data.oliviero.it/imgprodotto/casco-sci-cloe-325613_92266",

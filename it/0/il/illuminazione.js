@@ -1,4 +1,7 @@
 Gr = [
+"Lampada a sospensione Minnie Mouse|Le ragazze adoreranno questa lampada a sospensione Philips and Disney|2017/12/lampada-a-sospensione-minnie-mouse|data.oliviero.it/imgprodotto/lampada-a-sospensione-minnie-mouse_107545",
+"Lampadario a Cupola Gigi e Lele|Ecco arrivare finalmente la colorata e simpatica linea Gigi e Lele|2017/12/lampadario-a-cupola-gigi-e-lele|data.oliviero.it/imgprodotto/lampadario-a-cupola-gigi-e-lele_5613_big",
+"MINERVA|DESCRIZIONE Un'applique che diffonde la luce sia verso l'alto che|2017/12/minerva|data.oliviero.it/imgprodotto/minerva-lampada-da-parete_161910",
 "Lampada Led da Parete o Soffitto Mickey Mouse|Questa lampada per bambini rotonda Philips and Disney Mickey Mouse si|2017/12/lampada-led-da-parete-o-soffitto-mickey-mouse|data.oliviero.it/imgprodotto/lampada-led-da-parete-o-soffitto-mickey-mouse_107547",
 "Abat Jour Gigi e Lele|Ecco arrivare finalmente la colorata e simpatica linea Gigi e Lele|2017/12/abat-jour-gigi-e-lele|data.oliviero.it/imgprodotto/abat-jour-gigi-e-lele_5603_big",
 "Lampadario 6 luci Jewel Silver Ring|Lampadario 6 luci \"JEWEL SILVER RING\" realizzato in metallo cromato|2017/10/lampadario-6-luci-jewel-silver-ring|data.oliviero.it/imgprodotto/lampadario-6-luci-jewel-silver-ring_137836",

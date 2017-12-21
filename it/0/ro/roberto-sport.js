@@ -1,4 +1,6 @@
 Gr = [
+"Calcio balilla Professional Training|Nuovo modello senza gettoniera che riprende i colori e le prestazioni|2017/12/calcio-balilla-professional-training|data.oliviero.it/imgprodotto/calcio-balilla-professional-training_136313",
+"Calcio balilla College Pro Cover|Calcio balilla senza gettoniera Mobile: Multistrato di pioppo|2017/12/calcio-balilla-college-pro-cover|data.oliviero.it/imgprodotto/calcio-balilla-college-pro-cover_136319",
 "Calcio balilla Top Speed Official Competition (ITSF)|Calcio balilla Top Speed Official Competition omologato ITSF MOBILE|2017/12/calcio-balilla-top-speed-official-competition-itsf|data.oliviero.it/imgprodotto/calcio-balilla-top-speed-official-competition-itsf-_147265",
 "Calcio balilla Roby Color Rosso|Calciobalilla senza gettoniera studiato per adattare la qualità dei|2017/12/calcio-balilla-roby-color-rosso|data.oliviero.it/imgprodotto/calcio-balilla-roby-color-rosso_72658",
 "Calcio balilla Family Rosso|Calcio balilla Family Caratteristiche tecniche: Mobile in legno|2017/12/calcio-balilla-family-rosso|data.oliviero.it/imgprodotto/calcio-balilla-family-rosso_72666",

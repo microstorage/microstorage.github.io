@@ -1,4 +1,13 @@
 Gr = [
+"Heart to Heart|Summer Infant Heart to Heart consente di ascoltare il battito fetale|2017/12/heart-to-heart|data.oliviero.it/imgprodotto/heart-to-heart_18375_big",
+"Termometro a Distanza Thermo Distance|Thermo Distance è adatto alla misurazione della temperatura|2017/12/termometro-a-distanza-thermo-distance|data.oliviero.it/imgprodotto/termometro-a-distanza-thermo-distance-00006931000000_153634",
+"Altalena Miou Fantasy|Per cullare il tuo bambino in tutta sicurezza fin dai primi giorni di|2017/12/altalena-miou-fantasy|data.oliviero.it/imgprodotto/altalena-miou-fantasy_8191_big",
+"Sdraietta Balloon Aster|Balloon è la sdraietta che accoglie in totale confort il tuo bambino|2017/12/sdraietta-balloon-aster|data.oliviero.it/imgprodotto/sdraietta-balloon-aster-08079282130000_155531",
+"Sdraietta Hooplà Sky|Realizzata con una seduta ampia e imbottita offrendo massimo comfort|2017/12/sdraietta-hoopla-sky|data.oliviero.it/imgprodotto/sdraietta-hoopl%C3%A0-sky-07079840950000_155648",
+"Sponda lettino Dolcenanna Pop|150 cm di lunghezza, rete serigrafata con simpatici disegni|2017/12/sponda-lettino-dolcenanna-pop|data.oliviero.it/imgprodotto/sponda-lettino-dolcenanna-pop-v493-t222_156059",
+"Audio e Video dect Digital|Il prodotto è un baby monitor con videocamera con schermo LCD da 2,4|2017/12/audio-e-video-dect-digital|data.oliviero.it/imgprodotto/audio-e-video-dect-digital_153635",
+"Copripresa 10A|In casa è indispensabile avere un impianto con salvavita. Nel corso|2017/12/copripresa-10a|data.oliviero.it/imgprodotto/copripresa-10a_17457_big",
+"Luce notturna piccolo|Delicata luce notturna per aiutare il bambino ad addormentarsi|2017/12/luce-notturna-piccolo|data.oliviero.it/imgprodotto/luce-notturna-piccolo_142997",
 "Kit Aerosol|Un kit completo con tutti gli accessori che ti permette di effettuare|2017/12/kit-aerosol|data.oliviero.it/imgprodotto/kit-aerosol_171621",
 "Aerosol a Pistone|L'Aerosol a Pistone di Chicco è indicato per la cura delle|2017/12/aerosol-a-pistone|data.oliviero.it/imgprodotto/aerosol-a-pistone-00003846000000_155660",
 "Sdraietta Hooplà Stone|Realizzata con una seduta ampia e imbottita offrendo massimo comfort|2017/12/sdraietta-hoopla-stone|data.oliviero.it/imgprodotto/sdraietta-hoopl%C3%A0-stone-00079840850000_155416",

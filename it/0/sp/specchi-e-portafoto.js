@@ -1,0 +1,3 @@
+Gr = [
+"Portafoto Random 6FA|Porta foto RANDOM 6FA realizzato in MDF laccaoto opaco Bianco e Nero|2017/12/portafoto-random-6fa|data.oliviero.it/imgprodotto/portafoto-random-6fa_133273",
+];

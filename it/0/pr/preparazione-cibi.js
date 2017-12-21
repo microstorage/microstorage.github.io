@@ -1,4 +1,12 @@
 Gr = [
+"Grattugia a fori piccoli e medi|Eleganti ed incredibilmente funzionali le nuove grattugie della linea|2017/12/grattugia-a-fori-piccoli-e-medi|data.oliviero.it/imgprodotto/grattugia-a-fori-piccoli-e-medi_74071",
+"Macchina per la pasta manuale|Macchina per la pasta manuale Corpo e rulli in acciaio Funzionamento|2017/12/macchina-per-la-pasta-manuale|data.oliviero.it/imgprodotto/macchina-per-la-pasta-manuale_160586",
+"Temperino Julienne|Per preparare in modo semplice e veloce golosi spaghetti di verdura|2017/12/temperino-julienne|data.oliviero.it/imgprodotto/temperino-julienne-422060_157889",
+"Sbucciatore Julienne con Lama Laterale|Ami le verdure alla julienne? Questo sbucciatore è leggerissimo|2017/12/sbucciatore-julienne-con-lama-laterale|data.oliviero.it/imgprodotto/sbucciatore-julienne-con-lama-laterale-421022_155129",
+"Bollitore Elettrico 1.7 litri acciaio 90.351N|90.351A Bollitore Elettrico 1.7 litri acciaio Corpo in acciaio|2017/12/bollitore-elettrico-1-7-litri-acciaio-90-351n|data.oliviero.it/imgprodotto/bollitore-elettrico-1-7-litri-acciaio-90-351n_165162",
+"Accessorio Reginette Atlas 150|Accessorio per macchina Atlas 150 per reginette. Progettato per|2017/12/accessorio-reginette-atlas-150|data.oliviero.it/imgprodotto/accessorio-reginette-atlas-150_156425",
+"Bollitore 1.7 L|Caratteristiche: Plastica / capacità di 1,7 litro coperchio di|2017/12/bollitore-1-7-l|data.oliviero.it/imgprodotto/bollitore-1-7-l_156186",
+"Grattugia e Affettaverdura|Grattugia e Affettaverdura Codice: 90.055 colore bianco e rosso|2017/12/grattugia-e-affettaverdura|data.oliviero.it/imgprodotto/grattugia-e-affettaverdura-90-055_89042",
 "Robot da cucina 500W|Robot da cucina 500W - AZZURRO - 90.470A Descrizione: Potenza: 500|2017/12/robot-da-cucina-500w|data.oliviero.it/imgprodotto/robot-da-cucina-500w-azzurro-90-470a_160690",
 "Bollitore BL20|Bollitore da 1,7 L per tisane e bevande calde. Molto pratico da usare|2017/12/bollitore-bl20|data.oliviero.it/imgprodotto/bollitore-bl20_156337",
 "Affetta Uovo|Se devi preparare sfiziose tartine o affettare le uova per guarnire|2017/12/affetta-uovo|data.oliviero.it/imgprodotto/affetta-uovo-420644_155103",

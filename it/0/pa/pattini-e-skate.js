@@ -1,4 +1,13 @@
 Gr = [
+"Skateboard Fishtail|Skateboard Fishtail, tavola concava da cm. 68,5 in legno di acero a|2017/12/skateboard-fishtail|data.oliviero.it/imgprodotto/skateboard-fishtail_87724",
+"Monopattino 205 MM VOOV 2.0 Verde e Nero|Porta il divertimento sempre con te! Il monopattino in alluminio|2017/12/monopattino-205-mm-voov-2-0-verde-e-nero|data.oliviero.it/imgprodotto/monopattino-205-mm-voov-2-0-verde-e-nero_165276",
+"Surfskate Ventura 29\"|Il Ventura 29″ riproduce fedelmente la sensazione di una tavola da|2017/12/surfskate-ventura-29|data.oliviero.it/imgprodotto/surfskate-ventura-29_165555",
+"Roller Twister 80|Caratteristiche tecniche: I pattini Rollerblade Twister 80 sono un|2017/12/roller-twister-80|data.oliviero.it/imgprodotto/roller-twister-80_80385",
+"Skateboard FREEDOM PRO USA FLAG|Descrizione: Dimensioni tavola : 57x15,2 cm Materiale tavola : ABS|2017/12/skateboard-freedom-pro-usa-flag|data.oliviero.it/imgprodotto/skateboard-freedom-pro-usa-flag_162375",
+"Pattini Rookie Hype Hi Top Trainer|I pattini Retro Hype Hi Top Trainer hanno un elegante tocco vintage|2017/12/pattini-rookie-hype-hi-top-trainer|data.oliviero.it/imgprodotto/pattini-rookie-hype-hi-top-trainer_157613",
+"Monopattino RAPTOR 120 RALLY nero arancio|Descrizione: Pieghevole : salvaspazio Tracolla removibile : inclusa|2017/12/monopattino-raptor-120-rally-nero-arancio|data.oliviero.it/imgprodotto/monopattino-raptor-120-rally-nero-arancio_162385",
+"Pattini Rookie Retro V2.1|Pattini dallo stile retro e dalla struttura moderna Tomaia in mesh|2017/12/pattini-rookie-retro-v2-1|data.oliviero.it/imgprodotto/pattini-rookie-retro-v2-1-rke-ska-0402_164281",
+"Pattini Bubblegum|Perché la vita è migliore in colori pastello. Abbiamo deciso di fare|2017/12/pattini-bubblegum|data.oliviero.it/imgprodotto/pattini-bubblegum_172891",
 "Hoverboard TRACK 6.5|Hoverboard TRACK 6.5 Ø Descrizione: Diametro ruota: 16,5 cm (6.5\")|2017/12/hoverboard-track-6-5|data.oliviero.it/imgprodotto/hoverboard-track-6-5_161077",
 "Roller Moody 4.0 Girl|Pattini in linea regolabili. Scarpa: Facilmente removibile|2017/12/roller-moody-4-0-girl|data.oliviero.it/imgprodotto/roller-moody-4-0-girl_171799",
 "Hoverboard VOYAGER 10.0|Hoverboard VOYAGER 10.0 Garlando Descrizione: Diametro ruota: 25,4 cm|2017/12/hoverboard-voyager-10-0|data.oliviero.it/imgprodotto/hoverboard-voyager-10-0_161079",

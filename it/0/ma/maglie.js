@@ -1,4 +1,11 @@
 Gr = [
+"Maglia donna P3S4LA 00429|Maglia da donna in tessuto lurex con possibilità di fare un fiocco|2017/12/maglia-donna-p3s4la-00429|data.oliviero.it/imgprodotto/maglia-donna-p3s4la-00429_146454",
+"Maglia donna P2S4FB 00437|Maglia da donna composta da maglia e canotta. La parte superiore è in|2017/12/maglia-donna-p2s4fb-00437|data.oliviero.it/imgprodotto/maglia-donna-p2s4fb-00437_146542",
+"Maglia Uomo Verde|Collezione Autunno Inverno/2018 Il nostro maglione da uomo con zip|2017/12/maglia-uomo-verde|data.oliviero.it/imgprodotto/maglia-uomo-verde_171045",
+"Giacca a Vento Running Response Easy Orange|Collezione Primavera Estate Pensata per il running, questa giacca da|2017/12/giacca-a-vento-running-response-easy-orange|data.oliviero.it/imgprodotto/giacca-a-vento-running-response-easy-orange-b47702_159855",
+"Maglia Donna Sorpresa|Collezione Autunno Inverno/2018 Maglia nera da donna con pizzo sul|2017/12/maglia-donna-sorpresa|data.oliviero.it/imgprodotto/maglia-donna-sorpresa_170677",
+"Polo Manica Corta|Polo unisex mezza manica con colletto e allacciatura ad altezza petto|2017/12/polo-manica-corta|data.oliviero.it/imgprodotto/polo-manica-corta_24286_big",
+"Maglione Donna Argentato|Collezione Autunno Inverno/2018 maglione lungo mezza manica|2017/12/maglione-donna-argentato|data.oliviero.it/imgprodotto/maglione-donna-argentato_170387",
 "Maglia Uomo Nero|Collezione Autunno Inverno/2018 Afferma il tuo senso dello stile|2017/12/maglia-uomo-nero|data.oliviero.it/imgprodotto/maglia-uomo-nero_171069",
 "Maglia da donna con ampio scollo|Maglia da donna con ampio scollo, maniche lunghe, collezione Liu Jo|2017/10/maglia-da-donna-con-ampio-scollo|data.oliviero.it/imgprodotto/maglia-donna-w15069-ma361-33801_146669",
 "Maglia calcio bambino Nazionale Italiana|La maglia per infiammare la passione di tutti i tifosi degli Azzurri|2017/06/maglia-calcio-bambino-nazionale-italiana|data.oliviero.it/imgprodotto/maglia-figc-kids-home-replica-748833_148488",

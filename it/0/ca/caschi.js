@@ -1,3 +1,16 @@
 Gr = [
+"Casco Sci Stromboli|Stromboli è un casco realizzato interamente con tecnologia in-mould|2017/12/casco-sci-stromboli|data.oliviero.it/imgprodotto/casco-sci-stromboli-sh0012-y010_138662",
+"Casco Sci Savor LF White|Il nuovo Atomic Savor LF è per gli sciatori che vogliono un casco|2017/12/casco-sci-savor-lf-white|data.oliviero.it/imgprodotto/casco-sci-savor-lf-white-an5005208_157650",
+"Casco Sci Agent Black|Questo è il modello scelto dai freestylers, grazie al guscio ABS|2017/12/casco-sci-agent-black|data.oliviero.it/imgprodotto/casco-sci-agent-black-324154_93907",
+"Casco Sci P1us 2.0|Proteggi bene la tua testa! Il casco da sci p1us 2.0 di Uvex ripara|2017/12/casco-sci-p1us-2-0|data.oliviero.it/imgprodotto/casco-sci-p1us-2-0_171357",
+"Casco ciclismo Mito|Ideale per MTB Caratteristiche 100% QUALITA' SELEV Calotta in EPS|2017/12/casco-ciclismo-mito|data.oliviero.it/imgprodotto/casco-ciclismo-mito_109922",
+"Casco Sci Vico|Il casco VICO assicura la massima protezione dal park alla pista|2017/12/casco-sci-vico|data.oliviero.it/imgprodotto/casco-sci-vico_171330",
+"Casco Sci Html 5 Pure|Comfort e resistenza con html 5!! Uno stile adatto per ogni gusto|2017/12/casco-sci-html-5-pure|data.oliviero.it/imgprodotto/casco-sci-html-5-pure-s5661474005_92187",
+"Casco Sci Fuji|Il meglio della tecnologia InMould per una leggerezza estrema che si|2017/12/casco-sci-fuji|data.oliviero.it/imgprodotto/casco-sci-fuji-sh0005_138660",
+"Casco Sci Mat Carbon|Calotta verniciata effetto carbonio. Fibbia a sgancio rapido|2017/12/casco-sci-mat-carbon|data.oliviero.it/imgprodotto/casco-sci-mat-carbon_171822",
+"Casco da moto M13 Mono White|Caratteristiche Calotta: resina termoplastica HIR-TH (High Resistant|2017/12/casco-da-moto-m13-mono-white|data.oliviero.it/imgprodotto/casco-da-moto-m13-mono-white-3232a4d0_149397",
+"Casco Sci Rewind Solid Nero|Calotta esterna in resina termoplastica ad alta resistenza agli|2017/12/casco-sci-rewind-solid-nero|data.oliviero.it/imgprodotto/casco-sci-rewind-solid-nero_171823",
+"Casco Sci Mat Visor|Visiera in policarbonato antigraffio, anti raggi UV. Placche visiera|2017/12/casco-sci-mat-visor|data.oliviero.it/imgprodotto/casco-sci-mat-visor_171819",
+"Casco Sci Revent +|Un casco all-mountain con protezione contro gli impatti più seri con|2017/12/casco-sci-revent-+|data.oliviero.it/imgprodotto/casco-sci-revent-_171797",
 "Casco ciclismo Vertigo|Casco da ciclismo Tecnlogia : Bag Sacca portacasco. Coolmax|2017/12/casco-ciclismo-vertigo|data.oliviero.it/imgprodotto/casco-ciclismo-vertigo_109931",
 ];

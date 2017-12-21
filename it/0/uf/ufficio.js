@@ -1,4 +1,7 @@
 Gr = [
+"Poltrona Start Similpelle Bianca|Poltrona per ufficio Operativa, con base e braccioli in nylon, seduta|2017/12/poltrona-start-similpelle-bianca|data.oliviero.it/imgprodotto/poltrona-start-similpelle-bianca_149141",
+"poltrona da ufficio SEM|Poltrona da ufficio SEM rivestita in pelle ecologica di colore Nero|2017/12/poltrona-da-ufficio-sem|data.oliviero.it/imgprodotto/poltrona-da-ufficio-sem_136192",
+"Scrivania Picture_Car|Scrivania con struttura in ferro verniciato di colore bianco, vetro|2017/12/scrivania-picture_car|data.oliviero.it/imgprodotto/scrivania-picture_car_108531",
 "Poltrona Sake Nera|Poltrona per ufficio Direzionale, con base in acciaio cromato|2017/12/poltrona-sake-nera|data.oliviero.it/imgprodotto/poltrona-sake-nera_108512",
 "Scrivania 41.42.62|MADE IN ITALY Elegante scrivania, ideale per essere collocata in una|2017/12/scrivania-41-42-62|data.oliviero.it/imgprodotto/scrivania-41-42-62_55421",
 "100 capsule Lollo Caffè Classico compatibili Lavazza Espresso Point|Confezione contenente 100 capsule di caffè in miscela lollo classico|2017/11/100-capsule-lollo-caffe-classico-compatibili-lavazza-espresso-point|www.cialdamia.it/media/catalog/product/cache/1/image/85e4522595efc69f496374d01ef2bf13/1/0/100-capsule-lollo-caffe-classico-compatibili-lavazza-espresso-point_1.png",

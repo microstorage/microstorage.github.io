@@ -1,4 +1,11 @@
 Gr = [
+"Paracapezzoli in Silicone|SPECIFICARE SE MISURA 1 O MISURA 2 Paracapezzoli MAM 2pz. Protezione|2017/12/paracapezzoli-in-silicone|data.oliviero.it/imgprodotto/paracapezzoli-in-silicone_9058_big",
+"Sterilizzatore Microonde|Sterilizzatore per forni a microonde compatto e leggero adatto sia in|2017/12/sterilizzatore-microonde|data.oliviero.it/imgprodotto/sterilizzatore-microonde_92959",
+"Biberon Caucciù 150 ml|biberon Linea Benessere in caucciu 150 ml 0% BPA Chicco sono dedicati|2017/12/biberon-caucciu-150-ml|data.oliviero.it/imgprodotto/biberon-caucci%C3%B9-150-ml_51996",
+"Portapappa Termico|l portavivande termico Step Up Family è l'ideale per trasportare la|2017/12/portapappa-termico|data.oliviero.it/imgprodotto/portapappa-termico_135997",
+"Biberon 160 ml rosa|Con il biberon First Bottle i bambini si sentono al sicuro fin dal|2017/12/biberon-160-ml-rosa|data.oliviero.it/imgprodotto/biberon-160-ml-rosa_53142",
+"Scaldabiberon Digitale|È sufficiente scegliere tra le opzioni sul display per ottenere in|2017/12/scaldabiberon-digitale|data.oliviero.it/imgprodotto/scaldabiberon-digitale_94144",
+"Catenella con Clip|Grazie all'innovativa e pratica clip con catenella, il succhietto|2017/12/catenella-con-clip|data.oliviero.it/imgprodotto/catenella-con-clip_51992",
 "Dosatore latte in polvere|Pratico dosatore per latte in polvere da passeggio. Diviso|2017/12/dosatore-latte-in-polvere|data.oliviero.it/imgprodotto/dosatore-latte-in-polvere_114885",
 "2 Tettarelle Silicone flusso pappa|Confezione composta da 2 tettarelle in silicone a flusso PAPPA|2017/12/2-tettarelle-silicone-flusso-pappa|data.oliviero.it/imgprodotto/2-tettarelle-silicone-flusso-pappa_9056_big",
 "Biberon Silicone 250 ml|La linea Chicco Benessere è dedicata alle mamme allegre e piene di|2017/12/biberon-silicone-250-ml|data.oliviero.it/imgprodotto/biberon-silicone-250-ml_138864",

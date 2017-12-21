@@ -1,4 +1,7 @@
 Gr = [
+"Scarpe Ciclismo Verve SRS (W)|Suola NRG Air Carbon Reinforced con indice di rigidità 8.0 e|2017/12/scarpe-ciclismo-verve-srs-w|data.oliviero.it/imgprodotto/scarpe-ciclismo-verve-srs-w-80171018_163196",
+"Scarpe Road V-Spirit|Scarpa Performance, leggera, dotata della nuova chiusura Micro Hora|2017/12/scarpe-road-v-spirit|data.oliviero.it/imgprodotto/scarpe-road-v-spirit_110025",
+"Casco ciclismo Mito|Ideale per MTB Caratteristiche 100% QUALITA' SELEV Calotta in EPS|2017/12/casco-ciclismo-mito|data.oliviero.it/imgprodotto/casco-ciclismo-mito_109922",
 "Casco ciclismo Vertigo|Casco da ciclismo Tecnlogia : Bag Sacca portacasco. Coolmax|2017/12/casco-ciclismo-vertigo|data.oliviero.it/imgprodotto/casco-ciclismo-vertigo_109931",
 "Gym bike SRX 45 Cyclette per dimagrire|Gym bike con con leva di sicurezza per il bloccaggio rapido del volano|2017/10/gym-bike-srx-45-cyclette-per-dimagrire|data.oliviero.it/imgprodotto/gym-bike-srx-45_90130",
 "Maglia Ciclismo Uomo Nero|Maglia Ciclismo con orlo della manica tagliato al Laser|2017/09/maglia-ciclismo-uomo-nero|data.oliviero.it/imgprodotto/maglia-ciclismo-uomo-nero_145430",

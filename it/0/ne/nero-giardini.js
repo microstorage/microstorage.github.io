@@ -1,4 +1,9 @@
 Gr = [
+"Jeans Uomo Denim|Collezione Autunno Inverno/2018 Jeans da uomo con allacciatura|2017/12/jeans-uomo-denim|data.oliviero.it/imgprodotto/jeans-uomo-denim_169370",
+"Scarpe Bambino Blu|Collezione Primavera Estate Scarpe casual da bambino. Il modello si|2017/12/scarpe-bambino-blu|data.oliviero.it/imgprodotto/scarpe-bambino-blu-p734150m-200_162035",
+"Borsa Porta Pc Nero|Collezione Primavera Estate Borsa porta pc in morbida pelle. Tasca|2017/12/borsa-porta-pc-nero|data.oliviero.it/imgprodotto/borsa-porta-pc-nero-p743435u-100_158966",
+"Pochette Manime Nero|Collezione Primavera Estate Pochette da donna in ecopelle con|2017/12/pochette-manime-nero|data.oliviero.it/imgprodotto/pochette-manime-nero-p743406d-100_159089",
+"Stivaletti Donna Nero|Collezione Autunno Inverno/2018 Stivaletti da donna Tomaia in pelle|2017/12/stivaletti-donna-nero|data.oliviero.it/imgprodotto/stivaletti-donna-nero_166652",
 "Mocassini Uomo Antracite|Collezione Autunno Inverno/2018 Mocassini da uomo Tomaia in pelle|2017/12/mocassini-uomo-antracite|data.oliviero.it/imgprodotto/mocassini-uomo-antracite_166630",
 "Sandalo Donna Laminato|Collezione Primavera Estate Sandalo da donna con zip posteriore|2017/12/sandalo-donna-laminato|data.oliviero.it/imgprodotto/sandalo-donna-laminato-p717372de-434_162137",
 "Scarpe Donna Nero|Collezione Autunno Inverno/2018 Scarpe da donna Tomaia in pelle|2017/12/scarpe-donna-nero|data.oliviero.it/imgprodotto/scarpe-donna-nero_168783",

@@ -1,4 +1,6 @@
 Gr = [
+"Binocolo impermeabile 10x42|Caratteristiche tecniche: Binocolo 10x42 Binocolo multi accessoriato|2017/12/binocolo-impermeabile-10x42|data.oliviero.it/imgprodotto/binocolo-impermeabile-10x42_83818",
+"Binocolo con prismi di porro 8-24x50|Caratteristiche tecniche: Questo binocolo è dotato di un'interessante|2017/12/binocolo-con-prismi-di-porro-8-24x50|data.oliviero.it/imgprodotto/binocolo-con-prismi-di-porro-8-24x50_83805",
 "Set esplorazione terra e acqua|Caratteristiche tecniche: Set per esplorare e scoprire il mondo della|2017/12/set-esplorazione-terra-e-acqua|data.oliviero.it/imgprodotto/set-esplorazione-terra-e-acqua_83922",
 "Binocolo con prismi di Porro 7x50|Elegante binocolo con maggior percezione della profondità e campo visivo|2017/08/binocolo-con-prismi-di-porro-7x50|data.oliviero.it/imgprodotto/binocolo-con-prismi-di-porro-7x50_83801",
 "Telescopi: i 6 migliori in commercio a febbraio 2017|I 6 Telescopi più gettonati: la classifica di febbraio 2017|2017/02/telescopi-i-6-migliori-in-commercio-a-febbraio-2017|data.oliviero.it/imgprodotto/telescopio-az-riflettore-114-900_83787",

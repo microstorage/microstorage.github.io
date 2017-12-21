@@ -1,4 +1,8 @@
 Gr = [
+"Lenzuola Piane Pantone Fiesta|Lenzuolo da sopra in puro cotone tinta unita, coordinabile con tutti|2017/12/lenzuola-piane-pantone-fiesta|data.oliviero.it/imgprodotto/lenzuola-piane-pantone-fiesta_115326",
+"Plaid Riscaldabile 140x180 cm|Più caldo, più morbido. Il plaid elettrico intelligente, versione|2017/12/plaid-riscaldabile-140x180-cm|data.oliviero.it/imgprodotto/plaid-riscaldabile-140x180-cm-6877m_154092",
+"Trapunta Porthole|La simpatica Masha e il suo amico Orso, conquisteranno i vostri bimbi|2017/12/trapunta-porthole|data.oliviero.it/imgprodotto/trapunta-porthole_137031",
+"Completo Lenzuola Pesco Flan. Cielo|Tessuto in flanella di puro cotone. Singolo Lenzuolo superiore|2017/12/completo-lenzuola-pesco-flan-cielo|data.oliviero.it/imgprodotto/completo-lenzuola-pesco-flan-cielo_169026",
 "Completo Lenzuola Pesco Flan. Giallo|Tessuto in flanella di puro cotone. Singolo Lenzuolo superiore|2017/12/completo-lenzuola-pesco-flan-giallo|data.oliviero.it/imgprodotto/completo-lenzuola-pesco-flan-giallo_169061",
 "Trapunta Spiderman Lights|Tessuto in microfibra di poliestere stampato. SINGOLO 170X270 cm|2017/12/trapunta-spiderman-lights|data.oliviero.it/imgprodotto/trapunta-spiderman-lights_166716",
 "Completo Lenzuola Flanella Avorio|Completo Lenzuola Flanella Avorio Singolo Lenzuolo superiore 160x280|2017/12/completo-lenzuola-flanella-avorio|data.oliviero.it/imgprodotto/completo-lenzuola-flanella-avorio_169041",

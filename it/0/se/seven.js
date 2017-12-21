@@ -1,4 +1,7 @@
 Gr = [
+"Trolley New Jack Bitmap|Non conosci ancora Jack??? JACK è il trolley brevettato Seven che|2017/12/trolley-new-jack-bitmap|data.oliviero.it/imgprodotto/trolley-new-jack-bitmap_166146",
+"Trolley Maxi Round Bitmap|Per chi ancora non lo conoscesse, questo è Maxi Trolley Round: un|2017/12/trolley-maxi-round-bitmap|data.oliviero.it/imgprodotto/trolley-maxi-round-bitmap_166148",
+"Zaino Sdoppiabile Swag Boy|Per te, che sei sempre alla ricerca di qualcosa di veramente nuovo,|2017/12/zaino-sdoppiabile-swag-boy|data.oliviero.it/imgprodotto/zaino-sdoppiabile-swag-boy_166122",
 "Astuccio 3 Zip Sunflower|L'ASTUCCIO 3 ZIP Seven School è l'accessorio che non può mancare nel|2017/12/astuccio-3-zip-sunflower|data.oliviero.it/imgprodotto/astuccio-3-zip-sunflower_166289",
 "Zaino Advanced Bitmap|Lo zaino pensato per chi ha esigenze di carico ma non vuole|2017/12/zaino-advanced-bitmap|data.oliviero.it/imgprodotto/zaino-advanced-bitmap_166298",
 "Trolley Maxi Round Widget|Per chi ancora non lo conoscesse, questo è Maxi Trolley Round: un|2017/12/trolley-maxi-round-widget|data.oliviero.it/imgprodotto/trolley-maxi-round-widget_166138",

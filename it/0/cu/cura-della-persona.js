@@ -1,4 +1,8 @@
 Gr = [
+"Massaggiatore Lipomodellante Anticellulite|Massaggiatore Lipomodellante Anticellulite Codice: 40.946 Descrizione|2017/12/massaggiatore-lipomodellante-anticellulite|data.oliviero.it/imgprodotto/massaggiatore-lipomodellante-anticellulite-40-946_89805",
+"Hair Kit da viaggio Phon e piastra|Hair Kit da viaggio Phon e piastra Codice: 40.956 Descrizione|2017/12/hair-kit-da-viaggio-phon-e-piastra|data.oliviero.it/imgprodotto/hair-kit-da-viaggio-phon-e-piastra-40-956_89823",
+"Lampada LED per Gel unghie|Lampada LED per gel unghie 40.995 Caratteristiche: Timer 10/30/60 sec|2017/12/lampada-led-per-gel-unghie|data.oliviero.it/imgprodotto/lampada-led-per-gel-unghie-40-995_91935",
+"Bilancia Pesapersone Hello Kitty HK-B90042|Bilancia Pesapersone Hello Kitty Codice: HK-B90042 Descrizione|2017/12/bilancia-pesapersone-hello-kitty-hk-b90042|data.oliviero.it/imgprodotto/bilancia-pesapersone-hello-kitty-hk-b90042_89521",
 "Panca Palestra WB50|Regolazione altezza supporti su 7 posizioni|2017/11/panca-palestra-wb50|data.oliviero.it/imgprodotto/panca-wb50_171163",
 "Vogatore richiudibile domestico|Vogatore richiudibile pensato per l'utilizzo domestico|2017/10/vogatore-richiudibile-domestico|data.oliviero.it/imgprodotto/vogatore-jk-5070_371_big",
 "Gym bike SRX 45 Cyclette per dimagrire|Gym bike con con leva di sicurezza per il bloccaggio rapido del volano|2017/10/gym-bike-srx-45-cyclette-per-dimagrire|data.oliviero.it/imgprodotto/gym-bike-srx-45_90130",

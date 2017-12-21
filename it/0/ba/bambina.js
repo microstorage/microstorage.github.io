@@ -1,4 +1,9 @@
 Gr = [
+"Zaino Ollie Face Fantasy|Lo carichi, lo riempi all'inverosimile, lo butti a terra, prende sole|2017/12/zaino-ollie-face-fantasy|data.oliviero.it/imgprodotto/zaino-ollie-face-fantasy_167444",
+"Zaino Flip Pack Fantasy|Uno zaino con ben 38 llitri di capacità: questo fa di Flip Pack lo|2017/12/zaino-flip-pack-fantasy|data.oliviero.it/imgprodotto/zaino-flip-pack-fantasy_167463",
+"T-Shirt Jr. Nero|Collezione Autunno Inverno/2018 Uno dei design più amati sfoggia un|2017/12/t-shirt-jr-nero|data.oliviero.it/imgprodotto/t-shirt-jr-nero_167576",
+"Grembiule Asilo Bambina Quadretti|Collezione Autunno Inverno/2018 Grembiule asilo da bambina. Il|2017/12/grembiule-asilo-bambina-quadretti|data.oliviero.it/imgprodotto/grembiule-asilo-bambina-quadretti-fg301_166466",
+"T-Shirt Bambina Fluo|Collezione Primavera Estate In morbido jersey Maniche corte|2017/12/t-shirt-bambina-fluo|data.oliviero.it/imgprodotto/t-shirt-bambina-fluo-171mifn019_163711",
 "Grembiule Asilo Bambina Rosa|Grembiule Asilo da bambina con allacciatura tramite bottoncini, due|2017/12/grembiule-asilo-bambina-rosa|data.oliviero.it/imgprodotto/grembiule-asilo-bambina-rosa-33gr2824_166069",
 "Astuccio 3 Zip Sunflower|L'ASTUCCIO 3 ZIP Seven School è l'accessorio che non può mancare nel|2017/12/astuccio-3-zip-sunflower|data.oliviero.it/imgprodotto/astuccio-3-zip-sunflower_166289",
 "Leggings Lungo Ragazza Panna|Collezione Primavera Estate Leggings da ragazza con elastico in vita|2017/12/leggings-lungo-ragazza-panna|data.oliviero.it/imgprodotto/leggings-lungo-ragazza-panna-0s404_159245",

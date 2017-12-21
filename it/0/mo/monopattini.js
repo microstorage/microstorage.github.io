@@ -1,4 +1,10 @@
 Gr = [
+"Monopattino 205 MM VOOV 2.0 Verde e Nero|Porta il divertimento sempre con te! Il monopattino in alluminio|2017/12/monopattino-205-mm-voov-2-0-verde-e-nero|data.oliviero.it/imgprodotto/monopattino-205-mm-voov-2-0-verde-e-nero_165276",
+"Longboard Sunshine Palm|Dimensione: 34\" x 9\" Carrello Alluminio Ruote 62 mm x 51mm Il|2017/12/longboard-sunshine-palm|data.oliviero.it/imgprodotto/longboard-sunshine-palm_151101",
+"Hoverboard SKYLON 6.5|\"Hoverboard SKYLON 6.5 con Descrizione : Diametro ruota: 16,5 cm|2017/12/hoverboard-skylon-6-5|data.oliviero.it/imgprodotto/hoverboard-skylon-6-5_161078",
+"Skateboard TRIBE PRO USA FLAG|Descrizione: Dimensioni tavola : 79x20 cm Materiale tavola|2017/12/skateboard-tribe-pro-usa-flag|data.oliviero.it/imgprodotto/skateboard-tribe-pro-usa-flag_162368",
+"Monopattino RAPTOR 120 RALLY nero arancio|Descrizione: Pieghevole : salvaspazio Tracolla removibile : inclusa|2017/12/monopattino-raptor-120-rally-nero-arancio|data.oliviero.it/imgprodotto/monopattino-raptor-120-rally-nero-arancio_162385",
+"Skateboard Torpedo 22,5in|Skateboard Torpedo 22,5in 28 \"x 7.5\" polipropilene stampato ad alto|2017/12/skateboard-torpedo-22-5in|data.oliviero.it/imgprodotto/skateboard-torpedo-22-5in_80083",
 "Scarpe con ruote Propel 2.0|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/12/scarpe-con-ruote-propel-2-0|data.oliviero.it/imgprodotto/scarpe-con-ruote-propel-2-0-770603h_146320",
 "Monopattino a tre ruote ADVENTURE KID PRINCESS fucsia|Descrizione: Pieghevole : con sistema di chiusura rapido e sicuro|2017/12/monopattino-a-tre-ruote-adventure-kid-princess-fucsia|data.oliviero.it/imgprodotto/monopattino-a-tre-ruote-adventure-kid-princess-fucsia_162383",
 "Longboard Carve Tombrider 37|Longboard Carve Tombrider 37 Caratteristiche Materiale (6 Ply|2017/12/longboard-carve-tombrider-37|data.oliviero.it/imgprodotto/longboard-carve-tombrider-37_125543",

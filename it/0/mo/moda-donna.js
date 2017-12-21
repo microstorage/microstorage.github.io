@@ -1,4 +1,5 @@
 Gr = [
+"Cardigan Bambino Navy|Collezione Primavera Estate Ideale sia per un abbigliamento casual|2017/12/cardigan-bambino-navy|data.oliviero.it/imgprodotto/cardigan-bambino-navy-0s101_159328",
 "Pantaloni Sportivi Donna Nero|Pantaloni sportivi da donna, elastico in vita, polsini alle caviglie|2017/11/pantaloni-sportivi-donna-nero|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-nero_169469",
 "Pantaloni Sportivi Donna Nero|Questi pantaloni in spugna sfoggiano un look essenziale e moderno|2017/10/pantaloni-sportivi-donna-nero|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-nero_168115",
 "Scarpe Bambino Allacciatura con strap|Scarpe da bambino con Tomaia in tessuto e Allacciatura con strap|2017/08/scarpe-bambino-allacciatura-con-strap|data.oliviero.it/imgprodotto/scarpe-bambino-blu-p734200m-200_159033",

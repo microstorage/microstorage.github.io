@@ -1,4 +1,11 @@
 Gr = [
+"Tavolo Ping Pong Outdoor 4|KETTLER OUTDOOR 4 Articolo No.: 07172-700 Modello per uso ricreativo|2017/12/tavolo-ping-pong-outdoor-4|data.oliviero.it/imgprodotto/tavolo-ping-pong-outdoor-4_110124",
+"Tavolo Ping Pong Advance da esterno Blu|Modello per esterno, pieghevole, con piano gioco blu, indicato per|2017/12/tavolo-ping-pong-advance-da-esterno-blu|data.oliviero.it/imgprodotto/tavolo-ping-pong-advance-da-esterno-blu_50756_big",
+"Tavolo Ping Pong Training Indoor Verde|Modello per interno, pieghevole, con piano gioco verde o blu,|2017/12/tavolo-ping-pong-training-indoor-verde|data.oliviero.it/imgprodotto/tavolo-ping-pong-training-indoor-verde_83033",
+"Set rete + tendirete Master per tavoli da ping pong|Set rete + tendirete per tavoli da ping pong Rete in nylon blu con|2017/12/set-rete-+-tendirete-master-per-tavoli-da-ping-pong|data.oliviero.it/imgprodotto/set-rete-tendirete-master-per-tavoli-da-ping-pong_156212",
+"Tavolo Ping Pong Basic Indoor|Fornito dell'essenziale, ha misure regolamentari da torneo e un piano|2017/12/tavolo-ping-pong-basic-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-basic-indoor_83022",
+"Racchetta Cosmo WRB 3 Stelle|Racchetta Ping Pong Grazie all'uso della tecnologia WRB, Cosmo ha una|2017/12/racchetta-cosmo-wrb-3-stelle|data.oliviero.it/imgprodotto/racchetta-cosmo-wrb-3-stelle_8332_big",
+"Tavolo Ping Pong Sketch Pong Outdoor|Il nuovissimo tavolo da ping pong Kettler SketchPong ha un look|2017/12/tavolo-ping-pong-sketch-pong-outdoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-sketch-pong-outdoor_147321",
 "Tavolo Ping Pong Smash 7 da esterno|SMASH OUTDOOR 7 Piano gioco 'ALU-TEC', un rivestimento multistrato|2017/12/tavolo-ping-pong-smash-7-da-esterno|data.oliviero.it/imgprodotto/tavolo-ping-pong-smash-7-da-esterno_59087",
 "Tavolo Ping Pong Tecto da esterno|Caratteristiche tecniche: La linea dei tavoli ping pong Tectonic by|2017/12/tavolo-ping-pong-tecto-da-esterno|data.oliviero.it/imgprodotto/tavolo-ping-pong-tecto-da-esterno_58606",
 "Set Solara|Set Solara composto da 2 racchette e 3 palline + tendirete e rete Set|2017/12/set-solara|data.oliviero.it/imgprodotto/set-solara_8353_big",

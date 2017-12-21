@@ -1,4 +1,7 @@
 Gr = [
+"Scarpe Bambino Blu|Collezione Primavera Estate Scarpe casual da bambino. Il modello si|2017/12/scarpe-bambino-blu|data.oliviero.it/imgprodotto/scarpe-bambino-blu-p734150m-200_162035",
+"Scarponcini Jr. Marrone|Collezione Autunno Inverno/2018 Gli scarponcini Timberland Authentics|2017/12/scarponcini-jr-marrone|data.oliviero.it/imgprodotto/scarponcini-jr-marrone_171121",
+"Scarponcino Donna Giallo|Collezione Autunno Inverno/2018 L'iconico scarponcino Timberland®|2017/12/scarponcino-donna-giallo|data.oliviero.it/imgprodotto/scarponcino-donna-giallo_171126",
 "Scarpe con Ruote Helix|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/12/scarpe-con-ruote-helix|data.oliviero.it/imgprodotto/scarpe-con-ruote-helix-7764_132725",
 "Scarpe Jr. Gazelle|Queste scarpe per bambini sono una perfetta riproduzione delle|2017/12/scarpe-jr-gazelle|data.oliviero.it/imgprodotto/scarpe-jr-gazelle_165571",
 "Scarpe con Ruote Thunder X2|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/11/scarpe-con-ruote-thunder-x2|data.oliviero.it/imgprodotto/scarpe-con-ruote-thunder-x2-770480k_131811",

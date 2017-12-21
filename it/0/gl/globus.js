@@ -1,4 +1,5 @@
 Gr = [
+"Elettrostimolatore Genesy 300 Pro|Globus, nota ed affidabile azienda nel campo della salute e del|2017/12/elettrostimolatore-genesy-300-pro|data.oliviero.it/imgprodotto/elettrostimolatore-genesy-300-pro_71074",
 "RF Clinic Pro Radiofrequenza|Globus, azienda italiana che da anni opera nel settore dell'estetica|2017/12/rf-clinic-pro-radiofrequenza|data.oliviero.it/imgprodotto/rf-clinic-pro-radiofrequenza_71099",
 "Medisound 922 Ultrasuono Terapia|Globus Medisound 922 è un dispositivo ad ultrasuoni multifunzionale|2017/12/medisound-922-ultrasuono-terapia|data.oliviero.it/imgprodotto/medisound-922-ultrasuono-terapia_71110",
 "Elettrostimolatore Activa 700|Globus è un'azienda italiana leader nel settore|2017/12/elettrostimolatore-activa-700|data.oliviero.it/imgprodotto/elettrostimolatore-activa-700_73144",

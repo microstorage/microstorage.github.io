@@ -1,4 +1,5 @@
 Gr = [
+"Basket a colonna Junior|BASKETBALL JUNIOR trasportabile. Caratteristiche tecniche: Base in|2017/12/basket-a-colonna-junior|data.oliviero.it/imgprodotto/basket-a-colonna-junior_162173",
 "Canestro Basket Regolamentare 46 cm|Canestro basket adatto per tabellone regolamentare. Caratteristiche|2017/12/canestro-basket-regolamentare-46-cm|data.oliviero.it/imgprodotto/canestro-basket-regolamentare-46-cm-70-320-0021_157440",
 "Canestro Seattle|Seattle è un tabellone da basket di qualità professionale e di misure|2017/12/canestro-seattle|data.oliviero.it/imgprodotto/canestro-seattle_1747_big",
 "Canestro San Jose|un tabellone da basket di elevata qualità e design attraente, con|2017/12/canestro-san-jose|data.oliviero.it/imgprodotto/canestro-san-jose_1758_big",

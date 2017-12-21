@@ -1,4 +1,12 @@
 Gr = [
+"Pantaloni Sportivi Donna Blu|Collezione Autunno Inverno/2018 cinturino con elastico e nastrino in|2017/12/pantaloni-sportivi-donna-blu|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-blu_170402",
+"Tight 3/4 Donna Nero|Tight da donna dal tessuto confortevole, ed elasticizzati per una|2017/12/tight-3-4-donna-nero|data.oliviero.it/imgprodotto/tight-3-4-donna-nero_168269",
+"Leggings Donna Armony Navy|I leggings Nike Sportswear Essential - Donna sono realizzati in|2017/12/leggings-donna-armony-navy|data.oliviero.it/imgprodotto/leggings-donna-armony-navy_169498",
+"Leggings Blu Obsidian Donna|I leggings Nike Sportswear Leg-A-See Just Do It - Donna sono|2017/12/leggings-blu-obsidian-donna|data.oliviero.it/imgprodotto/leggings-blu-obsidian-donna-726085-453_167803",
+"Pantaloni Sportivi Donna Gessato|Collezione Autunno Inverno/2018 pantalone classico con cinturino|2017/12/pantaloni-sportivi-donna-gessato|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-gessato_170409",
+"Pantaloni Sportivi Uomo Oliva|Collezione Autunno Inverno/2018 In morbida felpa Coulisse in vita|2017/12/pantaloni-sportivi-uomo-oliva|data.oliviero.it/imgprodotto/pantaloni-sportivi-uomo-oliva_167687",
+"Pantaloni Sportivi Uomo Nero|Collezione Autunno Inverno/2018 I jogger Nike Sportswear - Uomo sono|2017/12/pantaloni-sportivi-uomo-nero|data.oliviero.it/imgprodotto/pantaloni-sportivi-uomo-nero_167683",
+"Pantaloni Sportivi Donna Oliva|Collezione Autunno Inverno/2018 cinturino con elastico interno|2017/12/pantaloni-sportivi-donna-oliva|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-oliva_170331",
 "Pantaloni Sportivi Donna Nero|I pantaloni lunghi adidas ZNE Slim da donna è un capo molto|2017/12/pantaloni-sportivi-donna-nero|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-nero_168060",
 "Pantaloni Sportivi Uomo Blu|Collezione Autunno Inverno/2018 I pantaloni da jogging Nike|2017/12/pantaloni-sportivi-uomo-blu|data.oliviero.it/imgprodotto/pantaloni-sportivi-uomo-blu_169482",
 "Pantaloni Sportivi Essentials Performance Logo|Mostra la tua passione per adidas indossando questi pantaloni|2017/12/pantaloni-sportivi-essentials-performance-logo|data.oliviero.it/imgprodotto/pantaloni-sportivi-essentials-performance-logo-bk7410_159280",

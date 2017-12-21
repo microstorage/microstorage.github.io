@@ -1,4 +1,11 @@
 Gr = [
+"Guanti Boxe in Pelle da competizione 12oz|Guanti da Boxe da competizione Caratteristiche: Strato esterno in|2017/12/guanti-boxe-in-pelle-da-competizione-12oz|data.oliviero.it/imgprodotto/guanti-boxe-in-pelle-da-competizione-12oz-s2ag-0213_92990",
+"Guanto da Boxe 6 oz|Quando la cura dei dettagli si fonde con lo studio e la ricerca dei|2017/12/guanto-da-boxe-6-oz|data.oliviero.it/imgprodotto/guanto-da-boxe-6-oz-gn056-record_154071",
+"Guanto da Boxe Active GN061 14 Oz|Guantoni in materiale anti-strappo, garantiscono la resistenza tipica|2017/12/guanto-da-boxe-active-gn061-14-oz|data.oliviero.it/imgprodotto/guanto-da-boxe-active-gn061-14-oz_93126",
+"Guantoni BLACKSTORM Skull Bianco 10 oz|Caratteristiche Prodotto: -Prestazione 3/5 -Qualità 4/5 -Sistema di|2017/12/guantoni-blackstorm-skull-bianco-10-oz|data.oliviero.it/imgprodotto/guantoni-blackstorm-skull-bianco-10-oz_159706",
+"Guanti semicontact PRO FIGHT II|Caratteristiche: SYBTEX TECH G3 materiale composito finitura pelle|2017/12/guanti-semicontact-pro-fight-ii|data.oliviero.it/imgprodotto/guanti-semicontact-pro-fight-ii_159689",
+"Guanti Boxe Explosion|Incredibile design per il guanto Explosion consigliato per tutte le|2017/12/guanti-boxe-explosion|data.oliviero.it/imgprodotto/guanti-boxe-explosion_171403",
+"Guanti da Boxe Armalite 14oz|Guanti da Boxe Caratteristiche: Pelle esterna SLV3 per durata|2017/12/guanti-da-boxe-armalite-14oz|data.oliviero.it/imgprodotto/guanti-da-boxe-armalite-14oz-sabg-0114_92976",
 "Guanti Fit Boxe e KICK-FIT|Caratteristiche: SYNTEX TECH G3 e neoprene alta durata e resistenza|2017/12/guanti-fit-boxe-e-kick-fit|data.oliviero.it/imgprodotto/guanti-fit-boxe-e-kick-fit_159685",
 "Guantoni Boxe 10oz. GN083|Guantoni 10oz. Chiusura: Velcro Disciplina: Boxe, kick boxing, muay|2017/12/guantoni-boxe-10oz-gn083|data.oliviero.it/imgprodotto/guantoni-boxe-10oz-gn083_154999",
 "Guanti da allenamento Atomic S10W|Guanti da allenamento Caratteristiche: Grip progettato per aumentare|2017/12/guanti-da-allenamento-atomic-s10w|data.oliviero.it/imgprodotto/guanti-da-allenamento-atomic-s10w_93004",
