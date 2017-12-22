@@ -1,4 +1,7 @@
 Gr = [
+"Cameretta Ettore|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/12/cameretta-ettore|data.oliviero.it/imgprodotto/cameretta-ettore-gt4067_160286",
+"Pacchetto Meggie Bianco|Il pacchetto Meggie Pali è composto da: Lettino Fasciatoio Materasso|2017/12/pacchetto-meggie-bianco|data.oliviero.it/imgprodotto/pacchetto-meggie-bianco_166185",
+"Cameretta Veronica|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/12/cameretta-veronica|data.oliviero.it/imgprodotto/cameretta-veronica-gt4044_160210",
 "Cameretta Sergio|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/12/cameretta-sergio|data.oliviero.it/imgprodotto/cameretta-sergio-gt4054_160220",
 "Cameretta Arturo|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/12/cameretta-arturo|data.oliviero.it/imgprodotto/cameretta-arturo-gt4041_160201",
 "Cameretta Angelo|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/12/cameretta-angelo|data.oliviero.it/imgprodotto/cameretta-angelo-gt4021_160158",

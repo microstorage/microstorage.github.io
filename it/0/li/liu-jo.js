@@ -1,4 +1,6 @@
 Gr = [
+"Maglia donna O14010 J7123 03G64|Collezione Liu Jo Jeans Maglia da donna con ampio scollo, maniche|2017/12/maglia-donna-o14010-j7123-03g64|data.oliviero.it/imgprodotto/maglia-donna-o14010-j7123-03g64_146704",
+"Maglia donna C15085 MA32A|Maglia da donna in tessuto argentato con allaciatura tramite bottoni|2017/12/maglia-donna-c15085-ma32a|data.oliviero.it/imgprodotto/maglia-donna-c15085-ma32a_146496",
 "Pantaloni donna Casual F15267 T8111 11110|Collezione Liu Jo Jeans Pantalone casual da donna con allacciatura|2017/12/pantaloni-donna-casual-f15267-t8111-11110|data.oliviero.it/imgprodotto/pantaloni-donna-casual-f15267-t8111-11110_146832",
 "Pantalone Sportivo T15031 F0245 22222|Collezione Liu Jo Sport Pantaloni Sportivi pinocchietto con elastico|2017/12/pantalone-sportivo-t15031-f0245-22222|data.oliviero.it/imgprodotto/pantalone-sportivo-t15031-f0245-22222_146822",
 "Giacche donna W15051 T7882|Collezione Liu Jo Jeans Giacca da donna senza allacciatura con|2017/12/giacche-donna-w15051-t7882|data.oliviero.it/imgprodotto/giacche-donna-w15051-t7882_146392",

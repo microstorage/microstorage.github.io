@@ -1,4 +1,6 @@
 Gr = [
+"Gazebo Party 4,5x3 Giallo|Gazebo multiuso con apertura automatica. Struttura in FERRO|2017/12/gazebo-party-4-5x3-giallo|data.oliviero.it/imgprodotto/gazebo-party-4-5x3-giallo_150073",
+"Kit laterali 3x3 Serie Piramide|Comodo kit di laterali studiato per i gazebo della serie Piramide 3x3|2017/12/kit-laterali-3x3-serie-piramide|data.oliviero.it/imgprodotto/kit-laterali-3x3-serie-piramide_168630",
 "Gazebo Creta 3x4 Ecru|Gazebo Ferro 3x4 Metri Struttura in ferro verniciato a polvere|2017/12/gazebo-creta-3x4-ecru|data.oliviero.it/imgprodotto/gazebo-creta-3x4-ecru_153521",
 "Gazebo Market 2X3 Plus|Caratteristiche: Telo: polyestere 500D 290 gr./m2, rivestito|2017/12/gazebo-market-2x3-plus|data.oliviero.it/imgprodotto/gazebo-market-2x3-plus_147493",
 "Pareti Laterali 3m e zanzariera x Market|TELO LATERALE 3X2,10 CON ZANZARIERA PER GAZEBO MARKET Telo|2017/12/pareti-laterali-3m-e-zanzariera-x-market|data.oliviero.it/imgprodotto/pareti-laterali-3m-e-zanzariera-x-market_87423",

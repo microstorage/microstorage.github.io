@@ -1,4 +1,12 @@
 Gr = [
+"Core Trainer CT40|Caratteristiche tecniche PANCA ADDOMINALE NO APPOGGI PER GAMBE SI|2017/12/core-trainer-ct40|data.oliviero.it/imgprodotto/core-trainer-ct40_171221",
+"Vogatore 2 pistoni|Simula perfettamente il movimento del canottaggio. Grazie alla sua|2017/12/vogatore-2-pistoni|data.oliviero.it/imgprodotto/vogatore-2-pistoni_168530",
+"Vogatore R-320|I vogatori della migliore qualità costruttiva tendono ad essere molto|2017/12/vogatore-r-320|data.oliviero.it/imgprodotto/vogatore-r-320_154204",
+"Arm Curl Pro Appoggio Scott|Il cuscino per Arm Curl ti permette di compiere esercizi specifici|2017/12/arm-curl-pro-appoggio-scott|data.oliviero.it/imgprodotto/arm-curl-pro-appoggio-scott_168525",
+"Panca Multifunzione Force ST 1300|Caratteristiche: Pacco pesi: 68 kg (10 piastre da 15 libbre cad.)|2017/12/panca-multifunzione-force-st-1300|data.oliviero.it/imgprodotto/panca-multifunzione-force-st-1300_168722",
+"Vogatore JK 5075 + Ricev. Cardio Polar|Specifiche tecniche: REGOLAZIONE FRENO magnetico - 8 livelli DISPLAY|2017/12/vogatore-jk-5075-+-ricev-cardio-polar|data.oliviero.it/imgprodotto/vogatore-jk-5075-ricev-cardio-polar_72437",
+"Scarpe Training Air Max Typha|La scarpa da training Nike Air Max Typha - Uomo integra un'unità Max|2017/12/scarpe-training-air-max-typha|data.oliviero.it/imgprodotto/scarpe-training-air-max-typha-820198-078_154327",
+"Vogatore Oxfort 5|Il vogatore Oxford 5 ha una seduta larga e confortevole con guida di|2017/12/vogatore-oxfort-5|data.oliviero.it/imgprodotto/vogatore-oxfort-5_154159",
 "Panca Addominali Universal Bench|UNIVERSAL 07629-800 Robusta panca piana/inclinabile deale per|2017/12/panca-addominali-universal-bench|data.oliviero.it/imgprodotto/panca-addominali-universal-bench_130328",
 "Scarpe Fitness Kineta Relay|PROFILO: Dopo la corsa, per tenersi in forma anche in palestra|2017/12/scarpe-fitness-kineta-relay|data.oliviero.it/imgprodotto/scarpe-fitness-kineta-relay-s25244-24_163953",
 "Power Tower PT40|Caratteristiche tecniche PULL UP BAR SI DIP STATION SI REGOLAZIONE IN|2017/12/power-tower-pt40|data.oliviero.it/imgprodotto/power-tower-pt40_171192",

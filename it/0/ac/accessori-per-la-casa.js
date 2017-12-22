@@ -1,4 +1,5 @@
 Gr = [
+"Telo Bagno spugna|Asciugamano viso ospite Spugna della linea basic, morbido e adatto ad|2017/12/telo-bagno-spugna|data.oliviero.it/imgprodotto/telo-bagno-spugna_153943",
 "Baby Monitor Essential Digital Video|Il Baby Control Video Digital è un sistema di video sorveglianza|2017/12/baby-monitor-essential-digital-video|data.oliviero.it/imgprodotto/baby-monitor-essential-digital-video_51962",
 "Asciugamano viso spugna|Asciugamano viso ospite Spugna della linea basic, morbido e adatto ad|2017/12/asciugamano-viso-spugna|data.oliviero.it/imgprodotto/asciugamano-viso-spugna_172928",
 "Baby Monitor Dect Audio|Baby monitor Dect con sistema di controllo che permette un ascolto|2017/12/baby-monitor-dect-audio|data.oliviero.it/imgprodotto/baby-monitor-dect-audio_69270",

@@ -1,4 +1,7 @@
 Gr = [
+"Lamborghini r-c|Scala 1:14 Radiocomando n 7 funzioni Pacco batterie ricaricabile|2017/12/lamborghini-r-c|data.oliviero.it/imgprodotto/lamborghini-r-c_163925",
+"Space warrior r-c|Lo space warrior radiocomando si muove in tutte le direzioni, con|2017/12/space-warrior-r-c|data.oliviero.it/imgprodotto/space-warrior-r-c_163921",
+"Ruspa e Betoniera a Frizione|Set mezzi in cantiere, nello stesso box trovi la ruspa e betoniera|2017/12/ruspa-e-betoniera-a-frizione|data.oliviero.it/imgprodotto/ruspa-e-betoniera-a-frizione-63708_156837",
 "Plastiart gran ristorante|6 barattoli da 57 gr piattino con posate estrusore effetto panna|2017/12/plastiart-gran-ristorante|data.oliviero.it/imgprodotto/plastiart-gran-ristorante_136285",
 "Roller Coaster Maxi Rail|7A+ Con Roller Coaster puoi costruire fantastiche piste sospese per|2017/12/roller-coaster-maxi-rail|data.oliviero.it/imgprodotto/roller-coaster-maxi-rail-6435_156312",
 "Stazione di Polizia Click Clack|Mattoncini con i quali si può costruire una perfetta stazione di|2017/12/stazione-di-polizia-click-clack|data.oliviero.it/imgprodotto/stazione-di-polizia-click-clack-63807_156830",

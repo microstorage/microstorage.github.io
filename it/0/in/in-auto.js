@@ -1,4 +1,9 @@
 Gr = [
+"Seggiolino Marco Polo blue|nglesina presenta Marco Polo, il seggiolino auto evoluto pensato per|2017/12/seggiolino-marco-polo-blue|data.oliviero.it/imgprodotto/seggiolino-marco-polo-blue_51695",
+"Seggiolino Auto Duo Plus|Con il seggiolino per auto DUO plus Isofix di Romer assicurerai al|2017/12/seggiolino-auto-duo-plus|data.oliviero.it/imgprodotto/seggiolino-auto-duo-plus_64958",
+"Rodi XP Fix Night Black|Seggiolino Auto 15-36 Kg Ogni bimbo è unico e cresce in modo|2017/12/rodi-xp-fix-night-black|data.oliviero.it/imgprodotto/rodi-xp-fix-night-black_171873",
+"Seat belt pillow cuscino|Lascia riposare in modo confortevole il vostro bambino in quanto|2017/12/seat-belt-pillow-cuscino|data.oliviero.it/imgprodotto/seat-belt-pillow-cuscino_146224",
+"Viaggiosicuro isofix 520|Seggiolino Auto dotato di un sistema di controllo visivo, anteriore|2017/12/viaggiosicuro-isofix-520|data.oliviero.it/imgprodotto/viaggiosicuro-isofix-520_139437",
 "Base seggiolino auto Belted|Omologata secondo la normativa Europea in vigore ECE R44/04, per|2017/12/base-seggiolino-auto-belted|data.oliviero.it/imgprodotto/base-seggiolino-auto-belted_67768",
 "Galileo I-fix grey|Galileo l-Fix è il seggiolino auto Inglesina omologato per i Gruppi|2017/12/galileo-i-fix-grey|data.oliviero.it/imgprodotto/galileo-i-fix-grey-av93f0gry_154905",
 "Seggiolino Tazio tt isofix nero-grigio|TAZIO Isofix TT il seggiolino 1.2.3 auto reclinabile isofix|2017/12/seggiolino-tazio-tt-isofix-nero-grigio|data.oliviero.it/imgprodotto/seggiolino-tazio-tt-isofix-nero-grigio_151414",

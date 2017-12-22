@@ -1,4 +1,6 @@
 Gr = [
+"Racchetta Tennis MX Spark Elite|Racchetta con piatto corde La racchetta tennis Spark elite di Head|2017/12/racchetta-tennis-mx-spark-elite|data.oliviero.it/imgprodotto/racchetta-tennis-mx-spark-elite_165485",
+"Racchetta Ping Pong Storm|Racchetta Storm (2 stelle +) approvata ITTF Caratteristiche tecniche:|2017/12/racchetta-ping-pong-storm|data.oliviero.it/imgprodotto/racchetta-ping-pong-storm_83286",
 "Racchetta Tennis Biomimetic 400|Racchetta con piatto corde Biomimetic 400 è la racchetta ideale per|2017/12/racchetta-tennis-biomimetic-400|data.oliviero.it/imgprodotto/racchetta-tennis-biomimetic-400_15274_big",
 "Racchetta Tennis Burn FST 99|La racchetta Wilson Burn FST 99 è l'ideale per i tennisti che|2017/12/racchetta-tennis-burn-fst-99|data.oliviero.it/imgprodotto/racchetta-tennis-burn-fst-99_147738",
 "Set di 4 racchette Family|L'attrezzatura ideale per organizzare tornei di famiglia in giardino|2017/12/set-di-4-racchette-family|data.oliviero.it/imgprodotto/set-di-4-racchette-family_8373_big",

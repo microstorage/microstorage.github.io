@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe con Ruote X2 Pow Lighted|Tomaia sintetica con linguetta e colletto imbottiti per un comfort|2017/12/scarpe-con-ruote-x2-pow-lighted|data.oliviero.it/imgprodotto/scarpe-con-ruote-x2-pow-lighted_173204",
 "Scarpe Gazelle J|Queste scarpe junior sono una perfetta riproduzione delle mitiche|2017/12/scarpe-gazelle-j|data.oliviero.it/imgprodotto/scarpe-gazelle-j_172200",
 "Scarpe con Ruote Launch 2.0|Utilizzo : scarpe munite di ruote Tomaia : Tessuto Battistrada|2017/12/scarpe-con-ruote-launch-2-0|data.oliviero.it/imgprodotto/scarpe-con-ruote-launch-2-0-770252h_91898",
 "Scarpe Sportive Baby X_PLR C|Sneakers basse Baby Ispirata alle moderne scarpe da corsa queste|2017/12/scarpe-sportive-baby-x_plr-c|data.oliviero.it/imgprodotto/scarpe-sportive-baby-x_plr-c-bb2616_160009",

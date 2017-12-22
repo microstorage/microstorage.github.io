@@ -1,4 +1,6 @@
 Gr = [
+"Stepper JK 5010|Caratteristiche tecniche: Regolazione sforzo pistoni idraulici|2017/12/stepper-jk-5010|data.oliviero.it/imgprodotto/stepper-jk-5010_23742_big",
+"Vogatore JK 5075 + Ricev. Cardio Polar|Specifiche tecniche: REGOLAZIONE FRENO magnetico - 8 livelli DISPLAY|2017/12/vogatore-jk-5075-+-ricev-cardio-polar|data.oliviero.it/imgprodotto/vogatore-jk-5075-ricev-cardio-polar_72437",
 "Gym Bike JK555|Gym Bike JK555 Caratteristiche Tecniche Sistema Frenante Pattino|2017/12/gym-bike-jk555|data.oliviero.it/imgprodotto/gym-bike-jk555_130575",
 "Gym Bike JK525|Gym Bike JK525 SISTEMA FRENANTE TAMPONI REGOLAZIONE INERZIA|2017/12/gym-bike-jk525|data.oliviero.it/imgprodotto/gym-bike-jk525_135889",
 "Gym Bike JK 515|Gym Bike JK 515 SISTEMA FRENANTE TAMPONI REGOLAZIONE INERZIA|2017/12/gym-bike-jk-515|data.oliviero.it/imgprodotto/gym-bike-jk-515_135891",

@@ -1,4 +1,6 @@
 Gr = [
+"Tavolo Ping Pong T914 Super Gara Indoor|MODELLO: TAVOLO PING PONG 'SUPER GARA' Tavolo montato su ruote|2017/12/tavolo-ping-pong-t914-super-gara-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-t914-super-gara-indoor_6990_big",
+"Set Aerobica Basic|Guanti in pelle + 2 manubri da kg. 2 cad. Caratteristiche tecniche:|2017/12/set-aerobica-basic|data.oliviero.it/imgprodotto/set-aerobica-basic_71336",
 "Tavola da neve Snow Slide|SNOW-SLIDE Tavola in poliuretano espanso rigido Alette direzionali|2017/12/tavola-da-neve-snow-slide|data.oliviero.it/imgprodotto/tavola-da-neve-snow-slide_14552_big",
 "Cuscino Massaggiante Massage Cushion|Cuscino massaggiante ad alimentazione elettrica, riscaldante|2017/12/cuscino-massaggiante-massage-cushion|data.oliviero.it/imgprodotto/cuscino-massaggiante-massage-cushion_71341",
 "Tavolo Ping Pong T614 gara Indoor|Caratteristiche tecniche: Tavolo montato su ruote gemellari Ø 80 mm|2017/12/tavolo-ping-pong-t614-gara-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-t614-gara-indoor_478_big",

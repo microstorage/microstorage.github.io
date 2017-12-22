@@ -1,4 +1,5 @@
 Gr = [
+"Passeggino Fletto 111|Passeggino Fletto Cam con struttura in alluminio ultraleggero pesa|2017/12/passeggino-fletto-111|data.oliviero.it/imgprodotto/passeggino-fletto-111_139370",
 "Passeggino cannefix blu|Il Passeggino peep è estremamente leggero e maneggevole|2017/12/passeggino-cannefix-blu|data.oliviero.it/imgprodotto/passeggino-cannefix-blu_123692",
 "Passeggino Curvi 123|Leggero (solo 5,9 kg) e compatto (solo 85 cm h), con telaio in|2017/12/passeggino-curvi-123|data.oliviero.it/imgprodotto/passeggino-curvi-123_171598",
 "Passeggino Blink Yellow|Il passeggino perfetto per i viaggi e le vacanze. Accompagna le|2017/12/passeggino-blink-yellow|data.oliviero.it/imgprodotto/passeggino-blink-yellow_163489",

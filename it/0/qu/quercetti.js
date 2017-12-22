@@ -1,4 +1,5 @@
 Gr = [
+"Pixel Photo 4 tavole|6A+ La fortunata linea Pixel Art si amplia con Pixel Photo. Il|2017/12/pixel-photo-4-tavole|data.oliviero.it/imgprodotto/pixel-photo-4-tavole_156255",
 "Roller Coaster Maxi Rail|7A+ Con Roller Coaster puoi costruire fantastiche piste sospese per|2017/12/roller-coaster-maxi-rail|data.oliviero.it/imgprodotto/roller-coaster-maxi-rail-6435_156312",
 "Tablet Magnetico Lettere|4A+ Una nuova linea di lavagne, con due facce magnetiche scrivibili|2017/12/tablet-magnetico-lettere|data.oliviero.it/imgprodotto/tablet-magnetico-lettere-5321_156304",
 "FantaColor Design|4A+ Per giocare con Minnie e i classici chiodini Quercetti ecco il|2017/12/fantacolor-design|data.oliviero.it/imgprodotto/fantacolor-design-minnie_156260",

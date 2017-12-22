@@ -1,4 +1,7 @@
 Gr = [
+"Moka Colour 1 tz Bianco|Moka White nasce dall'esigenza di affiancare stile e fascino moderni|2017/12/moka-colour-1-tz-bianco|data.oliviero.it/imgprodotto/moka-colour-1-tz-bianco_154714",
+"Moka Nuova Dama 1 tz|Dama 1 tazza, Nero/alluminio Bialetti Dama 1. Coffee maker type:|2017/12/moka-nuova-dama-1-tz|data.oliviero.it/imgprodotto/moka-nuova-dama-1-tz_156467",
+"Set 2 tazzine con piattini, cucchiaini e zuccheriera Sabbia|MADE IN ITALY - DESIGN BY ANGELETTI RUZZA Il nuovo design del corpo|2017/12/set-2-tazzine-con-piattini-cucchiaini-e-zuccheriera-sabbia|data.oliviero.it/imgprodotto/set-2-tazzine-con-piattini-cucchiaini-e-zuccheriera-sabbia_99950",
 "Dischi decorativi per Cappuccio linea Mydrink|Quale occasione migliore di un buon cappuccino decorato, per stupire|2017/12/dischi-decorativi-per-cappuccio-linea-mydrink|data.oliviero.it/imgprodotto/dischi-decorativi-per-cappuccio-linea-mydrink_90689",
 "Moka Nuova Dama 2 tz|C'è arte nel preparare una buona tazzina di caffè. Per esaltare il|2017/12/moka-nuova-dama-2-tz|data.oliviero.it/imgprodotto/moka-nuova-dama-2-tz_154722",
 "Caffettiera 4 tazze linea Montecarlo|Elegante caffettiera prodotta in acciaio inossidabile di alta|2017/12/caffettiera-4-tazze-linea-montecarlo|data.oliviero.it/imgprodotto/caffettiera-4-tazze-linea-montecarlo_90717",

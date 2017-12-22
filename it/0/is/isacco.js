@@ -1,4 +1,8 @@
 Gr = [
+"Pantaloni Cuoco Roller|Modello con passanti in vita chiusura con due bottoni e zip. due|2017/12/pantaloni-cuoco-roller|data.oliviero.it/imgprodotto/pantaloni-cuoco-roller-064100_151130",
+"Gonna Blu Losanna 195gr|Gonna Donna ideale per front office, sala bar realizzata in 60% lana|2017/12/gonna-blu-losanna-195gr|data.oliviero.it/imgprodotto/gonna-blu-losanna-195gr_165511",
+"Pettorina Riga Rossa|Pettorina unisex realizzata in 65% polyestere 35% cotone. Modello con|2017/12/pettorina-riga-rossa|data.oliviero.it/imgprodotto/pettorina-riga-rossa_1644_big",
+"Casacca Papeete|Colore :Lilla e Bianco Composizione : tessuto 100% cotone Dimensioni|2017/12/casacca-papeete|data.oliviero.it/imgprodotto/casacca-papeete_1631_big",
 "Grembiule Madeira Zip|Colore : Grigio Composizione : tessuto 100% poliestere Dimensioni :|2017/12/grembiule-madeira-zip|data.oliviero.it/imgprodotto/grembiule-madeira-zip_24720_big",
 "Giacca Cuoco Bottoni a Pressione|Colore : Grigio e bianco Composizione : tessuto 100% cotone|2017/12/giacca-cuoco-bottoni-a-pressione|data.oliviero.it/imgprodotto/giacca-cuoco-bottoni-a-pressione_2591_big",
 "Grembiule Pub Liverpool|Colore : Gessato nero Composizione : tessuto 100% poliestere|2017/12/grembiule-pub-liverpool|data.oliviero.it/imgprodotto/grembiule-pub-liverpool_1661_big",

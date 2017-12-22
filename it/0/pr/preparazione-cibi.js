@@ -1,4 +1,11 @@
 Gr = [
+"Spatola in silicone|La spatola in silicone è indispensabile per preparare gli impasti|2017/12/spatola-in-silicone|data.oliviero.it/imgprodotto/spatola-in-silicone-420504_155178",
+"Robot da Cucina 300 watt|Robot da Cucina 300 watt Codice: 90.312 Descrizione : Corpo in abs|2017/12/robot-da-cucina-300-watt|data.oliviero.it/imgprodotto/robot-da-cucina-300-watt-90-312_89077",
+"Macchina Pasta Fresca Roller Classic Atlas 150|Un autentica e originale macchina italiana per la pasta fresca|2017/12/macchina-pasta-fresca-roller-classic-atlas-150|data.oliviero.it/imgprodotto/macchina-pasta-fresca-roller-classic-atlas-150_156435",
+"Rullo Tagliapasta Multifunzionale|Per creare dolci e salatini dalle più svariate forme ecco il rullo|2017/12/rullo-tagliapasta-multifunzionale|data.oliviero.it/imgprodotto/rullo-tagliapasta-multifunzionale-630023_155134",
+"Teiera con filtro 1,25 Lt|Resistente al calore, è ideale per preparare tè, infusi, tisane, ma|2017/12/teiera-con-filtro-1-25-lt|data.oliviero.it/imgprodotto/teiera-con-filtro-1-25-lt_93316",
+"Frullatore FR75|Frullatore con bicchiere in vetro temperato e 6 lame, ideale per|2017/12/frullatore-fr75|data.oliviero.it/imgprodotto/frullatore-fr75_155562",
+"Accessorio Vermicelli Atlas 150|Accessorio per macchina Atlas 150 per vermicelli. Progettato per|2017/12/accessorio-vermicelli-atlas-150|data.oliviero.it/imgprodotto/accessorio-vermicelli-atlas-150_156417",
 "Sfogliatrici per impastatrice 90.342A|Sfogliatrici per impastatrice 90.342A Inclusi: Rotolo di stiramento|2017/12/sfogliatrici-per-impastatrice-90-342a|data.oliviero.it/imgprodotto/sfogliatrici-per-impastatrice-90-342a_160646",
 "Macchina Per Pasta Fresca 180 Atlas|Caratteristiche principali del SMV Marcato Ampia 180 Macchina|2017/12/macchina-per-pasta-fresca-180-atlas|data.oliviero.it/imgprodotto/macchina-per-pasta-fresca-180-atlas_156439",
 "Accessorio Spaghetti Atlas 150|Accessorio per macchina Atlas 150 per spaghetti da 2 mm. Progettato|2017/12/accessorio-spaghetti-atlas-150|data.oliviero.it/imgprodotto/accessorio-spaghetti-atlas-150_156202",

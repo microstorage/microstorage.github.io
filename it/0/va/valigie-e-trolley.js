@@ -1,4 +1,6 @@
 Gr = [
+"Trolley 234810 Medio|DELSEY - LIMITED EDITION Valigia morbida, con struttura in|2017/12/trolley-234810-medio|data.oliviero.it/imgprodotto/trolley-234810-medio_62929",
+"Cuscino da Viaggio TN 2016 Grigio|L'oggetto indispensabile per i vostri viaggi: questo cuscino da|2017/12/cuscino-da-viaggio-tn-2016-grigio|data.oliviero.it/imgprodotto/cuscino-da-viaggio-tn-2016-grigio-003940262_160634",
 "Cartella Parvis Nero M|Cartella a 1 scomparto - protezione pc H 30 x L 41 x E 9 cm - 0.5kg|2017/12/cartella-parvis-nero-m|data.oliviero.it/imgprodotto/cartella-parvis-nero-m-003943160_160622",
 "Trolley 607730 Piccolo|Valigia Rigida, 2 ruote Dimensioni: 48 x 34 x 24 cm Peso: 3 Kg|2017/12/trolley-607730-piccolo|data.oliviero.it/imgprodotto/trolley-607730-piccolo_63188",
 "Trolley Espandibile Indiscrete Marrone XL|Valigia trolley espandibile 4 ruote 78 cm H 78 x L 48 x E 32 cm|2017/12/trolley-espandibile-indiscrete-marrone-xl|data.oliviero.it/imgprodotto/trolley-espandibile-indiscrete-marrone-xl-3035821_160863",

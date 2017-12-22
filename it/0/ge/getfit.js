@@ -1,4 +1,7 @@
 Gr = [
+"Vogatore 2 pistoni|Simula perfettamente il movimento del canottaggio. Grazie alla sua|2017/12/vogatore-2-pistoni|data.oliviero.it/imgprodotto/vogatore-2-pistoni_168530",
+"Arm Curl Pro Appoggio Scott|Il cuscino per Arm Curl ti permette di compiere esercizi specifici|2017/12/arm-curl-pro-appoggio-scott|data.oliviero.it/imgprodotto/arm-curl-pro-appoggio-scott_168525",
+"Panca Multifunzione Force ST 1300|Caratteristiche: Pacco pesi: 68 kg (10 piastre da 15 libbre cad.)|2017/12/panca-multifunzione-force-st-1300|data.oliviero.it/imgprodotto/panca-multifunzione-force-st-1300_168722",
 "Cyclette Ride 251|Ride 251 della Get Fit, la bici da camera perfetta per mantenerti in|2017/12/cyclette-ride-251|data.oliviero.it/imgprodotto/cyclette-ride-251_172797",
 "Recumbent Ride R282|Buon prodotto con un ottimo rapporto qualità prezzo. Dotata di una|2017/12/recumbent-ride-r282|data.oliviero.it/imgprodotto/recumbent-ride-r282_172822",
 "Ellittica Elite 302|Elite 302 ti permetterà di allenarti coinvolgendo tutti i gruppi|2017/12/ellittica-elite-302|data.oliviero.it/imgprodotto/ellittica-elite-302_168579",

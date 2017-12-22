@@ -1,4 +1,6 @@
 Gr = [
+"Krono Protein 95 3KG Cacao|KRONO PROTEIN 95 é un integratore alimentare di diverse fonti|2017/12/krono-protein-95-3kg-cacao|data.oliviero.it/imgprodotto/krono-protein-95-3kg-cacao_108765",
+"Isolated Soya Protein 750 gr cacao|ISOLATED SOYA PROTEIN é un integratore alimentare di proteine di soia|2017/12/isolated-soya-protein-750-gr-cacao|data.oliviero.it/imgprodotto/isolated-soya-protein-750-gr-cacao_108629",
 "Barretta Sport Carbo|Confezione da 36 Barrette gusto Nocciola SPORT CARBO è una barretta|2017/12/barretta-sport-carbo|data.oliviero.it/imgprodotto/barretta-sport-carbo-36-pz-nocciola_108434",
 "Egg White gusto Cacao 750gr|EGG WHITE è un integratore alimentare di proteine a base di albume|2017/12/egg-white-gusto-cacao-750gr|data.oliviero.it/imgprodotto/egg-white-gusto-cacao-750gr_108605",
 "Barretta Speed Bar|Confezione da 30 Barrette gusto mandorla SPEED BAR è una barretta|2017/12/barretta-speed-bar|data.oliviero.it/imgprodotto/barretta-speed-bar-30-pz-mandorla_108410",

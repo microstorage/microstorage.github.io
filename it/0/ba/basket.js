@@ -1,4 +1,6 @@
 Gr = [
+"Scarpe Basket Jordan B.Fly|Parte della Fly Series, la scarpa da basket Jordan B. Fly - Uomo|2017/12/scarpe-basket-jordan-b-fly|data.oliviero.it/imgprodotto/scarpe-basket-jordan-b-fly_167068",
+"Scarpe Basket Hyperdunk 2017 TB|La scarpa da basket Nike Hyperdunk (Team) integra la più recente|2017/12/scarpe-basket-hyperdunk-2017-tb|data.oliviero.it/imgprodotto/scarpe-basket-hyperdunk-2017-tb_167397",
 "Canestro Tabellone 6098|UNICO PEZZO DISPONIBILE. PRODOTTO VENDUTO MONTATO SU BANCALE. EX|2017/12/canestro-tabellone-6098|data.oliviero.it/imgprodotto/canestro-tabellone-6098_19361_big",
 "Canestro Detroit|Detroit è il tabellone da basket con colonna con altezza regolabile|2017/12/canestro-detroit|data.oliviero.it/imgprodotto/canestro-detroit_1755_big",
 "Total Training Experience MF527|Il Total Training Experience della Movi Fitness MF527 è un attrezzo|2017/12/total-training-experience-mf527|data.oliviero.it/imgprodotto/total-training-experience-mf527_90813",

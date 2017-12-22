@@ -1,4 +1,7 @@
 Gr = [
+"Telo Bagno spugna|Asciugamano viso ospite Spugna della linea basic, morbido e adatto ad|2017/12/telo-bagno-spugna|data.oliviero.it/imgprodotto/telo-bagno-spugna_153943",
+"Materasso 160x190 Matrimoniale Extra ortopedico|Materasso 160x190 matrimoniale. L' isolante elastico è costituito da|2017/12/materasso-160x190-matrimoniale-extra-ortopedico|data.oliviero.it/imgprodotto/materasso-160x190-matrimoniale-extra-ortopedico_93517",
+"Pasta combustibile EVA|Pasta conbustibile in gel a base di etanolo. Particolarmente adatta|2017/12/pasta-combustibile-eva|data.oliviero.it/imgprodotto/pasta-combustibile-eva_303_big",
 "Materasso 160x190 Matrimoniale Extra|Materasso 160x190 Matrimoniale. L' isolante elastico è costituito da|2017/12/materasso-160x190-matrimoniale-extra|data.oliviero.it/imgprodotto/materasso-160x190-matrimoniale-extra_93514",
 "Asciugamano viso spugna|Asciugamano viso ospite Spugna della linea basic, morbido e adatto ad|2017/12/asciugamano-viso-spugna|data.oliviero.it/imgprodotto/asciugamano-viso-spugna_172928",
 "Materasso 80x190 Singolo Export|MADE IN ITALY. Materasso singolo 154 molle di diametro 2.2. Spessore|2017/12/materasso-80x190-singolo-export|data.oliviero.it/imgprodotto/materasso-80x190-singolo-export_93503",

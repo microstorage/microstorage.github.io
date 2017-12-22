@@ -1,4 +1,8 @@
 Gr = [
+"Pantaloni Cuoco Roller|Modello con passanti in vita chiusura con due bottoni e zip. due|2017/12/pantaloni-cuoco-roller|data.oliviero.it/imgprodotto/pantaloni-cuoco-roller-064100_151130",
+"Gonna Blu Losanna 195gr|Gonna Donna ideale per front office, sala bar realizzata in 60% lana|2017/12/gonna-blu-losanna-195gr|data.oliviero.it/imgprodotto/gonna-blu-losanna-195gr_165511",
+"Pettorina Riga Rossa|Pettorina unisex realizzata in 65% polyestere 35% cotone. Modello con|2017/12/pettorina-riga-rossa|data.oliviero.it/imgprodotto/pettorina-riga-rossa_1644_big",
+"Casacca Papeete|Colore :Lilla e Bianco Composizione : tessuto 100% cotone Dimensioni|2017/12/casacca-papeete|data.oliviero.it/imgprodotto/casacca-papeete_1631_big",
 "Berretto con visiera Unisex|Colore : Bianco Composizione : Tessuto 100% Poliestere Descrizione|2017/12/berretto-con-visiera-unisex|data.oliviero.it/imgprodotto/berretto-con-visiera-unisex_79009",
 "Grembiule Madeira Zip|Colore : Grigio Composizione : tessuto 100% poliestere Dimensioni :|2017/12/grembiule-madeira-zip|data.oliviero.it/imgprodotto/grembiule-madeira-zip_24720_big",
 "Pantaloni con coulisse Unisex|Colore : Gessato Nero Composizione : Tessuto Gabardina 100% Cotone|2017/12/pantaloni-con-coulisse-unisex|data.oliviero.it/imgprodotto/pantaloni-con-coulisse-unisex_79015",

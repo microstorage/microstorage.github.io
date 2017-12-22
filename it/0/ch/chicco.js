@@ -1,4 +1,8 @@
 Gr = [
+"Giostrina Magia di Stelle|Un'atmosfera incantata di stelle e lontane galassie coccola il|2017/12/giostrina-magia-di-stelle|data.oliviero.it/imgprodotto/giostrina-magia-di-stelle_52106",
+"Sdraietta Hooplà Dark Beige|Comfort ideale per i primi mesi, divertimento unico per le prime|2017/12/sdraietta-hoopla-dark-beige|data.oliviero.it/imgprodotto/sdraietta-hoopl%C3%A0-dark-beige-05079840340000_155538",
+"Biberon angolato 250 ml|La tettarella sempre colma di latte previene l'ingestione di aria|2017/12/biberon-angolato-250-ml|data.oliviero.it/imgprodotto/biberon-angolato-250-ml_142991",
+"Box open green|Ha una struttura quadrata e pieghevole. Il nuovissimo tappeto offre|2017/12/box-open-green|data.oliviero.it/imgprodotto/box-open-green_159983",
 "fattoria Parlante|Il gioco educativo che insegna a riconoscere i nomi degli animali|2017/12/fattoria-parlante|data.oliviero.it/imgprodotto/fattoria-parlante_157350",
 "Finder zaino Rosso e Grigio|Chicco Finder è la soluzione ideale per chi vuole passeggiare in|2017/12/finder-zaino-rosso-e-grigio|data.oliviero.it/imgprodotto/finder-zaino-rosso-e-grigio_162916",
 "Termometro Digi Baby|Digi Baby misura la temperatura del tuo bambino in tre diverse|2017/12/termometro-digi-baby|data.oliviero.it/imgprodotto/termometro-digi-baby_136268",

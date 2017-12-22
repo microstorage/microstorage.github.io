@@ -1,4 +1,5 @@
 Gr = [
+"Gym Bike VIC8000|Gym Bike VIC8000, particolarmente adatto per uso domestico.Il|2017/12/gym-bike-vic8000|data.oliviero.it/imgprodotto/gym-bike-vic8000_169089",
 "Gym Bike JK555|Gym Bike JK555 Caratteristiche Tecniche Sistema Frenante Pattino|2017/12/gym-bike-jk555|data.oliviero.it/imgprodotto/gym-bike-jk555_130575",
 "Gym bike SRX 90 con fascia cardio|Trasmissione a cinghia con pignone fisso. Sistema di frenaggio|2017/12/gym-bike-srx-90-con-fascia-cardio|data.oliviero.it/imgprodotto/gym-bike-srx-90-con-fascia-cardio_68845",
 "Gym Bike JK525|Gym Bike JK525 SISTEMA FRENANTE TAMPONI REGOLAZIONE INERZIA|2017/12/gym-bike-jk525|data.oliviero.it/imgprodotto/gym-bike-jk525_135889",

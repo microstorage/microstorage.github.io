@@ -1,4 +1,9 @@
 Gr = [
+"Amaca e struttura Star Kolibri|Set comprendente l'amaca Tonga con bar, oltre a uno stand amaca|2017/12/amaca-e-struttura-star-kolibri|data.oliviero.it/imgprodotto/amaca-e-struttura-star-kolibri_81402",
+"Poltroncina Pensile Relax Vulcano|Combina colori sgargianti con un morbido cordoncino stabile grazie al|2017/12/poltroncina-pensile-relax-vulcano|data.oliviero.it/imgprodotto/poltroncina-pensile-relax-vulcano_82136",
+"Poltroncina Pensile Havanna Marine|Poltrona sospesa Havanna Marine. Dal Brasile, il paese dei campioni|2017/12/poltroncina-pensile-havanna-marine|data.oliviero.it/imgprodotto/poltroncina-pensile-havanna-marine_80413",
+"Poltroncina Pensile Brasil Papaya|Poltrona sospesa Brasil PapayaDal Brasile, il paese dei campioni del|2017/12/poltroncina-pensile-brasil-papaya|data.oliviero.it/imgprodotto/poltroncina-pensile-brasil-papaya_79797",
+"Poltrona Pensile Hangover Orange|Sedia, Poltrona pensile HANGOVER Orange L'HANGOVER arancione, puo|2017/12/poltrona-pensile-hangover-orange|data.oliviero.it/imgprodotto/poltrona-pensile-hangover-orange_83980",
 "Poltrona Pensile Gigante Caffè|Poltrona sospesa Brasil Gigante Cafè La Brazil Gigante Cafè|2017/12/poltrona-pensile-gigante-caffe|data.oliviero.it/imgprodotto/poltrona-pensile-gigante-caff%C3%A8_79828",
 "Amaca con Asta American Dream Grey L|Amaca American Dream Grey - XL : Un sogno - non solo Americano! La|2017/12/amaca-con-asta-american-dream-grey-l|data.oliviero.it/imgprodotto/amaca-con-asta-american-dream-grey-l_158723",
 "Amaca Moskito Traveller Pro M|Amaca Moskito Traveller PRO - M L'amaca Mosquito Traveller Pro|2017/12/amaca-moskito-traveller-pro-m|data.oliviero.it/imgprodotto/amaca-moskito-traveller-pro-m_158747",

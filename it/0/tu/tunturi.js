@@ -1,4 +1,5 @@
 Gr = [
+"Core Trainer CT40|Caratteristiche tecniche PANCA ADDOMINALE NO APPOGGI PER GAMBE SI|2017/12/core-trainer-ct40|data.oliviero.it/imgprodotto/core-trainer-ct40_171221",
 "Power Tower PT40|Caratteristiche tecniche PULL UP BAR SI DIP STATION SI REGOLAZIONE IN|2017/12/power-tower-pt40|data.oliviero.it/imgprodotto/power-tower-pt40_171192",
 "Cyclette Endurance E80|Endurance E80 SCHERMO 7 INCH LCD - COLORE TFT PROGRAMMI 10|2017/12/cyclette-endurance-e80|data.oliviero.it/imgprodotto/cyclette-endurance-e80_172884",
 "Cyclette Tunturi Cardio Fit B30|Cyclette Tunturi Cardio Fit B30 SCHERMO LCD - MONOCOLORE|2017/12/cyclette-tunturi-cardio-fit-b30|data.oliviero.it/imgprodotto/cyclette-tunturi-cardio-fit-b30_172872",

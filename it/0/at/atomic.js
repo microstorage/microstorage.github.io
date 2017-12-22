@@ -1,4 +1,6 @@
 Gr = [
+"Sci Redster Doubledeck 3.0 GS + X 12 TL|Nell'Atomic Redster Doubledeck 3.0 GS abbiamo messo tutta la nostra|2017/12/sci-redster-doubledeck-3-0-gs-+-x-12-tl|data.oliviero.it/imgprodotto/sci-redster-doubledeck-3-0-gs-x-12-tl_156523",
+"Sci Backland FR 109 + Warden MNC 13|Lo sci Atomic Backland FR 109 è eccellente in alta montagna, con la|2017/12/sci-backland-fr-109-+-warden-mnc-13|data.oliviero.it/imgprodotto/sci-backland-fr-109-warden-mnc-13_156432",
 "Casco Sci Savor LF Black|Il nuovo Atomic Savor LF è per gli sciatori che vogliono un casco|2017/12/casco-sci-savor-lf-black|data.oliviero.it/imgprodotto/casco-sci-savor-lf-black-an5005204_157644",
 "Sci Vantage X80 Wmn CTI + W 11 DT|Come su Vantage, abbiamo inserito all'interno dello sci uno strato|2017/12/sci-vantage-x80-wmn-cti-+-w-11-dt|data.oliviero.it/imgprodotto/sci-vantage-x80-wmn-cti-w-11-dt-aass01140_157945",
 "Sci Vantage X80 CTI + XT 12|L'Atomic Vantage X 80 CTI fa parte della nostra nuova serie di sci|2017/12/sci-vantage-x80-cti-+-xt-12|data.oliviero.it/imgprodotto/sci-vantage-x80-cti-xt-12_156423",

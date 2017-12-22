@@ -1,4 +1,10 @@
 Gr = [
+"Mensola libreria flex fumè|Libreria porta cd FLEX FUMÈ Descrizione: libreria porta cd mensola|2017/12/mensola-libreria-flex-fume|data.oliviero.it/imgprodotto/mensola-libreria-flex-fume_77957",
+"Stender con specchio jack|STENDER CON SPECCHIO DA INGRESSO \"JACK\" struttura in metallo finitura|2017/12/stender-con-specchio-jack|data.oliviero.it/imgprodotto/stender-con-specchio-jack_78270",
+"2 sedie monaco|Sedia Da Interno / Esterno Monaco Realizzata In Policarbonato|2017/12/2-sedie-monaco|data.oliviero.it/imgprodotto/2-sedie-monaco_169990",
+"Scaffale Vetrina WOW WHITE|Scaffale / Vetrina WOW WHITE - realizzata in allumino Bianco - vetro|2017/12/scaffale-vetrina-wow-white|data.oliviero.it/imgprodotto/scaffale-vetrina-wow-white_135087",
+"2 sgabelli kyra wood|Sgabello Kyra Wood Realizzato In Legno Massello Laccato Bianco Opaco|2017/12/2-sgabelli-kyra-wood|data.oliviero.it/imgprodotto/2-sgabelli-kyra-wood_169955",
+"2 sedie chiara black|Sedia Chiara Black Seduta Rivestita In Pelle Sintetica Nera Struttura|2017/12/2-sedie-chiara-black|data.oliviero.it/imgprodotto/2-sedie-chiara-black_169993",
 "Appendiabiti da parete New Bin 3|appendiabiti da parete NEW BIN 3 struttura in metallo verniciato di|2017/12/appendiabiti-da-parete-new-bin-3|data.oliviero.it/imgprodotto/appendiabiti-da-parete-new-bin-3_133692",
 "Coppia Sgabelli Tappo Red|sgabello bar TAPPO RED Elevazione con pistone a gas. Altezza|2017/12/coppia-sgabelli-tappo-red|data.oliviero.it/imgprodotto/coppia-sgabelli-tappo-red_147611",
 "4 Sedie Match White|Sedia Match White Sedia Impilabile Seduta Rivestita In Pelle|2017/12/4-sedie-match-white|data.oliviero.it/imgprodotto/4-sedie-match-white_170165",

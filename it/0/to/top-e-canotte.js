@@ -1,4 +1,5 @@
 Gr = [
+"Canotta J2S4PA 00252|Collezione Twin set Jeans Canotta da donna con spalline regolari|2017/12/canotta-j2s4pa-00252|data.oliviero.it/imgprodotto/canotta-j2s4pa-00252_146536",
 "Canotta Banane|Collezione Primavera Estate Tipologia: Canotta da donna Tessuto|2017/12/canotta-banane|data.oliviero.it/imgprodotto/canotta-banane_12472_big",
 "Top J2S4XB 00100|Collezione Twin-set Jeans Top da donna senza bretelle in tessuto|2017/12/top-j2s4xb-00100|data.oliviero.it/imgprodotto/top-j2s4xb-00100_146527",
 "Canotta F15090 T8076 35304|Collezione Liu Jo Jeans Canotta da donna con spalline dalla largezza|2017/12/canotta-f15090-t8076-35304|data.oliviero.it/imgprodotto/canotta-f15090-t8076-35304_146718",

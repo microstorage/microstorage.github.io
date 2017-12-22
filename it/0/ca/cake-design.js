@@ -1,4 +1,7 @@
 Gr = [
+"Stampi per Panna cotta 4 pz|Hai voglia di una golosa panna cotta? Ora ci sono gli stampini che ti|2017/12/stampi-per-panna-cotta-4-pz|data.oliviero.it/imgprodotto/stampi-per-panna-cotta-4-pz-630591_157821",
+"Stampini di pasqua Tridimensionali|Eccellente per una facile preparazione di biscotti ripieni. Include|2017/12/stampini-di-pasqua-tridimensionali|data.oliviero.it/imgprodotto/stampini-di-pasqua-tridimensionali_74034",
+"Anello Regolabile Tondo|Anello regolabile prodotto in acciaio inossidabile di alta qualità|2017/12/anello-regolabile-tondo|data.oliviero.it/imgprodotto/anello-regolabile-tondo_75852",
 "Stendipasta 48 x 38 cm linea Delicia|È una pratica tovaglietta in silicone, leggera, resistente|2017/12/stendipasta-48-x-38-cm-linea-delicia|data.oliviero.it/imgprodotto/stendipasta-48-x-38-cm-linea-delicia_90685",
 "Stampo Tagliabiscotti con bordi festonati|Ideale per preparare velocemente biscotti dolci con bordi festonati|2017/12/stampo-tagliabiscotti-con-bordi-festonati|data.oliviero.it/imgprodotto/stampo-tagliabiscotti-con-bordi-festonati_74041",
 "Stampo per cannolo|Stampo ideale per preparare facilmente cannoli. Semplicissimo da|2017/12/stampo-per-cannolo|data.oliviero.it/imgprodotto/stampo-per-cannolo_74038",

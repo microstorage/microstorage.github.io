@@ -1,4 +1,7 @@
 Gr = [
+"Sacco Lenzuola Travel SQ|Sacco Lenzuola Travel SQ - 86502 Saccolenzuolo ideale per migliorare|2017/12/sacco-lenzuola-travel-sq|data.oliviero.it/imgprodotto/sacco-lenzuola-travel-sq-86502_145032",
+"Tenda Lhotse 4 da Campeggio|Massimo comfort e spazio uniti a robustezza, aerazione|2017/12/tenda-lhotse-4-da-campeggio|data.oliviero.it/imgprodotto/tenda-lhotse-4-da-campeggio_158446",
+"Tenda Tenere 4 Verde da Campeggio|Linea di tende per utilizzo campeggio estivo dotate di ampio abside|2017/12/tenda-tenere-4-verde-da-campeggio|data.oliviero.it/imgprodotto/tenda-tenere-4-verde-da-campeggio_158496",
 "Saccolenzuolo Comfort Liner|Saccolenzuolo ideale per migliorare l'igiene ed il comfort termico|2017/12/saccolenzuolo-comfort-liner|data.oliviero.it/imgprodotto/saccolenzuolo-comfort-liner-86504_163468",
 "Tenda Proxes 4 da Campeggio|Tende 3/4 posti dotata di pavimento addizionale cucito per l'intero|2017/12/tenda-proxes-4-da-campeggio|data.oliviero.it/imgprodotto/tenda-proxes-4-da-campeggio_145038",
 "Mantella R-Cloak|Mantella con cappuccio in Nylon e bottoni a pressione lungo i bordi|2017/12/mantella-r-cloak|data.oliviero.it/imgprodotto/mantella-r-cloak_108098",

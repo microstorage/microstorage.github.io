@@ -1,4 +1,9 @@
 Gr = [
+"Pile Uomo Nero|Collezione Autunno Invero/2018 CMP Uomo Pullover in pile si in pile|2017/12/pile-uomo-nero|data.oliviero.it/imgprodotto/pile-uomo-nero_169280",
+"Giacca da Sci Donna Ancolie|Collezione Autunno Inverno/2018 Ancolie è la giacca sci donna della|2017/12/giacca-da-sci-donna-ancolie|data.oliviero.it/imgprodotto/giacca-da-sci-donna-ancolie_170452",
+"Giacca da Moto Net Stream Uomo|Netstream è una giacca da moto in rete 3D ad altissimo coefficiente|2017/12/giacca-da-moto-net-stream-uomo|data.oliviero.it/imgprodotto/giacca-da-moto-net-stream-uomo-t199-486_149780",
+"Giubbotto Moto Elite P108|Collezione: Primavera Estate Tipologia: Giacca Moto da donna Tessuto:|2017/12/giubbotto-moto-elite-p108|data.oliviero.it/imgprodotto/giubbotto-moto-elite-p108_83608",
+"Giacca da Moto Trk Evo|SPIDI TRK-EVO è una giacca in pelle da moto per il motociclista|2017/12/giacca-da-moto-trk-evo|data.oliviero.it/imgprodotto/giacca-da-moto-trk-evo-p141-022_164828",
 "Giubbino da Moto Scout H2Out|SPIDI Scout H2Out una giacca impermeabile da moto dall'aspetto|2017/12/giubbino-da-moto-scout-h2out|data.oliviero.it/imgprodotto/giubbino-da-moto-scout-h2out-d146-026_164826",
 "Giacca da Moto in Tessuto 608 Uomo|Giacca realizzata in tessuto ad alta tenacità, caratterizzato da un|2017/12/giacca-da-moto-in-tessuto-608-uomo|data.oliviero.it/imgprodotto/giacca-da-moto-in-tessuto-608-uomo-t162-265_149818",
 "Giacche donna 001|Collezione Primavera/Estate Tipologia: Giacca donna. Tessuto: 98%|2017/12/giacche-donna-001|data.oliviero.it/imgprodotto/giacche-donna-001_13440_big",

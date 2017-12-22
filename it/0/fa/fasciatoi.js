@@ -1,4 +1,5 @@
 Gr = [
+"Bagnetto Fasciatoio Birillo Bianco|Pali offre una linea completa di bagnetti fasciatoio, per la cura del|2017/12/bagnetto-fasciatoio-birillo-bianco|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-birillo-bianco_166159",
 "Fasciatoio Asia bianco|Cassettiera in legno con fasciatoio, vaschetta, portaoggetti|2017/12/fasciatoio-asia-bianco|data.oliviero.it/imgprodotto/fasciatoio-asia-bianco_136987",
 "Bagnetto Fasciatoio Amelie Panna|Mobiletto fasciatoio 3 cassetti legno bianco con applicativo completo|2017/12/bagnetto-fasciatoio-amelie-panna|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-amelie-panna_172739",
 "Bagnetto Fasciatoio meggie|Bagnetto Fasciatoio collezione Meggie Maggie Pali è un pratico|2017/12/bagnetto-fasciatoio-meggie|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-meggie_86405",

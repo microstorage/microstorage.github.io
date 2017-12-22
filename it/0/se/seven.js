@@ -1,4 +1,13 @@
 Gr = [
+"Maxi Trolley SJ Girl|Questo è il Big trolley Sj! Adatto per la scuola con una capienza di|2017/12/maxi-trolley-sj-girl|data.oliviero.it/imgprodotto/maxi-trolley-sj-girl_166215",
+"Astuccio 3 Zip SJ Boy|L'ASTUCCIO 3 ZIP SJ GANG è l'accessorio che non può mancare nel tuo|2017/12/astuccio-3-zip-sj-boy|data.oliviero.it/imgprodotto/astuccio-3-zip-sj-boy_166375",
+"Trolley Maxi Round Sunflowers|Per chi ancora non lo conoscesse, questo è Maxi Trolley Round: un|2017/12/trolley-maxi-round-sunflowers|data.oliviero.it/imgprodotto/trolley-maxi-round-sunflowers_166145",
+"Zaino Maxi Sj Girl|Sempre per la scuola una versione alternativa con un modello tondo:|2017/12/zaino-maxi-sj-girl|data.oliviero.it/imgprodotto/zaino-maxi-sj-girl_166211",
+"Portapenne Round Plus|Un portapenne attrezzato per organizzare al meglio penne, matite|2017/12/portapenne-round-plus|data.oliviero.it/imgprodotto/portapenne-round-plus_166360",
+"Portapenne Round Plus Round Girl|Un portapenne attrezzato per organizzare al meglio penne, matite|2017/12/portapenne-round-plus-round-girl|data.oliviero.it/imgprodotto/portapenne-round-plus-round-girl_166268",
+"Astuccio 3 Zip Colorful Boy|L'ASTUCCIO 3 ZIP Seven School è l'accessorio che non può mancare nel|2017/12/astuccio-3-zip-colorful-boy|data.oliviero.it/imgprodotto/astuccio-3-zip-colorful-boy_166321",
+"Zaino The Double Pink Hearts|È uno zaino ma sono due. Da un lato fantasia e dall'altro tinta|2017/12/zaino-the-double-pink-hearts|data.oliviero.it/imgprodotto/zaino-the-double-pink-hearts_167522",
+"Zaino Sdoppiabile Sj Boy|ZAINO SDOPPIABILE SJ CON FLIP SYSTEM! Lo zaino che volta|2017/12/zaino-sdoppiabile-sj-boy|data.oliviero.it/imgprodotto/zaino-sdoppiabile-sj-boy_166217",
 "Astuccio 3 Zip Shift|L'ASTUCCIO 3 ZIP Seven School è l'accessorio che non può mancare nel|2017/12/astuccio-3-zip-shift|data.oliviero.it/imgprodotto/astuccio-3-zip-shift_166351",
 "Zaino Triplicabile Bundle Girl|Moltiplica lo spazio e stai sempre al passo con le mode! Guarda che|2017/12/zaino-triplicabile-bundle-girl|data.oliviero.it/imgprodotto/zaino-triplicabile-bundle-girl_166114",
 "Zaino Advanced Colorful Girl|Lo zaino pensato per chi ha esigenze di carico ma non vuole|2017/12/zaino-advanced-colorful-girl|data.oliviero.it/imgprodotto/zaino-advanced-colorful-girl_166195",

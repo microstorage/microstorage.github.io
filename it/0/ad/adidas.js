@@ -1,4 +1,13 @@
 Gr = [
+"Scarpe Calcio Nemeziz 17.3 FG|Sconfiggi gli avversari. Lasciali a bocca aperta con la tua|2017/12/scarpe-calcio-nemeziz-17-3-fg|data.oliviero.it/imgprodotto/scarpe-calcio-nemeziz-17-3-fg_167415",
+"T-Shirt Uomo Blu|T-shirt da uomo in autentico stile adidas originals, caratterizzata|2017/12/t-shirt-uomo-blu|data.oliviero.it/imgprodotto/t-shirt-uomo-blu_168421",
+"Scarpe Calcio Ace 16.3 Primemesh Firm Ground|Be the difference. Queste scarpe da calcio nascono per i giocatori in|2017/12/scarpe-calcio-ace-16-3-primemesh-firm-ground|data.oliviero.it/imgprodotto/scarpe-calcio-ace-16-3-primemesh-firm-ground-aq3439_151568",
+"T-Shirt Running Donna Blu Response Q1 Graphic Tee|Collezione Primavera Estate Caratterizzata da un stampa allover sulla|2017/12/t-shirt-running-donna-blu-response-q1-graphic-tee|data.oliviero.it/imgprodotto/t-shirt-running-donna-blu-response-q1-graphic-tee-az2858_159343",
+"Pantaloncini Running Donna Easy Orange Response|Collezione Primavera Estate Che tu voglia allenare la resistenza o la|2017/12/pantaloncini-running-donna-easy-orange-response|data.oliviero.it/imgprodotto/pantaloncini-running-donna-easy-orange-response-az2846_159336",
+"Tight Running Donna Nero|Questi tight da running ti aiutano a sconfiggere il maltempo|2017/12/tight-running-donna-nero|data.oliviero.it/imgprodotto/tight-running-donna-nero_167959",
+"T-Shirt Techfit Base Uomo|L'attività fisica migliora la salute e ti fa sentire più forte|2017/12/t-shirt-techfit-base-uomo|data.oliviero.it/imgprodotto/t-shirt-techfit-base-uomo_167006",
+"Cappellino Classic Climalite|Collezione Autunno Inverno/2018 Indossa questo cappellino in tessuto|2017/12/cappellino-classic-climalite|data.oliviero.it/imgprodotto/cappellino-classic-climalite_167586",
+"T-Shirt Jr. Bianco|Collezione Autunno Inverno/2018 Metti in mostra lo stile audace del|2017/12/t-shirt-jr-bianco|data.oliviero.it/imgprodotto/t-shirt-jr-bianco_167578",
 "Canotta Uomo Los Angeles Legend Ink|Collezione Primavera Estate Questa canotta da uomo è caratterizzata|2017/12/canotta-uomo-los-angeles-legend-ink|data.oliviero.it/imgprodotto/canotta-uomo-los-angeles-legend-ink-bk7692_164775",
 "Pantaloni Sportivi Uomo Grigio|Realizzati in spugna misto cotone morbida e confortevole, questi|2017/12/pantaloni-sportivi-uomo-grigio|data.oliviero.it/imgprodotto/pantaloni-sportivi-uomo-grigio_168102",
 "T-Shirt Uomo Grigio|Questa T-shirt da uomo è pensata per offrirti comfort e copertura|2017/12/t-shirt-uomo-grigio|data.oliviero.it/imgprodotto/t-shirt-uomo-grigio_167030",

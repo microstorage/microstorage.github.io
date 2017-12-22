@@ -1,4 +1,5 @@
 Gr = [
+"Casco K3 SV TOP Winter Test 2012|Casco moto AGV K-3 SV E2205. Casco che raggiunge alti livelli di|2017/12/casco-k3-sv-top-winter-test-2012|data.oliviero.it/imgprodotto/casco-k3-sv-top-winter-test-2012_165760",
 "Casco Sci Rewind Visor Titanium|Calotta esterna in resina termoplastica ad alta resistenza agli|2017/12/casco-sci-rewind-visor-titanium|data.oliviero.it/imgprodotto/casco-sci-rewind-visor-titanium_171826",
 "Casco Sci Avril Black|Questo modello è ideale per ragazze che vogliono andare alla grande!|2017/12/casco-sci-avril-black|data.oliviero.it/imgprodotto/casco-sci-avril-black-325214_93909",
 "Casco Sci Queen|Il casco QUEEN, con visiera integrata e intercambiabile, è un mix di|2017/12/casco-sci-queen|data.oliviero.it/imgprodotto/casco-sci-queen_171332",

@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Trail Running Speedcross 4 W|La quarta versione di questa scarpa da corsa iconica rivolta da capo|2017/12/scarpe-trail-running-speedcross-4-w|data.oliviero.it/imgprodotto/scarpe-trail-running-speedcross-4-w-393439_163291",
 "Scarpe Trekking Evasion 2 Aero|Andare lontano con lo sguardo verso l'orizzonte seguendo i propri|2017/12/scarpe-trekking-evasion-2-aero|data.oliviero.it/imgprodotto/scarpe-trekking-evasion-2-aero-393597_163289",
 "Snowboard Lotus + Attacchi Spell|Snowboard LotusTempo di fioriture La progressione di tutto ciò che la|2017/12/snowboard-lotus-+-attacchi-spell|data.oliviero.it/imgprodotto/snowboard-lotus-attacchi-spell_157542",
 "Scarpe Trail Running Speedcross 4|La quarta versione di questa scarpa da corsa iconica rivolta da capo|2017/12/scarpe-trail-running-speedcross-4|data.oliviero.it/imgprodotto/scarpe-trail-running-speedcross-4-383130_163259",

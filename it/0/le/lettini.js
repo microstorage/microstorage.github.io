@@ -1,4 +1,6 @@
 Gr = [
+"Lettino Gaia sbiancato|Tutti i Lettini e tutti i componenti delle camerette Pali sono sempre|2017/12/lettino-gaia-sbiancato|data.oliviero.it/imgprodotto/lettino-gaia-sbiancato_147365",
+"Lettino Maison Bebè Grigio|Lettino con cassetto, in legno di faggio, colore bianco. Ogni lettino|2017/12/lettino-maison-bebe-grigio|data.oliviero.it/imgprodotto/lettino-maison-beb%C3%A8-grigio_166020",
 "Lettino Glammy bianco|Il Lettino Pali Glammy è il lettino caratterizzato da un elegante|2017/12/lettino-glammy-bianco|data.oliviero.it/imgprodotto/lettino-glammy-bianco_125863",
 "Lettino Tulip Avorio anticato|Il Lettino Tulip, è una nuovo modello di Pali, le suo forme|2017/12/lettino-tulip-avorio-anticato|data.oliviero.it/imgprodotto/lettino-tulip-avorio-anticato_140078",
 "Lettino Bravo Bianco|Tutti i Lettini e tutti i componenti delle camerette Pali sono sempre|2017/12/lettino-bravo-bianco|data.oliviero.it/imgprodotto/lettino-bravo-bianco_171867",

@@ -1,4 +1,8 @@
 Gr = [
+"Tazza Con Beccuccio 340ml 18+|È una vera borraccia sportiva, con una maggiore capienza, perfetta|2017/12/tazza-con-beccuccio-340ml-18+|data.oliviero.it/imgprodotto/tazza-con-beccuccio-340ml-18-_127824",
+"Fruit feeder 3 in 1|l B-Fruit Feeder è un modo sicuro, facile e divertente per introdurre|2017/12/fruit-feeder-3-in-1|data.oliviero.it/imgprodotto/fruit-feeder-3-in-1_145171",
+"Ciotola con coperchio 1421|Perfetta per i bimbi che iniziano a mangiare da soli, la ciotola|2017/12/ciotola-con-coperchio-1421|data.oliviero.it/imgprodotto/ciotola-con-coperchio-1421_136237",
+"Piatto fondo grande|Ideale per i bambini più grandicelli. I bordi consentono di|2017/12/piatto-fondo-grande|data.oliviero.it/imgprodotto/piatto-fondo-grande_73905",
 "Gusto Seggiolone silver|Nuovissimo seggiolone Gusto da Inglesina dal design moderno|2017/12/gusto-seggiolone-silver|data.oliviero.it/imgprodotto/gusto-seggiolone-silver_124723",
 "Cucchiaino Silicone 6m+ Arancio|Il cucchiaio al silicone è studiato appositamente per arrivare alla|2017/12/cucchiaino-silicone-6m+-arancio|data.oliviero.it/imgprodotto/cucchiaino-silicone-6m-arancio_21985_big",
 "Cucchiaini Termosensibili Rosa|Set 2 cucchiai termosensibili cambia-colore. Il cucchiaio|2017/12/cucchiaini-termosensibili-rosa|data.oliviero.it/imgprodotto/cucchiaini-termosensibili-rosa_167211",

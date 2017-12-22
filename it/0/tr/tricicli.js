@@ -1,4 +1,6 @@
 Gr = [
+"Triciclo minnie pieghevole|Triciclo Minnie Pieghevole con Luci e Suoni per Bambini Specifiche|2017/12/triciclo-minnie-pieghevole|data.oliviero.it/imgprodotto/triciclo-minnie-pieghevole_163841",
+"Triciclo orsetto rosa|Maniglia regolabile, poggiapiedi, anello protettivo, doppio|2017/12/triciclo-orsetto-rosa|data.oliviero.it/imgprodotto/triciclo-orsetto-rosa_163970",
 "Triciclo Charm Plus rosa|Charm Plus è il triciclo 3 in 1 di Fisher Price comodo e funzionale|2017/12/triciclo-charm-plus-rosa|data.oliviero.it/imgprodotto/triciclo-charm-plus-rosa_149882",
 "Triciclo orsetto rosso|Maniglia regolabile, poggiapiedi, anello protettivo, doppio|2017/12/triciclo-orsetto-rosso|data.oliviero.it/imgprodotto/triciclo-orsetto-rosso_163971",
 "Triciclo summer rosa|Il triciclo summer lo troviamo anche nella variante di colore rosa|2017/12/triciclo-summer-rosa|data.oliviero.it/imgprodotto/triciclo-summer-rosa_163838",

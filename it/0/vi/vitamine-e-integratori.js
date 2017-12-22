@@ -1,4 +1,10 @@
 Gr = [
+"Barretta Slim Day|La confezione contiene 24 barrette gusto cioccolato SLIM DAY è una|2017/12/barretta-slim-day|data.oliviero.it/imgprodotto/barretta-slim-day-24-pz-cioccolato_108404",
+"Krono Protein 95 3KG Cacao|KRONO PROTEIN 95 é un integratore alimentare di diverse fonti|2017/12/krono-protein-95-3kg-cacao|data.oliviero.it/imgprodotto/krono-protein-95-3kg-cacao_108765",
+"High Protein Bar 30% 48 gr gusto Crema di Nocciole|Enervit produce Protein Bar 30% una barretta gustosissima con ben 15|2017/12/high-protein-bar-30-48-gr-gusto-crema-di-nocciole|data.oliviero.it/imgprodotto/high-protein-bar-30-48-gr-gusto-crema-di-nocciole_109425",
+"Isolated Soya Protein 750 gr cacao|ISOLATED SOYA PROTEIN é un integratore alimentare di proteine di soia|2017/12/isolated-soya-protein-750-gr-cacao|data.oliviero.it/imgprodotto/isolated-soya-protein-750-gr-cacao_108629",
+"Glutammine Evolution Confezione 120 Cps|ATTENZIONE: In caso di mancata giacenza di magazzino, i tempi di|2017/12/glutammine-evolution-confezione-120-cps|data.oliviero.it/imgprodotto/glutammine-evolution-confezione-120-cps_55220",
+"BCAA 100 Caplets|BCAA CAPLETS è un integratore alimentare di aminoacidi ramificati|2017/12/bcaa-100-caplets|data.oliviero.it/imgprodotto/bcaa-100-caplets_108435",
 "Nitro Max Confezione 100 Cps|NITRO MAX FORMULA è un integratore alimentare di aminoacidi|2017/12/nitro-max-confezione-100-cps|data.oliviero.it/imgprodotto/nitro-max-confezione-100-cps_108703",
 "Rekuper 8 Buste da 50gr Arancia|REKUPER é un integratore per favorire i processi di recupero. Gli|2017/12/rekuper-8-buste-da-50gr-arancia|data.oliviero.it/imgprodotto/rekuper-8-buste-da-50gr-arancia_108730",
 "Maltodex 600 gr 100%|100% Maltodex Maltodestrine indicate ovunque sia necessario aumentare|2017/12/maltodex-600-gr-100|data.oliviero.it/imgprodotto/maltodex-600-gr-100-_108365",

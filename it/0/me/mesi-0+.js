@@ -1,4 +1,5 @@
 Gr = [
+"Giostrina Magia di Stelle|Un'atmosfera incantata di stelle e lontane galassie coccola il|2017/12/giostrina-magia-di-stelle|data.oliviero.it/imgprodotto/giostrina-magia-di-stelle_52106",
 "Trillino Zebra|Una zebra a righe realizzata in morbido tessuto e parti in plastica|2017/12/trillino-zebra|data.oliviero.it/imgprodotto/trillino-zebra_139246",
 "Palestrina Nido Foresta|La palestrina per neonati Nido Foresta è proprio un vero nido pensato|2017/12/palestrina-nido-foresta|data.oliviero.it/imgprodotto/palestrina-nido-foresta_172605",
 "Copertina Happy Color Papera|Prime copertine colorate, realizzate in morbido tessuto velour|2017/12/copertina-happy-color-papera|data.oliviero.it/imgprodotto/copertina-happy-color-papera_65792",

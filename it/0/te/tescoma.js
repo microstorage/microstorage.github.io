@@ -1,4 +1,10 @@
 Gr = [
+"Stampi per Panna cotta 4 pz|Hai voglia di una golosa panna cotta? Ora ci sono gli stampini che ti|2017/12/stampi-per-panna-cotta-4-pz|data.oliviero.it/imgprodotto/stampi-per-panna-cotta-4-pz-630591_157821",
+"Stampini di pasqua Tridimensionali|Eccellente per una facile preparazione di biscotti ripieni. Include|2017/12/stampini-di-pasqua-tridimensionali|data.oliviero.it/imgprodotto/stampini-di-pasqua-tridimensionali_74034",
+"Anello Regolabile Tondo|Anello regolabile prodotto in acciaio inossidabile di alta qualità|2017/12/anello-regolabile-tondo|data.oliviero.it/imgprodotto/anello-regolabile-tondo_75852",
+"Spatola in silicone|La spatola in silicone è indispensabile per preparare gli impasti|2017/12/spatola-in-silicone|data.oliviero.it/imgprodotto/spatola-in-silicone-420504_155178",
+"Rullo Tagliapasta Multifunzionale|Per creare dolci e salatini dalle più svariate forme ecco il rullo|2017/12/rullo-tagliapasta-multifunzionale|data.oliviero.it/imgprodotto/rullo-tagliapasta-multifunzionale-630023_155134",
+"Teiera con filtro 1,25 Lt|Resistente al calore, è ideale per preparare tè, infusi, tisane, ma|2017/12/teiera-con-filtro-1-25-lt|data.oliviero.it/imgprodotto/teiera-con-filtro-1-25-lt_93316",
 "Brocca con scala Graduata 1l|Pratico contenitore dosatore con scala misuratrice sui lati per:|2017/12/brocca-con-scala-graduata-1l|data.oliviero.it/imgprodotto/brocca-con-scala-graduata-1l-630408_157792",
 "Dischi decorativi per Cappuccio linea Mydrink|Quale occasione migliore di un buon cappuccino decorato, per stupire|2017/12/dischi-decorativi-per-cappuccio-linea-mydrink|data.oliviero.it/imgprodotto/dischi-decorativi-per-cappuccio-linea-mydrink_90689",
 "Acetiera 500 ml|Ecco un'acetiera perfetta per cucina o per la tavola informale: ha il|2017/12/acetiera-500-ml|data.oliviero.it/imgprodotto/acetiera-500-ml_90725",

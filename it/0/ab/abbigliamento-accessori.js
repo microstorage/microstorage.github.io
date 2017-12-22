@@ -1,4 +1,10 @@
 Gr = [
+"Trolley 234810 Medio|DELSEY - LIMITED EDITION Valigia morbida, con struttura in|2017/12/trolley-234810-medio|data.oliviero.it/imgprodotto/trolley-234810-medio_62929",
+"Trolley Maxi Round Sunflowers|Per chi ancora non lo conoscesse, questo è Maxi Trolley Round: un|2017/12/trolley-maxi-round-sunflowers|data.oliviero.it/imgprodotto/trolley-maxi-round-sunflowers_166145",
+"Zainetto per il Pranzo Owl|Zainetto per l'asilo, morbido e con un capiente vano principale|2017/12/zainetto-per-il-pranzo-owl|data.oliviero.it/imgprodotto/zainetto-per-il-pranzo-owl-skip-hop_140399",
+"Zaino Voyage Mountain Blue|Zaino Chiusura a zip bidirezionale Tasca esterna con chiusura a zip|2017/12/zaino-voyage-mountain-blue|data.oliviero.it/imgprodotto/zaino-voyage-mountain-blue_169128",
+"Cuscino da Viaggio TN 2016 Grigio|L'oggetto indispensabile per i vostri viaggi: questo cuscino da|2017/12/cuscino-da-viaggio-tn-2016-grigio|data.oliviero.it/imgprodotto/cuscino-da-viaggio-tn-2016-grigio-003940262_160634",
+"Cappellino Classic Climalite|Collezione Autunno Inverno/2018 Indossa questo cappellino in tessuto|2017/12/cappellino-classic-climalite|data.oliviero.it/imgprodotto/cappellino-classic-climalite_167586",
 "Cappello Verde|Collezione Autunno Inverno/2018 Beanie basic Lavorazione a maglia|2017/12/cappello-verde|data.oliviero.it/imgprodotto/cappello-verde_169211",
 "Borsa Rigida Nero|Collezione Autunno Inverno/2018 Composizione: Esterno ecopelle|2017/12/borsa-rigida-nero|data.oliviero.it/imgprodotto/borsa-rigida-nero-a743514d-100_168738",
 "Zaino Triplicabile Bundle Girl|Moltiplica lo spazio e stai sempre al passo con le mode! Guarda che|2017/12/zaino-triplicabile-bundle-girl|data.oliviero.it/imgprodotto/zaino-triplicabile-bundle-girl_166114",

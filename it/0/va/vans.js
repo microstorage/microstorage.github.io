@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Authentic|Utilizzo: Calzatura Moda donna Tomaia: Tessuto Battistrada: Gomma|2017/12/scarpe-authentic|data.oliviero.it/imgprodotto/scarpe-authentic-zukfgz_124989",
 "Scarpe Camden Stripe Nero W|Le originali Vans ora diventate un modello icona di stile, hanno una|2017/12/scarpe-camden-stripe-nero-w|data.oliviero.it/imgprodotto/scarpe-camden-stripe-nero-w-zso186_162478",
 "Scarpe Chapman Stripe|Sneakers uomo Vans, dallo stile tradizionale, in tela con la suola in|2017/12/scarpe-chapman-stripe|data.oliviero.it/imgprodotto/scarpe-chapman-stripe-vn0003d7k6s_153559",
 "Scarpe Winston|Utilizzo: Calzatura Moda Sport uomo Tomaia: tessuto Battistrada:|2017/12/scarpe-winston|data.oliviero.it/imgprodotto/scarpe-winston-vn0004mhiln_153557",

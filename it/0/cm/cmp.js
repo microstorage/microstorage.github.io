@@ -1,4 +1,6 @@
 Gr = [
+"Pile Uomo Nero|Collezione Autunno Invero/2018 CMP Uomo Pullover in pile si in pile|2017/12/pile-uomo-nero|data.oliviero.it/imgprodotto/pile-uomo-nero_169280",
+"Salopette Sci da Uomo Nero|Collezione Autunno Inverno/2018 Pantalone salopette neve CMP nero|2017/12/salopette-sci-da-uomo-nero|data.oliviero.it/imgprodotto/salopette-sci-da-uomo-nero_169260",
 "Giacca Pile Donna Grigio|Collezione Autunno Inverno/2018 Le Taglie sono espresse in misure|2017/12/giacca-pile-donna-grigio|data.oliviero.it/imgprodotto/giacca-pile-donna-grigio_169227",
 "Scarpone Trekking Rigel Mid|Scarpone da trekking adatto a tutte le superfici, sia bagnate che|2017/12/scarpone-trekking-rigel-mid|data.oliviero.it/imgprodotto/scarpone-trekking-rigel-mid-3q12947-516q_164284",
 "Sandalo Donna Aquarii Ice|AQUARII è il sandalo sportivo da hiking pensato per le lunghe|2017/12/sandalo-donna-aquarii-ice|data.oliviero.it/imgprodotto/sandalo-donna-aquarii-ice_165429",

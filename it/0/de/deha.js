@@ -1,4 +1,5 @@
 Gr = [
+"Felpa Donna Marrone|Collezione Autunno Inverno/2018 felpa larga con collo alto foderato|2017/12/felpa-donna-marrone|data.oliviero.it/imgprodotto/felpa-donna-marrone_170366",
 "Felpa in Ciniglia Donna Nero|Collezione Autunno Inverno/2018 ruche lungo la zip impreziosita da|2017/12/felpa-in-ciniglia-donna-nero|data.oliviero.it/imgprodotto/felpa-in-ciniglia-donna-nero_170353",
 "Pantaloni Sportivi Donna Grigio|Collezione Autunno Inverno/2018 polsi e cintura in costina regolabile|2017/12/pantaloni-sportivi-donna-grigio|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-grigio_170407",
 "Felpa Lunga Donna Dark Grey Melange|Collezione Autunno Inverno/2018 giacca lunga con zip e collo alto|2017/12/felpa-lunga-donna-dark-grey-melange|data.oliviero.it/imgprodotto/felpa-lunga-donna-dark-grey-melange_170348",

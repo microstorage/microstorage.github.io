@@ -1,4 +1,10 @@
 Gr = [
+"Maglia Lingerie LS4DAA 00460|Collezione Twin Set Lingerie Maglia da donna con scollo a V, maniche|2017/12/maglia-lingerie-ls4daa-00460|data.oliviero.it/imgprodotto/maglia-lingerie-ls4daa-00460_146570",
+"Gonna Lingerie LS4LAA 00006|Collezione Lingerie Twin Set Gonna lingerie da donna con elastico in|2017/12/gonna-lingerie-ls4laa-00006|data.oliviero.it/imgprodotto/gonna-lingerie-ls4laa-00006_146788",
+"Cardigan donna T3S4GN 00054|Cardigan da donna con allacciatura frontale tramite bottoni classici|2017/12/cardigan-donna-t3s4gn-00054|data.oliviero.it/imgprodotto/cardigan-donna-t3s4gn-00054_146600",
+"Canotta J2S4PA 00252|Collezione Twin set Jeans Canotta da donna con spalline regolari|2017/12/canotta-j2s4pa-00252|data.oliviero.it/imgprodotto/canotta-j2s4pa-00252_146536",
+"Jeans donna J2S4ZF 00435|Collezione Twin Set Jeans Jeans Boyfriend da donna dalla vestibilità|2017/12/jeans-donna-j2s4zf-00435|data.oliviero.it/imgprodotto/jeans-donna-j2s4zf-00435_146919",
+"Maglia donna T3S4EA 00454|Maglia da donna con mezze maniche e tessuto lavorato effetto pizzo|2017/12/maglia-donna-t3s4ea-00454|data.oliviero.it/imgprodotto/maglia-donna-t3s4ea-00454_146552",
 "Pantaloni donna Casual J2S43Q 00001|Collezione Twin Set Jeans Pantaloni casual da donna. Il modello|2017/12/pantaloni-donna-casual-j2s43q-00001|data.oliviero.it/imgprodotto/pantaloni-donna-casual-j2s43q-00001_146939",
 "Jeans donna J2S4ZE 00435|Collezione Twin Set Jeans Jeans Skinny da donna dalla vestibilità|2017/12/jeans-donna-j2s4ze-00435|data.oliviero.it/imgprodotto/jeans-donna-j2s4ze-00435_146934",
 "Jeans donna J2S43N 001451|Collezione Twin Set jeans Jeans da donna dalla vestibilità slim,|2017/12/jeans-donna-j2s43n-001451|data.oliviero.it/imgprodotto/jeans-donna-j2s43n-001451_147056",

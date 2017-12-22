@@ -1,4 +1,7 @@
 Gr = [
+"Scarpe Running Wave Prophecy 5|La nuova versione presenta un design aggiornato con uno stile più|2017/12/scarpe-running-wave-prophecy-5|data.oliviero.it/imgprodotto/scarpe-running-wave-prophecy-5-j1gc160003_151165",
+"Scarpe Running Paradox 3|Le scarpe running Mizuno Wave Paradox 3 studiate appositamente per|2017/12/scarpe-running-paradox-3|data.oliviero.it/imgprodotto/scarpe-running-paradox-3-j1gc161203_162457",
+"Scarpe Running Wave Ultima 9|Le WAVE ULTIMA 9 sono scarpe da allenamento stabili, ammortizzanti|2017/12/scarpe-running-wave-ultima-9|data.oliviero.it/imgprodotto/scarpe-running-wave-ultima-9_165908",
 "Scarpe Running Wave Prophecy 6|Corri leggero, corri più lontano, corri reattivo.Ottima flessibilità|2017/12/scarpe-running-wave-prophecy-6|data.oliviero.it/imgprodotto/scarpe-running-wave-prophecy-6_165888",
 "Scarpe Running Synchro MX2|La nostra nuova scarpa da allenamento costruita con la tecnologia|2017/12/scarpe-running-synchro-mx2|data.oliviero.it/imgprodotto/scarpe-running-synchro-mx2_165904",
 "Scarpe Running Wave Ultima 8 W|Mizuno Wave Ultima 8 è la scarpa da running neutra, ammortizzata|2017/12/scarpe-running-wave-ultima-8-w|data.oliviero.it/imgprodotto/scarpe-running-wave-ultima-8-w-j1gd160902_152441",

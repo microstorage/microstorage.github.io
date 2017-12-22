@@ -1,4 +1,5 @@
 Gr = [
+"Scarponi Sci Next Edge 65 W|Il leggero Next Edge 65 W vanta valore senza pari per quanto riguarda|2017/12/scarponi-sci-next-edge-65-w|data.oliviero.it/imgprodotto/scarponi-sci-next-edge-65-w_156519",
 "Scarponi Sci Advant Edge 95|Sciate di precisione con il minimo sforzo e fatica: questo è Advant|2017/12/scarponi-sci-advant-edge-95|data.oliviero.it/imgprodotto/scarponi-sci-advant-edge-95_156517",
 "Scarponi Sci NXT N4 W|NXT N4 W di Nordica è facile da calzare, completamente regolabile|2017/12/scarponi-sci-nxt-n4-w|data.oliviero.it/imgprodotto/scarponi-sci-nxt-n4-w_140325",
 "Scarponi Sci Vector Evo 120|Lo scarpone alpine versatile Vector Evo 120, destinato agli sciatori|2017/12/scarponi-sci-vector-evo-120|data.oliviero.it/imgprodotto/scarponi-sci-vector-evo-120_156520",

@@ -1,4 +1,6 @@
 Gr = [
+"Racchetta Beach Tennis Black Death|Collezione Primavera Estate La punta di Diamante della collezione|2017/12/racchetta-beach-tennis-black-death|data.oliviero.it/imgprodotto/racchetta-beach-tennis-black-death-btt1720l_164736",
+"Racchette Beach Tennis Brazil|Racchetta Beach Tennis Marca: VISION Modello: RACCHETTA BEACH TENNIS|2017/12/racchette-beach-tennis-brazil|data.oliviero.it/imgprodotto/racchette-beach-tennis-brazil_164428",
 "Racchetta Beach Tennis Pro Kappa|Collezione Primavera Estate Dopo l'enorme successo riscosso nelle|2017/12/racchetta-beach-tennis-pro-kappa|data.oliviero.it/imgprodotto/racchetta-beach-tennis-pro-kappa-btt1717_164739",
 "Racchetta Beach Tennis Strange|Racchetta Beach Tennis Marca: VISION Modello: RACCHETTA BEACH TENNIS|2017/12/racchetta-beach-tennis-strange|data.oliviero.it/imgprodotto/racchetta-beach-tennis-strange_164432",
 "Racchetta Beach Tennis Top Carbon|Racchetta Beach Tennis Marca: VISION Modello: RACCHETTA BEACH TENNIS|2017/12/racchetta-beach-tennis-top-carbon|data.oliviero.it/imgprodotto/racchetta-beach-tennis-top-carbon_164434",

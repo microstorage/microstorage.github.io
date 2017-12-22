@@ -1,4 +1,7 @@
 Gr = [
+"Guantoni da Allenamento Boxe 10 oz|I Guantoni Leone Fight GN052 uniscono qualità, un look moderno e un|2017/12/guantoni-da-allenamento-boxe-10-oz|data.oliviero.it/imgprodotto/guantoni-da-allenamento-boxe-10-oz_169631",
+"Guanti Boxe Ska 10oz|Ad arricchire la limited edition 'Art and Gloves' arriva il GN099|2017/12/guanti-boxe-ska-10oz|data.oliviero.it/imgprodotto/guanti-boxe-ska-10oz_171406",
+"Guantoni Boxe 140z|'Black' come l'oscurità delle tenebre, 'Whitè come la luce che|2017/12/guantoni-boxe-140z|data.oliviero.it/imgprodotto/guantoni-boxe-140z_169638",
 "Guanti Fit Karate|Questi guanti sono ideali per la fitness boxe e il karate|2017/12/guanti-fit-karate|data.oliviero.it/imgprodotto/guanti-fit-karate_169632",
 "Shorts Tech Nero e Giallo|Pantaloncino in poliestere INTERLOCK. Confortevole e leggero, grazie|2017/12/shorts-tech-nero-e-giallo|data.oliviero.it/imgprodotto/shorts-tech-nero-e-giallo_171408",
 "Guanto Muay Thai 10oz|Costituiscono la scelta ideale per tutti coloro che praticano la muay|2017/12/guanto-muay-thai-10oz|data.oliviero.it/imgprodotto/guanto-muay-thai-10oz_171399",

@@ -1,4 +1,8 @@
 Gr = [
+"Maglia donna O14010 J7123 03G64|Collezione Liu Jo Jeans Maglia da donna con ampio scollo, maniche|2017/12/maglia-donna-o14010-j7123-03g64|data.oliviero.it/imgprodotto/maglia-donna-o14010-j7123-03g64_146704",
+"Cardigan donna T3S4GN 00054|Cardigan da donna con allacciatura frontale tramite bottoni classici|2017/12/cardigan-donna-t3s4gn-00054|data.oliviero.it/imgprodotto/cardigan-donna-t3s4gn-00054_146600",
+"Maglia donna C15085 MA32A|Maglia da donna in tessuto argentato con allaciatura tramite bottoni|2017/12/maglia-donna-c15085-ma32a|data.oliviero.it/imgprodotto/maglia-donna-c15085-ma32a_146496",
+"Maglia donna T3S4EA 00454|Maglia da donna con mezze maniche e tessuto lavorato effetto pizzo|2017/12/maglia-donna-t3s4ea-00454|data.oliviero.it/imgprodotto/maglia-donna-t3s4ea-00454_146552",
 "Maglia donna W15045 MA758|Collezione Liu Jo Jeans Maglia da donna con girocollo e maniche|2017/12/maglia-donna-w15045-ma758|data.oliviero.it/imgprodotto/maglia-donna-w15045-ma758_146477",
 "Maglia Uomo Grigio|Collezione Autunno Inverno/2018 Aggiungi un tocco di comfort al tuo|2017/12/maglia-uomo-grigio|data.oliviero.it/imgprodotto/maglia-uomo-grigio_171043",
 "Maglia Half Zip Grey Melange|Collezione Autunno Inverno/2018 Il nuovo pullover in maglia grossa|2017/12/maglia-half-zip-grey-melange|data.oliviero.it/imgprodotto/maglia-half-zip-grey-melange_170580",

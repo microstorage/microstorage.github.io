@@ -1,4 +1,5 @@
 Gr = [
+"Telo Bagno spugna|Asciugamano viso ospite Spugna della linea basic, morbido e adatto ad|2017/12/telo-bagno-spugna|data.oliviero.it/imgprodotto/telo-bagno-spugna_153943",
 "Asciugamano viso spugna|Asciugamano viso ospite Spugna della linea basic, morbido e adatto ad|2017/12/asciugamano-viso-spugna|data.oliviero.it/imgprodotto/asciugamano-viso-spugna_172928",
 "4 Ganci appendiabiti|Gancio Appendiabiti Per Porta Furbo Realizzato In Plastica|2017/12/4-ganci-appendiabiti|data.oliviero.it/imgprodotto/4-ganci-appendiabiti_169920",
 "Tappetino Insonorizzante 200X100|Tappetino protettivo insonorizzante, massimo assorbimento dei rumori|2017/08/tappetino-insonorizzante-200x100|data.oliviero.it/imgprodotto/tappetino-insonorizzante-200x100_75806",

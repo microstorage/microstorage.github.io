@@ -1,4 +1,7 @@
 Gr = [
+"Tavolo Ping Pong Axos Indoor 1|Ping Pong - AXOS INDOOR 1 Articolo No.: 07046-900 Caratteristiche|2017/12/tavolo-ping-pong-axos-indoor-1|data.oliviero.it/imgprodotto/tavolo-ping-pong-axos-indoor-1_110095",
+"Cyclette Golf C4|KETTLER GOLF C4 Computer LCD alta risoluzione multi informazione con|2017/12/cyclette-golf-c4|data.oliviero.it/imgprodotto/cyclette-golf-c4_158003",
+"Cyclette Ergo C10|Un vero ergometro con 2 modalità di utilizzo: modalità AUTO (rpm|2017/12/cyclette-ergo-c10|data.oliviero.it/imgprodotto/cyclette-ergo-c10_158044",
 "Panca Addominali Universal Bench|UNIVERSAL 07629-800 Robusta panca piana/inclinabile deale per|2017/12/panca-addominali-universal-bench|data.oliviero.it/imgprodotto/panca-addominali-universal-bench_130328",
 "Cyclette Ergo C8|KETTLER ERGO C8 Un vero ergometro con 2 modalità di utilizzo:|2017/12/cyclette-ergo-c8|data.oliviero.it/imgprodotto/cyclette-ergo-c8_158043",
 "Cyclette Giro S1 Black|Computer LDC multi informazione, facile da usare con una|2017/12/cyclette-giro-s1-black|data.oliviero.it/imgprodotto/cyclette-giro-s1-black_157977",

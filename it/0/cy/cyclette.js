@@ -1,4 +1,9 @@
 Gr = [
+"Cyclette Ergometer AM-E B|L'ergometro Bike AM-E è una cyclette attraente, ergonomica, dall'alto|2017/12/cyclette-ergometer-am-e-b|data.oliviero.it/imgprodotto/cyclette-ergometer-am-e-b_109704",
+"Cyclette Golf C4|KETTLER GOLF C4 Computer LCD alta risoluzione multi informazione con|2017/12/cyclette-golf-c4|data.oliviero.it/imgprodotto/cyclette-golf-c4_158003",
+"Cyclette Ergo C10|Un vero ergometro con 2 modalità di utilizzo: modalità AUTO (rpm|2017/12/cyclette-ergo-c10|data.oliviero.it/imgprodotto/cyclette-ergo-c10_158044",
+"Cyclette Diamond D70|Cyclette Diamond D70 Sistema Frenante Elettromagnetico potenza max|2017/12/cyclette-diamond-d70|data.oliviero.it/imgprodotto/cyclette-diamond-d70_143431",
+"Cyclette MF604|Caratteristiche Sistema frenante magnetico Regolazione freno|2017/12/cyclette-mf604|data.oliviero.it/imgprodotto/cyclette-mf604_165475",
 "Cyclette Ergo C8|KETTLER ERGO C8 Un vero ergometro con 2 modalità di utilizzo:|2017/12/cyclette-ergo-c8|data.oliviero.it/imgprodotto/cyclette-ergo-c8_158043",
 "Cyclette Giro S1 Black|Computer LDC multi informazione, facile da usare con una|2017/12/cyclette-giro-s1-black|data.oliviero.it/imgprodotto/cyclette-giro-s1-black_157977",
 "Cyclette Ride 251|Ride 251 della Get Fit, la bici da camera perfetta per mantenerti in|2017/12/cyclette-ride-251|data.oliviero.it/imgprodotto/cyclette-ride-251_172797",

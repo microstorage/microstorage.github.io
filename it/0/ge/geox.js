@@ -1,4 +1,9 @@
 Gr = [
+"Scarpe Uomo Symbol Nero|Collezione Autunno Inverno/2018 Versatili e confortevoli, dal design|2017/12/scarpe-uomo-symbol-nero|data.oliviero.it/imgprodotto/scarpe-uomo-symbol-nero_168859",
+"Piumino Uomo Phantom|Collezione Autunno Inverno/2018 Una struttura a microcelle permette|2017/12/piumino-uomo-phantom|data.oliviero.it/imgprodotto/piumino-uomo-phantom_169292",
+"Giubbotto Uomo Light Stone|Collezione Primaver Estate Giubbotto da uomo ideale per la stagione|2017/12/giubbotto-uomo-light-stone|data.oliviero.it/imgprodotto/giubbotto-uomo-light-stone-m7221v-f1138_158449",
+"Scarpe Donna Taupe Nebula D621EC C6738|Collezione Primavera Estate Superleggera, ultra traspirante, extra|2017/12/scarpe-donna-taupe-nebula-d621ec-c6738|data.oliviero.it/imgprodotto/scarpe-donna-taupe-nebula-d621ec-c6738_158414",
+"Sandalo Bambino Blu Kaytan|Collezione Primavera Estate Per accompagnare il tuo bimbo per i suoi|2017/12/sandalo-bambino-blu-kaytan|data.oliviero.it/imgprodotto/sandalo-bambino-blu-kaytan-b6250a-c4211_162355",
 "Stivaletti Uomo Uvet Mud|Collezione Autunno Inverno/2018 Stivaletti da uomo Tomaia in pelle|2017/12/stivaletti-uomo-uvet-mud|data.oliviero.it/imgprodotto/stivaletti-uomo-uvet-mud_168865",
 "Piumino Donna Ash|Collezione Autunno Inverno/2018 Piumino da donna con zip frontale|2017/12/piumino-donna-ash|data.oliviero.it/imgprodotto/piumino-donna-ash_169356",
 "Sandalo Donna Audie Bianco e Nero|Collezione Primavera Estate Sandalo da donna con tomaia in pelle|2017/12/sandalo-donna-audie-bianco-e-nero|data.oliviero.it/imgprodotto/sandalo-donna-audie-bianco-e-nero_165236",

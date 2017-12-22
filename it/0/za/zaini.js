@@ -1,4 +1,7 @@
 Gr = [
+"Trolley Maxi Round Sunflowers|Per chi ancora non lo conoscesse, questo è Maxi Trolley Round: un|2017/12/trolley-maxi-round-sunflowers|data.oliviero.it/imgprodotto/trolley-maxi-round-sunflowers_166145",
+"Zainetto per il Pranzo Owl|Zainetto per l'asilo, morbido e con un capiente vano principale|2017/12/zainetto-per-il-pranzo-owl|data.oliviero.it/imgprodotto/zainetto-per-il-pranzo-owl-skip-hop_140399",
+"Zaino Voyage Mountain Blue|Zaino Chiusura a zip bidirezionale Tasca esterna con chiusura a zip|2017/12/zaino-voyage-mountain-blue|data.oliviero.it/imgprodotto/zaino-voyage-mountain-blue_169128",
 "Zaino Triplicabile Bundle Girl|Moltiplica lo spazio e stai sempre al passo con le mode! Guarda che|2017/12/zaino-triplicabile-bundle-girl|data.oliviero.it/imgprodotto/zaino-triplicabile-bundle-girl_166114",
 "Zaino Trekking Walk 30|Caratteristiche Capacità: litri 30 Materiale: kodratex 200D diamond|2017/12/zaino-trekking-walk-30|data.oliviero.it/imgprodotto/zaino-trekking-walk-30-zai020_164382",
 "Zainetto Monkey|Zainetto da asilo ideale per contenere tutto il necessario per una|2017/12/zainetto-monkey|data.oliviero.it/imgprodotto/zainetto-monkey-skip-hop_140409",

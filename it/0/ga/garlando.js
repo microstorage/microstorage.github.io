@@ -1,4 +1,11 @@
 Gr = [
+"Calcio balilla Exclusive|Di grande raffinatezza, ha un'apparenza allo stesso tempo classica|2017/12/calcio-balilla-exclusive|data.oliviero.it/imgprodotto/calcio-balilla-exclusive_150032",
+"Racchetta Ping Pong Storm|Racchetta Storm (2 stelle +) approvata ITTF Caratteristiche tecniche:|2017/12/racchetta-ping-pong-storm|data.oliviero.it/imgprodotto/racchetta-ping-pong-storm_83286",
+"Calcio balilla Foldy|Calciobalilla salvaspazio, Foldy è dotato di pratiche gambe|2017/12/calcio-balilla-foldy|data.oliviero.it/imgprodotto/calcio-balilla-foldy_151895",
+"Biliardo Alexandra 6 Mdf|Alexandra è l'ultima creazione Garlando in fatto di biliardi per la|2017/12/biliardo-alexandra-6-mdf|data.oliviero.it/imgprodotto/biliardo-alexandra-6-mdf_48873_big",
+"Tavolo Ping Pong Advance Indoor Verde|Modello per interno, pieghevole, con piano gioco verde o blu, con|2017/12/tavolo-ping-pong-advance-indoor-verde|data.oliviero.it/imgprodotto/tavolo-ping-pong-advance-indoor-verde_83065",
+"Calcio balilla F-Mini|Calciobalilla da tavolo per piccoli giocatori Calciobalilla da tavolo|2017/12/calcio-balilla-f-mini|data.oliviero.it/imgprodotto/calcio-balilla-f-mini_147220",
+"Ping Pong Garden Outdoor Blu|Disponibile con piano gioco in colore blu, è un tavolo da ping pong|2017/12/ping-pong-garden-outdoor-blu|data.oliviero.it/imgprodotto/ping-pong-garden-outdoor-blu_83110",
 "Tavolo Ping Pong Advance Indoor Blu|Modello per interno, pieghevole, con piano gioco verde o blu, con|2017/12/tavolo-ping-pong-advance-indoor-blu|data.oliviero.it/imgprodotto/tavolo-ping-pong-advance-indoor-blu_83058",
 "Calcio balilla Champion Victoria|Calcio balilla esclusiva di Oliviero.it - Prodotto in Italia Il nuovo|2017/12/calcio-balilla-champion-victoria|data.oliviero.it/imgprodotto/calcio-balilla-champion-victoria_164476",
 "Canestro Detroit|Detroit è il tabellone da basket con colonna con altezza regolabile|2017/12/canestro-detroit|data.oliviero.it/imgprodotto/canestro-detroit_1755_big",

@@ -1,4 +1,7 @@
 Gr = [
+"T-Shirt Running Donna Blu Response Q1 Graphic Tee|Collezione Primavera Estate Caratterizzata da un stampa allover sulla|2017/12/t-shirt-running-donna-blu-response-q1-graphic-tee|data.oliviero.it/imgprodotto/t-shirt-running-donna-blu-response-q1-graphic-tee-az2858_159343",
+"T-Shirt Techfit Base Uomo|L'attività fisica migliora la salute e ti fa sentire più forte|2017/12/t-shirt-techfit-base-uomo|data.oliviero.it/imgprodotto/t-shirt-techfit-base-uomo_167006",
+"Canotta Running Uomo Royal Nike Pro|La maglia Nike Pro - Compression Sleeveless - Uomo è progettata con|2017/12/canotta-running-uomo-royal-nike-pro|data.oliviero.it/imgprodotto/canotta-running-uomo-royal-nike-pro_167768",
 "Maglia Running Donna Grigio|Morbida e leggera, questa maglia da donna assicura protezione|2017/12/maglia-running-donna-grigio|data.oliviero.it/imgprodotto/maglia-running-donna-grigio_168331",
 "Felpa Running Donna Nero|Collezione Autunno Inverno/2018 La felpa da allenamento con cappuccio|2017/12/felpa-running-donna-nero|data.oliviero.it/imgprodotto/felpa-running-donna-nero_169447",
 "Giacca Running Donna Grigio|Collezione Autunno Inverno/2018 Giacca running donna, antivento|2017/12/giacca-running-donna-grigio|data.oliviero.it/imgprodotto/giacca-running-donna-grigio_169435",

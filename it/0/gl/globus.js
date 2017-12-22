@@ -1,4 +1,5 @@
 Gr = [
+"Elettrostimolatore My Stim 2 + kit 2012|La bellezza del corpo è l'espressione di uno stato di benessere e di|2017/12/elettrostimolatore-my-stim-2-+-kit-2012|data.oliviero.it/imgprodotto/elettrostimolatore-my-stim-2-kit-2012_71082",
 "Kit adattatori per elettrodi|Kit con 4 adattatori da 2 mm per elettrodi a clip. Gli adattatori|2017/12/kit-adattatori-per-elettrodi|data.oliviero.it/imgprodotto/kit-adattatori-per-elettrodi_544_big",
 "Elettrostimolatore Genesy 300 Pro|Globus, nota ed affidabile azienda nel campo della salute e del|2017/12/elettrostimolatore-genesy-300-pro|data.oliviero.it/imgprodotto/elettrostimolatore-genesy-300-pro_71074",
 "RF Clinic Pro Radiofrequenza|Globus, azienda italiana che da anni opera nel settore dell'estetica|2017/12/rf-clinic-pro-radiofrequenza|data.oliviero.it/imgprodotto/rf-clinic-pro-radiofrequenza_71099",

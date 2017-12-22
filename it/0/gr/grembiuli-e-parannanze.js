@@ -1,4 +1,5 @@
 Gr = [
+"Pettorina Riga Rossa|Pettorina unisex realizzata in 65% polyestere 35% cotone. Modello con|2017/12/pettorina-riga-rossa|data.oliviero.it/imgprodotto/pettorina-riga-rossa_1644_big",
 "Grembiule Madeira Zip|Colore : Grigio Composizione : tessuto 100% poliestere Dimensioni :|2017/12/grembiule-madeira-zip|data.oliviero.it/imgprodotto/grembiule-madeira-zip_24720_big",
 "Grembiule Pub Liverpool|Colore : Gessato nero Composizione : tessuto 100% poliestere|2017/12/grembiule-pub-liverpool|data.oliviero.it/imgprodotto/grembiule-pub-liverpool_1661_big",
 "Grembiule Bistrò Rosso|Colore : Rosso Composizione : tessuto 100% poliestere Dimensioni :|2017/12/grembiule-bistro-rosso|data.oliviero.it/imgprodotto/grembiule-bistro-rosso_1669_big",

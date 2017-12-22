@@ -1,4 +1,10 @@
 Gr = [
+"Trio combi tris 628|Trio combi tris con seduta reversibile fronte mamma e fronte strada|2017/12/trio-combi-tris-628|data.oliviero.it/imgprodotto/trio-combi-tris-628_159080",
+"Trio Book 51 Luxe Bluenight|Gli esclusivi sistemi modulari Peg Perego sono stati concepiti per|2017/12/trio-book-51-luxe-bluenight|data.oliviero.it/imgprodotto/trio-book-51-luxe-bluenight_159154",
+"Trio dinamico up orso 711|CARROZZINA: omologata per il trasporto in auto (0-10 kg), molto|2017/12/trio-dinamico-up-orso-711|data.oliviero.it/imgprodotto/trio-dinamico-up-orso-711_159059",
+"Trio fluido top 708 telaio bianco|CARROZZINA: omologata per il trasporto in auto (0-10 kg), molto|2017/12/trio-fluido-top-708-telaio-bianco|data.oliviero.it/imgprodotto/trio-fluido-top-708-telaio-bianco_171554",
+"Trio Fluido Easy 624|CARROZZINA: omologata per il trasporto in auto (0-10 kg), molto|2017/12/trio-fluido-easy-624|data.oliviero.it/imgprodotto/trio-fluido-easy-624_171579",
+"Trio classy tris 587|Il nuovo Trio Cam Linea Classy Tris, realizzato con struttura|2017/12/trio-classy-tris-587|data.oliviero.it/imgprodotto/trio-classy-tris-587_137295",
 "Trio dinamico up smart 685 telaio bianco|CARROZZINA: omologata per il trasporto in auto (0-10 kg), molto|2017/12/trio-dinamico-up-smart-685-telaio-bianco|data.oliviero.it/imgprodotto/trio-dinamico-up-smart-685-telaio-bianco_171531",
 "Trio Quad 2018 Rodeo Sand|La nuova collezione di Inglesina introduce un nuovo concetto di|2017/12/trio-quad-2018-rodeo-sand|data.oliviero.it/imgprodotto/trio-quad-2018-rodeo-sand_170212",
 "Trio fluido smart 651 telaio bianco|CARROZZINA: omologata per il trasporto in auto (0-10 kg), molto|2017/12/trio-fluido-smart-651-telaio-bianco|data.oliviero.it/imgprodotto/trio-fluido-smart-651-telaio-bianco_171542",

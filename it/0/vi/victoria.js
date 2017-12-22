@@ -1,4 +1,8 @@
 Gr = [
+"Gym Bike VIC8000|Gym Bike VIC8000, particolarmente adatto per uso domestico.Il|2017/12/gym-bike-vic8000|data.oliviero.it/imgprodotto/gym-bike-vic8000_169089",
+"Balance Board Regolabile|Balance Board: Diametro 41 cm. L'attrezzo ginnico ideale per|2017/12/balance-board-regolabile|data.oliviero.it/imgprodotto/balance-board-regolabile-w1352_158863",
+"Kit Bilanciere + Manubri + 52 kg Pesi|Pacchetto offerta composto da: Bilanciere 150 cm + Coppia di Manubri|2017/12/kit-bilanciere-+-manubri-+-52-kg-pesi|data.oliviero.it/imgprodotto/kit-bilanciere-manubri-52-kg-pesi_92915",
+"Disco ghisa 2Kg|Disco peso in ghisa verniciata. Unica colorazione nero come da|2017/12/disco-ghisa-2kg|data.oliviero.it/imgprodotto/disco-ghisa-2kg_145899",
 "Cilindro Foam Roll con PVC Core|I foam roller sono rotoli di gomma, liscia o levigata, sempre più|2017/12/cilindro-foam-roll-con-pvc-core|data.oliviero.it/imgprodotto/cilindro-foam-roll-con-pvc-core_158870",
 "Fascia elastica Strong|Fascia elastica con resistenza media per esercizi di gambe e braccia|2017/12/fascia-elastica-strong|data.oliviero.it/imgprodotto/fascia-elastica-strong_157965",
 "Kettlebells 10KG|Le Kettlebells sono sfere in ghisa con una maniglia fissa. Questi|2017/12/kettlebells-10kg|data.oliviero.it/imgprodotto/kettlebells-10kg_52231",

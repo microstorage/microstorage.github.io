@@ -1,4 +1,8 @@
 Gr = [
+"Scarpe Calcetto evoPower Vigor 4 TT Jr|Leggera e comoda è la nuova scarpa da bambino Puma. Formato da|2017/12/scarpe-calcetto-evopower-vigor-4-tt-jr|data.oliviero.it/imgprodotto/scarpe-calcetto-evopower-vigor-4-tt-jr-103974-01_163964",
+"Ribaltina Alza Rete Calcio|RIBALTINA ALZA RETE CALCIO in alluminio con cerniere in acciaio|2017/12/ribaltina-alza-rete-calcio|data.oliviero.it/imgprodotto/ribaltina-alza-rete-calcio_79429",
+"Porte Calcetto Acciaio Trasportabili 400x200|PORTE CALCETTO ACCIAIO TRASPORTABILI 400X200 In acciaio verniciato|2017/12/porte-calcetto-acciaio-trasportabili-400x200|data.oliviero.it/imgprodotto/porte-calcetto-acciaio-trasportabili-400x200_79471",
+"Scarpe Calcetto evoPower 4.3 TT|Le evoPOWER 4.3 per manto erboso sono delle scarpe da training per|2017/12/scarpe-calcetto-evopower-4-3-tt|data.oliviero.it/imgprodotto/scarpe-calcetto-evopower-4-3-tt-103588-03_152739",
 "Porte Calcetto Acciaio Trasportabili 500x200|PORTE CALCETTO ACCIAIO TRASPORTABILI 500X200 In acciaio verniciato|2017/12/porte-calcetto-acciaio-trasportabili-500x200|data.oliviero.it/imgprodotto/porte-calcetto-acciaio-trasportabili-500x200_79479",
 "Pro Rebounder 2x2 m|Pro Rebounder è l'unica rete da rimbalzo che permette ai giocatoridi|2017/12/pro-rebounder-2x2-m|data.oliviero.it/imgprodotto/pro-rebounder-2x2-m_170501",
 "Scarpe Calcetto 650 II TF|Scarpino da calcetto indicato per terreni duri e sintetici, la 650|2017/12/scarpe-calcetto-650-ii-tf|data.oliviero.it/imgprodotto/scarpe-calcetto-650-ii-tf-170906-c6023_152283",

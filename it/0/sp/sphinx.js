@@ -1,4 +1,7 @@
 Gr = [
+"Guanto PRO-FIGHT Kombat FHX 10 oz|Caratteristiche: PRO-FIGHT KOMBAT FHX Competition Fight Glove Genuine|2017/12/guanto-pro-fight-kombat-fhx-10-oz|data.oliviero.it/imgprodotto/guanto-pro-fight-kombat-fhx-10-oz_159692",
+"Guanto Ultimate Trainer IV|Caratteristiche: BUFFALO LEATHER pelle ultra morbida e liscia|2017/12/guanto-ultimate-trainer-iv|data.oliviero.it/imgprodotto/guanto-ultimate-trainer-iv_159696",
+"Guanto PRO-FIGHT Kombat FHX 8oz|Caratteristiche: PRO-FIGHT KOMBAT FHX Competition Fight Glove Genuine|2017/12/guanto-pro-fight-kombat-fhx-8oz|data.oliviero.it/imgprodotto/guanto-pro-fight-kombat-fhx-8oz_159695",
 "Paratibia PRO-AM neoprene-gel, PHOENIX II|Caratteristiche : SYNTEX TECH G3 e NEOPRENE LIGHT II, alta durata|2017/12/paratibia-pro-am-neoprene-gel-phoenix-ii|data.oliviero.it/imgprodotto/paratibia-pro-am-neoprene-gel-phoenix-ii_159724",
 "Guanti da passata veloce STRYKER|Caratteristiche : Guanti da passata veloce STRYKER SYNTEX TECH G3|2017/12/guanti-da-passata-veloce-stryker|data.oliviero.it/imgprodotto/guanti-da-passata-veloce-stryker_159684",
 "Calzari NAKAMURA|Caratteristiche : Calzare gara FULL-Kick COMPETITION SYNTEX FHX|2017/12/calzari-nakamura|data.oliviero.it/imgprodotto/calzari-nakamura_159675",

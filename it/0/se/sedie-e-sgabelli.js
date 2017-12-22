@@ -1,4 +1,7 @@
 Gr = [
+"2 sedie monaco|Sedia Da Interno / Esterno Monaco Realizzata In Policarbonato|2017/12/2-sedie-monaco|data.oliviero.it/imgprodotto/2-sedie-monaco_169990",
+"2 sgabelli kyra wood|Sgabello Kyra Wood Realizzato In Legno Massello Laccato Bianco Opaco|2017/12/2-sgabelli-kyra-wood|data.oliviero.it/imgprodotto/2-sgabelli-kyra-wood_169955",
+"2 sedie chiara black|Sedia Chiara Black Seduta Rivestita In Pelle Sintetica Nera Struttura|2017/12/2-sedie-chiara-black|data.oliviero.it/imgprodotto/2-sedie-chiara-black_169993",
 "Sgabello Quadro Rosso|Sgabello con base e struttura in acciaio cromato, seduta e schienale|2017/12/sgabello-quadro-rosso|data.oliviero.it/imgprodotto/sgabello-quadro-rosso_130777",
 "Coppia Sgabelli Tappo Red|sgabello bar TAPPO RED Elevazione con pistone a gas. Altezza|2017/12/coppia-sgabelli-tappo-red|data.oliviero.it/imgprodotto/coppia-sgabelli-tappo-red_147611",
 "4 Sedie Match White|Sedia Match White Sedia Impilabile Seduta Rivestita In Pelle|2017/12/4-sedie-match-white|data.oliviero.it/imgprodotto/4-sedie-match-white_170165",

@@ -1,4 +1,6 @@
 Gr = [
+"Giacca da Sci Donna Ancolie|Collezione Autunno Inverno/2018 Ancolie è la giacca sci donna della|2017/12/giacca-da-sci-donna-ancolie|data.oliviero.it/imgprodotto/giacca-da-sci-donna-ancolie_170452",
+"Maglia Termica Uomo Blu|Ideale da indossare durante l'attività sportiva, la maglia termica|2017/12/maglia-termica-uomo-blu|data.oliviero.it/imgprodotto/maglia-termica-uomo-blu-8333-7lo-65_171686",
 "Pile elasticizzato mezza zip Uomo Nero|Collezione Autunno Inverno/2018 Maglia termica uomo in pile|2017/12/pile-elasticizzato-mezza-zip-uomo-nero|data.oliviero.it/imgprodotto/pile-elasticizzato-mezza-zip-uomo-nero_171779",
 "Pantalone da Sci Donna Imbottito|Collezione Autunno Inverno/2018 Pantalone sci da donna imbottito in|2017/12/pantalone-da-sci-donna-imbottito|data.oliviero.it/imgprodotto/pantalone-da-sci-donna-imbottito_170470",
 "Pile Uomo effetto Melange Mezza Zip|Collezione Autunno Inverno/2018 Maglia termica uomo in pile effetto|2017/12/pile-uomo-effetto-melange-mezza-zip|data.oliviero.it/imgprodotto/pile-uomo-effetto-melange-mezza-zip_170475",

@@ -1,4 +1,5 @@
 Gr = [
+"Vogatore Oxfort 5|Il vogatore Oxford 5 ha una seduta larga e confortevole con guida di|2017/12/vogatore-oxfort-5|data.oliviero.it/imgprodotto/vogatore-oxfort-5_154159",
 "Ellittica Andes 5 New|Facile assemblaggio, chiusura in un solo movimento, design compatto|2017/12/ellittica-andes-5-new|data.oliviero.it/imgprodotto/ellittica-andes-5-new_139331",
 "Ellittica Syros|Se state cercando un allenamento total body, l'ellittica Syros vi|2017/12/ellittica-syros|data.oliviero.it/imgprodotto/ellittica-syros_154157",
 "Panca Addominale Adonis|La panca per esercizi Adonis della Horizon Fitness si adatta a tutte|2017/12/panca-addominale-adonis|data.oliviero.it/imgprodotto/panca-addominale-adonis_154163",

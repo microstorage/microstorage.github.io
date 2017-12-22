@@ -1,4 +1,7 @@
 Gr = [
+"Racchetta Tennis MX Spark Elite|Racchetta con piatto corde La racchetta tennis Spark elite di Head|2017/12/racchetta-tennis-mx-spark-elite|data.oliviero.it/imgprodotto/racchetta-tennis-mx-spark-elite_165485",
+"Maschera Sci Infinity FMR|La INFINITY FMR combina un look perfetto con il massimo della|2017/12/maschera-sci-infinity-fmr|data.oliviero.it/imgprodotto/maschera-sci-infinity-fmr_171335",
+"Scarponi Sci Next Edge 65 W|Il leggero Next Edge 65 W vanta valore senza pari per quanto riguarda|2017/12/scarponi-sci-next-edge-65-w|data.oliviero.it/imgprodotto/scarponi-sci-next-edge-65-w_156519",
 "Scarponi Sci Advant Edge 95|Sciate di precisione con il minimo sforzo e fatica: questo è Advant|2017/12/scarponi-sci-advant-edge-95|data.oliviero.it/imgprodotto/scarponi-sci-advant-edge-95_156517",
 "Scarponi Sci Vector Evo 120|Lo scarpone alpine versatile Vector Evo 120, destinato agli sciatori|2017/12/scarponi-sci-vector-evo-120|data.oliviero.it/imgprodotto/scarponi-sci-vector-evo-120_156520",
 "Casco Sci Avril Black|Questo modello è ideale per ragazze che vogliono andare alla grande!|2017/12/casco-sci-avril-black|data.oliviero.it/imgprodotto/casco-sci-avril-black-325214_93909",

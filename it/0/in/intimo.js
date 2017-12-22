@@ -1,4 +1,8 @@
 Gr = [
+"Boxer taglie forti 250 grigio|Boxer uomo taglie forti realizzato in 90% cotone e 10% elastan|2017/12/boxer-taglie-forti-250-grigio|data.oliviero.it/imgprodotto/boxer-taglie-forti-250-grigio_63509",
+"2 T-Shirt taglie forti uomo bianca|Confezione composta da 2 T-Shirt. Modello maglia realizzato per le|2017/12/2-t-shirt-taglie-forti-uomo-bianca|data.oliviero.it/imgprodotto/2-t-shirt-taglie-forti-uomo-bianca_10380_big",
+"Canotta taglie forti uomo nera XF550|Tipologia : Canotta intima Taglie Forti uomo Tessuto : 100% cotone|2017/12/canotta-taglie-forti-uomo-nera-xf550|data.oliviero.it/imgprodotto/canotta-taglie-forti-uomo-nera-xf550_57472",
+"Accappatoio taglie forti bluette OKEY|Accappatoio uomo ideato per taglie forti. Modello classico im pura|2017/12/accappatoio-taglie-forti-bluette-okey|data.oliviero.it/imgprodotto/accappatoio-taglie-forti-bluette-okey_23946_big",
 "2 Paia di Calzini|Confezione da due paia Bordi a coste con 3 strisce e Trifoglio Pianta|2017/12/2-paia-di-calzini|data.oliviero.it/imgprodotto/2-paia-di-calzini_167625",
 "Boxer taglie forti 100 nero|Boxer uomo taglie forti con bottone realizzato in cotone 100%|2017/12/boxer-taglie-forti-100-nero|data.oliviero.it/imgprodotto/boxer-taglie-forti-100-nero_63511",
 "Boxer 2pz Start Hipster|Tipologia: Confezione da 2 boxer uomo Tessuto: 96% cotone e 4%|2017/12/boxer-2pz-start-hipster|data.oliviero.it/imgprodotto/boxer-2pz-start-hipster_20481_big",

@@ -1,4 +1,5 @@
 Gr = [
+"Panca Multifunzione Force ST 1300|Caratteristiche: Pacco pesi: 68 kg (10 piastre da 15 libbre cad.)|2017/12/panca-multifunzione-force-st-1300|data.oliviero.it/imgprodotto/panca-multifunzione-force-st-1300_168722",
 "Power Tower PT40|Caratteristiche tecniche PULL UP BAR SI DIP STATION SI REGOLAZIONE IN|2017/12/power-tower-pt40|data.oliviero.it/imgprodotto/power-tower-pt40_171192",
 "Power Tower WBX 70|I power tower, o dip and chin up station, consentono di allenare la|2017/12/power-tower-wbx-70|data.oliviero.it/imgprodotto/power-tower-wbx-70_165249",
 "Panca Leverage Gym WT80|La panca Tunturi WT80 Leverage Gym è ideale per un allenamento|2017/12/panca-leverage-gym-wt80|data.oliviero.it/imgprodotto/panca-leverage-gym-wt80_171262",

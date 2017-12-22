@@ -1,4 +1,11 @@
 Gr = [
+"Astuccio 3 Zip SJ Boy|L'ASTUCCIO 3 ZIP SJ GANG è l'accessorio che non può mancare nel tuo|2017/12/astuccio-3-zip-sj-boy|data.oliviero.it/imgprodotto/astuccio-3-zip-sj-boy_166375",
+"Camicia Bambino Navy|Collezione Primavera Estate Camicia maniche lunghe da bambino. Il|2017/12/camicia-bambino-navy|data.oliviero.it/imgprodotto/camicia-bambino-navy-3s620_159250",
+"Grembiule Scuola Azzurro|Grembiule Scuola da bambino con due tasche anteriori, allacciatura|2017/12/grembiule-scuola-azzurro|data.oliviero.it/imgprodotto/grembiule-scuola-azzurro-33gr2901_166983",
+"Astuccio 3 Zip Colorful Boy|L'ASTUCCIO 3 ZIP Seven School è l'accessorio che non può mancare nel|2017/12/astuccio-3-zip-colorful-boy|data.oliviero.it/imgprodotto/astuccio-3-zip-colorful-boy_166321",
+"Sandalo Bambino Blu Kaytan|Collezione Primavera Estate Per accompagnare il tuo bimbo per i suoi|2017/12/sandalo-bambino-blu-kaytan|data.oliviero.it/imgprodotto/sandalo-bambino-blu-kaytan-b6250a-c4211_162355",
+"Zaino Sdoppiabile Sj Boy|ZAINO SDOPPIABILE SJ CON FLIP SYSTEM! Lo zaino che volta|2017/12/zaino-sdoppiabile-sj-boy|data.oliviero.it/imgprodotto/zaino-sdoppiabile-sj-boy_166217",
+"T-Shirt Jr. Bianco|Collezione Autunno Inverno/2018 Metti in mostra lo stile audace del|2017/12/t-shirt-jr-bianco|data.oliviero.it/imgprodotto/t-shirt-jr-bianco_167578",
 "Giacca Bambino Tortora|Collezione Primavera Estate Giacca casual da bambino ideale per le|2017/12/giacca-bambino-tortora|data.oliviero.it/imgprodotto/giacca-bambino-tortora-0s361_162146",
 "Grembiule Asilo Bambino Azzurro|Collezione Autunno Inverno/2018 Grembiule Asilo da bambino con|2017/12/grembiule-asilo-bambino-azzurro|data.oliviero.it/imgprodotto/grembiule-asilo-bambino-azzurro-33gr2855_166032",
 "Giubbotto Bambino Navy|Collezione Primavera Estate Giubbotto imbottito, termico da bambino|2017/12/giubbotto-bambino-navy|data.oliviero.it/imgprodotto/giubbotto-bambino-navy-4s282_159334",

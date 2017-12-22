@@ -1,4 +1,6 @@
 Gr = [
+"Mobiletto 5 Cassetti Blinky Bianco-Panna|Mobiletto struttura legno laccato completo di 5 cassetti in giunco|2017/12/mobiletto-5-cassetti-blinky-bianco-panna|data.oliviero.it/imgprodotto/mobiletto-5-cassetti-blinky-bianco-panna_68541",
+"Armadio Gigi e Lele|Ecco arrivare finalmente la colorata e simpatica linea Gigi e Lele|2017/12/armadio-gigi-e-lele|data.oliviero.it/imgprodotto/armadio-gigi-e-lele_5594_big",
 "Armadio Georgia bianco|L'Armadio Pali Georgia ha una struttura semplice composta da due ante|2017/12/armadio-georgia-bianco|data.oliviero.it/imgprodotto/armadio-georgia-bianco_147238",
 "Armadio Georgia tortora|L'Armadio Pali Georgia ha una struttura semplice composta da due ante|2017/12/armadio-georgia-tortora|data.oliviero.it/imgprodotto/armadio-georgia-tortora_147235",
 "Armadio Bonnie Bianco|L'Armadio Pali Bonnie ha una struttura semplice composta da due ante|2017/12/armadio-bonnie-bianco|data.oliviero.it/imgprodotto/armadio-bonnie-bianco_166174",

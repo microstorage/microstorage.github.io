@@ -1,4 +1,9 @@
 Gr = [
+"Skateboard Dollars and Diamonds 31,5\"|Skateboard Dollars and Diamonds Tavola: dt-4, pro shape, 31,5'x7,5'|2017/12/skateboard-dollars-and-diamonds-31-5|data.oliviero.it/imgprodotto/skateboard-dollars-and-diamonds-31-5_125120",
+"Longboard Calm Water 38\"|38\" Longboard \"Calm Water\" Serie California Dimensione: 38\" x 9,5\"|2017/12/longboard-calm-water-38|data.oliviero.it/imgprodotto/longboard-calm-water-38_125090",
+"Skateboard STREET PRO GRAFFITI NEW|Descrizione: Dimensioni tavola : 79x20 cm Materiale tavola|2017/12/skateboard-street-pro-graffiti-new|data.oliviero.it/imgprodotto/skateboard-street-pro-graffiti-new_162370",
+"Scarpe con Ruote|Tomaia in pelle sintetica con linguetta e collo imbottiti per un|2017/12/scarpe-con-ruote|data.oliviero.it/imgprodotto/scarpe-con-ruote-premium-1-lo_173202",
+"Skateboard Music Punk|Tavola perfetta per i principianti Piattaforma: 7.5 / 7.75 '' x 31 ''|2017/12/skateboard-music-punk|data.oliviero.it/imgprodotto/skateboard-music-punk_151098",
 "Skateboard FREEDOM tavola gialla|Descrizione: Dimensioni tavola : 57x15,2 cm Materiale tavola|2017/12/skateboard-freedom-tavola-gialla|data.oliviero.it/imgprodotto/skateboard-freedom-tavola-gialla-ruote-azzurre_162372",
 "Scarpe con Ruote Speed X2|Caratteristiche Tecniche : Le Heelys sono scarpe munite di ruote con|2017/12/scarpe-con-ruote-speed-x2|data.oliviero.it/imgprodotto/scarpe-con-ruote-speed-x2-770047k_153466",
 "Surfskate Birdless 29\"|Il Ventura 29″ riproduce fedelmente la sensazione di una tavola da|2017/12/surfskate-birdless-29|data.oliviero.it/imgprodotto/surfskate-birdless-29_165563",

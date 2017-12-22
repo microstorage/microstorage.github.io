@@ -1,4 +1,6 @@
 Gr = [
+"Piumino Uomo Phantom|Collezione Autunno Inverno/2018 Una struttura a microcelle permette|2017/12/piumino-uomo-phantom|data.oliviero.it/imgprodotto/piumino-uomo-phantom_169292",
+"Giubbotto Uomo Light Stone|Collezione Primaver Estate Giubbotto da uomo ideale per la stagione|2017/12/giubbotto-uomo-light-stone|data.oliviero.it/imgprodotto/giubbotto-uomo-light-stone-m7221v-f1138_158449",
 "Giubbotto Uomo Blu NV67014 001|Collezione Primavera Estate Giubbotto da uomo in tessuto Il modello|2017/12/giubbotto-uomo-blu-nv67014-001|data.oliviero.it/imgprodotto/giubbotto-uomo-blu-nv67014-001_158583",
 "Giubbino Uomo Verde|Collezione Autunno inverno/2018 Giacca trapuntata regular fit Tessuto|2017/12/giubbino-uomo-verde|data.oliviero.it/imgprodotto/giubbino-uomo-verde_169204",
 "Gilet In Tessuto Tecnico| Gilet di colore blu  Tessuto tecnico leggero, impermeabile|2017/12/gilet-in-tessuto-tecnico|data.oliviero.it/imgprodotto/gilet-in-tessuto-tecnico_117196",

@@ -1,4 +1,8 @@
 Gr = [
+"Jeans Taglie Forti Stone Wash|Collezione Primavera Estate Jeans Stretch da uomo taglie forti Il|2017/12/jeans-taglie-forti-stone-wash|data.oliviero.it/imgprodotto/jeans-taglie-forti-stone-wash_158598",
+"Jeans Uomo Larston Blax|Collezione Autunno Inverno/2018 Look pulito e alla moda per questi|2017/12/jeans-uomo-larston-blax|data.oliviero.it/imgprodotto/jeans-uomo-larston-blax_170499",
+"Jeans donna BY290306|Tipologia : Jeans donna Tessuto : 98% cotone 2% elastan|2017/12/jeans-donna-by290306|data.oliviero.it/imgprodotto/jeans-donna-by290306_73405",
+"Jeans donna J2S4ZF 00435|Collezione Twin Set Jeans Jeans Boyfriend da donna dalla vestibilità|2017/12/jeans-donna-j2s4zf-00435|data.oliviero.it/imgprodotto/jeans-donna-j2s4zf-00435_146919",
 "Jeans Arizona Bright Stroke|Collezione Autunno Inverno/2018 Jeans a gamba dritta in denim chiaro|2017/12/jeans-arizona-bright-stroke|data.oliviero.it/imgprodotto/jeans-arizona-bright-stroke_170529",
 "Jeans Donna 711 Skinny|I nostri esclusivi jeans \"Lot 700\" hanno un look sorprendente, in|2017/12/jeans-donna-711-skinny|data.oliviero.it/imgprodotto/jeans-donna-711-skinny_171161",
 "Jeans Skinny Uomo Grigio|- Jeans skinny a 5 tasche dal look virile - Look usurato naturale|2017/12/jeans-skinny-uomo-grigio|data.oliviero.it/imgprodotto/jeans-skinny-uomo-grigio_169192",

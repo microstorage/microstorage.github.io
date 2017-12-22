@@ -1,4 +1,8 @@
 Gr = [
+"Calcio balilla Exclusive|Di grande raffinatezza, ha un'apparenza allo stesso tempo classica|2017/12/calcio-balilla-exclusive|data.oliviero.it/imgprodotto/calcio-balilla-exclusive_150032",
+"Calcio balilla Foldy|Calciobalilla salvaspazio, Foldy è dotato di pratiche gambe|2017/12/calcio-balilla-foldy|data.oliviero.it/imgprodotto/calcio-balilla-foldy_151895",
+"Calcio balilla F-Mini|Calciobalilla da tavolo per piccoli giocatori Calciobalilla da tavolo|2017/12/calcio-balilla-f-mini|data.oliviero.it/imgprodotto/calcio-balilla-f-mini_147220",
+"Calcio Balilla Champion Evolution|Calcio Balilla Omologato FPICB MOBILE MULTISTRATO DI PIOPPO CON DUE|2017/12/calcio-balilla-champion-evolution|data.oliviero.it/imgprodotto/calcio-balilla-champion-evolution_147262",
 "Calcio balilla Champion Victoria|Calcio balilla esclusiva di Oliviero.it - Prodotto in Italia Il nuovo|2017/12/calcio-balilla-champion-victoria|data.oliviero.it/imgprodotto/calcio-balilla-champion-victoria_164476",
 "Calcio balilla G 100|Calciobalilla adatto a tutta la famiglia, compresi i più piccini:|2017/12/calcio-balilla-g-100|data.oliviero.it/imgprodotto/calcio-balilla-g-100_149994",
 "Calcio balilla New Camp Super Rosso e Verde|Calcio Baliila con Gettoniera MOBILE MULTISTRATO DI PIOPPO RIVESTITO|2017/12/calcio-balilla-new-camp-super-rosso-e-verde|data.oliviero.it/imgprodotto/calcio-balilla-new-camp-super-rosso-e-verde_147247",

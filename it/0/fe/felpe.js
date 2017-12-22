@@ -1,4 +1,8 @@
 Gr = [
+"Felpa Uomo Blu Melange|Collezione Autunno Inverno/2018 Felpa uomo taglie forti. Il modello|2017/12/felpa-uomo-blu-melange|data.oliviero.it/imgprodotto/felpa-uomo-blu-melange_167832",
+"Pile Taglie Forti Uomo bordeaux|Collezione Autunno Inverno/2018 Pile uomo taglie forti. Il modello|2017/12/pile-taglie-forti-uomo-bordeaux|data.oliviero.it/imgprodotto/pile-taglie-forti-uomo-bordeaux_171860",
+"Felpa Donna Marrone|Collezione Autunno Inverno/2018 felpa larga con collo alto foderato|2017/12/felpa-donna-marrone|data.oliviero.it/imgprodotto/felpa-donna-marrone_170366",
+"Gilet Sportivo Taglie Forti Uomo Grigio|Collezione Autunno Inverno/2018 Gilet sportivo da uomo. Il modello|2017/12/gilet-sportivo-taglie-forti-uomo-grigio|data.oliviero.it/imgprodotto/gilet-sportivo-taglie-forti-uomo-grigio_169308",
 "Giacca Pile Donna Grigio|Collezione Autunno Inverno/2018 Le Taglie sono espresse in misure|2017/12/giacca-pile-donna-grigio|data.oliviero.it/imgprodotto/giacca-pile-donna-grigio_169227",
 "Pile Taglie Forti Uomo Foresta|Collezione Autunno Inverno/2018 Pile uomo taglie Forti. Il modello|2017/12/pile-taglie-forti-uomo-foresta|data.oliviero.it/imgprodotto/pile-taglie-forti-uomo-foresta_172119",
 "Felpa Uomo Bluette|Collezione Autunno Inverno/2018 Felpa da uomo dal taglio casual|2017/12/felpa-uomo-bluette|data.oliviero.it/imgprodotto/felpa-uomo-bluette_169378",

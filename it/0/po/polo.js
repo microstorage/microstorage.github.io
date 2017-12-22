@@ -1,4 +1,5 @@
 Gr = [
+"Polo uomo blu classic navy manica corta|Una polo casual, raffinata, colore Navy Autografata da Agostini|2017/12/polo-uomo-blu-classic-navy-manica-corta|data.oliviero.it/imgprodotto/polo-uomo-blu-classic-navy-manica-corta_93393",
 "Polo Uomo Bluette|Collezione Primavera Estate Polo da uomo con mezze maniche. Il|2017/12/polo-uomo-bluette|data.oliviero.it/imgprodotto/polo-uomo-bluette-nv82002-238_164615",
 "Polo Taglie Forti Uomo Vinaccia|Collezione Autunno Inverno/2018 Polo maniche lunghe da uomo. Il|2017/12/polo-taglie-forti-uomo-vinaccia|data.oliviero.it/imgprodotto/polo-taglie-forti-uomo-vinaccia_169244",
 "Polo Taglie Forti Uomo Nero|Collezione Autunno Inverno/2018 Polo maniche lunghe da uomo. Il|2017/12/polo-taglie-forti-uomo-nero|data.oliviero.it/imgprodotto/polo-taglie-forti-uomo-nero-nv82003ad-020_153040",

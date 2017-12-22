@@ -1,4 +1,12 @@
 Gr = [
+"Sci Redster Doubledeck 3.0 GS + X 12 TL|Nell'Atomic Redster Doubledeck 3.0 GS abbiamo messo tutta la nostra|2017/12/sci-redster-doubledeck-3-0-gs-+-x-12-tl|data.oliviero.it/imgprodotto/sci-redster-doubledeck-3-0-gs-x-12-tl_156523",
+"Maschera Sci Infinity FMR|La INFINITY FMR combina un look perfetto con il massimo della|2017/12/maschera-sci-infinity-fmr|data.oliviero.it/imgprodotto/maschera-sci-infinity-fmr_171335",
+"Pile Uomo Nero|Collezione Autunno Invero/2018 CMP Uomo Pullover in pile si in pile|2017/12/pile-uomo-nero|data.oliviero.it/imgprodotto/pile-uomo-nero_169280",
+"Giacca da Sci Donna Ancolie|Collezione Autunno Inverno/2018 Ancolie è la giacca sci donna della|2017/12/giacca-da-sci-donna-ancolie|data.oliviero.it/imgprodotto/giacca-da-sci-donna-ancolie_170452",
+"Sci Backland FR 109 + Warden MNC 13|Lo sci Atomic Backland FR 109 è eccellente in alta montagna, con la|2017/12/sci-backland-fr-109-+-warden-mnc-13|data.oliviero.it/imgprodotto/sci-backland-fr-109-warden-mnc-13_156432",
+"Scarponi Sci Next Edge 65 W|Il leggero Next Edge 65 W vanta valore senza pari per quanto riguarda|2017/12/scarponi-sci-next-edge-65-w|data.oliviero.it/imgprodotto/scarponi-sci-next-edge-65-w_156519",
+"Maglia Termica Uomo Blu|Ideale da indossare durante l'attività sportiva, la maglia termica|2017/12/maglia-termica-uomo-blu|data.oliviero.it/imgprodotto/maglia-termica-uomo-blu-8333-7lo-65_171686",
+"Salopette Sci da Uomo Nero|Collezione Autunno Inverno/2018 Pantalone salopette neve CMP nero|2017/12/salopette-sci-da-uomo-nero|data.oliviero.it/imgprodotto/salopette-sci-da-uomo-nero_169260",
 "Scarponi Sci Advant Edge 95|Sciate di precisione con il minimo sforzo e fatica: questo è Advant|2017/12/scarponi-sci-advant-edge-95|data.oliviero.it/imgprodotto/scarponi-sci-advant-edge-95_156517",
 "Maschera Sci Big 40 LM|Attività: All mountain Modello: Big 40 FM Sesso: Unisex Lente:|2017/12/maschera-sci-big-40-lm|data.oliviero.it/imgprodotto/maschera-sci-big-40-lm_171350",
 "Snowboard Lotus + Attacchi Spell|Snowboard LotusTempo di fioriture La progressione di tutto ciò che la|2017/12/snowboard-lotus-+-attacchi-spell|data.oliviero.it/imgprodotto/snowboard-lotus-attacchi-spell_157542",

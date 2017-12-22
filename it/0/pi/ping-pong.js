@@ -1,4 +1,10 @@
 Gr = [
+"Tavolo Ping Pong 540 Competition ITTF Indoor|Il tavolo ping pong Cornilleau 540 indoor é indicato per un utilizzo|2017/12/tavolo-ping-pong-540-competition-ittf-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-540-competition-ittf-indoor_58075",
+"Tavolo Ping Pong Axos Indoor 1|Ping Pong - AXOS INDOOR 1 Articolo No.: 07046-900 Caratteristiche|2017/12/tavolo-ping-pong-axos-indoor-1|data.oliviero.it/imgprodotto/tavolo-ping-pong-axos-indoor-1_110095",
+"Tavolo Ping Pong T914 Super Gara Indoor|MODELLO: TAVOLO PING PONG 'SUPER GARA' Tavolo montato su ruote|2017/12/tavolo-ping-pong-t914-super-gara-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-t914-super-gara-indoor_6990_big",
+"Racchetta Ping Pong Storm|Racchetta Storm (2 stelle +) approvata ITTF Caratteristiche tecniche:|2017/12/racchetta-ping-pong-storm|data.oliviero.it/imgprodotto/racchetta-ping-pong-storm_83286",
+"Tavolo Ping Pong Advance Indoor Verde|Modello per interno, pieghevole, con piano gioco verde o blu, con|2017/12/tavolo-ping-pong-advance-indoor-verde|data.oliviero.it/imgprodotto/tavolo-ping-pong-advance-indoor-verde_83065",
+"Ping Pong Garden Outdoor Blu|Disponibile con piano gioco in colore blu, è un tavolo da ping pong|2017/12/ping-pong-garden-outdoor-blu|data.oliviero.it/imgprodotto/ping-pong-garden-outdoor-blu_83110",
 "Tavolo Ping Pong Advance Indoor Blu|Modello per interno, pieghevole, con piano gioco verde o blu, con|2017/12/tavolo-ping-pong-advance-indoor-blu|data.oliviero.it/imgprodotto/tavolo-ping-pong-advance-indoor-blu_83058",
 "Tavolo ping Pong Park da esterno|Tavolo da ping pong Park Outdoor Caratteristiche tecniche: Tavolo|2017/12/tavolo-ping-pong-park-da-esterno|data.oliviero.it/imgprodotto/tavolo-ping-pong-park-da-esterno_63316",
 "Tavolo Ping Pong T614 gara Indoor|Caratteristiche tecniche: Tavolo montato su ruote gemellari Ø 80 mm|2017/12/tavolo-ping-pong-t614-gara-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-t614-gara-indoor_478_big",

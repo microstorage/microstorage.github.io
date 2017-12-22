@@ -1,4 +1,6 @@
 Gr = [
+"Sacco Ovetto-Carrozzina Alex Blu|Il nuovissimo sacco termico per passeggino Alex garantirà protezione|2017/12/sacco-ovetto-carrozzina-alex-blu|data.oliviero.it/imgprodotto/sacco-ovetto-carrozzina-alex-blu_170129",
+"Sacco Ovetto-Carrozzina Mucky Cool Grey|Sacco Ovetto Mucky PICCI. Sacco imbottito studiato per i climi più|2017/12/sacco-ovetto-carrozzina-mucky-cool-grey|data.oliviero.it/imgprodotto/sacco-ovetto-carrozzina-mucky-cool-grey_172173",
 "Sacco Passeggino Alex Blu|Il nuovissimo sacco termico per passeggino Alex garantirà protezione|2017/12/sacco-passeggino-alex-blu|data.oliviero.it/imgprodotto/sacco-passeggino-alex-blu_170130",
 "Sacco Ovetto-Carrozzina Dauni Piuma D'Oca Blu|Dotato di passaggi per cinture di sicurezza, è adattabile a qualunque|2017/12/sacco-ovetto-carrozzina-dauni-piuma-d-oca-blu|data.oliviero.it/imgprodotto/sacco-ovetto-carrozzina-dauni-piuma-doca-blu_170113",
 "Sacco Passeggino New Mucky Denim|Nuovo sacco imbottito studiato per i climi più rigidi, cerniera|2017/12/sacco-passeggino-new-mucky-denim|data.oliviero.it/imgprodotto/sacco-passeggino-new-mucky-denim_172159",

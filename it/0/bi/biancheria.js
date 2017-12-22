@@ -1,4 +1,6 @@
 Gr = [
+"Telo Bagno spugna|Asciugamano viso ospite Spugna della linea basic, morbido e adatto ad|2017/12/telo-bagno-spugna|data.oliviero.it/imgprodotto/telo-bagno-spugna_153943",
+"Lenzuola Angoli Pantone Azalea Pink|Lenzuolo da sotto con angoli in puro cotone tinta unita, coordinabile|2017/12/lenzuola-angoli-pantone-azalea-pink|data.oliviero.it/imgprodotto/lenzuola-angoli-pantone-azalea-pink_115341",
 "Completo Copripiumino Alice in Wonderland|Completo copripiumino composto da sacco, lenzuolo con angoli e federa|2017/12/completo-copripiumino-alice-in-wonderland|data.oliviero.it/imgprodotto/completo-copripiumino-alice-in-wonderland_153924",
 "Lenzuola Piane Pantone Flame Orange|Lenzuolo da sopra in puro cotone tinta unita, coordinabile con tutti|2017/12/lenzuola-piane-pantone-flame-orange|data.oliviero.it/imgprodotto/lenzuola-piane-pantone-flame-orange_115314",
 "Completo Copripiumino Norvegia Antracite|Collezione Autunno Inverno/2018 Tessuto di puro cotone. Colore Vivo|2017/12/completo-copripiumino-norvegia-antracite|data.oliviero.it/imgprodotto/completo-copripiumino-norvegia-antracite_166688",

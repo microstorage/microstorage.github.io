@@ -1,4 +1,5 @@
 Gr = [
+"Tapis Roulant TFK 155 SLIM|TFK-155 SLIM DATI TECNICI Motore1,75/2,75 (Peak) HP DC Velocità0,8|2017/12/tapis-roulant-tfk-155-slim|data.oliviero.it/imgprodotto/tapis-roulant-tfk-155-slim_159768",
 "Pedaliera Welly S|Pedaliera Welly S prodotto indicato per esecizi per arti inferiori|2017/12/pedaliera-welly-s|data.oliviero.it/imgprodotto/pedaliera-welly-s_61947",
 "Cyclette BFK 500|PREZZO VALIDO SOLO ON-LINE DATI TECNICI BFK-500 Sistema di frenaggio|2017/12/cyclette-bfk-500|data.oliviero.it/imgprodotto/cyclette-bfk-500_84839",
 "Vogatore Rower Smart|DATI?TECNICI ROWER SMART Sistema di frenaggio pistone idraulico|2017/12/vogatore-rower-smart|data.oliviero.it/imgprodotto/vogatore-rower-smart_90122",

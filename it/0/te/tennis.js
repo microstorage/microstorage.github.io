@@ -1,4 +1,9 @@
 Gr = [
+"Racchetta Tennis MX Spark Elite|Racchetta con piatto corde La racchetta tennis Spark elite di Head|2017/12/racchetta-tennis-mx-spark-elite|data.oliviero.it/imgprodotto/racchetta-tennis-mx-spark-elite_165485",
+"Skin Feel Grip|Il grip Skin Feel è ultra sottile, grazie alla sua finezza consente|2017/12/skin-feel-grip|data.oliviero.it/imgprodotto/skin-feel-grip-670056-105_162206",
+"T-Shirt da Tennis Uomo Bianco|La t-shirt da tennis NikeCourt Roger Federer - Uomo è realizzata in|2017/12/t-shirt-da-tennis-uomo-bianco|data.oliviero.it/imgprodotto/t-shirt-da-tennis-uomo-bianco_167931",
+"Racchetta Beach Tennis Black Death|Collezione Primavera Estate La punta di Diamante della collezione|2017/12/racchetta-beach-tennis-black-death|data.oliviero.it/imgprodotto/racchetta-beach-tennis-black-death-btt1720l_164736",
+"Racchette Beach Tennis Brazil|Racchetta Beach Tennis Marca: VISION Modello: RACCHETTA BEACH TENNIS|2017/12/racchette-beach-tennis-brazil|data.oliviero.it/imgprodotto/racchette-beach-tennis-brazil_164428",
 "T-Shirt Tennis Donna Nero Nikecourt Pure|La maglia da tennis NikeCourt Pure - Donna assicura mobilità in campo|2017/12/t-shirt-tennis-donna-nero-nikecourt-pure|data.oliviero.it/imgprodotto/t-shirt-tennis-donna-nero-nikecourt-pure_167904",
 "Racchetta Tennis Biomimetic 400|Racchetta con piatto corde Biomimetic 400 è la racchetta ideale per|2017/12/racchetta-tennis-biomimetic-400|data.oliviero.it/imgprodotto/racchetta-tennis-biomimetic-400_15274_big",
 "Racchetta Beach Tennis Pro Kappa|Collezione Primavera Estate Dopo l'enorme successo riscosso nelle|2017/12/racchetta-beach-tennis-pro-kappa|data.oliviero.it/imgprodotto/racchetta-beach-tennis-pro-kappa-btt1717_164739",

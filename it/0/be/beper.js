@@ -1,4 +1,6 @@
 Gr = [
+"Robot da Cucina 300 watt|Robot da Cucina 300 watt Codice: 90.312 Descrizione : Corpo in abs|2017/12/robot-da-cucina-300-watt|data.oliviero.it/imgprodotto/robot-da-cucina-300-watt-90-312_89077",
+"Bilancia da cucina 2 in 1 viola 90.114F|Bilancia da cucina 2 in 1 viola Descrizione Ciotola in acciaio inox|2017/12/bilancia-da-cucina-2-in-1-viola-90-114f|data.oliviero.it/imgprodotto/bilancia-da-cucina-2-in-1-viola-90-114f_160603",
 "Rasoio Ricaricabile|Rasoio Ricaricabile 3 in 1 Wet and Dry - 40.996 Caratteristiche:|2017/12/rasoio-ricaricabile|data.oliviero.it/imgprodotto/rasoio-ricaricabile-40-996_106092",
 "Sfogliatrici per impastatrice 90.342A|Sfogliatrici per impastatrice 90.342A Inclusi: Rotolo di stiramento|2017/12/sfogliatrici-per-impastatrice-90-342a|data.oliviero.it/imgprodotto/sfogliatrici-per-impastatrice-90-342a_160646",
 "Friggitrice elettrica Professionale 3,5L|Friggitrice elettrica Professionale 3,5L Codice: 90.495N Descrizione|2017/12/friggitrice-elettrica-professionale-3-5l|data.oliviero.it/imgprodotto/friggitrice-elettrica-professionale-3-5l-90-495n_146622",

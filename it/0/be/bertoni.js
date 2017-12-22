@@ -1,4 +1,8 @@
 Gr = [
+"Tavolo Catering 183x76|Materiale: HD Polietilene alta densità lavabile Struttura: Ferro Ø 25|2017/12/tavolo-catering-183x76|data.oliviero.it/imgprodotto/tavolo-catering-183x76_169141",
+"Gabbiotto Polar Yellow|Preingresso invernale adattabile a tutti i tipi di Caravan e Camper|2017/12/gabbiotto-polar-yellow|data.oliviero.it/imgprodotto/gabbiotto-polar-yellow_87313",
+"Tenda Igloo Nordkapp 3 da Campeggio|Sopratetto : polyestere 210T alluminato termoisolante 3000 mm., con|2017/12/tenda-igloo-nordkapp-3-da-campeggio|data.oliviero.it/imgprodotto/tenda-igloo-nordkapp-3-da-campeggio_149906",
+"Kit laterali 3x3 Serie Piramide|Comodo kit di laterali studiato per i gazebo della serie Piramide 3x3|2017/12/kit-laterali-3x3-serie-piramide|data.oliviero.it/imgprodotto/kit-laterali-3x3-serie-piramide_168630",
 "Tenda Igloo ALP 4 da Campeggio|Sopratetto: polyestere ripstop 75 DX210T P.U. & Silicon 4000 mm., con|2017/12/tenda-igloo-alp-4-da-campeggio|data.oliviero.it/imgprodotto/tenda-igloo-alp-4-da-campeggio_87333",
 "Brandina Rambla text Blue|Caratteristiche tecniche: Materiale: textilene Brandina da mare con|2017/12/brandina-rambla-text-blue|data.oliviero.it/imgprodotto/brandina-rambla-text-blue_87110",
 "Tenda Igloo Mistral 2 ALU da Campeggio|Sopratetto : polyestere 210T alluminato termoisolante 3000 mm., con|2017/12/tenda-igloo-mistral-2-alu-da-campeggio|data.oliviero.it/imgprodotto/tenda-igloo-mistral-2-alu-da-campeggio_87360",

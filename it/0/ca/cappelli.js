@@ -1,4 +1,5 @@
 Gr = [
+"Cappellino Classic Climalite|Collezione Autunno Inverno/2018 Indossa questo cappellino in tessuto|2017/12/cappellino-classic-climalite|data.oliviero.it/imgprodotto/cappellino-classic-climalite_167586",
 "Cappello Verde|Collezione Autunno Inverno/2018 Beanie basic Lavorazione a maglia|2017/12/cappello-verde|data.oliviero.it/imgprodotto/cappello-verde_169211",
 "Cappello Rosso|Collezione Autunno Inverno/2018 Beanie basic Lavorazione a maglia|2017/12/cappello-rosso|data.oliviero.it/imgprodotto/cappello-rosso_169214",
 "Berretto Performance|Collezione Autunno Inverno/2018 Con questo berretto da training|2017/12/berretto-performance|data.oliviero.it/imgprodotto/berretto-performance_167594",

@@ -1,4 +1,5 @@
 Gr = [
+"Cyclette MF604|Caratteristiche Sistema frenante magnetico Regolazione freno|2017/12/cyclette-mf604|data.oliviero.it/imgprodotto/cyclette-mf604_165475",
 "Total Training Experience MF527|Il Total Training Experience della Movi Fitness MF527 è un attrezzo|2017/12/total-training-experience-mf527|data.oliviero.it/imgprodotto/total-training-experience-mf527_90813",
 "Tapis Roulant MF260|Tapis Roulant ideale per l'home fitness Caratteristiche Motore 1,75|2017/12/tapis-roulant-mf260|data.oliviero.it/imgprodotto/tapis-roulant-mf260_148537",
 "Cyclette MF611|Cyclette home fitness Sistema frenante magnetico Regolazione freno|2017/12/cyclette-mf611|data.oliviero.it/imgprodotto/cyclette-mf611_148552",

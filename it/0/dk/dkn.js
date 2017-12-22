@@ -1,4 +1,8 @@
 Gr = [
+"Cyclette Ergometer AM-E B|L'ergometro Bike AM-E è una cyclette attraente, ergonomica, dall'alto|2017/12/cyclette-ergometer-am-e-b|data.oliviero.it/imgprodotto/cyclette-ergometer-am-e-b_109704",
+"Tapis Roulant Treadmill AiRun I B|Il tapis roulant pieghevole DKN AiRun I è completo, affidabile|2017/12/tapis-roulant-treadmill-airun-i-b|data.oliviero.it/imgprodotto/tapis-roulant-treadmill-airun-i-b_109707",
+"Tapis Roulant Treadmill AiRun-X Black|Il Tapis roulant pieghevole DKN AiRun-X è dotato di un design|2017/12/tapis-roulant-treadmill-airun-x-black|data.oliviero.it/imgprodotto/tapis-roulant-treadmill-airun-x-black_109712",
+"Vogatore R-320|I vogatori della migliore qualità costruttiva tendono ad essere molto|2017/12/vogatore-r-320|data.oliviero.it/imgprodotto/vogatore-r-320_154204",
 "Coppia Manubri Twistlock 2 x 20 Kg + Stand portamanubri|I pesi a carico variabile (dumbbell) DKN LockTwist si presentano come|2017/12/coppia-manubri-twistlock-2-x-20-kg-+-stand-portamanubri|data.oliviero.it/imgprodotto/coppia-manubri-twistlock-2-x-20-kg-stand-portamanubri_150446",
 "Ellittica EB5100i|L'Ellittica DKN Cross Trainer EB-5100i ha un design industriale di|2017/12/ellittica-eb5100i|data.oliviero.it/imgprodotto/ellittica-eb5100i_154197",
 "Gym Bike X-Motion|X-Motion DKN Gym bike X-Motion è un attrezzo performante sotto tutti|2017/12/gym-bike-x-motion|data.oliviero.it/imgprodotto/gym-bike-x-motion_73941",

@@ -1,4 +1,5 @@
 Gr = [
+"Olio Emudermico|Olio idratante elasticizzante prezioso per la pelle e il rilassamento|2017/12/olio-emudermico|data.oliviero.it/imgprodotto/olio-emudermico_171657",
 "Bagnoschiuma ultradelicato 500ml|Il Bagno Schiuma Ultradelicato Humana baby è un prodotto ideale per|2017/12/bagnoschiuma-ultradelicato-500ml|data.oliviero.it/imgprodotto/bagnoschiuma-ultradelicato-500ml_3721_big",
 "Salviette 70 pz senza profumo|Salviette 70 pz. Salviette detergenti lenitive per il cambio con aloe|2017/12/salviette-70-pz-senza-profumo|data.oliviero.it/imgprodotto/salviette-70-pz-senza-profumo_138398",
 "Talco non talco|Emulsione fluida regolatrice di sudorazione ed odori con amido ed|2017/12/talco-non-talco|data.oliviero.it/imgprodotto/talco-non-talco_138405",

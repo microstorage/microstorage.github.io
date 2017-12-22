@@ -1,4 +1,9 @@
 Gr = [
+"Boxer taglie forti 250 grigio|Boxer uomo taglie forti realizzato in 90% cotone e 10% elastan|2017/12/boxer-taglie-forti-250-grigio|data.oliviero.it/imgprodotto/boxer-taglie-forti-250-grigio_63509",
+"Canotta taglie forti uomo nera XF550|Tipologia : Canotta intima Taglie Forti uomo Tessuto : 100% cotone|2017/12/canotta-taglie-forti-uomo-nera-xf550|data.oliviero.it/imgprodotto/canotta-taglie-forti-uomo-nera-xf550_57472",
+"Giubbino Uomo Taglie Forti Mads 999|Collezione Autunno Inverno/2018 Giubbotto uomo taglie forti. Il|2017/12/giubbino-uomo-taglie-forti-mads-999|data.oliviero.it/imgprodotto/giubbino-uomo-taglie-forti-mads-999_168507",
+"Camicia Taglie Forti Uomo London grigia|Tipologia : Camicia Taglie Forti uomo Tessuto : 65% cotone, 32%|2017/12/camicia-taglie-forti-uomo-london-grigia|data.oliviero.it/imgprodotto/camicia-taglie-forti-uomo-london-grigia_65102",
+"Accappatoio taglie forti bluette OKEY|Accappatoio uomo ideato per taglie forti. Modello classico im pura|2017/12/accappatoio-taglie-forti-bluette-okey|data.oliviero.it/imgprodotto/accappatoio-taglie-forti-bluette-okey_23946_big",
 "Giubbino Uomo Taglie Forti Ove Tortora|Collezione Autunno Inverno/2018 Parka da uomo taglie forti con|2017/12/giubbino-uomo-taglie-forti-ove-tortora|data.oliviero.it/imgprodotto/giubbino-uomo-taglie-forti-ove-tortora_170904",
 "Felpa Uomo Taglie Forti Grigio Nero|Collezione Autunno Inverno/2018 Felpa uomo taglie Forti. Il modello|2017/12/felpa-uomo-taglie-forti-grigio-nero|data.oliviero.it/imgprodotto/felpa-uomo-taglie-forti-grigio-nero_168550",
 "Bermuda Uomo Taglie Forti Denim|Collezione Primavera Estate Bermuda uomo taglie forti. Il modello|2017/12/bermuda-uomo-taglie-forti-denim|data.oliviero.it/imgprodotto/bermuda-uomo-taglie-forti-denim_165699",

@@ -1,4 +1,7 @@
 Gr = [
+"Day Bag Village Denim|É una borsa capiente e funzionale, di foggia esclusiva, con interno|2017/12/day-bag-village-denim|data.oliviero.it/imgprodotto/day-bag-village-denim_170194",
+"Seggiolino Marco Polo blue|nglesina presenta Marco Polo, il seggiolino auto evoluto pensato per|2017/12/seggiolino-marco-polo-blue|data.oliviero.it/imgprodotto/seggiolino-marco-polo-blue_51695",
+"Day Bag Ascott Green|Borsa modulabile che si fa in due per te. Una comoda e grande borsa|2017/12/day-bag-ascott-green|data.oliviero.it/imgprodotto/day-bag-ascott-green_170213",
 "Gusto Seggiolone silver|Nuovissimo seggiolone Gusto da Inglesina dal design moderno|2017/12/gusto-seggiolone-silver|data.oliviero.it/imgprodotto/gusto-seggiolone-silver_124723",
 "Dual Bag Oxford Blue|Borsa Inglesina Dual Bag è la pratica e comoda borsa da passeggino|2017/12/dual-bag-oxford-blue|data.oliviero.it/imgprodotto/dual-bag-oxford-blue_172107",
 "Trio Quad 2018 Rodeo Sand|La nuova collezione di Inglesina introduce un nuovo concetto di|2017/12/trio-quad-2018-rodeo-sand|data.oliviero.it/imgprodotto/trio-quad-2018-rodeo-sand_170212",

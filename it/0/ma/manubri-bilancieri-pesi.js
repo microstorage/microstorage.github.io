@@ -1,4 +1,6 @@
 Gr = [
+"Kit Bilanciere + Manubri + 52 kg Pesi|Pacchetto offerta composto da: Bilanciere 150 cm + Coppia di Manubri|2017/12/kit-bilanciere-+-manubri-+-52-kg-pesi|data.oliviero.it/imgprodotto/kit-bilanciere-manubri-52-kg-pesi_92915",
+"Disco ghisa 2Kg|Disco peso in ghisa verniciata. Unica colorazione nero come da|2017/12/disco-ghisa-2kg|data.oliviero.it/imgprodotto/disco-ghisa-2kg_145899",
 "Coppia Manubri Twistlock 2 x 20 Kg + Stand portamanubri|I pesi a carico variabile (dumbbell) DKN LockTwist si presentano come|2017/12/coppia-manubri-twistlock-2-x-20-kg-+-stand-portamanubri|data.oliviero.it/imgprodotto/coppia-manubri-twistlock-2-x-20-kg-stand-portamanubri_150446",
 "Kettlebells 10KG|Le Kettlebells sono sfere in ghisa con una maniglia fissa. Questi|2017/12/kettlebells-10kg|data.oliviero.it/imgprodotto/kettlebells-10kg_52231",
 "Disco ghisa 1kg|Disco peso in ghisa verniciata. Unica colorazione nero come da|2017/12/disco-ghisa-1kg|data.oliviero.it/imgprodotto/disco-ghisa-1kg_145898",

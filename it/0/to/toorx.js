@@ -1,4 +1,5 @@
 Gr = [
+"Tapis Roulant Trx 65 S EVO con App Ready|Caratteristiche Motore: 3/4 (Peak) HP DC - Garanzia 3 anni Velocità:|2017/12/tapis-roulant-trx-65-s-evo-con-app-ready|data.oliviero.it/imgprodotto/tapis-roulant-trx-65-s-evo-con-app-ready_142170",
 "Cyclette BRX Comfort Accesso facilitato|Sistema di frenaggio magnetico su 8 posizioni. Volano peso 6 kg. Peso|2017/12/cyclette-brx-comfort-accesso-facilitato|data.oliviero.it/imgprodotto/cyclette-brx-comfort-accesso-facilitato_68808",
 "Tapis Roulant TRX 60 S EVO|TRX-60 S EVO Garanzia a vita sul telaio. Pre-assemblato. HRC-Heart|2017/12/tapis-roulant-trx-60-s-evo|data.oliviero.it/imgprodotto/tapis-roulant-trx-60-s-evo_159607",
 "Cyclette BRX R Compact recumbent|Toorx Cyclette BRX R-Compact Recumbent è la nuova Ciclocamera|2017/12/cyclette-brx-r-compact-recumbent|data.oliviero.it/imgprodotto/cyclette-brx-r-compact-recumbent_91891",

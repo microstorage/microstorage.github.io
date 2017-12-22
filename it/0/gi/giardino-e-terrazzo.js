@@ -1,4 +1,9 @@
 Gr = [
+"Gazebo Party 4,5x3 Giallo|Gazebo multiuso con apertura automatica. Struttura in FERRO|2017/12/gazebo-party-4-5x3-giallo|data.oliviero.it/imgprodotto/gazebo-party-4-5x3-giallo_150073",
+"Poltroncina Pensile Brasil Papaya|Poltrona sospesa Brasil PapayaDal Brasile, il paese dei campioni del|2017/12/poltroncina-pensile-brasil-papaya|data.oliviero.it/imgprodotto/poltroncina-pensile-brasil-papaya_79797",
+"Tavolo da campeggio Smeraldo|Tavolo da campeggio Caratteristiche: Telaio in acciaio verniciato|2017/12/tavolo-da-campeggio-smeraldo|data.oliviero.it/imgprodotto/tavolo-da-campeggio-smeraldo_86969",
+"Poltrona Pensile Hangover Orange|Sedia, Poltrona pensile HANGOVER Orange L'HANGOVER arancione, puo|2017/12/poltrona-pensile-hangover-orange|data.oliviero.it/imgprodotto/poltrona-pensile-hangover-orange_83980",
+"Kit laterali 3x3 Serie Piramide|Comodo kit di laterali studiato per i gazebo della serie Piramide 3x3|2017/12/kit-laterali-3x3-serie-piramide|data.oliviero.it/imgprodotto/kit-laterali-3x3-serie-piramide_168630",
 "Poltrona Pensile Gigante Caffè|Poltrona sospesa Brasil Gigante Cafè La Brazil Gigante Cafè|2017/12/poltrona-pensile-gigante-caffe|data.oliviero.it/imgprodotto/poltrona-pensile-gigante-caff%C3%A8_79828",
 "Brandina Rambla text Blue|Caratteristiche tecniche: Materiale: textilene Brandina da mare con|2017/12/brandina-rambla-text-blue|data.oliviero.it/imgprodotto/brandina-rambla-text-blue_87110",
 "Set Verline Sofa Ecrù|Set sofa composto da divanetto 2 posti, 2 poltrone e tavolino da|2017/12/set-verline-sofa-ecru|data.oliviero.it/imgprodotto/set-verline-sofa-ecr%C3%B9_164383",

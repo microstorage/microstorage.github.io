@@ -1,4 +1,6 @@
 Gr = [
+"Letto Matrimoniale Elios con contenitore|Caratteristiche Dimensioni letto 215x184x38 cm Dimensioni testiera|2017/12/letto-matrimoniale-elios-con-contenitore|data.oliviero.it/imgprodotto/letto-matrimoniale-elios-con-contenitore-musa_153591",
+"Materasso 160x190 Matrimoniale Extra ortopedico|Materasso 160x190 matrimoniale. L' isolante elastico è costituito da|2017/12/materasso-160x190-matrimoniale-extra-ortopedico|data.oliviero.it/imgprodotto/materasso-160x190-matrimoniale-extra-ortopedico_93517",
 "Materasso 160x190 Matrimoniale Extra|Materasso 160x190 Matrimoniale. L' isolante elastico è costituito da|2017/12/materasso-160x190-matrimoniale-extra|data.oliviero.it/imgprodotto/materasso-160x190-matrimoniale-extra_93514",
 "Letto Matrimoniale Dionyso con contenitore|Caratteristiche Dimensioni letto 200x170x37 cm Dimensioni testiera|2017/12/letto-matrimoniale-dionyso-con-contenitore|data.oliviero.it/imgprodotto/letto-matrimoniale-dionyso-con-contenitore-musa_153589",
 "Materasso 80x190 Singolo Export|MADE IN ITALY. Materasso singolo 154 molle di diametro 2.2. Spessore|2017/12/materasso-80x190-singolo-export|data.oliviero.it/imgprodotto/materasso-80x190-singolo-export_93503",

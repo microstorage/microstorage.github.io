@@ -1,4 +1,6 @@
 Gr = [
+"Pasta combustibile EVA|Pasta conbustibile in gel a base di etanolo. Particolarmente adatta|2017/12/pasta-combustibile-eva|data.oliviero.it/imgprodotto/pasta-combustibile-eva_303_big",
+"Bilancia da cucina 2 in 1 viola 90.114F|Bilancia da cucina 2 in 1 viola Descrizione Ciotola in acciaio inox|2017/12/bilancia-da-cucina-2-in-1-viola-90-114f|data.oliviero.it/imgprodotto/bilancia-da-cucina-2-in-1-viola-90-114f_160603",
 "Brocca con scala Graduata 1l|Pratico contenitore dosatore con scala misuratrice sui lati per:|2017/12/brocca-con-scala-graduata-1l|data.oliviero.it/imgprodotto/brocca-con-scala-graduata-1l-630408_157792",
 "Acetiera 500 ml|Ecco un'acetiera perfetta per cucina o per la tavola informale: ha il|2017/12/acetiera-500-ml|data.oliviero.it/imgprodotto/acetiera-500-ml_90725",
 "Brocca con scala Graduata 0,5l|Pratico contenitore dosatore con scala misuratrice sui lati per:|2017/12/brocca-con-scala-graduata-0-5l|data.oliviero.it/imgprodotto/brocca-con-scala-graduata-0-5l-630406_157790",

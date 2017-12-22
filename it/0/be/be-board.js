@@ -1,4 +1,5 @@
 Gr = [
+"Pile Taglie Forti Uomo bordeaux|Collezione Autunno Inverno/2018 Pile uomo taglie forti. Il modello|2017/12/pile-taglie-forti-uomo-bordeaux|data.oliviero.it/imgprodotto/pile-taglie-forti-uomo-bordeaux_171860",
 "Maglia Taglie Forti Uomo Grafite|Collezione Autunno Inverno/2018 Felpa uomo taglie forti con zip al|2017/12/maglia-taglie-forti-uomo-grafite|data.oliviero.it/imgprodotto/maglia-taglie-forti-uomo-grafite_170235",
 "Pantaloni Sportivi Taglie Forti Nero|Collezione Autunno Inverno/2018 Pantaloni sportivi da uomo taglie|2017/12/pantaloni-sportivi-taglie-forti-nero|data.oliviero.it/imgprodotto/pantaloni-sportivi-taglie-forti-nero-9038c_152683",
 "Pile Taglie Forti Uomo Foresta|Collezione Autunno Inverno/2018 Pile uomo taglie Forti. Il modello|2017/12/pile-taglie-forti-uomo-foresta|data.oliviero.it/imgprodotto/pile-taglie-forti-uomo-foresta_172119",

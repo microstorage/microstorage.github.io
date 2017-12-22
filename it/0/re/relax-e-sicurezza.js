@@ -1,4 +1,11 @@
 Gr = [
+"Sdraietta Hooplà Dark Beige|Comfort ideale per i primi mesi, divertimento unico per le prime|2017/12/sdraietta-hoopla-dark-beige|data.oliviero.it/imgprodotto/sdraietta-hoopl%C3%A0-dark-beige-05079840340000_155538",
+"Altalena Brilly|Altalena elettrica con suoni. Barra giochi orientabile e removibile|2017/12/altalena-brilly|data.oliviero.it/imgprodotto/altalena-brilly_172225",
+"Aerosol Portatile MESH|Aerosol silenzioso portatile con tecnologia vibrating mesh|2017/12/aerosol-portatile-mesh|data.oliviero.it/imgprodotto/aerosol-portatile-mesh_171625",
+"Box open green|Ha una struttura quadrata e pieghevole. Il nuovissimo tappeto offre|2017/12/box-open-green|data.oliviero.it/imgprodotto/box-open-green_159983",
+"Box Lusso Parcogiochi|0-15 kg Con 4 maniglie di sostegno, corrimano imbottito e resistente|2017/12/box-lusso-parcogiochi|data.oliviero.it/imgprodotto/box-lusso-parcogiochi-b114-c227_156017",
+"Sdraietta Rocker & Napper 3 in 1|Questo prodotto innovativo Tiny Love® incorpora in sé 3 funzioni:|2017/12/sdraietta-rocker-napper-3-in-1|data.oliviero.it/imgprodotto/sdraietta-rocker-%26-napper-3-in-1_169350",
+"Box brevettato 222|Età di utilizzo 0-15 kg. Made in italy. Con 4 maniglie di sostegno|2017/12/box-brevettato-222|data.oliviero.it/imgprodotto/box-brevettato-222_136372",
 "Termometro Digi Baby|Digi Baby misura la temperatura del tuo bambino in tre diverse|2017/12/termometro-digi-baby|data.oliviero.it/imgprodotto/termometro-digi-baby_136268",
 "Girello Walky Talky sunny|Il Girello Chicco Walky Talky è l'innovativa girello con barra gioco|2017/12/girello-walky-talky-sunny|data.oliviero.it/imgprodotto/girello-walky-talky-sunny_149856",
 "Wow Cancelletto + estensione cm.28|Wow è la nuova barriera di sicurezza, ideata per proteggere il tuo|2017/12/wow-cancelletto-+-estensione-cm-28|data.oliviero.it/imgprodotto/wow-cancelletto-estensione-cm-28_140880",

@@ -1,4 +1,7 @@
 Gr = [
+"T-Shirt Retro Logo Navy|Collezione Autunno Inverno/2018 Ispirazione biker per questa t-shirt|2017/12/t-shirt-retro-logo-navy|data.oliviero.it/imgprodotto/t-shirt-retro-logo-navy_170621",
+"Piumino Protector New Mid Grey|Collezione Autunno Inverno/2018 Non farti cogliere impreparato:|2017/12/piumino-protector-new-mid-grey|data.oliviero.it/imgprodotto/piumino-protector-new-mid-grey_170592",
+"Jeans Uomo Larston Blax|Collezione Autunno Inverno/2018 Look pulito e alla moda per questi|2017/12/jeans-uomo-larston-blax|data.oliviero.it/imgprodotto/jeans-uomo-larston-blax_170499",
 "Jeans Arizona Bright Stroke|Collezione Autunno Inverno/2018 Jeans a gamba dritta in denim chiaro|2017/12/jeans-arizona-bright-stroke|data.oliviero.it/imgprodotto/jeans-arizona-bright-stroke_170529",
 "T-Shirt Logo Navy|Collezione Autunno Inverno/2018 Questa t-shirt blu girocollo, con|2017/12/t-shirt-logo-navy|data.oliviero.it/imgprodotto/t-shirt-logo-navy_170625",
 "Jeans Bryson Mid Stone|Collezione Autunno Inverno/2018 Jeans skinny in denim blu con|2017/12/jeans-bryson-mid-stone|data.oliviero.it/imgprodotto/jeans-bryson-mid-stone_170515",

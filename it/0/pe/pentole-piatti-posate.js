@@ -1,4 +1,8 @@
 Gr = [
+"Casseruola 20 cm Fonda Ingenio|Estremamente versatile, i corpi della linea Ingenio possono essere|2017/12/casseruola-20-cm-fonda-ingenio|data.oliviero.it/imgprodotto/casseruola-20-cm-fonda-ingenio_155887",
+"Servizio da Tavola per 12 Persone|Servizio da tavola per 12 persone Caffé per 12 persone 12 Piatti|2017/12/servizio-da-tavola-per-12-persone|data.oliviero.it/imgprodotto/servizio-da-tavola-per-12-persone-serenissima-bianco_130837",
+"Posate 24 pz Giallo Brio|Modello di posate dalla tradizionale semplicità che grazie alle|2017/12/posate-24-pz-giallo-brio|data.oliviero.it/imgprodotto/posate-24-pz-giallo-brio_156492",
+"Casseruola 24 cm Cortina|Granitium L'antiaderente dal cuore di pietra Una formula evoluta|2017/12/casseruola-24-cm-cortina|data.oliviero.it/imgprodotto/casseruola-24-cm-cortina_155987",
 "Set 24 Posate da Tavola Blu|Set posate caratterizzato da un manico, con acciaio passante, in|2017/12/set-24-posate-da-tavola-blu|data.oliviero.it/imgprodotto/set-24-posate-da-tavola-blu_155656",
 "Set 8 Pentole Madame Petravera|Batteria di pentola Petravera dura come la pietra per una cucina|2017/12/set-8-pentole-madame-petravera|data.oliviero.it/imgprodotto/set-8-pentole-madame-petravera_156085",
 "Posate 24 pz Arancio Brio|Modello di posate dalla tradizionale semplicità che grazie alle|2017/12/posate-24-pz-arancio-brio|data.oliviero.it/imgprodotto/posate-24-pz-arancio-brio_156488",

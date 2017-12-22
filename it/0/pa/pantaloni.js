@@ -1,4 +1,12 @@
 Gr = [
+"Pantaloni uomo Casual Long Island|Tipologia : Pantalone casual da uomo Tessuto : 97% cotone e 3%|2017/12/pantaloni-uomo-casual-long-island|data.oliviero.it/imgprodotto/pantaloni-uomo-casual-long-island_73412",
+"Pantaloni donna WPT383 P060|Collezione Primavera Estate Tipologia: Pantalane donna Tessuto: 100%|2017/12/pantaloni-donna-wpt383-p060|data.oliviero.it/imgprodotto/pantaloni-donna-wpt383-p060_73294",
+"Pantaloni donna Percy Beatrice|Collezione Primavera Estate Tipologia: Pantalone da donna Tessuto: Il|2017/12/pantaloni-donna-percy-beatrice|data.oliviero.it/imgprodotto/pantaloni-donna-percy-beatrice_9911_big",
+"Gonna Blu Losanna 195gr|Gonna Donna ideale per front office, sala bar realizzata in 60% lana|2017/12/gonna-blu-losanna-195gr|data.oliviero.it/imgprodotto/gonna-blu-losanna-195gr_165511",
+"Pantaloni uomo Casual James|Tipologia : Pantalone casual da uomo Tessuto : 98% cotone e 2%|2017/12/pantaloni-uomo-casual-james|data.oliviero.it/imgprodotto/pantaloni-uomo-casual-james_73428",
+"Pantaloni Casual Uomo Beige|Collezione Autunno Inverno/2018 Pantaloni casual da uomo Allacciatura|2017/12/pantaloni-casual-uomo-beige|data.oliviero.it/imgprodotto/pantaloni-casual-uomo-beige_169075",
+"Tight Running Donna Nero|Questi tight da running ti aiutano a sconfiggere il maltempo|2017/12/tight-running-donna-nero|data.oliviero.it/imgprodotto/tight-running-donna-nero_167959",
+"Salopette Sci da Uomo Nero|Collezione Autunno Inverno/2018 Pantalone salopette neve CMP nero|2017/12/salopette-sci-da-uomo-nero|data.oliviero.it/imgprodotto/salopette-sci-da-uomo-nero_169260",
 "Pantaloni Taglie Forti UOmo Militare|Collezione Autunno Inverno/2018 Pantaloni da uomo taglie forti. Il|2017/12/pantaloni-taglie-forti-uomo-militare|data.oliviero.it/imgprodotto/pantaloni-taglie-forti-uomo-militare_170919",
 "Pantaloni donna RD04-00|Collezione Autunno Inverno Tipologia: Pantalone Donna. Tessuto: 98%|2017/12/pantaloni-donna-rd04-00|data.oliviero.it/imgprodotto/pantaloni-donna-rd04-00_13506_big",
 "Pantaloncini Running Uomo Nero|I pantaloncini da running Nike Dry Challenger 2in sono caratterizzati|2017/12/pantaloncini-running-uomo-nero|data.oliviero.it/imgprodotto/pantaloncini-running-uomo-nero_167744",

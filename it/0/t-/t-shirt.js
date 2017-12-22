@@ -1,5 +1,10 @@
 Tt = "T-Shirt";
 Gr = [
+"T-Shirt Retro Logo Navy|Collezione Autunno Inverno/2018 Ispirazione biker per questa t-shirt|2017/12/t-shirt-retro-logo-navy|data.oliviero.it/imgprodotto/t-shirt-retro-logo-navy_170621",
+"T-Shirt Donna Kaki|Collezione Primavera Estate T-Shirt Champion da donna. Il modello|2017/12/t-shirt-donna-kaki|data.oliviero.it/imgprodotto/t-shirt-donna-kaki-109547-3044_159787",
+"T-Shirt Uomo Blu|T-shirt da uomo in autentico stile adidas originals, caratterizzata|2017/12/t-shirt-uomo-blu|data.oliviero.it/imgprodotto/t-shirt-uomo-blu_168421",
+"T-Shirt Uomo Rosso Nike Pro|La maglia da allenamento a manica corta Nike Pro - Uomo è dotata di|2017/12/t-shirt-uomo-rosso-nike-pro|data.oliviero.it/imgprodotto/t-shirt-uomo-rosso-nike-pro_161252",
+"T-Shirt donna Arancio|Collezione Primavera Estate Tipologia: T-shirt mezza manica da donna|2017/12/t-shirt-donna-arancio|data.oliviero.it/imgprodotto/t-shirt-donna-arancio_5870_big",
 "T-shirt uomo Vintage Giacomo Agostini|Blu pastello, con un motore MV Agusta stilizzato in colore panna, il|2017/12/t-shirt-uomo-vintage-giacomo-agostini|data.oliviero.it/imgprodotto/t-shirt-uomo-vintage-giacomo-agostini_93405",
 "T-Shirt Uomo Grigio|Questa T-shirt da uomo è pensata per offrirti comfort e copertura|2017/12/t-shirt-uomo-grigio|data.oliviero.it/imgprodotto/t-shirt-uomo-grigio_167030",
 "T-Shirt Logo Navy|Collezione Autunno Inverno/2018 Questa t-shirt blu girocollo, con|2017/12/t-shirt-logo-navy|data.oliviero.it/imgprodotto/t-shirt-logo-navy_170625",

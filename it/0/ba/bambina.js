@@ -1,4 +1,10 @@
 Gr = [
+"Maxi Trolley SJ Girl|Questo è il Big trolley Sj! Adatto per la scuola con una capienza di|2017/12/maxi-trolley-sj-girl|data.oliviero.it/imgprodotto/maxi-trolley-sj-girl_166215",
+"Zaino Maxi Sj Girl|Sempre per la scuola una versione alternativa con un modello tondo:|2017/12/zaino-maxi-sj-girl|data.oliviero.it/imgprodotto/zaino-maxi-sj-girl_166211",
+"Scarpe con Ruote X2 Pow Lighted|Tomaia sintetica con linguetta e colletto imbottiti per un comfort|2017/12/scarpe-con-ruote-x2-pow-lighted|data.oliviero.it/imgprodotto/scarpe-con-ruote-x2-pow-lighted_173204",
+"Portapenne Round Plus|Un portapenne attrezzato per organizzare al meglio penne, matite|2017/12/portapenne-round-plus|data.oliviero.it/imgprodotto/portapenne-round-plus_166360",
+"Portapenne Round Plus Round Girl|Un portapenne attrezzato per organizzare al meglio penne, matite|2017/12/portapenne-round-plus-round-girl|data.oliviero.it/imgprodotto/portapenne-round-plus-round-girl_166268",
+"Zaino The Double Pink Hearts|È uno zaino ma sono due. Da un lato fantasia e dall'altro tinta|2017/12/zaino-the-double-pink-hearts|data.oliviero.it/imgprodotto/zaino-the-double-pink-hearts_167522",
 "Astuccio 3 Zip Shift|L'ASTUCCIO 3 ZIP Seven School è l'accessorio che non può mancare nel|2017/12/astuccio-3-zip-shift|data.oliviero.it/imgprodotto/astuccio-3-zip-shift_166351",
 "Grembiule Scuola Bambina Bianco|Collezione Autunno Inverno/2018 Grembiule scuola da bambina con|2017/12/grembiule-scuola-bambina-bianco|data.oliviero.it/imgprodotto/grembiule-scuola-bambina-bianco-37gr1969_166038",
 "Scarpe Gazelle J|Queste scarpe junior sono una perfetta riproduzione delle mitiche|2017/12/scarpe-gazelle-j|data.oliviero.it/imgprodotto/scarpe-gazelle-j_172200",

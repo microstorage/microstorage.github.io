@@ -1,4 +1,5 @@
 Gr = [
+"Skateboard STREET PRO GRAFFITI NEW|Descrizione: Dimensioni tavola : 79x20 cm Materiale tavola|2017/12/skateboard-street-pro-graffiti-new|data.oliviero.it/imgprodotto/skateboard-street-pro-graffiti-new_162370",
 "Skateboard FREEDOM tavola gialla|Descrizione: Dimensioni tavola : 57x15,2 cm Materiale tavola|2017/12/skateboard-freedom-tavola-gialla|data.oliviero.it/imgprodotto/skateboard-freedom-tavola-gialla-ruote-azzurre_162372",
 "Surfskate Birdless 29\"|Il Ventura 29″ riproduce fedelmente la sensazione di una tavola da|2017/12/surfskate-birdless-29|data.oliviero.it/imgprodotto/surfskate-birdless-29_165563",
 "Skateboard FREEDOM tavola rossa|Descrizione: Dimensioni tavola : 57x15,2 cm Materiale tavola|2017/12/skateboard-freedom-tavola-rossa|data.oliviero.it/imgprodotto/skateboard-freedom-tavola-rossa-ruote-gialle_162371",

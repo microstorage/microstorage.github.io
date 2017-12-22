@@ -1,4 +1,6 @@
 Gr = [
+"Day Bag Village Denim|É una borsa capiente e funzionale, di foggia esclusiva, con interno|2017/12/day-bag-village-denim|data.oliviero.it/imgprodotto/day-bag-village-denim_170194",
+"Day Bag Ascott Green|Borsa modulabile che si fa in due per te. Una comoda e grande borsa|2017/12/day-bag-ascott-green|data.oliviero.it/imgprodotto/day-bag-ascott-green_170213",
 "Dual Bag Oxford Blue|Borsa Inglesina Dual Bag è la pratica e comoda borsa da passeggino|2017/12/dual-bag-oxford-blue|data.oliviero.it/imgprodotto/dual-bag-oxford-blue_172107",
 "Finder zaino Rosso e Grigio|Chicco Finder è la soluzione ideale per chi vuole passeggiare in|2017/12/finder-zaino-rosso-e-grigio|data.oliviero.it/imgprodotto/finder-zaino-rosso-e-grigio_162916",
 "Buggy board MAXI +|Pedanina per il trasporto del secondo bambino applicabile alla|2017/12/buggy-board-maxi-+|data.oliviero.it/imgprodotto/buggy-board-maxi-_3104_big",

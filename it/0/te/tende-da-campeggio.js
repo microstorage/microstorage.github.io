@@ -1,4 +1,9 @@
 Gr = [
+"Tenda Igloo rubino da Campeggio|Caratteristiche: Pavimento in ppl antistrappo Abitacolo in nylon con|2017/12/tenda-igloo-rubino-da-campeggio|data.oliviero.it/imgprodotto/tenda-igloo-rubino-da-campeggio_57477",
+"Tenda Lhotse 4 da Campeggio|Massimo comfort e spazio uniti a robustezza, aerazione|2017/12/tenda-lhotse-4-da-campeggio|data.oliviero.it/imgprodotto/tenda-lhotse-4-da-campeggio_158446",
+"Gabbiotto Polar Yellow|Preingresso invernale adattabile a tutti i tipi di Caravan e Camper|2017/12/gabbiotto-polar-yellow|data.oliviero.it/imgprodotto/gabbiotto-polar-yellow_87313",
+"Tenda Igloo Nordkapp 3 da Campeggio|Sopratetto : polyestere 210T alluminato termoisolante 3000 mm., con|2017/12/tenda-igloo-nordkapp-3-da-campeggio|data.oliviero.it/imgprodotto/tenda-igloo-nordkapp-3-da-campeggio_149906",
+"Tenda Tenere 4 Verde da Campeggio|Linea di tende per utilizzo campeggio estivo dotate di ampio abside|2017/12/tenda-tenere-4-verde-da-campeggio|data.oliviero.it/imgprodotto/tenda-tenere-4-verde-da-campeggio_158496",
 "Tenda Igloo ALP 4 da Campeggio|Sopratetto: polyestere ripstop 75 DX210T P.U. & Silicon 4000 mm., con|2017/12/tenda-igloo-alp-4-da-campeggio|data.oliviero.it/imgprodotto/tenda-igloo-alp-4-da-campeggio_87333",
 "Tenda Rescue da Campeggio|Rescue, tenda polifunzionale a struttura pneumatica a 3 archi,|2017/12/tenda-rescue-da-campeggio|data.oliviero.it/imgprodotto/tenda-rescue-da-campeggio_149584",
 "Tenda Igloo Mistral 2 ALU da Campeggio|Sopratetto : polyestere 210T alluminato termoisolante 3000 mm., con|2017/12/tenda-igloo-mistral-2-alu-da-campeggio|data.oliviero.it/imgprodotto/tenda-igloo-mistral-2-alu-da-campeggio_87360",

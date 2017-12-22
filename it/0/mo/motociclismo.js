@@ -1,4 +1,9 @@
 Gr = [
+"Guanti da Moto STS-S|STS-S è un tradizionale guanto racing che ben si adatta alle sportive|2017/12/guanti-da-moto-sts-s|data.oliviero.it/imgprodotto/guanti-da-moto-sts-s_165738",
+"Casco K3 SV TOP Winter Test 2012|Casco moto AGV K-3 SV E2205. Casco che raggiunge alti livelli di|2017/12/casco-k3-sv-top-winter-test-2012|data.oliviero.it/imgprodotto/casco-k3-sv-top-winter-test-2012_165760",
+"Giacca da Moto Net Stream Uomo|Netstream è una giacca da moto in rete 3D ad altissimo coefficiente|2017/12/giacca-da-moto-net-stream-uomo|data.oliviero.it/imgprodotto/giacca-da-moto-net-stream-uomo-t199-486_149780",
+"Giubbotto Moto Elite P108|Collezione: Primavera Estate Tipologia: Giacca Moto da donna Tessuto:|2017/12/giubbotto-moto-elite-p108|data.oliviero.it/imgprodotto/giubbotto-moto-elite-p108_83608",
+"Giacca da Moto Trk Evo|SPIDI TRK-EVO è una giacca in pelle da moto per il motociclista|2017/12/giacca-da-moto-trk-evo|data.oliviero.it/imgprodotto/giacca-da-moto-trk-evo-p141-022_164828",
 "Giubbino da Moto Scout H2Out|SPIDI Scout H2Out una giacca impermeabile da moto dall'aspetto|2017/12/giubbino-da-moto-scout-h2out|data.oliviero.it/imgprodotto/giubbino-da-moto-scout-h2out-d146-026_164826",
 "Giacca da Moto in Tessuto 608 Uomo|Giacca realizzata in tessuto ad alta tenacità, caratterizzato da un|2017/12/giacca-da-moto-in-tessuto-608-uomo|data.oliviero.it/imgprodotto/giacca-da-moto-in-tessuto-608-uomo-t162-265_149818",
 "Jeans da Moto J Strong|J-Strong è un jeans tecnico da moto con vestibilità Slim Fit|2017/12/jeans-da-moto-j-strong|data.oliviero.it/imgprodotto/jeans-da-moto-j-strong-j53-804_164808",

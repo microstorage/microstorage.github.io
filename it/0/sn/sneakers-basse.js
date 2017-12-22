@@ -1,4 +1,8 @@
 Gr = [
+"Scarpe Uomo Symbol Nero|Collezione Autunno Inverno/2018 Versatili e confortevoli, dal design|2017/12/scarpe-uomo-symbol-nero|data.oliviero.it/imgprodotto/scarpe-uomo-symbol-nero_168859",
+"Scarpe Donna Taupe Nebula D621EC C6738|Collezione Primavera Estate Superleggera, ultra traspirante, extra|2017/12/scarpe-donna-taupe-nebula-d621ec-c6738|data.oliviero.it/imgprodotto/scarpe-donna-taupe-nebula-d621ec-c6738_158414",
+"Scarpe Running Cumulus 18 (W)|Un mix perfetto di sostegno ed ammortizzazione, la 18esima edizione|2017/12/scarpe-running-cumulus-18-w|data.oliviero.it/imgprodotto/scarpe-running-cumulus-18-w-t6c8n-0107_154489",
+"Scarpe Authentic|Utilizzo: Calzatura Moda donna Tomaia: Tessuto Battistrada: Gomma|2017/12/scarpe-authentic|data.oliviero.it/imgprodotto/scarpe-authentic-zukfgz_124989",
 "Scarpe Stan Smith W|Il look raffinato delle scarpe Stan Smith ha esordito nei primi anni|2017/12/scarpe-stan-smith-w|data.oliviero.it/imgprodotto/scarpe-stan-smith-w-bb5154_158774",
 "Scarpe Stan Smith|Utilizzo: Sneakers unisex Tomaia: Ecopelle Suola: gomma antiscivolo|2017/12/scarpe-stan-smith|data.oliviero.it/imgprodotto/scarpe-stan-smith-m20324_93936",
 "Sandalo Donna Aquarii Ice|AQUARII è il sandalo sportivo da hiking pensato per le lunghe|2017/12/sandalo-donna-aquarii-ice|data.oliviero.it/imgprodotto/sandalo-donna-aquarii-ice_165429",

@@ -1,4 +1,6 @@
 Gr = [
+"Biberon angolato 250 ml|La tettarella sempre colma di latte previene l'ingestione di aria|2017/12/biberon-angolato-250-ml|data.oliviero.it/imgprodotto/biberon-angolato-250-ml_142991",
+"Biberon 160 ml verde|Con il biberon First Bottle i bambini si sentono al sicuro fin dal|2017/12/biberon-160-ml-verde|data.oliviero.it/imgprodotto/biberon-160-ml-verde_53140",
 "Biberon Caucciù 240 ml viaggio|Biberon Linea Benessere in caucciu 330 ml 0% BPA Chicco sono dedicati|2017/12/biberon-caucciu-240-ml-viaggio|data.oliviero.it/imgprodotto/biberon-caucci%C3%B9-240-ml-viaggio_138613",
 "Biberon Silicone 330 ml|Biberon Linea Benessere in caucciu 330 ml 0% BPA Chicco sono dedicati|2017/12/biberon-silicone-330-ml|data.oliviero.it/imgprodotto/biberon-silicone-330-ml_138609",
 "Biberon 260ml azzurro|Con il biberon First Bottle i bambini si sentono al sicuro fin dal|2017/12/biberon-260ml-azzurro|data.oliviero.it/imgprodotto/biberon-260ml-azzurro_53144",

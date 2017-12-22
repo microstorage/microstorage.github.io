@@ -1,4 +1,6 @@
 Gr = [
+"Scarpe con Ruote|Tomaia in pelle sintetica con linguetta e collo imbottiti per un|2017/12/scarpe-con-ruote|data.oliviero.it/imgprodotto/scarpe-con-ruote-premium-1-lo_173202",
+"Scarpe con Ruote X2 Pow Lighted|Tomaia sintetica con linguetta e colletto imbottiti per un comfort|2017/12/scarpe-con-ruote-x2-pow-lighted|data.oliviero.it/imgprodotto/scarpe-con-ruote-x2-pow-lighted_173204",
 "Scarpe con Ruote Launch 2.0|Utilizzo : scarpe munite di ruote Tomaia : Tessuto Battistrada|2017/12/scarpe-con-ruote-launch-2-0|data.oliviero.it/imgprodotto/scarpe-con-ruote-launch-2-0-770252h_91898",
 "Scarpe con Ruote Speed X2|Caratteristiche Tecniche : Le Heelys sono scarpe munite di ruote con|2017/12/scarpe-con-ruote-speed-x2|data.oliviero.it/imgprodotto/scarpe-con-ruote-speed-x2-770047k_153466",
 "Scarpe con Ruote X2 Bolt|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/12/scarpe-con-ruote-x2-bolt|data.oliviero.it/imgprodotto/scarpe-con-ruote-x2-bolt-770797_157595",

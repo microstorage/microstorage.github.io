@@ -1,4 +1,8 @@
 Gr = [
+"Baby Kit Nails|Kit forbicine tagliaunghie e lime in cartoncino per la cura delle|2017/12/baby-kit-nails|data.oliviero.it/imgprodotto/baby-kit-nails_136269",
+"Mini Lavabo Space|Dotato di specchio infrangibile Il sistema di regolazione permette di|2017/12/mini-lavabo-space|data.oliviero.it/imgprodotto/mini-lavabo-space_160906",
+"Olio Emudermico|Olio idratante elasticizzante prezioso per la pelle e il rilassamento|2017/12/olio-emudermico|data.oliviero.it/imgprodotto/olio-emudermico_171657",
+"Pancino Fiori di Bach|L'essenza composta agisce nei disturbi legati ai processi digestivi|2017/12/pancino-fiori-di-bach|data.oliviero.it/imgprodotto/pancino-fiori-di-bach_93271",
 "Bagnoschiuma ultradelicato 500ml|Il Bagno Schiuma Ultradelicato Humana baby è un prodotto ideale per|2017/12/bagnoschiuma-ultradelicato-500ml|data.oliviero.it/imgprodotto/bagnoschiuma-ultradelicato-500ml_3721_big",
 "Salviette 70 pz senza profumo|Salviette 70 pz. Salviette detergenti lenitive per il cambio con aloe|2017/12/salviette-70-pz-senza-profumo|data.oliviero.it/imgprodotto/salviette-70-pz-senza-profumo_138398",
 "Termometro da Bagno Azzurro|Il termometro da bagno pesce palla aiuta a verificare la corretta|2017/12/termometro-da-bagno-azzurro|data.oliviero.it/imgprodotto/termometro-da-bagno-azzurro_25150_big",

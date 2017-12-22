@@ -1,4 +1,12 @@
 Gr = [
+"Guanto PRO-FIGHT Kombat FHX 10 oz|Caratteristiche: PRO-FIGHT KOMBAT FHX Competition Fight Glove Genuine|2017/12/guanto-pro-fight-kombat-fhx-10-oz|data.oliviero.it/imgprodotto/guanto-pro-fight-kombat-fhx-10-oz_159692",
+"Guanti da Moto STS-S|STS-S è un tradizionale guanto racing che ben si adatta alle sportive|2017/12/guanti-da-moto-sts-s|data.oliviero.it/imgprodotto/guanti-da-moto-sts-s_165738",
+"Guantoni da Allenamento Boxe 10 oz|I Guantoni Leone Fight GN052 uniscono qualità, un look moderno e un|2017/12/guantoni-da-allenamento-boxe-10-oz|data.oliviero.it/imgprodotto/guantoni-da-allenamento-boxe-10-oz_169631",
+"Guanto Ultimate Trainer IV|Caratteristiche: BUFFALO LEATHER pelle ultra morbida e liscia|2017/12/guanto-ultimate-trainer-iv|data.oliviero.it/imgprodotto/guanto-ultimate-trainer-iv_159696",
+"Guanto PRO-FIGHT Kombat FHX 8oz|Caratteristiche: PRO-FIGHT KOMBAT FHX Competition Fight Glove Genuine|2017/12/guanto-pro-fight-kombat-fhx-8oz|data.oliviero.it/imgprodotto/guanto-pro-fight-kombat-fhx-8oz_159695",
+"Punching Ball con pedana guantoni e pompa|Punching Ball per bambino con Pedana, trasforma la tua stanza in un|2017/12/punching-ball-con-pedana-guantoni-e-pompa|data.oliviero.it/imgprodotto/punching-ball-con-pedana-guantoni-e-pompa-70-460-0016_157447",
+"Guanti Boxe Ska 10oz|Ad arricchire la limited edition 'Art and Gloves' arriva il GN099|2017/12/guanti-boxe-ska-10oz|data.oliviero.it/imgprodotto/guanti-boxe-ska-10oz_171406",
+"Guantoni Boxe 140z|'Black' come l'oscurità delle tenebre, 'Whitè come la luce che|2017/12/guantoni-boxe-140z|data.oliviero.it/imgprodotto/guantoni-boxe-140z_169638",
 "Guanti Fit Karate|Questi guanti sono ideali per la fitness boxe e il karate|2017/12/guanti-fit-karate|data.oliviero.it/imgprodotto/guanti-fit-karate_169632",
 "Guanti da passata veloce STRYKER|Caratteristiche : Guanti da passata veloce STRYKER SYNTEX TECH G3|2017/12/guanti-da-passata-veloce-stryker|data.oliviero.it/imgprodotto/guanti-da-passata-veloce-stryker_159684",
 "Guanto Muay Thai 10oz|Costituiscono la scelta ideale per tutti coloro che praticano la muay|2017/12/guanto-muay-thai-10oz|data.oliviero.it/imgprodotto/guanto-muay-thai-10oz_171399",

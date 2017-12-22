@@ -1,4 +1,5 @@
 Gr = [
+"Letto Matrimoniale Elios con contenitore|Caratteristiche Dimensioni letto 215x184x38 cm Dimensioni testiera|2017/12/letto-matrimoniale-elios-con-contenitore|data.oliviero.it/imgprodotto/letto-matrimoniale-elios-con-contenitore-musa_153591",
 "Letto Matrimoniale Dionyso con contenitore|Caratteristiche Dimensioni letto 200x170x37 cm Dimensioni testiera|2017/12/letto-matrimoniale-dionyso-con-contenitore|data.oliviero.it/imgprodotto/letto-matrimoniale-dionyso-con-contenitore-musa_153589",
 "Letto Matrimoniale Ulisse con contenitore|Caratteristiche Dimensioni letto 200x170x37 cm Dimensioni testiera|2017/12/letto-matrimoniale-ulisse-con-contenitore|data.oliviero.it/imgprodotto/letto-matrimoniale-ulisse-con-contenitore-musa_153607",
 "Letto Matrimoniale Narciso Rete Fissa|Caratteristiche Dimensioni letto 208x176x37 cm Dimensioni testiera|2017/12/letto-matrimoniale-narciso-rete-fissa|data.oliviero.it/imgprodotto/letto-matrimoniale-narciso-rete-fissa-musa_153596",

@@ -1,4 +1,9 @@
 Gr = [
+"Tapis Roulant Treadmill AiRun I B|Il tapis roulant pieghevole DKN AiRun I è completo, affidabile|2017/12/tapis-roulant-treadmill-airun-i-b|data.oliviero.it/imgprodotto/tapis-roulant-treadmill-airun-i-b_109707",
+"Tapis Roulant Treadmill AiRun-X Black|Il Tapis roulant pieghevole DKN AiRun-X è dotato di un design|2017/12/tapis-roulant-treadmill-airun-x-black|data.oliviero.it/imgprodotto/tapis-roulant-treadmill-airun-x-black_109712",
+"Tapis Roulant T82|Il T82 dispone di una grande varietà di esercizi e di diversi|2017/12/tapis-roulant-t82|data.oliviero.it/imgprodotto/tapis-roulant-t82_154115",
+"Tapis Roulant Trx 65 S EVO con App Ready|Caratteristiche Motore: 3/4 (Peak) HP DC - Garanzia 3 anni Velocità:|2017/12/tapis-roulant-trx-65-s-evo-con-app-ready|data.oliviero.it/imgprodotto/tapis-roulant-trx-65-s-evo-con-app-ready_142170",
+"Tapis Roulant TFK 155 SLIM|TFK-155 SLIM DATI TECNICI Motore1,75/2,75 (Peak) HP DC Velocità0,8|2017/12/tapis-roulant-tfk-155-slim|data.oliviero.it/imgprodotto/tapis-roulant-tfk-155-slim_159768",
 "Tapis Roulant VIC 7000|Tapis roulant VIC 7000 adatto per uso domestico.Il computer|2017/12/tapis-roulant-vic-7000|data.oliviero.it/imgprodotto/tapis-roulant-vic-7000_169508",
 "Tapis Roulant MF260|Tapis Roulant ideale per l'home fitness Caratteristiche Motore 1,75|2017/12/tapis-roulant-mf260|data.oliviero.it/imgprodotto/tapis-roulant-mf260_148537",
 "Tapis Roulant -T626|Tapis roulant Nautilus T626 - ideale per un training privato|2017/12/tapis-roulant-t626|data.oliviero.it/imgprodotto/tapis-roulant-t626_162597",

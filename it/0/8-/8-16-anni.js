@@ -1,4 +1,5 @@
 Gr = [
+"T-Shirt Jr. Bianco|Collezione Autunno Inverno/2018 Metti in mostra lo stile audace del|2017/12/t-shirt-jr-bianco|data.oliviero.it/imgprodotto/t-shirt-jr-bianco_167578",
 "Giacca Bambino Tortora|Collezione Primavera Estate Giacca casual da bambino ideale per le|2017/12/giacca-bambino-tortora|data.oliviero.it/imgprodotto/giacca-bambino-tortora-0s361_162146",
 "Pantalone in Felpa Bambino|Collezione Primavera Estate In leggerissima felpa indaco Elastico|2017/12/pantalone-in-felpa-bambino|data.oliviero.it/imgprodotto/pantalone-in-felpa-bambino-171mhbm008_163684",
 "Felpa Bambino Giallo|Collezione Primavera Estate In morbida felpa Stampa allover|2017/12/felpa-bambino-giallo|data.oliviero.it/imgprodotto/felpa-bambino-giallo-171mhfc011_163705",
