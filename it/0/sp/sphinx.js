@@ -1,4 +1,6 @@
 Gr = [
+"Guantoni Cyclone Restyling 6 oz|Caratteristiche: Guantoni Sphinx Cyclone Restyling: Class essential|2017/12/guantoni-cyclone-restyling-6-oz|data.oliviero.it/imgprodotto/guantoni-cyclone-restyling-6-oz_159702",
+"Guanti BLACKHAWK Training 16 oz|Caratteristiche: GENUINE LEATHER pelle ultra morbida e liscia|2017/12/guanti-blackhawk-training-16-oz|data.oliviero.it/imgprodotto/guanti-blackhawk-training-16-oz_159683",
 "Guanto PRO-FIGHT Kombat FHX 10 oz|Caratteristiche: PRO-FIGHT KOMBAT FHX Competition Fight Glove Genuine|2017/12/guanto-pro-fight-kombat-fhx-10-oz|data.oliviero.it/imgprodotto/guanto-pro-fight-kombat-fhx-10-oz_159692",
 "Guanto Ultimate Trainer IV|Caratteristiche: BUFFALO LEATHER pelle ultra morbida e liscia|2017/12/guanto-ultimate-trainer-iv|data.oliviero.it/imgprodotto/guanto-ultimate-trainer-iv_159696",
 "Guanto PRO-FIGHT Kombat FHX 8oz|Caratteristiche: PRO-FIGHT KOMBAT FHX Competition Fight Glove Genuine|2017/12/guanto-pro-fight-kombat-fhx-8oz|data.oliviero.it/imgprodotto/guanto-pro-fight-kombat-fhx-8oz_159695",

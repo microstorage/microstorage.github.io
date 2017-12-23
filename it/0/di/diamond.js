@@ -1,4 +1,5 @@
 Gr = [
+"Gym bike Diamond D55|JK Fitness Diamond D55 è una gym bike professionale dotata di display|2017/12/gym-bike-diamond-d55|data.oliviero.it/imgprodotto/gym-bike-diamond-d55_93755",
 "Cyclette Diamond D70|Cyclette Diamond D70 Sistema Frenante Elettromagnetico potenza max|2017/12/cyclette-diamond-d70|data.oliviero.it/imgprodotto/cyclette-diamond-d70_143431",
 "Ellittica DIamond D63|Ellittica Diamond D63 Caratteristiche Sistema frenante|2017/12/ellittica-diamond-d63|data.oliviero.it/imgprodotto/ellittica-diamond-d63_146194",
 "Tapis Roulant Diamond D95|Tapis Roulant Diamond D95 Caratteristiche Motore 3,5 hp AC|2017/12/tapis-roulant-diamond-d95|data.oliviero.it/imgprodotto/tapis-roulant-diamond-d95_146192",

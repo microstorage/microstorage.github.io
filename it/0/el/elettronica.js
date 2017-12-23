@@ -1,4 +1,9 @@
 Gr = [
+"Aqua Spa Fasciatoio 226|Il Bagnetto Cam Aqua SPA C77 comprende una comoda vaschetta anatomica|2017/12/aqua-spa-fasciatoio-226|data.oliviero.it/imgprodotto/aqua-spa-fasciatoio-226_171529",
+"Aqua Fasciatoio 222|Bagnetto / fasciatoio dalle forme moderne. La vaschetta è dotata di|2017/12/aqua-fasciatoio-222|data.oliviero.it/imgprodotto/aqua-fasciatoio-222_171526",
+"Vaschetta ergonomica tummy tub|La Tummy Tub è una vachetta ergonomica e anatomica per neonati|2017/12/vaschetta-ergonomica-tummy-tub|data.oliviero.it/imgprodotto/vaschetta-ergonomica-tummy-tub_146908",
+"Vaschetta Onda Slim|Età di utilizzo: 0/12 mesi. Vaschetta pieghevole con sistema|2017/12/vaschetta-onda-slim|data.oliviero.it/imgprodotto/vaschetta-onda-slim_151661",
+"Bagnetto Fasciatoio Du Du|Fasciatoio con 4 cassetti e ruote piroettanti. Vaschetta all'interno|2017/12/bagnetto-fasciatoio-du-du|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-du-du_10560_big",
 "Fasciatoio Tris Ciak Bianco|Pali offre una linea completa di bagnetti fasciatoio, per la cura del|2017/12/fasciatoio-tris-ciak-bianco|data.oliviero.it/imgprodotto/fasciatoio-tris-ciak-bianco_153453",
 "Bagnetto dell'ippopotamo|La struttura dalle forme arrotondate crea una zona confortevole per|2017/12/bagnetto-dell-ippopotamo|data.oliviero.it/imgprodotto/bagnetto-dellippopotamo_87951",
 "Bagnetto Fasciatoio Zoe Crema|Pali offre una linea completa di bagnetti fasciatoio, per la cura del|2017/12/bagnetto-fasciatoio-zoe-crema|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-zoe-crema_147377",

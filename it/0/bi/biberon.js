@@ -1,4 +1,8 @@
 Gr = [
+"Biberon Caucciù 250ml|biberon Linea Benessere in caucciu 250 ml 0% BPA Chicco sono dedicati|2017/12/biberon-caucciu-250ml|data.oliviero.it/imgprodotto/biberon-caucci%C3%B9-250ml_51997",
+"Biberon 125 ml pp natural|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-125-ml-pp-natural|data.oliviero.it/imgprodotto/biberon-125-ml-pp-natural_66809",
+"Biberon 260 ml azzurro natural|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-260-ml-azzurro-natural|data.oliviero.it/imgprodotto/biberon-260-ml-azzurro-natural_71632",
+"Biberon Caucciù 330 ml|Biberon Linea Benessere in caucciu 330 ml 0% BPA Chicco sono dedicati|2017/12/biberon-caucciu-330-ml|data.oliviero.it/imgprodotto/biberon-caucci%C3%B9-330-ml_138612",
 "Biberon angolato 250 ml|La tettarella sempre colma di latte previene l'ingestione di aria|2017/12/biberon-angolato-250-ml|data.oliviero.it/imgprodotto/biberon-angolato-250-ml_142991",
 "Biberon 160 ml verde|Con il biberon First Bottle i bambini si sentono al sicuro fin dal|2017/12/biberon-160-ml-verde|data.oliviero.it/imgprodotto/biberon-160-ml-verde_53140",
 "Biberon Caucciù 240 ml viaggio|Biberon Linea Benessere in caucciu 330 ml 0% BPA Chicco sono dedicati|2017/12/biberon-caucciu-240-ml-viaggio|data.oliviero.it/imgprodotto/biberon-caucci%C3%B9-240-ml-viaggio_138613",

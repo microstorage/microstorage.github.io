@@ -1,4 +1,5 @@
 Gr = [
+"Sci Vantage X83 CTI + Warden MNC 13|Il nuovo Atomic Vantage X 83 CTI è lo sci più largo della serie di|2017/12/sci-vantage-x83-cti-+-warden-mnc-13|data.oliviero.it/imgprodotto/sci-vantage-x83-cti-warden-mnc-13_156426",
 "Sci Redster Doubledeck 3.0 GS + X 12 TL|Nell'Atomic Redster Doubledeck 3.0 GS abbiamo messo tutta la nostra|2017/12/sci-redster-doubledeck-3-0-gs-+-x-12-tl|data.oliviero.it/imgprodotto/sci-redster-doubledeck-3-0-gs-x-12-tl_156523",
 "Sci Backland FR 109 + Warden MNC 13|Lo sci Atomic Backland FR 109 è eccellente in alta montagna, con la|2017/12/sci-backland-fr-109-+-warden-mnc-13|data.oliviero.it/imgprodotto/sci-backland-fr-109-warden-mnc-13_156432",
 "Sci Vantage X80 Wmn CTI + W 11 DT|Come su Vantage, abbiamo inserito all'interno dello sci uno strato|2017/12/sci-vantage-x80-wmn-cti-+-w-11-dt|data.oliviero.it/imgprodotto/sci-vantage-x80-wmn-cti-w-11-dt-aass01140_157945",

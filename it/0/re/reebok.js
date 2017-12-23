@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe CL Leather SG|Lo stile Classic la fa da padrone quest'anno: il nostro Seasonal Gum|2017/12/scarpe-cl-leather-sg|data.oliviero.it/imgprodotto/scarpe-cl-leather-sg_168692",
 "Scarpe Classic Leather|Non sarai mai a corto di stile. La tomaia in morbida pelle offre il|2017/12/scarpe-classic-leather|data.oliviero.it/imgprodotto/scarpe-classic-leather-28413_159833",
 "Scarpe Melted Metal (W)|Tra stile moderno e tradizionale non serve più scegliere: questa|2017/12/scarpe-melted-metal-w|data.oliviero.it/imgprodotto/scarpe-melted-metal-w-_168676",
 "Scarpe Club 85 LTHR (W)|Tra stile moderno e tradizionale non serve più scegliere: questa Club|2017/12/scarpe-club-85-lthr-w|data.oliviero.it/imgprodotto/scarpe-club-85-lthr-w-_168688",

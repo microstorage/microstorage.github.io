@@ -1,4 +1,12 @@
 Gr = [
+"Scarpe All star hi|Utilizzo: Calzatura Moda sport Tomaia: Tela Battistrada: Gomma|2017/12/scarpe-all-star-hi|data.oliviero.it/imgprodotto/scarpe-all-star-hi_73776",
+"Scarpe Uomo Nebula Chestnut|Collezione Autunno Inverno/2018 Pensate per un uomo dinamico|2017/12/scarpe-uomo-nebula-chestnut|data.oliviero.it/imgprodotto/scarpe-uomo-nebula-chestnut_168830",
+"Scarpe Chapman Mid|La Scarpa Vans Chapman Mid M è una Sneakers Alta Uomo In Linea allo|2017/12/scarpe-chapman-mid|data.oliviero.it/imgprodotto/scarpe-chapman-mid-vn0a2xswonv_167694",
+"Scarpe Chuck Taylor All Star|Utilizzo: Calzatura Moda Sport Tomaia: Tela Battistrada: Suola in|2017/12/scarpe-chuck-taylor-all-star|data.oliviero.it/imgprodotto/scarpe-chuck-taylor-all-star_73896",
+"Scarpe Ct As Rummage Hi Glitter e Borchie|Converse originali personalizzate da glitter e borchie Questo modello|2017/12/scarpe-ct-as-rummage-hi-glitter-e-borchie|data.oliviero.it/imgprodotto/scarpe-ct-as-rummage-hi-glitter-e-borchie_124613",
+"Scarpe Uomo Adventure 2.0 Cuoio|Collezione Autunno Inverno/2018 Stai sempre in movimento e sfida|2017/12/scarpe-uomo-adventure-2-0-cuoio|data.oliviero.it/imgprodotto/scarpe-uomo-adventure-2-0-cuoio_171073",
+"Scarpe Air Jordan 1 Mid|La scarpa Air Jordan 1 Mid - Uomo ripropone lo stile dell'originale|2017/12/scarpe-air-jordan-1-mid|data.oliviero.it/imgprodotto/scarpe-air-jordan-1-mid_166491",
+"Scarpe Ct As Print Hi|Sneakers donna Tomaia tessuto sulola in gomma con disegno antiscivolo|2017/12/scarpe-ct-as-print-hi|data.oliviero.it/imgprodotto/scarpe-ct-as-print-hi-152699c_141181",
 "Scarpe All Star Pro Leather Mid|Utilizzo: Calzatura Moda Sport unisex Tomaia: Pelle Battistrada:|2017/12/scarpe-all-star-pro-leather-mid|data.oliviero.it/imgprodotto/scarpe-all-star-pro-leather-mid-155098_152492",
 "Scarpe Fierce Eng Mesh (W)|La versione Engineered Mesh delle Fierce di PUMA by Rihanna presenta|2017/12/scarpe-fierce-eng-mesh-w|data.oliviero.it/imgprodotto/scarpe-fierce-eng-mesh-w-189417-04_152743",
 "Scarpe CT as seasnl hi|Utilizzo: Calzatura Moda Sport Tomaia: Tela Battistrada: Gomma|2017/12/scarpe-ct-as-seasnl-hi|data.oliviero.it/imgprodotto/scarpe-ct-as-seasnl-hi_73804",

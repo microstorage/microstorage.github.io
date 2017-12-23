@@ -1,4 +1,11 @@
 Gr = [
+"Scarpe Uomo Nebula Chestnut|Collezione Autunno Inverno/2018 Pensate per un uomo dinamico|2017/12/scarpe-uomo-nebula-chestnut|data.oliviero.it/imgprodotto/scarpe-uomo-nebula-chestnut_168830",
+"Scarpe Donna Airell Bianco|Collezione Primavera Estate Sneakers da donna con allacciatura|2017/12/scarpe-donna-airell-bianco|data.oliviero.it/imgprodotto/scarpe-donna-airell-bianco_165226",
+"Giubbotto Uomo Dark Navy M7221V F4300|Collezione Primaver Estate Giubbotto da uomo ideale per la stagione|2017/12/giubbotto-uomo-dark-navy-m7221v-f4300|data.oliviero.it/imgprodotto/giubbotto-uomo-dark-navy-m7221v-f4300_158447",
+"Scarpe Donna Airell Grigio|Collezione Autunno Inverno/2018 Sneakers da donna con allacciatura|2017/12/scarpe-donna-airell-grigio|data.oliviero.it/imgprodotto/scarpe-donna-airell-grigio_167326",
+"Piumino Uomo Nero|Collezione Autunno Inverno/2018 Piumino da uomo con cappuccio, zip|2017/12/piumino-uomo-nero|data.oliviero.it/imgprodotto/piumino-uomo-nero_169344",
+"Piumino Uomo Dark Citron|Collezione Autunno Inverno/2018 Piumino da uomo con cappuccio, zip|2017/12/piumino-uomo-dark-citron|data.oliviero.it/imgprodotto/piumino-uomo-dark-citron_169341",
+"Piumino Uomo Light Indigo|Collezione Autunno Inverno/2018 Piumino da uomo a tre tasche (una di|2017/12/piumino-uomo-light-indigo|data.oliviero.it/imgprodotto/piumino-uomo-light-indigo_169289",
 "Scarpe Uomo Symbol Nero|Collezione Autunno Inverno/2018 Versatili e confortevoli, dal design|2017/12/scarpe-uomo-symbol-nero|data.oliviero.it/imgprodotto/scarpe-uomo-symbol-nero_168859",
 "Piumino Uomo Phantom|Collezione Autunno Inverno/2018 Una struttura a microcelle permette|2017/12/piumino-uomo-phantom|data.oliviero.it/imgprodotto/piumino-uomo-phantom_169292",
 "Giubbotto Uomo Light Stone|Collezione Primaver Estate Giubbotto da uomo ideale per la stagione|2017/12/giubbotto-uomo-light-stone|data.oliviero.it/imgprodotto/giubbotto-uomo-light-stone-m7221v-f1138_158449",

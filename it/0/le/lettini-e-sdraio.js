@@ -1,4 +1,6 @@
 Gr = [
+"Sdraio Dondolino 152|Dondolino oscillante Caratteristiche tecniche: Telaio in acciaio|2017/12/sdraio-dondolino-152|data.oliviero.it/imgprodotto/sdraio-dondolino-152_125055",
+"Sdraio Reclinabile 330|Sdraio reclinabile in textilene Caratteristiche tecniche: Telaio in|2017/12/sdraio-reclinabile-330|data.oliviero.it/imgprodotto/sdraio-reclinabile-330_163211",
 "Brandina Rambla text Blue|Caratteristiche tecniche: Materiale: textilene Brandina da mare con|2017/12/brandina-rambla-text-blue|data.oliviero.it/imgprodotto/brandina-rambla-text-blue_87110",
 "Sdraio 6 Posizioni|COMPOSIZIONE DEI MATERIALI Tubo d'acciaio verniciato con vernici|2017/12/sdraio-6-posizioni|data.oliviero.it/imgprodotto/sdraio-6-posizioni-240-5r_159661",
 "Sdraio Ocean Ecrù|Sdraio Relax Multi-posizione Struttura in tubolare di ferro|2017/12/sdraio-ocean-ecru|data.oliviero.it/imgprodotto/sdraio-ocean-ecr%C3%B9_108539",

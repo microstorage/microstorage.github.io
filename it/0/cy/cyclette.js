@@ -1,4 +1,13 @@
 Gr = [
+"Cyclette JK226|Sistema frenante Magnetico Regolazione inerzia 8 livelli di|2017/12/cyclette-jk226|data.oliviero.it/imgprodotto/cyclette-jk226_173189",
+"Cyckette Premium B6|LA BIKE GETFIT AUTO-ALIMENTATA PER UTILIZZO COMMERCIALE (non|2017/12/cyckette-premium-b6|data.oliviero.it/imgprodotto/cyckette-premium-b6_172774",
+"Cyclette Cycle M LA accesso facilitato|CYCLE M LA07629-400 Modello di ingresso nel mondo KETTLER, la|2017/12/cyclette-cycle-m-la-accesso-facilitato|data.oliviero.it/imgprodotto/cyclette-cycle-m-la-accesso-facilitato_130294",
+"Cyclette Ride 301|Cyclette con struttura solida e resistente ad un ottimo prezzo. Uno|2017/12/cyclette-ride-301|data.oliviero.it/imgprodotto/cyclette-ride-301_168542",
+"Cyclette Ride 260|Ride 260 è un modello pratico e performante per soddisfare i clienti|2017/12/cyclette-ride-260|data.oliviero.it/imgprodotto/cyclette-ride-260_172802",
+"Foldable Bike F192|Ride F192 è dotata di una struttura dal minimo ingombro ideale per|2017/12/foldable-bike-f192|data.oliviero.it/imgprodotto/foldable-bike-f192_172815",
+"Cyclette Ride 402|Ride 402 è una home bike che racchiude in sè il meglio per chi|2017/12/cyclette-ride-402|data.oliviero.it/imgprodotto/cyclette-ride-402_172811",
+"Cyclette ST 600|Cyclette St 600, particolarmente adatta per uso domestico.Il computer|2017/12/cyclette-st-600|data.oliviero.it/imgprodotto/cyclette-st-600_127093",
+"Cyclette Golf C2|KETTLER GOLF C2 Computer LDC multi informazione, facile da usare con|2017/12/cyclette-golf-c2|data.oliviero.it/imgprodotto/cyclette-golf-c2_158001",
 "Cyclette Ergometer AM-E B|L'ergometro Bike AM-E è una cyclette attraente, ergonomica, dall'alto|2017/12/cyclette-ergometer-am-e-b|data.oliviero.it/imgprodotto/cyclette-ergometer-am-e-b_109704",
 "Cyclette Golf C4|KETTLER GOLF C4 Computer LCD alta risoluzione multi informazione con|2017/12/cyclette-golf-c4|data.oliviero.it/imgprodotto/cyclette-golf-c4_158003",
 "Cyclette Ergo C10|Un vero ergometro con 2 modalità di utilizzo: modalità AUTO (rpm|2017/12/cyclette-ergo-c10|data.oliviero.it/imgprodotto/cyclette-ergo-c10_158044",

@@ -1,4 +1,7 @@
 Gr = [
+"Altalena Althea Multicolor|L'altalena per neonati Althea accoglie e culla il tuo bambino sin dai|2017/12/altalena-althea-multicolor|data.oliviero.it/imgprodotto/altalena-althea-multicolor_172582",
+"Seggiolone Slex Evo giallo cedro|Slex Evo è quattro prodotti in uno: sdraietta confortevole, sin dalla|2017/12/seggiolone-slex-evo-giallo-cedro|data.oliviero.it/imgprodotto/seggiolone-slex-evo-giallo-cedro_145194",
+"Box Soft & Play Giramondo|Per le famiglie metropolitane, ecco una piccola città ricreata sul|2017/12/box-soft-play-giramondo|data.oliviero.it/imgprodotto/box-soft-%26-play-giramondo_172593",
 "Altalena Brilly|Altalena elettrica con suoni. Barra giochi orientabile e removibile|2017/12/altalena-brilly|data.oliviero.it/imgprodotto/altalena-brilly_172225",
 "Seggiolino Tazio tt isofix nero-grigio|TAZIO Isofix TT il seggiolino 1.2.3 auto reclinabile isofix|2017/12/seggiolino-tazio-tt-isofix-nero-grigio|data.oliviero.it/imgprodotto/seggiolino-tazio-tt-isofix-nero-grigio_151414",
 "Palestrina Nido Foresta|La palestrina per neonati Nido Foresta è proprio un vero nido pensato|2017/12/palestrina-nido-foresta|data.oliviero.it/imgprodotto/palestrina-nido-foresta_172605",

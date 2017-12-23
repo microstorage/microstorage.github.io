@@ -1,4 +1,7 @@
 Gr = [
+"Sacco Boxe Pavimento Oscillante|Sacco Boxe Pavimento Oscillante SCHIAVI. Caratteristiche tecniche:|2017/12/sacco-boxe-pavimento-oscillante|data.oliviero.it/imgprodotto/sacco-boxe-pavimento-oscillante_162182",
+"Sacco Boxe 30 Kg|I sacchi boxe GetFit sono indicati per ogni tipologia di atleta|2017/12/sacco-boxe-30-kg|data.oliviero.it/imgprodotto/sacco-boxe-30-kg_170765",
+"Sacco boxe + Guantoni|Sacco + guanti da allenamento Caratteristiche : Completo boxe|2017/12/sacco-boxe-+-guantoni|data.oliviero.it/imgprodotto/sacco-boxe-guantoni_71355",
 "Supporto a Muro per Sacco Boxe|Robusto supporto a muro per sacco da boxe. Indispensabile per|2017/12/supporto-a-muro-per-sacco-boxe|data.oliviero.it/imgprodotto/supporto-a-muro-per-sacco-boxe_3491_big",
 "Sacco boxe H75|Sacco boxe free-standing per aerobic boxe e kickboxe o qualsiasi|2017/12/sacco-boxe-h75|data.oliviero.it/imgprodotto/sacco-boxe-h75_385_big",
 "Sacco Super Series 30D 150x30|SACCO DA BOXE PROFESSIONALE Peso 40kg Altezza 150cm Diametro 30cm|2017/12/sacco-super-series-30d-150x30|data.oliviero.it/imgprodotto/sacco-super-series-30d-150x30_109025",

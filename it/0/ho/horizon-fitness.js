@@ -1,4 +1,6 @@
 Gr = [
+"Tapis Roulant Adventure 3 New|Con la nostra gamma di Tapis roulant raggiungi i tuoi obiettivi più|2017/12/tapis-roulant-adventure-3-new|data.oliviero.it/imgprodotto/tapis-roulant-adventure-3-new_154137",
+"Tapis Roulant Adventure 7 New|Progettato per alte performance, Adventure 7 ha un'area di corsa più|2017/12/tapis-roulant-adventure-7-new|data.oliviero.it/imgprodotto/tapis-roulant-adventure-7-new_154129",
 "Vogatore Oxfort 5|Il vogatore Oxford 5 ha una seduta larga e confortevole con guida di|2017/12/vogatore-oxfort-5|data.oliviero.it/imgprodotto/vogatore-oxfort-5_154159",
 "Ellittica Andes 5 New|Facile assemblaggio, chiusura in un solo movimento, design compatto|2017/12/ellittica-andes-5-new|data.oliviero.it/imgprodotto/ellittica-andes-5-new_139331",
 "Ellittica Syros|Se state cercando un allenamento total body, l'ellittica Syros vi|2017/12/ellittica-syros|data.oliviero.it/imgprodotto/ellittica-syros_154157",

@@ -1,4 +1,5 @@
 Gr = [
+"Cucina princess legno|Grandi dimensioni Cucina realizzata in solido legno e pensata per le|2017/12/cucina-princess-legno|data.oliviero.it/imgprodotto/cucina-princess-legno_163929",
 "Potere del Ghiaccio|Età 3+ Anni Le fan del film Frozen possono incanalare i poteri magici|2017/12/potere-del-ghiaccio|data.oliviero.it/imgprodotto/potere-del-ghiaccio-frozen_139573",
 "Pixel Photo 4 tavole|6A+ La fortunata linea Pixel Art si amplia con Pixel Photo. Il|2017/12/pixel-photo-4-tavole|data.oliviero.it/imgprodotto/pixel-photo-4-tavole_156255",
 "Carrozzina per Bambole in metallo|Ideale per portare a spasso la tua bambola, la carrozzina di Teorema|2017/12/carrozzina-per-bambole-in-metallo|data.oliviero.it/imgprodotto/carrozzina-per-bambole-in-metallo-04060_156802",

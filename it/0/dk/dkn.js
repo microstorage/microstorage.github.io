@@ -1,4 +1,5 @@
 Gr = [
+"Vogatore Rower R400|Per tutti coloro che vogliono sviluppare la parte superiore del|2017/12/vogatore-rower-r400|data.oliviero.it/imgprodotto/vogatore-rower-r400_73951",
 "Cyclette Ergometer AM-E B|L'ergometro Bike AM-E è una cyclette attraente, ergonomica, dall'alto|2017/12/cyclette-ergometer-am-e-b|data.oliviero.it/imgprodotto/cyclette-ergometer-am-e-b_109704",
 "Tapis Roulant Treadmill AiRun I B|Il tapis roulant pieghevole DKN AiRun I è completo, affidabile|2017/12/tapis-roulant-treadmill-airun-i-b|data.oliviero.it/imgprodotto/tapis-roulant-treadmill-airun-i-b_109707",
 "Tapis Roulant Treadmill AiRun-X Black|Il Tapis roulant pieghevole DKN AiRun-X è dotato di un design|2017/12/tapis-roulant-treadmill-airun-x-black|data.oliviero.it/imgprodotto/tapis-roulant-treadmill-airun-x-black_109712",

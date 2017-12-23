@@ -1,4 +1,6 @@
 Gr = [
+"Bilancia Pesapersone Wireless|Bilancia Pesapersone Wireless - 40.809 Pedana in vetro temperato|2017/12/bilancia-pesapersone-wireless|data.oliviero.it/imgprodotto/bilancia-pesapersone-wireless-40-809_106105",
+"Bilancia Pesapersona tipo medico|Bilancia Pesapersona tipo medico - 40.804 Caratteristiche Corpo in|2017/12/bilancia-pesapersona-tipo-medico|data.oliviero.it/imgprodotto/bilancia-pesapersona-tipo-medico-40-804_106114",
 "Rasoio Ricaricabile|Rasoio Ricaricabile 3 in 1 Wet and Dry - 40.996 Caratteristiche:|2017/12/rasoio-ricaricabile|data.oliviero.it/imgprodotto/rasoio-ricaricabile-40-996_106092",
 "Phon Studio Dry 2100|Ultracompatto ed estremamente potente al contempo, l'asciugacapelli|2017/12/phon-studio-dry-2100|data.oliviero.it/imgprodotto/phon-studio-dry-2100_161661",
 "Phon SHD-7036 Sinbo|Caratteristiche principali SHS 7603 2 temperatura impostazioni di|2017/12/phon-shd-7036-sinbo|data.oliviero.it/imgprodotto/phon-shd-7036-sinbo_155935",

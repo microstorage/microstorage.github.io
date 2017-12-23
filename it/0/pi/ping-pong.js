@@ -1,4 +1,10 @@
 Gr = [
+"Tavolo Ping Pong Master da esterno Blu|Modello per esterno, pieghevole, disponibile con piano gioco blu, con|2017/12/tavolo-ping-pong-master-da-esterno-blu|data.oliviero.it/imgprodotto/tavolo-ping-pong-master-da-esterno-blu_83109",
+"Tavolo Ping Pong Challenge Indoor Blu|Ping Pong Challenge Indoor GARLANDO. Modello per interno, pieghevole|2017/12/tavolo-ping-pong-challenge-indoor-blu|data.oliviero.it/imgprodotto/tavolo-ping-pong-challenge-indoor-blu_83051",
+"Racchetta Impax ACS 2 Stelle|Racchetta Ping Pong Caratteristiche tecniche Struttura in compensato|2017/12/racchetta-impax-acs-2-stelle|data.oliviero.it/imgprodotto/racchetta-impax-acs-2-stelle_8328_big",
+"Tavolo Ping Pong Master Indoor Blu|Modello per interno, pieghevole, disponibile con piano gioco verde|2017/12/tavolo-ping-pong-master-indoor-blu|data.oliviero.it/imgprodotto/tavolo-ping-pong-master-indoor-blu_83074",
+"Racchetta ping pong React|REACT WRB RACCHETTA DA PING PONG STIGA COD.2C4-501 React WRB combina|2017/12/racchetta-ping-pong-react|data.oliviero.it/imgprodotto/racchetta-ping-pong-react_59698",
+"Tavolo Ping Pong Axos Outdoor 1|Ping Pong - AXOS OUTDOOR 1 Articolo No.: 07047-900 Modello per uso|2017/12/tavolo-ping-pong-axos-outdoor-1|data.oliviero.it/imgprodotto/tavolo-ping-pong-axos-outdoor-1_110102",
 "Tavolo Ping Pong 540 Competition ITTF Indoor|Il tavolo ping pong Cornilleau 540 indoor é indicato per un utilizzo|2017/12/tavolo-ping-pong-540-competition-ittf-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-540-competition-ittf-indoor_58075",
 "Tavolo Ping Pong Axos Indoor 1|Ping Pong - AXOS INDOOR 1 Articolo No.: 07046-900 Caratteristiche|2017/12/tavolo-ping-pong-axos-indoor-1|data.oliviero.it/imgprodotto/tavolo-ping-pong-axos-indoor-1_110095",
 "Tavolo Ping Pong T914 Super Gara Indoor|MODELLO: TAVOLO PING PONG 'SUPER GARA' Tavolo montato su ruote|2017/12/tavolo-ping-pong-t914-super-gara-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-t914-super-gara-indoor_6990_big",

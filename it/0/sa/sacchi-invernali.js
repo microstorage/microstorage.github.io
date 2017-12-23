@@ -1,4 +1,7 @@
 Gr = [
+"Sacco Passeggino Alex Pietra|Il nuovissimo sacco termico per passeggino Alex garantirà protezione|2017/12/sacco-passeggino-alex-pietra|data.oliviero.it/imgprodotto/sacco-passeggino-alex-pietra_170131",
+"Sacco Ovetto-Carrozzina Mucky Stelle Rosa|Sacco Ovetto Mucky PICCI. Sacco imbottito studiato per i climi più|2017/12/sacco-ovetto-carrozzina-mucky-stelle-rosa|data.oliviero.it/imgprodotto/sacco-ovetto-carrozzina-mucky-stelle-rosa_170109",
+"Sacco Passeggino Snow Master|Il sacco termico Snow-Master Melange è il meglio che potete offrire|2017/12/sacco-passeggino-snow-master|data.oliviero.it/imgprodotto/sacco-passeggino-snow-master_170121",
 "Sacco Ovetto-Carrozzina Alex Blu|Il nuovissimo sacco termico per passeggino Alex garantirà protezione|2017/12/sacco-ovetto-carrozzina-alex-blu|data.oliviero.it/imgprodotto/sacco-ovetto-carrozzina-alex-blu_170129",
 "Sacco Ovetto-Carrozzina Mucky Cool Grey|Sacco Ovetto Mucky PICCI. Sacco imbottito studiato per i climi più|2017/12/sacco-ovetto-carrozzina-mucky-cool-grey|data.oliviero.it/imgprodotto/sacco-ovetto-carrozzina-mucky-cool-grey_172173",
 "Sacco Passeggino Alex Blu|Il nuovissimo sacco termico per passeggino Alex garantirà protezione|2017/12/sacco-passeggino-alex-blu|data.oliviero.it/imgprodotto/sacco-passeggino-alex-blu_170130",

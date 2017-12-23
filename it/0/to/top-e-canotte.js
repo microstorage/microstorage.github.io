@@ -1,4 +1,6 @@
 Gr = [
+"Canotta Tennis NikeCourt Team Pure|La canotta da tennis NikeCourt Team Pure - Donna è realizzata in un|2017/12/canotta-tennis-nikecourt-team-pure|data.oliviero.it/imgprodotto/canotta-tennis-nikecourt-team-pure_167775",
+"Canotta Sportiva Donna Bianco Dry|La canotta da allenamento Nike Dry - Donna è realizzata in tessuto|2017/12/canotta-sportiva-donna-bianco-dry|data.oliviero.it/imgprodotto/canotta-sportiva-donna-bianco-dry_167766",
 "Canotta J2S4PA 00252|Collezione Twin set Jeans Canotta da donna con spalline regolari|2017/12/canotta-j2s4pa-00252|data.oliviero.it/imgprodotto/canotta-j2s4pa-00252_146536",
 "Canotta Banane|Collezione Primavera Estate Tipologia: Canotta da donna Tessuto|2017/12/canotta-banane|data.oliviero.it/imgprodotto/canotta-banane_12472_big",
 "Top J2S4XB 00100|Collezione Twin-set Jeans Top da donna senza bretelle in tessuto|2017/12/top-j2s4xb-00100|data.oliviero.it/imgprodotto/top-j2s4xb-00100_146527",

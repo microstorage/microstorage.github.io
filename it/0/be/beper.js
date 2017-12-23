@@ -1,4 +1,13 @@
 Gr = [
+"Macchina Caffè Americano|Macchina Caffè Americano Codice: 90.391 Descrizione : Corpo in|2017/12/macchina-caffe-americano|data.oliviero.it/imgprodotto/macchina-caff%C3%A8-americano-90-391_88985",
+"Bollitore 1,7 litri|Bollitore 1,7 litri Codice: 90.393 Descrizione: Corpo in plastica|2017/12/bollitore-1-7-litri|data.oliviero.it/imgprodotto/bollitore-1-7-litri-90-393_88995",
+"Umidificatore ad Ultrasuoni Hello Kitty|Umidificatore ad Ultrasuoni Hello Kitty Codice: HK-HQ601C Descrizione|2017/12/umidificatore-ad-ultrasuoni-hello-kitty|data.oliviero.it/imgprodotto/umidificatore-ad-ultrasuoni-hello-kitty-hk-hq601c_131329",
+"Bilancia Pesapersone Wireless|Bilancia Pesapersone Wireless - 40.809 Pedana in vetro temperato|2017/12/bilancia-pesapersone-wireless|data.oliviero.it/imgprodotto/bilancia-pesapersone-wireless-40-809_106105",
+"Piastra per tortine Salate|Piastra per torte Salate - 90.605 Caratteristiche Piastra in|2017/12/piastra-per-tortine-salate|data.oliviero.it/imgprodotto/piastra-per-tortine-salate-90-605_106094",
+"Bilancia Pesapersona tipo medico|Bilancia Pesapersona tipo medico - 40.804 Caratteristiche Corpo in|2017/12/bilancia-pesapersona-tipo-medico|data.oliviero.it/imgprodotto/bilancia-pesapersona-tipo-medico-40-804_106114",
+"Spazzola a Vapore Multifunzione|Spazzola a Vapore Multifunzione Codice: 50.940A Descrizione : Piastra|2017/12/spazzola-a-vapore-multifunzione|data.oliviero.it/imgprodotto/spazzola-a-vapore-multifunzione-50-940a_90161",
+"Forno 9L Rosso|Forno 9L Rosso Codice: 90.372 Descrizione : 9 L Elementi riscaldanti|2017/12/forno-9l-rosso|data.oliviero.it/imgprodotto/forno-9l-rosso-90-372_90329",
+"Aspirapolvere cyclonica compatto 50.923|Aspirapolvere cyclonica Codice: 50.923 Descrizione|2017/12/aspirapolvere-cyclonica-compatto-50-923|data.oliviero.it/imgprodotto/aspirapolvere-cyclonica-compatto-50-923_157318",
 "Robot da Cucina 300 watt|Robot da Cucina 300 watt Codice: 90.312 Descrizione : Corpo in abs|2017/12/robot-da-cucina-300-watt|data.oliviero.it/imgprodotto/robot-da-cucina-300-watt-90-312_89077",
 "Bilancia da cucina 2 in 1 viola 90.114F|Bilancia da cucina 2 in 1 viola Descrizione Ciotola in acciaio inox|2017/12/bilancia-da-cucina-2-in-1-viola-90-114f|data.oliviero.it/imgprodotto/bilancia-da-cucina-2-in-1-viola-90-114f_160603",
 "Rasoio Ricaricabile|Rasoio Ricaricabile 3 in 1 Wet and Dry - 40.996 Caratteristiche:|2017/12/rasoio-ricaricabile|data.oliviero.it/imgprodotto/rasoio-ricaricabile-40-996_106092",

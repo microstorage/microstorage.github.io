@@ -1,4 +1,10 @@
 Gr = [
+"Jeans Uomo Taglie Forti Fantome|Jeans da uomo taglie forti. Il modello presenta allacciatura frontale|2017/12/jeans-uomo-taglie-forti-fantome|data.oliviero.it/imgprodotto/jeans-uomo-taglie-forti-fantome_168527",
+"Gilet 100 gr Taglie Forti Bordeaux|Collezione Autunno Inverno/2018 Gilet Uomo taglie forti. Il modello|2017/12/gilet-100-gr-taglie-forti-bordeaux|data.oliviero.it/imgprodotto/gilet-100-gr-taglie-forti-bordeaux_171463",
+"Jeans taglie forti uomo - 12427 001|Tipologia: Jeans uomo Taglie forti Tessuto: 98% cotone e 2% elastan|2017/12/jeans-taglie-forti-uomo--12427-001|data.oliviero.it/imgprodotto/jeans-taglie-forti-uomo-%C2%96-12427-001_91095",
+"Giubbino Taglie Forti Uomo Rosso|Collezione Primavera Estate Giubbino da uomo taglie forti. Il modello|2017/12/giubbino-taglie-forti-uomo-rosso|data.oliviero.it/imgprodotto/giubbino-taglie-forti-uomo-rosso-gaggio_164280",
+"Pantaloni Taglie Forti Uomo Troy Blu|Collezione Autunno Inverno/2018 Pantaloni taglie forti da uomo. Il|2017/12/pantaloni-taglie-forti-uomo-troy-blu|data.oliviero.it/imgprodotto/pantaloni-taglie-forti-uomo-troy-blu_168573",
+"Piumino Taglie Forti Uomo Frode|Collezione Autunno Inverno/2018 Piumino uomo taglie forti. Il modello|2017/12/piumino-taglie-forti-uomo-frode|data.oliviero.it/imgprodotto/piumino-taglie-forti-uomo-frode_171457",
 "Boxer taglie forti 250 grigio|Boxer uomo taglie forti realizzato in 90% cotone e 10% elastan|2017/12/boxer-taglie-forti-250-grigio|data.oliviero.it/imgprodotto/boxer-taglie-forti-250-grigio_63509",
 "Canotta taglie forti uomo nera XF550|Tipologia : Canotta intima Taglie Forti uomo Tessuto : 100% cotone|2017/12/canotta-taglie-forti-uomo-nera-xf550|data.oliviero.it/imgprodotto/canotta-taglie-forti-uomo-nera-xf550_57472",
 "Giubbino Uomo Taglie Forti Mads 999|Collezione Autunno Inverno/2018 Giubbotto uomo taglie forti. Il|2017/12/giubbino-uomo-taglie-forti-mads-999|data.oliviero.it/imgprodotto/giubbino-uomo-taglie-forti-mads-999_168507",

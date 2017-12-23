@@ -1,4 +1,12 @@
 Gr = [
+"Busta Acquastop 2L|Sacche in nylon spalmato termosaldate con chiusura arrotolabile|2017/12/busta-acquastop-2l|data.oliviero.it/imgprodotto/busta-acquastop-2l-xs_108101",
+"Tenda Ready Steady 5 Gonfiabile da Campeggio|Tenda caratterizzata da un'innovativa struttura pneumatica al posto|2017/12/tenda-ready-steady-5-gonfiabile-da-campeggio|data.oliviero.it/imgprodotto/tenda-ready-steady-5-gonfiabile-da-campeggio_158517",
+"Zaino trekking Finisterre 38|Zaino dal profilo lineare e completo di tutte le dotazioni. Il dorso|2017/12/zaino-trekking-finisterre-38|data.oliviero.it/imgprodotto/zaino-trekking-finisterre-38-75734_171664",
+"Tenda Snowbound 3 da Campeggio|Serie di tende da alta quota, massime prestazioni in termini di|2017/12/tenda-snowbound-3-da-campeggio|data.oliviero.it/imgprodotto/tenda-snowbound-3-da-campeggio_162275",
+"Zaino Alta Via 35|Zaino da escursionismo dotato di dorso super traspirante D.N.S|2017/12/zaino-alta-via-35|data.oliviero.it/imgprodotto/zaino-alta-via-35-75217_151416",
+"Bastone da passeggio Alpen stock|Bastone da passeggio composto da 2 sezioni telescopiche in lega di|2017/12/bastone-da-passeggio-alpen-stock|data.oliviero.it/imgprodotto/bastone-da-passeggio-alpen-stock_79128",
+"Zaino trekking Zephyr 22+3|Serie di zaini studiati per attività running, mountain bike|2017/12/zaino-trekking-zephyr-22+3|data.oliviero.it/imgprodotto/zaino-trekking-zephyr-22-3-75812_163546",
+"Tenda Aerial 3 Verde da Campeggio|Tenda con struttura in duralluminio a 3 archi che aumenta|2017/12/tenda-aerial-3-verde-da-campeggio|data.oliviero.it/imgprodotto/tenda-aerial-3-verde-da-campeggio_158485",
 "Sacco Lenzuola Travel SQ|Sacco Lenzuola Travel SQ - 86502 Saccolenzuolo ideale per migliorare|2017/12/sacco-lenzuola-travel-sq|data.oliviero.it/imgprodotto/sacco-lenzuola-travel-sq-86502_145032",
 "Tenda Lhotse 4 da Campeggio|Massimo comfort e spazio uniti a robustezza, aerazione|2017/12/tenda-lhotse-4-da-campeggio|data.oliviero.it/imgprodotto/tenda-lhotse-4-da-campeggio_158446",
 "Tenda Tenere 4 Verde da Campeggio|Linea di tende per utilizzo campeggio estivo dotate di ampio abside|2017/12/tenda-tenere-4-verde-da-campeggio|data.oliviero.it/imgprodotto/tenda-tenere-4-verde-da-campeggio_158496",

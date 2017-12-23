@@ -1,4 +1,10 @@
 Gr = [
+"Trio Book 51 Urban Denim|Gli esclusivi sistemi modulari Peg Perego sono stati concepiti per|2017/12/trio-book-51-urban-denim|data.oliviero.it/imgprodotto/trio-book-51-urban-denim_170272",
+"Trio Book 51 S Luxe Bluenight|Gli esclusivi sistemi modulari Peg Perego sono stati concepiti per|2017/12/trio-book-51-s-luxe-bluenight|data.oliviero.it/imgprodotto/trio-book-51-s-luxe-bluenight_159160",
+"Trio Book 51 Breeze Kaki|Gli esclusivi sistemi modulari Peg Perego sono stati concepiti per|2017/12/trio-book-51-breeze-kaki|data.oliviero.it/imgprodotto/trio-book-51-breeze-kaki_170266",
+"Trio Book 51 Luxe Opal|Gli esclusivi sistemi modulari Peg Perego sono stati concepiti per|2017/12/trio-book-51-luxe-opal|data.oliviero.it/imgprodotto/trio-book-51-luxe-opal_159152",
+"Trio Book 51 S Breeze Noire|Gli esclusivi sistemi modulari Peg Perego sono stati concepiti per|2017/12/trio-book-51-s-breeze-noire|data.oliviero.it/imgprodotto/trio-book-51-s-breeze-noire_170278",
+"Trio Book 51 Geo Navy|Gli esclusivi sistemi modulari Peg Perego sono stati concepiti per|2017/12/trio-book-51-geo-navy|data.oliviero.it/imgprodotto/trio-book-51-geo-navy_170258",
 "Trio Book 51 Luxe Bluenight|Gli esclusivi sistemi modulari Peg Perego sono stati concepiti per|2017/12/trio-book-51-luxe-bluenight|data.oliviero.it/imgprodotto/trio-book-51-luxe-bluenight_159154",
 "Bassinet Stand|Bassinet un pratico supporto su cui agganciare, grazie al Sistema|2017/12/bassinet-stand|data.oliviero.it/imgprodotto/bassinet-stand_25291_big",
 "Base seggiolino auto Belted|Omologata secondo la normativa Europea in vigore ECE R44/04, per|2017/12/base-seggiolino-auto-belted|data.oliviero.it/imgprodotto/base-seggiolino-auto-belted_67768",

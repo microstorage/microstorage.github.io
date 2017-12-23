@@ -1,4 +1,9 @@
 Gr = [
+"Scarpe Calcetto Monarcida Neo As|Le scarpe calcetto Mizuno Monarcida as sono ideali per chi cerca una|2017/12/scarpe-calcetto-monarcida-neo-as|data.oliviero.it/imgprodotto/scarpe-calcetto-monarcida-neo-as_165885",
+"Scarpe Pallavolo Wave Bolt 6 Mid|Wave Bolt è una scarpa specifica per risposte veloci e performance|2017/12/scarpe-pallavolo-wave-bolt-6-mid|data.oliviero.it/imgprodotto/scarpe-pallavolo-wave-bolt-6-mid_169819",
+"Scarpe Running Wave Creation 18 (W)|La scarpa da running Mizuno Wave Creation 18, realizzata con|2017/12/scarpe-running-wave-creation-18-w|data.oliviero.it/imgprodotto/scarpe-running-wave-creation-18-w-j1gd160160_152103",
+"Scarpe Running Wave Equate (W)|Le scarpe running Mizuno Wave Equate donna sono ideali per le runner|2017/12/scarpe-running-wave-equate-w|data.oliviero.it/imgprodotto/scarpe-running-wave-equate-w-j1gd174805_162441",
+"Scarpe Running Wave Prodigy|L' intersuola U4icX garantisce un'ammortizzazione e comodità senza|2017/12/scarpe-running-wave-prodigy|data.oliviero.it/imgprodotto/scarpe-running-wave-prodigy_166776",
 "Scarpe Running Wave Prophecy 5|La nuova versione presenta un design aggiornato con uno stile più|2017/12/scarpe-running-wave-prophecy-5|data.oliviero.it/imgprodotto/scarpe-running-wave-prophecy-5-j1gc160003_151165",
 "Scarpe Running Paradox 3|Le scarpe running Mizuno Wave Paradox 3 studiate appositamente per|2017/12/scarpe-running-paradox-3|data.oliviero.it/imgprodotto/scarpe-running-paradox-3-j1gc161203_162457",
 "Scarpe Running Wave Ultima 9|Le WAVE ULTIMA 9 sono scarpe da allenamento stabili, ammortizzanti|2017/12/scarpe-running-wave-ultima-9|data.oliviero.it/imgprodotto/scarpe-running-wave-ultima-9_165908",

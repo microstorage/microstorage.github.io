@@ -1,4 +1,9 @@
 Gr = [
+"Scarpe Trail Running Uomo Akira GTX|Calzatura impermeabile in membrana Gore-Tex® specifica per winter|2017/12/scarpe-trail-running-uomo-akira-gtx|data.oliviero.it/imgprodotto/scarpe-trail-running-uomo-akira-gtx_170975",
+"Scarpe Trail Running Snowcross 2 CSWP|Non lasciare che una tormenta di neve interrompa il tuo allenamento|2017/12/scarpe-trail-running-snowcross-2-cswp|data.oliviero.it/imgprodotto/scarpe-trail-running-snowcross-2-cswp_169151",
+"Scarpe Trail Running Atlas|Scarpa veloce da SkyRace perfetta per performance sulle medie e brevi|2017/12/scarpe-trail-running-atlas|data.oliviero.it/imgprodotto/scarpe-trail-running-atlas_166823",
+"Scarpe Trail Running Tempesta GTX|Calzatura impermeabile da Winter Running pensata per allenamenti ed|2017/12/scarpe-trail-running-tempesta-gtx|data.oliviero.it/imgprodotto/scarpe-trail-running-tempesta-gtx_170976",
+"Scarpe Trail Running Ellipse 2 GTX W|Scarpa da escursionismo leggera superwoman, la ELLIPSE 2 GTX® da|2017/12/scarpe-trail-running-ellipse-2-gtx-w|data.oliviero.it/imgprodotto/scarpe-trail-running-ellipse-2-gtx-w_169588",
 "Scarpe Trail Running Speedcross 4|La quarta versione di questa scarpa da corsa iconica rivolta da capo|2017/12/scarpe-trail-running-speedcross-4|data.oliviero.it/imgprodotto/scarpe-trail-running-speedcross-4-383130_163259",
 "Scarpe Trail Running Atlas Wmn Trail|Nuova proposta CMP per il trail running, l'outdoor ed il tempo|2017/12/scarpe-trail-running-atlas-wmn-trail|data.oliviero.it/imgprodotto/scarpe-trail-running-atlas-wmn-trail_167710",
 "Scarpe Trail Running Speedcross 4 GTX|La SPEEDCROSS 4 GTX® è molto più che una scarpa da running, è un vero|2017/12/scarpe-trail-running-speedcross-4-gtx|data.oliviero.it/imgprodotto/scarpe-trail-running-speedcross-4-gtx_169160",

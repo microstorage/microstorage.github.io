@@ -1,4 +1,5 @@
 Gr = [
+"Fascia di contenimento per Adduttori|Fascia di contenimento per inguine e adduttori Aiuta a recuperare le|2017/12/fascia-di-contenimento-per-adduttori|data.oliviero.it/imgprodotto/fascia-di-contenimento-per-adduttori_171652",
 "Ginocchiere HEXtm 6446|Queste protezioni racchiudono tutto il comfort e l'efficacia della|2017/12/ginocchiere-hextm-6446|data.oliviero.it/imgprodotto/ginocchiere-hextm-6446_171675",
 "Supporto Ginocchio 429|Fascia in neoprene con rinforzo superiore a ferro di cavallo per|2017/12/supporto-ginocchio-429|data.oliviero.it/imgprodotto/supporto-ginocchio-429_83259",
 "Sostegno Ginocchio 402|Fascia di neoprene termico lunga 28cm con rivestimento in nylon su|2017/12/sostegno-ginocchio-402|data.oliviero.it/imgprodotto/sostegno-ginocchio-402_83265",

@@ -1,4 +1,8 @@
 Gr = [
+"Utility Bench UB60|Caratteristiche Tecniche REGOLAZIONE ANGOLAZIONE SCHIENALE SI (6|2017/12/utility-bench-ub60|data.oliviero.it/imgprodotto/utility-bench-ub60_171214",
+"Weight Bench WB60|Caratteristiche tecniche REGOLAZIONE ALTEZZA SUPPORTI SI (6|2017/12/weight-bench-wb60|data.oliviero.it/imgprodotto/weight-bench-wb60_171301",
+"Cross Fit Rack WT60|La struttura Tunturi WT60 Cross Fitrack è stata ricoperta in acciaio|2017/12/cross-fit-rack-wt60|data.oliviero.it/imgprodotto/cross-fit-rack-wt60_171254",
+"Panca Multifunzione Hal Smith SM60|La panca multifunzione Tunturi SM60 è l'ideale per un allenamento|2017/12/panca-multifunzione-hal-smith-sm60|data.oliviero.it/imgprodotto/panca-multifunzione-hal-smith-sm60_171239",
 "Core Trainer CT40|Caratteristiche tecniche PANCA ADDOMINALE NO APPOGGI PER GAMBE SI|2017/12/core-trainer-ct40|data.oliviero.it/imgprodotto/core-trainer-ct40_171221",
 "Power Tower PT40|Caratteristiche tecniche PULL UP BAR SI DIP STATION SI REGOLAZIONE IN|2017/12/power-tower-pt40|data.oliviero.it/imgprodotto/power-tower-pt40_171192",
 "Cyclette Endurance E80|Endurance E80 SCHERMO 7 INCH LCD - COLORE TFT PROGRAMMI 10|2017/12/cyclette-endurance-e80|data.oliviero.it/imgprodotto/cyclette-endurance-e80_172884",

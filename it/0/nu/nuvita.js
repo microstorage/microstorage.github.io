@@ -1,4 +1,7 @@
 Gr = [
+"Ventosa magica per piatto|Ventosa magica antirovesciamento in silicone. Forma universale adatta|2017/12/ventosa-magica-per-piatto|data.oliviero.it/imgprodotto/ventosa-magica-per-piatto_74161",
+"Pappasana vapor combo|Mini robot da cucina, cuocipappa a vapore e scaldabiberon. Cuoce|2017/12/pappasana-vapor-combo|data.oliviero.it/imgprodotto/pappasana-vapor-combo_140046",
+"Pappa Facile 4 in 1|4 in 1: grattugia, ciotola per schiacciare gli alimenti, spremi|2017/12/pappa-facile-4-in-1|data.oliviero.it/imgprodotto/pappa-facile-4-in-1_136240",
 "Baby Kit Nails|Kit forbicine tagliaunghie e lime in cartoncino per la cura delle|2017/12/baby-kit-nails|data.oliviero.it/imgprodotto/baby-kit-nails_136269",
 "Aerosol Portatile MESH|Aerosol silenzioso portatile con tecnologia vibrating mesh|2017/12/aerosol-portatile-mesh|data.oliviero.it/imgprodotto/aerosol-portatile-mesh_171625",
 "Ciotola con coperchio 1421|Perfetta per i bimbi che iniziano a mangiare da soli, la ciotola|2017/12/ciotola-con-coperchio-1421|data.oliviero.it/imgprodotto/ciotola-con-coperchio-1421_136237",

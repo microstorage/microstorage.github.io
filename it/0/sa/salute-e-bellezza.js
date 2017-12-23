@@ -1,4 +1,5 @@
 Gr = [
+"Polvere Aspersoria 150gr|La formula a base di albumina del latte e amido di riso della Polvere|2017/12/polvere-aspersoria-150gr|data.oliviero.it/imgprodotto/polvere-aspersoria-150gr_3717_big",
 "Olio Emudermico|Olio idratante elasticizzante prezioso per la pelle e il rilassamento|2017/12/olio-emudermico|data.oliviero.it/imgprodotto/olio-emudermico_171657",
 "Bagnoschiuma ultradelicato 500ml|Il Bagno Schiuma Ultradelicato Humana baby è un prodotto ideale per|2017/12/bagnoschiuma-ultradelicato-500ml|data.oliviero.it/imgprodotto/bagnoschiuma-ultradelicato-500ml_3721_big",
 "Salviette 70 pz senza profumo|Salviette 70 pz. Salviette detergenti lenitive per il cambio con aloe|2017/12/salviette-70-pz-senza-profumo|data.oliviero.it/imgprodotto/salviette-70-pz-senza-profumo_138398",

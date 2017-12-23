@@ -1,4 +1,7 @@
 Gr = [
+"Scarpe Field Verde|Tomaia in pelle scamosciata Logo Diadora a rilievo a lato Ampia|2017/12/scarpe-field-verde|data.oliviero.it/imgprodotto/scarpe-field-verde_168223",
+"Scarpe Calcio Brasil K-Plus MG14|Il modello Brasil K-Plus è l'ideale per esprimere il massimo su|2017/12/scarpe-calcio-brasil-k-plus-mg14|data.oliviero.it/imgprodotto/scarpe-calcio-brasil-k-plus-mg14-170856-c0004_152259",
+"Scarpe Jazzy 4 SL V|Utilizzo : Sneakers da uomo Tomaia: ecopelle Battistrada: Gomma|2017/12/scarpe-jazzy-4-sl-v|data.oliviero.it/imgprodotto/scarpe-jazzy-4-sl-v-161272-01_127212",
 "Scarpe Calcetto 650 II TF|Scarpino da calcetto indicato per terreni duri e sintetici, la 650|2017/12/scarpe-calcetto-650-ii-tf|data.oliviero.it/imgprodotto/scarpe-calcetto-650-ii-tf-170906-c6023_152283",
 "Scarpe Calcetto Winner RB LT TF|Una calzatura iconica, realizzata per esprimere il massimo su terreni|2017/12/scarpe-calcetto-winner-rb-lt-tf|data.oliviero.it/imgprodotto/scarpe-calcetto-winner-rb-lt-tf_167280",
 "Scarpe Titan II|Ispirata alla scarpa da running anni '80 che ha vestito i piedi dei|2017/12/scarpe-titan-ii|data.oliviero.it/imgprodotto/scarpe-titan-ii_169577",

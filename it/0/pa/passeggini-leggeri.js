@@ -1,4 +1,7 @@
 Gr = [
+"Passeggino Curvi 122|Leggero (solo 5,9 kg) e compatto (solo 85 cm h), con telaio in|2017/12/passeggino-curvi-122|data.oliviero.it/imgprodotto/passeggino-curvi-122_171597",
+"Passeggino B-Agile Double chili pepper|SE NON DISPONIBILE IN MAGAZZINO PRODOTTO ORDINABILE IN 30/40 GIORNI|2017/12/passeggino-b-agile-double-chili-pepper|data.oliviero.it/imgprodotto/passeggino-b-agile-double-chili-pepper_73148",
+"Passeggino Cubo Ottanio|Il Passeggino Cam Cubo è l'ideale per i genitori che sono spesso in|2017/12/passeggino-cubo-ottanio|data.oliviero.it/imgprodotto/passeggino-cubo-ottanio-830-115_155965",
 "Passeggino Fletto 111|Passeggino Fletto Cam con struttura in alluminio ultraleggero pesa|2017/12/passeggino-fletto-111|data.oliviero.it/imgprodotto/passeggino-fletto-111_139370",
 "Passeggino cannefix blu|Il Passeggino peep è estremamente leggero e maneggevole|2017/12/passeggino-cannefix-blu|data.oliviero.it/imgprodotto/passeggino-cannefix-blu_123692",
 "Passeggino Curvi 123|Leggero (solo 5,9 kg) e compatto (solo 85 cm h), con telaio in|2017/12/passeggino-curvi-123|data.oliviero.it/imgprodotto/passeggino-curvi-123_171598",

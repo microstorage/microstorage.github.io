@@ -1,4 +1,11 @@
 Gr = [
+"Pattini e Protezioni Spitfire Combo|Regolazione a pulsante, comfort e controllo eccellenti: ogni singolo|2017/12/pattini-e-protezioni-spitfire-combo|data.oliviero.it/imgprodotto/pattini-e-protezioni-spitfire-combo_173240",
+"Pattini e Protezioni Spitfire Combo G|Regolazione a pulsante, comfort e controllo eccellenti: ogni singolo|2017/12/pattini-e-protezioni-spitfire-combo-g|data.oliviero.it/imgprodotto/pattini-e-protezioni-spitfire-combo-g_173239",
+"Roller Zetrablade W|Comodo, semplice e costruito per durare. La calzata e le prestazioni|2017/12/roller-zetrablade-w|data.oliviero.it/imgprodotto/roller-zetrablade-w_171920",
+"Roller RB 110 3WD|Pattino Urban dal fit universale, ora disponibile con setup 3WD|2017/12/roller-rb-110-3wd|data.oliviero.it/imgprodotto/roller-rb-110-3wd_171923",
+"Roller Macroblade 90W|L'ideale connessione tra il piede e il pattino, sin dal primo|2017/12/roller-macroblade-90w|data.oliviero.it/imgprodotto/roller-macroblade-90w_171917",
+"Skateboard Cobra Surfing Board|Surfing Board Cobra, fantastico surfing board disponibile in|2017/12/skateboard-cobra-surfing-board|data.oliviero.it/imgprodotto/skateboard-cobra-surfing-board-70-710-0041_87728",
+"Pattini In-Line Easy Roller Azzurro Regolabili|Pattini X-Line Easy Roller Regolabili Azzurro, pattini regolabili|2017/12/pattini-in-line-easy-roller-azzurro-regolabili|data.oliviero.it/imgprodotto/pattini-in-line-easy-roller-azzurro-regolabili-70-740-0021_87759",
 "Protezioni Standard 3 Pack|Protezioni realizzate in Polsiere. Pacchetto che comprende: Gomitiere|2017/12/protezioni-standard-3-pack|data.oliviero.it/imgprodotto/protezioni-standard-3-pack_21811_big",
 "Pattini in linea FIREWHEEL|Descrizione: Asse ruota : alluminio - spessore 2 mm Scarpetta|2017/12/pattini-in-linea-firewheel|data.oliviero.it/imgprodotto/pattini-in-linea-firewheel-colore-rosa_162387",
 "Pattini Roller Macroblade 110 3WD W|Porta la tua esperienza di pattinaggio al livello successivo con|2017/12/pattini-roller-macroblade-110-3wd-w|data.oliviero.it/imgprodotto/pattini-roller-macroblade-110-3wd-w_173242",

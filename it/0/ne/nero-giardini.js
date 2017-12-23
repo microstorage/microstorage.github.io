@@ -1,4 +1,6 @@
 Gr = [
+"Borsa Morbida Donna Bianco|Collezione Primavera Estate Borsa morbida da donna con manici|2017/12/borsa-morbida-donna-bianco|data.oliviero.it/imgprodotto/borsa-morbida-donna-bianco-p743429-707_159015",
+"Borsa con Borchie Nero|Collezione Autunno Inverno/2018 Composizione: Esterno ecopelle|2017/12/borsa-con-borchie-nero|data.oliviero.it/imgprodotto/borsa-con-borchie-nero_168764",
 "Borsa Rigida Nero|Collezione Autunno Inverno/2018 Composizione: Esterno ecopelle|2017/12/borsa-rigida-nero|data.oliviero.it/imgprodotto/borsa-rigida-nero-a743514d-100_168738",
 "Sandalo Donna Laminato Oro|Collezione Primavera Estate Sandalo da donna Tomaia in ecopelle|2017/12/sandalo-donna-laminato-oro|data.oliviero.it/imgprodotto/sandalo-donna-laminato-oro-p717371de-434_159214",
 "Borsa Bauletto morbido Sabbia|Collezione Primavera EState Borsa bauletto da donna con manico|2017/12/borsa-bauletto-morbido-sabbia|data.oliviero.it/imgprodotto/borsa-bauletto-morbido-sabbia-p743120d-506_159009",

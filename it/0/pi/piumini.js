@@ -1,4 +1,11 @@
 Gr = [
+"Piumino Donna Verde|Collezione Autunno Inverno/2018 Piumino 3/4 con imbottitura in eco|2017/12/piumino-donna-verde|data.oliviero.it/imgprodotto/piumino-donna-verde_171492",
+"Piumino Donna Blu|Collezione Autunno Inverno/2018 Piumino 3/4 con imbottitura in eco|2017/12/piumino-donna-blu|data.oliviero.it/imgprodotto/piumino-donna-blu_171509",
+"Piumino T15164 T8026|Collezione Liu Jo Sport Piumino da donna con tessuto stampato|2017/12/piumino-t15164-t8026|data.oliviero.it/imgprodotto/piumino-t15164-t8026_146417",
+"Piumino Uomo Nero|Collezione Autunno Inverno/2018 Piumino da uomo con cappuccio, zip|2017/12/piumino-uomo-nero|data.oliviero.it/imgprodotto/piumino-uomo-nero_169344",
+"Piumino Uomo Dark Citron|Collezione Autunno Inverno/2018 Piumino da uomo con cappuccio, zip|2017/12/piumino-uomo-dark-citron|data.oliviero.it/imgprodotto/piumino-uomo-dark-citron_169341",
+"Giacca da Sci Donna Meribel|Collezione Autunno Inverno/2018 Meribel è la giacca sci donna della|2017/12/giacca-da-sci-donna-meribel|data.oliviero.it/imgprodotto/giacca-da-sci-donna-meribel_170450",
+"Giacca Uomo Blue Night|Collezione Autunno Inverno/2018 Giacca della linea #ZEROPUNTOTECHCapo|2017/12/giacca-uomo-blue-night|data.oliviero.it/imgprodotto/giacca-uomo-blue-night_171484",
 "Piumino Protector New Mid Grey|Collezione Autunno Inverno/2018 Non farti cogliere impreparato:|2017/12/piumino-protector-new-mid-grey|data.oliviero.it/imgprodotto/piumino-protector-new-mid-grey_170592",
 "Piumino Donna Ash|Collezione Autunno Inverno/2018 Piumino da donna con zip frontale|2017/12/piumino-donna-ash|data.oliviero.it/imgprodotto/piumino-donna-ash_169356",
 "Giubbotto Donna Ash|Collezione Autunno Inverno/2018 Leggera e calda, questa giacca donna|2017/12/giubbotto-donna-ash|data.oliviero.it/imgprodotto/giubbotto-donna-ash_169354",

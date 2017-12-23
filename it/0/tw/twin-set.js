@@ -1,4 +1,10 @@
 Gr = [
+"Pantaloni donna Casual T2S4MP 00459|Pantalone casual da donna dalla vestibilità morbida con fascia di|2017/12/pantaloni-donna-casual-t2s4mp-00459|data.oliviero.it/imgprodotto/pantaloni-donna-casual-t2s4mp-00459_146890",
+"Maglia donna K2S4RR 252|Maglia da donna con allacciatura posteriore tramite zip, manica|2017/12/maglia-donna-k2s4rr-252|data.oliviero.it/imgprodotto/maglia-donna-k2s4rr-252_146447",
+"Cardigan donna S3S4H1 00006|Maglioncino da donna. Il modello presenta allacciatura frontale|2017/12/cardigan-donna-s3s4h1-00006|data.oliviero.it/imgprodotto/cardigan-donna-s3s4h1-00006_146443",
+"Giacche donna J2S4CE 00449|Collezione Twin Set Jeans Giacca da donna in tessuto ricoperto di|2017/12/giacche-donna-j2s4ce-00449|data.oliviero.it/imgprodotto/giacche-donna-j2s4ce-00449_147037",
+"Abito Lingerie LS4KAA 00460|Collezione Twin Set Lingerie Abito lingerie da donna con allacciatura|2017/12/abito-lingerie-ls4kaa-00460|data.oliviero.it/imgprodotto/abito-lingerie-ls4kaa-00460_146580",
+"Jeans donna P2S4PC 00252|Jeans dalla vestibilità slim, da donna con 5 tasche, allacciatura|2017/12/jeans-donna-p2s4pc-00252|data.oliviero.it/imgprodotto/jeans-donna-p2s4pc-00252_146870",
 "Maglia Lingerie LS4DAA 00460|Collezione Twin Set Lingerie Maglia da donna con scollo a V, maniche|2017/12/maglia-lingerie-ls4daa-00460|data.oliviero.it/imgprodotto/maglia-lingerie-ls4daa-00460_146570",
 "Gonna Lingerie LS4LAA 00006|Collezione Lingerie Twin Set Gonna lingerie da donna con elastico in|2017/12/gonna-lingerie-ls4laa-00006|data.oliviero.it/imgprodotto/gonna-lingerie-ls4laa-00006_146788",
 "Cardigan donna T3S4GN 00054|Cardigan da donna con allacciatura frontale tramite bottoni classici|2017/12/cardigan-donna-t3s4gn-00054|data.oliviero.it/imgprodotto/cardigan-donna-t3s4gn-00054_146600",

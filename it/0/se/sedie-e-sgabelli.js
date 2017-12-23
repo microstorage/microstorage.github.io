@@ -1,4 +1,12 @@
 Gr = [
+"2 sedie chiara grey|Sedia Chiara Grey Seduta Rivestita In Pelle Sintetica Grigia|2017/12/2-sedie-chiara-grey|data.oliviero.it/imgprodotto/2-sedie-chiara-grey_169996",
+"Coppia di Sgabelli Crux white|SGABELLO \"CRUX WHITE\" seduta e schienale in pelle ecologica bianca|2017/12/coppia-di-sgabelli-crux-white|data.oliviero.it/imgprodotto/coppia-di-sgabelli-crux-white_78308",
+"4 Sedie School Grey|Sedia School Grey Struttura In Metallo Verniciato Seduta E Schienale|2017/12/4-sedie-school-grey|data.oliviero.it/imgprodotto/4-sedie-school-grey_169874",
+"Coppia di Sedie Mesh Old Brown|Sedia MESH OLD BROWN rivestita in pelle ecologica effetto cuoio gambe|2017/12/coppia-di-sedie-mesh-old-brown|data.oliviero.it/imgprodotto/coppia-di-sedie-mesh-old-brown_137888",
+"2 sedie lolli white|Sedia Lolli White Seduta In Abs Di Colore Bianco Struttura In Metallo|2017/12/2-sedie-lolli-white|data.oliviero.it/imgprodotto/2-sedie-lolli-white_170142",
+"Coppia Sgabelli SEM|Sgabello \"SEM\" dimensioni cm L40 P53 H95/115 dimensioni seduta cm L40|2017/12/coppia-sgabelli-sem|data.oliviero.it/imgprodotto/coppia-sgabelli-sem_137938",
+"Coppia di Sgabelli crux black|\"CRUX BLACK\" seduta e schienale in pelle ecologica nera struttura in|2017/12/coppia-di-sgabelli-crux-black|data.oliviero.it/imgprodotto/coppia-di-sgabelli-crux-black_78307",
+"Sedia Afrodite|Caratteristiche: Struttura: metallo Imbottitura: ovatta di poliestere|2017/12/sedia-afrodite|data.oliviero.it/imgprodotto/sedia-afrodite-om-224-bl_158238",
 "2 sedie monaco|Sedia Da Interno / Esterno Monaco Realizzata In Policarbonato|2017/12/2-sedie-monaco|data.oliviero.it/imgprodotto/2-sedie-monaco_169990",
 "2 sgabelli kyra wood|Sgabello Kyra Wood Realizzato In Legno Massello Laccato Bianco Opaco|2017/12/2-sgabelli-kyra-wood|data.oliviero.it/imgprodotto/2-sgabelli-kyra-wood_169955",
 "2 sedie chiara black|Sedia Chiara Black Seduta Rivestita In Pelle Sintetica Nera Struttura|2017/12/2-sedie-chiara-black|data.oliviero.it/imgprodotto/2-sedie-chiara-black_169993",

@@ -1,4 +1,9 @@
 Gr = [
+"Consolle Colours|Consolle COLOURS struttura realizzata in legno massello 3 cassetti|2017/12/consolle-colours|data.oliviero.it/imgprodotto/consolle-colours-weal023-multicolor_162091",
+"Poltrona Hollywood|Poltrona AVIO completamente realizzata in legno massello seduta|2017/12/poltrona-hollywood|data.oliviero.it/imgprodotto/poltrona-hollywood-weal007-legno-marrone_162049",
+"Caminetto da muro FP 015|Caminetti da muro FP/015 Caminetto a bioetanolo, struttura in MDF|2017/12/caminetto-da-muro-fp-015|data.oliviero.it/imgprodotto/caminetto-da-muro-fp-015_136003",
+"Caminetto da muro FP 010|Caminetti da muro FP/010 Caminetto a bioetanolo da muro in metallo|2017/12/caminetto-da-muro-fp-010|data.oliviero.it/imgprodotto/caminetto-da-muro-fp-010_94252",
+"Sedia Afrodite|Caratteristiche: Struttura: metallo Imbottitura: ovatta di poliestere|2017/12/sedia-afrodite|data.oliviero.it/imgprodotto/sedia-afrodite-om-224-bl_158238",
 "Caminetto da tavolo FP 020 A|Caminetti da tavolo FP/020/A Caminetto a bioetanolo da tavolo, con|2017/12/caminetto-da-tavolo-fp-020-a|data.oliviero.it/imgprodotto/caminetto-da-tavolo-fp-020-a_94242",
 "Tavolo Executive|È facile e veloce allungare il tavolo in base alle tue esigenze:|2017/12/tavolo-executive|data.oliviero.it/imgprodotto/tavolo-executive-om-223-ca_158288",
 "Caminetto da pavimento FP 008|Caminetti da pavimento FP/008 Caminetto a bioetanolo in acciaio|2017/12/caminetto-da-pavimento-fp-008|data.oliviero.it/imgprodotto/caminetto-da-pavimento-fp-008_94247",

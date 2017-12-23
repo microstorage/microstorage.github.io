@@ -1,4 +1,6 @@
 Gr = [
+"Pantaloni Taglie Forti Uomo Blu stinto|Collezione Autunno Inverno/2018 Pantaloni sportivi uomo taglie forti|2017/12/pantaloni-taglie-forti-uomo-blu-stinto|data.oliviero.it/imgprodotto/pantaloni-taglie-forti-uomo-blu-stinto_169558",
+"Pantaloni sportivi taglie forti uomo blu UP100|Tipologia: Pantalone Sportivo Taglie Forti Tessuto: 100% cotone|2017/12/pantaloni-sportivi-taglie-forti-uomo-blu-up100|data.oliviero.it/imgprodotto/pantaloni-sportivi-taglie-forti-uomo-blu-up100_140974",
 "Gilet Sportivo Taglie Forti Uomo Grigio|Collezione Autunno Inverno/2018 Gilet sportivo da uomo. Il modello|2017/12/gilet-sportivo-taglie-forti-uomo-grigio|data.oliviero.it/imgprodotto/gilet-sportivo-taglie-forti-uomo-grigio_169308",
 "Pantaloni Taglie Forti Uomo Grigio Stinto|Collezione Autunno Inverno/2018 Pantaloni sportivi uomo taglie forti|2017/12/pantaloni-taglie-forti-uomo-grigio-stinto|data.oliviero.it/imgprodotto/pantaloni-taglie-forti-uomo-grigio-stinto_169560",
 "Gilet felpa Uomo Taglie Forti Nero|Collezione Primavera Estate Gilet uomo taglie forti. Il modello|2017/12/gilet-felpa-uomo-taglie-forti-nero|data.oliviero.it/imgprodotto/gilet-felpa-uomo-taglie-forti-nero_163728",

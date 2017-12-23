@@ -1,4 +1,7 @@
 Gr = [
+"Bandana Unisex|Colore : Grigio melangiato Composizione : Tessuto 100% Poliestere|2017/12/bandana-unisex|data.oliviero.it/imgprodotto/bandana-unisex_79008",
+"Cappello Cuoco Unisex|Colore : Bianco Fascia :Scozzese grigio Composizione : Tessuto|2017/12/cappello-cuoco-unisex|data.oliviero.it/imgprodotto/cappello-cuoco-unisex_79004",
+"Giacca coreana Uomo|Colore base : griglio scuro Inserto : In colore nero + profili oro|2017/12/giacca-coreana-uomo|data.oliviero.it/imgprodotto/giacca-coreana-uomo_83015",
 "Berretto con visiera Unisex|Colore : Bianco Composizione : Tessuto 100% Poliestere Descrizione|2017/12/berretto-con-visiera-unisex|data.oliviero.it/imgprodotto/berretto-con-visiera-unisex_79009",
 "Pantaloni con coulisse Unisex|Colore : Gessato Nero Composizione : Tessuto Gabardina 100% Cotone|2017/12/pantaloni-con-coulisse-unisex|data.oliviero.it/imgprodotto/pantaloni-con-coulisse-unisex_79015",
 "Camice donna da medico|Colore : Bianco Composizione : tessuto 100% cotone Dimensioni :|2017/12/camice-donna-da-medico|data.oliviero.it/imgprodotto/camice-donna-da-medico_153967",

@@ -1,4 +1,9 @@
 Gr = [
+"Super Mega Slide con acqua Scivolo|Super scivolo di grandi dimensioni, con scaletta di salita|2017/12/super-mega-slide-con-acqua-scivolo|data.oliviero.it/imgprodotto/super-mega-slide-con-acqua-scivolo_162213",
+"Scivolo feber 10 con acqua|Scivolo pieghevole, resistente e sicuro grazie anche alle sponde|2017/12/scivolo-feber-10-con-acqua|data.oliviero.it/imgprodotto/scivolo-feber-10-con-acqua_114604",
+"Altalena Feber con Parasole|Altalena dotata di struttura portante e di tendalino parasole|2017/12/altalena-feber-con-parasole|data.oliviero.it/imgprodotto/altalena-feber-con-parasole_164418",
+"See Saw 2x2 Sali Scendi|Sali-scendi con barra di ferro rinforzata che garantisce una|2017/12/see-saw-2x2-sali-scendi|data.oliviero.it/imgprodotto/see-saw-2x2-sali-scendi_162216",
+"Wonder House Casetta|Bellissima casetta con porte e finestre apribili, colori luminosi|2017/12/wonder-house-casetta|data.oliviero.it/imgprodotto/wonder-house-casetta_164408",
 "Piscina 4 Sedili 229x229x66 cm|Piscina con 4 sedute ideale per rilassarsi Dimensioni: 229x229x66 cm|2017/12/piscina-4-sedili-229x229x66-cm|data.oliviero.it/imgprodotto/piscina-4-sedili-229x229x66-cm-56475_148592",
 "Rete di Protezione per trampolino da esterno|RETE DI PROTEZIONE PER TRAMPOLINO DA ESTERNO (SOLO RETE, TRAMPOLINO|2017/12/rete-di-protezione-per-trampolino-da-esterno|data.oliviero.it/imgprodotto/rete-di-protezione-per-trampolino-da-esterno_8423_big",
 "Altalena Kiko 3|Altalena a due posti con struttura tubolare in ferro, presenta un|2017/12/altalena-kiko-3|data.oliviero.it/imgprodotto/altalena-kiko-3_108449",

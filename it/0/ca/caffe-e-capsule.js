@@ -1,4 +1,9 @@
 Gr = [
+"Tazza Giacomo Agostini|Una tazza per iniziare ogni giornata insieme al quindici volte|2017/12/tazza-giacomo-agostini|data.oliviero.it/imgprodotto/tazza-giacomo-agostini_93391",
+"Macchina Caffè Americano|Macchina Caffè Americano Codice: 90.391 Descrizione : Corpo in|2017/12/macchina-caffe-americano|data.oliviero.it/imgprodotto/macchina-caff%C3%A8-americano-90-391_88985",
+"Caffettiera 6 tazze linea Montecarlo|Elegante caffettiera prodotta in acciaio inossidabile di alta|2017/12/caffettiera-6-tazze-linea-montecarlo|data.oliviero.it/imgprodotto/caffettiera-6-tazze-linea-montecarlo_90718",
+"Macchina da Caffè Magia Rosso|Il nuovo modo di preparare il caffè. La nuova macchina Lavazza A Modo|2017/12/macchina-da-caffe-magia-rosso|data.oliviero.it/imgprodotto/macchina-da-caffe-magia-rosso_155701",
+"Caffettiera 3 Tazze|Caffettiera prodotta in speciale alluminio alimentare con guarnizione|2017/12/caffettiera-3-tazze|data.oliviero.it/imgprodotto/caffettiera-3-tazze_74163",
 "Moka Colour 1 tz Bianco|Moka White nasce dall'esigenza di affiancare stile e fascino moderni|2017/12/moka-colour-1-tz-bianco|data.oliviero.it/imgprodotto/moka-colour-1-tz-bianco_154714",
 "Moka Nuova Dama 1 tz|Dama 1 tazza, Nero/alluminio Bialetti Dama 1. Coffee maker type:|2017/12/moka-nuova-dama-1-tz|data.oliviero.it/imgprodotto/moka-nuova-dama-1-tz_156467",
 "Set 2 tazzine con piattini, cucchiaini e zuccheriera Sabbia|MADE IN ITALY - DESIGN BY ANGELETTI RUZZA Il nuovo design del corpo|2017/12/set-2-tazzine-con-piattini-cucchiaini-e-zuccheriera-sabbia|data.oliviero.it/imgprodotto/set-2-tazzine-con-piattini-cucchiaini-e-zuccheriera-sabbia_99950",

@@ -1,4 +1,12 @@
 Gr = [
+"Giostrina take a long mobile rosa|Giostrina elettronica con 30 minuti di musica rilassante continua in|2017/12/giostrina-take-a-long-mobile-rosa|data.oliviero.it/imgprodotto/giostrina-take-a-long-mobile-rosa_132660",
+"Bounce Bounce Baby|Età: 4m+ (fino a 11 kg) Stazione gioco con piattaforma elastica|2017/12/bounce-bounce-baby|data.oliviero.it/imgprodotto/bounce-bounce-baby_152242",
+"Tappeto gioco 186 x 125|Tappeto imbottito gioco 186 cm x 125 cm. Comodo tappeto realizzato in|2017/12/tappeto-gioco-186-x-125|data.oliviero.it/imgprodotto/tappeto-gioco-186-x-125_78799",
+"Flip to see the magic|Capovolgere per vedere la magia. Il cubo flip è un flip-sided|2017/12/flip-to-see-the-magic|data.oliviero.it/imgprodotto/flip-to-see-the-magic_132108",
+"Libro per il bagnetto|Il libro per il bagnetto è un libro didattico, creato per deliziare|2017/12/libro-per-il-bagnetto|data.oliviero.it/imgprodotto/libro-per-il-bagnetto_139937",
+"Carillon Ninna Stella|Ninna Stella è un grande classico che si rinnova nel design con forme|2017/12/carillon-ninna-stella|data.oliviero.it/imgprodotto/carillon-ninna-stella_12117_big",
+"Proiettore First Dream Next2 Stars Azzurro|Innovativo pannello proiettore con uno speciale sistema di aggancio|2017/12/proiettore-first-dream-next2-stars-azzurro|data.oliviero.it/imgprodotto/proiettore-first-dream-next2-stars-azzurro-76472_156977",
+"Sunny Stroll Arch|Il Gioco Tiny Love Sunny Stroll tiene il bambino interessato e in|2017/12/sunny-stroll-arch|data.oliviero.it/imgprodotto/sunny-stroll-arch_13974_big",
 "Giostrina Magia di Stelle|Un'atmosfera incantata di stelle e lontane galassie coccola il|2017/12/giostrina-magia-di-stelle|data.oliviero.it/imgprodotto/giostrina-magia-di-stelle_52106",
 "Trillino Zebra|Una zebra a righe realizzata in morbido tessuto e parti in plastica|2017/12/trillino-zebra|data.oliviero.it/imgprodotto/trillino-zebra_139246",
 "Palestrina Nido Foresta|La palestrina per neonati Nido Foresta è proprio un vero nido pensato|2017/12/palestrina-nido-foresta|data.oliviero.it/imgprodotto/palestrina-nido-foresta_172605",

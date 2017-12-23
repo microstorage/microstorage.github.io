@@ -1,4 +1,10 @@
 Gr = [
+"Scarpe Donna Oliva|Collezione Autunno Inverno/2018 Le nostre sneakers donna dal look|2017/12/scarpe-donna-oliva|data.oliviero.it/imgprodotto/scarpe-donna-oliva_171106",
+"Giubbotto Uomo Blu Marino|Collezione Autunno Inverno/2018 Sottile e leggera, ma robusta: una|2017/12/giubbotto-uomo-blu-marino|data.oliviero.it/imgprodotto/giubbotto-uomo-blu-marino_171053",
+"Scarpe Uomo Adventure 2.0 Cuoio|Collezione Autunno Inverno/2018 Stai sempre in movimento e sfida|2017/12/scarpe-uomo-adventure-2-0-cuoio|data.oliviero.it/imgprodotto/scarpe-uomo-adventure-2-0-cuoio_171073",
+"Maglia Uomo Blu|Collezione Autunno Inverno/2018 Questo splendido pullover, realizzato|2017/12/maglia-uomo-blu|data.oliviero.it/imgprodotto/maglia-uomo-blu_171067",
+"Scarpe Uomo Marrone|Collezione Autunno Inverno/2018 Con il loro collo imbottito per dare|2017/12/scarpe-uomo-marrone|data.oliviero.it/imgprodotto/scarpe-uomo-marrone_171087",
+"Scarponcino Uomo Marrone|Collezione Autunno Inverno/2018 Questa stagione, esplora con|2017/12/scarponcino-uomo-marrone|data.oliviero.it/imgprodotto/scarponcino-uomo-marrone_171128",
 "Scarponcini Uomo Giallo|Collezione autunno Inverno/2018 Le stesse caratteristiche e la|2017/12/scarponcini-uomo-giallo|data.oliviero.it/imgprodotto/scarponcini-uomo-giallo_171094",
 "Pantaloni Uomo Nero|Collezione Autunno Inverno/2018 Pensati per una vita dinamica e di|2017/12/pantaloni-uomo-nero|data.oliviero.it/imgprodotto/pantaloni-uomo-nero_171006",
 "Camicia Uomo Bianco|Collezione Autunno Inverno/2018 Chi ha detto che l'abbigliamento da|2017/12/camicia-uomo-bianco|data.oliviero.it/imgprodotto/camicia-uomo-bianco_171000",

@@ -1,4 +1,7 @@
 Gr = [
+"Canestro Phoenix|Il divertimento da spiaggia per bambini e ragazzi in un kit completo|2017/12/canestro-phoenix|data.oliviero.it/imgprodotto/canestro-phoenix_1751_big",
+"Canestro Boston|Boston è un tabellone da basket di qualità professionale e di misure|2017/12/canestro-boston|data.oliviero.it/imgprodotto/canestro-boston_1745_big",
+"1 Piantana Basket Magic|Caratteristiche tecniche: Altezza cm. 158, con base zavorrabile con|2017/12/1-piantana-basket-magic|data.oliviero.it/imgprodotto/1-piantana-basket-magic-70-320-0046_157444",
 "Canestro Tabellone 6098|UNICO PEZZO DISPONIBILE. PRODOTTO VENDUTO MONTATO SU BANCALE. EX|2017/12/canestro-tabellone-6098|data.oliviero.it/imgprodotto/canestro-tabellone-6098_19361_big",
 "Canestro Detroit|Detroit è il tabellone da basket con colonna con altezza regolabile|2017/12/canestro-detroit|data.oliviero.it/imgprodotto/canestro-detroit_1755_big",
 "Canestro El Paso|Tabellone da basket con colonna di altezza regolabile, adatto per|2017/12/canestro-el-paso|data.oliviero.it/imgprodotto/canestro-el-paso_1754_big",

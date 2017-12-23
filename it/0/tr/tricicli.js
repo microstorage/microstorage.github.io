@@ -1,4 +1,5 @@
 Gr = [
+"U-go Rosa Triciclo|U-Go è un triciclo con 2 modalità di utilizzo: Modalità spingi e vai:|2017/12/u-go-rosa-triciclo|data.oliviero.it/imgprodotto/u-go-rosa-triciclo_138750",
 "Triciclo minnie pieghevole|Triciclo Minnie Pieghevole con Luci e Suoni per Bambini Specifiche|2017/12/triciclo-minnie-pieghevole|data.oliviero.it/imgprodotto/triciclo-minnie-pieghevole_163841",
 "Triciclo orsetto rosa|Maniglia regolabile, poggiapiedi, anello protettivo, doppio|2017/12/triciclo-orsetto-rosa|data.oliviero.it/imgprodotto/triciclo-orsetto-rosa_163970",
 "Triciclo Charm Plus rosa|Charm Plus è il triciclo 3 in 1 di Fisher Price comodo e funzionale|2017/12/triciclo-charm-plus-rosa|data.oliviero.it/imgprodotto/triciclo-charm-plus-rosa_149882",

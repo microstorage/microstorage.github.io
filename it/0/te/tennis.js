@@ -1,4 +1,12 @@
 Gr = [
+"Scarpe Tennis Barricade Club|Progettate specificamente per i campi in terra battuta, queste scarpe|2017/12/scarpe-tennis-barricade-club|data.oliviero.it/imgprodotto/scarpe-tennis-barricade-club_168704",
+"Racchetta Tennis Maria 23|Racchetta con piatto corde Una racchetta violetto e blu della gamma|2017/12/racchetta-tennis-maria-23|data.oliviero.it/imgprodotto/racchetta-tennis-maria-23-234516_154540",
+"Racchetta Beach Tennis Typhoon|Collezione Primavera Estate Ulteriormente migliorata, la Typhoon 5.1|2017/12/racchetta-beach-tennis-typhoon|data.oliviero.it/imgprodotto/racchetta-beach-tennis-typhoon-btt1716_164738",
+"Racchetta Boost Aero|Leggerezza e maneggevolezza per la Baboat Boost Aero, una racchetta|2017/12/racchetta-boost-aero|data.oliviero.it/imgprodotto/racchetta-boost-aero-121182_161023",
+"Racchetta Beach Tennis Wave|Collezione Primavera Estate Le racchette WAVE sono ottimi attrezzi|2017/12/racchetta-beach-tennis-wave|data.oliviero.it/imgprodotto/racchetta-beach-tennis-wave-btt1708_164730",
+"Borsa Pure X 12 2017|La borsa da tennis Babolat Pure x 12 può contenere fino a 12|2017/12/borsa-pure-x-12-2017|data.oliviero.it/imgprodotto/borsa-pure-x-12-2017_167544",
+"Rullo metallico|RULLO METALLICO TENNIS riempibile con acqua capacità lt 135 circa|2017/12/rullo-metallico|data.oliviero.it/imgprodotto/rullo-metallico_162177",
+"Racchetta Radical Jr. 26|Racchetta Radical Jr. 26 - 235205 La serie Radical Jr. accompagna|2017/12/racchetta-radical-jr-26|data.oliviero.it/imgprodotto/racchetta-radical-jr-26-235205_145704",
 "Racchetta Tennis MX Spark Elite|Racchetta con piatto corde La racchetta tennis Spark elite di Head|2017/12/racchetta-tennis-mx-spark-elite|data.oliviero.it/imgprodotto/racchetta-tennis-mx-spark-elite_165485",
 "Skin Feel Grip|Il grip Skin Feel è ultra sottile, grazie alla sua finezza consente|2017/12/skin-feel-grip|data.oliviero.it/imgprodotto/skin-feel-grip-670056-105_162206",
 "T-Shirt da Tennis Uomo Bianco|La t-shirt da tennis NikeCourt Roger Federer - Uomo è realizzata in|2017/12/t-shirt-da-tennis-uomo-bianco|data.oliviero.it/imgprodotto/t-shirt-da-tennis-uomo-bianco_167931",

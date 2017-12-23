@@ -1,4 +1,5 @@
 Gr = [
+"Mobile Libreria 41.42.66|MADE IN ITALY Caratteristiche tecniche: Colore Noce come da immagine|2017/12/mobile-libreria-41-42-66|data.oliviero.it/imgprodotto/mobile-libreria-41-42-66_74113",
 "Mensola libreria flex fumè|Libreria porta cd FLEX FUMÈ Descrizione: libreria porta cd mensola|2017/12/mensola-libreria-flex-fume|data.oliviero.it/imgprodotto/mensola-libreria-flex-fume_77957",
 "Libreria a montanti a parete con 2 ripiani 1 cassettiera KIJU|Libreria a montanti a parete con 2 ripiani 1 cassettiera KIJU ripiani|2017/12/libreria-a-montanti-a-parete-con-2-ripiani-1-cassettiera-kiju|data.oliviero.it/imgprodotto/libreria-a-montanti-a-parete-con-2-ripiani-1-cassettiera-kiju_135023",
 "Mobile Libreria 95.04.007|MADE IN ITALY Serie SPRINT Colore Bianco come da immagine Mobiletto|2017/12/mobile-libreria-95-04-007|data.oliviero.it/imgprodotto/mobile-libreria-95-04-007_55427",

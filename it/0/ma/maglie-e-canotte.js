@@ -1,4 +1,6 @@
 Gr = [
+"T-Shirt Running Uomo|Questa maglia da running girocollo da uomo mantiene la pelle asciutta|2017/12/t-shirt-running-uomo|data.oliviero.it/imgprodotto/t-shirt-running-uomo_168495",
+"Maglia Running Uomo Grigio|Morbida e leggera, questa maglia da uomo assicura protezione|2017/12/maglia-running-uomo-grigio|data.oliviero.it/imgprodotto/maglia-running-uomo-grigio_168333",
 "T-Shirt Running Donna Blu Response Q1 Graphic Tee|Collezione Primavera Estate Caratterizzata da un stampa allover sulla|2017/12/t-shirt-running-donna-blu-response-q1-graphic-tee|data.oliviero.it/imgprodotto/t-shirt-running-donna-blu-response-q1-graphic-tee-az2858_159343",
 "T-Shirt Techfit Base Uomo|L'attività fisica migliora la salute e ti fa sentire più forte|2017/12/t-shirt-techfit-base-uomo|data.oliviero.it/imgprodotto/t-shirt-techfit-base-uomo_167006",
 "Canotta Running Uomo Royal Nike Pro|La maglia Nike Pro - Compression Sleeveless - Uomo è progettata con|2017/12/canotta-running-uomo-royal-nike-pro|data.oliviero.it/imgprodotto/canotta-running-uomo-royal-nike-pro_167768",

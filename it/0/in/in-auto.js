@@ -1,4 +1,7 @@
 Gr = [
+"Seggiolino Evolva Plus 1 2 3|Il seggiolino combinato EVOLVA 1-2-3 plus è dotato di numerose|2017/12/seggiolino-evolva-plus-1-2-3|data.oliviero.it/imgprodotto/seggiolino-evolva-plus-1-2-3_51747",
+"Seggiolino Auto Iseos Neo+ rasperry red|Ogni bambino è unico, sia nell'aspetto sia nel carattere. Alcuni|2017/12/seggiolino-auto-iseos-neo+-rasperry-red|data.oliviero.it/imgprodotto/seggiolino-auto-iseos-neo-rasperry-red_72268",
+"Seggiolino Auto Iseos Neo+ walnut brown|Ogni bambino è unico, sia nell'aspetto sia nel carattere. Alcuni|2017/12/seggiolino-auto-iseos-neo+-walnut-brown|data.oliviero.it/imgprodotto/seggiolino-auto-iseos-neo-walnut-brown_65258",
 "Seggiolino Marco Polo blue|nglesina presenta Marco Polo, il seggiolino auto evoluto pensato per|2017/12/seggiolino-marco-polo-blue|data.oliviero.it/imgprodotto/seggiolino-marco-polo-blue_51695",
 "Seggiolino Auto Duo Plus|Con il seggiolino per auto DUO plus Isofix di Romer assicurerai al|2017/12/seggiolino-auto-duo-plus|data.oliviero.it/imgprodotto/seggiolino-auto-duo-plus_64958",
 "Rodi XP Fix Night Black|Seggiolino Auto 15-36 Kg Ogni bimbo è unico e cresce in modo|2017/12/rodi-xp-fix-night-black|data.oliviero.it/imgprodotto/rodi-xp-fix-night-black_171873",

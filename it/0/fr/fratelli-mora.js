@@ -1,4 +1,7 @@
 Gr = [
+"Sdraio Dondolino 152|Dondolino oscillante Caratteristiche tecniche: Telaio in acciaio|2017/12/sdraio-dondolino-152|data.oliviero.it/imgprodotto/sdraio-dondolino-152_125055",
+"Sedia Sdraio Cordobaby|Sedia sdraio Cordobaby Caratteristiche tecniche: Telaio: acciaio 20|2017/12/sedia-sdraio-cordobaby|data.oliviero.it/imgprodotto/sedia-sdraio-cordobaby_86987",
+"Sdraio Reclinabile 330|Sdraio reclinabile in textilene Caratteristiche tecniche: Telaio in|2017/12/sdraio-reclinabile-330|data.oliviero.it/imgprodotto/sdraio-reclinabile-330_163211",
 "Tavolo da campeggio Smeraldo|Tavolo da campeggio Caratteristiche: Telaio in acciaio verniciato|2017/12/tavolo-da-campeggio-smeraldo|data.oliviero.it/imgprodotto/tavolo-da-campeggio-smeraldo_86969",
 "Valigetta pic-nic 8000|Valigetta pic nic Caratteristiche tecniche: Telaio in acciaio|2017/12/valigetta-pic-nic-8000|data.oliviero.it/imgprodotto/valigetta-pic-nic-8000_163205",
 "Rete 80x200 Singolo con doghe in legno Jumbo 80|Caratteristiche tecniche: Telaio in acciaio 42x42 Verniciatura|2017/12/rete-80x200-singolo-con-doghe-in-legno-jumbo-80|data.oliviero.it/imgprodotto/rete-80x200-singolo-con-doghe-in-legno-jumbo-80_61432",

@@ -1,4 +1,10 @@
 Gr = [
+"Cardiofrequenzimetro FT 7|Per coloro che desiderano sapere se si sta migliorando la forma|2017/12/cardiofrequenzimetro-ft-7|data.oliviero.it/imgprodotto/cardiofrequenzimetro-ft-7_15252_big",
+"Scarpe Ciclismo Phantom SRS Nero|Suola NRG Air Carbon Reinforced con indice di rigidità 8.0 e|2017/12/scarpe-ciclismo-phantom-srs-nero|data.oliviero.it/imgprodotto/scarpe-ciclismo-phantom-srs-nero-80171015_163195",
+"Guanti Illusion Glove|Collezione Primavera Estate Semplice, lineare, con grande vestibilità|2017/12/guanti-illusion-glove|data.oliviero.it/imgprodotto/guanti-illusion-glove-1101638-187_162771",
+"Pantaloncini Ciclismo Donna Nero e Bianco|Collezione Primavera Estate Pantaloncino ergonomico POLIVALENTE bici|2017/12/pantaloncini-ciclismo-donna-nero-e-bianco|data.oliviero.it/imgprodotto/pantaloncini-ciclismo-donna-nero-e-bianco_165329",
+"Casco Ciclismo Shire Nero|È il casco per tutti, che si adatta perfettamente alle diverse|2017/12/casco-ciclismo-shire-nero|data.oliviero.it/imgprodotto/casco-ciclismo-shire-nero_165349",
+"Pantaloncini Ciclismo Donna Nero e Rosso|Collezione Primavera Estate Pantaloncino ergonomico POLIVALENTE bici|2017/12/pantaloncini-ciclismo-donna-nero-e-rosso|data.oliviero.it/imgprodotto/pantaloncini-ciclismo-donna-nero-e-rosso_165330",
 "Maglia 2nd Skin Uomo Bianco|Il tessuto X-Lite, con tecnologia avanzata, intrappola l'aria per|2017/12/maglia-2nd-skin-uomo-bianco|data.oliviero.it/imgprodotto/maglia-2nd-skin-uomo-bianco_165382",
 "Guanti Ciclismo Donna Pro W|Collezione Primavera Estate Linee pulite ed essenziali con|2017/12/guanti-ciclismo-donna-pro-w|data.oliviero.it/imgprodotto/guanti-ciclismo-donna-pro-w-1101788-002_162768",
 "Guanti Ciclismo Uomo Giro|Collezione Primavera Estate Eccellente guanto per qualsiasi attività|2017/12/guanti-ciclismo-uomo-giro|data.oliviero.it/imgprodotto/guanti-ciclismo-uomo-giro-1101380-102_162770",

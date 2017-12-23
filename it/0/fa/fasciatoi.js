@@ -1,4 +1,9 @@
 Gr = [
+"Fasciatoio miki greige|Il fasciatoio Miki è un complemento d'arredo di design, utile ed|2017/12/fasciatoio-miki-greige|data.oliviero.it/imgprodotto/fasciatoio-miki-greige_84289",
+"Fasciatoio volare 222|Bagnetto / fasciatoio pieghevole dalle forme moderne, dispone di un|2017/12/fasciatoio-volare-222|data.oliviero.it/imgprodotto/fasciatoio-volare-222_136972",
+"Bagnetto Fasciatoio Chic Bianco|Pali offre una linea completa di bagnetti fasciatoio, per la cura del|2017/12/bagnetto-fasciatoio-chic-bianco|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-chic-bianco_166182",
+"Bagnetto Fasciatoio Stella Sabbia|Mobiletto fasciatoio legno bianco con applicativo completo di|2017/12/bagnetto-fasciatoio-stella-sabbia|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-stella-sabbia_172057",
+"Comò Gaia Bianco Lucido|Comò modello Gaia composto da 3 ampi cassetti. Costruito con|2017/12/como-gaia-bianco-lucido|data.oliviero.it/imgprodotto/com%C3%B2-gaia-bianco-lucido_147368",
 "Bagnetto Fasciatoio Birillo Bianco|Pali offre una linea completa di bagnetti fasciatoio, per la cura del|2017/12/bagnetto-fasciatoio-birillo-bianco|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-birillo-bianco_166159",
 "Fasciatoio Asia bianco|Cassettiera in legno con fasciatoio, vaschetta, portaoggetti|2017/12/fasciatoio-asia-bianco|data.oliviero.it/imgprodotto/fasciatoio-asia-bianco_136987",
 "Bagnetto Fasciatoio Amelie Panna|Mobiletto fasciatoio 3 cassetti legno bianco con applicativo completo|2017/12/bagnetto-fasciatoio-amelie-panna|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-amelie-panna_172739",

@@ -1,4 +1,7 @@
 Gr = [
+"Guantoni Cyclone Restyling 6 oz|Caratteristiche: Guantoni Sphinx Cyclone Restyling: Class essential|2017/12/guantoni-cyclone-restyling-6-oz|data.oliviero.it/imgprodotto/guantoni-cyclone-restyling-6-oz_159702",
+"Guanti da Boxe Armalite 16oz|Guanti da Boxe Caratteristiche: Pelle esterna SLV3 per durata|2017/12/guanti-da-boxe-armalite-16oz|data.oliviero.it/imgprodotto/guanti-da-boxe-armalite-16oz-sabg-0115_92977",
+"Guanti BLACKHAWK Training 16 oz|Caratteristiche: GENUINE LEATHER pelle ultra morbida e liscia|2017/12/guanti-blackhawk-training-16-oz|data.oliviero.it/imgprodotto/guanti-blackhawk-training-16-oz_159683",
 "Guanto PRO-FIGHT Kombat FHX 10 oz|Caratteristiche: PRO-FIGHT KOMBAT FHX Competition Fight Glove Genuine|2017/12/guanto-pro-fight-kombat-fhx-10-oz|data.oliviero.it/imgprodotto/guanto-pro-fight-kombat-fhx-10-oz_159692",
 "Guanti da Moto STS-S|STS-S è un tradizionale guanto racing che ben si adatta alle sportive|2017/12/guanti-da-moto-sts-s|data.oliviero.it/imgprodotto/guanti-da-moto-sts-s_165738",
 "Guantoni da Allenamento Boxe 10 oz|I Guantoni Leone Fight GN052 uniscono qualità, un look moderno e un|2017/12/guantoni-da-allenamento-boxe-10-oz|data.oliviero.it/imgprodotto/guantoni-da-allenamento-boxe-10-oz_169631",

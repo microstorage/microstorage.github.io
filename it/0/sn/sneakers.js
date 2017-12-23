@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe X PLR J|Ispirate al look progressive delle sneaker NMD, queste scarpe junior|2017/12/scarpe-x-plr-j|data.oliviero.it/imgprodotto/scarpe-x-plr-j_167053",
 "Scarpe con Ruote X2 Pow Lighted|Tomaia sintetica con linguetta e colletto imbottiti per un comfort|2017/12/scarpe-con-ruote-x2-pow-lighted|data.oliviero.it/imgprodotto/scarpe-con-ruote-x2-pow-lighted_173204",
 "Scarpe Gazelle J|Queste scarpe junior sono una perfetta riproduzione delle mitiche|2017/12/scarpe-gazelle-j|data.oliviero.it/imgprodotto/scarpe-gazelle-j_172200",
 "Scarpe con Ruote Launch 2.0|Utilizzo : scarpe munite di ruote Tomaia : Tessuto Battistrada|2017/12/scarpe-con-ruote-launch-2-0|data.oliviero.it/imgprodotto/scarpe-con-ruote-launch-2-0-770252h_91898",

@@ -1,4 +1,5 @@
 Gr = [
+"Trapunta Dolls|La dolcissima coppia Masha&Orso che giocano e si divertono con la|2017/12/trapunta-dolls|data.oliviero.it/imgprodotto/trapunta-dolls_137034",
 "Completo Copripiumino Alice in Wonderland|Completo copripiumino composto da sacco, lenzuolo con angoli e federa|2017/12/completo-copripiumino-alice-in-wonderland|data.oliviero.it/imgprodotto/completo-copripiumino-alice-in-wonderland_153924",
 "Completo Copripiumino Norvegia Antracite|Collezione Autunno Inverno/2018 Tessuto di puro cotone. Colore Vivo|2017/12/completo-copripiumino-norvegia-antracite|data.oliviero.it/imgprodotto/completo-copripiumino-norvegia-antracite_166688",
 "Plaid Riscaldabile 140x180 cm|Più caldo, più morbido. Il plaid elettrico intelligente, versione|2017/12/plaid-riscaldabile-140x180-cm|data.oliviero.it/imgprodotto/plaid-riscaldabile-140x180-cm-6877m_154092",

@@ -1,4 +1,13 @@
 Gr = [
+"Aqua Spa Fasciatoio 226|Il Bagnetto Cam Aqua SPA C77 comprende una comoda vaschetta anatomica|2017/12/aqua-spa-fasciatoio-226|data.oliviero.it/imgprodotto/aqua-spa-fasciatoio-226_171529",
+"Aqua Fasciatoio 222|Bagnetto / fasciatoio dalle forme moderne. La vaschetta è dotata di|2017/12/aqua-fasciatoio-222|data.oliviero.it/imgprodotto/aqua-fasciatoio-222_171526",
+"Vaschetta ergonomica tummy tub|La Tummy Tub è una vachetta ergonomica e anatomica per neonati|2017/12/vaschetta-ergonomica-tummy-tub|data.oliviero.it/imgprodotto/vaschetta-ergonomica-tummy-tub_146908",
+"Vaschetta Onda Slim|Età di utilizzo: 0/12 mesi. Vaschetta pieghevole con sistema|2017/12/vaschetta-onda-slim|data.oliviero.it/imgprodotto/vaschetta-onda-slim_151661",
+"Pannolini 11-25 kg 18 Pezzi|Morbida chiusura elastica superavvolgente. Le bande laterali|2017/12/pannolini-11-25-kg-18-pezzi|data.oliviero.it/imgprodotto/pannolini-11-25-kg-18-pezzi_51982",
+"Set Baby Smile Rosa|Il set sempre sorridenti insegna al tuo bambino a prendersi cura dei|2017/12/set-baby-smile-rosa|data.oliviero.it/imgprodotto/set-baby-smile-rosa_17470_big",
+"Polvere Aspersoria 150gr|La formula a base di albumina del latte e amido di riso della Polvere|2017/12/polvere-aspersoria-150gr|data.oliviero.it/imgprodotto/polvere-aspersoria-150gr_3717_big",
+"Bagnetto Fasciatoio Du Du|Fasciatoio con 4 cassetti e ruote piroettanti. Vaschetta all'interno|2017/12/bagnetto-fasciatoio-du-du|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-du-du_10560_big",
+"Ammorbidente cuore di Talco|Dona freschezza e morbidezza a tutti i capi del bambino senza|2017/12/ammorbidente-cuore-di-talco|data.oliviero.it/imgprodotto/ammorbidente-cuore-di-talco-00067294000000_155679",
 "Baby Kit Nails|Kit forbicine tagliaunghie e lime in cartoncino per la cura delle|2017/12/baby-kit-nails|data.oliviero.it/imgprodotto/baby-kit-nails_136269",
 "Mini Lavabo Space|Dotato di specchio infrangibile Il sistema di regolazione permette di|2017/12/mini-lavabo-space|data.oliviero.it/imgprodotto/mini-lavabo-space_160906",
 "Olio Emudermico|Olio idratante elasticizzante prezioso per la pelle e il rilassamento|2017/12/olio-emudermico|data.oliviero.it/imgprodotto/olio-emudermico_171657",

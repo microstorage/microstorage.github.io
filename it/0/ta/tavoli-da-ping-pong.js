@@ -1,4 +1,6 @@
 Gr = [
+"Tavolo Ping Pong Master Indoor Blu|Modello per interno, pieghevole, disponibile con piano gioco verde|2017/12/tavolo-ping-pong-master-indoor-blu|data.oliviero.it/imgprodotto/tavolo-ping-pong-master-indoor-blu_83074",
+"Tavolo Ping Pong Axos Outdoor 1|Ping Pong - AXOS OUTDOOR 1 Articolo No.: 07047-900 Modello per uso|2017/12/tavolo-ping-pong-axos-outdoor-1|data.oliviero.it/imgprodotto/tavolo-ping-pong-axos-outdoor-1_110102",
 "Tavolo Ping Pong 540 Competition ITTF Indoor|Il tavolo ping pong Cornilleau 540 indoor é indicato per un utilizzo|2017/12/tavolo-ping-pong-540-competition-ittf-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-540-competition-ittf-indoor_58075",
 "Tavolo Ping Pong Axos Indoor 1|Ping Pong - AXOS INDOOR 1 Articolo No.: 07046-900 Caratteristiche|2017/12/tavolo-ping-pong-axos-indoor-1|data.oliviero.it/imgprodotto/tavolo-ping-pong-axos-indoor-1_110095",
 "Tavolo Ping Pong T914 Super Gara Indoor|MODELLO: TAVOLO PING PONG 'SUPER GARA' Tavolo montato su ruote|2017/12/tavolo-ping-pong-t914-super-gara-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-t914-super-gara-indoor_6990_big",

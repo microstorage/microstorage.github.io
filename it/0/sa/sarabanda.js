@@ -1,4 +1,6 @@
 Gr = [
+"Abito Bambina Beige|Collezione Primavera Estate Abito intero da bambina. Il modello|2017/12/abito-bambina-beige|data.oliviero.it/imgprodotto/abito-bambina-beige-0s422_162157",
+"Pantalone Bambino Bianco|Collezione Primavera Estate Pantalone da bambino Il modello presenta|2017/12/pantalone-bambino-bianco|data.oliviero.it/imgprodotto/pantalone-bambino-bianco-0s341_159251",
 "Camicia Bambino Navy|Collezione Primavera Estate Camicia maniche lunghe da bambino. Il|2017/12/camicia-bambino-navy|data.oliviero.it/imgprodotto/camicia-bambino-navy-3s620_159250",
 "Giacca Bambino Tortora|Collezione Primavera Estate Giacca casual da bambino ideale per le|2017/12/giacca-bambino-tortora|data.oliviero.it/imgprodotto/giacca-bambino-tortora-0s361_162146",
 "Polo Bambino Panna|Collezione Primavera Estate Polo da bambino dallo stile casual. Il|2017/12/polo-bambino-panna|data.oliviero.it/imgprodotto/polo-bambino-panna-0s121_159329",

@@ -1,4 +1,9 @@
 Gr = [
+"Abito Bambina Beige|Collezione Primavera Estate Abito intero da bambina. Il modello|2017/12/abito-bambina-beige|data.oliviero.it/imgprodotto/abito-bambina-beige-0s422_162157",
+"Felpa Bambina Bianco|Collezione Primavera Estate Felpa casual da bambina. Il modello|2017/12/felpa-bambina-bianco|data.oliviero.it/imgprodotto/felpa-bambina-bianco-4s536-0113_158559",
+"Pantalone Bambino Bianco|Collezione Primavera Estate Pantalone da bambino Il modello presenta|2017/12/pantalone-bambino-bianco|data.oliviero.it/imgprodotto/pantalone-bambino-bianco-0s341_159251",
+"Camicia Bambino Blu|Collezione Primavera Estate Camicia da bambino con maniche lunghe. Il|2017/12/camicia-bambino-blu|data.oliviero.it/imgprodotto/camicia-bambino-blu-4s403-3641_158470",
+"Felpa Bambino Verde Militare|Collezione Primavera Estate Felpa da bambino, full zip, due tasche in|2017/12/felpa-bambino-verde-militare|data.oliviero.it/imgprodotto/felpa-bambino-verde-militare-4s424-5553_158490",
 "T-Shirt Jr. Bianco|Collezione Autunno Inverno/2018 Metti in mostra lo stile audace del|2017/12/t-shirt-jr-bianco|data.oliviero.it/imgprodotto/t-shirt-jr-bianco_167578",
 "Giacca Bambino Tortora|Collezione Primavera Estate Giacca casual da bambino ideale per le|2017/12/giacca-bambino-tortora|data.oliviero.it/imgprodotto/giacca-bambino-tortora-0s361_162146",
 "Pantalone in Felpa Bambino|Collezione Primavera Estate In leggerissima felpa indaco Elastico|2017/12/pantalone-in-felpa-bambino|data.oliviero.it/imgprodotto/pantalone-in-felpa-bambino-171mhbm008_163684",

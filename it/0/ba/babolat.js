@@ -1,4 +1,6 @@
 Gr = [
+"Racchetta Boost Aero|Leggerezza e maneggevolezza per la Baboat Boost Aero, una racchetta|2017/12/racchetta-boost-aero|data.oliviero.it/imgprodotto/racchetta-boost-aero-121182_161023",
+"Borsa Pure X 12 2017|La borsa da tennis Babolat Pure x 12 può contenere fino a 12|2017/12/borsa-pure-x-12-2017|data.oliviero.it/imgprodotto/borsa-pure-x-12-2017_167544",
 "Skin Feel Grip|Il grip Skin Feel è ultra sottile, grazie alla sua finezza consente|2017/12/skin-feel-grip|data.oliviero.it/imgprodotto/skin-feel-grip-670056-105_162206",
 "Borsone Tennis X12 Pure Drive|Il design di questa nuova borsa da tennis Babolat Pure x 12|2017/12/borsone-tennis-x12-pure-drive|data.oliviero.it/imgprodotto/borsone-tennis-x12-pure-drive_169177",
 "Pro Skin Overgrip|Nuovo nome per l'overgrip Pro Team Tacky Thin che conserva però tutte|2017/12/pro-skin-overgrip|data.oliviero.it/imgprodotto/pro-skin-overgrip-653036-105_162202",

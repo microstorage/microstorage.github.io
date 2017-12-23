@@ -1,4 +1,6 @@
 Gr = [
+"Camicia Uomo Blu|Collezione Primavera Estate Camicia casual da uomo. Il modello|2017/12/camicia-uomo-blu|data.oliviero.it/imgprodotto/camicia-uomo-blu-n692040-001_164598",
+"Camicia Jeans Dark Blue Denim|Collezione Autunno Inverno/2018 Modello slim fit Tessuto e look denim|2017/12/camicia-jeans-dark-blue-denim|data.oliviero.it/imgprodotto/camicia-jeans-dark-blue-denim_169138",
 "Camicia Taglie Forti Uomo London grigia|Tipologia : Camicia Taglie Forti uomo Tessuto : 65% cotone, 32%|2017/12/camicia-taglie-forti-uomo-london-grigia|data.oliviero.it/imgprodotto/camicia-taglie-forti-uomo-london-grigia_65102",
 "Camicia Uomo Taglie Forti Blu|Collezione Primavera Estate Camicia uomo taglie Forti. Il modello|2017/12/camicia-uomo-taglie-forti-blu|data.oliviero.it/imgprodotto/camicia-uomo-taglie-forti-blu_164288",
 "Camicia Uomo Western Directoire Blue|Collezione Autunno Inverno/2018 Questa camicia slim con bottoni|2017/12/camicia-uomo-western-directoire-blue|data.oliviero.it/imgprodotto/camicia-uomo-western-directoire-blue_170493",

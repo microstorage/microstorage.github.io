@@ -1,4 +1,9 @@
 Gr = [
+"Casco Sci Cloe Nero|Essendo il più leggero della gamma di caschi HEAD da donna, Cloe|2017/12/casco-sci-cloe-nero|data.oliviero.it/imgprodotto/casco-sci-cloe-nero-325615_157638",
+"Casco Ciclismo Shire Nero|È il casco per tutti, che si adatta perfettamente alle diverse|2017/12/casco-ciclismo-shire-nero|data.oliviero.it/imgprodotto/casco-ciclismo-shire-nero_165349",
+"Casco Sci Mentor Black|Il Mentor di Atomic fa parte della collezione di caschi più leggeri|2017/12/casco-sci-mentor-black|data.oliviero.it/imgprodotto/casco-sci-mentor-black-an5005232_157647",
+"Casco da moto Jet Fluid Solid Pearl White|Caratteristiche Tecniche Sistema di Ritenzione con regolazione|2017/12/casco-da-moto-jet-fluid-solid-pearl-white|data.oliviero.it/imgprodotto/casco-da-moto-jet-fluid-solid-pearl-white-4811a4g0-005_149382",
+"Casco G240 Multi|Caratteristiche Calotta: resina termoplastica HIR-TH (High Resistant|2017/12/casco-g240-multi|data.oliviero.it/imgprodotto/casco-g240-multi_165762",
 "Casco K3 SV TOP Winter Test 2012|Casco moto AGV K-3 SV E2205. Casco che raggiunge alti livelli di|2017/12/casco-k3-sv-top-winter-test-2012|data.oliviero.it/imgprodotto/casco-k3-sv-top-winter-test-2012_165760",
 "Casco Sci Rewind Visor Titanium|Calotta esterna in resina termoplastica ad alta resistenza agli|2017/12/casco-sci-rewind-visor-titanium|data.oliviero.it/imgprodotto/casco-sci-rewind-visor-titanium_171826",
 "Casco Sci Avril Black|Questo modello è ideale per ragazze che vogliono andare alla grande!|2017/12/casco-sci-avril-black|data.oliviero.it/imgprodotto/casco-sci-avril-black-325214_93909",

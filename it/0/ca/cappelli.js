@@ -1,4 +1,9 @@
 Gr = [
+"Cappello Donna Blu|Collezione Autunno Inverno/2018 Cappello invernale da donna in|2017/12/cappello-donna-blu|data.oliviero.it/imgprodotto/cappello-donna-blu_171795",
+"Berretto Nike Navy|Questo cappello da tennis Nike Aerobill Featherlight è ideale per|2017/12/berretto-nike-navy|data.oliviero.it/imgprodotto/berretto-nike-navy_169734",
+"Cappello Donna Bianco|Collezione Autunno Inverno/2018 Cappello invernale da donna in|2017/12/cappello-donna-bianco|data.oliviero.it/imgprodotto/cappello-donna-bianco_170950",
+"Cappello Uomo Blu Notte|Collezione Autunno Inverno/2018 Cappello invernale da uomo in morbido|2017/12/cappello-uomo-blu-notte|data.oliviero.it/imgprodotto/cappello-uomo-blu-notte_170951",
+"Cappello Uomo Giallo|Collezione Autunno Inverno/2018 Cappello invernale da uomo in morbido|2017/12/cappello-uomo-giallo|data.oliviero.it/imgprodotto/cappello-uomo-giallo_170962",
 "Cappellino Classic Climalite|Collezione Autunno Inverno/2018 Indossa questo cappellino in tessuto|2017/12/cappellino-classic-climalite|data.oliviero.it/imgprodotto/cappellino-classic-climalite_167586",
 "Cappello Verde|Collezione Autunno Inverno/2018 Beanie basic Lavorazione a maglia|2017/12/cappello-verde|data.oliviero.it/imgprodotto/cappello-verde_169211",
 "Cappello Rosso|Collezione Autunno Inverno/2018 Beanie basic Lavorazione a maglia|2017/12/cappello-rosso|data.oliviero.it/imgprodotto/cappello-rosso_169214",

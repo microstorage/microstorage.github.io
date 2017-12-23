@@ -1,4 +1,7 @@
 Gr = [
+"Monopattino RAPTOR PRO 200 nero arancio|Descrizione: Pieghevole : salvaspazio Tracolla removibile : inclusa|2017/12/monopattino-raptor-pro-200-nero-arancio|data.oliviero.it/imgprodotto/monopattino-raptor-pro-200-nero-arancio_162386",
+"Skateboard FREEDOM tavola nera|Descrizione: Dimensioni tavola : 57x15,2 cm Materiale tavola|2017/12/skateboard-freedom-tavola-nera|data.oliviero.it/imgprodotto/skateboard-freedom-tavola-nera-ruote-arancio_162374",
+"Skateboard TRIBE PRO BLOODY SKULL|Descrizione: Dimensioni tavola : 79x20 cm Materiale tavola|2017/12/skateboard-tribe-pro-bloody-skull|data.oliviero.it/imgprodotto/skateboard-tribe-pro-bloody-skull_162366",
 "Skateboard STREET PRO GRAFFITI NEW|Descrizione: Dimensioni tavola : 79x20 cm Materiale tavola|2017/12/skateboard-street-pro-graffiti-new|data.oliviero.it/imgprodotto/skateboard-street-pro-graffiti-new_162370",
 "Pattini in linea FIREWHEEL|Descrizione: Asse ruota : alluminio - spessore 2 mm Scarpetta|2017/12/pattini-in-linea-firewheel|data.oliviero.it/imgprodotto/pattini-in-linea-firewheel-colore-rosa_162387",
 "Skateboard FREEDOM tavola gialla|Descrizione: Dimensioni tavola : 57x15,2 cm Materiale tavola|2017/12/skateboard-freedom-tavola-gialla|data.oliviero.it/imgprodotto/skateboard-freedom-tavola-gialla-ruote-azzurre_162372",

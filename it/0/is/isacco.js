@@ -1,4 +1,11 @@
 Gr = [
+"Casacca Saigon|Colore : Bianco Composizione : tessuto 100% cotone Dimensioni :|2017/12/casacca-saigon|data.oliviero.it/imgprodotto/casacca-saigon_1624_big",
+"Pantaloni Cuoco Blu|Modello con passanti in vita chiusura con due bottoni e zip. due|2017/12/pantaloni-cuoco-blu|data.oliviero.it/imgprodotto/pantaloni-cuoco-blu-064102_151132",
+"Camicia donna azzurra kyoto|Colore :Azzurro Composizione : tessuto 65% poliestere e 35% cotone|2017/12/camicia-donna-azzurra-kyoto|data.oliviero.it/imgprodotto/camicia-donna-azzurra-kyoto_2342_big",
+"Casacca Kimono|Colore : Bianco Composizione : tessuto 65% poliestere e 35% cotone|2017/12/casacca-kimono|data.oliviero.it/imgprodotto/casacca-kimono_1626_big",
+"Pettorina New York|Colore : New York Composizione : tessuto 65% poliestere e 35% cotone|2017/12/pettorina-new-york|data.oliviero.it/imgprodotto/pettorina-new-york_1647_big",
+"Grembiule Big Pettorina|Grembiule pettorina lunga. Caratteristiche: Colore: Bianco|2017/12/grembiule-big-pettorina|data.oliviero.it/imgprodotto/grembiule-big-pettorina-087997_159018",
+"Casacca Ginevra|Colore :Bianco Composizione : tessuto 100% cotone Dimensioni : / Peso|2017/12/casacca-ginevra|data.oliviero.it/imgprodotto/casacca-ginevra_1623_big",
 "Pantaloni Cuoco Roller|Modello con passanti in vita chiusura con due bottoni e zip. due|2017/12/pantaloni-cuoco-roller|data.oliviero.it/imgprodotto/pantaloni-cuoco-roller-064100_151130",
 "Gonna Blu Losanna 195gr|Gonna Donna ideale per front office, sala bar realizzata in 60% lana|2017/12/gonna-blu-losanna-195gr|data.oliviero.it/imgprodotto/gonna-blu-losanna-195gr_165511",
 "Pettorina Riga Rossa|Pettorina unisex realizzata in 65% polyestere 35% cotone. Modello con|2017/12/pettorina-riga-rossa|data.oliviero.it/imgprodotto/pettorina-riga-rossa_1644_big",

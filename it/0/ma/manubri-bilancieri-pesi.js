@@ -1,4 +1,9 @@
 Gr = [
+"Elastico Tubolare Blu|L'elastico tubolare è l'ideale per l'esercizio fisico. Facile da|2017/12/elastico-tubolare-blu|data.oliviero.it/imgprodotto/elastico-tubolare-blu_52227",
+"Disco ghisa 10Kg|Disco peso in ghisa verniciata. Unica colorazione nero come da|2017/12/disco-ghisa-10kg|data.oliviero.it/imgprodotto/disco-ghisa-10kg_145897",
+"Portabilanciere WBK 300|Portabilanciere - WBK300 Descrizione: Altezza/distanza supporti|2017/12/portabilanciere-wbk-300|data.oliviero.it/imgprodotto/portabilanciere-wbk-300_159478",
+"Pacchetto Sviluppo Bicipiti|La promozione Pacchetto Sviluppo Bicipiti comprende: 1 Coppia pinze|2017/12/pacchetto-sviluppo-bicipiti|data.oliviero.it/imgprodotto/pacchetto-sviluppo-bicipiti_164700",
+"Kit Easy Fitness 2.0|Il pacchetto Easy Fitness comprende: Fascia Elastica Strong - Gym|2017/12/kit-easy-fitness-2-0|data.oliviero.it/imgprodotto/kit-easy-fitness-2-0_151462",
 "Kit Bilanciere + Manubri + 52 kg Pesi|Pacchetto offerta composto da: Bilanciere 150 cm + Coppia di Manubri|2017/12/kit-bilanciere-+-manubri-+-52-kg-pesi|data.oliviero.it/imgprodotto/kit-bilanciere-manubri-52-kg-pesi_92915",
 "Disco ghisa 2Kg|Disco peso in ghisa verniciata. Unica colorazione nero come da|2017/12/disco-ghisa-2kg|data.oliviero.it/imgprodotto/disco-ghisa-2kg_145899",
 "Coppia Manubri Twistlock 2 x 20 Kg + Stand portamanubri|I pesi a carico variabile (dumbbell) DKN LockTwist si presentano come|2017/12/coppia-manubri-twistlock-2-x-20-kg-+-stand-portamanubri|data.oliviero.it/imgprodotto/coppia-manubri-twistlock-2-x-20-kg-stand-portamanubri_150446",

@@ -1,4 +1,7 @@
 Gr = [
+"Gilet 100 gr Taglie Forti Bordeaux|Collezione Autunno Inverno/2018 Gilet Uomo taglie forti. Il modello|2017/12/gilet-100-gr-taglie-forti-bordeaux|data.oliviero.it/imgprodotto/gilet-100-gr-taglie-forti-bordeaux_171463",
+"Giubbino Taglie Forti Uomo Rosso|Collezione Primavera Estate Giubbino da uomo taglie forti. Il modello|2017/12/giubbino-taglie-forti-uomo-rosso|data.oliviero.it/imgprodotto/giubbino-taglie-forti-uomo-rosso-gaggio_164280",
+"Piumino Taglie Forti Uomo Frode|Collezione Autunno Inverno/2018 Piumino uomo taglie forti. Il modello|2017/12/piumino-taglie-forti-uomo-frode|data.oliviero.it/imgprodotto/piumino-taglie-forti-uomo-frode_171457",
 "Giubbino Uomo Taglie Forti Mads 999|Collezione Autunno Inverno/2018 Giubbotto uomo taglie forti. Il|2017/12/giubbino-uomo-taglie-forti-mads-999|data.oliviero.it/imgprodotto/giubbino-uomo-taglie-forti-mads-999_168507",
 "Giubbotto Taglie Forti Uomo Nero|Collezione Autunno Inverno/2018 Giubbotto in pelle da uomo taglie|2017/12/giubbotto-taglie-forti-uomo-nero|data.oliviero.it/imgprodotto/giubbotto-taglie-forti-uomo-nero_171900",
 "Giubbino Uomo Taglie Forti Ove Tortora|Collezione Autunno Inverno/2018 Parka da uomo taglie forti con|2017/12/giubbino-uomo-taglie-forti-ove-tortora|data.oliviero.it/imgprodotto/giubbino-uomo-taglie-forti-ove-tortora_170904",

@@ -1,4 +1,7 @@
 Gr = [
+"Elastico Tubolare Blu|L'elastico tubolare è l'ideale per l'esercizio fisico. Facile da|2017/12/elastico-tubolare-blu|data.oliviero.it/imgprodotto/elastico-tubolare-blu_52227",
+"Sacco Boxe Pavimento Oscillante|Sacco Boxe Pavimento Oscillante SCHIAVI. Caratteristiche tecniche:|2017/12/sacco-boxe-pavimento-oscillante|data.oliviero.it/imgprodotto/sacco-boxe-pavimento-oscillante_162182",
+"Rullo metallico|RULLO METALLICO TENNIS riempibile con acqua capacità lt 135 circa|2017/12/rullo-metallico|data.oliviero.it/imgprodotto/rullo-metallico_162177",
 "Protezioni volley monotubo|PROTEZIONI VOLLEY MONOTUBO antinfortunistiche. Caratteristiche|2017/12/protezioni-volley-monotubo|data.oliviero.it/imgprodotto/protezioni-volley-monotubo_162175",
 "Ribaltina Alza Rete Calcio|RIBALTINA ALZA RETE CALCIO in alluminio con cerniere in acciaio|2017/12/ribaltina-alza-rete-calcio|data.oliviero.it/imgprodotto/ribaltina-alza-rete-calcio_79429",
 "Porte Calcetto Acciaio Trasportabili 400x200|PORTE CALCETTO ACCIAIO TRASPORTABILI 400X200 In acciaio verniciato|2017/12/porte-calcetto-acciaio-trasportabili-400x200|data.oliviero.it/imgprodotto/porte-calcetto-acciaio-trasportabili-400x200_79471",

@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Calcetto Jr. Mercurialx Victory VI TF|Progettata con tomaia testurizzata e suola in gomma antitraccia, la|2017/12/scarpe-calcetto-jr-mercurialx-victory-vi-tf|data.oliviero.it/imgprodotto/scarpe-calcetto-jr-mercurialx-victory-vi-tf_167094",
 "Scarpe Calcetto evoPower Vigor 4 TT Jr|Leggera e comoda è la nuova scarpa da bambino Puma. Formato da|2017/12/scarpe-calcetto-evopower-vigor-4-tt-jr|data.oliviero.it/imgprodotto/scarpe-calcetto-evopower-vigor-4-tt-jr-103974-01_163964",
 "Scarpe Calcetto evoPower 4.3 TT|Le evoPOWER 4.3 per manto erboso sono delle scarpe da training per|2017/12/scarpe-calcetto-evopower-4-3-tt|data.oliviero.it/imgprodotto/scarpe-calcetto-evopower-4-3-tt-103588-03_152739",
 "Scarpe Calcetto 650 II TF|Scarpino da calcetto indicato per terreni duri e sintetici, la 650|2017/12/scarpe-calcetto-650-ii-tf|data.oliviero.it/imgprodotto/scarpe-calcetto-650-ii-tf-170906-c6023_152283",

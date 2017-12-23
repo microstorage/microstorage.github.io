@@ -1,4 +1,6 @@
 Gr = [
+"Vogatore Rowers SR 909|Rowers SR 909 Caratteristiche Numero di resistanza 8 Peso massimo|2017/12/vogatore-rowers-sr-909|data.oliviero.it/imgprodotto/vogatore-rowers-sr-909_119564",
+"Vogatore Rower R400|Per tutti coloro che vogliono sviluppare la parte superiore del|2017/12/vogatore-rower-r400|data.oliviero.it/imgprodotto/vogatore-rower-r400_73951",
 "Vogatore 2 pistoni|Simula perfettamente il movimento del canottaggio. Grazie alla sua|2017/12/vogatore-2-pistoni|data.oliviero.it/imgprodotto/vogatore-2-pistoni_168530",
 "Vogatore R-320|I vogatori della migliore qualità costruttiva tendono ad essere molto|2017/12/vogatore-r-320|data.oliviero.it/imgprodotto/vogatore-r-320_154204",
 "Vogatore JK 5075 + Ricev. Cardio Polar|Specifiche tecniche: REGOLAZIONE FRENO magnetico - 8 livelli DISPLAY|2017/12/vogatore-jk-5075-+-ricev-cardio-polar|data.oliviero.it/imgprodotto/vogatore-jk-5075-ricev-cardio-polar_72437",

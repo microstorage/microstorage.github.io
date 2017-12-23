@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloni Cuoco Blu|Modello con passanti in vita chiusura con due bottoni e zip. due|2017/12/pantaloni-cuoco-blu|data.oliviero.it/imgprodotto/pantaloni-cuoco-blu-064102_151132",
 "Pantaloni Cuoco Roller|Modello con passanti in vita chiusura con due bottoni e zip. due|2017/12/pantaloni-cuoco-roller|data.oliviero.it/imgprodotto/pantaloni-cuoco-roller-064100_151130",
 "Giacca Cuoco Bottoni a Pressione|Colore : Grigio e bianco Composizione : tessuto 100% cotone|2017/12/giacca-cuoco-bottoni-a-pressione|data.oliviero.it/imgprodotto/giacca-cuoco-bottoni-a-pressione_2591_big",
 "Giacca Cuoco Enrica|Colore : Bianco Composizione : tessuto 100% cotone Dimensioni :|2017/12/giacca-cuoco-enrica|data.oliviero.it/imgprodotto/giacca-cuoco-enrica_150970",

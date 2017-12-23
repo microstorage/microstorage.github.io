@@ -1,4 +1,9 @@
 Gr = [
+"Borsa Morbida Donna Bianco|Collezione Primavera Estate Borsa morbida da donna con manici|2017/12/borsa-morbida-donna-bianco|data.oliviero.it/imgprodotto/borsa-morbida-donna-bianco-p743429-707_159015",
+"Borsa con Borchie Nero|Collezione Autunno Inverno/2018 Composizione: Esterno ecopelle|2017/12/borsa-con-borchie-nero|data.oliviero.it/imgprodotto/borsa-con-borchie-nero_168764",
+"Borsa 42X50X10 Cm| Borsa colore blu  Realizzata in tessuto impermeabile  Chiusura|2017/12/borsa-42x50x10-cm|data.oliviero.it/imgprodotto/borsa-42x50x10-cm_117317",
+"Borsa Somalia Anabella|Collezione Autunno Inverno/2018 Borsa a tracolla nera da donna con|2017/12/borsa-somalia-anabella|data.oliviero.it/imgprodotto/borsa-somalia-anabella_170831",
+"Zaino Lima Viversnake|Collezione Autunno Inverno/2018 Zaino nero da donna con stampa|2017/12/zaino-lima-viversnake|data.oliviero.it/imgprodotto/zaino-lima-viversnake_170797",
 "Borsa Rigida Nero|Collezione Autunno Inverno/2018 Composizione: Esterno ecopelle|2017/12/borsa-rigida-nero|data.oliviero.it/imgprodotto/borsa-rigida-nero-a743514d-100_168738",
 "Tracolla Con Logo| Tracolla realizzata in tessuto  Colore nero  Chiusura con zip|2017/12/tracolla-con-logo|data.oliviero.it/imgprodotto/tracolla-con-logo_117135",
 "Borsa Bauletto morbido Sabbia|Collezione Primavera EState Borsa bauletto da donna con manico|2017/12/borsa-bauletto-morbido-sabbia|data.oliviero.it/imgprodotto/borsa-bauletto-morbido-sabbia-p743120d-506_159009",

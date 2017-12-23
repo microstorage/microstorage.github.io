@@ -1,4 +1,7 @@
 Gr = [
+"Maschera Sci Savor M Stereo OTG|La nostra maschera Savor M Stereo ha un super confort, è super cool|2017/12/maschera-sci-savor-m-stereo-otg|data.oliviero.it/imgprodotto/maschera-sci-savor-m-stereo-otg_171763",
+"Maschera Sci G.GL 300|Modello base della linea g.gl 300. Il design tagliente e moderno|2017/12/maschera-sci-g-gl-300|data.oliviero.it/imgprodotto/maschera-sci-g-gl-300-s5502151129_154614",
+"Maschera Sci Downhill 2000 S LM|Se indossata sopra o sotto il casco, la cinghia supplementare|2017/12/maschera-sci-downhill-2000-s-lm|data.oliviero.it/imgprodotto/maschera-sci-downhill-2000-s-lm_171349",
 "Maschera Sci Infinity FMR|La INFINITY FMR combina un look perfetto con il massimo della|2017/12/maschera-sci-infinity-fmr|data.oliviero.it/imgprodotto/maschera-sci-infinity-fmr_171335",
 "Maschera Sci Big 40 LM|Attività: All mountain Modello: Big 40 FM Sesso: Unisex Lente:|2017/12/maschera-sci-big-40-lm|data.oliviero.it/imgprodotto/maschera-sci-big-40-lm_171350",
 "Maschera Sci g.gl 300 Take Off|I pluripremiati occhiali da sci con tecnologia multi lente. La lente|2017/12/maschera-sci-g-gl-300-take-off|data.oliviero.it/imgprodotto/maschera-sci-g-gl-300-take-off-s5502131326_171343",

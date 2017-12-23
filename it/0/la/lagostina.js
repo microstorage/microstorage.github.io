@@ -1,4 +1,5 @@
 Gr = [
+"Servizio Posate pz 24 Ambra|Completo di posate per 6 persone in acciaio inossidabile di alta|2017/12/servizio-posate-pz-24-ambra|data.oliviero.it/imgprodotto/servizio-posate-pz-24-ambra_156399",
 "Casseruola 20 cm Fonda Ingenio|Estremamente versatile, i corpi della linea Ingenio possono essere|2017/12/casseruola-20-cm-fonda-ingenio|data.oliviero.it/imgprodotto/casseruola-20-cm-fonda-ingenio_155887",
 "Passaverdura cm 24|Professionale maneggievole e pratico. il Passaverdure I cucinieri|2017/12/passaverdura-cm-24|data.oliviero.it/imgprodotto/passaverdura-cm-24_156150",
 "Padella 24 cm Ingegno|LAGOSTINA PADELLA ANTIADERENTE Ingenio 24cm SENZA MANICO Facile da|2017/12/padella-24-cm-ingegno|data.oliviero.it/imgprodotto/padella-24-cm-ingegno_156210",

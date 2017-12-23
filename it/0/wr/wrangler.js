@@ -1,4 +1,8 @@
 Gr = [
+"Jeans Spencer Grey Eyes Blue|Collezione Autunno Inverno/2018 Classici pantaloni in velluto blu|2017/12/jeans-spencer-grey-eyes-blue|data.oliviero.it/imgprodotto/jeans-spencer-grey-eyes-blue_170543",
+"Jeans Larston Flip Side|Collezione Autunno Inverno/2018 Jeans slim con gamba affusolata in|2017/12/jeans-larston-flip-side|data.oliviero.it/imgprodotto/jeans-larston-flip-side_170510",
+"Giubbino Overshirt Green Gables|Collezione Autunno Inverno/2018 Giacca morbida e calda, in puro|2017/12/giubbino-overshirt-green-gables|data.oliviero.it/imgprodotto/giubbino-overshirt-green-gables_170588",
+"Parka Ivy Kaki|Collezione Autunno Inverno/2018 Affronta la stagione con il nostro|2017/12/parka-ivy-kaki|data.oliviero.it/imgprodotto/parka-ivy-kaki_170598",
 "T-Shirt Retro Logo Navy|Collezione Autunno Inverno/2018 Ispirazione biker per questa t-shirt|2017/12/t-shirt-retro-logo-navy|data.oliviero.it/imgprodotto/t-shirt-retro-logo-navy_170621",
 "Piumino Protector New Mid Grey|Collezione Autunno Inverno/2018 Non farti cogliere impreparato:|2017/12/piumino-protector-new-mid-grey|data.oliviero.it/imgprodotto/piumino-protector-new-mid-grey_170592",
 "Jeans Uomo Larston Blax|Collezione Autunno Inverno/2018 Look pulito e alla moda per questi|2017/12/jeans-uomo-larston-blax|data.oliviero.it/imgprodotto/jeans-uomo-larston-blax_170499",

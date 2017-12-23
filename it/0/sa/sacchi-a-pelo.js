@@ -1,4 +1,8 @@
 Gr = [
+"Sacco a Pelo Easy Cotton Orange|Caratteristiche tecniche: Esterno: 100% polyestere Interno: 80%|2017/12/sacco-a-pelo-easy-cotton-orange|data.oliviero.it/imgprodotto/sacco-a-pelo-easy-cotton-orange_85528",
+"Sacco a Pelo Camping 200 Stripes Blue|Esterno : 80% polyestere – 20% cotone Interno : 80% polyestere – 20%|2017/12/sacco-a-pelo-camping-200-stripes-blue|data.oliviero.it/imgprodotto/sacco-a-pelo-camping-200-stripes-blue_87288",
+"Sacco a Pelo Microtech 150|Esterno : 100% micro diamond ripstop 260T Interno : 100% Polyestere|2017/12/sacco-a-pelo-microtech-150|data.oliviero.it/imgprodotto/sacco-a-pelo-microtech-150_76000",
+"Sacco Lenzuolo Sleep sack Menta|Sacco lenzuolo Esterno: 100% polyestere premium poplin traspirante|2017/12/sacco-lenzuolo-sleep-sack-menta|data.oliviero.it/imgprodotto/sacco-lenzuolo-sleep-sack-menta_144008",
 "Sacco Lenzuola Travel SQ|Sacco Lenzuola Travel SQ - 86502 Saccolenzuolo ideale per migliorare|2017/12/sacco-lenzuola-travel-sq|data.oliviero.it/imgprodotto/sacco-lenzuola-travel-sq-86502_145032",
 "Saccolenzuolo Comfort Liner|Saccolenzuolo ideale per migliorare l'igiene ed il comfort termico|2017/12/saccolenzuolo-comfort-liner|data.oliviero.it/imgprodotto/saccolenzuolo-comfort-liner-86504_163468",
 "Sacco a Pelo Mini envelope 80|Esterno: 100% polyestere 210T diamond ripstop Interno: 100%|2017/12/sacco-a-pelo-mini-envelope-80|data.oliviero.it/imgprodotto/sacco-a-pelo-mini-envelope-80_87276",

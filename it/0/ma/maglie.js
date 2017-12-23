@@ -1,4 +1,10 @@
 Gr = [
+"Maglia donna P15055 MA00N|Maglia da donna con allacciatura tramite gancetti, maniche lunghe|2017/12/maglia-donna-p15055-ma00n|data.oliviero.it/imgprodotto/maglia-donna-p15055-ma00n_146488",
+"Maglia Donna Sami|Collezione Autunno Inverno/2018 Maglia tricot da donna con patchwork|2017/12/maglia-donna-sami|data.oliviero.it/imgprodotto/maglia-donna-sami_170658",
+"Maglia donna P15055 MA00N Z9090|Maglia da donna con allacciatura tramite gancetti, maniche lunghe|2017/12/maglia-donna-p15055-ma00n-z9090|data.oliviero.it/imgprodotto/maglia-donna-p15055-ma00n-z9090_146498",
+"Maglia donna K2S4RR 252|Maglia da donna con allacciatura posteriore tramite zip, manica|2017/12/maglia-donna-k2s4rr-252|data.oliviero.it/imgprodotto/maglia-donna-k2s4rr-252_146447",
+"Cardigan donna S3S4H1 00006|Maglioncino da donna. Il modello presenta allacciatura frontale|2017/12/cardigan-donna-s3s4h1-00006|data.oliviero.it/imgprodotto/cardigan-donna-s3s4h1-00006_146443",
+"Maglia Uomo Blu|Collezione Autunno Inverno/2018 Questo splendido pullover, realizzato|2017/12/maglia-uomo-blu|data.oliviero.it/imgprodotto/maglia-uomo-blu_171067",
 "Maglia donna O14010 J7123 03G64|Collezione Liu Jo Jeans Maglia da donna con ampio scollo, maniche|2017/12/maglia-donna-o14010-j7123-03g64|data.oliviero.it/imgprodotto/maglia-donna-o14010-j7123-03g64_146704",
 "Cardigan donna T3S4GN 00054|Cardigan da donna con allacciatura frontale tramite bottoni classici|2017/12/cardigan-donna-t3s4gn-00054|data.oliviero.it/imgprodotto/cardigan-donna-t3s4gn-00054_146600",
 "Maglia donna C15085 MA32A|Maglia da donna in tessuto argentato con allaciatura tramite bottoni|2017/12/maglia-donna-c15085-ma32a|data.oliviero.it/imgprodotto/maglia-donna-c15085-ma32a_146496",

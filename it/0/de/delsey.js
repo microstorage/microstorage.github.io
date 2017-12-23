@@ -1,4 +1,6 @@
 Gr = [
+"Trolley 4R Belmont Rosso XL|Valigia trolley 4 ruote 76 cm H 76 x L 52 x E 30 cm - 108.63L - 4.4kg|2017/12/trolley-4r-belmont-rosso-xl|data.oliviero.it/imgprodotto/trolley-4r-belmont-rosso-xl-3840821_160855",
+"Trolley Cabina 4R Slim 55 cm Segur Blu|Valigia trolley da cabina a 4 doppie ruote slim 55 cm H 55 x L 40 x|2017/12/trolley-cabina-4r-slim-55-cm-segur-blu|data.oliviero.it/imgprodotto/trolley-cabina-4r-slim-55-cm-segur-blu-2038803_160780",
 "Trolley 234810 Medio|DELSEY - LIMITED EDITION Valigia morbida, con struttura in|2017/12/trolley-234810-medio|data.oliviero.it/imgprodotto/trolley-234810-medio_62929",
 "Cuscino da Viaggio TN 2016 Grigio|L'oggetto indispensabile per i vostri viaggi: questo cuscino da|2017/12/cuscino-da-viaggio-tn-2016-grigio|data.oliviero.it/imgprodotto/cuscino-da-viaggio-tn-2016-grigio-003940262_160634",
 "Cartella Parvis Nero M|Cartella a 1 scomparto - protezione pc H 30 x L 41 x E 9 cm - 0.5kg|2017/12/cartella-parvis-nero-m|data.oliviero.it/imgprodotto/cartella-parvis-nero-m-003943160_160622",

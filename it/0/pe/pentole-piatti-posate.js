@@ -1,4 +1,8 @@
 Gr = [
+"Tegame 32 cm Granito Antiaderente 2 Manici|Tegame Risoli antiaderente in granito, manici integrati, senza|2017/12/tegame-32-cm-granito-antiaderente-2-manici|data.oliviero.it/imgprodotto/tegame-32-cm-granito-antiaderente-2-manici_156012",
+"Casseruola 2 Maniglie + Coperchio in Vetro 24cm|Ideale per cucinare con pochi grassi, per scottare i cibi e per|2017/12/casseruola-2-maniglie-+-coperchio-in-vetro-24cm|data.oliviero.it/imgprodotto/casseruola-2-maniglie-coperchio-in-vetro-24cm_155954",
+"Servizio Posate pz 24 Ambra|Completo di posate per 6 persone in acciaio inossidabile di alta|2017/12/servizio-posate-pz-24-ambra|data.oliviero.it/imgprodotto/servizio-posate-pz-24-ambra_156399",
+"Posate 24 pz Rosso Brio|Modello di posate dalla tradizionale semplicità che grazie alle|2017/12/posate-24-pz-rosso-brio|data.oliviero.it/imgprodotto/posate-24-pz-rosso-brio_156495",
 "Casseruola 20 cm Fonda Ingenio|Estremamente versatile, i corpi della linea Ingenio possono essere|2017/12/casseruola-20-cm-fonda-ingenio|data.oliviero.it/imgprodotto/casseruola-20-cm-fonda-ingenio_155887",
 "Servizio da Tavola per 12 Persone|Servizio da tavola per 12 persone Caffé per 12 persone 12 Piatti|2017/12/servizio-da-tavola-per-12-persone|data.oliviero.it/imgprodotto/servizio-da-tavola-per-12-persone-serenissima-bianco_130837",
 "Posate 24 pz Giallo Brio|Modello di posate dalla tradizionale semplicità che grazie alle|2017/12/posate-24-pz-giallo-brio|data.oliviero.it/imgprodotto/posate-24-pz-giallo-brio_156492",

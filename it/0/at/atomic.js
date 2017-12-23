@@ -1,4 +1,9 @@
 Gr = [
+"Maschera Sci Savor M Stereo OTG|La nostra maschera Savor M Stereo ha un super confort, è super cool|2017/12/maschera-sci-savor-m-stereo-otg|data.oliviero.it/imgprodotto/maschera-sci-savor-m-stereo-otg_171763",
+"Scarponi Sci Hawx Prime 80 W|LHawx Magna 80 W è uno degli scarponi custom della nostra nuova|2017/12/scarponi-sci-hawx-prime-80-w|data.oliviero.it/imgprodotto/scarponi-sci-hawx-prime-80-w_156443",
+"Sci Vantage X83 CTI + Warden MNC 13|Il nuovo Atomic Vantage X 83 CTI è lo sci più largo della serie di|2017/12/sci-vantage-x83-cti-+-warden-mnc-13|data.oliviero.it/imgprodotto/sci-vantage-x83-cti-warden-mnc-13_156426",
+"Scarponi Sci Hawx 1.0 70 W|L'Atomic Hawx 1.0 70 W ha un flex morbido, che lo rende ideale per le|2017/12/scarponi-sci-hawx-1-0-70-w|data.oliviero.it/imgprodotto/scarponi-sci-hawx-1-0-70-w_156438",
+"Casco Sci Mentor Black|Il Mentor di Atomic fa parte della collezione di caschi più leggeri|2017/12/casco-sci-mentor-black|data.oliviero.it/imgprodotto/casco-sci-mentor-black-an5005232_157647",
 "Sci Redster Doubledeck 3.0 GS + X 12 TL|Nell'Atomic Redster Doubledeck 3.0 GS abbiamo messo tutta la nostra|2017/12/sci-redster-doubledeck-3-0-gs-+-x-12-tl|data.oliviero.it/imgprodotto/sci-redster-doubledeck-3-0-gs-x-12-tl_156523",
 "Sci Backland FR 109 + Warden MNC 13|Lo sci Atomic Backland FR 109 è eccellente in alta montagna, con la|2017/12/sci-backland-fr-109-+-warden-mnc-13|data.oliviero.it/imgprodotto/sci-backland-fr-109-warden-mnc-13_156432",
 "Casco Sci Savor LF Black|Il nuovo Atomic Savor LF è per gli sciatori che vogliono un casco|2017/12/casco-sci-savor-lf-black|data.oliviero.it/imgprodotto/casco-sci-savor-lf-black-an5005204_157644",

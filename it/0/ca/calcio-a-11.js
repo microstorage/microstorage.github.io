@@ -1,4 +1,7 @@
 Gr = [
+"Scarpe Calcio Brasil K-Plus MG14|Il modello Brasil K-Plus è l'ideale per esprimere il massimo su|2017/12/scarpe-calcio-brasil-k-plus-mg14|data.oliviero.it/imgprodotto/scarpe-calcio-brasil-k-plus-mg14-170856-c0004_152259",
+"Scarpe Calcio Tiempo Lagacy III FG|La scarpa da calcio per terreni duri Nike Tiempo Legacy III|2017/12/scarpe-calcio-tiempo-lagacy-iii-fg|data.oliviero.it/imgprodotto/scarpe-calcio-tiempo-lagacy-iii-fg_167091",
+"Scarpe Calcio Copa 18.3 FG|Domina il campo con la linea Adidas Copa 18!! Avampiede in pelle di|2017/12/scarpe-calcio-copa-18-3-fg|data.oliviero.it/imgprodotto/scarpe-calcio-copa-18-3-fg_172185",
 "Scarpe Calcio Nemeziz 17.3 FG|Sconfiggi gli avversari. Lasciali a bocca aperta con la tua|2017/12/scarpe-calcio-nemeziz-17-3-fg|data.oliviero.it/imgprodotto/scarpe-calcio-nemeziz-17-3-fg_167415",
 "Scarpe Calcio Mercurial Victory V FG|Scarpe Calcio Mercurial Victory V FG - 651632 580 Caratteristiche|2017/12/scarpe-calcio-mercurial-victory-v-fg|data.oliviero.it/imgprodotto/scarpe-calcio-mercurial-victory-v-fg-651632-580_140134",
 "Scarpe Calcio Jr. Magista Onda FG|La scarpa da calcio per terreni duri Nike Jr. Magista Onda - Bambini|2017/12/scarpe-calcio-jr-magista-onda-fg|data.oliviero.it/imgprodotto/scarpe-calcio-jr-magista-onda-fg-651653-010_140145",

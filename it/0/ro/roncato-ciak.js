@@ -1,4 +1,6 @@
 Gr = [
+"Trolley 101 PC 4R|La valigia in policarbonato, robusta ma leggera, compatta, raffinata|2017/12/trolley-101-pc-4r|data.oliviero.it/imgprodotto/trolley-101-pc-4r_147827",
+"Trolley Lounge II|Trolley Cabina 4 ruote Lucchetto laterale a combinazione con TSA|2017/12/trolley-lounge-ii|data.oliviero.it/imgprodotto/trolley-lounge-ii_147854",
 "Trolley 2 ruote Sound Grigio e verde|Trolley Struttura Super Light 2 ruote Lucchetto a combinazione con|2017/12/trolley-2-ruote-sound-grigio-e-verde|data.oliviero.it/imgprodotto/trolley-2-ruote-sound-grigio-e-verde_159466",
 "Trolley 42.33.02 Medio|Trolley system multistep in alluminio con push button, chiusura|2017/12/trolley-42-33-02-medio|data.oliviero.it/imgprodotto/trolley-42-33-02-medio_84242",
 "Trolley 2 ruote Sound Grigio|Trolley Struttura Super Light 2 ruote Lucchetto a combinazione con|2017/12/trolley-2-ruote-sound-grigio|data.oliviero.it/imgprodotto/trolley-2-ruote-sound-grigio_159459",

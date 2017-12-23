@@ -1,4 +1,8 @@
 Gr = [
+"Pulse + Attacchi Rhythm Giallo|Snowboard + attacchi UOMO Snowboard Pulse Pochi euro, molti brividi|2017/12/pulse-+-attacchi-rhythm-giallo|data.oliviero.it/imgprodotto/pulse-attacchi-rhythm-giallo_94273",
+"Scarpe Trail Running Snowcross 2 CSWP|Non lasciare che una tormenta di neve interrompa il tuo allenamento|2017/12/scarpe-trail-running-snowcross-2-cswp|data.oliviero.it/imgprodotto/scarpe-trail-running-snowcross-2-cswp_169151",
+"Scarponi Snow Pearl|AUTO PILOT A tutto stile con la scarpa Pearl— Con scarpetta Silver|2017/12/scarponi-snow-pearl|data.oliviero.it/imgprodotto/scarponi-snow-pearl_94283",
+"Scarpe Trail Running Ellipse 2 GTX W|Scarpa da escursionismo leggera superwoman, la ELLIPSE 2 GTX® da|2017/12/scarpe-trail-running-ellipse-2-gtx-w|data.oliviero.it/imgprodotto/scarpe-trail-running-ellipse-2-gtx-w_169588",
 "Scarpe Trail Running Speedcross 4 W|La quarta versione di questa scarpa da corsa iconica rivolta da capo|2017/12/scarpe-trail-running-speedcross-4-w|data.oliviero.it/imgprodotto/scarpe-trail-running-speedcross-4-w-393439_163291",
 "Scarpe Trekking Evasion 2 Aero|Andare lontano con lo sguardo verso l'orizzonte seguendo i propri|2017/12/scarpe-trekking-evasion-2-aero|data.oliviero.it/imgprodotto/scarpe-trekking-evasion-2-aero-393597_163289",
 "Snowboard Lotus + Attacchi Spell|Snowboard LotusTempo di fioriture La progressione di tutto ciò che la|2017/12/snowboard-lotus-+-attacchi-spell|data.oliviero.it/imgprodotto/snowboard-lotus-attacchi-spell_157542",

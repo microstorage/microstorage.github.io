@@ -1,4 +1,8 @@
 Gr = [
+"Camicia Uomo Blu|Collezione Primavera Estate Camicia casual da uomo. Il modello|2017/12/camicia-uomo-blu|data.oliviero.it/imgprodotto/camicia-uomo-blu-n692040-001_164598",
+"Polo Taglie Forti Uomo Antracite|Collezione Autunno Inverno/2018 Polo maniche lunghe da uomo. Il|2017/12/polo-taglie-forti-uomo-antracite|data.oliviero.it/imgprodotto/polo-taglie-forti-uomo-antracite_169243",
+"Giubbotto Uomo Blu|Collezione Primavera Estate Giubbotto da uomo in tessuto Il modello|2017/12/giubbotto-uomo-blu|data.oliviero.it/imgprodotto/giubbotto-uomo-blu-nv67011-001_158582",
+"Gilet Taglie Forti Uomo Militare|Collezione Autunno Inverno/2018 Gilet taglie forti uomo. Il modello|2017/12/gilet-taglie-forti-uomo-militare|data.oliviero.it/imgprodotto/gilet-taglie-forti-uomo-militare_170325",
 "Jeans Taglie Forti Stone Wash|Collezione Primavera Estate Jeans Stretch da uomo taglie forti Il|2017/12/jeans-taglie-forti-stone-wash|data.oliviero.it/imgprodotto/jeans-taglie-forti-stone-wash_158598",
 "Maglia Taglie Forti Uomo Abisso|Collezione Autunno Inverno/2018 Pullover in misto lana scollo V, con|2017/12/maglia-taglie-forti-uomo-abisso|data.oliviero.it/imgprodotto/maglia-taglie-forti-uomo-abisso_170230",
 "Giubbotto Uomo Blu NV67014 001|Collezione Primavera Estate Giubbotto da uomo in tessuto Il modello|2017/12/giubbotto-uomo-blu-nv67014-001|data.oliviero.it/imgprodotto/giubbotto-uomo-blu-nv67014-001_158583",

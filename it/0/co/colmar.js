@@ -1,4 +1,13 @@
 Gr = [
+"Cappello Donna Blu|Collezione Autunno Inverno/2018 Cappello invernale da donna in|2017/12/cappello-donna-blu|data.oliviero.it/imgprodotto/cappello-donna-blu_171795",
+"Giacca Sci da Uomo Shuss|Collezione Autunno Inverno/2018 Ispirata ad uno dei passaggi tecnici|2017/12/giacca-sci-da-uomo-shuss|data.oliviero.it/imgprodotto/giacca-sci-da-uomo-shuss_170440",
+"Pile Uomo elasticizzato mezza zip|Collezione Autunno Inverno/2018 Maglia termica uomo in pile|2017/12/pile-uomo-elasticizzato-mezza-zip|data.oliviero.it/imgprodotto/pile-uomo-elasticizzato-mezza-zip_170477",
+"Cappello Donna Bianco|Collezione Autunno Inverno/2018 Cappello invernale da donna in|2017/12/cappello-donna-bianco|data.oliviero.it/imgprodotto/cappello-donna-bianco_170950",
+"Cappello Uomo Blu Notte|Collezione Autunno Inverno/2018 Cappello invernale da uomo in morbido|2017/12/cappello-uomo-blu-notte|data.oliviero.it/imgprodotto/cappello-uomo-blu-notte_170951",
+"Pantalone da Sci Uomo Imbottito Nero|Collezione Autunno Inverno/2018 Design giovane per il pantalone sci|2017/12/pantalone-da-sci-uomo-imbottito-nero|data.oliviero.it/imgprodotto/pantalone-da-sci-uomo-imbottito-nero_171470",
+"Pile Mezza Zip Donna Bianco|Collezione Autunno Inverno/2018 Maglia termica donna in pile|2017/12/pile-mezza-zip-donna-bianco|data.oliviero.it/imgprodotto/pile-mezza-zip-donna-bianco_171777",
+"Cappello Uomo Giallo|Collezione Autunno Inverno/2018 Cappello invernale da uomo in morbido|2017/12/cappello-uomo-giallo|data.oliviero.it/imgprodotto/cappello-uomo-giallo_170962",
+"Giacca da Sci Donna Meribel|Collezione Autunno Inverno/2018 Meribel è la giacca sci donna della|2017/12/giacca-da-sci-donna-meribel|data.oliviero.it/imgprodotto/giacca-da-sci-donna-meribel_170450",
 "Giacca da Sci Donna Ancolie|Collezione Autunno Inverno/2018 Ancolie è la giacca sci donna della|2017/12/giacca-da-sci-donna-ancolie|data.oliviero.it/imgprodotto/giacca-da-sci-donna-ancolie_170452",
 "Maglia Termica Uomo Blu|Ideale da indossare durante l'attività sportiva, la maglia termica|2017/12/maglia-termica-uomo-blu|data.oliviero.it/imgprodotto/maglia-termica-uomo-blu-8333-7lo-65_171686",
 "Pile elasticizzato mezza zip Uomo Nero|Collezione Autunno Inverno/2018 Maglia termica uomo in pile|2017/12/pile-elasticizzato-mezza-zip-uomo-nero|data.oliviero.it/imgprodotto/pile-elasticizzato-mezza-zip-uomo-nero_171779",

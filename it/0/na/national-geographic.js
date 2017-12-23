@@ -1,4 +1,9 @@
 Gr = [
+"Telescopio AZ rifrattore 60 700|Caratteristiche tecniche: Il telescopio 60/700 è uno dei modelli di|2017/12/telescopio-az-rifrattore-60-700|data.oliviero.it/imgprodotto/telescopio-az-rifrattore-60-700_83768",
+"Bussola con scala graduata per misurazione distanze|Caratteristiche tecniche: Comoda bussola interamente in metallo, con|2017/12/bussola-con-scala-graduata-per-misurazione-distanze|data.oliviero.it/imgprodotto/bussola-con-scala-graduata-per-misurazione-distanze_83900",
+"Set Telescopio + Microscopio|Caratteristiche tecniche: Questo set è lo strumento ideale per chi|2017/12/set-telescopio-+-microscopio|data.oliviero.it/imgprodotto/set-telescopio-microscopio_142094",
+"Binocolo con prismi di porro 10x50|Caratteristiche tecniche: Binocolo 10X50 Questo elegante binocolo|2017/12/binocolo-con-prismi-di-porro-10x50|data.oliviero.it/imgprodotto/binocolo-con-prismi-di-porro-10x50_83803",
+"Telescopio EQ riflettore 76 700|caratteristiche tecniche: Telescopio con sistema ottico|2017/12/telescopio-eq-riflettore-76-700|data.oliviero.it/imgprodotto/telescopio-eq-riflettore-76-700_83781",
 "Binocolo pocket 10x25|Caratteristiche tecniche: Questo binocolo tascabile con fattore di|2017/12/binocolo-pocket-10x25|data.oliviero.it/imgprodotto/binocolo-pocket-10x25_83799",
 "Telemetro 4x21|Caratteristiche tecniche: Il telemetro è uno strumento in grado di|2017/12/telemetro-4x21|data.oliviero.it/imgprodotto/telemetro-4x21-800m_83831",
 "Telescopio riflettore Compact 76 350|Caratteristiche tecniche: Piccolo, ma potente, questo leggerissimo|2017/12/telescopio-riflettore-compact-76-350|data.oliviero.it/imgprodotto/telescopio-riflettore-compact-76-350_83755",

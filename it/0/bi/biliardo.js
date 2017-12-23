@@ -1,4 +1,6 @@
 Gr = [
+"Biliardo Dallas|Tavolo da pool dalla linea snella ed elegante, indicato per chi ha|2017/12/biliardo-dallas|data.oliviero.it/imgprodotto/biliardo-dallas_8402_big",
+"Piane di Copertura ALEXANDRA 8|Piane di copertura in nobilitato melaminico (spessore mm. 20) in|2017/12/piane-di-copertura-alexandra-8|data.oliviero.it/imgprodotto/piane-di-copertura-alexandra-8_73393",
 "Biliardo Alexandra 6 Mdf|Alexandra è l'ultima creazione Garlando in fatto di biliardi per la|2017/12/biliardo-alexandra-6-mdf|data.oliviero.it/imgprodotto/biliardo-alexandra-6-mdf_48873_big",
 "Biliardo Alexandra 6 Ardesia|Alexandra è l'ultima creazione Garlando in fatto di biliardi per la|2017/12/biliardo-alexandra-6-ardesia|data.oliviero.it/imgprodotto/biliardo-alexandra-6-ardesia_73388",
 "Biliardo Night Club|Tavolo da Biliardo Night di Sport One composto da una cassa in|2017/12/biliardo-night-club|data.oliviero.it/imgprodotto/biliardo-night-club_87638",

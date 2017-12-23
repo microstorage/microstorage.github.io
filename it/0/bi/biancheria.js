@@ -1,4 +1,12 @@
 Gr = [
+"Completo Lenzuola Mille Righe Flanella|Tessuto in flanella di puro cotone. Singolo Lenzuolo superiore|2017/12/completo-lenzuola-mille-righe-flanella|data.oliviero.it/imgprodotto/completo-lenzuola-mille-righe-flanella_169027",
+"Lenzuola Angoli Pantone Vibrant Yellow|Lenzuolo da sotto con angoli in puro cotone tinta unita, coordinabile|2017/12/lenzuola-angoli-pantone-vibrant-yellow|data.oliviero.it/imgprodotto/lenzuola-angoli-pantone-vibrant-yellow_115334",
+"Completo Lenzuola Niki Ciclamino|Completo lenzuola composto da lenzuola da sotto, lenzuolo da sopra|2017/12/completo-lenzuola-niki-ciclamino|data.oliviero.it/imgprodotto/completo-lenzuola-niki-ciclamino_153855",
+"Lenzuola Angoli Pantone Turkish Sea|Lenzuolo da sotto con angoli in puro cotone tinta unita, coordinabile|2017/12/lenzuola-angoli-pantone-turkish-sea|data.oliviero.it/imgprodotto/lenzuola-angoli-pantone-turkish-sea_115332",
+"Completo Lenzuola Kiss Flan. Rosa|Tessuto in flanella di puro cotone. Singolo Lenzuolo superiore|2017/12/completo-lenzuola-kiss-flan-rosa|data.oliviero.it/imgprodotto/completo-lenzuola-kiss-flan-rosa_169029",
+"Trapunta Dolls|La dolcissima coppia Masha&Orso che giocano e si divertono con la|2017/12/trapunta-dolls|data.oliviero.it/imgprodotto/trapunta-dolls_137034",
+"Lenzuola Piane Pantone Radiant Orchid|Lenzuolo da sopra in puro cotone tinta unita, coordinabile con tutti|2017/12/lenzuola-piane-pantone-radiant-orchid|data.oliviero.it/imgprodotto/lenzuola-piane-pantone-radiant-orchid_115329",
+"Completo Lenzuola Pesco Flan. Rosa|Tessuto in flanella di puro cotone. Singolo Lenzuolo superiore|2017/12/completo-lenzuola-pesco-flan-rosa|data.oliviero.it/imgprodotto/completo-lenzuola-pesco-flan-rosa_169025",
 "Telo Bagno spugna|Asciugamano viso ospite Spugna della linea basic, morbido e adatto ad|2017/12/telo-bagno-spugna|data.oliviero.it/imgprodotto/telo-bagno-spugna_153943",
 "Lenzuola Angoli Pantone Azalea Pink|Lenzuolo da sotto con angoli in puro cotone tinta unita, coordinabile|2017/12/lenzuola-angoli-pantone-azalea-pink|data.oliviero.it/imgprodotto/lenzuola-angoli-pantone-azalea-pink_115341",
 "Completo Copripiumino Alice in Wonderland|Completo copripiumino composto da sacco, lenzuolo con angoli e federa|2017/12/completo-copripiumino-alice-in-wonderland|data.oliviero.it/imgprodotto/completo-copripiumino-alice-in-wonderland_153924",

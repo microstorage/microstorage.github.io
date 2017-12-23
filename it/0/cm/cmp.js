@@ -1,4 +1,8 @@
 Gr = [
+"Scarpe Trekking Rigel Low|Pensate per chi ama le attività all'aria aperta, le calzature della|2017/12/scarpe-trekking-rigel-low|data.oliviero.it/imgprodotto/scarpe-trekking-rigel-low_166829",
+"Scarpe Trekking Rigel Mid W|RIGEL MID è uno scarponcino trekking impermeabile dallo stile|2017/12/scarpe-trekking-rigel-mid-w|data.oliviero.it/imgprodotto/scarpe-trekking-rigel-mid-w_168708",
+"Scarpe Trail Running Atlas|Scarpa veloce da SkyRace perfetta per performance sulle medie e brevi|2017/12/scarpe-trail-running-atlas|data.oliviero.it/imgprodotto/scarpe-trail-running-atlas_166823",
+"Pantaloni Sci Donna Magenta|Collezione Autunno Inverno/2018 Le taglie sono espresse in misure|2017/12/pantaloni-sci-donna-magenta|data.oliviero.it/imgprodotto/pantaloni-sci-donna-magenta_169274",
 "Pile Uomo Nero|Collezione Autunno Invero/2018 CMP Uomo Pullover in pile si in pile|2017/12/pile-uomo-nero|data.oliviero.it/imgprodotto/pile-uomo-nero_169280",
 "Salopette Sci da Uomo Nero|Collezione Autunno Inverno/2018 Pantalone salopette neve CMP nero|2017/12/salopette-sci-da-uomo-nero|data.oliviero.it/imgprodotto/salopette-sci-da-uomo-nero_169260",
 "Giacca Pile Donna Grigio|Collezione Autunno Inverno/2018 Le Taglie sono espresse in misure|2017/12/giacca-pile-donna-grigio|data.oliviero.it/imgprodotto/giacca-pile-donna-grigio_169227",

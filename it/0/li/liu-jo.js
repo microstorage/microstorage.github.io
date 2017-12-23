@@ -1,4 +1,9 @@
 Gr = [
+"Maglia donna P15055 MA00N|Maglia da donna con allacciatura tramite gancetti, maniche lunghe|2017/12/maglia-donna-p15055-ma00n|data.oliviero.it/imgprodotto/maglia-donna-p15055-ma00n_146488",
+"Maglia donna P15055 MA00N Z9090|Maglia da donna con allacciatura tramite gancetti, maniche lunghe|2017/12/maglia-donna-p15055-ma00n-z9090|data.oliviero.it/imgprodotto/maglia-donna-p15055-ma00n-z9090_146498",
+"T-Shirt donna T15126 J7406|Collezine Liu Jo Sport T-Shirt da donna con mezza manica, ampio|2017/12/t-shirt-donna-t15126-j7406|data.oliviero.it/imgprodotto/t-shirt-donna-t15126-j7406_146523",
+"Piumino T15164 T8026|Collezione Liu Jo Sport Piumino da donna con tessuto stampato|2017/12/piumino-t15164-t8026|data.oliviero.it/imgprodotto/piumino-t15164-t8026_146417",
+"Pantaloni donna Casual P15031 T1427 22222|Pantaloni casual in ecopelle da donna. Il modello presenta|2017/12/pantaloni-donna-casual-p15031-t1427-22222|data.oliviero.it/imgprodotto/pantaloni-donna-casual-p15031-t1427-22222_146745",
 "Maglia donna O14010 J7123 03G64|Collezione Liu Jo Jeans Maglia da donna con ampio scollo, maniche|2017/12/maglia-donna-o14010-j7123-03g64|data.oliviero.it/imgprodotto/maglia-donna-o14010-j7123-03g64_146704",
 "Maglia donna C15085 MA32A|Maglia da donna in tessuto argentato con allaciatura tramite bottoni|2017/12/maglia-donna-c15085-ma32a|data.oliviero.it/imgprodotto/maglia-donna-c15085-ma32a_146496",
 "Pantaloni donna Casual F15267 T8111 11110|Collezione Liu Jo Jeans Pantalone casual da donna con allacciatura|2017/12/pantaloni-donna-casual-f15267-t8111-11110|data.oliviero.it/imgprodotto/pantaloni-donna-casual-f15267-t8111-11110_146832",

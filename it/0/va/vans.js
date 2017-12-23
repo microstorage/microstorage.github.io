@@ -1,4 +1,6 @@
 Gr = [
+"Scarpe Chapman Mid|La Scarpa Vans Chapman Mid M è una Sneakers Alta Uomo In Linea allo|2017/12/scarpe-chapman-mid|data.oliviero.it/imgprodotto/scarpe-chapman-mid-vn0a2xswonv_167694",
+"Scarpe Atwood Triple B|Le scarpe Atwood sono un modello stringato dal profilo basso che|2017/12/scarpe-atwood-triple-b|data.oliviero.it/imgprodotto/scarpe-atwood-triple-b_168707",
 "Scarpe Authentic|Utilizzo: Calzatura Moda donna Tomaia: Tessuto Battistrada: Gomma|2017/12/scarpe-authentic|data.oliviero.it/imgprodotto/scarpe-authentic-zukfgz_124989",
 "Scarpe Camden Stripe Nero W|Le originali Vans ora diventate un modello icona di stile, hanno una|2017/12/scarpe-camden-stripe-nero-w|data.oliviero.it/imgprodotto/scarpe-camden-stripe-nero-w-zso186_162478",
 "Scarpe Chapman Stripe|Sneakers uomo Vans, dallo stile tradizionale, in tela con la suola in|2017/12/scarpe-chapman-stripe|data.oliviero.it/imgprodotto/scarpe-chapman-stripe-vn0003d7k6s_153559",

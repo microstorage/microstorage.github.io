@@ -1,4 +1,5 @@
 Gr = [
+"Camicia donna azzurra kyoto|Colore :Azzurro Composizione : tessuto 65% poliestere e 35% cotone|2017/12/camicia-donna-azzurra-kyoto|data.oliviero.it/imgprodotto/camicia-donna-azzurra-kyoto_2342_big",
 "Camice donna da medico|Colore : Bianco Composizione : tessuto 100% cotone Dimensioni :|2017/12/camice-donna-da-medico|data.oliviero.it/imgprodotto/camice-donna-da-medico_153967",
 "Camice uomo da medico|Colore : Bianco Composizione : tessuto 100% cotone Dimensioni :|2017/12/camice-uomo-da-medico|data.oliviero.it/imgprodotto/camice-uomo-da-medico_153970",
 "Camice donna per piani|Colore : Rigato fine Inserto : In cotone piquet colore Bianco|2017/12/camice-donna-per-piani|data.oliviero.it/imgprodotto/camice-donna-per-piani_82989",

@@ -1,4 +1,9 @@
 Gr = [
+"Advanced BCAA 200 cps|ADVANCED BCAA è un integratore alimentare che aumenta il livello di|2017/12/advanced-bcaa-200-cps|data.oliviero.it/imgprodotto/advanced-bcaa-200-cps_108368",
+"Krono Protein 95 1KG Cacao|KRONO PROTEIN 95 é un integratore alimentare di diverse fonti|2017/12/krono-protein-95-1kg-cacao|data.oliviero.it/imgprodotto/krono-protein-95-1kg-cacao_108763",
+"Metabolic System Confezione 90 Cps|METABOLIC SYSTEM è un integratore alimentare coadiuvante durante le|2017/12/metabolic-system-confezione-90-cps|data.oliviero.it/imgprodotto/metabolic-system-confezione-90-cps_108693",
+"Barretta Maxi Nut|La confezione contiene 24 barrette gusto Pistacchio Ingredienti:|2017/12/barretta-maxi-nut|data.oliviero.it/imgprodotto/barretta-maxi-nut-24-pz-pistacchio_108391",
+"Barretta 40 30 30 30 pz Arachidi|Confezione da 30 barrette BARRETTA 40-30-30 è una barretta|2017/12/barretta-40-30-30-30-pz-arachidi|data.oliviero.it/imgprodotto/barretta-40-30-30-30-pz-arachidi_108759",
 "Barretta Slim Day|La confezione contiene 24 barrette gusto cioccolato SLIM DAY è una|2017/12/barretta-slim-day|data.oliviero.it/imgprodotto/barretta-slim-day-24-pz-cioccolato_108404",
 "Krono Protein 95 3KG Cacao|KRONO PROTEIN 95 é un integratore alimentare di diverse fonti|2017/12/krono-protein-95-3kg-cacao|data.oliviero.it/imgprodotto/krono-protein-95-3kg-cacao_108765",
 "Isolated Soya Protein 750 gr cacao|ISOLATED SOYA PROTEIN é un integratore alimentare di proteine di soia|2017/12/isolated-soya-protein-750-gr-cacao|data.oliviero.it/imgprodotto/isolated-soya-protein-750-gr-cacao_108629",

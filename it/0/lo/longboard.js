@@ -1,4 +1,5 @@
 Gr = [
+"Longboard Carve Aloha 40|Longboard Carve Aloha 40 Caratteristiche Materiale (7 Ply Can. Maple|2017/12/longboard-carve-aloha-40|data.oliviero.it/imgprodotto/longboard-carve-aloha-40_125544",
 "Skateboard Dollars and Diamonds 31,5\"|Skateboard Dollars and Diamonds Tavola: dt-4, pro shape, 31,5'x7,5'|2017/12/skateboard-dollars-and-diamonds-31-5|data.oliviero.it/imgprodotto/skateboard-dollars-and-diamonds-31-5_125120",
 "Longboard Calm Water 38\"|38\" Longboard \"Calm Water\" Serie California Dimensione: 38\" x 9,5\"|2017/12/longboard-calm-water-38|data.oliviero.it/imgprodotto/longboard-calm-water-38_125090",
 "Skateboard Music Punk|Tavola perfetta per i principianti Piattaforma: 7.5 / 7.75 '' x 31 ''|2017/12/skateboard-music-punk|data.oliviero.it/imgprodotto/skateboard-music-punk_151098",

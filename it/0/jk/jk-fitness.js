@@ -1,4 +1,8 @@
 Gr = [
+"Cyclette JK226|Sistema frenante Magnetico Regolazione inerzia 8 livelli di|2017/12/cyclette-jk226|data.oliviero.it/imgprodotto/cyclette-jk226_173189",
+"Tapis Roulant Competitive 166|Motore 3,5 hp AC continuativi / 5,0 hp AC di spunto Velocità 1-22|2017/12/tapis-roulant-competitive-166|data.oliviero.it/imgprodotto/tapis-roulant-competitive-166_173180",
+"Panca Inversione JK6015|Regolazione altezza 145-200 cm Spessore imbottiture 35 mm Impugnature|2017/12/panca-inversione-jk6015|data.oliviero.it/imgprodotto/panca-inversione-jk6015_173197",
+"Calciobalilla JKS250|Caratteristiche MOBILE Mobile in MDF con rivestimento melaminico|2017/12/calciobalilla-jks250|data.oliviero.it/imgprodotto/calciobalilla-jks250_165460",
 "Stepper JK 5010|Caratteristiche tecniche: Regolazione sforzo pistoni idraulici|2017/12/stepper-jk-5010|data.oliviero.it/imgprodotto/stepper-jk-5010_23742_big",
 "Vogatore JK 5075 + Ricev. Cardio Polar|Specifiche tecniche: REGOLAZIONE FRENO magnetico - 8 livelli DISPLAY|2017/12/vogatore-jk-5075-+-ricev-cardio-polar|data.oliviero.it/imgprodotto/vogatore-jk-5075-ricev-cardio-polar_72437",
 "Gym Bike JK555|Gym Bike JK555 Caratteristiche Tecniche Sistema Frenante Pattino|2017/12/gym-bike-jk555|data.oliviero.it/imgprodotto/gym-bike-jk555_130575",

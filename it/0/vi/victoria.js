@@ -1,4 +1,13 @@
 Gr = [
+"Kit Tonificazione|Il pacchetto esercizi di tonificazione comprende: Thigh Master|2017/12/kit-tonificazione|data.oliviero.it/imgprodotto/kit-tonificazione_142906",
+"Panca Ginnica Bench Pro|Panca Ginnica Bench Pro con SUPPORTO BILANCIERE, LEG CURL, LEG|2017/12/panca-ginnica-bench-pro|data.oliviero.it/imgprodotto/panca-ginnica-bench-pro_143359",
+"Disco ghisa 10Kg|Disco peso in ghisa verniciata. Unica colorazione nero come da|2017/12/disco-ghisa-10kg|data.oliviero.it/imgprodotto/disco-ghisa-10kg_145897",
+"Pacchetto Tonifico e Rilasso|Il pacchetto tonifico e Rilasso comprende: Materassino per esercizi|2017/12/pacchetto-tonifico-e-rilasso|data.oliviero.it/imgprodotto/pacchetto-tonifico-e-rilasso_158874",
+"Cyclette ST 600|Cyclette St 600, particolarmente adatta per uso domestico.Il computer|2017/12/cyclette-st-600|data.oliviero.it/imgprodotto/cyclette-st-600_127093",
+"Pacchetto Sviluppo Bicipiti|La promozione Pacchetto Sviluppo Bicipiti comprende: 1 Coppia pinze|2017/12/pacchetto-sviluppo-bicipiti|data.oliviero.it/imgprodotto/pacchetto-sviluppo-bicipiti_164700",
+"Kit Panca Bench Pro Deluxe + Bilanciere + Pesi|Pacchetto Offerta Victoria composto da: Panca Ginnica Bench Pro|2017/12/kit-panca-bench-pro-deluxe-+-bilanciere-+-pesi|data.oliviero.it/imgprodotto/kit-panca-bench-pro-deluxe-bilanciere-pesi_164698",
+"Kit Easy Fitness 2.0|Il pacchetto Easy Fitness comprende: Fascia Elastica Strong - Gym|2017/12/kit-easy-fitness-2-0|data.oliviero.it/imgprodotto/kit-easy-fitness-2-0_151462",
+"Panca Addominali Ginnica Bench Trainer|Panca Addominali Ginnica Bench Trainer , particolarmente adatta per|2017/12/panca-addominali-ginnica-bench-trainer|data.oliviero.it/imgprodotto/panca-addominali-ginnica-bench-trainer_141085",
 "Gym Bike VIC8000|Gym Bike VIC8000, particolarmente adatto per uso domestico.Il|2017/12/gym-bike-vic8000|data.oliviero.it/imgprodotto/gym-bike-vic8000_169089",
 "Balance Board Regolabile|Balance Board: Diametro 41 cm. L'attrezzo ginnico ideale per|2017/12/balance-board-regolabile|data.oliviero.it/imgprodotto/balance-board-regolabile-w1352_158863",
 "Kit Bilanciere + Manubri + 52 kg Pesi|Pacchetto offerta composto da: Bilanciere 150 cm + Coppia di Manubri|2017/12/kit-bilanciere-+-manubri-+-52-kg-pesi|data.oliviero.it/imgprodotto/kit-bilanciere-manubri-52-kg-pesi_92915",

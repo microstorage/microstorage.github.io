@@ -1,4 +1,8 @@
 Gr = [
+"Pantaloni Sportivi Donna Dark Grey|Collezione Autunno Inverno/2018 elastico e coulisse in vita|2017/12/pantaloni-sportivi-donna-dark-grey|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-dark-grey_170412",
+"Leggings Linear Donna Nero|Collezione Primavera Estate Questi leggings sono realizzati in jersey|2017/12/leggings-linear-donna-nero|data.oliviero.it/imgprodotto/leggings-linear-donna-nero-aj8081_162531",
+"Pantalone Sportivo Donna Nero|Collezione Autunno Inverno/2018 Il pantalone Converse Rubber Metal da|2017/12/pantalone-sportivo-donna-nero|data.oliviero.it/imgprodotto/pantalone-sportivo-donna-nero_171442",
+"Capri Donna Nero|Questi tight da training sono realizzati in tessuto antiumidità che|2017/12/capri-donna-nero|data.oliviero.it/imgprodotto/capri-donna-nero_168250",
 "Pantaloni Sportivi Uomo Grigio|Realizzati in spugna misto cotone morbida e confortevole, questi|2017/12/pantaloni-sportivi-uomo-grigio|data.oliviero.it/imgprodotto/pantaloni-sportivi-uomo-grigio_168102",
 "Pantalone Sportivo T15031 F0245 22222|Collezione Liu Jo Sport Pantaloni Sportivi pinocchietto con elastico|2017/12/pantalone-sportivo-t15031-f0245-22222|data.oliviero.it/imgprodotto/pantalone-sportivo-t15031-f0245-22222_146822",
 "Pantaloni Sportivi Donna Grigio Tight Essentials Linear|Collezione Primavera Estate Questi versatili tight da donna non|2017/12/pantaloni-sportivi-donna-grigio-tight-essentials-linear|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-grigio-tight-essentials-linear-b45777_159909",

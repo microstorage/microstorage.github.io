@@ -1,4 +1,9 @@
 Gr = [
+"Panca Addominali Athos|PANCHE DA ALLENAMENTO Le panche da allenamento Kettler sono dei veri|2017/12/panca-addominali-athos|data.oliviero.it/imgprodotto/panca-addominali-athos_130329",
+"Supporto sacco per Power Tower 2|Il supporto sacco per power tower boxe 2 supporta sacchi fino a 50KG|2017/12/supporto-sacco-per-power-tower-2|data.oliviero.it/imgprodotto/supporto-sacco-per-power-tower-2_68797",
+"Utility Bench UB60|Caratteristiche Tecniche REGOLAZIONE ANGOLAZIONE SCHIENALE SI (6|2017/12/utility-bench-ub60|data.oliviero.it/imgprodotto/utility-bench-ub60_171214",
+"Panca Addominali Force Ad 330|Force AD 330 è una panca multiuso che permette l'esecuzione di|2017/12/panca-addominali-force-ad-330|data.oliviero.it/imgprodotto/panca-addominali-force-ad-330_7864_big",
+"Panca Addominali Combi Trainer|Combi-TRAINER 07629-700 Panca multi-funzione (hyperextension|2017/12/panca-addominali-combi-trainer|data.oliviero.it/imgprodotto/panca-addominali-combi-trainer_130326",
 "Panca Addominali Universal Bench|UNIVERSAL 07629-800 Robusta panca piana/inclinabile deale per|2017/12/panca-addominali-universal-bench|data.oliviero.it/imgprodotto/panca-addominali-universal-bench_130328",
 "Panca addominali Vic 100|Panca addominali regolabile in altezza. La possibilità di regolare la|2017/12/panca-addominali-vic-100|data.oliviero.it/imgprodotto/panca-addominali-vic-100_150165",
 "Panca Addominale Adonis|La panca per esercizi Adonis della Horizon Fitness si adatta a tutte|2017/12/panca-addominale-adonis|data.oliviero.it/imgprodotto/panca-addominale-adonis_154163",

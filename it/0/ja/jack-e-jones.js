@@ -1,4 +1,8 @@
 Gr = [
+"Giubbino Uomo Nero|Collezione Autunno inverno/2018 Parka regular fit Cappuccio con|2017/12/giubbino-uomo-nero|data.oliviero.it/imgprodotto/giubbino-uomo-nero_169206",
+"Camicia Jeans Dark Blue Denim|Collezione Autunno Inverno/2018 Modello slim fit Tessuto e look denim|2017/12/camicia-jeans-dark-blue-denim|data.oliviero.it/imgprodotto/camicia-jeans-dark-blue-denim_169138",
+"Pantaloni Uomo Camel|Collezione Autunno Inverno/2018 Chino con elasticità aggiunta Patta|2017/12/pantaloni-uomo-camel|data.oliviero.it/imgprodotto/pantaloni-uomo-camel_169188",
+"Jeans Skinny Uomo Blu Denim|Blue jeans skinny con molta elasticità Scoloriti e trattati per un|2017/12/jeans-skinny-uomo-blu-denim|data.oliviero.it/imgprodotto/jeans-skinny-uomo-blu-denim_169194",
 "Cappello Verde|Collezione Autunno Inverno/2018 Beanie basic Lavorazione a maglia|2017/12/cappello-verde|data.oliviero.it/imgprodotto/cappello-verde_169211",
 "Cappello Rosso|Collezione Autunno Inverno/2018 Beanie basic Lavorazione a maglia|2017/12/cappello-rosso|data.oliviero.it/imgprodotto/cappello-rosso_169214",
 "Jeans Skinny Uomo Grigio|- Jeans skinny a 5 tasche dal look virile - Look usurato naturale|2017/12/jeans-skinny-uomo-grigio|data.oliviero.it/imgprodotto/jeans-skinny-uomo-grigio_169192",

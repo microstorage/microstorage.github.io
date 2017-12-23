@@ -1,4 +1,9 @@
 Gr = [
+"Set Snorkeling Pure Vision Giallo|Maschera Facciale in silicone Fibbie a regolazione facile sul|2017/12/set-snorkeling-pure-vision-giallo|data.oliviero.it/imgprodotto/set-snorkeling-pure-vision-giallo_165659",
+"Set Snorkeling Pure Vision Lilla|Maschera Facciale in silicone Fibbie a regolazione facile sul|2017/12/set-snorkeling-pure-vision-lilla|data.oliviero.it/imgprodotto/set-snorkeling-pure-vision-lilla_165657",
+"Pinne Palau Classic|Pinna a scarpetta chiusa caratterizzata da una pala in materiale|2017/12/pinne-palau-classic|data.oliviero.it/imgprodotto/pinne-palau-classic_21518_big",
+"Set Snorkeling Wahoo|Mares Wahoo maschera e silicone Snorkel Set Maschera Facciale in|2017/12/set-snorkeling-wahoo|data.oliviero.it/imgprodotto/set-snorkeling-wahoo_165653",
+"Set Snorkeling Jr. Sharky Rosa|Maschera Facciale in silicone Fibbie regolabili sul telaio Snorkel|2017/12/set-snorkeling-jr-sharky-rosa|data.oliviero.it/imgprodotto/set-snorkeling-jr-sharky-rosa_165655",
 "Muta Bimbo Shorty Scout|Muta Bambino. Nuove mute Mares per bambini, ideali per gli sport|2017/12/muta-bimbo-shorty-scout|data.oliviero.it/imgprodotto/muta-bimbo-shorty-scout_10865_big",
 "Pinne Gran Prix Plus|Grand Prix si è evoluta dalle microfin e porta tutti i vantaggi unici|2017/12/pinne-gran-prix-plus|data.oliviero.it/imgprodotto/pinne-gran-prix-plus_60415",
 "Muta Sealight Lady 8018|Muta donna della linea Scuba2011 di Seac Sub. Lo snorkeling per tutta|2017/12/muta-sealight-lady-8018|data.oliviero.it/imgprodotto/muta-sealight-lady-8018_10860_big",

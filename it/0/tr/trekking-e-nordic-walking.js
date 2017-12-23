@@ -1,4 +1,11 @@
 Gr = [
+"Busta Acquastop 2L|Sacche in nylon spalmato termosaldate con chiusura arrotolabile|2017/12/busta-acquastop-2l|data.oliviero.it/imgprodotto/busta-acquastop-2l-xs_108101",
+"Zaino trekking Finisterre 38|Zaino dal profilo lineare e completo di tutte le dotazioni. Il dorso|2017/12/zaino-trekking-finisterre-38|data.oliviero.it/imgprodotto/zaino-trekking-finisterre-38-75734_171664",
+"Zaino Trekking K10|Zaino per uso quotidiano con alloggiamento per Tablet o per deposito|2017/12/zaino-trekking-k10|data.oliviero.it/imgprodotto/zaino-trekking-k10-10l_149163",
+"Scarpe Trekking Rigel Low|Pensate per chi ama le attività all'aria aperta, le calzature della|2017/12/scarpe-trekking-rigel-low|data.oliviero.it/imgprodotto/scarpe-trekking-rigel-low_166829",
+"Zaino Alta Via 35|Zaino da escursionismo dotato di dorso super traspirante D.N.S|2017/12/zaino-alta-via-35|data.oliviero.it/imgprodotto/zaino-alta-via-35-75217_151416",
+"Scarpe Trekking Gottardo Tex Antracite|Utilizzo: Calzatura trekking da donna Tomaia: pelle effetto|2017/12/scarpe-trekking-gottardo-tex-antracite|data.oliviero.it/imgprodotto/scarpe-trekking-gottardo-tex-antracite-816_164490",
+"Bastone da passeggio Alpen stock|Bastone da passeggio composto da 2 sezioni telescopiche in lega di|2017/12/bastone-da-passeggio-alpen-stock|data.oliviero.it/imgprodotto/bastone-da-passeggio-alpen-stock_79128",
 "Scarpe Trail Running Speedcross 4 W|La quarta versione di questa scarpa da corsa iconica rivolta da capo|2017/12/scarpe-trail-running-speedcross-4-w|data.oliviero.it/imgprodotto/scarpe-trail-running-speedcross-4-w-393439_163291",
 "Scarpe Trekking Tribute II GTX|Le AKU Tribute sono scarpe da montagna in pelle e gore-tex con suola|2017/12/scarpe-trekking-tribute-ii-gtx|data.oliviero.it/imgprodotto/scarpe-trekking-tribute-ii-gtx-138-024_164262",
 "Scarpe Trekking Evasion 2 Aero|Andare lontano con lo sguardo verso l'orizzonte seguendo i propri|2017/12/scarpe-trekking-evasion-2-aero|data.oliviero.it/imgprodotto/scarpe-trekking-evasion-2-aero-393597_163289",

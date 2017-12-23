@@ -1,4 +1,9 @@
 Gr = [
+"Racchetta Tennis Maria 23|Racchetta con piatto corde Una racchetta violetto e blu della gamma|2017/12/racchetta-tennis-maria-23|data.oliviero.it/imgprodotto/racchetta-tennis-maria-23-234516_154540",
+"Racchetta Boost Aero|Leggerezza e maneggevolezza per la Baboat Boost Aero, una racchetta|2017/12/racchetta-boost-aero|data.oliviero.it/imgprodotto/racchetta-boost-aero-121182_161023",
+"Racchetta Impax ACS 2 Stelle|Racchetta Ping Pong Caratteristiche tecniche Struttura in compensato|2017/12/racchetta-impax-acs-2-stelle|data.oliviero.it/imgprodotto/racchetta-impax-acs-2-stelle_8328_big",
+"Racchetta ping pong React|REACT WRB RACCHETTA DA PING PONG STIGA COD.2C4-501 React WRB combina|2017/12/racchetta-ping-pong-react|data.oliviero.it/imgprodotto/racchetta-ping-pong-react_59698",
+"Racchetta Radical Jr. 26|Racchetta Radical Jr. 26 - 235205 La serie Radical Jr. accompagna|2017/12/racchetta-radical-jr-26|data.oliviero.it/imgprodotto/racchetta-radical-jr-26-235205_145704",
 "Racchetta Tennis MX Spark Elite|Racchetta con piatto corde La racchetta tennis Spark elite di Head|2017/12/racchetta-tennis-mx-spark-elite|data.oliviero.it/imgprodotto/racchetta-tennis-mx-spark-elite_165485",
 "Racchetta Ping Pong Storm|Racchetta Storm (2 stelle +) approvata ITTF Caratteristiche tecniche:|2017/12/racchetta-ping-pong-storm|data.oliviero.it/imgprodotto/racchetta-ping-pong-storm_83286",
 "Racchetta Tennis Biomimetic 400|Racchetta con piatto corde Biomimetic 400 è la racchetta ideale per|2017/12/racchetta-tennis-biomimetic-400|data.oliviero.it/imgprodotto/racchetta-tennis-biomimetic-400_15274_big",

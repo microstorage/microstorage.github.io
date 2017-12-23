@@ -1,4 +1,7 @@
 Gr = [
+"Maglia taglie forti uomo|Collezione: Autunno Inverno Tipologia: Maglia Taglie Forti Uomo|2017/12/maglia-taglie-forti-uomo|data.oliviero.it/imgprodotto/maglia-taglie-forti-uomo-98100-090-005_18372_big",
+"Polo Taglie Forti Uomo Ocra|Collezione Autunno Inverno/2018 Polo uomo taglie forti. Il modello|2017/12/polo-taglie-forti-uomo-ocra|data.oliviero.it/imgprodotto/polo-taglie-forti-uomo-ocra_172209",
+"Gilet Taglie Forti Uomo Militare|Collezione Autunno Inverno/2018 Gilet taglie forti uomo. Il modello|2017/12/gilet-taglie-forti-uomo-militare|data.oliviero.it/imgprodotto/gilet-taglie-forti-uomo-militare_170325",
 "Maglia Taglie Forti Uomo Abisso|Collezione Autunno Inverno/2018 Pullover in misto lana scollo V, con|2017/12/maglia-taglie-forti-uomo-abisso|data.oliviero.it/imgprodotto/maglia-taglie-forti-uomo-abisso_170230",
 "Maglia Taglie Forti Uomo Grafite|Collezione Autunno Inverno/2018 Felpa uomo taglie forti con zip al|2017/12/maglia-taglie-forti-uomo-grafite|data.oliviero.it/imgprodotto/maglia-taglie-forti-uomo-grafite_170235",
 "Maglia Taglie Forti Uomo Inchiostro|Collezione Autunno Inverno/2018 Pullover girocollo in misto lana, con|2017/12/maglia-taglie-forti-uomo-inchiostro|data.oliviero.it/imgprodotto/maglia-taglie-forti-uomo-inchiostro_170232",

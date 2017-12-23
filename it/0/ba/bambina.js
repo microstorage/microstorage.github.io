@@ -1,4 +1,8 @@
 Gr = [
+"Zaino Ollie Face|Lo carichi, lo riempi all'inverosimile, lo butti a terra, prende sole|2017/12/zaino-ollie-face|data.oliviero.it/imgprodotto/zaino-ollie-face_167437",
+"Abito Bambina Beige|Collezione Primavera Estate Abito intero da bambina. Il modello|2017/12/abito-bambina-beige|data.oliviero.it/imgprodotto/abito-bambina-beige-0s422_162157",
+"Felpa Bambina Bianco|Collezione Primavera Estate Felpa casual da bambina. Il modello|2017/12/felpa-bambina-bianco|data.oliviero.it/imgprodotto/felpa-bambina-bianco-4s536-0113_158559",
+"Astuccio 3 Zip Bundle Girl|L'ASTUCCIO 3 ZIP Seven School è l'accessorio che non può mancare nel|2017/12/astuccio-3-zip-bundle-girl|data.oliviero.it/imgprodotto/astuccio-3-zip-bundle-girl_166266",
 "Maxi Trolley SJ Girl|Questo è il Big trolley Sj! Adatto per la scuola con una capienza di|2017/12/maxi-trolley-sj-girl|data.oliviero.it/imgprodotto/maxi-trolley-sj-girl_166215",
 "Zaino Maxi Sj Girl|Sempre per la scuola una versione alternativa con un modello tondo:|2017/12/zaino-maxi-sj-girl|data.oliviero.it/imgprodotto/zaino-maxi-sj-girl_166211",
 "Scarpe con Ruote X2 Pow Lighted|Tomaia sintetica con linguetta e colletto imbottiti per un comfort|2017/12/scarpe-con-ruote-x2-pow-lighted|data.oliviero.it/imgprodotto/scarpe-con-ruote-x2-pow-lighted_173204",

@@ -1,4 +1,7 @@
 Gr = [
+"Skateboard FREEDOM tavola nera|Descrizione: Dimensioni tavola : 57x15,2 cm Materiale tavola|2017/12/skateboard-freedom-tavola-nera|data.oliviero.it/imgprodotto/skateboard-freedom-tavola-nera-ruote-arancio_162374",
+"Skateboard Cobra Surfing Board|Surfing Board Cobra, fantastico surfing board disponibile in|2017/12/skateboard-cobra-surfing-board|data.oliviero.it/imgprodotto/skateboard-cobra-surfing-board-70-710-0041_87728",
+"Skateboard TRIBE PRO BLOODY SKULL|Descrizione: Dimensioni tavola : 79x20 cm Materiale tavola|2017/12/skateboard-tribe-pro-bloody-skull|data.oliviero.it/imgprodotto/skateboard-tribe-pro-bloody-skull_162366",
 "Skateboard STREET PRO GRAFFITI NEW|Descrizione: Dimensioni tavola : 79x20 cm Materiale tavola|2017/12/skateboard-street-pro-graffiti-new|data.oliviero.it/imgprodotto/skateboard-street-pro-graffiti-new_162370",
 "Skateboard FREEDOM tavola gialla|Descrizione: Dimensioni tavola : 57x15,2 cm Materiale tavola|2017/12/skateboard-freedom-tavola-gialla|data.oliviero.it/imgprodotto/skateboard-freedom-tavola-gialla-ruote-azzurre_162372",
 "Surfskate Birdless 29\"|Il Ventura 29″ riproduce fedelmente la sensazione di una tavola da|2017/12/surfskate-birdless-29|data.oliviero.it/imgprodotto/surfskate-birdless-29_165563",

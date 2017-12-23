@@ -1,4 +1,9 @@
 Gr = [
+"Paradenti Safe Guard|Paradenti professionale in GEL modellabile. È composto da un corpo|2017/12/paradenti-safe-guard|data.oliviero.it/imgprodotto/paradenti-safe-guard_171419",
+"Stivaletti da Boxe|Stivaletto da boxe da combattimento leggero e traspirante, rivestito|2017/12/stivaletti-da-boxe|data.oliviero.it/imgprodotto/stivaletti-da-boxe_171392",
+"Borsone Sportivo|La borsa è interamente prodotta in CORDURA®, uno speciale Nylon66|2017/12/borsone-sportivo|data.oliviero.it/imgprodotto/borsone-sportivo-ac909_154994",
+"Cavigliere Imbottite|Questa nuovissima cavigliera è dotata di una tripla imbottitura in|2017/12/cavigliere-imbottite|data.oliviero.it/imgprodotto/cavigliere-imbottite-ab720_154535",
+"Cavigliere Thai|Logo a contrasto e nuovissimi e sfiziosi colori moda ridisegnano la|2017/12/cavigliere-thai|data.oliviero.it/imgprodotto/cavigliere-thai_171402",
 "Guantoni da Allenamento Boxe 10 oz|I Guantoni Leone Fight GN052 uniscono qualità, un look moderno e un|2017/12/guantoni-da-allenamento-boxe-10-oz|data.oliviero.it/imgprodotto/guantoni-da-allenamento-boxe-10-oz_169631",
 "Guanti Boxe Ska 10oz|Ad arricchire la limited edition 'Art and Gloves' arriva il GN099|2017/12/guanti-boxe-ska-10oz|data.oliviero.it/imgprodotto/guanti-boxe-ska-10oz_171406",
 "Guantoni Boxe 140z|'Black' come l'oscurità delle tenebre, 'Whitè come la luce che|2017/12/guantoni-boxe-140z|data.oliviero.it/imgprodotto/guantoni-boxe-140z_169638",

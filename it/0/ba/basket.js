@@ -1,4 +1,11 @@
 Gr = [
+"Canestro Phoenix|Il divertimento da spiaggia per bambini e ragazzi in un kit completo|2017/12/canestro-phoenix|data.oliviero.it/imgprodotto/canestro-phoenix_1751_big",
+"Canestro Boston|Boston è un tabellone da basket di qualità professionale e di misure|2017/12/canestro-boston|data.oliviero.it/imgprodotto/canestro-boston_1745_big",
+"Scarpe Basket Jordan|Parte della Fly Series, la scarpa da basket Jordan B. Fly - Uomo|2017/12/scarpe-basket-jordan|data.oliviero.it/imgprodotto/scarpe-basket-jordan_169664",
+"T-Shirt da Basket Grigio|La t-shirt da basket Nike Dry - Uomo è realizzata in tessuto|2017/12/t-shirt-da-basket-grigio|data.oliviero.it/imgprodotto/t-shirt-da-basket-grigio_167926",
+"1 Piantana Basket Magic|Caratteristiche tecniche: Altezza cm. 158, con base zavorrabile con|2017/12/1-piantana-basket-magic|data.oliviero.it/imgprodotto/1-piantana-basket-magic-70-320-0046_157444",
+"Scarpe Basket Air Max Infuriate Low|La scarpa da basket Nike Air Max Infuriate Low - Uomo offre|2017/12/scarpe-basket-air-max-infuriate-low|data.oliviero.it/imgprodotto/scarpe-basket-air-max-infuriate-low_167380",
+"Scarpe da Basket Mamba Instinct|La scarpa da basket Nike Kobe Mamba Instinct - Uomo è pensata per|2017/12/scarpe-da-basket-mamba-instinct|data.oliviero.it/imgprodotto/scarpe-da-basket-mamba-instinct_167712",
 "Scarpe Basket Jordan B.Fly|Parte della Fly Series, la scarpa da basket Jordan B. Fly - Uomo|2017/12/scarpe-basket-jordan-b-fly|data.oliviero.it/imgprodotto/scarpe-basket-jordan-b-fly_167068",
 "Scarpe Basket Hyperdunk 2017 TB|La scarpa da basket Nike Hyperdunk (Team) integra la più recente|2017/12/scarpe-basket-hyperdunk-2017-tb|data.oliviero.it/imgprodotto/scarpe-basket-hyperdunk-2017-tb_167397",
 "Canestro Tabellone 6098|UNICO PEZZO DISPONIBILE. PRODOTTO VENDUTO MONTATO SU BANCALE. EX|2017/12/canestro-tabellone-6098|data.oliviero.it/imgprodotto/canestro-tabellone-6098_19361_big",

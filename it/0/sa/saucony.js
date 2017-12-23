@@ -1,4 +1,6 @@
 Gr = [
+"Scarpe Running Echelon 6|Drop: 8mm Tallone: 27mm Avampiede: 19mm PROFILO ATLETA: Scarpa da|2017/12/scarpe-running-echelon-6|data.oliviero.it/imgprodotto/scarpe-running-echelon-6_168710",
+"Scarpe Running Jazz 18 (W)|PROFILO ATLETA: perché Jazz continua a essere il modello più amato?|2017/12/scarpe-running-jazz-18-w|data.oliviero.it/imgprodotto/scarpe-running-jazz-18-w-s10307-12_161068",
 "Scarpe Running Jazz 18|perché Jazz continua a essere il modello più amato? Il segreto sta|2017/12/scarpe-running-jazz-18|data.oliviero.it/imgprodotto/scarpe-running-jazz-18_168718",
 "Scarpe Fitness Kineta Relay|PROFILO: Dopo la corsa, per tenersi in forma anche in palestra|2017/12/scarpe-fitness-kineta-relay|data.oliviero.it/imgprodotto/scarpe-fitness-kineta-relay-s25244-24_163953",
 "Scarpe Running Grid Cohesion 10|Le scarpe running Saucony Cohesion 10 sono state ridisegnate per|2017/12/scarpe-running-grid-cohesion-10|data.oliviero.it/imgprodotto/scarpe-running-grid-cohesion-10_167253",

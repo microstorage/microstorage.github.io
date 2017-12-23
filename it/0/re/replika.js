@@ -1,4 +1,5 @@
 Gr = [
+"Felpa Taglie Forti Uomo Grigio|Collezione Autunno Inverno/2018 Felpa uomo taglie forti. Il modello|2017/12/felpa-taglie-forti-uomo-grigio|data.oliviero.it/imgprodotto/felpa-taglie-forti-uomo-grigio_169610",
 "2 T-Shirt taglie forti uomo bianca|Confezione composta da 2 T-Shirt. Modello maglia realizzato per le|2017/12/2-t-shirt-taglie-forti-uomo-bianca|data.oliviero.it/imgprodotto/2-t-shirt-taglie-forti-uomo-bianca_10380_big",
 "Giubbotto Taglie Forti Uomo Nero|Collezione Autunno Inverno/2018 Giubbotto in pelle da uomo taglie|2017/12/giubbotto-taglie-forti-uomo-nero|data.oliviero.it/imgprodotto/giubbotto-taglie-forti-uomo-nero_171900",
 "Giubbotto Uomo Taglie Forti Navy|Collezione Autunno Inverno/2018 Giubbotto da uomo taglie Forti. Il|2017/12/giubbotto-uomo-taglie-forti-navy|data.oliviero.it/imgprodotto/giubbotto-uomo-taglie-forti-navy_168591",

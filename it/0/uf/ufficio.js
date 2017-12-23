@@ -1,4 +1,6 @@
 Gr = [
+"Poltrona Casa Blu|Poltrona per ufficio con base e braccioli in nylon, seduta con|2017/12/poltrona-casa-blu|data.oliviero.it/imgprodotto/poltrona-casa-blu_108555",
+"Poltrona con poggiatesta da ufficio COOL RED|Poltrona con poggiatesta da ufficio COOL RED seduta in tessuto|2017/12/poltrona-con-poggiatesta-da-ufficio-cool-red|data.oliviero.it/imgprodotto/poltrona-con-poggiatesta-da-ufficio-cool-red_135080",
 "Scrivania 41.42.25|MADE IN ITALY La serie \"SPRINT\" di \"Valentini\" comprende mobiletti|2017/12/scrivania-41-42-25|data.oliviero.it/imgprodotto/scrivania-41-42-25_55420",
 "Poltrona con poggiatesta da ufficio COOL ORANGE|Poltrona con poggiatesta da ufficio COOL ORANGE seduta in tessuto|2017/12/poltrona-con-poggiatesta-da-ufficio-cool-orange|data.oliviero.it/imgprodotto/poltrona-con-poggiatesta-da-ufficio-cool-orange_135082",
 "Poltrona con poggiatesta da ufficio COOL BLUE|Poltrona con poggiatesta da ufficio COOL BLUE seduta in tessuto|2017/12/poltrona-con-poggiatesta-da-ufficio-cool-blue|data.oliviero.it/imgprodotto/poltrona-con-poggiatesta-da-ufficio-cool-blue_135081",

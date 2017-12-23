@@ -1,4 +1,7 @@
 Gr = [
+"Pressofiltro 1 Lt|Preziosa, pressofiltro in alluminio da 1 litro. Un'infusione calda|2017/12/pressofiltro-1-lt|data.oliviero.it/imgprodotto/pressofiltro-1-lt_154724",
+"Reticolo tagliapasta per crostata|Vorresti preparare una crostata bella come quelle di pasticceria ma|2017/12/reticolo-tagliapasta-per-crostata|data.oliviero.it/imgprodotto/reticolo-tagliapasta-per-crostata-630898_157892",
+"Scolapiatti con vassoio|Ecco uno scolapiatti davvero universale: prodotto in plastica|2017/12/scolapiatti-con-vassoio|data.oliviero.it/imgprodotto/scolapiatti-con-vassoio_73993",
 "Pasta combustibile EVA|Pasta conbustibile in gel a base di etanolo. Particolarmente adatta|2017/12/pasta-combustibile-eva|data.oliviero.it/imgprodotto/pasta-combustibile-eva_303_big",
 "Bilancia da cucina 2 in 1 viola 90.114F|Bilancia da cucina 2 in 1 viola Descrizione Ciotola in acciaio inox|2017/12/bilancia-da-cucina-2-in-1-viola-90-114f|data.oliviero.it/imgprodotto/bilancia-da-cucina-2-in-1-viola-90-114f_160603",
 "Brocca con scala Graduata 1l|Pratico contenitore dosatore con scala misuratrice sui lati per:|2017/12/brocca-con-scala-graduata-1l|data.oliviero.it/imgprodotto/brocca-con-scala-graduata-1l-630408_157792",

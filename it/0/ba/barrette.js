@@ -1,4 +1,6 @@
 Gr = [
+"Barretta Maxi Nut|La confezione contiene 24 barrette gusto Pistacchio Ingredienti:|2017/12/barretta-maxi-nut|data.oliviero.it/imgprodotto/barretta-maxi-nut-24-pz-pistacchio_108391",
+"Barretta 40 30 30 30 pz Arachidi|Confezione da 30 barrette BARRETTA 40-30-30 è una barretta|2017/12/barretta-40-30-30-30-pz-arachidi|data.oliviero.it/imgprodotto/barretta-40-30-30-30-pz-arachidi_108759",
 "Barretta Slim Day|La confezione contiene 24 barrette gusto cioccolato SLIM DAY è una|2017/12/barretta-slim-day|data.oliviero.it/imgprodotto/barretta-slim-day-24-pz-cioccolato_108404",
 "High Protein Bar 30% 48 gr gusto Crema di Nocciole|Enervit produce Protein Bar 30% una barretta gustosissima con ben 15|2017/12/high-protein-bar-30-48-gr-gusto-crema-di-nocciole|data.oliviero.it/imgprodotto/high-protein-bar-30-48-gr-gusto-crema-di-nocciole_109425",
 "Egg White gusto Vaniglia 750gr|EGG WHITE è un integratore alimentare di proteine a base di albume|2017/12/egg-white-gusto-vaniglia-750gr|data.oliviero.it/imgprodotto/egg-white-gusto-vaniglia-750gr_108607",

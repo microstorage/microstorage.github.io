@@ -1,4 +1,6 @@
 Gr = [
+"Double print frame grey|Double print frame è una soluzuone originale per creare con il|2017/12/double-print-frame-grey|data.oliviero.it/imgprodotto/double-print-frame-grey_132095",
+"L'album Dei Ricordi Rosa|Dalla gravidanza al primo compleanno, seguendo tutti gli eventi più|2017/12/l-album-dei-ricordi-rosa|data.oliviero.it/imgprodotto/lalbum-dei-ricordi-rosa_154080",
 "My creative photo album|Baby Art My Creative Photo Album è un magnifico album che puoi|2017/12/my-creative-photo-album|data.oliviero.it/imgprodotto/my-creative-photo-album_132097",
 "Magic box bunny|Simpatica idea regalo. Nella scatola c'è una pasta modellabile per|2017/12/magic-box-bunny|data.oliviero.it/imgprodotto/magic-box-bunny_165449",
 "Suspended frame|Suspended Frames, due cornici sospese per appendere il calco della|2017/12/suspended-frame|data.oliviero.it/imgprodotto/suspended-frame_165447",

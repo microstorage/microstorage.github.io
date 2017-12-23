@@ -1,4 +1,7 @@
 Gr = [
+"Dondolo Haiti Ecrù|Dondolo 2 posti Struttura in tubolare di ferro verniciato a polvere|2017/12/dondolo-haiti-ecru|data.oliviero.it/imgprodotto/dondolo-haiti-ecr%C3%B9_108480",
+"Poltrona Casa Blu|Poltrona per ufficio con base e braccioli in nylon, seduta con|2017/12/poltrona-casa-blu|data.oliviero.it/imgprodotto/poltrona-casa-blu_108555",
+"Coppia di sedie pieghevoli Heidi Grigia|Sedia Pieghevole Struttura in ferro verniciata a polvere epossidica|2017/12/coppia-di-sedie-pieghevoli-heidi-grigia|data.oliviero.it/imgprodotto/coppia-di-sedie-pieghevoli-heidi-grigia_164394",
 "Set Verline Sofa Ecrù|Set sofa composto da divanetto 2 posti, 2 poltrone e tavolino da|2017/12/set-verline-sofa-ecru|data.oliviero.it/imgprodotto/set-verline-sofa-ecr%C3%B9_164383",
 "Sgabello Quadro Rosso|Sgabello con base e struttura in acciaio cromato, seduta e schienale|2017/12/sgabello-quadro-rosso|data.oliviero.it/imgprodotto/sgabello-quadro-rosso_130777",
 "Divanetto Ascott Caffé|Divanetto Bistrot Strutture in ferro rivestite da intreccio in fibre|2017/12/divanetto-ascott-caffe|data.oliviero.it/imgprodotto/divanetto-ascott-caff%C3%A9_108468",

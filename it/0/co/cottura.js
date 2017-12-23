@@ -1,4 +1,7 @@
 Gr = [
+"Fonduta Finland|I tempi di consegna sono di circa 10 giorni lavorativi Set per|2017/12/fonduta-finland|data.oliviero.it/imgprodotto/fonduta-finland_1315_big",
+"Piastra per tortine Salate|Piastra per torte Salate - 90.605 Caratteristiche Piastra in|2017/12/piastra-per-tortine-salate|data.oliviero.it/imgprodotto/piastra-per-tortine-salate-90-605_106094",
+"Forno 9L Rosso|Forno 9L Rosso Codice: 90.372 Descrizione : 9 L Elementi riscaldanti|2017/12/forno-9l-rosso|data.oliviero.it/imgprodotto/forno-9l-rosso-90-372_90329",
 "Friggitrice elettrica Professionale 3,5L|Friggitrice elettrica Professionale 3,5L Codice: 90.495N Descrizione|2017/12/friggitrice-elettrica-professionale-3-5l|data.oliviero.it/imgprodotto/friggitrice-elettrica-professionale-3-5l-90-495n_146622",
 "Barbecue Elettrico 2000W|Barbecue Elettrico 2000W Codice: 90.383 Descrizione: Vaschetta per|2017/12/barbecue-elettrico-2000w|data.oliviero.it/imgprodotto/barbecue-elettrico-2000w-90-383_88993",
 "Vaporiera multicottura 7 Lt rettangolare|Vaporiera multicottura 7 Lt rettangolare Codice: 90.502 Descrizione:|2017/12/vaporiera-multicottura-7-lt-rettangolare|data.oliviero.it/imgprodotto/vaporiera-multicottura-7-lt-rettangolare-90-502_88966",

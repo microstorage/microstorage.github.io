@@ -1,4 +1,6 @@
 Gr = [
+"Lenzuola Culla/Carrozzina Milky Pois|Le Lenzuola Culla/Carrozzina Picci Milky variante pois è un set|2017/12/lenzuola-culla-carrozzina-milky-pois|data.oliviero.it/imgprodotto/lenzuola-culla-carrozzina-milky-pois_173276",
+"Set per Culla Princess|Set per culla con due lenzuolini con angoli Il kit è realizzato al|2017/12/set-per-culla-princess|data.oliviero.it/imgprodotto/set-per-culla-princess-09010796110990_155624",
 "Set Lenzuolino letto loving bear bianco|Il Set Lenzuola Pali Loving Bear è composto da 3 pezzi: lenzuolino|2017/12/set-lenzuolino-letto-loving-bear-bianco|data.oliviero.it/imgprodotto/set-lenzuolino-letto-loving-bear-bianco_86208",
 "Set Lenzuolino Zoe Rosa|Set lenzuolo composto da sotto con angoli (sempre teso) sopra|2017/12/set-lenzuolino-zoe-rosa|data.oliviero.it/imgprodotto/set-lenzuolino-zoe-rosa_147384",
 "Lenzuolino Culla Nido Converse Stella|Lenzuolino 3 pezzi per culla converse stella composto da sotto con|2017/12/lenzuolino-culla-nido-converse-stella|data.oliviero.it/imgprodotto/lenzuolino-culla-nido-converse-stella_172076",

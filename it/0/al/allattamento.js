@@ -1,4 +1,13 @@
 Gr = [
+"Biberon Caucciù 250ml|biberon Linea Benessere in caucciu 250 ml 0% BPA Chicco sono dedicati|2017/12/biberon-caucciu-250ml|data.oliviero.it/imgprodotto/biberon-caucci%C3%B9-250ml_51997",
+"Tiralatte elettrico|Il compatto tiralatte elettronico Natural Avent stimola delicatamente|2017/12/tiralatte-elettrico|data.oliviero.it/imgprodotto/tiralatte-elettrico_66689",
+"Biberon 125 ml pp natural|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-125-ml-pp-natural|data.oliviero.it/imgprodotto/biberon-125-ml-pp-natural_66809",
+"Niplette per capezzoli introflessi|Efficace e facile da usare. I capezzoli introflessi, o senza|2017/12/niplette-per-capezzoli-introflessi|data.oliviero.it/imgprodotto/niplette-per-capezzoli-introflessi_138413",
+"Biberon 260 ml azzurro natural|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-260-ml-azzurro-natural|data.oliviero.it/imgprodotto/biberon-260-ml-azzurro-natural_71632",
+"2 Tettarelle 0+ Natural|L'ampia tettarella dalla forma anatomica consente un allattamento|2017/12/2-tettarelle-0+-natural|data.oliviero.it/imgprodotto/2-tettarelle-0-natural_66823",
+"Cuscino Per Allattamento Nina|Cuscino d'allattamento Interno 100% fibra poliestere Rivestimento|2017/12/cuscino-per-allattamento-nina|data.oliviero.it/imgprodotto/cuscino-per-allattamento-nina_172684",
+"Biberon Caucciù 330 ml|Biberon Linea Benessere in caucciu 330 ml 0% BPA Chicco sono dedicati|2017/12/biberon-caucciu-330-ml|data.oliviero.it/imgprodotto/biberon-caucci%C3%B9-330-ml_138612",
+"Boppy cuscino allattamento honey bear|Boppy permette alla mamma di assumere una posizione confortevole. Il|2017/12/boppy-cuscino-allattamento-honey-bear|data.oliviero.it/imgprodotto/boppy-cuscino-allattamento-honey-bear_72582",
 "Biberon angolato 250 ml|La tettarella sempre colma di latte previene l'ingestione di aria|2017/12/biberon-angolato-250-ml|data.oliviero.it/imgprodotto/biberon-angolato-250-ml_142991",
 "Biberon 160 ml verde|Con il biberon First Bottle i bambini si sentono al sicuro fin dal|2017/12/biberon-160-ml-verde|data.oliviero.it/imgprodotto/biberon-160-ml-verde_53140",
 "Sterilizzatore a Microonde|Leggero e compatto lo sterilizzatore per forni a micronde è l'ideale|2017/12/sterilizzatore-a-microonde|data.oliviero.it/imgprodotto/sterilizzatore-a-microonde_3277_big",

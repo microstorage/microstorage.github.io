@@ -1,4 +1,9 @@
 Gr = [
+"Scarponi Sci Next Edge XP W|Scarponi sci Head Next Edge XP W leggero, confortevole, caldo, di|2017/12/scarponi-sci-next-edge-xp-w|data.oliviero.it/imgprodotto/scarponi-sci-next-edge-xp-w_171321",
+"Racchetta Tennis Maria 23|Racchetta con piatto corde Una racchetta violetto e blu della gamma|2017/12/racchetta-tennis-maria-23|data.oliviero.it/imgprodotto/racchetta-tennis-maria-23-234516_154540",
+"Scarponi Sci Advant Edge 85 W|Personalizzazione, comfort e facilità d'uso definiscono l'Advant Edge|2017/12/scarponi-sci-advant-edge-85-w|data.oliviero.it/imgprodotto/scarponi-sci-advant-edge-85-w_171319",
+"Casco Sci Cloe Nero|Essendo il più leggero della gamma di caschi HEAD da donna, Cloe|2017/12/casco-sci-cloe-nero|data.oliviero.it/imgprodotto/casco-sci-cloe-nero-325615_157638",
+"Racchetta Radical Jr. 26|Racchetta Radical Jr. 26 - 235205 La serie Radical Jr. accompagna|2017/12/racchetta-radical-jr-26|data.oliviero.it/imgprodotto/racchetta-radical-jr-26-235205_145704",
 "Racchetta Tennis MX Spark Elite|Racchetta con piatto corde La racchetta tennis Spark elite di Head|2017/12/racchetta-tennis-mx-spark-elite|data.oliviero.it/imgprodotto/racchetta-tennis-mx-spark-elite_165485",
 "Maschera Sci Infinity FMR|La INFINITY FMR combina un look perfetto con il massimo della|2017/12/maschera-sci-infinity-fmr|data.oliviero.it/imgprodotto/maschera-sci-infinity-fmr_171335",
 "Scarponi Sci Next Edge 65 W|Il leggero Next Edge 65 W vanta valore senza pari per quanto riguarda|2017/12/scarponi-sci-next-edge-65-w|data.oliviero.it/imgprodotto/scarponi-sci-next-edge-65-w_156519",

@@ -1,4 +1,6 @@
 Gr = [
+"Pettorina New York|Colore : New York Composizione : tessuto 65% poliestere e 35% cotone|2017/12/pettorina-new-york|data.oliviero.it/imgprodotto/pettorina-new-york_1647_big",
+"Grembiule Big Pettorina|Grembiule pettorina lunga. Caratteristiche: Colore: Bianco|2017/12/grembiule-big-pettorina|data.oliviero.it/imgprodotto/grembiule-big-pettorina-087997_159018",
 "Pettorina Riga Rossa|Pettorina unisex realizzata in 65% polyestere 35% cotone. Modello con|2017/12/pettorina-riga-rossa|data.oliviero.it/imgprodotto/pettorina-riga-rossa_1644_big",
 "Grembiule Madeira Zip|Colore : Grigio Composizione : tessuto 100% poliestere Dimensioni :|2017/12/grembiule-madeira-zip|data.oliviero.it/imgprodotto/grembiule-madeira-zip_24720_big",
 "Grembiule Pub Liverpool|Colore : Gessato nero Composizione : tessuto 100% poliestere|2017/12/grembiule-pub-liverpool|data.oliviero.it/imgprodotto/grembiule-pub-liverpool_1661_big",

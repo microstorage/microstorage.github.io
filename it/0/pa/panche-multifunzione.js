@@ -1,4 +1,12 @@
 Gr = [
+"Panca Multifunzione MultiPower|Stazione multifunzione semi-professionale, per allenamenti con|2017/12/panca-multifunzione-multipower|data.oliviero.it/imgprodotto/panca-multifunzione-multipower_168736",
+"Force Power Tower Boxe 2|Attrezzo multifunzione per addominali, dorsali, pettorali che|2017/12/force-power-tower-boxe-2|data.oliviero.it/imgprodotto/force-power-tower-boxe-2_68792",
+"Panca Multifunzione Force ST 5000|Panca Multifunzione ST 3300 Nuova stazione multiuso ST 3300 ottima|2017/12/panca-multifunzione-force-st-5000|data.oliviero.it/imgprodotto/panca-multifunzione-force-st-5000_168735",
+"Weight Bench WB60|Caratteristiche tecniche REGOLAZIONE ALTEZZA SUPPORTI SI (6|2017/12/weight-bench-wb60|data.oliviero.it/imgprodotto/weight-bench-wb60_171301",
+"Cross Fit Rack WT60|La struttura Tunturi WT60 Cross Fitrack è stata ricoperta in acciaio|2017/12/cross-fit-rack-wt60|data.oliviero.it/imgprodotto/cross-fit-rack-wt60_171254",
+"Modulo Leg Press|KINETIC SYSTEM Il nuovo concetto modulare Kinetic system è costituito|2017/12/modulo-leg-press|data.oliviero.it/imgprodotto/modulo-leg-press-kinetic-system_130395",
+"Panca Inversione TURN UP|Panca fitness ad inversione ideale per combattere i dolori alla|2017/12/panca-inversione-turn-up|data.oliviero.it/imgprodotto/panca-inversione-turn-up_71324",
+"Panca Multifunzione Hal Smith SM60|La panca multifunzione Tunturi SM60 è l'ideale per un allenamento|2017/12/panca-multifunzione-hal-smith-sm60|data.oliviero.it/imgprodotto/panca-multifunzione-hal-smith-sm60_171239",
 "Panca Multifunzione Force ST 1300|Caratteristiche: Pacco pesi: 68 kg (10 piastre da 15 libbre cad.)|2017/12/panca-multifunzione-force-st-1300|data.oliviero.it/imgprodotto/panca-multifunzione-force-st-1300_168722",
 "Power Tower PT40|Caratteristiche tecniche PULL UP BAR SI DIP STATION SI REGOLAZIONE IN|2017/12/power-tower-pt40|data.oliviero.it/imgprodotto/power-tower-pt40_171192",
 "Power Tower WBX 70|I power tower, o dip and chin up station, consentono di allenare la|2017/12/power-tower-wbx-70|data.oliviero.it/imgprodotto/power-tower-wbx-70_165249",

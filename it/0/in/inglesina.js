@@ -1,4 +1,7 @@
 Gr = [
+"Dual Bag Artic Blue|Borsa Inglesina Dual Bag è la pratica e comoda borsa da passeggino|2017/12/dual-bag-artic-blue|data.oliviero.it/imgprodotto/dual-bag-artic-blue_172109",
+"Trio Trilogy Plus 2018 Lipari|Con il trio TRILOGY PLUS Inglesina regala al nuovo nato un ricordo da|2017/12/trio-trilogy-plus-2018-lipari|data.oliviero.it/imgprodotto/trio-trilogy-plus-2018-lipari_170201",
+"Borsa My Baby Bag|Borsa da viaggio molto capiente e multifunzionale, realizzata in|2017/12/borsa-my-baby-bag|data.oliviero.it/imgprodotto/borsa-my-baby-bag_51910",
 "Day Bag Village Denim|É una borsa capiente e funzionale, di foggia esclusiva, con interno|2017/12/day-bag-village-denim|data.oliviero.it/imgprodotto/day-bag-village-denim_170194",
 "Seggiolino Marco Polo blue|nglesina presenta Marco Polo, il seggiolino auto evoluto pensato per|2017/12/seggiolino-marco-polo-blue|data.oliviero.it/imgprodotto/seggiolino-marco-polo-blue_51695",
 "Day Bag Ascott Green|Borsa modulabile che si fa in due per te. Una comoda e grande borsa|2017/12/day-bag-ascott-green|data.oliviero.it/imgprodotto/day-bag-ascott-green_170213",

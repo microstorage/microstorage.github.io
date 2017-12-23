@@ -1,4 +1,7 @@
 Gr = [
+"Materasso 120x190 Una Piazza e Mezzo Jolly|Materasso 120x190 Una Piazza e Mezzo Jolly. Spessore 20cm L' isolante|2017/12/materasso-120x190-una-piazza-e-mezzo-jolly|data.oliviero.it/imgprodotto/materasso-120x190-una-piazza-e-mezzo-jolly_93495",
+"Letto Matrimoniale Borea Ecopelle con contenitore|Caratteristiche Dimensioni letto 207x176x37cm Dimensioni testiera|2017/12/letto-matrimoniale-borea-ecopelle-con-contenitore|data.oliviero.it/imgprodotto/letto-matrimoniale-borea-ecopelle-con-contenitore-musa_153585",
+"Letto Matrimoniale Elios Rete Fissa|Caratteristiche Dimensioni letto 215x184x38 cm Dimensioni testiera|2017/12/letto-matrimoniale-elios-rete-fissa|data.oliviero.it/imgprodotto/letto-matrimoniale-elios-rete-fissa-musa_153590",
 "Letto Matrimoniale Elios con contenitore|Caratteristiche Dimensioni letto 215x184x38 cm Dimensioni testiera|2017/12/letto-matrimoniale-elios-con-contenitore|data.oliviero.it/imgprodotto/letto-matrimoniale-elios-con-contenitore-musa_153591",
 "Materasso 160x190 Matrimoniale Extra ortopedico|Materasso 160x190 matrimoniale. L' isolante elastico è costituito da|2017/12/materasso-160x190-matrimoniale-extra-ortopedico|data.oliviero.it/imgprodotto/materasso-160x190-matrimoniale-extra-ortopedico_93517",
 "Materasso 160x190 Matrimoniale Extra|Materasso 160x190 Matrimoniale. L' isolante elastico è costituito da|2017/12/materasso-160x190-matrimoniale-extra|data.oliviero.it/imgprodotto/materasso-160x190-matrimoniale-extra_93514",

@@ -1,4 +1,9 @@
 Gr = [
+"Panca Alpha Pro|NUOVO ALPHA PRO 07708-110 CERTIFICAZIONE SEMI PROFESSIONALE La panca|2017/12/panca-alpha-pro|data.oliviero.it/imgprodotto/panca-alpha-pro_90363",
+"Panca Ginnica Bench Pro|Panca Ginnica Bench Pro con SUPPORTO BILANCIERE, LEG CURL, LEG|2017/12/panca-ginnica-bench-pro|data.oliviero.it/imgprodotto/panca-ginnica-bench-pro_143359",
+"Panca Inversione JK6015|Regolazione altezza 145-200 cm Spessore imbottiture 35 mm Impugnature|2017/12/panca-inversione-jk6015|data.oliviero.it/imgprodotto/panca-inversione-jk6015_173197",
+"Kit Panca Bench Pro Deluxe + Bilanciere + Pesi|Pacchetto Offerta Victoria composto da: Panca Ginnica Bench Pro|2017/12/kit-panca-bench-pro-deluxe-+-bilanciere-+-pesi|data.oliviero.it/imgprodotto/kit-panca-bench-pro-deluxe-bilanciere-pesi_164698",
+"Panca Addominali Ginnica Bench Trainer|Panca Addominali Ginnica Bench Trainer , particolarmente adatta per|2017/12/panca-addominali-ginnica-bench-trainer|data.oliviero.it/imgprodotto/panca-addominali-ginnica-bench-trainer_141085",
 "Core Trainer CT40|Caratteristiche tecniche PANCA ADDOMINALE NO APPOGGI PER GAMBE SI|2017/12/core-trainer-ct40|data.oliviero.it/imgprodotto/core-trainer-ct40_171221",
 "Arm Curl Pro Appoggio Scott|Il cuscino per Arm Curl ti permette di compiere esercizi specifici|2017/12/arm-curl-pro-appoggio-scott|data.oliviero.it/imgprodotto/arm-curl-pro-appoggio-scott_168525",
 "Utility Bench UB80|La panca Tunturi UB80 Utility è stata disegnata con un materiale di|2017/12/utility-bench-ub80|data.oliviero.it/imgprodotto/utility-bench-ub80_171306",

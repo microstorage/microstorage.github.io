@@ -1,4 +1,7 @@
 Gr = [
+"Biliardo Dallas|Tavolo da pool dalla linea snella ed elegante, indicato per chi ha|2017/12/biliardo-dallas|data.oliviero.it/imgprodotto/biliardo-dallas_8402_big",
+"Piane di Copertura ALEXANDRA 8|Piane di copertura in nobilitato melaminico (spessore mm. 20) in|2017/12/piane-di-copertura-alexandra-8|data.oliviero.it/imgprodotto/piane-di-copertura-alexandra-8_73393",
+"Air Hockey Zodiac|Zodiac è un modello di piattaforma per Air Hockey della linea|2017/12/air-hockey-zodiac|data.oliviero.it/imgprodotto/air-hockey-zodiac_3424_big",
 "Bersaglio per freccette 505 elettronico|Bersaglio elettronico per il gioco delle freccette. Memorizzazione|2017/12/bersaglio-per-freccette-505-elettronico|data.oliviero.it/imgprodotto/bersaglio-per-freccette-505-elettronico_8394_big",
 "Biliardo Alexandra 6 Mdf|Alexandra è l'ultima creazione Garlando in fatto di biliardi per la|2017/12/biliardo-alexandra-6-mdf|data.oliviero.it/imgprodotto/biliardo-alexandra-6-mdf_48873_big",
 "Biliardo Alexandra 6 Ardesia|Alexandra è l'ultima creazione Garlando in fatto di biliardi per la|2017/12/biliardo-alexandra-6-ardesia|data.oliviero.it/imgprodotto/biliardo-alexandra-6-ardesia_73388",

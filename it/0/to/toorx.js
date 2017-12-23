@@ -1,4 +1,8 @@
 Gr = [
+"Tapis Roulant TRX 40 S EVO|Tapis Roulant pre-assemblato, 2 ruote di trasporto. AIR CUSHIONS|2017/12/tapis-roulant-trx-40-s-evo|data.oliviero.it/imgprodotto/tapis-roulant-trx-40-s-evo_159597",
+"Rullo massaggio 3 in 1|Il rullo massaggio 3 in 1 è composto da tre rulli con dimensioni|2017/12/rullo-massaggio-3-in-1|data.oliviero.it/imgprodotto/rullo-massaggio-3-in-1-ahf061_151344",
+"Gym bike SRX 60|La gym bike SRX 60. Trasmissione a cinghia con pignone fisso Sistema|2017/12/gym-bike-srx-60|data.oliviero.it/imgprodotto/gym-bike-srx-60_94019",
+"Gym bike SRX 80 con ricevitore Polar|Caratteristiche SRX-80 Trasmissione a cinghia con pignone fisso|2017/12/gym-bike-srx-80-con-ricevitore-polar|data.oliviero.it/imgprodotto/gym-bike-srx-80-con-ricevitore-polar_90133",
 "Tapis Roulant Trx 65 S EVO con App Ready|Caratteristiche Motore: 3/4 (Peak) HP DC - Garanzia 3 anni Velocità:|2017/12/tapis-roulant-trx-65-s-evo-con-app-ready|data.oliviero.it/imgprodotto/tapis-roulant-trx-65-s-evo-con-app-ready_142170",
 "Cyclette BRX Comfort Accesso facilitato|Sistema di frenaggio magnetico su 8 posizioni. Volano peso 6 kg. Peso|2017/12/cyclette-brx-comfort-accesso-facilitato|data.oliviero.it/imgprodotto/cyclette-brx-comfort-accesso-facilitato_68808",
 "Tapis Roulant TRX 60 S EVO|TRX-60 S EVO Garanzia a vita sul telaio. Pre-assemblato. HRC-Heart|2017/12/tapis-roulant-trx-60-s-evo|data.oliviero.it/imgprodotto/tapis-roulant-trx-60-s-evo_159607",

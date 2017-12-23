@@ -1,4 +1,12 @@
 Gr = [
+"Panca Alpha Pro|NUOVO ALPHA PRO 07708-110 CERTIFICAZIONE SEMI PROFESSIONALE La panca|2017/12/panca-alpha-pro|data.oliviero.it/imgprodotto/panca-alpha-pro_90363",
+"Panca Addominali Athos|PANCHE DA ALLENAMENTO Le panche da allenamento Kettler sono dei veri|2017/12/panca-addominali-athos|data.oliviero.it/imgprodotto/panca-addominali-athos_130329",
+"Cyclette Cycle M LA accesso facilitato|CYCLE M LA07629-400 Modello di ingresso nel mondo KETTLER, la|2017/12/cyclette-cycle-m-la-accesso-facilitato|data.oliviero.it/imgprodotto/cyclette-cycle-m-la-accesso-facilitato_130294",
+"Panca Addominali Combi Trainer|Combi-TRAINER 07629-700 Panca multi-funzione (hyperextension|2017/12/panca-addominali-combi-trainer|data.oliviero.it/imgprodotto/panca-addominali-combi-trainer_130326",
+"Cyclette Golf C2|KETTLER GOLF C2 Computer LDC multi informazione, facile da usare con|2017/12/cyclette-golf-c2|data.oliviero.it/imgprodotto/cyclette-golf-c2_158001",
+"Modulo Leg Press|KINETIC SYSTEM Il nuovo concetto modulare Kinetic system è costituito|2017/12/modulo-leg-press|data.oliviero.it/imgprodotto/modulo-leg-press-kinetic-system_130395",
+"Tavolo Ping Pong Axos Outdoor 1|Ping Pong - AXOS OUTDOOR 1 Articolo No.: 07047-900 Modello per uso|2017/12/tavolo-ping-pong-axos-outdoor-1|data.oliviero.it/imgprodotto/tavolo-ping-pong-axos-outdoor-1_110102",
+"Crossrack NEW!|Descrizione: Ketter Cross Rack è una multi stazione per allenamento|2017/12/crossrack-new|data.oliviero.it/imgprodotto/crossrack-new-_162691",
 "Tavolo Ping Pong Axos Indoor 1|Ping Pong - AXOS INDOOR 1 Articolo No.: 07046-900 Caratteristiche|2017/12/tavolo-ping-pong-axos-indoor-1|data.oliviero.it/imgprodotto/tavolo-ping-pong-axos-indoor-1_110095",
 "Cyclette Golf C4|KETTLER GOLF C4 Computer LCD alta risoluzione multi informazione con|2017/12/cyclette-golf-c4|data.oliviero.it/imgprodotto/cyclette-golf-c4_158003",
 "Cyclette Ergo C10|Un vero ergometro con 2 modalità di utilizzo: modalità AUTO (rpm|2017/12/cyclette-ergo-c10|data.oliviero.it/imgprodotto/cyclette-ergo-c10_158044",

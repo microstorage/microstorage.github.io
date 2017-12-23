@@ -1,4 +1,6 @@
 Gr = [
+"Zaino Shot Pack|Capacità 28 lt Dimensione 27x41x20 cm Funzionali Fondo imbottito|2017/12/zaino-shot-pack|data.oliviero.it/imgprodotto/zaino-shot-pack_167467",
+"Zaino Ollie Face|Lo carichi, lo riempi all'inverosimile, lo butti a terra, prende sole|2017/12/zaino-ollie-face|data.oliviero.it/imgprodotto/zaino-ollie-face_167437",
 "Zaino Ollie Face Fantasy|Lo carichi, lo riempi all'inverosimile, lo butti a terra, prende sole|2017/12/zaino-ollie-face-fantasy|data.oliviero.it/imgprodotto/zaino-ollie-face-fantasy_167444",
 "Zaino Flip Pack Fantasy|Uno zaino con ben 38 llitri di capacità: questo fa di Flip Pack lo|2017/12/zaino-flip-pack-fantasy|data.oliviero.it/imgprodotto/zaino-flip-pack-fantasy_167463",
 "Astuccio Lip Face|L'ormai mitico astuccio con le faccine ha sempre la sua da dire; con|2017/12/astuccio-lip-face|data.oliviero.it/imgprodotto/astuccio-lip-face_167481",

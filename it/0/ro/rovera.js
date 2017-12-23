@@ -1,4 +1,6 @@
 Gr = [
+"Sacco boxe + Guantoni|Sacco + guanti da allenamento Caratteristiche : Completo boxe|2017/12/sacco-boxe-+-guantoni|data.oliviero.it/imgprodotto/sacco-boxe-guantoni_71355",
+"Panca Inversione TURN UP|Panca fitness ad inversione ideale per combattere i dolori alla|2017/12/panca-inversione-turn-up|data.oliviero.it/imgprodotto/panca-inversione-turn-up_71324",
 "Tavolo Ping Pong T914 Super Gara Indoor|MODELLO: TAVOLO PING PONG 'SUPER GARA' Tavolo montato su ruote|2017/12/tavolo-ping-pong-t914-super-gara-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-t914-super-gara-indoor_6990_big",
 "Set Aerobica Basic|Guanti in pelle + 2 manubri da kg. 2 cad. Caratteristiche tecniche:|2017/12/set-aerobica-basic|data.oliviero.it/imgprodotto/set-aerobica-basic_71336",
 "Tavola da neve Snow Slide|SNOW-SLIDE Tavola in poliuretano espanso rigido Alette direzionali|2017/12/tavola-da-neve-snow-slide|data.oliviero.it/imgprodotto/tavola-da-neve-snow-slide_14552_big",

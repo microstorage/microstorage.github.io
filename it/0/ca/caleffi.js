@@ -1,4 +1,8 @@
 Gr = [
+"Completo Lenzuola Mille Righe Flanella|Tessuto in flanella di puro cotone. Singolo Lenzuolo superiore|2017/12/completo-lenzuola-mille-righe-flanella|data.oliviero.it/imgprodotto/completo-lenzuola-mille-righe-flanella_169027",
+"Completo Lenzuola Niki Ciclamino|Completo lenzuola composto da lenzuola da sotto, lenzuolo da sopra|2017/12/completo-lenzuola-niki-ciclamino|data.oliviero.it/imgprodotto/completo-lenzuola-niki-ciclamino_153855",
+"Completo Lenzuola Kiss Flan. Rosa|Tessuto in flanella di puro cotone. Singolo Lenzuolo superiore|2017/12/completo-lenzuola-kiss-flan-rosa|data.oliviero.it/imgprodotto/completo-lenzuola-kiss-flan-rosa_169029",
+"Completo Lenzuola Pesco Flan. Rosa|Tessuto in flanella di puro cotone. Singolo Lenzuolo superiore|2017/12/completo-lenzuola-pesco-flan-rosa|data.oliviero.it/imgprodotto/completo-lenzuola-pesco-flan-rosa_169025",
 "Completo Copripiumino Alice in Wonderland|Completo copripiumino composto da sacco, lenzuolo con angoli e federa|2017/12/completo-copripiumino-alice-in-wonderland|data.oliviero.it/imgprodotto/completo-copripiumino-alice-in-wonderland_153924",
 "Completo Copripiumino Norvegia Antracite|Collezione Autunno Inverno/2018 Tessuto di puro cotone. Colore Vivo|2017/12/completo-copripiumino-norvegia-antracite|data.oliviero.it/imgprodotto/completo-copripiumino-norvegia-antracite_166688",
 "Completo Lenzuola Fiori Flan. Azzurro|Tessuto in flanella di puro cotone. Singolo Lenzuolo superiore|2017/12/completo-lenzuola-fiori-flan-azzurro|data.oliviero.it/imgprodotto/completo-lenzuola-fiori-flan-azzurro_169043",

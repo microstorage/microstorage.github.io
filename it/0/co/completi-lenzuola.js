@@ -1,4 +1,8 @@
 Gr = [
+"Completo Lenzuola Mille Righe Flanella|Tessuto in flanella di puro cotone. Singolo Lenzuolo superiore|2017/12/completo-lenzuola-mille-righe-flanella|data.oliviero.it/imgprodotto/completo-lenzuola-mille-righe-flanella_169027",
+"Completo Lenzuola Niki Ciclamino|Completo lenzuola composto da lenzuola da sotto, lenzuolo da sopra|2017/12/completo-lenzuola-niki-ciclamino|data.oliviero.it/imgprodotto/completo-lenzuola-niki-ciclamino_153855",
+"Completo Lenzuola Kiss Flan. Rosa|Tessuto in flanella di puro cotone. Singolo Lenzuolo superiore|2017/12/completo-lenzuola-kiss-flan-rosa|data.oliviero.it/imgprodotto/completo-lenzuola-kiss-flan-rosa_169029",
+"Completo Lenzuola Pesco Flan. Rosa|Tessuto in flanella di puro cotone. Singolo Lenzuolo superiore|2017/12/completo-lenzuola-pesco-flan-rosa|data.oliviero.it/imgprodotto/completo-lenzuola-pesco-flan-rosa_169025",
 "Completo Lenzuola Fiori Flan. Azzurro|Tessuto in flanella di puro cotone. Singolo Lenzuolo superiore|2017/12/completo-lenzuola-fiori-flan-azzurro|data.oliviero.it/imgprodotto/completo-lenzuola-fiori-flan-azzurro_169043",
 "Completo Lenzuola Flanella Mickey Pluto|Tessuto di flanella Singolo Lenzuolo superiore 160x280 cm Lenzuolo|2017/12/completo-lenzuola-flanella-mickey-pluto|data.oliviero.it/imgprodotto/completo-lenzuola-flanella-mickey-pluto_168970",
 "Completo Lenzuola Geometria Flan. Orchidea|Tessuto in flanella di puro cotone. Singolo Lenzuolo superiore|2017/12/completo-lenzuola-geometria-flan-orchidea|data.oliviero.it/imgprodotto/completo-lenzuola-geometria-flan-orchidea_169033",

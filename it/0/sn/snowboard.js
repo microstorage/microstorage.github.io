@@ -1,4 +1,5 @@
 Gr = [
+"Pulse + Attacchi Rhythm Giallo|Snowboard + attacchi UOMO Snowboard Pulse Pochi euro, molti brividi|2017/12/pulse-+-attacchi-rhythm-giallo|data.oliviero.it/imgprodotto/pulse-attacchi-rhythm-giallo_94273",
 "Snowboard Lotus + Attacchi Spell|Snowboard LotusTempo di fioriture La progressione di tutto ciò che la|2017/12/snowboard-lotus-+-attacchi-spell|data.oliviero.it/imgprodotto/snowboard-lotus-attacchi-spell_157542",
 "Sanchez + Attacchi Rhytym|La Salvatore Sanchez è una pasata totale! Una bella banana (profilo|2017/12/sanchez-+-attacchi-rhytym|data.oliviero.it/imgprodotto/sanchez-attacchi-rhytym_24188_big",
 "Snowboard Spark + Attacchi Spell|La tavola snowboard Salomon Spark dotata della nuova tecnologia|2017/12/snowboard-spark-+-attacchi-spell|data.oliviero.it/imgprodotto/snowboard-spark-attacchi-spell_157544",

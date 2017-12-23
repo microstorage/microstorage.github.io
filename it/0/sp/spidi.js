@@ -1,4 +1,9 @@
 Gr = [
+"Pantalone da Moto in tessuto Ronin|Ronin è un pantalone tecnico da moto studiato per offrire ai|2017/12/pantalone-da-moto-in-tessuto-ronin|data.oliviero.it/imgprodotto/pantalone-da-moto-in-tessuto-ronin-j51-026_149847",
+"Giacca da Moto Fandango|Nata da una collaborazione con la celebre rivista francese Café|2017/12/giacca-da-moto-fandango|data.oliviero.it/imgprodotto/giacca-da-moto-fandango-p136-026_149805",
+"Giacca da Moto H2Out Traveler|Traveler è una giacca impermeabile e termica da moto che, grazie al|2017/12/giacca-da-moto-h2out-traveler|data.oliviero.it/imgprodotto/giacca-da-moto-h2out-traveler-d147-087_164820",
+"Giacca da Moto in Tessuto 448 Lady|Un giacca leggera ideale per la bella stagione, e sviluppata per un|2017/12/giacca-da-moto-in-tessuto-448-lady|data.oliviero.it/imgprodotto/giacca-da-moto-in-tessuto-448-lady-t151-026_150508",
+"Guanti da moto STR 5|STR-5 è l'evoluzione del guanto ideato per coniugare le|2017/12/guanti-da-moto-str-5|data.oliviero.it/imgprodotto/guanti-da-moto-str-5-a175-026_164806",
 "Guanti da Moto STS-S|STS-S è un tradizionale guanto racing che ben si adatta alle sportive|2017/12/guanti-da-moto-sts-s|data.oliviero.it/imgprodotto/guanti-da-moto-sts-s_165738",
 "Giacca da Moto Net Stream Uomo|Netstream è una giacca da moto in rete 3D ad altissimo coefficiente|2017/12/giacca-da-moto-net-stream-uomo|data.oliviero.it/imgprodotto/giacca-da-moto-net-stream-uomo-t199-486_149780",
 "Giubbotto Moto Elite P108|Collezione: Primavera Estate Tipologia: Giacca Moto da donna Tessuto:|2017/12/giubbotto-moto-elite-p108|data.oliviero.it/imgprodotto/giubbotto-moto-elite-p108_83608",

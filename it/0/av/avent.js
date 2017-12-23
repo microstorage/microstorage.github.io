@@ -1,4 +1,10 @@
 Gr = [
+"Tiralatte elettrico|Il compatto tiralatte elettronico Natural Avent stimola delicatamente|2017/12/tiralatte-elettrico|data.oliviero.it/imgprodotto/tiralatte-elettrico_66689",
+"Biberon 125 ml pp natural|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-125-ml-pp-natural|data.oliviero.it/imgprodotto/biberon-125-ml-pp-natural_66809",
+"Niplette per capezzoli introflessi|Efficace e facile da usare. I capezzoli introflessi, o senza|2017/12/niplette-per-capezzoli-introflessi|data.oliviero.it/imgprodotto/niplette-per-capezzoli-introflessi_138413",
+"Biberon 260 ml azzurro natural|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-260-ml-azzurro-natural|data.oliviero.it/imgprodotto/biberon-260-ml-azzurro-natural_71632",
+"2 Tettarelle 0+ Natural|L'ampia tettarella dalla forma anatomica consente un allattamento|2017/12/2-tettarelle-0+-natural|data.oliviero.it/imgprodotto/2-tettarelle-0-natural_66823",
+"Set posatine da viaggio|Un set di posatine realizzate specificatamente per impararte|2017/12/set-posatine-da-viaggio|data.oliviero.it/imgprodotto/set-posatine-da-viaggio_73914",
 "Tazza Con Beccuccio 340ml 18+|È una vera borraccia sportiva, con una maggiore capienza, perfetta|2017/12/tazza-con-beccuccio-340ml-18+|data.oliviero.it/imgprodotto/tazza-con-beccuccio-340ml-18-_127824",
 "Piatto fondo grande|Ideale per i bambini più grandicelli. I bordi consentono di|2017/12/piatto-fondo-grande|data.oliviero.it/imgprodotto/piatto-fondo-grande_73905",
 "Sterilizzatore 3 in 1|Perfetto per tutto ciò che desideri sterilizzare, poco ingombre in|2017/12/sterilizzatore-3-in-1|data.oliviero.it/imgprodotto/sterilizzatore-3-in-1_51628",

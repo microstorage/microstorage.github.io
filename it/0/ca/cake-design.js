@@ -1,4 +1,6 @@
 Gr = [
+"Pirottini in silicone 7 cm Set 6 pezzi|Colorati e riutilizzabili, questi pirottini in silicone d'alta|2017/12/pirottini-in-silicone-7-cm-set-6-pezzi|data.oliviero.it/imgprodotto/pirottini-in-silicone-7-cm-set-6-pezzi-630646_157836",
+"Flacone dosatore 250 ml|Il flacone dosatore in plastica flessibile e resistente, disponibile|2017/12/flacone-dosatore-250-ml|data.oliviero.it/imgprodotto/flacone-dosatore-250-ml_74132",
 "Stampi per Panna cotta 4 pz|Hai voglia di una golosa panna cotta? Ora ci sono gli stampini che ti|2017/12/stampi-per-panna-cotta-4-pz|data.oliviero.it/imgprodotto/stampi-per-panna-cotta-4-pz-630591_157821",
 "Stampini di pasqua Tridimensionali|Eccellente per una facile preparazione di biscotti ripieni. Include|2017/12/stampini-di-pasqua-tridimensionali|data.oliviero.it/imgprodotto/stampini-di-pasqua-tridimensionali_74034",
 "Anello Regolabile Tondo|Anello regolabile prodotto in acciaio inossidabile di alta qualità|2017/12/anello-regolabile-tondo|data.oliviero.it/imgprodotto/anello-regolabile-tondo_75852",

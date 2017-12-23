@@ -1,4 +1,9 @@
 Gr = [
+"Scarponi Sci Next Edge XP W|Scarponi sci Head Next Edge XP W leggero, confortevole, caldo, di|2017/12/scarponi-sci-next-edge-xp-w|data.oliviero.it/imgprodotto/scarponi-sci-next-edge-xp-w_171321",
+"Scarponi Sci Advant Edge 85 W|Personalizzazione, comfort e facilità d'uso definiscono l'Advant Edge|2017/12/scarponi-sci-advant-edge-85-w|data.oliviero.it/imgprodotto/scarponi-sci-advant-edge-85-w_171319",
+"Scarponi Snow Pearl|AUTO PILOT A tutto stile con la scarpa Pearl— Con scarpetta Silver|2017/12/scarponi-snow-pearl|data.oliviero.it/imgprodotto/scarponi-snow-pearl_94283",
+"Scarponi Sci Hawx Prime 80 W|LHawx Magna 80 W è uno degli scarponi custom della nostra nuova|2017/12/scarponi-sci-hawx-prime-80-w|data.oliviero.it/imgprodotto/scarponi-sci-hawx-prime-80-w_156443",
+"Scarponi Sci Hawx 1.0 70 W|L'Atomic Hawx 1.0 70 W ha un flex morbido, che lo rende ideale per le|2017/12/scarponi-sci-hawx-1-0-70-w|data.oliviero.it/imgprodotto/scarponi-sci-hawx-1-0-70-w_156438",
 "Scarponi Sci Next Edge 65 W|Il leggero Next Edge 65 W vanta valore senza pari per quanto riguarda|2017/12/scarponi-sci-next-edge-65-w|data.oliviero.it/imgprodotto/scarponi-sci-next-edge-65-w_156519",
 "Scarponi Sci Advant Edge 95|Sciate di precisione con il minimo sforzo e fatica: questo è Advant|2017/12/scarponi-sci-advant-edge-95|data.oliviero.it/imgprodotto/scarponi-sci-advant-edge-95_156517",
 "Scarponi Sci NXT N4 W|NXT N4 W di Nordica è facile da calzare, completamente regolabile|2017/12/scarponi-sci-nxt-n4-w|data.oliviero.it/imgprodotto/scarponi-sci-nxt-n4-w_140325",

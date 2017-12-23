@@ -1,4 +1,10 @@
 Gr = [
+"Giacca Sci da Uomo Shuss|Collezione Autunno Inverno/2018 Ispirata ad uno dei passaggi tecnici|2017/12/giacca-sci-da-uomo-shuss|data.oliviero.it/imgprodotto/giacca-sci-da-uomo-shuss_170440",
+"Pile Mezza Zip Donna Bianco|Collezione Autunno Inverno/2018 Maglia termica donna in pile|2017/12/pile-mezza-zip-donna-bianco|data.oliviero.it/imgprodotto/pile-mezza-zip-donna-bianco_171777",
+"Giacca da Moto Fandango|Nata da una collaborazione con la celebre rivista francese Café|2017/12/giacca-da-moto-fandango|data.oliviero.it/imgprodotto/giacca-da-moto-fandango-p136-026_149805",
+"Giacche donna J2S4CE 00449|Collezione Twin Set Jeans Giacca da donna in tessuto ricoperto di|2017/12/giacche-donna-j2s4ce-00449|data.oliviero.it/imgprodotto/giacche-donna-j2s4ce-00449_147037",
+"Giacca da Moto H2Out Traveler|Traveler è una giacca impermeabile e termica da moto che, grazie al|2017/12/giacca-da-moto-h2out-traveler|data.oliviero.it/imgprodotto/giacca-da-moto-h2out-traveler-d147-087_164820",
+"Giacca da Moto in Tessuto 448 Lady|Un giacca leggera ideale per la bella stagione, e sviluppata per un|2017/12/giacca-da-moto-in-tessuto-448-lady|data.oliviero.it/imgprodotto/giacca-da-moto-in-tessuto-448-lady-t151-026_150508",
 "Pile Uomo Nero|Collezione Autunno Invero/2018 CMP Uomo Pullover in pile si in pile|2017/12/pile-uomo-nero|data.oliviero.it/imgprodotto/pile-uomo-nero_169280",
 "Giacca da Sci Donna Ancolie|Collezione Autunno Inverno/2018 Ancolie è la giacca sci donna della|2017/12/giacca-da-sci-donna-ancolie|data.oliviero.it/imgprodotto/giacca-da-sci-donna-ancolie_170452",
 "Giacca da Moto Net Stream Uomo|Netstream è una giacca da moto in rete 3D ad altissimo coefficiente|2017/12/giacca-da-moto-net-stream-uomo|data.oliviero.it/imgprodotto/giacca-da-moto-net-stream-uomo-t199-486_149780",

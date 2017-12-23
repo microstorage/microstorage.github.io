@@ -1,4 +1,5 @@
 Gr = [
+"Amino X 1015 gr|Integratore alimentare di aminoacidi con vitamine ed edulcoranti, in|2017/12/amino-x-1015-gr|data.oliviero.it/imgprodotto/amino-x-1015-gr_109964",
 "Glutammine Evolution Confezione 120 Cps|ATTENZIONE: In caso di mancata giacenza di magazzino, i tempi di|2017/12/glutammine-evolution-confezione-120-cps|data.oliviero.it/imgprodotto/glutammine-evolution-confezione-120-cps_55220",
 "BCAA 100 Caplets|BCAA CAPLETS è un integratore alimentare di aminoacidi ramificati|2017/12/bcaa-100-caplets|data.oliviero.it/imgprodotto/bcaa-100-caplets_108435",
 "Nitro Max Confezione 100 Cps|NITRO MAX FORMULA è un integratore alimentare di aminoacidi|2017/12/nitro-max-confezione-100-cps|data.oliviero.it/imgprodotto/nitro-max-confezione-100-cps_108703",

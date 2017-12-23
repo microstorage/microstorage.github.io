@@ -1,4 +1,5 @@
 Gr = [
+"Top Techfit Fucsia|Caratterizzato da un design a supporto medio ideale per discipline|2017/12/top-techfit-fucsia|data.oliviero.it/imgprodotto/top-techfit-fucsia_168177",
 "2 Paia di Calzini|Confezione da due paia Bordi a coste con 3 strisce e Trifoglio Pianta|2017/12/2-paia-di-calzini|data.oliviero.it/imgprodotto/2-paia-di-calzini_167625",
 "Reggiseno Sportivo Bianco|Caratterizzato da un design a supporto medio ideale per discipline|2017/12/reggiseno-sportivo-bianco|data.oliviero.it/imgprodotto/reggiseno-sportivo-bianco-aj2173_162228",
 "Mutande a Rete Monouso 3pz|CONFEZIONE 3 PEZZI In rete elasticizzata igienica e morbida. Studiata|2017/12/mutande-a-rete-monouso-3pz|data.oliviero.it/imgprodotto/mutande-a-rete-monouso-3pz_53121",

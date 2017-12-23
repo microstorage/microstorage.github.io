@@ -1,4 +1,6 @@
 Gr = [
+"Maschera Sci G.GL 300|Modello base della linea g.gl 300. Il design tagliente e moderno|2017/12/maschera-sci-g-gl-300|data.oliviero.it/imgprodotto/maschera-sci-g-gl-300-s5502151129_154614",
+"Maschera Sci Downhill 2000 S LM|Se indossata sopra o sotto il casco, la cinghia supplementare|2017/12/maschera-sci-downhill-2000-s-lm|data.oliviero.it/imgprodotto/maschera-sci-downhill-2000-s-lm_171349",
 "Maschera Sci Big 40 LM|Attività: All mountain Modello: Big 40 FM Sesso: Unisex Lente:|2017/12/maschera-sci-big-40-lm|data.oliviero.it/imgprodotto/maschera-sci-big-40-lm_171350",
 "Maschera Sci g.gl 300 Take Off|I pluripremiati occhiali da sci con tecnologia multi lente. La lente|2017/12/maschera-sci-g-gl-300-take-off|data.oliviero.it/imgprodotto/maschera-sci-g-gl-300-take-off-s5502131326_171343",
 "Maschera Sci Downhill 2000|Massima protezione e comodità Caratteristiche: 100% protezione raggi|2017/12/maschera-sci-downhill-2000|data.oliviero.it/imgprodotto/maschera-sci-downhill-2000-s5501091826_171338",

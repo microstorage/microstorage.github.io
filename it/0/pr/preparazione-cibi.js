@@ -1,4 +1,11 @@
 Gr = [
+"Frullatore FR45|Frullatore a 2 velocità con bicchiere da 1,5 L per golosi frullati da|2017/12/frullatore-fr45|data.oliviero.it/imgprodotto/frullatore-fr45_155563",
+"Taglia Patate a spirale|Vuoi preparare un contorno insolito? Prova il nuovo taglia patate:|2017/12/taglia-patate-a-spirale|data.oliviero.it/imgprodotto/taglia-patate-a-spirale-420637_157873",
+"Shaker per Uova con separatore Albume|Prepari una frittata, un'omelette, delle crepes? Dolci a base di|2017/12/shaker-per-uova-con-separatore-albume|data.oliviero.it/imgprodotto/shaker-per-uova-con-separatore-albume_155167",
+"Macchina Pasta Fresca Delicata|Caratteristiche Ideale per preparare pasta fresca fatta in casa come|2017/12/macchina-pasta-fresca-delicata|data.oliviero.it/imgprodotto/macchina-pasta-fresca-delicata_157728",
+"Bollitore 1,7 litri|Bollitore 1,7 litri Codice: 90.393 Descrizione: Corpo in plastica|2017/12/bollitore-1-7-litri|data.oliviero.it/imgprodotto/bollitore-1-7-litri-90-393_88995",
+"Paletta per Gnocchi|Tieni in forma i tuoi gnocchi! La paletta, grazie alla particolare|2017/12/paletta-per-gnocchi|data.oliviero.it/imgprodotto/paletta-per-gnocchi-420360_155101",
+"Set 3 Misurini a Tazza|Tre misurini a tazza in plastica colorata resistente, permettono di|2017/12/set-3-misurini-a-tazza|data.oliviero.it/imgprodotto/set-3-misurini-a-tazza-420734_155162",
 "Spatola in silicone|La spatola in silicone è indispensabile per preparare gli impasti|2017/12/spatola-in-silicone|data.oliviero.it/imgprodotto/spatola-in-silicone-420504_155178",
 "Robot da Cucina 300 watt|Robot da Cucina 300 watt Codice: 90.312 Descrizione : Corpo in abs|2017/12/robot-da-cucina-300-watt|data.oliviero.it/imgprodotto/robot-da-cucina-300-watt-90-312_89077",
 "Macchina Pasta Fresca Roller Classic Atlas 150|Un autentica e originale macchina italiana per la pasta fresca|2017/12/macchina-pasta-fresca-roller-classic-atlas-150|data.oliviero.it/imgprodotto/macchina-pasta-fresca-roller-classic-atlas-150_156435",
