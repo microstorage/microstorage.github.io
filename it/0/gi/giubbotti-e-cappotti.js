@@ -1,4 +1,9 @@
 Gr = [
+"Giacca da Sci Uomo Jackson Hole|Collezione Autunno Inverno/2018 Libertà di movimento e tagli|2017/12/giacca-da-sci-uomo-jackson-hole|data.oliviero.it/imgprodotto/giacca-da-sci-uomo-jackson-hole_170436",
+"Giubbotto Uomo Dark Navy M7221W F4300|Collezione Primaver Estate Giubbotto da uomo ideale per la stagione|2017/12/giubbotto-uomo-dark-navy-m7221w-f4300|data.oliviero.it/imgprodotto/giubbotto-uomo-dark-navy-m7221w-f4300_158456",
+"Giubbotto Uomo Limone Acerbo|Collezione Primavera Estate Giubbotto da uomo in tessuto Il modello|2017/12/giubbotto-uomo-limone-acerbo|data.oliviero.it/imgprodotto/giubbotto-uomo-limone-acerbo-nv67010-211_158581",
+"Piumino Protector Green Gables|Collezione Autunno Inverno/2018 Questo piumino verde con cappuccio|2017/12/piumino-protector-green-gables|data.oliviero.it/imgprodotto/piumino-protector-green-gables_170590",
+"Giubbotto Uomo Grigio|Collezione Autunno Inverno/2018 Questa giacca a vento ha un comodo|2017/12/giubbotto-uomo-grigio|data.oliviero.it/imgprodotto/giubbotto-uomo-grigio_171026",
 "Giubbino Uomo Nero|Collezione Autunno inverno/2018 Parka regular fit Cappuccio con|2017/12/giubbino-uomo-nero|data.oliviero.it/imgprodotto/giubbino-uomo-nero_169206",
 "Giubbotto Uomo Dark Navy M7221V F4300|Collezione Primaver Estate Giubbotto da uomo ideale per la stagione|2017/12/giubbotto-uomo-dark-navy-m7221v-f4300|data.oliviero.it/imgprodotto/giubbotto-uomo-dark-navy-m7221v-f4300_158447",
 "Giubbotto Uomo Blu Marino|Collezione Autunno Inverno/2018 Sottile e leggera, ma robusta: una|2017/12/giubbotto-uomo-blu-marino|data.oliviero.it/imgprodotto/giubbotto-uomo-blu-marino_171053",

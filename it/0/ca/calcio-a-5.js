@@ -1,4 +1,9 @@
 Gr = [
+"Scarpe Calcetto Ace 17.3 Primemesh|Hai già vinto. Servono solo 90 minuti perché se ne accorgano anche|2017/12/scarpe-calcetto-ace-17-3-primemesh|data.oliviero.it/imgprodotto/scarpe-calcetto-ace-17-3-primemesh-bb0861_158137",
+"Scarpe da Calcetto Mercurial Victory VI TF|La scarpa da calcio per erba sintetica Nike Mercurial Victory VI|2017/12/scarpe-da-calcetto-mercurial-victory-vi-tf|data.oliviero.it/imgprodotto/scarpe-da-calcetto-mercurial-victory-vi-tf_166846",
+"Scarpe Calcetto evoPower Vigor 4 TT|Le evoPOWER Vigor 4 per terreni in erba combinano leggerezza, comfort|2017/12/scarpe-calcetto-evopower-vigor-4-tt|data.oliviero.it/imgprodotto/scarpe-calcetto-evopower-vigor-4-tt-103965-01_163956",
+"Scarpe Calcetto Jr. TiempoX Ligera IV TF|La scarpa da calcio per erba artificiale/sintetica Nike Jr. TiempoX|2017/12/scarpe-calcetto-jr-tiempox-ligera-iv-tf|data.oliviero.it/imgprodotto/scarpe-calcetto-jr-tiempox-ligera-iv-tf_167400",
+"Scarpe Calcetto Top Flex 301|Combina flessibilità con aderenza e stabilità. Flessibile fino|2017/12/scarpe-calcetto-top-flex-301|data.oliviero.it/imgprodotto/scarpe-calcetto-top-flex-301_169566",
 "Scarpe Calcetto Monarcida Neo As|Le scarpe calcetto Mizuno Monarcida as sono ideali per chi cerca una|2017/12/scarpe-calcetto-monarcida-neo-as|data.oliviero.it/imgprodotto/scarpe-calcetto-monarcida-neo-as_165885",
 "Scarpe Calcetto Kaiser 5 Team|Sorelle minori delle Mundial Team, queste scarpe da calcio da uomo|2017/12/scarpe-calcetto-kaiser-5-team|data.oliviero.it/imgprodotto/scarpe-calcetto-kaiser-5-team_172226",
 "Scarpe Calcetto Top Flex 703 Navy Turf|Modello realizzato con materiali resistenti che rendono questa scarpa|2017/12/scarpe-calcetto-top-flex-703-navy-turf|data.oliviero.it/imgprodotto/scarpe-calcetto-top-flex-703-navy-turf-tops-703-tf_161747",

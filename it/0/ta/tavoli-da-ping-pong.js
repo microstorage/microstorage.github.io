@@ -1,4 +1,6 @@
 Gr = [
+"Ping Pong Progress Indoor blu da interno|Modello per interno, verde o blu, per l'uso familiare e amatoriale|2017/12/ping-pong-progress-indoor-blu-da-interno|data.oliviero.it/imgprodotto/ping-pong-progress-indoor-blu-da-interno_83039",
+"Tavolo Ping Pong Outdoor 6|OUTDOOR 6 07177-900 Modello per uso ricreativo per utilizzatori di|2017/12/tavolo-ping-pong-outdoor-6|data.oliviero.it/imgprodotto/tavolo-ping-pong-outdoor-6_110126",
 "Tavolo Ping Pong Master Indoor Blu|Modello per interno, pieghevole, disponibile con piano gioco verde|2017/12/tavolo-ping-pong-master-indoor-blu|data.oliviero.it/imgprodotto/tavolo-ping-pong-master-indoor-blu_83074",
 "Tavolo Ping Pong Axos Outdoor 1|Ping Pong - AXOS OUTDOOR 1 Articolo No.: 07047-900 Modello per uso|2017/12/tavolo-ping-pong-axos-outdoor-1|data.oliviero.it/imgprodotto/tavolo-ping-pong-axos-outdoor-1_110102",
 "Tavolo Ping Pong 540 Competition ITTF Indoor|Il tavolo ping pong Cornilleau 540 indoor é indicato per un utilizzo|2017/12/tavolo-ping-pong-540-competition-ittf-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-540-competition-ittf-indoor_58075",

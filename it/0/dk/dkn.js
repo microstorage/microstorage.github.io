@@ -1,4 +1,8 @@
 Gr = [
+"Ellittica XC 140i|L'ellittica DKN XC140i è pensata per gli sportivi più esigenti e per|2017/12/ellittica-xc-140i|data.oliviero.it/imgprodotto/ellittica-xc-140i_68607",
+"Tapis Roulant Treadmill EcoRun i Black|DKN EcoRun i Black è un tapis roulant Plug and Run: un attrezzo pre|2017/12/tapis-roulant-treadmill-ecorun-i-black|data.oliviero.it/imgprodotto/tapis-roulant-treadmill-ecorun-i-black_89654",
+"Tapis Roulant Treadmill EcoRun|Il DKN Ecorun è un tapis roulant Plug and Run: un attrezzo|2017/12/tapis-roulant-treadmill-ecorun|data.oliviero.it/imgprodotto/tapis-roulant-treadmill-ecorun_68609",
+"Tapis Roulant T-775|Il tapis roulant DKN T-775 è un attrezzo semi professionale con un|2017/12/tapis-roulant-t-775|data.oliviero.it/imgprodotto/tapis-roulant-t-775_154224",
 "Vogatore Rower R400|Per tutti coloro che vogliono sviluppare la parte superiore del|2017/12/vogatore-rower-r400|data.oliviero.it/imgprodotto/vogatore-rower-r400_73951",
 "Cyclette Ergometer AM-E B|L'ergometro Bike AM-E è una cyclette attraente, ergonomica, dall'alto|2017/12/cyclette-ergometer-am-e-b|data.oliviero.it/imgprodotto/cyclette-ergometer-am-e-b_109704",
 "Tapis Roulant Treadmill AiRun I B|Il tapis roulant pieghevole DKN AiRun I è completo, affidabile|2017/12/tapis-roulant-treadmill-airun-i-b|data.oliviero.it/imgprodotto/tapis-roulant-treadmill-airun-i-b_109707",

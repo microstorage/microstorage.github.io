@@ -1,4 +1,11 @@
 Gr = [
+"Seggiolone Campione 222|Interamente progettato e prodotto in Italia. SEMPLICITA': si apre|2017/12/seggiolone-campione-222|data.oliviero.it/imgprodotto/seggiolone-campione-222_136363",
+"Seggiolone Pappananna S2250 C229|Pratico e confortevole con defferenti altezze e inclinazioni dello|2017/12/seggiolone-pappananna-s2250-c229|data.oliviero.it/imgprodotto/seggiolone-pappananna-s2250-c229_171369",
+"Seggiolone Polly 2 Start Baby Elephant|Seggiolone pappa dotato di un sistema di regolazione dell'ampiezza|2017/12/seggiolone-polly-2-start-baby-elephant|data.oliviero.it/imgprodotto/seggiolone-polly-2-start-baby-elephant_167553",
+"Seggiolone chef arancio|Il Seggiolone Chef Pali è il seggiolone pappa per soddisfare le|2017/12/seggiolone-chef-arancio|data.oliviero.it/imgprodotto/seggiolone-chef-arancio_132670",
+"Seggiolone Campione S2300 C227|6 altezze, 4 inclinazioni dello schienale, movimento sincronizzato di|2017/12/seggiolone-campione-s2300-c227|data.oliviero.it/imgprodotto/seggiolone-campione-s2300-c227_156042",
+"Seggiolone Polly Progress Iceberg|Il seggiolone che segue i progressi del tuo bambino: da sdraietta|2017/12/seggiolone-polly-progress-iceberg|data.oliviero.it/imgprodotto/seggiolone-polly-progress-iceberg-04079335900000_155495",
+"Seggiolone Istante 225|Istante Seggiolone è il nuovissimo seggiolone di Cam per magiare|2017/12/seggiolone-istante-225|data.oliviero.it/imgprodotto/seggiolone-istante-225_136362",
 "Seggiolone Polly Easy Sunset|Il tuo bambino si sentirà completamente a suo agio e le prime pappe|2017/12/seggiolone-polly-easy-sunset|data.oliviero.it/imgprodotto/seggiolone-polly-easy-sunset_164036",
 "Seggiolone Polly Progress sage|Il seggiolone trasformabile che segue i suoi progressi e diventa|2017/12/seggiolone-polly-progress-sage|data.oliviero.it/imgprodotto/seggiolone-polly-progress-sage_140286",
 "Seggiolone Slex Evo giallo cedro|Slex Evo è quattro prodotti in uno: sdraietta confortevole, sin dalla|2017/12/seggiolone-slex-evo-giallo-cedro|data.oliviero.it/imgprodotto/seggiolone-slex-evo-giallo-cedro_145194",

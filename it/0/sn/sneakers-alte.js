@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Ct Hi Ecopelle Glitter|Utilizzo: Calzatura moda sport Unisex Tomaia: Tessuto Battistrada: in|2017/12/scarpe-ct-hi-ecopelle-glitter|data.oliviero.it/imgprodotto/scarpe-ct-hi-ecopelle-glitter_139908",
 "Scarpe All star hi|Utilizzo: Calzatura Moda sport Tomaia: Tela Battistrada: Gomma|2017/12/scarpe-all-star-hi|data.oliviero.it/imgprodotto/scarpe-all-star-hi_73776",
 "Scarpe Uomo Nebula Chestnut|Collezione Autunno Inverno/2018 Pensate per un uomo dinamico|2017/12/scarpe-uomo-nebula-chestnut|data.oliviero.it/imgprodotto/scarpe-uomo-nebula-chestnut_168830",
 "Scarpe Chapman Mid|La Scarpa Vans Chapman Mid M è una Sneakers Alta Uomo In Linea allo|2017/12/scarpe-chapman-mid|data.oliviero.it/imgprodotto/scarpe-chapman-mid-vn0a2xswonv_167694",

@@ -1,4 +1,9 @@
 Gr = [
+"Trolley 3201220 Medio|Valigia Rigida, 2 ruote Dimensioni: 32 x 64,5 x 34 cm Peso: 2,5 Kg|2017/12/trolley-3201220-medio|data.oliviero.it/imgprodotto/trolley-3201220-medio_63200",
+"Trolley 2 ruote Lining Viola e Silver|Trolley Struttura Super Light 2 ruote Lucchetto a combinazione con|2017/12/trolley-2-ruote-lining-viola-e-silver|data.oliviero.it/imgprodotto/trolley-2-ruote-lining-viola-e-silver_159468",
+"Trolley 2 ruote Lining Verde e Silver|Trolley Struttura Super Light 2 ruote Lucchetto a combinazione con|2017/12/trolley-2-ruote-lining-verde-e-silver|data.oliviero.it/imgprodotto/trolley-2-ruote-lining-verde-e-silver_159470",
+"Trolley 25X10X30 Cm| Trolley di colore bianco e nero  Chiusura con coulisse e fibbia|2017/12/trolley-25x10x30-cm|data.oliviero.it/imgprodotto/trolley-25x10x30-cm_117169",
+"Trolley 101 PC 2R|La valigia in policarbonato, robusta ma leggera, compatta, raffinata|2017/12/trolley-101-pc-2r|data.oliviero.it/imgprodotto/trolley-101-pc-2r_157431",
 "Trolley 101 PC 4R|La valigia in policarbonato, robusta ma leggera, compatta, raffinata|2017/12/trolley-101-pc-4r|data.oliviero.it/imgprodotto/trolley-101-pc-4r_147827",
 "Borsone Handi Duffel|Tenuta stagna, cuciture siliconate, tracolla regolabile con velcro|2017/12/borsone-handi-duffel|data.oliviero.it/imgprodotto/borsone-handi-duffel_147550",
 "Trolley 4R Belmont Rosso XL|Valigia trolley 4 ruote 76 cm H 76 x L 52 x E 30 cm - 108.63L - 4.4kg|2017/12/trolley-4r-belmont-rosso-xl|data.oliviero.it/imgprodotto/trolley-4r-belmont-rosso-xl-3840821_160855",

@@ -1,4 +1,7 @@
 Gr = [
+"Scarponi Snowboard Launch Boa SJ|Quando lo street style incontra la tecnologia: gli scarponi da|2017/12/scarponi-snowboard-launch-boa-sj|data.oliviero.it/imgprodotto/scarponi-snowboard-launch-boa-sj_157954",
+"Lotus + Attacchi Spell Bianco|Snowboard + Attacchi Donna Snowboard Lotus Tempo di fioriture La|2017/12/lotus-+-attacchi-spell-bianco|data.oliviero.it/imgprodotto/lotus-attacchi-spell-bianco_94277",
+"Scarpe Trekking Ellipse 2 Aero W|Scarpe Trekking Ellipse 2 Aero W - 379206 Leggera e molto|2017/12/scarpe-trekking-ellipse-2-aero-w|data.oliviero.it/imgprodotto/scarpe-trekking-ellipse-2-aero-w-379206_145338",
 "Pulse + Attacchi Rhythm Giallo|Snowboard + attacchi UOMO Snowboard Pulse Pochi euro, molti brividi|2017/12/pulse-+-attacchi-rhythm-giallo|data.oliviero.it/imgprodotto/pulse-attacchi-rhythm-giallo_94273",
 "Scarpe Trail Running Snowcross 2 CSWP|Non lasciare che una tormenta di neve interrompa il tuo allenamento|2017/12/scarpe-trail-running-snowcross-2-cswp|data.oliviero.it/imgprodotto/scarpe-trail-running-snowcross-2-cswp_169151",
 "Scarponi Snow Pearl|AUTO PILOT A tutto stile con la scarpa Pearl— Con scarpetta Silver|2017/12/scarponi-snow-pearl|data.oliviero.it/imgprodotto/scarponi-snow-pearl_94283",

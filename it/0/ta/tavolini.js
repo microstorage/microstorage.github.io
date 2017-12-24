@@ -1,4 +1,5 @@
 Gr = [
+"Panchetta Bistrot Marrone|Panchetta Bistrot Ribaltabile Funzione ribaltabile per trasformare la|2017/12/panchetta-bistrot-marrone|data.oliviero.it/imgprodotto/panchetta-bistrot-marrone_146619",
 "Tavolo da campeggio Smeraldo|Tavolo da campeggio Caratteristiche: Telaio in acciaio verniciato|2017/12/tavolo-da-campeggio-smeraldo|data.oliviero.it/imgprodotto/tavolo-da-campeggio-smeraldo_86969",
 "Set Verline Sofa Ecrù|Set sofa composto da divanetto 2 posti, 2 poltrone e tavolino da|2017/12/set-verline-sofa-ecru|data.oliviero.it/imgprodotto/set-verline-sofa-ecr%C3%B9_164383",
 "Valigetta pic-nic 8000|Valigetta pic nic Caratteristiche tecniche: Telaio in acciaio|2017/12/valigetta-pic-nic-8000|data.oliviero.it/imgprodotto/valigetta-pic-nic-8000_163205",

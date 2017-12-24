@@ -1,4 +1,7 @@
 Gr = [
+"Cardigan Donna Aaron|Collezione Autunno Inverno/2018 Cardigan tricot da donna con|2017/12/cardigan-donna-aaron|data.oliviero.it/imgprodotto/cardigan-donna-aaron_170641",
+"Cardigan Donna Adeline|Collezione Autunno Inverno/2018 Cardigan nero da donna con stampa|2017/12/cardigan-donna-adeline|data.oliviero.it/imgprodotto/cardigan-donna-adeline_170645",
+"Maglia Donna Basic Carlin|Collezione Autunno Inverno/2018 Maglia blu con scollo a barca, con|2017/12/maglia-donna-basic-carlin|data.oliviero.it/imgprodotto/maglia-donna-basic-carlin_170651",
 "Maglia Donna Sami|Collezione Autunno Inverno/2018 Maglia tricot da donna con patchwork|2017/12/maglia-donna-sami|data.oliviero.it/imgprodotto/maglia-donna-sami_170658",
 "Borsa Somalia Anabella|Collezione Autunno Inverno/2018 Borsa a tracolla nera da donna con|2017/12/borsa-somalia-anabella|data.oliviero.it/imgprodotto/borsa-somalia-anabella_170831",
 "Zaino Lima Viversnake|Collezione Autunno Inverno/2018 Zaino nero da donna con stampa|2017/12/zaino-lima-viversnake|data.oliviero.it/imgprodotto/zaino-lima-viversnake_170797",

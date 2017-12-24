@@ -1,4 +1,11 @@
 Gr = [
+"Dual Bag Alpaca Beige|Borsa Inglesina Dual Bag è la pratica e comoda borsa da passeggino|2017/12/dual-bag-alpaca-beige|data.oliviero.it/imgprodotto/dual-bag-alpaca-beige_172114",
+"Day Bag Imperial Blue|É una borsa capiente e funzionale, di foggia esclusiva, con interno|2017/12/day-bag-imperial-blue|data.oliviero.it/imgprodotto/day-bag-imperial-blue_170197",
+"Dual Bag Ascott Green|Borsa Inglesina Dual Bag è la pratica e comoda borsa da passeggino|2017/12/dual-bag-ascott-green|data.oliviero.it/imgprodotto/dual-bag-ascott-green_172105",
+"Day Bag Marron Glace|É una borsa capiente e funzionale, di foggia esclusiva, con interno|2017/12/day-bag-marron-glace|data.oliviero.it/imgprodotto/day-bag-marron-glace_170182",
+"Borsa primi viaggi|Funzionale, evolutiva e alla moda. Grazie a delle chiusure metalliche|2017/12/borsa-primi-viaggi|data.oliviero.it/imgprodotto/borsa-primi-viaggi_132115",
+"Dual Bag Panarea|Borsa Inglesina Dual Bag è la pratica e comoda borsa da passeggino|2017/12/dual-bag-panarea|data.oliviero.it/imgprodotto/dual-bag-panarea_172116",
+"Dual Bag Lipari|Borsa Inglesina Dual Bag è la pratica e comoda borsa da passeggino|2017/12/dual-bag-lipari|data.oliviero.it/imgprodotto/dual-bag-lipari_172115",
 "Dual Bag Artic Blue|Borsa Inglesina Dual Bag è la pratica e comoda borsa da passeggino|2017/12/dual-bag-artic-blue|data.oliviero.it/imgprodotto/dual-bag-artic-blue_172109",
 "Borsa My Baby Bag|Borsa da viaggio molto capiente e multifunzionale, realizzata in|2017/12/borsa-my-baby-bag|data.oliviero.it/imgprodotto/borsa-my-baby-bag_51910",
 "Day Bag Village Denim|É una borsa capiente e funzionale, di foggia esclusiva, con interno|2017/12/day-bag-village-denim|data.oliviero.it/imgprodotto/day-bag-village-denim_170194",

@@ -1,4 +1,7 @@
 Gr = [
+"Biliardo Chicago 5|Tavolo da pool dedicato a chi ha poco spazio in casa e vuole avviarsi|2017/12/biliardo-chicago-5|data.oliviero.it/imgprodotto/biliardo-chicago-5_71988",
+"Air Hockey Mistral|Un air hockey per uso familiare, pensato per i giocatori di ogni età|2017/12/air-hockey-mistral|data.oliviero.it/imgprodotto/air-hockey-mistral_3418_big",
+"Bersaglio per freccette Aries|Bersaglio in fibra modello aries per il gioco delle freccette|2017/12/bersaglio-per-freccette-aries|data.oliviero.it/imgprodotto/bersaglio-per-freccette-aries_150051",
 "Biliardo Dallas|Tavolo da pool dalla linea snella ed elegante, indicato per chi ha|2017/12/biliardo-dallas|data.oliviero.it/imgprodotto/biliardo-dallas_8402_big",
 "Piane di Copertura ALEXANDRA 8|Piane di copertura in nobilitato melaminico (spessore mm. 20) in|2017/12/piane-di-copertura-alexandra-8|data.oliviero.it/imgprodotto/piane-di-copertura-alexandra-8_73393",
 "Air Hockey Zodiac|Zodiac è un modello di piattaforma per Air Hockey della linea|2017/12/air-hockey-zodiac|data.oliviero.it/imgprodotto/air-hockey-zodiac_3424_big",

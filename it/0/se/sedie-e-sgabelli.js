@@ -1,4 +1,7 @@
 Gr = [
+"Sgabello Kris Rosso|SGABELLO KRIS Rosso Sgabello con struttura in acciaio cromato, seduta|2017/12/sgabello-kris-rosso|data.oliviero.it/imgprodotto/sgabello-kris-rosso_130761",
+"Coppia di sedie Emma Moka|Sedia imbottita \"EMMA MOKA\" dimensioni sedia cm L55 P60 H80|2017/12/coppia-di-sedie-emma-moka|data.oliviero.it/imgprodotto/coppia-di-sedie-emma-moka_134127",
+"2 sgabelli mia|Sgabello Da Interno / Esterno Mia Realizzato In Policarbonato|2017/12/2-sgabelli-mia|data.oliviero.it/imgprodotto/2-sgabelli-mia_169952",
 "2 sedie chiara grey|Sedia Chiara Grey Seduta Rivestita In Pelle Sintetica Grigia|2017/12/2-sedie-chiara-grey|data.oliviero.it/imgprodotto/2-sedie-chiara-grey_169996",
 "Coppia di Sgabelli Crux white|SGABELLO \"CRUX WHITE\" seduta e schienale in pelle ecologica bianca|2017/12/coppia-di-sgabelli-crux-white|data.oliviero.it/imgprodotto/coppia-di-sgabelli-crux-white_78308",
 "4 Sedie School Grey|Sedia School Grey Struttura In Metallo Verniciato Seduta E Schienale|2017/12/4-sedie-school-grey|data.oliviero.it/imgprodotto/4-sedie-school-grey_169874",

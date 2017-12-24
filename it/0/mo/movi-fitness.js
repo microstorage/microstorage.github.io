@@ -1,4 +1,5 @@
 Gr = [
+"Bilanciere acciaio cromato 180cm|Bilanciere in acciaio cromato per dischi da 25mm. Lunghezza 180 cm|2017/12/bilanciere-acciaio-cromato-180cm|data.oliviero.it/imgprodotto/bilanciere-acciaio-cromato-180cm_58154",
 "Cyclette MF604|Caratteristiche Sistema frenante magnetico Regolazione freno|2017/12/cyclette-mf604|data.oliviero.it/imgprodotto/cyclette-mf604_165475",
 "Total Training Experience MF527|Il Total Training Experience della Movi Fitness MF527 è un attrezzo|2017/12/total-training-experience-mf527|data.oliviero.it/imgprodotto/total-training-experience-mf527_90813",
 "Tapis Roulant MF260|Tapis Roulant ideale per l'home fitness Caratteristiche Motore 1,75|2017/12/tapis-roulant-mf260|data.oliviero.it/imgprodotto/tapis-roulant-mf260_148537",

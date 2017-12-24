@@ -1,4 +1,6 @@
 Gr = [
+"Tubo Palline Padel Pro|Barattolo Cilindrico, che può contenere 3 palline da tennis e paddle|2017/12/tubo-palline-padel-pro|data.oliviero.it/imgprodotto/tubo-palline-padel-pro_171421",
+"Zaino Tennis Pure Backpack|Lo zaino da tennis Babolat Pure Backpack è una valida alterntiva per|2017/12/zaino-tennis-pure-backpack|data.oliviero.it/imgprodotto/zaino-tennis-pure-backpack_169176",
 "Borsa Pure X 12 2017|La borsa da tennis Babolat Pure x 12 può contenere fino a 12|2017/12/borsa-pure-x-12-2017|data.oliviero.it/imgprodotto/borsa-pure-x-12-2017_167544",
 "Rullo metallico|RULLO METALLICO TENNIS riempibile con acqua capacità lt 135 circa|2017/12/rullo-metallico|data.oliviero.it/imgprodotto/rullo-metallico_162177",
 "Skin Feel Grip|Il grip Skin Feel è ultra sottile, grazie alla sua finezza consente|2017/12/skin-feel-grip|data.oliviero.it/imgprodotto/skin-feel-grip-670056-105_162206",

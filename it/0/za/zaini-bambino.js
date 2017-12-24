@@ -1,4 +1,6 @@
 Gr = [
+"Zaino The Double Camouflage|È uno zaino ma sono due. Da un lato fantasia e dall'altro tinta|2017/12/zaino-the-double-camouflage|data.oliviero.it/imgprodotto/zaino-the-double-camouflage_167526",
+"Zaino Maxi Sj Boy|Sempre per la scuola una versione alternativa con un modello tondo:|2017/12/zaino-maxi-sj-boy|data.oliviero.it/imgprodotto/zaino-maxi-sj-boy_166223",
 "Maxi Trolley SJ Boy|Questo è il Big trolley Sj! Adatto per la scuola con una capienza di|2017/12/maxi-trolley-sj-boy|data.oliviero.it/imgprodotto/maxi-trolley-sj-boy_166224",
 "Zaino Shot Pack|Capacità 28 lt Dimensione 27x41x20 cm Funzionali Fondo imbottito|2017/12/zaino-shot-pack|data.oliviero.it/imgprodotto/zaino-shot-pack_167467",
 "Zaino Sdoppiabile SJ High Tech|ZAINO SDOPPIABILE SJ HIGH TECH, LO ZAINO CHE CRESCE CON TE! Novità|2017/12/zaino-sdoppiabile-sj-high-tech|data.oliviero.it/imgprodotto/zaino-sdoppiabile-sj-high-tech_166226",

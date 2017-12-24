@@ -1,4 +1,6 @@
 Gr = [
+"Cappello Donna Blu e Bianco|Collezione Autunno Inverno/2018 Cappello invernale da donna in|2017/12/cappello-donna-blu-e-bianco|data.oliviero.it/imgprodotto/cappello-donna-blu-e-bianco_170960",
+"Giacomo Agostini Cap Vintage|Un cappellino che celebra i quindici titoli mondiali del più|2017/12/giacomo-agostini-cap-vintage|data.oliviero.it/imgprodotto/giacomo-agostini-cap-vintage_93378",
 "Cappello Donna Blu|Collezione Autunno Inverno/2018 Cappello invernale da donna in|2017/12/cappello-donna-blu|data.oliviero.it/imgprodotto/cappello-donna-blu_171795",
 "Berretto Nike Navy|Questo cappello da tennis Nike Aerobill Featherlight è ideale per|2017/12/berretto-nike-navy|data.oliviero.it/imgprodotto/berretto-nike-navy_169734",
 "Cappello Donna Bianco|Collezione Autunno Inverno/2018 Cappello invernale da donna in|2017/12/cappello-donna-bianco|data.oliviero.it/imgprodotto/cappello-donna-bianco_170950",

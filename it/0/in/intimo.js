@@ -1,4 +1,9 @@
 Gr = [
+"3 Calzini Bianchi|Quando ti alleni duramente per raggiungere i tuoi obiettivi,|2017/12/3-calzini-bianchi|data.oliviero.it/imgprodotto/3-calzini-bianchi_166986",
+"Boxer taglie forti 100 bianco|Boxer uomo taglie forti con bottone realizzato in cotone 100%|2017/12/boxer-taglie-forti-100-bianco|data.oliviero.it/imgprodotto/boxer-taglie-forti-100-bianco_63513",
+"T-shirt taglie forti uomo bianca 500|T-Shirt corpo uomo realizzata in puro Cotone, scollo a V, maniche|2017/12/t-shirt-taglie-forti-uomo-bianca-500|data.oliviero.it/imgprodotto/t-shirt-taglie-forti-uomo-bianca-500_24242_big",
+"T-shirt 601698 010|Tipologia : T-shirt intima da uomo Tessuto : 100% filo di scozia|2017/12/t-shirt-601698-010|data.oliviero.it/imgprodotto/t-shirt-601698-010_85181",
+"T-shirt taglie forti uomo grigia 500|T-Shirt corpo uomo realizzata in puro Cotone, scollo a V, maniche|2017/12/t-shirt-taglie-forti-uomo-grigia-500|data.oliviero.it/imgprodotto/t-shirt-taglie-forti-uomo-grigia-500_24243_big",
 "Boxer taglie forti 250 grigio|Boxer uomo taglie forti realizzato in 90% cotone e 10% elastan|2017/12/boxer-taglie-forti-250-grigio|data.oliviero.it/imgprodotto/boxer-taglie-forti-250-grigio_63509",
 "2 T-Shirt taglie forti uomo bianca|Confezione composta da 2 T-Shirt. Modello maglia realizzato per le|2017/12/2-t-shirt-taglie-forti-uomo-bianca|data.oliviero.it/imgprodotto/2-t-shirt-taglie-forti-uomo-bianca_10380_big",
 "Canotta taglie forti uomo nera XF550|Tipologia : Canotta intima Taglie Forti uomo Tessuto : 100% cotone|2017/12/canotta-taglie-forti-uomo-nera-xf550|data.oliviero.it/imgprodotto/canotta-taglie-forti-uomo-nera-xf550_57472",

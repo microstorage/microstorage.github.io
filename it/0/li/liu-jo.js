@@ -1,4 +1,10 @@
 Gr = [
+"Camicia donna O14003 T7122 14201|Collezione Liu Jo Jeans Camicia da donna con mezze maniche|2017/12/camicia-donna-o14003-t7122-14201|data.oliviero.it/imgprodotto/camicia-donna-o14003-t7122-14201_146716",
+"Salopette Vylma|Collezione Liu Jo jeans Salopette intera da donna composta da camicia|2017/12/salopette-vylma|data.oliviero.it/imgprodotto/salopette-vylma-f15245-d3301_147054",
+"Pantaloni donna Casual P15045 T1428 22222|Pantaloni Casual da donna con laccetto in vita per regolare la|2017/12/pantaloni-donna-casual-p15045-t1428-22222|data.oliviero.it/imgprodotto/pantaloni-donna-casual-p15045-t1428-22222_146741",
+"Pantalone Sportivo T15034 F0248 80322|Collezione Liu Jo Sport Pantalone sportivo da donna con elastico in|2017/12/pantalone-sportivo-t15034-f0248-80322|data.oliviero.it/imgprodotto/pantalone-sportivo-t15034-f0248-80322_146834",
+"Abito donna C25005 T1465 22222|Abito intero da donna con spalline removibili grazie a dei|2017/12/abito-donna-c25005-t1465-22222|data.oliviero.it/imgprodotto/abito-donna-c25005-t1465-22222_146729",
+"T-Shirt donna W15021 T7865 82143|Collezione Liu Jo Jeans T-Shirt da donna dal tessuto leggero effetto|2017/12/t-shirt-donna-w15021-t7865-82143|data.oliviero.it/imgprodotto/t-shirt-donna-w15021-t7865-82143_146714",
 "Maglia donna P15055 MA00N|Maglia da donna con allacciatura tramite gancetti, maniche lunghe|2017/12/maglia-donna-p15055-ma00n|data.oliviero.it/imgprodotto/maglia-donna-p15055-ma00n_146488",
 "Maglia donna P15055 MA00N Z9090|Maglia da donna con allacciatura tramite gancetti, maniche lunghe|2017/12/maglia-donna-p15055-ma00n-z9090|data.oliviero.it/imgprodotto/maglia-donna-p15055-ma00n-z9090_146498",
 "T-Shirt donna T15126 J7406|Collezine Liu Jo Sport T-Shirt da donna con mezza manica, ampio|2017/12/t-shirt-donna-t15126-j7406|data.oliviero.it/imgprodotto/t-shirt-donna-t15126-j7406_146523",

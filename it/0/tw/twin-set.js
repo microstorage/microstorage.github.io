@@ -1,4 +1,11 @@
 Gr = [
+"Pantaloni donna casual P2S4S8 00433|Pantalone Casual da donna con tasconi, vestibilità slim, allacciatura|2017/12/pantaloni-donna-casual-p2s4s8-00433|data.oliviero.it/imgprodotto/pantaloni-donna-casual-p2s4s8-00433_146915",
+"Jeans donna J2S4ZY 00100|Collezione Twin Set Jeans Jeans da donna dalla vestibilità slim,|2017/12/jeans-donna-j2s4zy-00100|data.oliviero.it/imgprodotto/jeans-donna-j2s4zy-00100_146909",
+"Pantalone sportivo K2S4RK 00100|Collezione Le Coeur de Twin Set P antalone sportivo da donna con|2017/12/pantalone-sportivo-k2s4rk-00100|data.oliviero.it/imgprodotto/pantalone-sportivo-k2s4rk-00100_146923",
+"T-Shirt Lingerie LS4AEE 0006|Collezione Twin set Lingerie T-Shirt della collezione lingerie da|2017/12/t-shirt-lingerie-ls4aee-0006|data.oliviero.it/imgprodotto/t-shirt-lingerie-ls4aee-0006_146703",
+"Pantaloni donna Skinny J2S4ZM|Collezione Twin Set Jeans Pantalone Skinny da donna dalla vestibilità|2017/12/pantaloni-donna-skinny-j2s4zm|data.oliviero.it/imgprodotto/pantaloni-donna-skinny-j2s4zm_146917",
+"Reggiseno Balconcino LS4X55 00093|Collezione Lingerie Reggiseno a balconcino da donna con coppe|2017/12/reggiseno-balconcino-ls4x55-00093|data.oliviero.it/imgprodotto/reggiseno-balconcino-ls4x55-00093_146976",
+"Pantaloni donna Casual J2S43Q 00450|Collezione Twin Set Jeans Pantaloni casual da donna. Il modello|2017/12/pantaloni-donna-casual-j2s43q-00450|data.oliviero.it/imgprodotto/pantaloni-donna-casual-j2s43q-00450_146942",
 "Pantaloni donna Casual T2S4MP 00459|Pantalone casual da donna dalla vestibilità morbida con fascia di|2017/12/pantaloni-donna-casual-t2s4mp-00459|data.oliviero.it/imgprodotto/pantaloni-donna-casual-t2s4mp-00459_146890",
 "Maglia donna K2S4RR 252|Maglia da donna con allacciatura posteriore tramite zip, manica|2017/12/maglia-donna-k2s4rr-252|data.oliviero.it/imgprodotto/maglia-donna-k2s4rr-252_146447",
 "Cardigan donna S3S4H1 00006|Maglioncino da donna. Il modello presenta allacciatura frontale|2017/12/cardigan-donna-s3s4h1-00006|data.oliviero.it/imgprodotto/cardigan-donna-s3s4h1-00006_146443",

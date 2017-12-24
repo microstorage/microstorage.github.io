@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Calcetto Jr TiempoX Legend VI TF|La scarpa da calcio per erba sintetica Nike TiempoX Jr Legend VI FG|2017/12/scarpe-calcetto-jr-tiempox-legend-vi-tf|data.oliviero.it/imgprodotto/scarpe-calcetto-jr-tiempox-legend-vi-tf-819191-707_160752",
 "Scarpe Calcetto Jr. Mercurialx Victory VI TF|Progettata con tomaia testurizzata e suola in gomma antitraccia, la|2017/12/scarpe-calcetto-jr-mercurialx-victory-vi-tf|data.oliviero.it/imgprodotto/scarpe-calcetto-jr-mercurialx-victory-vi-tf_167094",
 "Scarpe Calcetto evoPower Vigor 4 TT Jr|Leggera e comoda è la nuova scarpa da bambino Puma. Formato da|2017/12/scarpe-calcetto-evopower-vigor-4-tt-jr|data.oliviero.it/imgprodotto/scarpe-calcetto-evopower-vigor-4-tt-jr-103974-01_163964",
 "Scarpe Calcetto evoPower 4.3 TT|Le evoPOWER 4.3 per manto erboso sono delle scarpe da training per|2017/12/scarpe-calcetto-evopower-4-3-tt|data.oliviero.it/imgprodotto/scarpe-calcetto-evopower-4-3-tt-103588-03_152739",

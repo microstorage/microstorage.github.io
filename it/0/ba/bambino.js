@@ -1,4 +1,12 @@
 Gr = [
+"Scarpe con Ruote CruzX2|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/12/scarpe-con-ruote-cruzx2|data.oliviero.it/imgprodotto/scarpe-con-ruote-cruzx2-770498k_139610",
+"Scarpe Jr. Wheat|Collezione Autunno Inverno/2018 Quando è tempo di giocare, i piccoli|2017/12/scarpe-jr-wheat|data.oliviero.it/imgprodotto/scarpe-jr-wheat_171115",
+"Zaino The Double Camouflage|È uno zaino ma sono due. Da un lato fantasia e dall'altro tinta|2017/12/zaino-the-double-camouflage|data.oliviero.it/imgprodotto/zaino-the-double-camouflage_167526",
+"Portapenne Round PLUS Swag Boy|Un portapenne attrezzato per organizzare al meglio penne, matite|2017/12/portapenne-round-plus-swag-boy|data.oliviero.it/imgprodotto/portapenne-round-plus-swag-boy_166276",
+"Portapenne Round Plus Shift|Un portapenne attrezzato per organizzare al meglio penne, matite|2017/12/portapenne-round-plus-shift|data.oliviero.it/imgprodotto/portapenne-round-plus-shift_166339",
+"Pantalone Bambino Fango|Collezione Primavera Estate Pantalone da bambino con allacciatura|2017/12/pantalone-bambino-fango|data.oliviero.it/imgprodotto/pantalone-bambino-fango-0s340_162147",
+"Camicia Ragazzo Stone Washed Chiaro|Collezione Primavera Estate Camicia da bambino con maniche lunghe. Il|2017/12/camicia-ragazzo-stone-washed-chiaro|data.oliviero.it/imgprodotto/camicia-ragazzo-stone-washed-chiaro-4s404-7400_158471",
+"Zaino Maxi Sj Boy|Sempre per la scuola una versione alternativa con un modello tondo:|2017/12/zaino-maxi-sj-boy|data.oliviero.it/imgprodotto/zaino-maxi-sj-boy_166223",
 "Maxi Trolley SJ Boy|Questo è il Big trolley Sj! Adatto per la scuola con una capienza di|2017/12/maxi-trolley-sj-boy|data.oliviero.it/imgprodotto/maxi-trolley-sj-boy_166224",
 "Zaino Shot Pack|Capacità 28 lt Dimensione 27x41x20 cm Funzionali Fondo imbottito|2017/12/zaino-shot-pack|data.oliviero.it/imgprodotto/zaino-shot-pack_167467",
 "Grembiule Asilo Azzurro|Collezione Autunno Inverno/2018 Grembiule asilo da bambino con|2017/12/grembiule-asilo-azzurro|data.oliviero.it/imgprodotto/grembiule-asilo-azzurro-33gr2852_166048",

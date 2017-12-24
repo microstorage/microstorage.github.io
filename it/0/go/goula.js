@@ -1,4 +1,6 @@
 Gr = [
+"Puzzle Principi e Draghi|Età 4+ Anni Puzzle composto da 54 pezzi rappresentanti draghi|2017/12/puzzle-principi-e-draghi|data.oliviero.it/imgprodotto/puzzle-principi-e-draghi_139679",
+"Kit crea Bambola Bibi|Età 6+ Anni Kit per creare la propria bambola. Include tutto il|2017/12/kit-crea-bambola-bibi|data.oliviero.it/imgprodotto/kit-crea-bambola-bibi_139676",
 "Pack 41 Architetture|Età 3+ Anni Divertiti realizzando costruzioni con i differenti pezzi|2017/12/pack-41-architetture|data.oliviero.it/imgprodotto/pack-41-architetture-50203_154347",
 "Tiki Musical 3 in 1|Età 12 m+ Primo giocattolo musicale di legno per il tuo bambino. Tre|2017/12/tiki-musical-3-in-1|data.oliviero.it/imgprodotto/tiki-musical-3-in-1_139639",
 "Scatola degli attrezzi|Età 3+ Anni Descrizione del prodotto: Scatola degli attrezzi per|2017/12/scatola-degli-attrezzi|data.oliviero.it/imgprodotto/scatola-degli-attrezzi_139647",

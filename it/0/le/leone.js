@@ -1,4 +1,6 @@
 Gr = [
+"Guanto Karate Fit Boxe Gk095 Rosso|Guanti pro da karate ideali anche per la fit-boxe, indispensabili per|2017/12/guanto-karate-fit-boxe-gk095-rosso|data.oliviero.it/imgprodotto/guanto-karate-fit-boxe-gk095-rosso_19305_big",
+"Guanti Sacco Italy|Guanto in pelle particolarmente resistente ed anatomico, ideale per|2017/12/guanti-sacco-italy|data.oliviero.it/imgprodotto/guanti-sacco-italy_171395",
 "Paradenti Safe Guard|Paradenti professionale in GEL modellabile. È composto da un corpo|2017/12/paradenti-safe-guard|data.oliviero.it/imgprodotto/paradenti-safe-guard_171419",
 "Stivaletti da Boxe|Stivaletto da boxe da combattimento leggero e traspirante, rivestito|2017/12/stivaletti-da-boxe|data.oliviero.it/imgprodotto/stivaletti-da-boxe_171392",
 "Borsone Sportivo|La borsa è interamente prodotta in CORDURA®, uno speciale Nylon66|2017/12/borsone-sportivo|data.oliviero.it/imgprodotto/borsone-sportivo-ac909_154994",

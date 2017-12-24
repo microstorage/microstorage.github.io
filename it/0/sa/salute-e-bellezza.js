@@ -1,4 +1,7 @@
 Gr = [
+"Doccia shampoo|Il delicatissimo Doccia Shampoo Baby 'Giacominò del favoloso marchio|2017/12/doccia-shampoo|data.oliviero.it/imgprodotto/doccia-shampoo_138431",
+"Latte corpo nutri-protettiva|Nuova formula a base di un complesso nutri-protettivo arricchita da|2017/12/latte-corpo-nutri-protettiva|data.oliviero.it/imgprodotto/latte-corpo-nutri-protettiva_138424",
+"2 in 1 Capelli e Corpo|Ideate per il bagno del bambino e del neonato capelli e corpo|2017/12/2-in-1-capelli-e-corpo|data.oliviero.it/imgprodotto/2-in-1-capelli-e-corpo_6604_big",
 "Polvere Aspersoria 150gr|La formula a base di albumina del latte e amido di riso della Polvere|2017/12/polvere-aspersoria-150gr|data.oliviero.it/imgprodotto/polvere-aspersoria-150gr_3717_big",
 "Olio Emudermico|Olio idratante elasticizzante prezioso per la pelle e il rilassamento|2017/12/olio-emudermico|data.oliviero.it/imgprodotto/olio-emudermico_171657",
 "Bagnoschiuma ultradelicato 500ml|Il Bagno Schiuma Ultradelicato Humana baby è un prodotto ideale per|2017/12/bagnoschiuma-ultradelicato-500ml|data.oliviero.it/imgprodotto/bagnoschiuma-ultradelicato-500ml_3721_big",

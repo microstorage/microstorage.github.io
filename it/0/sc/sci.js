@@ -1,4 +1,6 @@
 Gr = [
+"Sci Venturi 95 + Attack 13|I Venturi 95 sono sci freeride versatili che garantiscono estrema|2017/12/sci-venturi-95-+-attack-13|data.oliviero.it/imgprodotto/sci-venturi-95-attack-13_144134",
+"Sci Supershape I.Magnum + PRD12|L'i.Supershape Magnum è il nostro Supershape più versatile|2017/12/sci-supershape-i-magnum-+-prd12|data.oliviero.it/imgprodotto/sci-supershape-i-magnum-prd12_171324",
 "Sci Vantage X83 CTI + Warden MNC 13|Il nuovo Atomic Vantage X 83 CTI è lo sci più largo della serie di|2017/12/sci-vantage-x83-cti-+-warden-mnc-13|data.oliviero.it/imgprodotto/sci-vantage-x83-cti-warden-mnc-13_156426",
 "Sci Redster Doubledeck 3.0 GS + X 12 TL|Nell'Atomic Redster Doubledeck 3.0 GS abbiamo messo tutta la nostra|2017/12/sci-redster-doubledeck-3-0-gs-+-x-12-tl|data.oliviero.it/imgprodotto/sci-redster-doubledeck-3-0-gs-x-12-tl_156523",
 "Sci Backland FR 109 + Warden MNC 13|Lo sci Atomic Backland FR 109 è eccellente in alta montagna, con la|2017/12/sci-backland-fr-109-+-warden-mnc-13|data.oliviero.it/imgprodotto/sci-backland-fr-109-warden-mnc-13_156432",

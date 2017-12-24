@@ -1,4 +1,7 @@
 Gr = [
+"Scrivania 51.42.115|MADE IN ITALY La serie \"SPRINT\" di \"Valentini\" comprende mobiletti|2017/12/scrivania-51-42-115|data.oliviero.it/imgprodotto/scrivania-51-42-115_55437",
+"Poltrona Sake Bianca|Poltrona per ufficio Direzionale, con base in acciaio cromato|2017/12/poltrona-sake-bianca|data.oliviero.it/imgprodotto/poltrona-sake-bianca_149138",
+"Poltrona da ufficio HIGGY|Poltrona da ufficio \"HIGGY\" rivestita in pelle ecologica di colore|2017/12/poltrona-da-ufficio-higgy|data.oliviero.it/imgprodotto/poltrona-da-ufficio-higgy_135051",
 "Poltrona Casa Blu|Poltrona per ufficio con base e braccioli in nylon, seduta con|2017/12/poltrona-casa-blu|data.oliviero.it/imgprodotto/poltrona-casa-blu_108555",
 "Poltrona con poggiatesta da ufficio COOL RED|Poltrona con poggiatesta da ufficio COOL RED seduta in tessuto|2017/12/poltrona-con-poggiatesta-da-ufficio-cool-red|data.oliviero.it/imgprodotto/poltrona-con-poggiatesta-da-ufficio-cool-red_135080",
 "Scrivania 41.42.25|MADE IN ITALY La serie \"SPRINT\" di \"Valentini\" comprende mobiletti|2017/12/scrivania-41-42-25|data.oliviero.it/imgprodotto/scrivania-41-42-25_55420",

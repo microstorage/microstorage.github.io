@@ -1,4 +1,9 @@
 Gr = [
+"Pile Taglie Forti Uomo Blu|Collezione Autunno Inverno/2018 Collezione Autunno Inverno/2018 Pile|2017/12/pile-taglie-forti-uomo-blu|data.oliviero.it/imgprodotto/pile-taglie-forti-uomo-blu_171861",
+"Pantaloni Sportivi Taglie Forti Grigio|Collezione Primavera Estate Pantalone sportivo da uomo taglie forti|2017/12/pantaloni-sportivi-taglie-forti-grigio|data.oliviero.it/imgprodotto/pantaloni-sportivi-taglie-forti-grigio_165346",
+"Felpa Taglie Forti Uomo Verde|Collezione Autunno Inverno/2018 Felpa uomo taglie forti. Il modello|2017/12/felpa-taglie-forti-uomo-verde|data.oliviero.it/imgprodotto/felpa-taglie-forti-uomo-verde_171862",
+"Pile Taglie Forti Uomo indigo|Collezione Autunno Inverno/2018 Pile uomo taglie Forti. Il modello|2017/12/pile-taglie-forti-uomo-indigo|data.oliviero.it/imgprodotto/pile-taglie-forti-uomo-indigo_172155",
+"Gilet Taglie Forti Uomo Grafite|Collezione Autunno Inverno/2018 Gilet taglie forti uomo in pile. Il|2017/12/gilet-taglie-forti-uomo-grafite|data.oliviero.it/imgprodotto/gilet-taglie-forti-uomo-grafite_172151",
 "Polo Taglie Forti Uomo Ocra|Collezione Autunno Inverno/2018 Polo uomo taglie forti. Il modello|2017/12/polo-taglie-forti-uomo-ocra|data.oliviero.it/imgprodotto/polo-taglie-forti-uomo-ocra_172209",
 "Felpa Taglie Forti Grigio U422|Collezione Primavera Estate Felpa da uomo taglie forti. Il modello|2017/12/felpa-taglie-forti-grigio-u422|data.oliviero.it/imgprodotto/felpa-taglie-forti-grigio-u422_159495",
 "Pile Taglie Forti Uomo bordeaux|Collezione Autunno Inverno/2018 Pile uomo taglie forti. Il modello|2017/12/pile-taglie-forti-uomo-bordeaux|data.oliviero.it/imgprodotto/pile-taglie-forti-uomo-bordeaux_171860",

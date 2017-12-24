@@ -1,4 +1,8 @@
 Gr = [
+"Letto Matrimoniale Priamo Rete Fissa|Caratteristiche Dimensioni letto 210x170x37 cm Dimensioni testiera|2017/12/letto-matrimoniale-priamo-rete-fissa|data.oliviero.it/imgprodotto/letto-matrimoniale-priamo-rete-fissa-musa_153604",
+"Letto Matrimoniale Narciso con contenitore|Caratteristiche Dimensioni letto 208x176x37 cm Dimensioni testiera|2017/12/letto-matrimoniale-narciso-con-contenitore|data.oliviero.it/imgprodotto/letto-matrimoniale-narciso-con-contenitore-musa_153597",
+"Letto Matrimoniale Nap con contenitore|Caratteristiche Dimensioni letto 215x169x36 cm Dimensioni testiera|2017/12/letto-matrimoniale-nap-con-contenitore|data.oliviero.it/imgprodotto/letto-matrimoniale-nap-con-contenitore-musa_153595",
+"Letto Matrimoniale Achille con contenitore|Caratteristiche Dimensioni letto 210x170x33 cm Dimensioni testiera|2017/12/letto-matrimoniale-achille-con-contenitore|data.oliviero.it/imgprodotto/letto-matrimoniale-achille-con-contenitore-musa_153573",
 "Letto Matrimoniale Borea Ecopelle con contenitore|Caratteristiche Dimensioni letto 207x176x37cm Dimensioni testiera|2017/12/letto-matrimoniale-borea-ecopelle-con-contenitore|data.oliviero.it/imgprodotto/letto-matrimoniale-borea-ecopelle-con-contenitore-musa_153585",
 "Letto Matrimoniale Elios Rete Fissa|Caratteristiche Dimensioni letto 215x184x38 cm Dimensioni testiera|2017/12/letto-matrimoniale-elios-rete-fissa|data.oliviero.it/imgprodotto/letto-matrimoniale-elios-rete-fissa-musa_153590",
 "Letto Matrimoniale Elios con contenitore|Caratteristiche Dimensioni letto 215x184x38 cm Dimensioni testiera|2017/12/letto-matrimoniale-elios-con-contenitore|data.oliviero.it/imgprodotto/letto-matrimoniale-elios-con-contenitore-musa_153591",

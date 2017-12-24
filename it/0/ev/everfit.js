@@ -1,4 +1,6 @@
 Gr = [
+"Tapis Roulant TFK 455 Slim|Tapis Roulant TFK 455 Slim HRC-Heart Rate Control PRE-ASSEMBLATO|2017/12/tapis-roulant-tfk-455-slim|data.oliviero.it/imgprodotto/tapis-roulant-tfk-455-slim_147613",
+"Panca Gravitazionale Turning Slim|Everfit Turning Slim è la nuova panca inversione regolabile in|2017/12/panca-gravitazionale-turning-slim|data.oliviero.it/imgprodotto/panca-gravitazionale-turning-slim_90149",
 "Tapis Roulant TFK 430|Tapis Roulant Pre-assemblato Certificazioni CE-ROHS-EN957 Diametro|2017/12/tapis-roulant-tfk-430|data.oliviero.it/imgprodotto/tapis-roulant-tfk-430_157597",
 "Portabilanciere WBK 300|Portabilanciere - WBK300 Descrizione: Altezza/distanza supporti|2017/12/portabilanciere-wbk-300|data.oliviero.it/imgprodotto/portabilanciere-wbk-300_159478",
 "Tapis Roulant TFK 155 SLIM|TFK-155 SLIM DATI TECNICI Motore1,75/2,75 (Peak) HP DC Velocità0,8|2017/12/tapis-roulant-tfk-155-slim|data.oliviero.it/imgprodotto/tapis-roulant-tfk-155-slim_159768",

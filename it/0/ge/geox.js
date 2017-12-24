@@ -1,4 +1,13 @@
 Gr = [
+"Scarpe Quinlynn Donna Nero|Collezione Autunno Inverno/2018 D'ispirazione dandy, gli stivaletti|2017/12/scarpe-quinlynn-donna-nero|data.oliviero.it/imgprodotto/scarpe-quinlynn-donna-nero_167203",
+"Scarpe Jr. Kiwi Girl|Collezione Primavera Estate Trendy, cool e ideali per le bambine che|2017/12/scarpe-jr-kiwi-girl|data.oliviero.it/imgprodotto/scarpe-jr-kiwi-girl-j72d5b-c5000_162362",
+"Stivaletti Uomo Jaylon Mud|Collezione Autunno Inverno/2018 Per affrontare le lunghe giornate|2017/12/stivaletti-uomo-jaylon-mud|data.oliviero.it/imgprodotto/stivaletti-uomo-jaylon-mud_168839",
+"Sandalo Bambina Giglio Argento|Collezione Primavera Estate Sandali da bambina con Tomaia ecopelle|2017/12/sandalo-bambina-giglio-argento|data.oliviero.it/imgprodotto/sandalo-bambina-giglio-argento-j72e2a-c1007_159189",
+"Scarpe Uomo Jaylon|Collezione Autunno Inverno/2018 Per affrontare le lunghe giornate|2017/12/scarpe-uomo-jaylon|data.oliviero.it/imgprodotto/scarpe-uomo-jaylon_167184",
+"Giubbotto Uomo Dark Navy M7221W F4300|Collezione Primaver Estate Giubbotto da uomo ideale per la stagione|2017/12/giubbotto-uomo-dark-navy-m7221w-f4300|data.oliviero.it/imgprodotto/giubbotto-uomo-dark-navy-m7221w-f4300_158456",
+"Piumino Donna Dark Rock|Collezione Autunno Inverno/2018 Piumino da donna con zip frontale|2017/12/piumino-donna-dark-rock|data.oliviero.it/imgprodotto/piumino-donna-dark-rock_169360",
+"Scarpe Donna Sukie Ivory|Collezione Primavera Estate Così di appeal eppure così confortevoli|2017/12/scarpe-donna-sukie-ivory|data.oliviero.it/imgprodotto/scarpe-donna-sukie-ivory-d52f2a-c1008_159025",
+"Scarpe Donna Trysure Bianco Perla|Collezione Primavera Estate Sneakers bassa da donna con allacciatura|2017/12/scarpe-donna-trysure-bianco-perla|data.oliviero.it/imgprodotto/scarpe-donna-trysure-bianco-perla_165231",
 "Scarpe Uomo Nebula Chestnut|Collezione Autunno Inverno/2018 Pensate per un uomo dinamico|2017/12/scarpe-uomo-nebula-chestnut|data.oliviero.it/imgprodotto/scarpe-uomo-nebula-chestnut_168830",
 "Scarpe Donna Airell Bianco|Collezione Primavera Estate Sneakers da donna con allacciatura|2017/12/scarpe-donna-airell-bianco|data.oliviero.it/imgprodotto/scarpe-donna-airell-bianco_165226",
 "Giubbotto Uomo Dark Navy M7221V F4300|Collezione Primaver Estate Giubbotto da uomo ideale per la stagione|2017/12/giubbotto-uomo-dark-navy-m7221v-f4300|data.oliviero.it/imgprodotto/giubbotto-uomo-dark-navy-m7221v-f4300_158447",

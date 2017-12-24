@@ -1,4 +1,8 @@
 Gr = [
+"Scarpe Tennis Thunder Blade|\"The fast one\"La scarpa più veloce nella categoria|2017/12/scarpe-tennis-thunder-blade|data.oliviero.it/imgprodotto/scarpe-tennis-thunder-blade_167707",
+"Scarpe Running Wave Rider 20 (W)|Corri più lontano con le nuove Mizuno Wave Rider 20, una scarpa più|2017/12/scarpe-running-wave-rider-20-w|data.oliviero.it/imgprodotto/scarpe-running-wave-rider-20-w-_165896",
+"Scarpe Trail Running Wave Daichi 2|La scarpa Mizuno Wave Daichi 2 da Uomo, è caratterizzata da una suola|2017/12/scarpe-trail-running-wave-daichi-2|data.oliviero.it/imgprodotto/scarpe-trail-running-wave-daichi-2_166816",
+"Scarpe Pallavolo Wave Hurricane 3 Mid|Wave Hurricane 3 garantisce un massimo assorbimento dell‘impatto su|2017/12/scarpe-pallavolo-wave-hurricane-3-mid|data.oliviero.it/imgprodotto/scarpe-pallavolo-wave-hurricane-3-mid_169822",
 "Scarpe Calcetto Monarcida Neo As|Le scarpe calcetto Mizuno Monarcida as sono ideali per chi cerca una|2017/12/scarpe-calcetto-monarcida-neo-as|data.oliviero.it/imgprodotto/scarpe-calcetto-monarcida-neo-as_165885",
 "Scarpe Pallavolo Wave Bolt 6 Mid|Wave Bolt è una scarpa specifica per risposte veloci e performance|2017/12/scarpe-pallavolo-wave-bolt-6-mid|data.oliviero.it/imgprodotto/scarpe-pallavolo-wave-bolt-6-mid_169819",
 "Scarpe Running Wave Creation 18 (W)|La scarpa da running Mizuno Wave Creation 18, realizzata con|2017/12/scarpe-running-wave-creation-18-w|data.oliviero.it/imgprodotto/scarpe-running-wave-creation-18-w-j1gd160160_152103",

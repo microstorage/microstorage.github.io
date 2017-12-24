@@ -1,4 +1,8 @@
 Gr = [
+"Portapenne Round PLUS Swag Boy|Un portapenne attrezzato per organizzare al meglio penne, matite|2017/12/portapenne-round-plus-swag-boy|data.oliviero.it/imgprodotto/portapenne-round-plus-swag-boy_166276",
+"Portapenne Sunflower|Tanti modelli, grafiche e colori… proprio per tutti i gusti!!!|2017/12/portapenne-sunflower|data.oliviero.it/imgprodotto/portapenne-sunflower_166295",
+"Portapenne Round Plus Shift|Un portapenne attrezzato per organizzare al meglio penne, matite|2017/12/portapenne-round-plus-shift|data.oliviero.it/imgprodotto/portapenne-round-plus-shift_166339",
+"Astuccio 3 Zip SJ Animals|L'ASTUCCIO 3 ZIP SJ GANG è l'accessorio che non può mancare nel tuo|2017/12/astuccio-3-zip-sj-animals|data.oliviero.it/imgprodotto/astuccio-3-zip-sj-animals_166245",
 "Astuccio 3 Zip Widget|L'ASTUCCIO 3 ZIP Seven School è l'accessorio che non può mancare nel|2017/12/astuccio-3-zip-widget|data.oliviero.it/imgprodotto/astuccio-3-zip-widget_166283",
 "Astuccio 3 Zip Swag Boy|L'ASTUCCIO 3 ZIP Seven School è l'accessorio che non può mancare nel|2017/12/astuccio-3-zip-swag-boy|data.oliviero.it/imgprodotto/astuccio-3-zip-swag-boy_166345",
 "Astuccio 3 Zip Bundle Girl|L'ASTUCCIO 3 ZIP Seven School è l'accessorio che non può mancare nel|2017/12/astuccio-3-zip-bundle-girl|data.oliviero.it/imgprodotto/astuccio-3-zip-bundle-girl_166266",

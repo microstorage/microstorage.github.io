@@ -1,4 +1,6 @@
 Gr = [
+"Cucchiaini Termosensibili Azzurro|Set 2 cucchiai termosensibili cambia-colore. Il cucchiaio|2017/12/cucchiaini-termosensibili-azzurro|data.oliviero.it/imgprodotto/cucchiaini-termosensibili-azzurro_167210",
+"Set 3 contenitori pappa azzurro-verde|Set di 3 contenitori colorati per la conservazione del cibo in casa|2017/12/set-3-contenitori-pappa-azzurro-verde|data.oliviero.it/imgprodotto/set-3-contenitori-pappa-azzurro-verde-1468_153719",
 "Ventosa magica per piatto|Ventosa magica antirovesciamento in silicone. Forma universale adatta|2017/12/ventosa-magica-per-piatto|data.oliviero.it/imgprodotto/ventosa-magica-per-piatto_74161",
 "Pappasana vapor combo|Mini robot da cucina, cuocipappa a vapore e scaldabiberon. Cuoce|2017/12/pappasana-vapor-combo|data.oliviero.it/imgprodotto/pappasana-vapor-combo_140046",
 "Pappa Facile 4 in 1|4 in 1: grattugia, ciotola per schiacciare gli alimenti, spremi|2017/12/pappa-facile-4-in-1|data.oliviero.it/imgprodotto/pappa-facile-4-in-1_136240",

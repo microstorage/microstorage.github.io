@@ -1,4 +1,9 @@
 Gr = [
+"Gazebo Market 3X3|Telo: polyestere 500D 290 gr./m2, rivestito e spalmato in PVC|2017/12/gazebo-market-3x3|data.oliviero.it/imgprodotto/gazebo-market-3x3_87412",
+"Parete per gazebo Market 3 m|Telo polyestere 500D 290 gr./m2, rivestito e spalmato in PVC, con|2017/12/parete-per-gazebo-market-3-m|data.oliviero.it/imgprodotto/parete-per-gazebo-market-3-m_87419",
+"Parete per gazebo con finestra Market 3 m|Telo polyestere 500D 290 gr./m2, rivestito e spalmato in PVC, con|2017/12/parete-per-gazebo-con-finestra-market-3-m|data.oliviero.it/imgprodotto/parete-per-gazebo-con-finestra-market-3-m_151827",
+"Gazebo Oasi 4,5x3 Bianco|Gazebo multiuso con apertura automatica. Struttura in alluminio|2017/12/gazebo-oasi-4-5x3-bianco|data.oliviero.it/imgprodotto/gazebo-oasi-4-5x3-bianco_150076",
+"Pareti Laterali per Gazebo 3 mt con Porta|TELO LATERALE 3 mt. CON PORTA ARROTOLABILE PER GAZEBO SERIE PIRAMIDE|2017/12/pareti-laterali-per-gazebo-3-mt-con-porta|data.oliviero.it/imgprodotto/pareti-laterali-per-gazebo-3-mt-con-porta_165252",
 "Parete per gazebo Market 2 m|TELO LATERALE 2X2,10 PER GAZEBO MARKET Telo : polyestere 500D 290|2017/12/parete-per-gazebo-market-2-m|data.oliviero.it/imgprodotto/parete-per-gazebo-market-2-m_87418",
 "Gazebo Oasi 3x3 Bianco|Gazebo multiuso con apertura automatica. Struttura in alluminio|2017/12/gazebo-oasi-3x3-bianco|data.oliviero.it/imgprodotto/gazebo-oasi-3x3-bianco_150075",
 "Gazebo Rapido 300 pieghevole automatico|Telo: polyestere 500D 290 gr./m2, rivestito e spalmato in PVC|2017/12/gazebo-rapido-300-pieghevole-automatico|data.oliviero.it/imgprodotto/gazebo-rapido-300-pieghevole-automatico-ber223_157536",

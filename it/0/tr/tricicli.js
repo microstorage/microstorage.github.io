@@ -1,4 +1,7 @@
 Gr = [
+"Triciclo mickey pieghevole|Triciclo Topolino Mickey Pieghevole con Luci e Suoni per Bambini|2017/12/triciclo-mickey-pieghevole|data.oliviero.it/imgprodotto/triciclo-mickey-pieghevole_163842",
+"Trimoto Pink Tattoo 6V|Trimoto elettrico, acceleratore apedale, freno motore, batteria|2017/12/trimoto-pink-tattoo-6v|data.oliviero.it/imgprodotto/trimoto-pink-tattoo-6v_82053",
+"Bicicletta Flowers 14\"|Caratteristiche Tecniche: Telaio: Acciaio Serie Sterzo: Acciaio|2017/12/bicicletta-flowers-14|data.oliviero.it/imgprodotto/bicicletta-flowers-14_147603",
 "U-go Rosa Triciclo|U-Go è un triciclo con 2 modalità di utilizzo: Modalità spingi e vai:|2017/12/u-go-rosa-triciclo|data.oliviero.it/imgprodotto/u-go-rosa-triciclo_138750",
 "Triciclo minnie pieghevole|Triciclo Minnie Pieghevole con Luci e Suoni per Bambini Specifiche|2017/12/triciclo-minnie-pieghevole|data.oliviero.it/imgprodotto/triciclo-minnie-pieghevole_163841",
 "Triciclo orsetto rosa|Maniglia regolabile, poggiapiedi, anello protettivo, doppio|2017/12/triciclo-orsetto-rosa|data.oliviero.it/imgprodotto/triciclo-orsetto-rosa_163970",

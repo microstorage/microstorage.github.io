@@ -1,4 +1,7 @@
 Gr = [
+"Bilanciere acciaio cromato 180cm|Bilanciere in acciaio cromato per dischi da 25mm. Lunghezza 180 cm|2017/12/bilanciere-acciaio-cromato-180cm|data.oliviero.it/imgprodotto/bilanciere-acciaio-cromato-180cm_58154",
+"Bilanciere cromato 150 cm|Bilanciere cromato creato per lo sviluppo di bicipiti e tricipiti|2017/12/bilanciere-cromato-150-cm|data.oliviero.it/imgprodotto/bilanciere-cromato-150-cm_151884",
+"Kettlebells 15KG|Le Kettlebells sono sfere in ghisa con una maniglia fissa. Questi|2017/12/kettlebells-15kg|data.oliviero.it/imgprodotto/kettlebells-15kg_52230",
 "Elastico Tubolare Blu|L'elastico tubolare è l'ideale per l'esercizio fisico. Facile da|2017/12/elastico-tubolare-blu|data.oliviero.it/imgprodotto/elastico-tubolare-blu_52227",
 "Disco ghisa 10Kg|Disco peso in ghisa verniciata. Unica colorazione nero come da|2017/12/disco-ghisa-10kg|data.oliviero.it/imgprodotto/disco-ghisa-10kg_145897",
 "Portabilanciere WBK 300|Portabilanciere - WBK300 Descrizione: Altezza/distanza supporti|2017/12/portabilanciere-wbk-300|data.oliviero.it/imgprodotto/portabilanciere-wbk-300_159478",

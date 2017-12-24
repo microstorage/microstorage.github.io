@@ -1,4 +1,6 @@
 Gr = [
+"Pantaloni Sportivi Donna Grigio Melange|Collezione Autunno Inverno/2018 pantalone con elastico e coulisse in|2017/12/pantaloni-sportivi-donna-grigio-melange|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-grigio-melange_170360",
+"Felpa Donna Oliva|Collezione Autunno Inverno/2018 felpa aperta da zip pressofusa|2017/12/felpa-donna-oliva|data.oliviero.it/imgprodotto/felpa-donna-oliva_170335",
 "Felpa con Collo Alto Oliva|Collezione Autunno Inverno/2018 felpa con collo alto sciallato|2017/12/felpa-con-collo-alto-oliva|data.oliviero.it/imgprodotto/felpa-con-collo-alto-oliva_170329",
 "Giacca Pile Donna Panna|Collezione Autunno Inverno/2018 pile con zip doppio cursore e collo|2017/12/giacca-pile-donna-panna|data.oliviero.it/imgprodotto/giacca-pile-donna-panna_170364",
 "Felpa Donna Dark Grey|Collezione Autunno Inverno/2018 felpa aperta da zip pressofusa|2017/12/felpa-donna-dark-grey|data.oliviero.it/imgprodotto/felpa-donna-dark-grey_170381",

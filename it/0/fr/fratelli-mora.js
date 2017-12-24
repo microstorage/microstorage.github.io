@@ -1,4 +1,5 @@
 Gr = [
+"Lettino Mare Letmar 2|Lettino mare Blu Caratteristiche tecniche: Telaio: alluminio|2017/12/lettino-mare-letmar-2|data.oliviero.it/imgprodotto/lettino-mare-letmar-2_163203",
 "Sdraio Dondolino 152|Dondolino oscillante Caratteristiche tecniche: Telaio in acciaio|2017/12/sdraio-dondolino-152|data.oliviero.it/imgprodotto/sdraio-dondolino-152_125055",
 "Sedia Sdraio Cordobaby|Sedia sdraio Cordobaby Caratteristiche tecniche: Telaio: acciaio 20|2017/12/sedia-sdraio-cordobaby|data.oliviero.it/imgprodotto/sedia-sdraio-cordobaby_86987",
 "Sdraio Reclinabile 330|Sdraio reclinabile in textilene Caratteristiche tecniche: Telaio in|2017/12/sdraio-reclinabile-330|data.oliviero.it/imgprodotto/sdraio-reclinabile-330_163211",

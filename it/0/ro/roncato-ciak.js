@@ -1,4 +1,7 @@
 Gr = [
+"Trolley 2 ruote Lining Viola e Silver|Trolley Struttura Super Light 2 ruote Lucchetto a combinazione con|2017/12/trolley-2-ruote-lining-viola-e-silver|data.oliviero.it/imgprodotto/trolley-2-ruote-lining-viola-e-silver_159468",
+"Trolley 2 ruote Lining Verde e Silver|Trolley Struttura Super Light 2 ruote Lucchetto a combinazione con|2017/12/trolley-2-ruote-lining-verde-e-silver|data.oliviero.it/imgprodotto/trolley-2-ruote-lining-verde-e-silver_159470",
+"Trolley 101 PC 2R|La valigia in policarbonato, robusta ma leggera, compatta, raffinata|2017/12/trolley-101-pc-2r|data.oliviero.it/imgprodotto/trolley-101-pc-2r_157431",
 "Trolley 101 PC 4R|La valigia in policarbonato, robusta ma leggera, compatta, raffinata|2017/12/trolley-101-pc-4r|data.oliviero.it/imgprodotto/trolley-101-pc-4r_147827",
 "Trolley Lounge II|Trolley Cabina 4 ruote Lucchetto laterale a combinazione con TSA|2017/12/trolley-lounge-ii|data.oliviero.it/imgprodotto/trolley-lounge-ii_147854",
 "Trolley 2 ruote Sound Grigio e verde|Trolley Struttura Super Light 2 ruote Lucchetto a combinazione con|2017/12/trolley-2-ruote-sound-grigio-e-verde|data.oliviero.it/imgprodotto/trolley-2-ruote-sound-grigio-e-verde_159466",

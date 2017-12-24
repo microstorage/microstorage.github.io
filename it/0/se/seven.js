@@ -1,4 +1,10 @@
 Gr = [
+"Zaino The Double Camouflage|È uno zaino ma sono due. Da un lato fantasia e dall'altro tinta|2017/12/zaino-the-double-camouflage|data.oliviero.it/imgprodotto/zaino-the-double-camouflage_167526",
+"Portapenne Round PLUS Swag Boy|Un portapenne attrezzato per organizzare al meglio penne, matite|2017/12/portapenne-round-plus-swag-boy|data.oliviero.it/imgprodotto/portapenne-round-plus-swag-boy_166276",
+"Portapenne Sunflower|Tanti modelli, grafiche e colori… proprio per tutti i gusti!!!|2017/12/portapenne-sunflower|data.oliviero.it/imgprodotto/portapenne-sunflower_166295",
+"Portapenne Round Plus Shift|Un portapenne attrezzato per organizzare al meglio penne, matite|2017/12/portapenne-round-plus-shift|data.oliviero.it/imgprodotto/portapenne-round-plus-shift_166339",
+"Astuccio 3 Zip SJ Animals|L'ASTUCCIO 3 ZIP SJ GANG è l'accessorio che non può mancare nel tuo|2017/12/astuccio-3-zip-sj-animals|data.oliviero.it/imgprodotto/astuccio-3-zip-sj-animals_166245",
+"Zaino Maxi Sj Boy|Sempre per la scuola una versione alternativa con un modello tondo:|2017/12/zaino-maxi-sj-boy|data.oliviero.it/imgprodotto/zaino-maxi-sj-boy_166223",
 "Maxi Trolley SJ Boy|Questo è il Big trolley Sj! Adatto per la scuola con una capienza di|2017/12/maxi-trolley-sj-boy|data.oliviero.it/imgprodotto/maxi-trolley-sj-boy_166224",
 "Zaino Advanced Sunflower|Questo zaino è speciale! Grazie alla serigrafia fotosensibile, con|2017/12/zaino-advanced-sunflower|data.oliviero.it/imgprodotto/zaino-advanced-sunflower_166141",
 "Zaino Sdoppiabile SJ High Tech|ZAINO SDOPPIABILE SJ HIGH TECH, LO ZAINO CHE CRESCE CON TE! Novità|2017/12/zaino-sdoppiabile-sj-high-tech|data.oliviero.it/imgprodotto/zaino-sdoppiabile-sj-high-tech_166226",

@@ -1,4 +1,7 @@
 Gr = [
+"Scarpe Running Grid Cohesion 9|Scarpe Running Grid Cohesion 9 - S15262-4 PROFILO ATLETA: l'entry|2017/12/scarpe-running-grid-cohesion-9|data.oliviero.it/imgprodotto/scarpe-running-grid-cohesion-9-s25262-20_149094",
+"Scarpe Trail Running Xodus ISO|Da sempre la miglior scarpa da trail Saucony. Nuova versione con|2017/12/scarpe-trail-running-xodus-iso|data.oliviero.it/imgprodotto/scarpe-trail-running-xodus-iso-s20325-2_152469",
+"Scarpe Jazz Original Uomo|Saucony Originals Jazz O' uomo Nero/Bianco: dal 1981 le sneakers|2017/12/scarpe-jazz-original-uomo|data.oliviero.it/imgprodotto/scarpe-jazz-original-uomo_153506",
 "Scarpe Running Echelon 6|Drop: 8mm Tallone: 27mm Avampiede: 19mm PROFILO ATLETA: Scarpa da|2017/12/scarpe-running-echelon-6|data.oliviero.it/imgprodotto/scarpe-running-echelon-6_168710",
 "Scarpe Running Jazz 18 (W)|PROFILO ATLETA: perché Jazz continua a essere il modello più amato?|2017/12/scarpe-running-jazz-18-w|data.oliviero.it/imgprodotto/scarpe-running-jazz-18-w-s10307-12_161068",
 "Scarpe Running Jazz 18|perché Jazz continua a essere il modello più amato? Il segreto sta|2017/12/scarpe-running-jazz-18|data.oliviero.it/imgprodotto/scarpe-running-jazz-18_168718",

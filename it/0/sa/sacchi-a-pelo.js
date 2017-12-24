@@ -1,4 +1,6 @@
 Gr = [
+"Sacco a pelo Trend|Misura cm: (200+25) x 80 Esterno: Nylon TAFFETA W/R Interno: cotone|2017/12/sacco-a-pelo-trend|data.oliviero.it/imgprodotto/sacco-a-pelo-trend_150067",
+"Sacco a Pelo Lake 250|Esterno: 100% nylon 210T Interno: 65% polyestere - 35% cotone|2017/12/sacco-a-pelo-lake-250|data.oliviero.it/imgprodotto/sacco-a-pelo-lake-250_87275",
 "Sacco a Pelo Easy Cotton Orange|Caratteristiche tecniche: Esterno: 100% polyestere Interno: 80%|2017/12/sacco-a-pelo-easy-cotton-orange|data.oliviero.it/imgprodotto/sacco-a-pelo-easy-cotton-orange_85528",
 "Sacco a Pelo Camping 200 Stripes Blue|Esterno : 80% polyestere – 20% cotone Interno : 80% polyestere – 20%|2017/12/sacco-a-pelo-camping-200-stripes-blue|data.oliviero.it/imgprodotto/sacco-a-pelo-camping-200-stripes-blue_87288",
 "Sacco a Pelo Microtech 150|Esterno : 100% micro diamond ripstop 260T Interno : 100% Polyestere|2017/12/sacco-a-pelo-microtech-150|data.oliviero.it/imgprodotto/sacco-a-pelo-microtech-150_76000",

@@ -1,4 +1,5 @@
 Gr = [
+"Recumbent ChronoLine BRX R300|La nuovissima cyclette Toorx BRX R 300 fa parte della nuova linea|2017/12/recumbent-chronoline-brx-r300|data.oliviero.it/imgprodotto/recumbent-chronoline-brx-r300_153878",
 "Recumbent Ride R282|Buon prodotto con un ottimo rapporto qualità prezzo. Dotata di una|2017/12/recumbent-ride-r282|data.oliviero.it/imgprodotto/recumbent-ride-r282_172822",
 "Recumbent BRX R Comfort|DATI TECNICI BRX-R COMFORT Sistema di frenaggio magnetico su|2017/12/recumbent-brx-r-comfort|data.oliviero.it/imgprodotto/recumbent-brx-r-comfort_84845",
 "Recumbent Diamond D40|Sistema frenante elettromagnetico autoalimentato con generatore|2017/12/recumbent-diamond-d40|data.oliviero.it/imgprodotto/recumbent-diamond-d40_23629_big",

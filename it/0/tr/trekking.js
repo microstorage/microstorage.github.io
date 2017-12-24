@@ -1,4 +1,6 @@
 Gr = [
+"Scarpe Trekking Losanna Tex Topo|Scarpe da trekking donna Tomaia in tessuto tecnico e pelle|2017/12/scarpe-trekking-losanna-tex-topo|data.oliviero.it/imgprodotto/scarpe-trekking-losanna-tex-topo-838_164484",
+"Scarpe Trekking T-Cross Low GTX WS|Escursionisti veloci particolarmente esigenti che cercano una|2017/12/scarpe-trekking-t-cross-low-gtx-ws|data.oliviero.it/imgprodotto/scarpe-trekking-t-cross-low-gtx-ws_165326",
 "Scarpe Trekking Rigel Mid W|RIGEL MID è uno scarponcino trekking impermeabile dallo stile|2017/12/scarpe-trekking-rigel-mid-w|data.oliviero.it/imgprodotto/scarpe-trekking-rigel-mid-w_168708",
 "Scarpe Trekking Dakota Tex Antracite|Utilizzo: Calzatura trekking da uomo Tomaia: pelle effetto|2017/12/scarpe-trekking-dakota-tex-antracite|data.oliviero.it/imgprodotto/scarpe-trekking-dakota-tex-antracite-816_84332",
 "Scarpe Trekking Nebraska Cuoio|Scarpe Trekking uomo Tomaia in cordura e pelle con rinforzo sul|2017/12/scarpe-trekking-nebraska-cuoio|data.oliviero.it/imgprodotto/scarpe-trekking-nebraska-cuoio-85_164493",

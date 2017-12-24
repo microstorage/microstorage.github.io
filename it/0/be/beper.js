@@ -1,4 +1,12 @@
 Gr = [
+"Impastatrice professionale Bianco Nero|Impastatrice professionale Bianco Nero Descrizione: Ciotola|2017/12/impastatrice-professionale-bianco-nero|data.oliviero.it/imgprodotto/impastatrice-professionale-bianco-nero-90-344n_160647",
+"Centrifuga 350W per frutta e verdura|Centrifuga 350W per frutta e verdura Codice: 90.313A Descrizione|2017/12/centrifuga-350w-per-frutta-e-verdura|data.oliviero.it/imgprodotto/centrifuga-350w-per-frutta-e-verdura-90-313a_157371",
+"Spremiagrumi Elettrico 1 litro Bianco|Spremiagrumi Elettrico 1 litro Bianco Codice: 90.302/B Descrizione|2017/12/spremiagrumi-elettrico-1-litro-bianco|data.oliviero.it/imgprodotto/spremiagrumi-elettrico-1-litro-bianco-90-302-b_89066",
+"Asciugacapelli Professionale 2000W Hello Kitty|Asciugacapelli Professionale 2000W Hello Kitty Codice: HK-JZ38|2017/12/asciugacapelli-professionale-2000w-hello-kitty|data.oliviero.it/imgprodotto/asciugacapelli-professionale-2000w-hello-kitty-hk-jz38_89525",
+"Piastra Teppanyaki 70 cm|Piastra Teppanyaki 70 cm Codice: 90.386 Descrizione : Piastra|2017/12/piastra-teppanyaki-70-cm|data.oliviero.it/imgprodotto/piastra-teppanyaki-70-cm-90-386_90334",
+"Macchina caffè espresso 90.521|Macchina per il caffè espresso 90.521 Macchina caffè espresso Corpo|2017/12/macchina-caffe-espresso-90-521|data.oliviero.it/imgprodotto/macchina-caff%C3%A8-espresso-90-521_157643",
+"Scaldaletto Matrimoniale Lana Sintetica Dolly|Scaldaletto Matrimoniale Lana Sintetica Dolly Codice: RI.412|2017/12/scaldaletto-matrimoniale-lana-sintetica-dolly|data.oliviero.it/imgprodotto/scaldaletto-matrimoniale-lana-sintetica-dolly_157374",
+"Ferro da Stiro a secco 1000 watt|Ferro da Stiro a secco 1000 watt Codice: 50.943 Descrizione|2017/12/ferro-da-stiro-a-secco-1000-watt|data.oliviero.it/imgprodotto/ferro-da-stiro-a-secco-1000-watt-50-943_163800",
 "Macchina Caffè Americano|Macchina Caffè Americano Codice: 90.391 Descrizione : Corpo in|2017/12/macchina-caffe-americano|data.oliviero.it/imgprodotto/macchina-caff%C3%A8-americano-90-391_88985",
 "Bollitore 1,7 litri|Bollitore 1,7 litri Codice: 90.393 Descrizione: Corpo in plastica|2017/12/bollitore-1-7-litri|data.oliviero.it/imgprodotto/bollitore-1-7-litri-90-393_88995",
 "Umidificatore ad Ultrasuoni Hello Kitty|Umidificatore ad Ultrasuoni Hello Kitty Codice: HK-HQ601C Descrizione|2017/12/umidificatore-ad-ultrasuoni-hello-kitty|data.oliviero.it/imgprodotto/umidificatore-ad-ultrasuoni-hello-kitty-hk-hq601c_131329",

@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Calcetto evoPower Vigor 4 TT|Le evoPOWER Vigor 4 per terreni in erba combinano leggerezza, comfort|2017/12/scarpe-calcetto-evopower-vigor-4-tt|data.oliviero.it/imgprodotto/scarpe-calcetto-evopower-vigor-4-tt-103965-01_163956",
 "Scarpe Running Carson Runner Knit Wn's|Scarpe running da donna Intersuola in EVA stampata a iniezione|2017/12/scarpe-running-carson-runner-knit-wn-s|data.oliviero.it/imgprodotto/scarpe-running-carson-runner-knit-wns-188151-06_129194",
 "Scarpe Calcetto evoPower Vigor 4 TT Jr|Leggera e comoda è la nuova scarpa da bambino Puma. Formato da|2017/12/scarpe-calcetto-evopower-vigor-4-tt-jr|data.oliviero.it/imgprodotto/scarpe-calcetto-evopower-vigor-4-tt-jr-103974-01_163964",
 "Scarpe Calcetto evoPower 4.3 TT|Le evoPOWER 4.3 per manto erboso sono delle scarpe da training per|2017/12/scarpe-calcetto-evopower-4-3-tt|data.oliviero.it/imgprodotto/scarpe-calcetto-evopower-4-3-tt-103588-03_152739",

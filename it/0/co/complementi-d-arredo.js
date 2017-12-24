@@ -1,4 +1,7 @@
 Gr = [
+"Metro Gigi e Lele|Ecco arrivare finalmente la colorata e simpatica linea Gigi e Lele|2017/12/metro-gigi-e-lele|data.oliviero.it/imgprodotto/metro-gigi-e-lele_5616_big",
+"Como Smart Maison Bebè Beige|Comò modello Maison Bebè colore bianco/beige composto da 3 ampi|2017/12/como-smart-maison-bebe-beige|data.oliviero.it/imgprodotto/como-smart-maison-beb%C3%A8-beige_146772",
+"Box Portagiochi Gigi e Lele|Ecco arrivare finalmente la colorata e simpatica linea Gigi e Lele|2017/12/box-portagiochi-gigi-e-lele|data.oliviero.it/imgprodotto/box-portagiochi-gigi-e-lele_5607_big",
 "Appendiabiti a Stelo Caprice Royal|Linea dal gusto romantico e antico. Soddisfa un vero e proprio|2017/12/appendiabiti-a-stelo-caprice-royal|data.oliviero.it/imgprodotto/appendiabiti-a-stelo-caprice-royal_5649_big",
 "Mobiletto 5 Cassetti Blinky Bianco-Panna|Mobiletto struttura legno laccato completo di 5 cassetti in giunco|2017/12/mobiletto-5-cassetti-blinky-bianco-panna|data.oliviero.it/imgprodotto/mobiletto-5-cassetti-blinky-bianco-panna_68541",
 "Armadio Gigi e Lele|Ecco arrivare finalmente la colorata e simpatica linea Gigi e Lele|2017/12/armadio-gigi-e-lele|data.oliviero.it/imgprodotto/armadio-gigi-e-lele_5594_big",

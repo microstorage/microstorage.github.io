@@ -1,4 +1,5 @@
 Gr = [
+"T-Shirt Lingerie LS4AEE 0006|Collezione Twin set Lingerie T-Shirt della collezione lingerie da|2017/12/t-shirt-lingerie-ls4aee-0006|data.oliviero.it/imgprodotto/t-shirt-lingerie-ls4aee-0006_146703",
 "Vestaglia 1508 Lilla|Tipologia : Vestaglia taglie comode da donna Tessuto : 100% cotone|2017/12/vestaglia-1508-lilla|data.oliviero.it/imgprodotto/vestaglia-1508-lilla_93528",
 "Abito Lingerie LS4KAA 00460|Collezione Twin Set Lingerie Abito lingerie da donna con allacciatura|2017/12/abito-lingerie-ls4kaa-00460|data.oliviero.it/imgprodotto/abito-lingerie-ls4kaa-00460_146580",
 "Maglia Lingerie LS4DAA 00460|Collezione Twin Set Lingerie Maglia da donna con scollo a V, maniche|2017/12/maglia-lingerie-ls4daa-00460|data.oliviero.it/imgprodotto/maglia-lingerie-ls4daa-00460_146570",

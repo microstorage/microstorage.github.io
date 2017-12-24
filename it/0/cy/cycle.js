@@ -1,4 +1,5 @@
 Gr = [
+"Jeans uomo MPT025 T252|Tipologia : Jeans uomo Tessuto : 98% cotone e 2% elastan|2017/12/jeans-uomo-mpt025-t252|data.oliviero.it/imgprodotto/jeans-uomo-mpt025-t252_69136",
 "Pantaloni donna WPT311 R782|Collezione Primavera Estate Tipologia: Pantalane donna Tessuto: 100%|2017/12/pantaloni-donna-wpt311-r782|data.oliviero.it/imgprodotto/pantaloni-donna-wpt311-r782_73275",
 "Pantaloni donna WPT383 P060|Collezione Primavera Estate Tipologia: Pantalane donna Tessuto: 100%|2017/12/pantaloni-donna-wpt383-p060|data.oliviero.it/imgprodotto/pantaloni-donna-wpt383-p060_73294",
 "Pantaloni donna WPT404 T059|Collezione Primavera Estate Tipologia: Pantalane donna Tessuto: 97%|2017/12/pantaloni-donna-wpt404-t059|data.oliviero.it/imgprodotto/pantaloni-donna-wpt404-t059_73314",

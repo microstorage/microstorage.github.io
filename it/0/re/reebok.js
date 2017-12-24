@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Classic Leather mens|Utilizzo: Calzatura Moda Sport Tomaia: Pelle Battistrada: Gomma|2017/12/scarpe-classic-leather-mens|data.oliviero.it/imgprodotto/scarpe-classic-leather-mens_74222",
 "Scarpe CL Leather SG|Lo stile Classic la fa da padrone quest'anno: il nostro Seasonal Gum|2017/12/scarpe-cl-leather-sg|data.oliviero.it/imgprodotto/scarpe-cl-leather-sg_168692",
 "Scarpe Classic Leather|Non sarai mai a corto di stile. La tomaia in morbida pelle offre il|2017/12/scarpe-classic-leather|data.oliviero.it/imgprodotto/scarpe-classic-leather-28413_159833",
 "Scarpe Melted Metal (W)|Tra stile moderno e tradizionale non serve più scegliere: questa|2017/12/scarpe-melted-metal-w|data.oliviero.it/imgprodotto/scarpe-melted-metal-w-_168676",

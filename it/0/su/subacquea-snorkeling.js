@@ -1,4 +1,7 @@
 Gr = [
+"Set Snorkeling Jr Pirate|MASCHERA : MASSIMO COMFORT REGOLAZIONE DEL CINTURINO FACILE|2017/12/set-snorkeling-jr-pirate|data.oliviero.it/imgprodotto/set-snorkeling-jr-pirate_165665",
+"Pinne Fluida Jr|Pinna ideale durevole per lo snorkeling. Modello con tallone chiuso|2017/12/pinne-fluida-jr|data.oliviero.it/imgprodotto/pinne-fluida-jr_147752",
+"Muta Shorty Tritone|La tua vera seconda pelle. TIZIP silverseal. Estremamente resistente|2017/12/muta-shorty-tritone|data.oliviero.it/imgprodotto/muta-shorty-tritone_10846_big",
 "Set Snorkeling Pure Vision Giallo|Maschera Facciale in silicone Fibbie a regolazione facile sul|2017/12/set-snorkeling-pure-vision-giallo|data.oliviero.it/imgprodotto/set-snorkeling-pure-vision-giallo_165659",
 "Set Snorkeling Pure Vision Lilla|Maschera Facciale in silicone Fibbie a regolazione facile sul|2017/12/set-snorkeling-pure-vision-lilla|data.oliviero.it/imgprodotto/set-snorkeling-pure-vision-lilla_165657",
 "Pinne Palau Classic|Pinna a scarpetta chiusa caratterizzata da una pala in materiale|2017/12/pinne-palau-classic|data.oliviero.it/imgprodotto/pinne-palau-classic_21518_big",

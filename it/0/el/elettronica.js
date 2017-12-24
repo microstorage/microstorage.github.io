@@ -1,4 +1,8 @@
 Gr = [
+"Fasciatoio Nuvola 219|Bagnetto fasciatolo nuvola cam. Bagnetto fasciatoio dal nuovo design|2017/12/fasciatoio-nuvola-219|data.oliviero.it/imgprodotto/fasciatoio-nuvola-219_136976",
+"Fasciatoio Nuvola 222|Bagnetto fasciatolo nuvola cam. Bagnetto fasciatoio dal nuovo design|2017/12/fasciatoio-nuvola-222|data.oliviero.it/imgprodotto/fasciatoio-nuvola-222_136978",
+"Fasciatoio Volare 227|Bagnetto / fasciatoio pieghevole dalle forme moderne, dispone di un|2017/12/fasciatoio-volare-227|data.oliviero.it/imgprodotto/fasciatoio-volare-227_158813",
+"Bagnetto Maison bebè Grigio|Pali offre una linea completa di bagnetti fasciatoio, per la cura del|2017/12/bagnetto-maison-bebe-grigio|data.oliviero.it/imgprodotto/bagnetto-maison-beb%C3%A8-grigio_166022",
 "Aqua Spa Fasciatoio 226|Il Bagnetto Cam Aqua SPA C77 comprende una comoda vaschetta anatomica|2017/12/aqua-spa-fasciatoio-226|data.oliviero.it/imgprodotto/aqua-spa-fasciatoio-226_171529",
 "Aqua Fasciatoio 222|Bagnetto / fasciatoio dalle forme moderne. La vaschetta è dotata di|2017/12/aqua-fasciatoio-222|data.oliviero.it/imgprodotto/aqua-fasciatoio-222_171526",
 "Vaschetta ergonomica tummy tub|La Tummy Tub è una vachetta ergonomica e anatomica per neonati|2017/12/vaschetta-ergonomica-tummy-tub|data.oliviero.it/imgprodotto/vaschetta-ergonomica-tummy-tub_146908",

@@ -1,4 +1,6 @@
 Gr = [
+"Skateboard FREEDOM PRO MILITARY|Descrizione: Dimensioni tavola : 57x15,2 cm Materiale tavola : ABS|2017/12/skateboard-freedom-pro-military|data.oliviero.it/imgprodotto/skateboard-freedom-pro-military_162376",
+"Casco street FLOWERS|Descrizione: Calotta interna : anti shock in EPS ad alta densità Made|2017/12/casco-street-flowers|data.oliviero.it/imgprodotto/casco-street-flowers_162414",
 "Monopattino RAPTOR PRO 200 nero arancio|Descrizione: Pieghevole : salvaspazio Tracolla removibile : inclusa|2017/12/monopattino-raptor-pro-200-nero-arancio|data.oliviero.it/imgprodotto/monopattino-raptor-pro-200-nero-arancio_162386",
 "Skateboard FREEDOM tavola nera|Descrizione: Dimensioni tavola : 57x15,2 cm Materiale tavola|2017/12/skateboard-freedom-tavola-nera|data.oliviero.it/imgprodotto/skateboard-freedom-tavola-nera-ruote-arancio_162374",
 "Skateboard TRIBE PRO BLOODY SKULL|Descrizione: Dimensioni tavola : 79x20 cm Materiale tavola|2017/12/skateboard-tribe-pro-bloody-skull|data.oliviero.it/imgprodotto/skateboard-tribe-pro-bloody-skull_162366",

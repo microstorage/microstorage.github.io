@@ -1,4 +1,9 @@
 Gr = [
+"Recumbent Tekna 305|Recumbent Tekna 305 SISTEMA FRENANTE MAGNETICO REGOLAZIONE INERZIA|2017/12/recumbent-tekna-305|data.oliviero.it/imgprodotto/recumbent-tekna-305_135908",
+"Ellittica Ellipse NGP|Ellittica Ellipse NGP Peso massimo utente 120 Regolazione della|2017/12/ellittica-ellipse-ngp|data.oliviero.it/imgprodotto/ellittica-ellipse-ngp_119560",
+"Cyclette ST 105|La cyclette ST 105 è la soluzione ideale per l'home fitness con un|2017/12/cyclette-st-105|data.oliviero.it/imgprodotto/cyclette-st-105_142882",
+"Ellittica XC 140i|L'ellittica DKN XC140i è pensata per gli sportivi più esigenti e per|2017/12/ellittica-xc-140i|data.oliviero.it/imgprodotto/ellittica-xc-140i_68607",
+"Cyclette JK246|Sistema frenante Magnetico Regolazione inerzia 8 livelli di|2017/12/cyclette-jk246|data.oliviero.it/imgprodotto/cyclette-jk246_173185",
 "Cyclette JK226|Sistema frenante Magnetico Regolazione inerzia 8 livelli di|2017/12/cyclette-jk226|data.oliviero.it/imgprodotto/cyclette-jk226_173189",
 "Cyckette Premium B6|LA BIKE GETFIT AUTO-ALIMENTATA PER UTILIZZO COMMERCIALE (non|2017/12/cyckette-premium-b6|data.oliviero.it/imgprodotto/cyckette-premium-b6_172774",
 "Cyclette Cycle M LA accesso facilitato|CYCLE M LA07629-400 Modello di ingresso nel mondo KETTLER, la|2017/12/cyclette-cycle-m-la-accesso-facilitato|data.oliviero.it/imgprodotto/cyclette-cycle-m-la-accesso-facilitato_130294",

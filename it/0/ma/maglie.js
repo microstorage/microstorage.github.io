@@ -1,4 +1,8 @@
 Gr = [
+"Maglia Termica Donna mezza Zip Blu Notte|Collezione Autunno Inverno/2018 Maglia termica donna in pile|2017/12/maglia-termica-donna-mezza-zip-blu-notte|data.oliviero.it/imgprodotto/maglia-termica-donna-mezza-zip-blu-notte_170479",
+"Cardigan Donna Aaron|Collezione Autunno Inverno/2018 Cardigan tricot da donna con|2017/12/cardigan-donna-aaron|data.oliviero.it/imgprodotto/cardigan-donna-aaron_170641",
+"Cardigan Donna Adeline|Collezione Autunno Inverno/2018 Cardigan nero da donna con stampa|2017/12/cardigan-donna-adeline|data.oliviero.it/imgprodotto/cardigan-donna-adeline_170645",
+"Maglia Donna Basic Carlin|Collezione Autunno Inverno/2018 Maglia blu con scollo a barca, con|2017/12/maglia-donna-basic-carlin|data.oliviero.it/imgprodotto/maglia-donna-basic-carlin_170651",
 "Maglia donna P15055 MA00N|Maglia da donna con allacciatura tramite gancetti, maniche lunghe|2017/12/maglia-donna-p15055-ma00n|data.oliviero.it/imgprodotto/maglia-donna-p15055-ma00n_146488",
 "Maglia Donna Sami|Collezione Autunno Inverno/2018 Maglia tricot da donna con patchwork|2017/12/maglia-donna-sami|data.oliviero.it/imgprodotto/maglia-donna-sami_170658",
 "Maglia donna P15055 MA00N Z9090|Maglia da donna con allacciatura tramite gancetti, maniche lunghe|2017/12/maglia-donna-p15055-ma00n-z9090|data.oliviero.it/imgprodotto/maglia-donna-p15055-ma00n-z9090_146498",

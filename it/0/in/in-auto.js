@@ -1,4 +1,7 @@
 Gr = [
+"Seggiolino Youniverse Black|Il Seggiolino Auto Chicco Youniverse è omologato dai 9 ai 36 Kg del|2017/12/seggiolino-youniverse-black|data.oliviero.it/imgprodotto/seggiolino-youniverse-black_170721",
+"Rodifix AP Sparkling Grey|Seggiolino Auto 15-36 Kg A partire da 3 anni fino a 10 anni circa (o|2017/12/rodifix-ap-sparkling-grey|data.oliviero.it/imgprodotto/rodifix-ap-sparkling-grey_161461",
+"Soft wraps proteggi cintura|Coprispalline per cinture di sicurezza auto e seggiolini realizzati|2017/12/soft-wraps-proteggi-cintura|data.oliviero.it/imgprodotto/soft-wraps-proteggi-cintura_73423",
 "Seggiolino Evolva Plus 1 2 3|Il seggiolino combinato EVOLVA 1-2-3 plus è dotato di numerose|2017/12/seggiolino-evolva-plus-1-2-3|data.oliviero.it/imgprodotto/seggiolino-evolva-plus-1-2-3_51747",
 "Seggiolino Auto Iseos Neo+ rasperry red|Ogni bambino è unico, sia nell'aspetto sia nel carattere. Alcuni|2017/12/seggiolino-auto-iseos-neo+-rasperry-red|data.oliviero.it/imgprodotto/seggiolino-auto-iseos-neo-rasperry-red_72268",
 "Seggiolino Auto Iseos Neo+ walnut brown|Ogni bambino è unico, sia nell'aspetto sia nel carattere. Alcuni|2017/12/seggiolino-auto-iseos-neo+-walnut-brown|data.oliviero.it/imgprodotto/seggiolino-auto-iseos-neo-walnut-brown_65258",

@@ -1,4 +1,12 @@
 Gr = [
+"Camicia Uomo Button Down Offwhite|Collezione Autunno Inverno/2018 Indosserai ogni giorno la nostra|2017/12/camicia-uomo-button-down-offwhite|data.oliviero.it/imgprodotto/camicia-uomo-button-down-offwhite_170491",
+"Jeans Arizona Cool Hand|Collezione Autunno Inverno/2018 Le fibre di questi Arizona Stretch si|2017/12/jeans-arizona-cool-hand|data.oliviero.it/imgprodotto/jeans-arizona-cool-hand_170527",
+"Camicia Uomo Button Down|Collezione Autunno Inverno/2018 La nostra classica camicia slim ha un|2017/12/camicia-uomo-button-down|data.oliviero.it/imgprodotto/camicia-uomo-button-down_170489",
+"Jeans Spencer Bison Washed|Collezione Autunno Inverno/2018 Pantaloni slim a vita bassa, in|2017/12/jeans-spencer-bison-washed|data.oliviero.it/imgprodotto/jeans-spencer-bison-washed_170545",
+"Jeans Boyton Stoned|Collezione Autunno Inverno/2018 Jeans con gamba affusolata, in denim|2017/12/jeans-boyton-stoned|data.oliviero.it/imgprodotto/jeans-boyton-stoned_170521",
+"T-Shirt Logo Rosso|Collezione Autunno Inverno/2018 Questa t-shirt girocollo con fit|2017/12/t-shirt-logo-rosso|data.oliviero.it/imgprodotto/t-shirt-logo-rosso_170627",
+"Piumino Protector Green Gables|Collezione Autunno Inverno/2018 Questo piumino verde con cappuccio|2017/12/piumino-protector-green-gables|data.oliviero.it/imgprodotto/piumino-protector-green-gables_170590",
+"Felpa Logo Popover Hoodie Grigio|Collezione Autunno Inverno/2018 Questa classica felpa grigia ha il|2017/12/felpa-logo-popover-hoodie-grigio|data.oliviero.it/imgprodotto/felpa-logo-popover-hoodie-grigio_170576",
 "Jeans Spencer Grey Eyes Blue|Collezione Autunno Inverno/2018 Classici pantaloni in velluto blu|2017/12/jeans-spencer-grey-eyes-blue|data.oliviero.it/imgprodotto/jeans-spencer-grey-eyes-blue_170543",
 "Jeans Larston Flip Side|Collezione Autunno Inverno/2018 Jeans slim con gamba affusolata in|2017/12/jeans-larston-flip-side|data.oliviero.it/imgprodotto/jeans-larston-flip-side_170510",
 "Giubbino Overshirt Green Gables|Collezione Autunno Inverno/2018 Giacca morbida e calda, in puro|2017/12/giubbino-overshirt-green-gables|data.oliviero.it/imgprodotto/giubbino-overshirt-green-gables_170588",

@@ -1,4 +1,10 @@
 Gr = [
+"Scarpe Jr. Wheat|Collezione Autunno Inverno/2018 Quando è tempo di giocare, i piccoli|2017/12/scarpe-jr-wheat|data.oliviero.it/imgprodotto/scarpe-jr-wheat_171115",
+"Felpa Uomo Grigio Chiaro|Collezione Autunno Inverno/2018 Questa classica felpa girocollo dalla|2017/12/felpa-uomo-grigio-chiaro|data.oliviero.it/imgprodotto/felpa-uomo-grigio-chiaro_171033",
+"Polo Uomo Verde|Collezione Autunno Inverno/2018 Indossa questa classica polo|2017/12/polo-uomo-verde|data.oliviero.it/imgprodotto/polo-uomo-verde_171049",
+"Stivaletti Uomo Larchmont|Collezione Autunno Inverno/2018 Questi robusti stivali chelsea da|2017/12/stivaletti-uomo-larchmont|data.oliviero.it/imgprodotto/stivaletti-uomo-larchmont_171082",
+"Pantaloni Uomo Blu|Collezione Autunno Inverno/2018 Vivacizza il tuo stile con questi|2017/12/pantaloni-uomo-blu|data.oliviero.it/imgprodotto/pantaloni-uomo-blu_171002",
+"Giubbotto Uomo Grigio|Collezione Autunno Inverno/2018 Questa giacca a vento ha un comodo|2017/12/giubbotto-uomo-grigio|data.oliviero.it/imgprodotto/giubbotto-uomo-grigio_171026",
 "Scarpe Donna Oliva|Collezione Autunno Inverno/2018 Le nostre sneakers donna dal look|2017/12/scarpe-donna-oliva|data.oliviero.it/imgprodotto/scarpe-donna-oliva_171106",
 "Giubbotto Uomo Blu Marino|Collezione Autunno Inverno/2018 Sottile e leggera, ma robusta: una|2017/12/giubbotto-uomo-blu-marino|data.oliviero.it/imgprodotto/giubbotto-uomo-blu-marino_171053",
 "Scarpe Uomo Adventure 2.0 Cuoio|Collezione Autunno Inverno/2018 Stai sempre in movimento e sfida|2017/12/scarpe-uomo-adventure-2-0-cuoio|data.oliviero.it/imgprodotto/scarpe-uomo-adventure-2-0-cuoio_171073",

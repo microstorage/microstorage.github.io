@@ -1,4 +1,6 @@
 Gr = [
+"Sacca Oliviero|Caratterizzata da un design semplice e leggero, questa sacca sportiva|2017/12/sacca-oliviero|data.oliviero.it/imgprodotto/sacca-oliviero_165201",
+"Zaino Stelvio 55+10|Capacità : litri 55+10 Materiale : kodratex Struttura : wishbone|2017/12/zaino-stelvio-55+10|data.oliviero.it/imgprodotto/zaino-stelvio-55-10_87241",
 "Zainetto per il Pranzo Bee|Zainetto per l'asilo, morbido e con un capiente vano principale|2017/12/zainetto-per-il-pranzo-bee|data.oliviero.it/imgprodotto/zainetto-per-il-pranzo-bee-skip-hop_140404",
 "Zaino Advanced Sunflower|Questo zaino è speciale! Grazie alla serigrafia fotosensibile, con|2017/12/zaino-advanced-sunflower|data.oliviero.it/imgprodotto/zaino-advanced-sunflower_166141",
 "Zaino trekking Finisterre 38|Zaino dal profilo lineare e completo di tutte le dotazioni. Il dorso|2017/12/zaino-trekking-finisterre-38|data.oliviero.it/imgprodotto/zaino-trekking-finisterre-38-75734_171664",

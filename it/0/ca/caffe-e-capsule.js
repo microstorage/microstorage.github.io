@@ -1,4 +1,5 @@
 Gr = [
+"Macina Caffe Handy|Il caffè in grani ha un fascino particolare e conserva intatto il suo|2017/12/macina-caffe-handy|data.oliviero.it/imgprodotto/macina-caffe-handy_155832",
 "Tazza Giacomo Agostini|Una tazza per iniziare ogni giornata insieme al quindici volte|2017/12/tazza-giacomo-agostini|data.oliviero.it/imgprodotto/tazza-giacomo-agostini_93391",
 "Macchina Caffè Americano|Macchina Caffè Americano Codice: 90.391 Descrizione : Corpo in|2017/12/macchina-caffe-americano|data.oliviero.it/imgprodotto/macchina-caff%C3%A8-americano-90-391_88985",
 "Caffettiera 6 tazze linea Montecarlo|Elegante caffettiera prodotta in acciaio inossidabile di alta|2017/12/caffettiera-6-tazze-linea-montecarlo|data.oliviero.it/imgprodotto/caffettiera-6-tazze-linea-montecarlo_90718",

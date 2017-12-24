@@ -1,4 +1,9 @@
 Gr = [
+"Casco Ciclismo Fiamma Nero|Leggerissimo e dalla calzata avvolgente, il casco Fiamma garantisce|2017/12/casco-ciclismo-fiamma-nero|data.oliviero.it/imgprodotto/casco-ciclismo-fiamma-nero_165360",
+"Casco Sci Nomad LF Dark Green|Il Nomad LF di Atomic è uno dei nostri caschi da sci più venduti, un|2017/12/casco-sci-nomad-lf-dark-green|data.oliviero.it/imgprodotto/casco-sci-nomad-lf-dark-green-an5005220_157646",
+"Casco Sci Arise Green|Casco sci Head Arise con tecnologia Flexcore: un nucleo flessibile|2017/12/casco-sci-arise-green|data.oliviero.it/imgprodotto/casco-sci-arise-green-328425_157640",
+"Casco da moto Jet Fluid Multi Black Fucsia|CARATTERISTICHE GENERALI VISIERA Attenzione: il casco viene venduto|2017/12/casco-da-moto-jet-fluid-multi-black-fucsia|data.oliviero.it/imgprodotto/casco-da-moto-jet-fluid-multi-black-fucsia-4811a2g0-008_149376",
+"Casco Sci Nomad LF Dark Blue|Il Nomad LF di Atomic è uno dei nostri caschi da sci più venduti, un|2017/12/casco-sci-nomad-lf-dark-blue|data.oliviero.it/imgprodotto/casco-sci-nomad-lf-dark-blue-an5005218_157652",
 "Casco Sci Cloe Nero|Essendo il più leggero della gamma di caschi HEAD da donna, Cloe|2017/12/casco-sci-cloe-nero|data.oliviero.it/imgprodotto/casco-sci-cloe-nero-325615_157638",
 "Casco Ciclismo Shire Nero|È il casco per tutti, che si adatta perfettamente alle diverse|2017/12/casco-ciclismo-shire-nero|data.oliviero.it/imgprodotto/casco-ciclismo-shire-nero_165349",
 "Casco Sci Mentor Black|Il Mentor di Atomic fa parte della collezione di caschi più leggeri|2017/12/casco-sci-mentor-black|data.oliviero.it/imgprodotto/casco-sci-mentor-black-an5005232_157647",

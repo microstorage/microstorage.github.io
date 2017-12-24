@@ -1,4 +1,5 @@
 Gr = [
+"Skimboard The Ice Skim 39\"|The Ice Skim 39\" Costruzione legno multistrato Dimensioni: 100 X 55|2017/12/skimboard-the-ice-skim-39|data.oliviero.it/imgprodotto/skimboard-the-ice-skim-39_125083",
 "Costume Bambina Astropop Allover Splashback|Costume da bambina dal design accattivante e dal tessuto resistente|2017/12/costume-bambina-astropop-allover-splashback|data.oliviero.it/imgprodotto/costume-bambina-astropop-allover-splashback-807386b483_161102",
 "Costume Donna Sculpture LunaLustre Nero e Rosso|Stampe eleganti, disegnate su misura per essere eleganti anche mentre|2017/12/costume-donna-sculpture-lunalustre-nero-e-rosso|data.oliviero.it/imgprodotto/costume-donna-sculpture-lunalustre-nero-e-rosso-810835b346_161099",
 "Costume Baby Rosa Tidal Idol Essential Frill|Resistente, confortevole, colorato, e grazie alla tecnologia del suo|2017/12/costume-baby-rosa-tidal-idol-essential-frill|data.oliviero.it/imgprodotto/costume-baby-rosa-tidal-idol-essential-frill-807972b430_161104",

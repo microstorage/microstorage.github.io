@@ -1,4 +1,6 @@
 Gr = [
+"Scarpe Running Gel Nimbus 18 (W)|Scarpe Running Gel Nimbus 18 (W) - T650N 9397 La GEL-NIMBUS 18 ti|2017/12/scarpe-running-gel-nimbus-18-w|data.oliviero.it/imgprodotto/scarpe-running-gel-nimbus-18-w-t650n-5806_153630",
+"Scarpe Running Gel Pulse 8|Stabilisci tempi da record sui tuoi percorsi preferiti indossando le|2017/12/scarpe-running-gel-pulse-8|data.oliviero.it/imgprodotto/scarpe-running-gel-pulse-8-t6e1n-4907_164139",
 "Scarpe Running Cumulus 18 (W)|Un mix perfetto di sostegno ed ammortizzazione, la 18esima edizione|2017/12/scarpe-running-cumulus-18-w|data.oliviero.it/imgprodotto/scarpe-running-cumulus-18-w-t6c8n-0107_154489",
 "Scarpe Running Gel Cumulus 18|Il tuo piede riceverà grande spinta in fase di stacco grazie alla|2017/12/scarpe-running-gel-cumulus-18|data.oliviero.it/imgprodotto/scarpe-running-gel-cumulus-18-t6c3n-0193_154283",
 "Scarpe Running Gel Nimbus 19 W|Accumula chilometri senza sforzare i piedi indossando la leggerissima|2017/12/scarpe-running-gel-nimbus-19-w|data.oliviero.it/imgprodotto/scarpe-running-gel-nimbus-19-w_169601",

@@ -1,4 +1,6 @@
 Gr = [
+"Tenda Emerald 5 da Campeggio|Tenda con struttuta in acciaio. I pali sagomati conferiscono maggiore|2017/12/tenda-emerald-5-da-campeggio|data.oliviero.it/imgprodotto/tenda-emerald-5-da-campeggio_158524",
+"Tenda Namib Blu 6 da Campeggio|Le due camere contrapposte separate da un'ampia zona giorno centrale|2017/12/tenda-namib-blu-6-da-campeggio|data.oliviero.it/imgprodotto/tenda-namib-blu-6-da-campeggio_158538",
 "Busta Acquastop 2L|Sacche in nylon spalmato termosaldate con chiusura arrotolabile|2017/12/busta-acquastop-2l|data.oliviero.it/imgprodotto/busta-acquastop-2l-xs_108101",
 "Tenda Ready Steady 5 Gonfiabile da Campeggio|Tenda caratterizzata da un'innovativa struttura pneumatica al posto|2017/12/tenda-ready-steady-5-gonfiabile-da-campeggio|data.oliviero.it/imgprodotto/tenda-ready-steady-5-gonfiabile-da-campeggio_158517",
 "Zaino trekking Finisterre 38|Zaino dal profilo lineare e completo di tutte le dotazioni. Il dorso|2017/12/zaino-trekking-finisterre-38|data.oliviero.it/imgprodotto/zaino-trekking-finisterre-38-75734_171664",

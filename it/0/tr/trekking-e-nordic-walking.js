@@ -1,4 +1,8 @@
 Gr = [
+"Zaino Stelvio 55+10|Capacità : litri 55+10 Materiale : kodratex Struttura : wishbone|2017/12/zaino-stelvio-55+10|data.oliviero.it/imgprodotto/zaino-stelvio-55-10_87241",
+"Scarpe Trekking Ellipse 2 Aero W|Scarpe Trekking Ellipse 2 Aero W - 379206 Leggera e molto|2017/12/scarpe-trekking-ellipse-2-aero-w|data.oliviero.it/imgprodotto/scarpe-trekking-ellipse-2-aero-w-379206_145338",
+"Scarpe Trekking Spagna Sabbia|Scarpe da trekking Unisex Tomaia in tessuto tecnico traspirante con|2017/12/scarpe-trekking-spagna-sabbia|data.oliviero.it/imgprodotto/scarpe-trekking-spagna-sabbia-814_164481",
+"Scarpe Trekking Lavaredo GTX WS|Tomaia Pelle scamosciata WR 1,6 -1,8 mm, Tessuto Fodera Gore-Tex®|2017/12/scarpe-trekking-lavaredo-gtx-ws|data.oliviero.it/imgprodotto/scarpe-trekking-lavaredo-gtx-ws_169571",
 "Busta Acquastop 2L|Sacche in nylon spalmato termosaldate con chiusura arrotolabile|2017/12/busta-acquastop-2l|data.oliviero.it/imgprodotto/busta-acquastop-2l-xs_108101",
 "Zaino trekking Finisterre 38|Zaino dal profilo lineare e completo di tutte le dotazioni. Il dorso|2017/12/zaino-trekking-finisterre-38|data.oliviero.it/imgprodotto/zaino-trekking-finisterre-38-75734_171664",
 "Zaino Trekking K10|Zaino per uso quotidiano con alloggiamento per Tablet o per deposito|2017/12/zaino-trekking-k10|data.oliviero.it/imgprodotto/zaino-trekking-k10-10l_149163",

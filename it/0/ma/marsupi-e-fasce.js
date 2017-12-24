@@ -1,4 +1,7 @@
 Gr = [
+"Fascia Porta Bebè Carry Sling 510 cm Laguna|Fascia porta bebè Carry Sling Laguna 510 cm La Carry Sling di color|2017/12/fascia-porta-bebe-carry-sling-510-cm-laguna|data.oliviero.it/imgprodotto/fascia-porta-beb%C3%A8-carry-sling-510-cm-laguna_84014",
+"Fascia Porta Bebè Carry Sling 450 cm Lollipop|Fascia porta bebè Carry Sling Lollipop- 450 cm La Carry Sling di|2017/12/fascia-porta-bebe-carry-sling-450-cm-lollipop|data.oliviero.it/imgprodotto/fascia-porta-beb%C3%A8-carry-sling-450-cm-lollipop_83997",
+"Fascia portaenfant|Fascia in jersey di cotone che permette di portare il bebè in|2017/12/fascia-portaenfant|data.oliviero.it/imgprodotto/fascia-portaenfant_101735",
 "Fascia Porta Bebè Carry Sling 450 cm Kalahari|Fascia porta bebè Carry Sling Kalahari - 450 cm La Carry Sling di|2017/12/fascia-porta-bebe-carry-sling-450-cm-kalahari|data.oliviero.it/imgprodotto/fascia-porta-beb%C3%A8-carry-sling-450-cm-kalahari_84011",
 "Fascia Porta Bebè Carry Sling 510 cm Mystic|Fascia porta bebè Carry Sling Mystic 510 cm La Carry Sling di color|2017/12/fascia-porta-bebe-carry-sling-510-cm-mystic|data.oliviero.it/imgprodotto/fascia-porta-beb%C3%A8-carry-sling-510-cm-mystic_84049",
 "Fascia Porta Bebè Carry Baby Stone|Fascia porta bebè Carry Baby Stone Anche se realizzate in misura|2017/12/fascia-porta-bebe-carry-baby-stone|data.oliviero.it/imgprodotto/fascia-porta-beb%C3%A8-carry-baby-stone_152234",

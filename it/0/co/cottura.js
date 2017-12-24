@@ -1,4 +1,6 @@
 Gr = [
+"Termometro da cottura|Termometro da cottura in acciaio inossidabile per misurare la|2017/12/termometro-da-cottura|data.oliviero.it/imgprodotto/termometro-da-cottura_74030",
+"Piastra Teppanyaki 70 cm|Piastra Teppanyaki 70 cm Codice: 90.386 Descrizione : Piastra|2017/12/piastra-teppanyaki-70-cm|data.oliviero.it/imgprodotto/piastra-teppanyaki-70-cm-90-386_90334",
 "Fonduta Finland|I tempi di consegna sono di circa 10 giorni lavorativi Set per|2017/12/fonduta-finland|data.oliviero.it/imgprodotto/fonduta-finland_1315_big",
 "Piastra per tortine Salate|Piastra per torte Salate - 90.605 Caratteristiche Piastra in|2017/12/piastra-per-tortine-salate|data.oliviero.it/imgprodotto/piastra-per-tortine-salate-90-605_106094",
 "Forno 9L Rosso|Forno 9L Rosso Codice: 90.372 Descrizione : 9 L Elementi riscaldanti|2017/12/forno-9l-rosso|data.oliviero.it/imgprodotto/forno-9l-rosso-90-372_90329",

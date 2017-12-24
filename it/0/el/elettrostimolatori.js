@@ -1,4 +1,8 @@
 Gr = [
+"Elettrostimolatore Premium 150|Globus Premium 150 è l'elettrostimolatore che permette di ottenere|2017/12/elettrostimolatore-premium-150|data.oliviero.it/imgprodotto/elettrostimolatore-premium-150_159763",
+"Fascia per Elettrostimolatore Cefar Easy|Cintura taglia unica regolabile in neoprene da utilizzare con|2017/12/fascia-per-elettrostimolatore-cefar-easy|data.oliviero.it/imgprodotto/fascia-per-elettrostimolatore-cefar-easy_72300",
+"Massaggiatore Plantare|massaggiatore elettrico plantare ad azione massaggiante|2017/12/massaggiatore-plantare|data.oliviero.it/imgprodotto/massaggiatore-plantare_71346",
+"Pedana Vibrante G Vibe 100|Pedana vibrante sussultoria, frequenza da 15 a 55 Hz. Il motore da|2017/12/pedana-vibrante-g-vibe-100|data.oliviero.it/imgprodotto/pedana-vibrante-g-vibe-100_7191_big",
 "Cavi sdoppiatori|2 CAVETTI SDOPPIATORI per aumentare il numero degli elettrodi|2017/12/cavi-sdoppiatori|data.oliviero.it/imgprodotto/cavi-sdoppiatori_91287",
 "Elettrostimolatore My Stim 2 + kit 2012|La bellezza del corpo è l'espressione di uno stato di benessere e di|2017/12/elettrostimolatore-my-stim-2-+-kit-2012|data.oliviero.it/imgprodotto/elettrostimolatore-my-stim-2-kit-2012_71082",
 "Cuscino Massaggiante Massage Cushion|Cuscino massaggiante ad alimentazione elettrica, riscaldante|2017/12/cuscino-massaggiante-massage-cushion|data.oliviero.it/imgprodotto/cuscino-massaggiante-massage-cushion_71341",

@@ -1,4 +1,6 @@
 Gr = [
+"Scarpe Basket Ua Clutchfit Drive 3|La tecnologia ClutchFit® aggiornata respira, si tende e supporta il|2017/12/scarpe-basket-ua-clutchfit-drive-3|data.oliviero.it/imgprodotto/scarpe-basket-ua-clutchfit-drive-3-1269274-108_160539",
+"Scarpe Basket Jordan Ultra Fly 2|La scarpa da basket Jordan Ultra.Fly 2 - Uomo offre un comfort totale|2017/12/scarpe-basket-jordan-ultra-fly-2|data.oliviero.it/imgprodotto/scarpe-basket-jordan-ultra-fly-2_166513",
 "Canestro Phoenix|Il divertimento da spiaggia per bambini e ragazzi in un kit completo|2017/12/canestro-phoenix|data.oliviero.it/imgprodotto/canestro-phoenix_1751_big",
 "Canestro Boston|Boston è un tabellone da basket di qualità professionale e di misure|2017/12/canestro-boston|data.oliviero.it/imgprodotto/canestro-boston_1745_big",
 "Scarpe Basket Jordan|Parte della Fly Series, la scarpa da basket Jordan B. Fly - Uomo|2017/12/scarpe-basket-jordan|data.oliviero.it/imgprodotto/scarpe-basket-jordan_169664",

@@ -1,4 +1,13 @@
 Gr = [
+"Maglia Calcio Jr. Home Replica Juventus|Supera la difesa avversaria sfoggiando questa maglia da calcio junior|2017/12/maglia-calcio-jr-home-replica-juventus|data.oliviero.it/imgprodotto/maglia-calcio-jr-home-replica-juventus-ai6244_151723",
+"Maglia Home Replica Milan|Celebra la leggendaria storia del Milan. Ispirata alla divisa|2017/12/maglia-home-replica-milan|data.oliviero.it/imgprodotto/maglia-home-replica-milan_167019",
+"Porta Calcio Mod Italia Trasportabile Singola|PORTA CALCIO MOD. ITALIA TRASPORTABILE SINGOLA In alluminio|2017/12/porta-calcio-mod-italia-trasportabile-singola|data.oliviero.it/imgprodotto/porta-calcio-mod-italia-trasportabile-singola_79413",
+"Maglia Away Replica Juve|Per la Juventus niente è impossibile. Questa maglia da calcio|2017/12/maglia-away-replica-juve|data.oliviero.it/imgprodotto/maglia-away-replica-juve_167021",
+"Kick & Rush Set di 2 porte POR14|SET 2 PORTE KICK E RUSH DIMENSIONI 215 x 152 x 73 DELLA GARLANDO Una|2017/12/kick-rush-set-di-2-porte-por14|data.oliviero.it/imgprodotto/kick-%26-rush-set-di-2-porte-por14_3432_big",
+"Calzettoni Calcio Milano|Nel calcio scegliere il giusto abbigliamento è fondamentale, anche|2017/12/calzettoni-calcio-milano|data.oliviero.it/imgprodotto/calzettoni-calcio-milano-aj5905_159849",
+"Scarpe Calcetto Jr TiempoX Legend VI TF|La scarpa da calcio per erba sintetica Nike TiempoX Jr Legend VI FG|2017/12/scarpe-calcetto-jr-tiempox-legend-vi-tf|data.oliviero.it/imgprodotto/scarpe-calcetto-jr-tiempox-legend-vi-tf-819191-707_160752",
+"Pantaloncini AC Milan Home-Away Replica|Celebra gli anni d'oro del Milan sfoggiando questi short da calcio|2017/12/pantaloncini-ac-milan-home-away-replica|data.oliviero.it/imgprodotto/pantaloncini-ac-milan-home-away-replica_166972",
+"Scarpe Calcio X16.3 Firm Ground|I giocatori esplosivi riscrivono le regole. Sfreccia in campo|2017/12/scarpe-calcio-x16-3-firm-ground|data.oliviero.it/imgprodotto/scarpe-calcio-x16-3-firm-ground-s79483_151563",
 "Scarpe Calcio Jr. X 17.4 FxG J|Scarpe da calcio a tacchetti fissi da bambino / ragazzo di Adidas|2017/12/scarpe-calcio-jr-x-17-4-fxg-j|data.oliviero.it/imgprodotto/scarpe-calcio-jr-x-17-4-fxg-j_167418",
 "Pallone Calcio UCL Finale 16 Capitano|Imponi il tuo ritmo in campo con questo robusto pallone pensato per|2017/12/pallone-calcio-ucl-finale-16-capitano|data.oliviero.it/imgprodotto/pallone-calcio-ucl-finale-16-capitano-ap0375_154552",
 "Scarpe Calcetto Jr. Mercurialx Victory VI TF|Progettata con tomaia testurizzata e suola in gomma antitraccia, la|2017/12/scarpe-calcetto-jr-mercurialx-victory-vi-tf|data.oliviero.it/imgprodotto/scarpe-calcetto-jr-mercurialx-victory-vi-tf_167094",

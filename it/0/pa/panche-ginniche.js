@@ -1,4 +1,8 @@
 Gr = [
+"Smith Machine Jk 6067|Massimo peso caricabile 150 Kg Dimensione tubi 60 x 60 x 3 mm|2017/12/smith-machine-jk-6067|data.oliviero.it/imgprodotto/smith-machine-jk-6067_173191",
+"Panca Gravitazionale Turning Slim|Everfit Turning Slim è la nuova panca inversione regolabile in|2017/12/panca-gravitazionale-turning-slim|data.oliviero.it/imgprodotto/panca-gravitazionale-turning-slim_90149",
+"Panca Inversione Force Inversion Power|Panca antigravitazionale, studiata per l'allungamento dei muscoli|2017/12/panca-inversione-force-inversion-power|data.oliviero.it/imgprodotto/panca-inversione-force-inversion-power_168734",
+"Panca Inversione Force Inversion|Panca antigravitazionale, studiata per l'allungamento dei muscoli|2017/12/panca-inversione-force-inversion|data.oliviero.it/imgprodotto/panca-inversione-force-inversion_172769",
 "Panca Alpha Pro|NUOVO ALPHA PRO 07708-110 CERTIFICAZIONE SEMI PROFESSIONALE La panca|2017/12/panca-alpha-pro|data.oliviero.it/imgprodotto/panca-alpha-pro_90363",
 "Panca Ginnica Bench Pro|Panca Ginnica Bench Pro con SUPPORTO BILANCIERE, LEG CURL, LEG|2017/12/panca-ginnica-bench-pro|data.oliviero.it/imgprodotto/panca-ginnica-bench-pro_143359",
 "Panca Inversione JK6015|Regolazione altezza 145-200 cm Spessore imbottiture 35 mm Impugnature|2017/12/panca-inversione-jk6015|data.oliviero.it/imgprodotto/panca-inversione-jk6015_173197",

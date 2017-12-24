@@ -1,4 +1,8 @@
 Gr = [
+"Caminetto da muro o appoggio FP 011|Caminetti da muro/appoggio FP/011 Caminetto a bioetanolo, da muro|2017/12/caminetto-da-muro-o-appoggio-fp-011|data.oliviero.it/imgprodotto/caminetto-da-muro-o-appoggio-fp-011_94254",
+"Caminetto da muro FP 022|Caminetti da muro FP/022 Caminetto a bioetanolo, struttura in MDF|2017/12/caminetto-da-muro-fp-022|data.oliviero.it/imgprodotto/caminetto-da-muro-fp-022_136004",
+"Caminetto da muro FP 013|Caminetti da muro FP/013 Caminetto a bioetanolo da muro in metallo|2017/12/caminetto-da-muro-fp-013|data.oliviero.it/imgprodotto/caminetto-da-muro-fp-013_94251",
+"Caminetto a Bioetanolo PUCK|Camino a bioetanolo \"PUCK\" bruciatore in acciaio pareti laterali|2017/12/caminetto-a-bioetanolo-puck|data.oliviero.it/imgprodotto/caminetto-a-bioetanolo-puck_139506",
 "Caminetto da muro FP 015|Caminetti da muro FP/015 Caminetto a bioetanolo, struttura in MDF|2017/12/caminetto-da-muro-fp-015|data.oliviero.it/imgprodotto/caminetto-da-muro-fp-015_136003",
 "Caminetto da muro FP 010|Caminetti da muro FP/010 Caminetto a bioetanolo da muro in metallo|2017/12/caminetto-da-muro-fp-010|data.oliviero.it/imgprodotto/caminetto-da-muro-fp-010_94252",
 "CAMINETTO A BIOETANOLO WARM|Camino a bioetanolo \"WARM\" bruciatore in acciaio, coprifiamma in|2017/12/caminetto-a-bioetanolo-warm|data.oliviero.it/imgprodotto/caminetto-a-bioetanolo-warm_139505",

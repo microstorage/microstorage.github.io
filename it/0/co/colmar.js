@@ -1,4 +1,11 @@
 Gr = [
+"Maglia Termica Donna mezza Zip Blu Notte|Collezione Autunno Inverno/2018 Maglia termica donna in pile|2017/12/maglia-termica-donna-mezza-zip-blu-notte|data.oliviero.it/imgprodotto/maglia-termica-donna-mezza-zip-blu-notte_170479",
+"Giacca da Sci Uomo Jackson Hole|Collezione Autunno Inverno/2018 Libertà di movimento e tagli|2017/12/giacca-da-sci-uomo-jackson-hole|data.oliviero.it/imgprodotto/giacca-da-sci-uomo-jackson-hole_170436",
+"Felpa Mezza Zip Donna Grigio|Collezione Autunno Inverno/2018 Maglia termica donna in felpa effetto|2017/12/felpa-mezza-zip-donna-grigio|data.oliviero.it/imgprodotto/felpa-mezza-zip-donna-grigio_171782",
+"Piumino Outdoor Uomo Nero|Collezione Autunno Inverno/2018 Giacca da uomo tecnica, calda|2017/12/piumino-outdoor-uomo-nero|data.oliviero.it/imgprodotto/piumino-outdoor-uomo-nero_171793",
+"Giacca da Sci uomo Greenland|Collezione Autunno Inverno/2018 La giacca sci uomo Greenland, della|2017/12/giacca-da-sci-uomo-greenland|data.oliviero.it/imgprodotto/giacca-da-sci-uomo-greenland_170434",
+"Cappello Donna Blu e Bianco|Collezione Autunno Inverno/2018 Cappello invernale da donna in|2017/12/cappello-donna-blu-e-bianco|data.oliviero.it/imgprodotto/cappello-donna-blu-e-bianco_170960",
+"Maglia Termica Uomo Nero|Ideale da indossare durante l'attività sportiva, la maglia termica|2017/12/maglia-termica-uomo-nero|data.oliviero.it/imgprodotto/maglia-termica-uomo-nero-8333-7lo-99_171685",
 "Cappello Donna Blu|Collezione Autunno Inverno/2018 Cappello invernale da donna in|2017/12/cappello-donna-blu|data.oliviero.it/imgprodotto/cappello-donna-blu_171795",
 "Giacca Sci da Uomo Shuss|Collezione Autunno Inverno/2018 Ispirata ad uno dei passaggi tecnici|2017/12/giacca-sci-da-uomo-shuss|data.oliviero.it/imgprodotto/giacca-sci-da-uomo-shuss_170440",
 "Pile Uomo elasticizzato mezza zip|Collezione Autunno Inverno/2018 Maglia termica uomo in pile|2017/12/pile-uomo-elasticizzato-mezza-zip|data.oliviero.it/imgprodotto/pile-uomo-elasticizzato-mezza-zip_170477",

@@ -1,4 +1,5 @@
 Gr = [
+"Ellittica Andes 3 New|L'ellittica Andes 3 vi offre la possibilità di fare attività fisica|2017/12/ellittica-andes-3-new|data.oliviero.it/imgprodotto/ellittica-andes-3-new_154154",
 "Tapis Roulant Adventure 3 New|Con la nostra gamma di Tapis roulant raggiungi i tuoi obiettivi più|2017/12/tapis-roulant-adventure-3-new|data.oliviero.it/imgprodotto/tapis-roulant-adventure-3-new_154137",
 "Tapis Roulant Adventure 7 New|Progettato per alte performance, Adventure 7 ha un'area di corsa più|2017/12/tapis-roulant-adventure-7-new|data.oliviero.it/imgprodotto/tapis-roulant-adventure-7-new_154129",
 "Vogatore Oxfort 5|Il vogatore Oxford 5 ha una seduta larga e confortevole con guida di|2017/12/vogatore-oxfort-5|data.oliviero.it/imgprodotto/vogatore-oxfort-5_154159",

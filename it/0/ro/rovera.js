@@ -1,4 +1,6 @@
 Gr = [
+"Cintura Vibrante Vibro Sauna 656V vibrosauna|Cintura massaggiante e vibrante, con effetto sauna. La sua funzione|2017/12/cintura-vibrante-vibro-sauna-656v-vibrosauna|data.oliviero.it/imgprodotto/cintura-vibrante-vibro-sauna-656v-vibrosauna_71259",
+"Massaggiatore Plantare|massaggiatore elettrico plantare ad azione massaggiante|2017/12/massaggiatore-plantare|data.oliviero.it/imgprodotto/massaggiatore-plantare_71346",
 "Sacco boxe + Guantoni|Sacco + guanti da allenamento Caratteristiche : Completo boxe|2017/12/sacco-boxe-+-guantoni|data.oliviero.it/imgprodotto/sacco-boxe-guantoni_71355",
 "Panca Inversione TURN UP|Panca fitness ad inversione ideale per combattere i dolori alla|2017/12/panca-inversione-turn-up|data.oliviero.it/imgprodotto/panca-inversione-turn-up_71324",
 "Tavolo Ping Pong T914 Super Gara Indoor|MODELLO: TAVOLO PING PONG 'SUPER GARA' Tavolo montato su ruote|2017/12/tavolo-ping-pong-t914-super-gara-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-t914-super-gara-indoor_6990_big",

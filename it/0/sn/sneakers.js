@@ -1,4 +1,7 @@
 Gr = [
+"Scarpe con Ruote CruzX2|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/12/scarpe-con-ruote-cruzx2|data.oliviero.it/imgprodotto/scarpe-con-ruote-cruzx2-770498k_139610",
+"Scarpe Jr. Wheat|Collezione Autunno Inverno/2018 Quando è tempo di giocare, i piccoli|2017/12/scarpe-jr-wheat|data.oliviero.it/imgprodotto/scarpe-jr-wheat_171115",
+"Scarpe Jr. Kiwi Girl|Collezione Primavera Estate Trendy, cool e ideali per le bambine che|2017/12/scarpe-jr-kiwi-girl|data.oliviero.it/imgprodotto/scarpe-jr-kiwi-girl-j72d5b-c5000_162362",
 "Scarpe X PLR J|Ispirate al look progressive delle sneaker NMD, queste scarpe junior|2017/12/scarpe-x-plr-j|data.oliviero.it/imgprodotto/scarpe-x-plr-j_167053",
 "Scarpe con Ruote X2 Pow Lighted|Tomaia sintetica con linguetta e colletto imbottiti per un comfort|2017/12/scarpe-con-ruote-x2-pow-lighted|data.oliviero.it/imgprodotto/scarpe-con-ruote-x2-pow-lighted_173204",
 "Scarpe Gazelle J|Queste scarpe junior sono una perfetta riproduzione delle mitiche|2017/12/scarpe-gazelle-j|data.oliviero.it/imgprodotto/scarpe-gazelle-j_172200",

@@ -1,5 +1,18 @@
 Tt = "T-Shirt";
 Gr = [
+"T-Shirt Uomo Nero|La t-shirt Nike Swoosh Athlete - Uomo è realizzata in morbido tessuto|2017/12/t-shirt-uomo-nero|data.oliviero.it/imgprodotto/t-shirt-uomo-nero_169690",
+"T-Shirt da Basket Uomo Nero|La t-shirt da basket Nike Dry - Uomo è realizzata in tessuto|2017/12/t-shirt-da-basket-uomo-nero|data.oliviero.it/imgprodotto/t-shirt-da-basket-uomo-nero_167928",
+"T-Shirt Sportiva Uomo Bianco|La t-shirt Nike Sportswear - Uomo è realizzata in puro cotone per un|2017/12/t-shirt-sportiva-uomo-bianco|data.oliviero.it/imgprodotto/t-shirt-sportiva-uomo-bianco-827021-100_158069",
+"T-Shirt daTennis Nero|La t-shirt NikeCourt Rafael Nadal - Uomo è realizzata in morbido|2017/12/t-shirt-datennis-nero|data.oliviero.it/imgprodotto/t-shirt-datennis-nero_167936",
+"T-Shirt Uomo Verdone|Sfoggia con orgoglio la tua passione per adidas indossando questa|2017/12/t-shirt-uomo-verdone|data.oliviero.it/imgprodotto/t-shirt-uomo-verdone_168367",
+"T-shirt pretty|Collezione Primavera Estate Tipologia: T- shirt da donna Tessuto|2017/12/t-shirt-pretty|data.oliviero.it/imgprodotto/t-shirt-pretty_9624_big",
+"T-Shirt donna taglie forti uomo|Collezione : Primavera Estate Tipologia : T-Shirt Taglie comode con|2017/12/t-shirt-donna-taglie-forti-uomo|data.oliviero.it/imgprodotto/t-shirt-donna-taglie-forti-uomo-510-800_57550",
+"T-Shirt Uomo Nero ID Stadium Tee|Collezione Primavera Estate Questa T-shirt da uomo offre comfort|2017/12/t-shirt-uomo-nero-id-stadium-tee|data.oliviero.it/imgprodotto/t-shirt-uomo-nero-id-stadium-tee-s98714_159398",
+"T-Shirt donna 5352|Collezione Primavera Estate Tipologia: T-shirt da donna Tessuto|2017/12/t-shirt-donna-5352|data.oliviero.it/imgprodotto/t-shirt-donna-5352_7559_big",
+"T-Shirt Logo Rosso|Collezione Autunno Inverno/2018 Questa t-shirt girocollo con fit|2017/12/t-shirt-logo-rosso|data.oliviero.it/imgprodotto/t-shirt-logo-rosso_170627",
+"T-Shirt Uomo Nero Essentials Base Tee|Questa T-shirt da uomo è pensata per offrirti comfort e copertura. Il|2017/12/t-shirt-uomo-nero-essentials-base-tee|data.oliviero.it/imgprodotto/t-shirt-uomo-nero-essentials-base-tee-s98742_159406",
+"T-Shirt Uomo Nero Ess Linear Tee|Il cuore dell'Occidente. Mostra la tua passione per la Grande Mela|2017/12/t-shirt-uomo-nero-ess-linear-tee|data.oliviero.it/imgprodotto/t-shirt-uomo-nero-ess-linear-tee-s98731_162963",
+"T-Shirt donna W15021 T7865 82143|Collezione Liu Jo Jeans T-Shirt da donna dal tessuto leggero effetto|2017/12/t-shirt-donna-w15021-t7865-82143|data.oliviero.it/imgprodotto/t-shirt-donna-w15021-t7865-82143_146714",
 "T-Shirt Uomo Trefoil Nero|Collezione Primavera Estate Stile moderno e comfort si incontrano in|2017/12/t-shirt-uomo-trefoil-nero|data.oliviero.it/imgprodotto/t-shirt-uomo-trefoil-nero-ay7801_161988",
 "T-Shirt Uomo Navy Essentials Linear Tee|Se vuoi essere alla moda e farti notare ecco la t-shirt fatta per te|2017/12/t-shirt-uomo-navy-essentials-linear-tee|data.oliviero.it/imgprodotto/t-shirt-uomo-navy-essentials-linear-tee-s98732_159403",
 "Canotta gialla|Collezion: Primavera Estate Tipologia: Canotta da donna Tessuto|2017/12/canotta-gialla|data.oliviero.it/imgprodotto/canotta-gialla_61798",

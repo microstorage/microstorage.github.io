@@ -1,4 +1,10 @@
 Gr = [
+"Gilet Uomo Taglie Forti Denim|Collezione Autunno Inverno/2018 Gilet da uomo taglie forti. Il|2017/12/gilet-uomo-taglie-forti-denim|data.oliviero.it/imgprodotto/gilet-uomo-taglie-forti-denim_168599",
+"Maglia Taglie Forti Uomo Grigio|Collezione Autunno Inverno/2018 Maglia con scollo a V da uomo. Il|2017/12/maglia-taglie-forti-uomo-grigio|data.oliviero.it/imgprodotto/maglia-taglie-forti-uomo-grigio_171387",
+"Maglia Uomo Taglie Forti Mattone|Collezione Autunno Inverno/2018 Maglia da uomo taglie forti. Il|2017/12/maglia-uomo-taglie-forti-mattone|data.oliviero.it/imgprodotto/maglia-uomo-taglie-forti-mattone_169247",
+"Maglia Uomo Taglie Forti Nero|Collezione Primavera Estate Maglia da uomo taglie forti. Il modello|2017/12/maglia-uomo-taglie-forti-nero|data.oliviero.it/imgprodotto/maglia-uomo-taglie-forti-nero-21749-999_162607",
+"Gilet Taglie Forti Uomo Grafite|Collezione Autunno Inverno/2018 Gilet taglie forti uomo in pile. Il|2017/12/gilet-taglie-forti-uomo-grafite|data.oliviero.it/imgprodotto/gilet-taglie-forti-uomo-grafite_172151",
+"Lupetto Taglie Forti Uomo Verde|Collezione Autunno Inverno/2018 Lupetto da uomo taglie forti. Il|2017/12/lupetto-taglie-forti-uomo-verde|data.oliviero.it/imgprodotto/lupetto-taglie-forti-uomo-verde_169537",
 "Maglia taglie forti uomo|Collezione: Autunno Inverno Tipologia: Maglia Taglie Forti Uomo|2017/12/maglia-taglie-forti-uomo|data.oliviero.it/imgprodotto/maglia-taglie-forti-uomo-98100-090-005_18372_big",
 "Polo Taglie Forti Uomo Ocra|Collezione Autunno Inverno/2018 Polo uomo taglie forti. Il modello|2017/12/polo-taglie-forti-uomo-ocra|data.oliviero.it/imgprodotto/polo-taglie-forti-uomo-ocra_172209",
 "Gilet Taglie Forti Uomo Militare|Collezione Autunno Inverno/2018 Gilet taglie forti uomo. Il modello|2017/12/gilet-taglie-forti-uomo-militare|data.oliviero.it/imgprodotto/gilet-taglie-forti-uomo-militare_170325",

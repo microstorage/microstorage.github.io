@@ -1,4 +1,9 @@
 Gr = [
+"Flat Bench FB80|Caratteristiche Tecniche PANCA ADDOMINALE SI APPOGGI PER GAMBE SI|2017/12/flat-bench-fb80|data.oliviero.it/imgprodotto/flat-bench-fb80_171247",
+"Panca UB40 Utility Bench|Panca compatta Seduta ultra robusta Schienale regolabile su|2017/12/panca-ub40-utility-bench|data.oliviero.it/imgprodotto/panca-ub40-utility-bench_171177",
+"Power Tower PT80|Panca multifunzione per un allenamento completo del corpo PULL UP BAR|2017/12/power-tower-pt80|data.oliviero.it/imgprodotto/power-tower-pt80_171172",
+"Power Tower PT20|Caratteristiche Tecniche TELAIO IN ACCIAIO PULL UP BAR SI DIP STATION|2017/12/power-tower-pt20|data.oliviero.it/imgprodotto/power-tower-pt20_171311",
+"Panca Multifunzione SM80 Full Smith|Caratteristiche Tecniche Assembled dimensions (LWH cm)|2017/12/panca-multifunzione-sm80-full-smith|data.oliviero.it/imgprodotto/panca-multifunzione-sm80-full-smith_171184",
 "Utility Bench UB60|Caratteristiche Tecniche REGOLAZIONE ANGOLAZIONE SCHIENALE SI (6|2017/12/utility-bench-ub60|data.oliviero.it/imgprodotto/utility-bench-ub60_171214",
 "Weight Bench WB60|Caratteristiche tecniche REGOLAZIONE ALTEZZA SUPPORTI SI (6|2017/12/weight-bench-wb60|data.oliviero.it/imgprodotto/weight-bench-wb60_171301",
 "Cross Fit Rack WT60|La struttura Tunturi WT60 Cross Fitrack è stata ricoperta in acciaio|2017/12/cross-fit-rack-wt60|data.oliviero.it/imgprodotto/cross-fit-rack-wt60_171254",

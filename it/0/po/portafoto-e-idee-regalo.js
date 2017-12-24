@@ -1,4 +1,7 @@
 Gr = [
+"Print Frame Taupe|Baby Art è il leader mondiale nella distribuzione di prodotti unici|2017/12/print-frame-taupe|data.oliviero.it/imgprodotto/print-frame-taupe_52208",
+"Voyager imbottitura 3 lati|Il Piano Fasciatoio per Lettino Pali Voyager, è dotato di una|2017/12/voyager-imbottitura-3-lati|data.oliviero.it/imgprodotto/voyager-imbottitura-3-lati_125803",
+"Magic Box white & grey|Baby Art è il leader mondiale nella distribuzione di prodotti unici|2017/12/magic-box-white-grey|data.oliviero.it/imgprodotto/magic-box-white-%26-grey_109085",
 "Double print frame grey|Double print frame è una soluzuone originale per creare con il|2017/12/double-print-frame-grey|data.oliviero.it/imgprodotto/double-print-frame-grey_132095",
 "L'album Dei Ricordi Rosa|Dalla gravidanza al primo compleanno, seguendo tutti gli eventi più|2017/12/l-album-dei-ricordi-rosa|data.oliviero.it/imgprodotto/lalbum-dei-ricordi-rosa_154080",
 "My creative photo album|Baby Art My Creative Photo Album è un magnifico album che puoi|2017/12/my-creative-photo-album|data.oliviero.it/imgprodotto/my-creative-photo-album_132097",

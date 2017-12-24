@@ -1,4 +1,10 @@
 Gr = [
+"Casco street FLOWERS|Descrizione: Calotta interna : anti shock in EPS ad alta densità Made|2017/12/casco-street-flowers|data.oliviero.it/imgprodotto/casco-street-flowers_162414",
+"Scarpe con Ruote Dual Up X2|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/12/scarpe-con-ruote-dual-up-x2|data.oliviero.it/imgprodotto/scarpe-con-ruote-dual-up-x2-770947k_164208",
+"Monopattino Fun 150mm Rosso e Nero|Corri più veloce con il monopattino in alluminio FUN 150mm|2017/12/monopattino-fun-150mm-rosso-e-nero|data.oliviero.it/imgprodotto/monopattino-fun-150mm-rosso-e-nero_165277",
+"Roller Phoenix|Pattini regolabili da bambina. Il modello si regola in 4 misure così|2017/12/roller-phoenix|data.oliviero.it/imgprodotto/roller-phoenix_147570",
+"Skateboard Hula 30\"|Caratteristiche Stile di guida: Cruising, lunghezza: 76 cm|2017/12/skateboard-hula-30|data.oliviero.it/imgprodotto/skateboard-hula-30_165543",
+"Pattini Rookie Fruits|Pattini dallo stile retro e dalla struttura moderna Tomaia in mesh|2017/12/pattini-rookie-fruits|data.oliviero.it/imgprodotto/pattini-rookie-fruits_165824",
 "Pattini e Protezioni Spitfire Combo|Regolazione a pulsante, comfort e controllo eccellenti: ogni singolo|2017/12/pattini-e-protezioni-spitfire-combo|data.oliviero.it/imgprodotto/pattini-e-protezioni-spitfire-combo_173240",
 "Pattini e Protezioni Spitfire Combo G|Regolazione a pulsante, comfort e controllo eccellenti: ogni singolo|2017/12/pattini-e-protezioni-spitfire-combo-g|data.oliviero.it/imgprodotto/pattini-e-protezioni-spitfire-combo-g_173239",
 "Roller Zetrablade W|Comodo, semplice e costruito per durare. La calzata e le prestazioni|2017/12/roller-zetrablade-w|data.oliviero.it/imgprodotto/roller-zetrablade-w_171920",

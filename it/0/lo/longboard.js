@@ -1,4 +1,6 @@
 Gr = [
+"Longboard Mellow 41\"|Longboard Shore Crash Dimensione: 41\" x 9,25\" Colore: Ciano e azzurro|2017/12/longboard-mellow-41|data.oliviero.it/imgprodotto/longboard-mellow-41_125115",
+"Mini Longboard Maui|Longboard Maui 32\" Dimensione: 37\" x 9\" Carrello Alluminio Ruote 62|2017/12/mini-longboard-maui|data.oliviero.it/imgprodotto/mini-longboard-maui_151099",
 "Longboard Carve Aloha 40|Longboard Carve Aloha 40 Caratteristiche Materiale (7 Ply Can. Maple|2017/12/longboard-carve-aloha-40|data.oliviero.it/imgprodotto/longboard-carve-aloha-40_125544",
 "Skateboard Dollars and Diamonds 31,5\"|Skateboard Dollars and Diamonds Tavola: dt-4, pro shape, 31,5'x7,5'|2017/12/skateboard-dollars-and-diamonds-31-5|data.oliviero.it/imgprodotto/skateboard-dollars-and-diamonds-31-5_125120",
 "Longboard Calm Water 38\"|38\" Longboard \"Calm Water\" Serie California Dimensione: 38\" x 9,5\"|2017/12/longboard-calm-water-38|data.oliviero.it/imgprodotto/longboard-calm-water-38_125090",

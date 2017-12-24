@@ -1,4 +1,12 @@
 Gr = [
+"Giubbino Uomo Taglie Forti Blu|Collezione Autunno Inverno/2018 Giubbotto da uomo taglie forti. Il|2017/12/giubbino-uomo-taglie-forti-blu|data.oliviero.it/imgprodotto/giubbino-uomo-taglie-forti-blu_169330",
+"Maglia Uomo Taglie Forti Mattone|Collezione Autunno Inverno/2018 Maglia da uomo taglie forti. Il|2017/12/maglia-uomo-taglie-forti-mattone|data.oliviero.it/imgprodotto/maglia-uomo-taglie-forti-mattone_169247",
+"Giubbotto Uomo Limone Acerbo|Collezione Primavera Estate Giubbotto da uomo in tessuto Il modello|2017/12/giubbotto-uomo-limone-acerbo|data.oliviero.it/imgprodotto/giubbotto-uomo-limone-acerbo-nv67010-211_158581",
+"Giubbino Uomo Taglie Forti Grigio|Collezione Autunno Inverno/2018 Piumino uomo taglie forti. Il modello|2017/12/giubbino-uomo-taglie-forti-grigio|data.oliviero.it/imgprodotto/giubbino-uomo-taglie-forti-grigio_170322",
+"Jeans Uomo Taglie Forti Grigio|Collezione Autunno Inverno/2018 Jeans uomo taglie forti. Il modello|2017/12/jeans-uomo-taglie-forti-grigio|data.oliviero.it/imgprodotto/jeans-uomo-taglie-forti-grigio-nv51047ad_169235",
+"Polo Uomo Bianco|Collezione Primavera Estate Polo da uomo con mezze maniche. Il|2017/12/polo-uomo-bianco|data.oliviero.it/imgprodotto/polo-uomo-bianco-nv82023-005_164624",
+"Pantalone Taglie Forti Uomo Acciaio|Collezione Autunno Inverno/2018 Pantalone in cotone stretch stampa|2017/12/pantalone-taglie-forti-uomo-acciaio|data.oliviero.it/imgprodotto/pantalone-taglie-forti-uomo-acciaio_169795",
+"Jeans Uomo Denim Blu|Collezione Primavera Estate Jeans Stretch da uomo Il modello presenta|2017/12/jeans-uomo-denim-blu|data.oliviero.it/imgprodotto/jeans-uomo-denim-blu-nv51020-001_158562",
 "Camicia Uomo Blu|Collezione Primavera Estate Camicia casual da uomo. Il modello|2017/12/camicia-uomo-blu|data.oliviero.it/imgprodotto/camicia-uomo-blu-n692040-001_164598",
 "Polo Taglie Forti Uomo Antracite|Collezione Autunno Inverno/2018 Polo maniche lunghe da uomo. Il|2017/12/polo-taglie-forti-uomo-antracite|data.oliviero.it/imgprodotto/polo-taglie-forti-uomo-antracite_169243",
 "Giubbotto Uomo Blu|Collezione Primavera Estate Giubbotto da uomo in tessuto Il modello|2017/12/giubbotto-uomo-blu|data.oliviero.it/imgprodotto/giubbotto-uomo-blu-nv67011-001_158582",

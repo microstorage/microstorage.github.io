@@ -1,4 +1,5 @@
 Gr = [
+"Zaino Tennis Pure Backpack|Lo zaino da tennis Babolat Pure Backpack è una valida alterntiva per|2017/12/zaino-tennis-pure-backpack|data.oliviero.it/imgprodotto/zaino-tennis-pure-backpack_169176",
 "Racchetta Boost Aero|Leggerezza e maneggevolezza per la Baboat Boost Aero, una racchetta|2017/12/racchetta-boost-aero|data.oliviero.it/imgprodotto/racchetta-boost-aero-121182_161023",
 "Borsa Pure X 12 2017|La borsa da tennis Babolat Pure x 12 può contenere fino a 12|2017/12/borsa-pure-x-12-2017|data.oliviero.it/imgprodotto/borsa-pure-x-12-2017_167544",
 "Skin Feel Grip|Il grip Skin Feel è ultra sottile, grazie alla sua finezza consente|2017/12/skin-feel-grip|data.oliviero.it/imgprodotto/skin-feel-grip-670056-105_162206",

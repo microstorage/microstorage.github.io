@@ -1,4 +1,8 @@
 Gr = [
+"Guanti Ciclismo Bianco e Nero|Guanto RACE aerodinamico con imbottitura in GEL antishock, silicone|2017/12/guanti-ciclismo-bianco-e-nero|data.oliviero.it/imgprodotto/guanti-ciclismo-bianco-e-nero_165386",
+"Casco Ciclismo Fiamma Nero|Leggerissimo e dalla calzata avvolgente, il casco Fiamma garantisce|2017/12/casco-ciclismo-fiamma-nero|data.oliviero.it/imgprodotto/casco-ciclismo-fiamma-nero_165360",
+"Pantaloni Ciclismo Donna Nero|Collezione Primavera Estate Pantalone ¾ CICLOTURISMO ergonomico|2017/12/pantaloni-ciclismo-donna-nero|data.oliviero.it/imgprodotto/pantaloni-ciclismo-donna-nero_165332",
+"Gilet Ciclismo uomo Reflex|Grande qualità e alta visibilità per questo giubbetto antivento|2017/12/gilet-ciclismo-uomo-reflex|data.oliviero.it/imgprodotto/gilet-ciclismo-uomo-reflex-1101636-002_155274",
 "Cardiofrequenzimetro FT 7|Per coloro che desiderano sapere se si sta migliorando la forma|2017/12/cardiofrequenzimetro-ft-7|data.oliviero.it/imgprodotto/cardiofrequenzimetro-ft-7_15252_big",
 "Scarpe Ciclismo Phantom SRS Nero|Suola NRG Air Carbon Reinforced con indice di rigidità 8.0 e|2017/12/scarpe-ciclismo-phantom-srs-nero|data.oliviero.it/imgprodotto/scarpe-ciclismo-phantom-srs-nero-80171015_163195",
 "Guanti Illusion Glove|Collezione Primavera Estate Semplice, lineare, con grande vestibilità|2017/12/guanti-illusion-glove|data.oliviero.it/imgprodotto/guanti-illusion-glove-1101638-187_162771",

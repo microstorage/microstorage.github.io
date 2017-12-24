@@ -1,4 +1,9 @@
 Gr = [
+"Ellittica Rivo M Black Edition|RIVO M 07643-300 Fitness per tutti! Avvicinarsi al fitness è un gioco|2017/12/ellittica-rivo-m-black-edition|data.oliviero.it/imgprodotto/ellittica-rivo-m-black-edition_130308",
+"Vogatore Coach S|NUOVO COACH S 07975-170 Con il nuovo KETTLER COACH S si amplia la|2017/12/vogatore-coach-s|data.oliviero.it/imgprodotto/vogatore-coach-s_90370",
+"Ellittica Elliptical P NEW|ELLIPTICAL P 07649-500 Ellittica top di gamma per un allenamento|2017/12/ellittica-elliptical-p-new|data.oliviero.it/imgprodotto/ellittica-elliptical-p-new_130319",
+"Tavolo Ping Pong Outdoor 6|OUTDOOR 6 07177-900 Modello per uso ricreativo per utilizzatori di|2017/12/tavolo-ping-pong-outdoor-6|data.oliviero.it/imgprodotto/tavolo-ping-pong-outdoor-6_110126",
+"Tapis Roulant Run 11|Ha un ottimo nastro da corsa di dimensioni 51 × 152 cm che consente|2017/12/tapis-roulant-run-11|data.oliviero.it/imgprodotto/tapis-roulant-run-11_93239",
 "Panca Alpha Pro|NUOVO ALPHA PRO 07708-110 CERTIFICAZIONE SEMI PROFESSIONALE La panca|2017/12/panca-alpha-pro|data.oliviero.it/imgprodotto/panca-alpha-pro_90363",
 "Panca Addominali Athos|PANCHE DA ALLENAMENTO Le panche da allenamento Kettler sono dei veri|2017/12/panca-addominali-athos|data.oliviero.it/imgprodotto/panca-addominali-athos_130329",
 "Cyclette Cycle M LA accesso facilitato|CYCLE M LA07629-400 Modello di ingresso nel mondo KETTLER, la|2017/12/cyclette-cycle-m-la-accesso-facilitato|data.oliviero.it/imgprodotto/cyclette-cycle-m-la-accesso-facilitato_130294",

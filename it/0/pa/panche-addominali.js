@@ -1,4 +1,7 @@
 Gr = [
+"Panca Addominali JK 6000|Panca addominali molto resistente e richiudibile con 3 livelli di|2017/12/panca-addominali-jk-6000|data.oliviero.it/imgprodotto/panca-addominali-jk-6000_68411",
+"Flat Bench FB80|Caratteristiche Tecniche PANCA ADDOMINALE SI APPOGGI PER GAMBE SI|2017/12/flat-bench-fb80|data.oliviero.it/imgprodotto/flat-bench-fb80_171247",
+"Panca UB40 Utility Bench|Panca compatta Seduta ultra robusta Schienale regolabile su|2017/12/panca-ub40-utility-bench|data.oliviero.it/imgprodotto/panca-ub40-utility-bench_171177",
 "Panca Addominali Athos|PANCHE DA ALLENAMENTO Le panche da allenamento Kettler sono dei veri|2017/12/panca-addominali-athos|data.oliviero.it/imgprodotto/panca-addominali-athos_130329",
 "Supporto sacco per Power Tower 2|Il supporto sacco per power tower boxe 2 supporta sacchi fino a 50KG|2017/12/supporto-sacco-per-power-tower-2|data.oliviero.it/imgprodotto/supporto-sacco-per-power-tower-2_68797",
 "Utility Bench UB60|Caratteristiche Tecniche REGOLAZIONE ANGOLAZIONE SCHIENALE SI (6|2017/12/utility-bench-ub60|data.oliviero.it/imgprodotto/utility-bench-ub60_171214",

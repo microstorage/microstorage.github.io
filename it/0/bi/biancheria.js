@@ -1,4 +1,11 @@
 Gr = [
+"Completo Lenzuola Geometria Flan. Avio|Tessuto in flanella di puro cotone. Singolo Lenzuolo superiore|2017/12/completo-lenzuola-geometria-flan-avio|data.oliviero.it/imgprodotto/completo-lenzuola-geometria-flan-avio_169034",
+"Lenzuola Piane Pantone Smoked Pearl|Lenzuolo da sopra in puro cotone tinta unita, coordinabile con tutti|2017/12/lenzuola-piane-pantone-smoked-pearl|data.oliviero.it/imgprodotto/lenzuola-piane-pantone-smoked-pearl_115319",
+"Completo Lenzuola Welcome 240x280 cm|Bellissimo set di lenzuola per letto a due piazze moderno e giovane|2017/12/completo-lenzuola-welcome-240x280-cm|data.oliviero.it/imgprodotto/completo-lenzuola-welcome-240x280-cm_154097",
+"Scaldasonno Rapid Peluche|IMETEC SCALDASONNO RAPID PELUCHE 16273 I vantaggi della tecnologia|2017/12/scaldasonno-rapid-peluche|data.oliviero.it/imgprodotto/scaldasonno-rapid-peluche_154091",
+"Completo Lenzuola Flanella Minnie City|Tessuto di flanella Singolo Lenzuolo superiore 160x280 cm Lenzuolo|2017/12/completo-lenzuola-flanella-minnie-city|data.oliviero.it/imgprodotto/completo-lenzuola-flanella-minnie-city_168971",
+"Scaldaletto Matrimoniale Lana Sintetica Dolly|Scaldaletto Matrimoniale Lana Sintetica Dolly Codice: RI.412|2017/12/scaldaletto-matrimoniale-lana-sintetica-dolly|data.oliviero.it/imgprodotto/scaldaletto-matrimoniale-lana-sintetica-dolly_157374",
+"Completo Lenzuola Kiss Flan. Naturale|Tessuto in flanella di puro cotone. Singolo Lenzuolo superiore|2017/12/completo-lenzuola-kiss-flan-naturale|data.oliviero.it/imgprodotto/completo-lenzuola-kiss-flan-naturale_169032",
 "Completo Lenzuola Mille Righe Flanella|Tessuto in flanella di puro cotone. Singolo Lenzuolo superiore|2017/12/completo-lenzuola-mille-righe-flanella|data.oliviero.it/imgprodotto/completo-lenzuola-mille-righe-flanella_169027",
 "Lenzuola Angoli Pantone Vibrant Yellow|Lenzuolo da sotto con angoli in puro cotone tinta unita, coordinabile|2017/12/lenzuola-angoli-pantone-vibrant-yellow|data.oliviero.it/imgprodotto/lenzuola-angoli-pantone-vibrant-yellow_115334",
 "Completo Lenzuola Niki Ciclamino|Completo lenzuola composto da lenzuola da sotto, lenzuolo da sopra|2017/12/completo-lenzuola-niki-ciclamino|data.oliviero.it/imgprodotto/completo-lenzuola-niki-ciclamino_153855",

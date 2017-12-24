@@ -1,4 +1,8 @@
 Gr = [
+"Giubbotto Moto Rogue Tex Lady|Collezione: Primavera Estate Tipologia: Giacca Moto da donna Tessuto:|2017/12/giubbotto-moto-rogue-tex-lady|data.oliviero.it/imgprodotto/giubbotto-moto-rogue-tex-lady_83604",
+"Felpa Mezza Zip Donna Grigio|Collezione Autunno Inverno/2018 Maglia termica donna in felpa effetto|2017/12/felpa-mezza-zip-donna-grigio|data.oliviero.it/imgprodotto/felpa-mezza-zip-donna-grigio_171782",
+"Piumino Outdoor Uomo Nero|Collezione Autunno Inverno/2018 Giacca da uomo tecnica, calda|2017/12/piumino-outdoor-uomo-nero|data.oliviero.it/imgprodotto/piumino-outdoor-uomo-nero_171793",
+"Giacca da Sci uomo Greenland|Collezione Autunno Inverno/2018 La giacca sci uomo Greenland, della|2017/12/giacca-da-sci-uomo-greenland|data.oliviero.it/imgprodotto/giacca-da-sci-uomo-greenland_170434",
 "Giacca Sci da Uomo Shuss|Collezione Autunno Inverno/2018 Ispirata ad uno dei passaggi tecnici|2017/12/giacca-sci-da-uomo-shuss|data.oliviero.it/imgprodotto/giacca-sci-da-uomo-shuss_170440",
 "Pile Mezza Zip Donna Bianco|Collezione Autunno Inverno/2018 Maglia termica donna in pile|2017/12/pile-mezza-zip-donna-bianco|data.oliviero.it/imgprodotto/pile-mezza-zip-donna-bianco_171777",
 "Giacca da Moto Fandango|Nata da una collaborazione con la celebre rivista francese Café|2017/12/giacca-da-moto-fandango|data.oliviero.it/imgprodotto/giacca-da-moto-fandango-p136-026_149805",

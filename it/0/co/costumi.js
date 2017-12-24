@@ -1,4 +1,8 @@
 Gr = [
+"Bermuda mare uomo rosso 59118W0 Berry|Tipologia: Costume mare Uomo Tessuto: 100% Nylon Vestibilità:|2017/12/bermuda-mare-uomo-rosso-59118w0-berry|data.oliviero.it/imgprodotto/bermuda-mare-uomo-rosso-59118w0-berry_56795",
+"Costume Nuoto Donna Essence Core 3S 2PC|Collezione Primavera Estate Perfetto per nuotare in piscina o nel|2017/12/costume-nuoto-donna-essence-core-3s-2pc|data.oliviero.it/imgprodotto/costume-nuoto-donna-essence-core-3s-2pc-bp5482_159420",
+"Costume Nuoto Uomo Bluette Essence Core 3S|Collezione Primavera Estate Mix perfetto di comfort e prestazioni|2017/12/costume-nuoto-uomo-bluette-essence-core-3s|data.oliviero.it/imgprodotto/costume-nuoto-uomo-bluette-essence-core-3s-bq0630_159429",
+"Costume donna 3 Stripes One Piece|Collezione Primavera Estate Costume da Donna Batti ogni record|2017/12/costume-donna-3-stripes-one-piece|data.oliviero.it/imgprodotto/costume-donna-3-stripes-one-piece-s93088_142875",
 "Costume Bambina Astropop Allover Splashback|Costume da bambina dal design accattivante e dal tessuto resistente|2017/12/costume-bambina-astropop-allover-splashback|data.oliviero.it/imgprodotto/costume-bambina-astropop-allover-splashback-807386b483_161102",
 "Costume Donna Sculpture LunaLustre Nero e Rosso|Stampe eleganti, disegnate su misura per essere eleganti anche mentre|2017/12/costume-donna-sculpture-lunalustre-nero-e-rosso|data.oliviero.it/imgprodotto/costume-donna-sculpture-lunalustre-nero-e-rosso-810835b346_161099",
 "Costume Baby Rosa Tidal Idol Essential Frill|Resistente, confortevole, colorato, e grazie alla tecnologia del suo|2017/12/costume-baby-rosa-tidal-idol-essential-frill|data.oliviero.it/imgprodotto/costume-baby-rosa-tidal-idol-essential-frill-807972b430_161104",

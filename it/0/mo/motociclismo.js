@@ -1,4 +1,11 @@
 Gr = [
+"Guanti da Moto TX-2|Spidi TX-2 è la nuova frontiera del guanto per il turismo avventura|2017/12/guanti-da-moto-tx-2|data.oliviero.it/imgprodotto/guanti-da-moto-tx-2-c69-026_149836",
+"Giubbotto Moto Rogue Tex Lady|Collezione: Primavera Estate Tipologia: Giacca Moto da donna Tessuto:|2017/12/giubbotto-moto-rogue-tex-lady|data.oliviero.it/imgprodotto/giubbotto-moto-rogue-tex-lady_83604",
+"Casco da moto Jet Fluid Multi Black Fucsia|CARATTERISTICHE GENERALI VISIERA Attenzione: il casco viene venduto|2017/12/casco-da-moto-jet-fluid-multi-black-fucsia|data.oliviero.it/imgprodotto/casco-da-moto-jet-fluid-multi-black-fucsia-4811a2g0-008_149376",
+"Copriscarpa X-Cover|Un comodo accessorio pioggia, può essere conservato in poco spazio|2017/12/copriscarpa-x-cover|data.oliviero.it/imgprodotto/copriscarpa-x-cover_83630",
+"Protezioni Moto Warrior Belt Low|Questo protettore lombare utilizza la tecnologia Warrior|2017/12/protezioni-moto-warrior-belt-low|data.oliviero.it/imgprodotto/protezioni-moto-warrior-belt-low_83697",
+"Scarpe Moto X-Ultra WRS Wind S67|Le scarpe da strada più veloce al mondo grazie alla microfibra|2017/12/scarpe-moto-x-ultra-wrs-wind-s67|data.oliviero.it/imgprodotto/scarpe-moto-x-ultra-wrs-wind-s67_83702",
+"Guanti da Moto TXR|TXR di Spidi è un guanto studiato per assecondare diversi stili di|2017/12/guanti-da-moto-txr|data.oliviero.it/imgprodotto/guanti-da-moto-txr_165747",
 "Pantalone da Moto in tessuto Ronin|Ronin è un pantalone tecnico da moto studiato per offrire ai|2017/12/pantalone-da-moto-in-tessuto-ronin|data.oliviero.it/imgprodotto/pantalone-da-moto-in-tessuto-ronin-j51-026_149847",
 "Giacca da Moto Fandango|Nata da una collaborazione con la celebre rivista francese Café|2017/12/giacca-da-moto-fandango|data.oliviero.it/imgprodotto/giacca-da-moto-fandango-p136-026_149805",
 "Giacca da Moto H2Out Traveler|Traveler è una giacca impermeabile e termica da moto che, grazie al|2017/12/giacca-da-moto-h2out-traveler|data.oliviero.it/imgprodotto/giacca-da-moto-h2out-traveler-d147-087_164820",

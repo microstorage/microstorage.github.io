@@ -1,4 +1,8 @@
 Gr = [
+"Casco Sci Nomad LF Dark Green|Il Nomad LF di Atomic è uno dei nostri caschi da sci più venduti, un|2017/12/casco-sci-nomad-lf-dark-green|data.oliviero.it/imgprodotto/casco-sci-nomad-lf-dark-green-an5005220_157646",
+"Maschera Sci Savor S Stereo|Gli occhiali Atomic Savor S offrono super comfort e valore. Si|2017/12/maschera-sci-savor-s-stereo|data.oliviero.it/imgprodotto/maschera-sci-savor-s-stereo_171755",
+"Maschera Sci Savor M Stereo|Maschera versatile, per un campo di visione, una vestibilità e una|2017/12/maschera-sci-savor-m-stereo|data.oliviero.it/imgprodotto/maschera-sci-savor-m-stereo_171760",
+"Casco Sci Nomad LF Dark Blue|Il Nomad LF di Atomic è uno dei nostri caschi da sci più venduti, un|2017/12/casco-sci-nomad-lf-dark-blue|data.oliviero.it/imgprodotto/casco-sci-nomad-lf-dark-blue-an5005218_157652",
 "Maschera Sci Savor M Stereo OTG|La nostra maschera Savor M Stereo ha un super confort, è super cool|2017/12/maschera-sci-savor-m-stereo-otg|data.oliviero.it/imgprodotto/maschera-sci-savor-m-stereo-otg_171763",
 "Scarponi Sci Hawx Prime 80 W|LHawx Magna 80 W è uno degli scarponi custom della nostra nuova|2017/12/scarponi-sci-hawx-prime-80-w|data.oliviero.it/imgprodotto/scarponi-sci-hawx-prime-80-w_156443",
 "Sci Vantage X83 CTI + Warden MNC 13|Il nuovo Atomic Vantage X 83 CTI è lo sci più largo della serie di|2017/12/sci-vantage-x83-cti-+-warden-mnc-13|data.oliviero.it/imgprodotto/sci-vantage-x83-cti-warden-mnc-13_156426",

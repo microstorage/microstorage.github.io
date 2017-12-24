@@ -1,4 +1,7 @@
 Gr = [
+"Caminetto da muro o appoggio FP 011|Caminetti da muro/appoggio FP/011 Caminetto a bioetanolo, da muro|2017/12/caminetto-da-muro-o-appoggio-fp-011|data.oliviero.it/imgprodotto/caminetto-da-muro-o-appoggio-fp-011_94254",
+"Caminetto da muro FP 022|Caminetti da muro FP/022 Caminetto a bioetanolo, struttura in MDF|2017/12/caminetto-da-muro-fp-022|data.oliviero.it/imgprodotto/caminetto-da-muro-fp-022_136004",
+"Caminetto da muro FP 013|Caminetti da muro FP/013 Caminetto a bioetanolo da muro in metallo|2017/12/caminetto-da-muro-fp-013|data.oliviero.it/imgprodotto/caminetto-da-muro-fp-013_94251",
 "Consolle Colours|Consolle COLOURS struttura realizzata in legno massello 3 cassetti|2017/12/consolle-colours|data.oliviero.it/imgprodotto/consolle-colours-weal023-multicolor_162091",
 "Poltrona Hollywood|Poltrona AVIO completamente realizzata in legno massello seduta|2017/12/poltrona-hollywood|data.oliviero.it/imgprodotto/poltrona-hollywood-weal007-legno-marrone_162049",
 "Caminetto da muro FP 015|Caminetti da muro FP/015 Caminetto a bioetanolo, struttura in MDF|2017/12/caminetto-da-muro-fp-015|data.oliviero.it/imgprodotto/caminetto-da-muro-fp-015_136003",

@@ -1,4 +1,7 @@
 Gr = [
+"Biberon 120 ml Vetro Natural|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-120-ml-vetro-natural|data.oliviero.it/imgprodotto/biberon-120-ml-vetro-natural_66812",
+"Scaldabiberon elettrico|Il modo rapido e sicuro per scaldare latte materno e alimenti per|2017/12/scaldabiberon-elettrico|data.oliviero.it/imgprodotto/scaldabiberon-elettrico_73761",
+"Piatto fondo piccolo|Perfetto per le prime pappe e gli spuntini. La base antiscivolo|2017/12/piatto-fondo-piccolo|data.oliviero.it/imgprodotto/piatto-fondo-piccolo_73906",
 "Tiralatte elettrico|Il compatto tiralatte elettronico Natural Avent stimola delicatamente|2017/12/tiralatte-elettrico|data.oliviero.it/imgprodotto/tiralatte-elettrico_66689",
 "Biberon 125 ml pp natural|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-125-ml-pp-natural|data.oliviero.it/imgprodotto/biberon-125-ml-pp-natural_66809",
 "Niplette per capezzoli introflessi|Efficace e facile da usare. I capezzoli introflessi, o senza|2017/12/niplette-per-capezzoli-introflessi|data.oliviero.it/imgprodotto/niplette-per-capezzoli-introflessi_138413",

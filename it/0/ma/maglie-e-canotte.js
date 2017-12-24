@@ -1,4 +1,8 @@
 Gr = [
+"Canotta Donna Nero|La canottiera adidas D2M Tank 3S si adatta perfettamente a tutte le|2017/12/canotta-donna-nero|data.oliviero.it/imgprodotto/canotta-donna-nero_168146",
+"Felpa Running Donna|La felpa adidas ZNE Hoodie 2 da donna è stata disegnata con il collo|2017/12/felpa-running-donna|data.oliviero.it/imgprodotto/felpa-running-donna_167962",
+"Felpa Uomo Arancio|Collezione Autunno Inverno/2018 Quando corri la mattina presto o la|2017/12/felpa-uomo-arancio|data.oliviero.it/imgprodotto/felpa-uomo-arancio_166898",
+"T-Shirt Running Donna Nero|La maglia a maniche corte da running Nike Dry Miler V-Neck|2017/12/t-shirt-running-donna-nero|data.oliviero.it/imgprodotto/t-shirt-running-donna-nero_167922",
 "T-Shirt Running Uomo|Questa maglia da running girocollo da uomo mantiene la pelle asciutta|2017/12/t-shirt-running-uomo|data.oliviero.it/imgprodotto/t-shirt-running-uomo_168495",
 "Maglia Running Uomo Grigio|Morbida e leggera, questa maglia da uomo assicura protezione|2017/12/maglia-running-uomo-grigio|data.oliviero.it/imgprodotto/maglia-running-uomo-grigio_168333",
 "T-Shirt Running Donna Blu Response Q1 Graphic Tee|Collezione Primavera Estate Caratterizzata da un stampa allover sulla|2017/12/t-shirt-running-donna-blu-response-q1-graphic-tee|data.oliviero.it/imgprodotto/t-shirt-running-donna-blu-response-q1-graphic-tee-az2858_159343",

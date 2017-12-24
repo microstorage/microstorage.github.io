@@ -1,4 +1,8 @@
 Gr = [
+"Racchetta Tennis Maria 25|Racchetta con piatto corde Concepita per la nuova generazione , ecco|2017/12/racchetta-tennis-maria-25|data.oliviero.it/imgprodotto/racchetta-tennis-maria-25-234506_154541",
+"Racchetta Tennis Graphene XT Extreme|Racchetta senza piatto corde La serie di racchette EXTREME abbina|2017/12/racchetta-tennis-graphene-xt-extreme|data.oliviero.it/imgprodotto/racchetta-tennis-graphene-xt-extreme-230725_154538",
+"Set di 2 racchette Hobby Senior|Set hobby composto da 2 racchette, 3 volani e custodia. Set completo|2017/12/set-di-2-racchette-hobby-senior|data.oliviero.it/imgprodotto/set-di-2-racchette-hobby-senior_8371_big",
+"Racchetta Premier NCT 5 Stelle|Racchetta Ping Pong Racchetta da Ping Pong Premier NCT (5 stelle) di|2017/12/racchetta-premier-nct-5-stelle|data.oliviero.it/imgprodotto/racchetta-premier-nct-5-stelle_8345_big",
 "Racchetta Tennis Maria 23|Racchetta con piatto corde Una racchetta violetto e blu della gamma|2017/12/racchetta-tennis-maria-23|data.oliviero.it/imgprodotto/racchetta-tennis-maria-23-234516_154540",
 "Racchetta Boost Aero|Leggerezza e maneggevolezza per la Baboat Boost Aero, una racchetta|2017/12/racchetta-boost-aero|data.oliviero.it/imgprodotto/racchetta-boost-aero-121182_161023",
 "Racchetta Impax ACS 2 Stelle|Racchetta Ping Pong Caratteristiche tecniche Struttura in compensato|2017/12/racchetta-impax-acs-2-stelle|data.oliviero.it/imgprodotto/racchetta-impax-acs-2-stelle_8328_big",

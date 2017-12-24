@@ -1,4 +1,7 @@
 Gr = [
+"Giacca Cuoca Lady Euro|Colore : Bianco e Blu Composizione : tessuto 100% cotone Dimensioni|2017/12/giacca-cuoca-lady-euro|data.oliviero.it/imgprodotto/giacca-cuoca-lady-euro_150870",
+"Giacca Cuoco Livorno Taglie Forti|Colore : Bianco Composizione : tessuto 100% cotone Dimensioni :|2017/12/giacca-cuoco-livorno-taglie-forti|data.oliviero.it/imgprodotto/giacca-cuoco-livorno-taglie-forti_1640_big",
+"Giacca Cuoco Donna|Colore base : Biancoo Profili : Nero Composizione : Tessuto Gabardina|2017/12/giacca-cuoco-donna|data.oliviero.it/imgprodotto/giacca-cuoco-donna_78996",
 "Pantaloni Cuoco Blu|Modello con passanti in vita chiusura con due bottoni e zip. due|2017/12/pantaloni-cuoco-blu|data.oliviero.it/imgprodotto/pantaloni-cuoco-blu-064102_151132",
 "Pantaloni Cuoco Roller|Modello con passanti in vita chiusura con due bottoni e zip. due|2017/12/pantaloni-cuoco-roller|data.oliviero.it/imgprodotto/pantaloni-cuoco-roller-064100_151130",
 "Giacca Cuoco Bottoni a Pressione|Colore : Grigio e bianco Composizione : tessuto 100% cotone|2017/12/giacca-cuoco-bottoni-a-pressione|data.oliviero.it/imgprodotto/giacca-cuoco-bottoni-a-pressione_2591_big",

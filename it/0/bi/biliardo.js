@@ -1,4 +1,5 @@
 Gr = [
+"Biliardo Chicago 5|Tavolo da pool dedicato a chi ha poco spazio in casa e vuole avviarsi|2017/12/biliardo-chicago-5|data.oliviero.it/imgprodotto/biliardo-chicago-5_71988",
 "Biliardo Dallas|Tavolo da pool dalla linea snella ed elegante, indicato per chi ha|2017/12/biliardo-dallas|data.oliviero.it/imgprodotto/biliardo-dallas_8402_big",
 "Piane di Copertura ALEXANDRA 8|Piane di copertura in nobilitato melaminico (spessore mm. 20) in|2017/12/piane-di-copertura-alexandra-8|data.oliviero.it/imgprodotto/piane-di-copertura-alexandra-8_73393",
 "Biliardo Alexandra 6 Mdf|Alexandra è l'ultima creazione Garlando in fatto di biliardi per la|2017/12/biliardo-alexandra-6-mdf|data.oliviero.it/imgprodotto/biliardo-alexandra-6-mdf_48873_big",

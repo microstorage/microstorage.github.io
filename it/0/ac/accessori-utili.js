@@ -1,4 +1,11 @@
 Gr = [
+"Rotella Tagliapasta Delicia|Vuoi realizzare dei ravioli perfetti? La rotella taglia la pasta|2017/12/rotella-tagliapasta-delicia|data.oliviero.it/imgprodotto/rotella-tagliapasta-delicia-630020_157747",
+"8 Barattoli Portaspezie con supporto girevole|I porta spezie più eleganti ti permettono di conservarle|2017/12/8-barattoli-portaspezie-con-supporto-girevole|data.oliviero.it/imgprodotto/8-barattoli-portaspezie-con-supporto-girevole-657066_157806",
+"Stampo per rosetta|Siamo grandi fan del 'fatto in casà, anche quando si parla di pane|2017/12/stampo-per-rosetta|data.oliviero.it/imgprodotto/stampo-per-rosetta-630105_157842",
+"3 Mini Contenitore quadrati|La sicurezza dei contenitori Freshbox, ora, la trovi anche in formato|2017/12/3-mini-contenitore-quadrati|data.oliviero.it/imgprodotto/3-mini-contenitore-quadrati-892048_155181",
+"Beccuccio versatore per olio e aceto 2pz|Il beccuccio versatore si adatta alla misura standard della maggior|2017/12/beccuccio-versatore-per-olio-e-aceto-2pz|data.oliviero.it/imgprodotto/beccuccio-versatore-per-olio-e-aceto-2pz-420690_157882",
+"Misurino graduato|Il misurino graduato in plastica colorata resistente è perfetto per|2017/12/misurino-graduato|data.oliviero.it/imgprodotto/misurino-graduato-420738_157886",
+"Scolatutto Estensibile|Lo scolatutto è un cestello estensibile per lavare frutta e verdura|2017/12/scolatutto-estensibile|data.oliviero.it/imgprodotto/scolatutto-estensibile_74156",
 "Pressofiltro 1 Lt|Preziosa, pressofiltro in alluminio da 1 litro. Un'infusione calda|2017/12/pressofiltro-1-lt|data.oliviero.it/imgprodotto/pressofiltro-1-lt_154724",
 "Reticolo tagliapasta per crostata|Vorresti preparare una crostata bella come quelle di pasticceria ma|2017/12/reticolo-tagliapasta-per-crostata|data.oliviero.it/imgprodotto/reticolo-tagliapasta-per-crostata-630898_157892",
 "Scolapiatti con vassoio|Ecco uno scolapiatti davvero universale: prodotto in plastica|2017/12/scolapiatti-con-vassoio|data.oliviero.it/imgprodotto/scolapiatti-con-vassoio_73993",

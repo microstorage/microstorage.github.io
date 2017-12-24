@@ -1,4 +1,6 @@
 Gr = [
+"Trimoto Pink Tattoo 6V|Trimoto elettrico, acceleratore apedale, freno motore, batteria|2017/12/trimoto-pink-tattoo-6v|data.oliviero.it/imgprodotto/trimoto-pink-tattoo-6v_82053",
+"Fantasy House Casetta|Casetta da gioco resistente e sicura, dotatadi porta apribile|2017/12/fantasy-house-casetta|data.oliviero.it/imgprodotto/fantasy-house-casetta_162207",
 "Motofeber topolino|Primi passi Disney personaggio Topolino per la prima infanzia, con|2017/12/motofeber-topolino|data.oliviero.it/imgprodotto/motofeber-topolino_106478",
 "Super Mega Slide con acqua Scivolo|Super scivolo di grandi dimensioni, con scaletta di salita|2017/12/super-mega-slide-con-acqua-scivolo|data.oliviero.it/imgprodotto/super-mega-slide-con-acqua-scivolo_162213",
 "Scivolo feber 10 con acqua|Scivolo pieghevole, resistente e sicuro grazie anche alle sponde|2017/12/scivolo-feber-10-con-acqua|data.oliviero.it/imgprodotto/scivolo-feber-10-con-acqua_114604",

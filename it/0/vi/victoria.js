@@ -1,4 +1,10 @@
 Gr = [
+"Sacca Oliviero|Caratterizzata da un design semplice e leggero, questa sacca sportiva|2017/12/sacca-oliviero|data.oliviero.it/imgprodotto/sacca-oliviero_165201",
+"Cyclette ST 105|La cyclette ST 105 è la soluzione ideale per l'home fitness con un|2017/12/cyclette-st-105|data.oliviero.it/imgprodotto/cyclette-st-105_142882",
+"Kit 180 Bilanciere + Manubri + 32 kg Pesi|Pacchetto Offerta composto da: Bilanciere 180 cm + Coppia di Manubri|2017/12/kit-180-bilanciere-+-manubri-+-32-kg-pesi|data.oliviero.it/imgprodotto/kit-180-bilanciere-manubri-32-kg-pesi_92918",
+"Pacchetto Pilates|Il Pacchetto Pilates comprende: Balance Board Regolabile, Balance|2017/12/pacchetto-pilates|data.oliviero.it/imgprodotto/pacchetto-pilates_158872",
+"Bilanciere cromato 150 cm|Bilanciere cromato creato per lo sviluppo di bicipiti e tricipiti|2017/12/bilanciere-cromato-150-cm|data.oliviero.it/imgprodotto/bilanciere-cromato-150-cm_151884",
+"Kettlebells 15KG|Le Kettlebells sono sfere in ghisa con una maniglia fissa. Questi|2017/12/kettlebells-15kg|data.oliviero.it/imgprodotto/kettlebells-15kg_52230",
 "Kit Tonificazione|Il pacchetto esercizi di tonificazione comprende: Thigh Master|2017/12/kit-tonificazione|data.oliviero.it/imgprodotto/kit-tonificazione_142906",
 "Panca Ginnica Bench Pro|Panca Ginnica Bench Pro con SUPPORTO BILANCIERE, LEG CURL, LEG|2017/12/panca-ginnica-bench-pro|data.oliviero.it/imgprodotto/panca-ginnica-bench-pro_143359",
 "Disco ghisa 10Kg|Disco peso in ghisa verniciata. Unica colorazione nero come da|2017/12/disco-ghisa-10kg|data.oliviero.it/imgprodotto/disco-ghisa-10kg_145897",

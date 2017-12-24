@@ -1,4 +1,5 @@
 Gr = [
+"Stender da parete PAKA|Stender da parete PAKA realizzato in legno massello laccato Bianco|2017/12/stender-da-parete-paka|data.oliviero.it/imgprodotto/stender-da-parete-paka_136056",
 "cassettiera con ruote BOBO|Cassettiera con ruote \"\"BOBO\"\" 3 cassetti realizzati in MDF laccati|2017/12/cassettiera-con-ruote-bobo|data.oliviero.it/imgprodotto/cassettiera-con-ruote-bobo_136095",
 "Stender con specchio jack|STENDER CON SPECCHIO DA INGRESSO \"JACK\" struttura in metallo finitura|2017/12/stender-con-specchio-jack|data.oliviero.it/imgprodotto/stender-con-specchio-jack_78270",
 "Scaffale Vetrina WOW WHITE|Scaffale / Vetrina WOW WHITE - realizzata in allumino Bianco - vetro|2017/12/scaffale-vetrina-wow-white|data.oliviero.it/imgprodotto/scaffale-vetrina-wow-white_135087",

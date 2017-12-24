@@ -1,4 +1,7 @@
 Gr = [
+"Guanti Ciclismo Bianco e Nero|Guanto RACE aerodinamico con imbottitura in GEL antishock, silicone|2017/12/guanti-ciclismo-bianco-e-nero|data.oliviero.it/imgprodotto/guanti-ciclismo-bianco-e-nero_165386",
+"Casco Ciclismo Fiamma Nero|Leggerissimo e dalla calzata avvolgente, il casco Fiamma garantisce|2017/12/casco-ciclismo-fiamma-nero|data.oliviero.it/imgprodotto/casco-ciclismo-fiamma-nero_165360",
+"Pantaloni Ciclismo Donna Nero|Collezione Primavera Estate Pantalone ¾ CICLOTURISMO ergonomico|2017/12/pantaloni-ciclismo-donna-nero|data.oliviero.it/imgprodotto/pantaloni-ciclismo-donna-nero_165332",
 "Pantaloncini Ciclismo Donna Nero e Bianco|Collezione Primavera Estate Pantaloncino ergonomico POLIVALENTE bici|2017/12/pantaloncini-ciclismo-donna-nero-e-bianco|data.oliviero.it/imgprodotto/pantaloncini-ciclismo-donna-nero-e-bianco_165329",
 "Casco Ciclismo Shire Nero|È il casco per tutti, che si adatta perfettamente alle diverse|2017/12/casco-ciclismo-shire-nero|data.oliviero.it/imgprodotto/casco-ciclismo-shire-nero_165349",
 "Pantaloncini Ciclismo Donna Nero e Rosso|Collezione Primavera Estate Pantaloncino ergonomico POLIVALENTE bici|2017/12/pantaloncini-ciclismo-donna-nero-e-rosso|data.oliviero.it/imgprodotto/pantaloncini-ciclismo-donna-nero-e-rosso_165330",

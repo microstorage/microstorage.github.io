@@ -1,4 +1,10 @@
 Gr = [
+"Palline colorate 100pz|Le 100 Palline multicolore possono essere utilizzate per aggiungere|2017/12/palline-colorate-100pz|data.oliviero.it/imgprodotto/palline-colorate-100pz-49602_148630",
+"Fantasy House Casetta|Casetta da gioco resistente e sicura, dotatadi porta apribile|2017/12/fantasy-house-casetta|data.oliviero.it/imgprodotto/fantasy-house-casetta_162207",
+"Secchiello Summer Time|Età consigliata: 1+ Set per la per la spiaggia con decoro Ice Cream|2017/12/secchiello-summer-time|data.oliviero.it/imgprodotto/secchiello-summer-time_165822",
+"Altalena Medium Swing|Dim. cm 205 x 200 x 170h. - 2 seggiolini inclusi(uno per bimbi più|2017/12/altalena-medium-swing|data.oliviero.it/imgprodotto/altalena-medium-swing_10478_big",
+"All Around 2016 Boy|All around boy nuovo gioco cavalcabile, presenta ruote piroettanti|2017/12/all-around-2016-boy|data.oliviero.it/imgprodotto/all-around-2016-boy-00007347020000_155593",
+"Piscina Family 305x183x56|Piscina Family in cui tutta la famiglia può divertirsi insieme|2017/12/piscina-family-305x183x56|data.oliviero.it/imgprodotto/piscina-family-305x183x56-56484_148591",
 "Super Mega Slide con acqua Scivolo|Super scivolo di grandi dimensioni, con scaletta di salita|2017/12/super-mega-slide-con-acqua-scivolo|data.oliviero.it/imgprodotto/super-mega-slide-con-acqua-scivolo_162213",
 "Scivolo feber 10 con acqua|Scivolo pieghevole, resistente e sicuro grazie anche alle sponde|2017/12/scivolo-feber-10-con-acqua|data.oliviero.it/imgprodotto/scivolo-feber-10-con-acqua_114604",
 "Altalena Feber con Parasole|Altalena dotata di struttura portante e di tendalino parasole|2017/12/altalena-feber-con-parasole|data.oliviero.it/imgprodotto/altalena-feber-con-parasole_164418",

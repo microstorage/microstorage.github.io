@@ -1,4 +1,5 @@
 Gr = [
+"Giacomo Agostini Cap Vintage|Un cappellino che celebra i quindici titoli mondiali del più|2017/12/giacomo-agostini-cap-vintage|data.oliviero.it/imgprodotto/giacomo-agostini-cap-vintage_93378",
 "Tazza Giacomo Agostini|Una tazza per iniziare ogni giornata insieme al quindici volte|2017/12/tazza-giacomo-agostini|data.oliviero.it/imgprodotto/tazza-giacomo-agostini_93391",
 "T-shirt uomo Mention Manica Lunga Giacomo Agostini|Giacomo Agostini ci ha raccontato con una frase semplice cosa sia per|2017/12/t-shirt-uomo-mention-manica-lunga-giacomo-agostini|data.oliviero.it/imgprodotto/t-shirt-uomo-mention-manica-lunga-giacomo-agostini_93401",
 "Polo uomo blu classic navy manica corta|Una polo casual, raffinata, colore Navy Autografata da Agostini|2017/12/polo-uomo-blu-classic-navy-manica-corta|data.oliviero.it/imgprodotto/polo-uomo-blu-classic-navy-manica-corta_93393",

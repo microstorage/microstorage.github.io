@@ -1,4 +1,7 @@
 Gr = [
+"T-Shirt Bambina Giallo|Collezione Primavera Estate In morbido jersey Stondata sul fondo|2017/12/t-shirt-bambina-giallo|data.oliviero.it/imgprodotto/t-shirt-bambina-giallo-171mifn010_163709",
+"Pantalone Bambino Fango|Collezione Primavera Estate Pantalone da bambino con allacciatura|2017/12/pantalone-bambino-fango|data.oliviero.it/imgprodotto/pantalone-bambino-fango-0s340_162147",
+"Camicia Ragazzo Stone Washed Chiaro|Collezione Primavera Estate Camicia da bambino con maniche lunghe. Il|2017/12/camicia-ragazzo-stone-washed-chiaro|data.oliviero.it/imgprodotto/camicia-ragazzo-stone-washed-chiaro-4s404-7400_158471",
 "Abito Bambina Beige|Collezione Primavera Estate Abito intero da bambina. Il modello|2017/12/abito-bambina-beige|data.oliviero.it/imgprodotto/abito-bambina-beige-0s422_162157",
 "Felpa Bambina Bianco|Collezione Primavera Estate Felpa casual da bambina. Il modello|2017/12/felpa-bambina-bianco|data.oliviero.it/imgprodotto/felpa-bambina-bianco-4s536-0113_158559",
 "Pantalone Bambino Bianco|Collezione Primavera Estate Pantalone da bambino Il modello presenta|2017/12/pantalone-bambino-bianco|data.oliviero.it/imgprodotto/pantalone-bambino-bianco-0s341_159251",

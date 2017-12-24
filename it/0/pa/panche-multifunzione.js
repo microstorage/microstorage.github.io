@@ -1,4 +1,9 @@
 Gr = [
+"Stazione Multi Builder 1.0|Stazione multifunzione al TOP DELLA GAMMA GetFit. Questa macchina|2017/12/stazione-multi-builder-1-0|data.oliviero.it/imgprodotto/stazione-multi-builder-1-0_172770",
+"Power Tower PT80|Panca multifunzione per un allenamento completo del corpo PULL UP BAR|2017/12/power-tower-pt80|data.oliviero.it/imgprodotto/power-tower-pt80_171172",
+"Power Tower PT20|Caratteristiche Tecniche TELAIO IN ACCIAIO PULL UP BAR SI DIP STATION|2017/12/power-tower-pt20|data.oliviero.it/imgprodotto/power-tower-pt20_171311",
+"Panca Multifunzione JK 6099 Eco|La panca polifunzionale JK Fitness è un modello dalle ottime|2017/12/panca-multifunzione-jk-6099-eco|data.oliviero.it/imgprodotto/panca-multifunzione-jk-6099-eco_170139",
+"Panca Multifunzione SM80 Full Smith|Caratteristiche Tecniche Assembled dimensions (LWH cm)|2017/12/panca-multifunzione-sm80-full-smith|data.oliviero.it/imgprodotto/panca-multifunzione-sm80-full-smith_171184",
 "Panca Multifunzione MultiPower|Stazione multifunzione semi-professionale, per allenamenti con|2017/12/panca-multifunzione-multipower|data.oliviero.it/imgprodotto/panca-multifunzione-multipower_168736",
 "Force Power Tower Boxe 2|Attrezzo multifunzione per addominali, dorsali, pettorali che|2017/12/force-power-tower-boxe-2|data.oliviero.it/imgprodotto/force-power-tower-boxe-2_68792",
 "Panca Multifunzione Force ST 5000|Panca Multifunzione ST 3300 Nuova stazione multiuso ST 3300 ottima|2017/12/panca-multifunzione-force-st-5000|data.oliviero.it/imgprodotto/panca-multifunzione-force-st-5000_168735",

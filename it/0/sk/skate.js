@@ -1,4 +1,9 @@
 Gr = [
+"Longboard Mellow 41\"|Longboard Shore Crash Dimensione: 41\" x 9,25\" Colore: Ciano e azzurro|2017/12/longboard-mellow-41|data.oliviero.it/imgprodotto/longboard-mellow-41_125115",
+"Skateboard FREEDOM PRO MILITARY|Descrizione: Dimensioni tavola : 57x15,2 cm Materiale tavola : ABS|2017/12/skateboard-freedom-pro-military|data.oliviero.it/imgprodotto/skateboard-freedom-pro-military_162376",
+"Mini Longboard Maui|Longboard Maui 32\" Dimensione: 37\" x 9\" Carrello Alluminio Ruote 62|2017/12/mini-longboard-maui|data.oliviero.it/imgprodotto/mini-longboard-maui_151099",
+"Skateboard Hula 30\"|Caratteristiche Stile di guida: Cruising, lunghezza: 76 cm|2017/12/skateboard-hula-30|data.oliviero.it/imgprodotto/skateboard-hula-30_165543",
+"Scarpe con Ruote Force|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/12/scarpe-con-ruote-force|data.oliviero.it/imgprodotto/scarpe-con-ruote-force-770836_157596",
 "Monopattino RAPTOR PRO 200 nero arancio|Descrizione: Pieghevole : salvaspazio Tracolla removibile : inclusa|2017/12/monopattino-raptor-pro-200-nero-arancio|data.oliviero.it/imgprodotto/monopattino-raptor-pro-200-nero-arancio_162386",
 "Longboard Carve Aloha 40|Longboard Carve Aloha 40 Caratteristiche Materiale (7 Ply Can. Maple|2017/12/longboard-carve-aloha-40|data.oliviero.it/imgprodotto/longboard-carve-aloha-40_125544",
 "Skateboard FREEDOM tavola nera|Descrizione: Dimensioni tavola : 57x15,2 cm Materiale tavola|2017/12/skateboard-freedom-tavola-nera|data.oliviero.it/imgprodotto/skateboard-freedom-tavola-nera-ruote-arancio_162374",

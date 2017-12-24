@@ -1,4 +1,5 @@
 Gr = [
+"Mocassini Uomo Blu|Collezione Primavera Estate Tipologia: mocassino uomo Materiale:|2017/12/mocassini-uomo-blu|data.oliviero.it/imgprodotto/mocassini-uomo-blu-7708200_163668",
 "Mocassini Donna Nero|Collezione Autunno Inverno/2018 Tipologia: slip on donna Materiale:|2017/12/mocassini-donna-nero|data.oliviero.it/imgprodotto/mocassini-donna-nero_168917",
 "Polacchino Donna Nero|Collezione Autunno Inverno/2018 Tipologia: polacchino donna|2017/12/polacchino-donna-nero|data.oliviero.it/imgprodotto/polacchino-donna-nero_168941",
 "Scarpe Uomo Nero|Collezione Autunno Inverno/2018 Materiale: pelle Colore: nero Fodera:|2017/12/scarpe-uomo-nero|data.oliviero.it/imgprodotto/scarpe-uomo-nero_168894",

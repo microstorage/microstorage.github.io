@@ -1,4 +1,10 @@
 Gr = [
+"Pantalone sportivo K2S4RK 00100|Collezione Le Coeur de Twin Set P antalone sportivo da donna con|2017/12/pantalone-sportivo-k2s4rk-00100|data.oliviero.it/imgprodotto/pantalone-sportivo-k2s4rk-00100_146923",
+"Pantaloni sportivi Donna Nero Leg a See Tight|I tights da training Nike - Donna sono realizzati in tessuto|2017/12/pantaloni-sportivi-donna-nero-leg-a-see-tight|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-nero-leg-a-see-tight-806927-010_158063",
+"Pantaloni Sportivi Donna Grigio Melange|Collezione Autunno Inverno/2018 pantalone con elastico e coulisse in|2017/12/pantaloni-sportivi-donna-grigio-melange|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-grigio-melange_170360",
+"Pantaloni Sportivi Uomo Blu Obsidian|Collezione Autunno Inverno/2018 I pantaloni in maglia con fit|2017/12/pantaloni-sportivi-uomo-blu-obsidian|data.oliviero.it/imgprodotto/pantaloni-sportivi-uomo-blu-obsidian_161830",
+"Pantaloncini Uomo Chelsea Panna|Collezione Primavera Estate Caratterizzati da un taglio ampio|2017/12/pantaloncini-uomo-chelsea-panna|data.oliviero.it/imgprodotto/pantaloncini-uomo-chelsea-panna_165280",
+"Pantalone Sportivo T15034 F0248 80322|Collezione Liu Jo Sport Pantalone sportivo da donna con elastico in|2017/12/pantalone-sportivo-t15034-f0248-80322|data.oliviero.it/imgprodotto/pantalone-sportivo-t15034-f0248-80322_146834",
 "Pantaloni Sportivi Donna Dark Grey|Collezione Autunno Inverno/2018 elastico e coulisse in vita|2017/12/pantaloni-sportivi-donna-dark-grey|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-dark-grey_170412",
 "Leggings Linear Donna Nero|Collezione Primavera Estate Questi leggings sono realizzati in jersey|2017/12/leggings-linear-donna-nero|data.oliviero.it/imgprodotto/leggings-linear-donna-nero-aj8081_162531",
 "Pantalone Sportivo Donna Nero|Collezione Autunno Inverno/2018 Il pantalone Converse Rubber Metal da|2017/12/pantalone-sportivo-donna-nero|data.oliviero.it/imgprodotto/pantalone-sportivo-donna-nero_171442",

@@ -1,4 +1,12 @@
 Gr = [
+"Sacca Oliviero|Caratterizzata da un design semplice e leggero, questa sacca sportiva|2017/12/sacca-oliviero|data.oliviero.it/imgprodotto/sacca-oliviero_165201",
+"Trolley 3201220 Medio|Valigia Rigida, 2 ruote Dimensioni: 32 x 64,5 x 34 cm Peso: 2,5 Kg|2017/12/trolley-3201220-medio|data.oliviero.it/imgprodotto/trolley-3201220-medio_63200",
+"Trolley 2 ruote Lining Viola e Silver|Trolley Struttura Super Light 2 ruote Lucchetto a combinazione con|2017/12/trolley-2-ruote-lining-viola-e-silver|data.oliviero.it/imgprodotto/trolley-2-ruote-lining-viola-e-silver_159468",
+"Trolley 2 ruote Lining Verde e Silver|Trolley Struttura Super Light 2 ruote Lucchetto a combinazione con|2017/12/trolley-2-ruote-lining-verde-e-silver|data.oliviero.it/imgprodotto/trolley-2-ruote-lining-verde-e-silver_159470",
+"Cappello Donna Blu e Bianco|Collezione Autunno Inverno/2018 Cappello invernale da donna in|2017/12/cappello-donna-blu-e-bianco|data.oliviero.it/imgprodotto/cappello-donna-blu-e-bianco_170960",
+"Trolley 25X10X30 Cm| Trolley di colore bianco e nero  Chiusura con coulisse e fibbia|2017/12/trolley-25x10x30-cm|data.oliviero.it/imgprodotto/trolley-25x10x30-cm_117169",
+"Trolley 101 PC 2R|La valigia in policarbonato, robusta ma leggera, compatta, raffinata|2017/12/trolley-101-pc-2r|data.oliviero.it/imgprodotto/trolley-101-pc-2r_157431",
+"Giacomo Agostini Cap Vintage|Un cappellino che celebra i quindici titoli mondiali del più|2017/12/giacomo-agostini-cap-vintage|data.oliviero.it/imgprodotto/giacomo-agostini-cap-vintage_93378",
 "Cappello Donna Blu|Collezione Autunno Inverno/2018 Cappello invernale da donna in|2017/12/cappello-donna-blu|data.oliviero.it/imgprodotto/cappello-donna-blu_171795",
 "Berretto Nike Navy|Questo cappello da tennis Nike Aerobill Featherlight è ideale per|2017/12/berretto-nike-navy|data.oliviero.it/imgprodotto/berretto-nike-navy_169734",
 "Zainetto per il Pranzo Bee|Zainetto per l'asilo, morbido e con un capiente vano principale|2017/12/zainetto-per-il-pranzo-bee|data.oliviero.it/imgprodotto/zainetto-per-il-pranzo-bee-skip-hop_140404",

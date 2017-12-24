@@ -1,4 +1,8 @@
 Gr = [
+"Scarponi Snowboard Launch Boa SJ|Quando lo street style incontra la tecnologia: gli scarponi da|2017/12/scarponi-snowboard-launch-boa-sj|data.oliviero.it/imgprodotto/scarponi-snowboard-launch-boa-sj_157954",
+"Scarponi Sci Next Edge XP|Scarponi sci Head Next Edge XP leggero, confortevole, caldo, di|2017/12/scarponi-sci-next-edge-xp|data.oliviero.it/imgprodotto/scarponi-sci-next-edge-xp_171320",
+"Scarponi Sci NXT N4|Il nuovo NXT N4 di Nordica è facile da calzare, completamente|2017/12/scarponi-sci-nxt-n4|data.oliviero.it/imgprodotto/scarponi-sci-nxt-n4-05032600_92512",
+"Scarponi Sci Vector Evo ST|Scarponi sci Head Vector Evo ST ideali per sciatori esperti, unisce|2017/12/scarponi-sci-vector-evo-st|data.oliviero.it/imgprodotto/scarponi-sci-vector-evo-st_171317",
 "Scarponi Sci Next Edge XP W|Scarponi sci Head Next Edge XP W leggero, confortevole, caldo, di|2017/12/scarponi-sci-next-edge-xp-w|data.oliviero.it/imgprodotto/scarponi-sci-next-edge-xp-w_171321",
 "Scarponi Sci Advant Edge 85 W|Personalizzazione, comfort e facilità d'uso definiscono l'Advant Edge|2017/12/scarponi-sci-advant-edge-85-w|data.oliviero.it/imgprodotto/scarponi-sci-advant-edge-85-w_171319",
 "Scarponi Snow Pearl|AUTO PILOT A tutto stile con la scarpa Pearl— Con scarpetta Silver|2017/12/scarponi-snow-pearl|data.oliviero.it/imgprodotto/scarponi-snow-pearl_94283",

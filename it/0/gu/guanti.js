@@ -1,4 +1,10 @@
 Gr = [
+"Guanto Karate Fit Boxe Gk095 Rosso|Guanti pro da karate ideali anche per la fit-boxe, indispensabili per|2017/12/guanto-karate-fit-boxe-gk095-rosso|data.oliviero.it/imgprodotto/guanto-karate-fit-boxe-gk095-rosso_19305_big",
+"Guanti Boxe in Pelle da competizione 10oz|Guanti da Boxe da competizione Caratteristiche: Strato esterno in|2017/12/guanti-boxe-in-pelle-da-competizione-10oz|data.oliviero.it/imgprodotto/guanti-boxe-in-pelle-da-competizione-10oz-s2ag-0312_92985",
+"Guanti Sacco Italy|Guanto in pelle particolarmente resistente ed anatomico, ideale per|2017/12/guanti-sacco-italy|data.oliviero.it/imgprodotto/guanti-sacco-italy_171395",
+"Guanto VIPER Fxx Bushido Edition 10oz|Caratteristiche: Genuine Leather pelle ultra morbida e liscia|2017/12/guanto-viper-fxx-bushido-edition-10oz|data.oliviero.it/imgprodotto/guanto-viper-fxx-bushido-edition-10oz_159697",
+"Guanti da Moto TXR|TXR di Spidi è un guanto studiato per assecondare diversi stili di|2017/12/guanti-da-moto-txr|data.oliviero.it/imgprodotto/guanti-da-moto-txr_165747",
+"Guantoni Boxe 10 oz|Colpisci con forza e precisione grazie a questi guanti da boxe|2017/12/guantoni-boxe-10-oz|data.oliviero.it/imgprodotto/guantoni-boxe-10-oz-hybrid-100_154064",
 "Guantoni Cyclone Restyling 6 oz|Caratteristiche: Guantoni Sphinx Cyclone Restyling: Class essential|2017/12/guantoni-cyclone-restyling-6-oz|data.oliviero.it/imgprodotto/guantoni-cyclone-restyling-6-oz_159702",
 "Guanti da Boxe Armalite 16oz|Guanti da Boxe Caratteristiche: Pelle esterna SLV3 per durata|2017/12/guanti-da-boxe-armalite-16oz|data.oliviero.it/imgprodotto/guanti-da-boxe-armalite-16oz-sabg-0115_92977",
 "Guanti BLACKHAWK Training 16 oz|Caratteristiche: GENUINE LEATHER pelle ultra morbida e liscia|2017/12/guanti-blackhawk-training-16-oz|data.oliviero.it/imgprodotto/guanti-blackhawk-training-16-oz_159683",

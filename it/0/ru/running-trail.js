@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Trail Running Wave Daichi 2|La scarpa Mizuno Wave Daichi 2 da Uomo, è caratterizzata da una suola|2017/12/scarpe-trail-running-wave-daichi-2|data.oliviero.it/imgprodotto/scarpe-trail-running-wave-daichi-2_166816",
 "Scarpe Trail Running Uomo Akira GTX|Calzatura impermeabile in membrana Gore-Tex® specifica per winter|2017/12/scarpe-trail-running-uomo-akira-gtx|data.oliviero.it/imgprodotto/scarpe-trail-running-uomo-akira-gtx_170975",
 "Scarpe Trail Running Snowcross 2 CSWP|Non lasciare che una tormenta di neve interrompa il tuo allenamento|2017/12/scarpe-trail-running-snowcross-2-cswp|data.oliviero.it/imgprodotto/scarpe-trail-running-snowcross-2-cswp_169151",
 "Scarpe Trail Running Atlas|Scarpa veloce da SkyRace perfetta per performance sulle medie e brevi|2017/12/scarpe-trail-running-atlas|data.oliviero.it/imgprodotto/scarpe-trail-running-atlas_166823",

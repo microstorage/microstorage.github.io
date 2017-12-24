@@ -1,4 +1,11 @@
 Gr = [
+"Trolley Monkey Skip-Hop|Trolley ideale per i bambini sia per piccoli viaggi che grandi|2017/12/trolley-monkey-skip-hop|data.oliviero.it/imgprodotto/trolley-monkey-skip-hop_140417",
+"Portapenne Sunflower|Tanti modelli, grafiche e colori… proprio per tutti i gusti!!!|2017/12/portapenne-sunflower|data.oliviero.it/imgprodotto/portapenne-sunflower_166295",
+"Scarpe Jr. Kiwi Girl|Collezione Primavera Estate Trendy, cool e ideali per le bambine che|2017/12/scarpe-jr-kiwi-girl|data.oliviero.it/imgprodotto/scarpe-jr-kiwi-girl-j72d5b-c5000_162362",
+"Sandalo Bambina Giglio Argento|Collezione Primavera Estate Sandali da bambina con Tomaia ecopelle|2017/12/sandalo-bambina-giglio-argento|data.oliviero.it/imgprodotto/sandalo-bambina-giglio-argento-j72e2a-c1007_159189",
+"T-Shirt Bambina Giallo|Collezione Primavera Estate In morbido jersey Stondata sul fondo|2017/12/t-shirt-bambina-giallo|data.oliviero.it/imgprodotto/t-shirt-bambina-giallo-171mifn010_163709",
+"Astuccio 3 Zip SJ Animals|L'ASTUCCIO 3 ZIP SJ GANG è l'accessorio che non può mancare nel tuo|2017/12/astuccio-3-zip-sj-animals|data.oliviero.it/imgprodotto/astuccio-3-zip-sj-animals_166245",
+"Maxi Maglia e Leggings Layette Fluo Coral e Grigio 4S304|Collezione Primavera Estate Maxi maglia e leggings da bambina Il|2017/12/maxi-maglia-e-leggings-layette-fluo-coral-e-grigio-4s304|data.oliviero.it/imgprodotto/maxi-maglia-e-leggings-layette-fluo-coral-e-grigio-4s304_158611",
 "Zaino Ollie Face|Lo carichi, lo riempi all'inverosimile, lo butti a terra, prende sole|2017/12/zaino-ollie-face|data.oliviero.it/imgprodotto/zaino-ollie-face_167437",
 "Abito Bambina Beige|Collezione Primavera Estate Abito intero da bambina. Il modello|2017/12/abito-bambina-beige|data.oliviero.it/imgprodotto/abito-bambina-beige-0s422_162157",
 "Felpa Bambina Bianco|Collezione Primavera Estate Felpa casual da bambina. Il modello|2017/12/felpa-bambina-bianco|data.oliviero.it/imgprodotto/felpa-bambina-bianco-4s536-0113_158559",

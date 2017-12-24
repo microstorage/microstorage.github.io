@@ -1,4 +1,10 @@
 Gr = [
+"Maglia Uomo Taglie Forti Nero|Collezione Primavera Estate Maglia da uomo taglie forti. Il modello|2017/12/maglia-uomo-taglie-forti-nero|data.oliviero.it/imgprodotto/maglia-uomo-taglie-forti-nero-21749-999_162607",
+"Boxer taglie forti 100 bianco|Boxer uomo taglie forti con bottone realizzato in cotone 100%|2017/12/boxer-taglie-forti-100-bianco|data.oliviero.it/imgprodotto/boxer-taglie-forti-100-bianco_63513",
+"T-shirt taglie forti uomo bianca 500|T-Shirt corpo uomo realizzata in puro Cotone, scollo a V, maniche|2017/12/t-shirt-taglie-forti-uomo-bianca-500|data.oliviero.it/imgprodotto/t-shirt-taglie-forti-uomo-bianca-500_24242_big",
+"Pantaloni Taglie Forti Uomo Troy Nocciola|Collezione Autunno Inverno/2018 Pantaloni taglie forti da uomo. Il|2017/12/pantaloni-taglie-forti-uomo-troy-nocciola|data.oliviero.it/imgprodotto/pantaloni-taglie-forti-uomo-troy-nocciola_168571",
+"T-shirt taglie forti uomo grigia 500|T-Shirt corpo uomo realizzata in puro Cotone, scollo a V, maniche|2017/12/t-shirt-taglie-forti-uomo-grigia-500|data.oliviero.it/imgprodotto/t-shirt-taglie-forti-uomo-grigia-500_24243_big",
+"PoloTaglie Forti Uomo Antracite|Collezione Autunno Inverno/2018 Polo uomo taglie forti. Il modello si|2017/12/polotaglie-forti-uomo-antracite|data.oliviero.it/imgprodotto/polotaglie-forti-uomo-antracite_170905",
 "Jeans Uomo Taglie Forti Fantome|Jeans da uomo taglie forti. Il modello presenta allacciatura frontale|2017/12/jeans-uomo-taglie-forti-fantome|data.oliviero.it/imgprodotto/jeans-uomo-taglie-forti-fantome_168527",
 "Gilet 100 gr Taglie Forti Bordeaux|Collezione Autunno Inverno/2018 Gilet Uomo taglie forti. Il modello|2017/12/gilet-100-gr-taglie-forti-bordeaux|data.oliviero.it/imgprodotto/gilet-100-gr-taglie-forti-bordeaux_171463",
 "Jeans taglie forti uomo - 12427 001|Tipologia: Jeans uomo Taglie forti Tessuto: 98% cotone e 2% elastan|2017/12/jeans-taglie-forti-uomo--12427-001|data.oliviero.it/imgprodotto/jeans-taglie-forti-uomo-%C2%96-12427-001_91095",

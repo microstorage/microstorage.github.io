@@ -1,4 +1,9 @@
 Gr = [
+"Ellittica Premium E6|L'ELLITTICA GETFIT AUTO-ALIMENTATA PER UTILIZZO COMMERCIALE (non|2017/12/ellittica-premium-e6|data.oliviero.it/imgprodotto/ellittica-premium-e6_172775",
+"Ellittica Rivo M Black Edition|RIVO M 07643-300 Fitness per tutti! Avvicinarsi al fitness è un gioco|2017/12/ellittica-rivo-m-black-edition|data.oliviero.it/imgprodotto/ellittica-rivo-m-black-edition_130308",
+"Ellittica Andes 3 New|L'ellittica Andes 3 vi offre la possibilità di fare attività fisica|2017/12/ellittica-andes-3-new|data.oliviero.it/imgprodotto/ellittica-andes-3-new_154154",
+"Ellittica Futura|Ellittica Futura Intensità di allenamento Regular Adattare sì Peso|2017/12/ellittica-futura|data.oliviero.it/imgprodotto/ellittica-futura_119559",
+"Ellittica Elliptical P NEW|ELLIPTICAL P 07649-500 Ellittica top di gamma per un allenamento|2017/12/ellittica-elliptical-p-new|data.oliviero.it/imgprodotto/ellittica-elliptical-p-new_130319",
 "Ellittica Elite 302|Elite 302 ti permetterà di allenarti coinvolgendo tutti i gruppi|2017/12/ellittica-elite-302|data.oliviero.it/imgprodotto/ellittica-elite-302_168579",
 "Ellittica EB5100i|L'Ellittica DKN Cross Trainer EB-5100i ha un design industriale di|2017/12/ellittica-eb5100i|data.oliviero.it/imgprodotto/ellittica-eb5100i_154197",
 "Ellittica Advantage Rivo M 2012|Il nuovo Crosstrainer Kettler Rivo M è uno attrezzo home-fitness|2017/12/ellittica-advantage-rivo-m-2012|data.oliviero.it/imgprodotto/ellittica-advantage-rivo-m-2012_12829_big",

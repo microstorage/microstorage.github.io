@@ -1,4 +1,5 @@
 Gr = [
+"Adattatore per piano cottura a induzione|Se hai una nuova cucina con piano cottura ad induzione, niente paura|2017/12/adattatore-per-piano-cottura-a-induzione|data.oliviero.it/imgprodotto/adattatore-per-piano-cottura-a-induzione_156450",
 "Tegame 32 cm Granito Antiaderente 2 Manici|Tegame Risoli antiaderente in granito, manici integrati, senza|2017/12/tegame-32-cm-granito-antiaderente-2-manici|data.oliviero.it/imgprodotto/tegame-32-cm-granito-antiaderente-2-manici_156012",
 "Casseruola 2 Maniglie + Coperchio in Vetro 24cm|Ideale per cucinare con pochi grassi, per scottare i cibi e per|2017/12/casseruola-2-maniglie-+-coperchio-in-vetro-24cm|data.oliviero.it/imgprodotto/casseruola-2-maniglie-coperchio-in-vetro-24cm_155954",
 "Servizio Posate pz 24 Ambra|Completo di posate per 6 persone in acciaio inossidabile di alta|2017/12/servizio-posate-pz-24-ambra|data.oliviero.it/imgprodotto/servizio-posate-pz-24-ambra_156399",

@@ -1,4 +1,11 @@
 Gr = [
+"Biberon 120 ml Vetro Natural|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-120-ml-vetro-natural|data.oliviero.it/imgprodotto/biberon-120-ml-vetro-natural_66812",
+"Biberon Silicone 150 ml|Biberon Linea Benessere in silicone 150 ml 0% BPA Chicco sono|2017/12/biberon-silicone-150-ml|data.oliviero.it/imgprodotto/biberon-silicone-150-ml_138865",
+"Perfect Night 0+ mesi|Il Succhietto classico MAM Perfect è progettato per ridurre il|2017/12/perfect-night-0+-mesi|data.oliviero.it/imgprodotto/perfect-night-0-mesi_135992",
+"Cofanetto nascita azzurro|Chicco gift set è il regalo perfetto per una nascita. Un cofanetto|2017/12/cofanetto-nascita-azzurro|data.oliviero.it/imgprodotto/cofanetto-nascita-azzurro_91976",
+"Scaldabiberon elettrico|Il modo rapido e sicuro per scaldare latte materno e alimenti per|2017/12/scaldabiberon-elettrico|data.oliviero.it/imgprodotto/scaldabiberon-elettrico_73761",
+"Sterilbox Kit per Disinfettare a Freddo|Funzionale ed economico, disinfetta accuratamente tutti gli oggetti|2017/12/sterilbox-kit-per-disinfettare-a-freddo|data.oliviero.it/imgprodotto/sterilbox-kit-per-disinfettare-a-freddo_2192_big",
+"Ricarica per biberon|Ricarica nucleo autoriscaldante per biberon Mc Baby. Si ricarica fino|2017/12/ricarica-per-biberon|data.oliviero.it/imgprodotto/ricarica-per-biberon_138417",
 "Biberon Caucciù 250ml|biberon Linea Benessere in caucciu 250 ml 0% BPA Chicco sono dedicati|2017/12/biberon-caucciu-250ml|data.oliviero.it/imgprodotto/biberon-caucci%C3%B9-250ml_51997",
 "Tiralatte elettrico|Il compatto tiralatte elettronico Natural Avent stimola delicatamente|2017/12/tiralatte-elettrico|data.oliviero.it/imgprodotto/tiralatte-elettrico_66689",
 "Biberon 125 ml pp natural|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-125-ml-pp-natural|data.oliviero.it/imgprodotto/biberon-125-ml-pp-natural_66809",

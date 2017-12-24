@@ -1,4 +1,10 @@
 Gr = [
+"Caricatore solare Charger 4-in-1|Caratteristiche tecniche: Caricatore solare con quattro funzioni|2017/12/caricatore-solare-charger-4-in-1|data.oliviero.it/imgprodotto/caricatore-solare-charger-4-in-1_83882",
+"Binocolo impermeabile 8x42|Caratteristiche tecniche: Binocolo 8x42 Binocolo multi accessoriato|2017/12/binocolo-impermeabile-8x42|data.oliviero.it/imgprodotto/binocolo-impermeabile-8x42_83817",
+"Microscopio universale 20x- 200x|Caratteristiche tecniche: Il microscopio universale portatile lascia|2017/12/microscopio-universale-20x-200x|data.oliviero.it/imgprodotto/microscopio-universale-20x-200x_83858",
+"Caricatore solare Power Charger|Caratteristiche tecniche: Il caricatore Solare Power Charger dispone|2017/12/caricatore-solare-power-charger|data.oliviero.it/imgprodotto/caricatore-solare-power-charger_83880",
+"Monocolo per visione notturna 5x50|Caratteristiche tecniche: 5X50 Visore notturno monoculare ad|2017/12/monocolo-per-visione-notturna-5x50|data.oliviero.it/imgprodotto/monocolo-per-visione-notturna-5x50_83829",
+"Microscopio Stereo|Caratteristiche tecniche: Due occhi sono meglio di uno! Sarà molto|2017/12/microscopio-stereo|data.oliviero.it/imgprodotto/microscopio-stereo_83862",
 "Telescopio AZ rifrattore 60 700|Caratteristiche tecniche: Il telescopio 60/700 è uno dei modelli di|2017/12/telescopio-az-rifrattore-60-700|data.oliviero.it/imgprodotto/telescopio-az-rifrattore-60-700_83768",
 "Cannocchiale Scout 30x50 WA|Cannocchiale Scout 30x50 WA YUKON. Lo Scout 30x50 WA ha un design|2017/12/cannocchiale-scout-30x50-wa|data.oliviero.it/imgprodotto/cannocchiale-scout-30x50-wa_86346",
 "Bussola con scala graduata per misurazione distanze|Caratteristiche tecniche: Comoda bussola interamente in metallo, con|2017/12/bussola-con-scala-graduata-per-misurazione-distanze|data.oliviero.it/imgprodotto/bussola-con-scala-graduata-per-misurazione-distanze_83900",

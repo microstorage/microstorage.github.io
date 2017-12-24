@@ -1,4 +1,7 @@
 Gr = [
+"Set Venture WRB|Set ping pong composto da 1 racchetta e 3 palline con custodia) Set|2017/12/set-venture-wrb|data.oliviero.it/imgprodotto/set-venture-wrb_8355_big",
+"Set di 2 racchette Hobby Senior|Set hobby composto da 2 racchette, 3 volani e custodia. Set completo|2017/12/set-di-2-racchette-hobby-senior|data.oliviero.it/imgprodotto/set-di-2-racchette-hobby-senior_8371_big",
+"Racchetta Premier NCT 5 Stelle|Racchetta Ping Pong Racchetta da Ping Pong Premier NCT (5 stelle) di|2017/12/racchetta-premier-nct-5-stelle|data.oliviero.it/imgprodotto/racchetta-premier-nct-5-stelle_8345_big",
 "Bob Pacer Duo con freni|Il nuovissimo bob biposto di Stiga, permette di accogliere un adulto|2017/12/bob-pacer-duo-con-freni|data.oliviero.it/imgprodotto/bob-pacer-duo-con-freni_160176",
 "Bob Pacer con freni|Bob di semplice utilizzo e durevole nel tempo per il divertimento di|2017/12/bob-pacer-con-freni|data.oliviero.it/imgprodotto/bob-pacer-con-freni_68449",
 "Racchetta Impax ACS 2 Stelle|Racchetta Ping Pong Caratteristiche tecniche Struttura in compensato|2017/12/racchetta-impax-acs-2-stelle|data.oliviero.it/imgprodotto/racchetta-impax-acs-2-stelle_8328_big",

@@ -1,4 +1,6 @@
 Gr = [
+"Amino X 435 gr|Integratore alimentare di aminoacidi con vitamine ed edulcoranti, in|2017/12/amino-x-435-gr|data.oliviero.it/imgprodotto/amino-x-435-gr_109963",
+"Nitrix 2.0 180 tabs|INTEGRATORE ALIMENTARE DI CREATINA, L-CITRULLINA, NIACINA ED ESTRATTI|2017/12/nitrix-2-0-180-tabs|data.oliviero.it/imgprodotto/nitrix-2-0-180-tabs_165502",
 "Amino X 1015 gr|Integratore alimentare di aminoacidi con vitamine ed edulcoranti, in|2017/12/amino-x-1015-gr|data.oliviero.it/imgprodotto/amino-x-1015-gr_109964",
 "Glutammine Evolution Confezione 120 Cps|ATTENZIONE: In caso di mancata giacenza di magazzino, i tempi di|2017/12/glutammine-evolution-confezione-120-cps|data.oliviero.it/imgprodotto/glutammine-evolution-confezione-120-cps_55220",
 "BCAA 100 Caplets|BCAA CAPLETS è un integratore alimentare di aminoacidi ramificati|2017/12/bcaa-100-caplets|data.oliviero.it/imgprodotto/bcaa-100-caplets_108435",

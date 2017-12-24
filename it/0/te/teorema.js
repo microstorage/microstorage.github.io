@@ -1,4 +1,6 @@
 Gr = [
+"Casa delle Bambole Villa delle Meraviglie|Villa delle meraviglie con luci e suoni. Inclusi 3 personaggi, un|2017/12/casa-delle-bambole-villa-delle-meraviglie|data.oliviero.it/imgprodotto/casa-delle-bambole-villa-delle-meraviglie-64220_156810",
+"Camion Raccolta Differenziata|Baby camion nettezza urbana con funzioni reali, luci e suoni|2017/12/camion-raccolta-differenziata|data.oliviero.it/imgprodotto/camion-raccolta-differenziata-63750_156808",
 "Garage Polizia con Pista e 3 Auto incluse|Ricrea gli inseguimenti più emozionanti con questa fantastica pista|2017/12/garage-polizia-con-pista-e-3-auto-incluse|data.oliviero.it/imgprodotto/garage-polizia-con-pista-e-3-auto-incluse-64496_156815",
 "Tappetino Bimba e Cubo Portagiochi|Bellissimo cubo portagiochi che si trasforma in un tappetino 112|2017/12/tappetino-bimba-e-cubo-portagiochi|data.oliviero.it/imgprodotto/tappetino-bimba-e-cubo-portagiochi-64626_156874",
 "Tappetone per Giocare 120x200 cm|Questo coloratissimo tappeto è l'ideale per gattonare, per i giochi|2017/12/tappetone-per-giocare-120x200-cm|data.oliviero.it/imgprodotto/tappetone-per-giocare-120x200-cm-73035_156857",

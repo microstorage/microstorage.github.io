@@ -1,4 +1,7 @@
 Gr = [
+"Calcio balilla Tam Tam|Calcio balilla Tam Tam Mobile in multistrato di pioppo rivestito in|2017/12/calcio-balilla-tam-tam|data.oliviero.it/imgprodotto/calcio-balilla-tam-tam_136323",
+"Calcio balilla Export Nero|Calcio Balilla coperto con vetro, Indoor con gettoniera MOBILE|2017/12/calcio-balilla-export-nero|data.oliviero.it/imgprodotto/calcio-balilla-export-nero_147253",
+"Calcio balilla College Pro Blu|Calcio balilla College Blu Caratteristiche tecniche: Peso: 55 kg|2017/12/calcio-balilla-college-pro-blu|data.oliviero.it/imgprodotto/calcio-balilla-college-pro-blu_85100",
 "Calcio balilla New Camp Super Rosso|Calcio Baliila con Gettoniera MOBILE MULTISTRATO DI PIOPPO RIVESTITO|2017/12/calcio-balilla-new-camp-super-rosso|data.oliviero.it/imgprodotto/calcio-balilla-new-camp-super-rosso_147246",
 "Calcio Balilla College Six Blu|MOBILE MULTISTRATO DI PIOPPO RIVESTITO IN LAMINATO MELAMINICO|2017/12/calcio-balilla-college-six-blu|data.oliviero.it/imgprodotto/calcio-balilla-college-six-blu_147236",
 "Calcio balilla Export Led Nero|Calcio Balilla coperto con vetro, Indoor con gettoniera MOBILE|2017/12/calcio-balilla-export-led-nero|data.oliviero.it/imgprodotto/calcio-balilla-export-led-nero_147256",

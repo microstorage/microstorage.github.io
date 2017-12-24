@@ -1,4 +1,8 @@
 Gr = [
+"Trio Book 51 S Breeze Coral|Gli esclusivi sistemi modulari Peg Perego sono stati concepiti per|2017/12/trio-book-51-s-breeze-coral|data.oliviero.it/imgprodotto/trio-book-51-s-breeze-coral_170280",
+"Trio Book 51 Luxe Beige|Gli esclusivi sistemi modulari Peg Perego sono stati concepiti per|2017/12/trio-book-51-luxe-beige|data.oliviero.it/imgprodotto/trio-book-51-luxe-beige_159151",
+"Trio Book 51 Luxe Grey|Gli esclusivi sistemi modulari Peg Perego sono stati concepiti per|2017/12/trio-book-51-luxe-grey|data.oliviero.it/imgprodotto/trio-book-51-luxe-grey_159153",
+"Trio Book 51 S Geo Red|Gli esclusivi sistemi modulari Peg Perego sono stati concepiti per|2017/12/trio-book-51-s-geo-red|data.oliviero.it/imgprodotto/trio-book-51-s-geo-red_170263",
 "Trio Book 51 Urban Denim|Gli esclusivi sistemi modulari Peg Perego sono stati concepiti per|2017/12/trio-book-51-urban-denim|data.oliviero.it/imgprodotto/trio-book-51-urban-denim_170272",
 "Trio Book 51 S Luxe Bluenight|Gli esclusivi sistemi modulari Peg Perego sono stati concepiti per|2017/12/trio-book-51-s-luxe-bluenight|data.oliviero.it/imgprodotto/trio-book-51-s-luxe-bluenight_159160",
 "Trio Book 51 Breeze Kaki|Gli esclusivi sistemi modulari Peg Perego sono stati concepiti per|2017/12/trio-book-51-breeze-kaki|data.oliviero.it/imgprodotto/trio-book-51-breeze-kaki_170266",

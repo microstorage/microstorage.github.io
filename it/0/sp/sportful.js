@@ -1,4 +1,5 @@
 Gr = [
+"Gilet Ciclismo uomo Reflex|Grande qualità e alta visibilità per questo giubbetto antivento|2017/12/gilet-ciclismo-uomo-reflex|data.oliviero.it/imgprodotto/gilet-ciclismo-uomo-reflex-1101636-002_155274",
 "Guanti Illusion Glove|Collezione Primavera Estate Semplice, lineare, con grande vestibilità|2017/12/guanti-illusion-glove|data.oliviero.it/imgprodotto/guanti-illusion-glove-1101638-187_162771",
 "Maglia 2nd Skin Uomo Bianco|Il tessuto X-Lite, con tecnologia avanzata, intrappola l'aria per|2017/12/maglia-2nd-skin-uomo-bianco|data.oliviero.it/imgprodotto/maglia-2nd-skin-uomo-bianco_165382",
 "Guanti Ciclismo Donna Pro W|Collezione Primavera Estate Linee pulite ed essenziali con|2017/12/guanti-ciclismo-donna-pro-w|data.oliviero.it/imgprodotto/guanti-ciclismo-donna-pro-w-1101788-002_162768",

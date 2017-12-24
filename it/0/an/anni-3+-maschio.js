@@ -1,4 +1,6 @@
 Gr = [
+"Camion Raccolta Differenziata|Baby camion nettezza urbana con funzioni reali, luci e suoni|2017/12/camion-raccolta-differenziata|data.oliviero.it/imgprodotto/camion-raccolta-differenziata-63750_156808",
+"Libro Non voglio andare a Scuola|Una nuova avventura aspetta Simone, il protagonista di \"Cacca pupù\"|2017/12/libro-non-voglio-andare-a-scuola|data.oliviero.it/imgprodotto/libro-non-voglio-andare-a-scuola_156405",
 "Il mio teatrino. Masha e Orso|Età 3+ Anni Grande teatrino da costruire Scenari intercambiabili|2017/12/il-mio-teatrino-masha-e-orso|data.oliviero.it/imgprodotto/il-mio-teatrino-masha-e-orso_139602",
 "Pack 41 Architetture|Età 3+ Anni Divertiti realizzando costruzioni con i differenti pezzi|2017/12/pack-41-architetture|data.oliviero.it/imgprodotto/pack-41-architetture-50203_154347",
 "Garage Polizia con Pista e 3 Auto incluse|Ricrea gli inseguimenti più emozionanti con questa fantastica pista|2017/12/garage-polizia-con-pista-e-3-auto-incluse|data.oliviero.it/imgprodotto/garage-polizia-con-pista-e-3-auto-incluse-64496_156815",

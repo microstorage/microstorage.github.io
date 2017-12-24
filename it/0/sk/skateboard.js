@@ -1,4 +1,6 @@
 Gr = [
+"Skateboard FREEDOM PRO MILITARY|Descrizione: Dimensioni tavola : 57x15,2 cm Materiale tavola : ABS|2017/12/skateboard-freedom-pro-military|data.oliviero.it/imgprodotto/skateboard-freedom-pro-military_162376",
+"Skateboard Hula 30\"|Caratteristiche Stile di guida: Cruising, lunghezza: 76 cm|2017/12/skateboard-hula-30|data.oliviero.it/imgprodotto/skateboard-hula-30_165543",
 "Skateboard FREEDOM tavola nera|Descrizione: Dimensioni tavola : 57x15,2 cm Materiale tavola|2017/12/skateboard-freedom-tavola-nera|data.oliviero.it/imgprodotto/skateboard-freedom-tavola-nera-ruote-arancio_162374",
 "Skateboard Cobra Surfing Board|Surfing Board Cobra, fantastico surfing board disponibile in|2017/12/skateboard-cobra-surfing-board|data.oliviero.it/imgprodotto/skateboard-cobra-surfing-board-70-710-0041_87728",
 "Skateboard TRIBE PRO BLOODY SKULL|Descrizione: Dimensioni tavola : 79x20 cm Materiale tavola|2017/12/skateboard-tribe-pro-bloody-skull|data.oliviero.it/imgprodotto/skateboard-tribe-pro-bloody-skull_162366",

@@ -1,4 +1,6 @@
 Gr = [
+"Recumbent ChronoLine BRX R300|La nuovissima cyclette Toorx BRX R 300 fa parte della nuova linea|2017/12/recumbent-chronoline-brx-r300|data.oliviero.it/imgprodotto/recumbent-chronoline-brx-r300_153878",
+"Tapis Roulant TRX Marathon|Il tappeto TRX Marathon ha un motore da 4 cavalli con un picco di|2017/12/tapis-roulant-trx-marathon|data.oliviero.it/imgprodotto/tapis-roulant-trx-marathon_149166",
 "Tapis Roulant TRX 40 S EVO|Tapis Roulant pre-assemblato, 2 ruote di trasporto. AIR CUSHIONS|2017/12/tapis-roulant-trx-40-s-evo|data.oliviero.it/imgprodotto/tapis-roulant-trx-40-s-evo_159597",
 "Rullo massaggio 3 in 1|Il rullo massaggio 3 in 1 è composto da tre rulli con dimensioni|2017/12/rullo-massaggio-3-in-1|data.oliviero.it/imgprodotto/rullo-massaggio-3-in-1-ahf061_151344",
 "Gym bike SRX 60|La gym bike SRX 60. Trasmissione a cinghia con pignone fisso Sistema|2017/12/gym-bike-srx-60|data.oliviero.it/imgprodotto/gym-bike-srx-60_94019",

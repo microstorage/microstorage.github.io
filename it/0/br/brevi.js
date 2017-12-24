@@ -1,4 +1,7 @@
 Gr = [
+"Fasciatoio Olimpia Bianco|Il piano fasciatoio è ben imbottito e con spondine di sicurezza|2017/12/fasciatoio-olimpia-bianco|data.oliviero.it/imgprodotto/fasciatoio-olimpia-bianco_172606",
+"Passeggino Ginger 3 Blu|Il passeggino Ginger di Brevi offre il massimo confort per il bambino|2017/12/passeggino-ginger-3-blu|data.oliviero.it/imgprodotto/passeggino-ginger-3-blu_172602",
+"Trio Ovo Twin Blu|Il passeggino trio OVO Twin è il sistema modulare versatile|2017/12/trio-ovo-twin-blu|data.oliviero.it/imgprodotto/trio-ovo-twin-blu_172614",
 "Altalena Althea Multicolor|L'altalena per neonati Althea accoglie e culla il tuo bambino sin dai|2017/12/altalena-althea-multicolor|data.oliviero.it/imgprodotto/altalena-althea-multicolor_172582",
 "Seggiolone Slex Evo giallo cedro|Slex Evo è quattro prodotti in uno: sdraietta confortevole, sin dalla|2017/12/seggiolone-slex-evo-giallo-cedro|data.oliviero.it/imgprodotto/seggiolone-slex-evo-giallo-cedro_145194",
 "Box Soft & Play Giramondo|Per le famiglie metropolitane, ecco una piccola città ricreata sul|2017/12/box-soft-play-giramondo|data.oliviero.it/imgprodotto/box-soft-%26-play-giramondo_172593",

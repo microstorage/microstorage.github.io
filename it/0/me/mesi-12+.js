@@ -1,4 +1,8 @@
 Gr = [
+"Cottage degli Animali|Cottage degli Animali Chicco è il gioco ideale per stimolare|2017/12/cottage-degli-animali|data.oliviero.it/imgprodotto/cottage-degli-animali-00064273000000_8785_big",
+"Il Mio Primo Cucciolo|Con 2 accessori per giocare: una spazzola e un biscottino.Accarezzalo|2017/12/il-mio-primo-cucciolo|data.oliviero.it/imgprodotto/il-mio-primo-cucciolo_138779",
+"Georello Junior|2+ Con Georello Junior sarà divertentissimo mettere in movimento|2017/12/georello-junior|data.oliviero.it/imgprodotto/georello-junior_156253",
+"Take Along Mobile Princess Giostrina, Rosa|Giostrina colorata e coinvolgente che segue il tuo bambino ovunque|2017/12/take-along-mobile-princess-giostrina-rosa|data.oliviero.it/imgprodotto/take-along-mobile-princess-giostrina-rosa_157129",
 "Tiki Musical 3 in 1|Età 12 m+ Primo giocattolo musicale di legno per il tuo bambino. Tre|2017/12/tiki-musical-3-in-1|data.oliviero.it/imgprodotto/tiki-musical-3-in-1_139639",
 "Baby Star Chitarra|Dj Mixer Chitarra è la chitarra elettrica che permette al bambino di|2017/12/baby-star-chitarra|data.oliviero.it/imgprodotto/baby-star-chitarra-00060068000000_155618",
 "Tappeto Puzzle|Tappeto Puzzle componibile. Una confezione contiene 4 tasselli ognuno|2017/12/tappeto-puzzle|data.oliviero.it/imgprodotto/tappeto-puzzle_93060",

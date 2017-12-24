@@ -1,4 +1,5 @@
 Gr = [
+"Lettino Oblo Gigi e Lele|Ecco arrivare finalmente la colorata e simpatica linea Gigi e Lele|2017/12/lettino-oblo-gigi-e-lele|data.oliviero.it/imgprodotto/lettino-oblo-gigi-e-lele_5599_big",
 "Lettino Gaia bianco lucido|Tutti i Lettini e tutti i componenti delle camerette Pali sono sempre|2017/12/lettino-gaia-bianco-lucido|data.oliviero.it/imgprodotto/lettino-gaia-bianco-lucido_147364",
 "Lettino Georgia oblò Bianco|Il Lettino Oblò Georgia è composto da una struttura in legno|2017/12/lettino-georgia-oblo-bianco|data.oliviero.it/imgprodotto/lettino-georgia-obl%C3%B2-bianco_166165",
 "Lettino Tulip Noce Classico|Il Lettino Tulip, è una nuovo modello di Pali, le suo forme|2017/12/lettino-tulip-noce-classico|data.oliviero.it/imgprodotto/lettino-tulip-noce-classico_140079",

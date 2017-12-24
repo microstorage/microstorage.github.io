@@ -1,4 +1,11 @@
 Gr = [
+"Ellittica Premium E6|L'ELLITTICA GETFIT AUTO-ALIMENTATA PER UTILIZZO COMMERCIALE (non|2017/12/ellittica-premium-e6|data.oliviero.it/imgprodotto/ellittica-premium-e6_172775",
+"Tapis Roulant Premium T11|Il Tapis Roulant Premium T11 è una vera meraviglia dell'ingegneria|2017/12/tapis-roulant-premium-t11|data.oliviero.it/imgprodotto/tapis-roulant-premium-t11_172787",
+"Tapis Roulant Route 370|Route 370 compatto nelle dimensioni e facile da usare. Route 370 con|2017/12/tapis-roulant-route-370|data.oliviero.it/imgprodotto/tapis-roulant-route-370_172830",
+"Tapis Roulant Route 770|Route 770 ti permetterà di portare la passione per la corsa dentro|2017/12/tapis-roulant-route-770|data.oliviero.it/imgprodotto/tapis-roulant-route-770_172846",
+"Stazione Multi Builder 1.0|Stazione multifunzione al TOP DELLA GAMMA GetFit. Questa macchina|2017/12/stazione-multi-builder-1-0|data.oliviero.it/imgprodotto/stazione-multi-builder-1-0_172770",
+"Panca Inversione Force Inversion Power|Panca antigravitazionale, studiata per l'allungamento dei muscoli|2017/12/panca-inversione-force-inversion-power|data.oliviero.it/imgprodotto/panca-inversione-force-inversion-power_168734",
+"Panca Inversione Force Inversion|Panca antigravitazionale, studiata per l'allungamento dei muscoli|2017/12/panca-inversione-force-inversion|data.oliviero.it/imgprodotto/panca-inversione-force-inversion_172769",
 "Cyckette Premium B6|LA BIKE GETFIT AUTO-ALIMENTATA PER UTILIZZO COMMERCIALE (non|2017/12/cyckette-premium-b6|data.oliviero.it/imgprodotto/cyckette-premium-b6_172774",
 "Sacco Boxe 30 Kg|I sacchi boxe GetFit sono indicati per ogni tipologia di atleta|2017/12/sacco-boxe-30-kg|data.oliviero.it/imgprodotto/sacco-boxe-30-kg_170765",
 "Supporto sacco per Power Tower 2|Il supporto sacco per power tower boxe 2 supporta sacchi fino a 50KG|2017/12/supporto-sacco-per-power-tower-2|data.oliviero.it/imgprodotto/supporto-sacco-per-power-tower-2_68797",

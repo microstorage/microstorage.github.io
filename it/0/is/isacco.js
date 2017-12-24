@@ -1,4 +1,7 @@
 Gr = [
+"Giacca Cuoca Lady Euro|Colore : Bianco e Blu Composizione : tessuto 100% cotone Dimensioni|2017/12/giacca-cuoca-lady-euro|data.oliviero.it/imgprodotto/giacca-cuoca-lady-euro_150870",
+"Giacca Cuoco Livorno Taglie Forti|Colore : Bianco Composizione : tessuto 100% cotone Dimensioni :|2017/12/giacca-cuoco-livorno-taglie-forti|data.oliviero.it/imgprodotto/giacca-cuoco-livorno-taglie-forti_1640_big",
+"Zoccolo Autoclavabile|Zoccoli professionali antistatici in gomma. Modello unisex|2017/12/zoccolo-autoclavabile|data.oliviero.it/imgprodotto/zoccolo-autoclavabile-112606_94287",
 "Casacca Saigon|Colore : Bianco Composizione : tessuto 100% cotone Dimensioni :|2017/12/casacca-saigon|data.oliviero.it/imgprodotto/casacca-saigon_1624_big",
 "Pantaloni Cuoco Blu|Modello con passanti in vita chiusura con due bottoni e zip. due|2017/12/pantaloni-cuoco-blu|data.oliviero.it/imgprodotto/pantaloni-cuoco-blu-064102_151132",
 "Camicia donna azzurra kyoto|Colore :Azzurro Composizione : tessuto 65% poliestere e 35% cotone|2017/12/camicia-donna-azzurra-kyoto|data.oliviero.it/imgprodotto/camicia-donna-azzurra-kyoto_2342_big",

@@ -1,4 +1,7 @@
 Gr = [
+"Scarpe Calcio Jr. Mercurial Victory VI FG|Progettata con tomaia testurizzata e trazione innovativa, la scarpa|2017/12/scarpe-calcio-jr-mercurial-victory-vi-fg|data.oliviero.it/imgprodotto/scarpe-calcio-jr-mercurial-victory-vi-fg-831945-303_159987",
+"Scarpe Calcio Jr Magista Opus II FG|La scarpa da calcio per terreni duri Nike Jr. Magista Opus II|2017/12/scarpe-calcio-jr-magista-opus-ii-fg|data.oliviero.it/imgprodotto/scarpe-calcio-jr-magista-opus-ii-fg-844415-109_164290",
+"Scarpe da calcio Jr. Tiempo Genio Leather FG|Caratteristiche Tomaia in morbida pelle naturale pieno fiore per un|2017/12/scarpe-da-calcio-jr-tiempo-genio-leather-fg|data.oliviero.it/imgprodotto/scarpe-da-calcio-jr-tiempo-genio-leather-fg-630861-010_125621",
 "Scarpe Calcio Brasil K-Plus MG14|Il modello Brasil K-Plus è l'ideale per esprimere il massimo su|2017/12/scarpe-calcio-brasil-k-plus-mg14|data.oliviero.it/imgprodotto/scarpe-calcio-brasil-k-plus-mg14-170856-c0004_152259",
 "Scarpe Calcio Tiempo Lagacy III FG|La scarpa da calcio per terreni duri Nike Tiempo Legacy III|2017/12/scarpe-calcio-tiempo-lagacy-iii-fg|data.oliviero.it/imgprodotto/scarpe-calcio-tiempo-lagacy-iii-fg_167091",
 "Scarpe Calcio Copa 18.3 FG|Domina il campo con la linea Adidas Copa 18!! Avampiede in pelle di|2017/12/scarpe-calcio-copa-18-3-fg|data.oliviero.it/imgprodotto/scarpe-calcio-copa-18-3-fg_172185",

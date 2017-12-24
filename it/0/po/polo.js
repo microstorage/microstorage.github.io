@@ -1,4 +1,8 @@
 Gr = [
+"Polo Uomo Verde|Collezione Autunno Inverno/2018 Indossa questa classica polo|2017/12/polo-uomo-verde|data.oliviero.it/imgprodotto/polo-uomo-verde_171049",
+"Polo Uomo Blu Melange|Collezione Autunno Inverno/2018 Polo a maniche lunghe da uomo di|2017/12/polo-uomo-blu-melange|data.oliviero.it/imgprodotto/polo-uomo-blu-melange_169770",
+"Polo Uomo Bianco|Collezione Primavera Estate Polo da uomo con mezze maniche. Il|2017/12/polo-uomo-bianco|data.oliviero.it/imgprodotto/polo-uomo-bianco-nv82023-005_164624",
+"PoloTaglie Forti Uomo Antracite|Collezione Autunno Inverno/2018 Polo uomo taglie forti. Il modello si|2017/12/polotaglie-forti-uomo-antracite|data.oliviero.it/imgprodotto/polotaglie-forti-uomo-antracite_170905",
 "Polo Taglie Forti Uomo Antracite|Collezione Autunno Inverno/2018 Polo maniche lunghe da uomo. Il|2017/12/polo-taglie-forti-uomo-antracite|data.oliviero.it/imgprodotto/polo-taglie-forti-uomo-antracite_169243",
 "Polo uomo blu classic navy manica corta|Una polo casual, raffinata, colore Navy Autografata da Agostini|2017/12/polo-uomo-blu-classic-navy-manica-corta|data.oliviero.it/imgprodotto/polo-uomo-blu-classic-navy-manica-corta_93393",
 "Polo Uomo Bluette|Collezione Primavera Estate Polo da uomo con mezze maniche. Il|2017/12/polo-uomo-bluette|data.oliviero.it/imgprodotto/polo-uomo-bluette-nv82002-238_164615",

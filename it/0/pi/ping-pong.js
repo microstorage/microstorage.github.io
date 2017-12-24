@@ -1,4 +1,9 @@
 Gr = [
+"Set Venture WRB|Set ping pong composto da 1 racchetta e 3 palline con custodia) Set|2017/12/set-venture-wrb|data.oliviero.it/imgprodotto/set-venture-wrb_8355_big",
+"Tavolo Ping Pong Sport 250 Indoor|La gamma dei tavoli ping pong Cornilleau SPORT raggruppa dei tavoli|2017/12/tavolo-ping-pong-sport-250-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-sport-250-indoor_145216",
+"Ping Pong Progress Indoor blu da interno|Modello per interno, verde o blu, per l'uso familiare e amatoriale|2017/12/ping-pong-progress-indoor-blu-da-interno|data.oliviero.it/imgprodotto/ping-pong-progress-indoor-blu-da-interno_83039",
+"Tavolo Ping Pong Outdoor 6|OUTDOOR 6 07177-900 Modello per uso ricreativo per utilizzatori di|2017/12/tavolo-ping-pong-outdoor-6|data.oliviero.it/imgprodotto/tavolo-ping-pong-outdoor-6_110126",
+"Racchetta Premier NCT 5 Stelle|Racchetta Ping Pong Racchetta da Ping Pong Premier NCT (5 stelle) di|2017/12/racchetta-premier-nct-5-stelle|data.oliviero.it/imgprodotto/racchetta-premier-nct-5-stelle_8345_big",
 "Tavolo Ping Pong Master da esterno Blu|Modello per esterno, pieghevole, disponibile con piano gioco blu, con|2017/12/tavolo-ping-pong-master-da-esterno-blu|data.oliviero.it/imgprodotto/tavolo-ping-pong-master-da-esterno-blu_83109",
 "Tavolo Ping Pong Challenge Indoor Blu|Ping Pong Challenge Indoor GARLANDO. Modello per interno, pieghevole|2017/12/tavolo-ping-pong-challenge-indoor-blu|data.oliviero.it/imgprodotto/tavolo-ping-pong-challenge-indoor-blu_83051",
 "Racchetta Impax ACS 2 Stelle|Racchetta Ping Pong Caratteristiche tecniche Struttura in compensato|2017/12/racchetta-impax-acs-2-stelle|data.oliviero.it/imgprodotto/racchetta-impax-acs-2-stelle_8328_big",

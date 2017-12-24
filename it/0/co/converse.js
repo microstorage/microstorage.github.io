@@ -1,4 +1,8 @@
 Gr = [
+"Scarpe Ct Hi Ecopelle Glitter|Utilizzo: Calzatura moda sport Unisex Tomaia: Tessuto Battistrada: in|2017/12/scarpe-ct-hi-ecopelle-glitter|data.oliviero.it/imgprodotto/scarpe-ct-hi-ecopelle-glitter_139908",
+"Scarpe CT AS Rummage OX|Utilizzo: Calzatura Moda Sport Tomaia: Tela Battistrada: Gomma|2017/12/scarpe-ct-as-rummage-ox|data.oliviero.it/imgprodotto/scarpe-ct-as-rummage-ox_10663_big",
+"Scarpe Auckland Racer|Utilizzo: Calzatura Moda sport Tomaia: pelle scamosciata Battistrada:|2017/12/scarpe-auckland-racer|data.oliviero.it/imgprodotto/scarpe-auckland-racer-148538c_100485",
+"Scarpe Ct As Platform OX|Utilizzo: Sneakers donna Tomaia: pelle Battistrada: Gomma|2017/12/scarpe-ct-as-platform-ox|data.oliviero.it/imgprodotto/scarpe-ct-as-platform-ox_170974",
 "Scarpe All star hi|Utilizzo: Calzatura Moda sport Tomaia: Tela Battistrada: Gomma|2017/12/scarpe-all-star-hi|data.oliviero.it/imgprodotto/scarpe-all-star-hi_73776",
 "Scarpe Chuck Taylor All Star|Utilizzo: Calzatura Moda Sport Tomaia: Tela Battistrada: Suola in|2017/12/scarpe-chuck-taylor-all-star|data.oliviero.it/imgprodotto/scarpe-chuck-taylor-all-star_73896",
 "Scarpe Ct As Rummage Hi Glitter e Borchie|Converse originali personalizzate da glitter e borchie Questo modello|2017/12/scarpe-ct-as-rummage-hi-glitter-e-borchie|data.oliviero.it/imgprodotto/scarpe-ct-as-rummage-hi-glitter-e-borchie_124613",

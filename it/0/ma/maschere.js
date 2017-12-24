@@ -1,4 +1,8 @@
 Gr = [
+"Maschera Sci Savor S Stereo|Gli occhiali Atomic Savor S offrono super comfort e valore. Si|2017/12/maschera-sci-savor-s-stereo|data.oliviero.it/imgprodotto/maschera-sci-savor-s-stereo_171755",
+"Maschera Sci Comanche P|Maschera Sci dal design pulito. Il filtro di polarizzazione della|2017/12/maschera-sci-comanche-p|data.oliviero.it/imgprodotto/maschera-sci-comanche-p_171353",
+"Maschera Sci Savor M Stereo|Maschera versatile, per un campo di visione, una vestibilità e una|2017/12/maschera-sci-savor-m-stereo|data.oliviero.it/imgprodotto/maschera-sci-savor-m-stereo_171760",
+"Maschera Sci g.gl 300 pola|Il design tagliente e moderno della maschera si distingue dalla|2017/12/maschera-sci-g-gl-300-pola|data.oliviero.it/imgprodotto/maschera-sci-g-gl-300-pola-s5502142221_138180",
 "Maschera Sci Savor M Stereo OTG|La nostra maschera Savor M Stereo ha un super confort, è super cool|2017/12/maschera-sci-savor-m-stereo-otg|data.oliviero.it/imgprodotto/maschera-sci-savor-m-stereo-otg_171763",
 "Maschera Sci G.GL 300|Modello base della linea g.gl 300. Il design tagliente e moderno|2017/12/maschera-sci-g-gl-300|data.oliviero.it/imgprodotto/maschera-sci-g-gl-300-s5502151129_154614",
 "Maschera Sci Downhill 2000 S LM|Se indossata sopra o sotto il casco, la cinghia supplementare|2017/12/maschera-sci-downhill-2000-s-lm|data.oliviero.it/imgprodotto/maschera-sci-downhill-2000-s-lm_171349",

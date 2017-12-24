@@ -1,4 +1,6 @@
 Gr = [
+"Trolley Monkey Skip-Hop|Trolley ideale per i bambini sia per piccoli viaggi che grandi|2017/12/trolley-monkey-skip-hop|data.oliviero.it/imgprodotto/trolley-monkey-skip-hop_140417",
+"Set Piatto e ciotola Gufo Skip Hop|Grazie a questo set i bambini potranno divertirsi con il loro|2017/12/set-piatto-e-ciotola-gufo-skip-hop|data.oliviero.it/imgprodotto/set-piatto-e-ciotola-gufo-skip-hop_140392",
 "Zainetto per il Pranzo Bee|Zainetto per l'asilo, morbido e con un capiente vano principale|2017/12/zainetto-per-il-pranzo-bee|data.oliviero.it/imgprodotto/zainetto-per-il-pranzo-bee-skip-hop_140404",
 "Owl Phone SKip Hop|I bambini amano esplorare suoni e ascoltare melodie. Guarda, ascolta|2017/12/owl-phone-skip-hop|data.oliviero.it/imgprodotto/owl-phone-skip-hop_140426",
 "Zainetto per il Pranzo Owl|Zainetto per l'asilo, morbido e con un capiente vano principale|2017/12/zainetto-per-il-pranzo-owl|data.oliviero.it/imgprodotto/zainetto-per-il-pranzo-owl-skip-hop_140399",

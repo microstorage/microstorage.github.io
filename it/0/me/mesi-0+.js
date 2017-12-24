@@ -1,4 +1,7 @@
 Gr = [
+"Luce Musicale Buona Notte|Culla il sonno della tuo bambina con questo pannello rosa pensato|2017/12/luce-musicale-buona-notte|data.oliviero.it/imgprodotto/luce-musicale-buona-notte_156944",
+"Dancing friends|Il centro attività per passeggio dotato di un pratico sistema di|2017/12/dancing-friends|data.oliviero.it/imgprodotto/dancing-friends_156323",
+"Copertina Soft Cuddles Rosa|La copertina realizzata in morbido tessuto che aiuta il bambino|2017/12/copertina-soft-cuddles-rosa|data.oliviero.it/imgprodotto/copertina-soft-cuddles-rosa-00007496100000_155610",
 "Giostrina take a long mobile rosa|Giostrina elettronica con 30 minuti di musica rilassante continua in|2017/12/giostrina-take-a-long-mobile-rosa|data.oliviero.it/imgprodotto/giostrina-take-a-long-mobile-rosa_132660",
 "Bounce Bounce Baby|Età: 4m+ (fino a 11 kg) Stazione gioco con piattaforma elastica|2017/12/bounce-bounce-baby|data.oliviero.it/imgprodotto/bounce-bounce-baby_152242",
 "Tappeto gioco 186 x 125|Tappeto imbottito gioco 186 cm x 125 cm. Comodo tappeto realizzato in|2017/12/tappeto-gioco-186-x-125|data.oliviero.it/imgprodotto/tappeto-gioco-186-x-125_78799",

@@ -1,4 +1,8 @@
 Gr = [
+"Tenda Victoria 4 da Campeggio|Il pavimento integrato al telo esterno più il pavimento delle camere|2017/12/tenda-victoria-4-da-campeggio|data.oliviero.it/imgprodotto/tenda-victoria-4-da-campeggio_164523",
+"Sedia Pieghevole Storm|Sedia pieghevole in ferro con sacca a tracolla Tessuto: poliestere|2017/12/sedia-pieghevole-storm|data.oliviero.it/imgprodotto/sedia-pieghevole-storm_149997",
+"Sacco a pelo Trend|Misura cm: (200+25) x 80 Esterno: Nylon TAFFETA W/R Interno: cotone|2017/12/sacco-a-pelo-trend|data.oliviero.it/imgprodotto/sacco-a-pelo-trend_150067",
+"Gazebo Oasi 4,5x3 Bianco|Gazebo multiuso con apertura automatica. Struttura in alluminio|2017/12/gazebo-oasi-4-5x3-bianco|data.oliviero.it/imgprodotto/gazebo-oasi-4-5x3-bianco_150076",
 "Tenda Jerez 2 da Campeggio|La tenda Jerez rappresenta la giusta scelta in termini di qualità|2017/12/tenda-jerez-2-da-campeggio|data.oliviero.it/imgprodotto/tenda-jerez-2-da-campeggio_149688",
 "Gazebo Oasi 3x3 Bianco|Gazebo multiuso con apertura automatica. Struttura in alluminio|2017/12/gazebo-oasi-3x3-bianco|data.oliviero.it/imgprodotto/gazebo-oasi-3x3-bianco_150075",
 "Tenda Jerez 4 da Campeggio|La tenda Jerez rappresenta la giusta scelta in termini di qualità|2017/12/tenda-jerez-4-da-campeggio|data.oliviero.it/imgprodotto/tenda-jerez-4-da-campeggio_149702",

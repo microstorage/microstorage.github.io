@@ -1,4 +1,8 @@
 Gr = [
+"Biberon 120 ml Vetro Natural|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-120-ml-vetro-natural|data.oliviero.it/imgprodotto/biberon-120-ml-vetro-natural_66812",
+"Biberon Silicone 150 ml|Biberon Linea Benessere in silicone 150 ml 0% BPA Chicco sono|2017/12/biberon-silicone-150-ml|data.oliviero.it/imgprodotto/biberon-silicone-150-ml_138865",
+"Cofanetto nascita azzurro|Chicco gift set è il regalo perfetto per una nascita. Un cofanetto|2017/12/cofanetto-nascita-azzurro|data.oliviero.it/imgprodotto/cofanetto-nascita-azzurro_91976",
+"Ricarica per biberon|Ricarica nucleo autoriscaldante per biberon Mc Baby. Si ricarica fino|2017/12/ricarica-per-biberon|data.oliviero.it/imgprodotto/ricarica-per-biberon_138417",
 "Biberon Caucciù 250ml|biberon Linea Benessere in caucciu 250 ml 0% BPA Chicco sono dedicati|2017/12/biberon-caucciu-250ml|data.oliviero.it/imgprodotto/biberon-caucci%C3%B9-250ml_51997",
 "Biberon 125 ml pp natural|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-125-ml-pp-natural|data.oliviero.it/imgprodotto/biberon-125-ml-pp-natural_66809",
 "Biberon 260 ml azzurro natural|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-260-ml-azzurro-natural|data.oliviero.it/imgprodotto/biberon-260-ml-azzurro-natural_71632",

@@ -1,4 +1,6 @@
 Gr = [
+"Camicia Ragazzo Stone Washed Chiaro|Collezione Primavera Estate Camicia da bambino con maniche lunghe. Il|2017/12/camicia-ragazzo-stone-washed-chiaro|data.oliviero.it/imgprodotto/camicia-ragazzo-stone-washed-chiaro-4s404-7400_158471",
+"Maxi Maglia e Leggings Layette Fluo Coral e Grigio 4S304|Collezione Primavera Estate Maxi maglia e leggings da bambina Il|2017/12/maxi-maglia-e-leggings-layette-fluo-coral-e-grigio-4s304|data.oliviero.it/imgprodotto/maxi-maglia-e-leggings-layette-fluo-coral-e-grigio-4s304_158611",
 "Felpa Bambina Bianco|Collezione Primavera Estate Felpa casual da bambina. Il modello|2017/12/felpa-bambina-bianco|data.oliviero.it/imgprodotto/felpa-bambina-bianco-4s536-0113_158559",
 "Camicia Bambino Blu|Collezione Primavera Estate Camicia da bambino con maniche lunghe. Il|2017/12/camicia-bambino-blu|data.oliviero.it/imgprodotto/camicia-bambino-blu-4s403-3641_158470",
 "Felpa Bambino Verde Militare|Collezione Primavera Estate Felpa da bambino, full zip, due tasche in|2017/12/felpa-bambino-verde-militare|data.oliviero.it/imgprodotto/felpa-bambino-verde-militare-4s424-5553_158490",

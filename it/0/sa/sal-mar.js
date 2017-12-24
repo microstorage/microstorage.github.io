@@ -1,4 +1,10 @@
 Gr = [
+"Sgabello Kris Rosso|SGABELLO KRIS Rosso Sgabello con struttura in acciaio cromato, seduta|2017/12/sgabello-kris-rosso|data.oliviero.it/imgprodotto/sgabello-kris-rosso_130761",
+"Set Zanzibar Sofa Ecrù|Set Sofa composto da divanetto 2 posti, 2 poltrone e tavolino da|2017/12/set-zanzibar-sofa-ecru|data.oliviero.it/imgprodotto/set-zanzibar-sofa-ecr%C3%B9_146617",
+"Panchetta Bistrot Marrone|Panchetta Bistrot Ribaltabile Funzione ribaltabile per trasformare la|2017/12/panchetta-bistrot-marrone|data.oliviero.it/imgprodotto/panchetta-bistrot-marrone_146619",
+"Set Salottino Ascott Bianco|set sofa composto da divanetto 2 posti, 2 poltroncine e tavolino|2017/12/set-salottino-ascott-bianco|data.oliviero.it/imgprodotto/set-salottino-ascott-bianco_108518",
+"Set Lobra Sofa Ecrù|Set Sofa composto da divanetto 2 posti, 2 poltrone e tavolino da|2017/12/set-lobra-sofa-ecru|data.oliviero.it/imgprodotto/set-lobra-sofa-ecr%C3%B9_108544",
+"Poltrona Sake Bianca|Poltrona per ufficio Direzionale, con base in acciaio cromato|2017/12/poltrona-sake-bianca|data.oliviero.it/imgprodotto/poltrona-sake-bianca_149138",
 "Dondolo Haiti Ecrù|Dondolo 2 posti Struttura in tubolare di ferro verniciato a polvere|2017/12/dondolo-haiti-ecru|data.oliviero.it/imgprodotto/dondolo-haiti-ecr%C3%B9_108480",
 "Poltrona Casa Blu|Poltrona per ufficio con base e braccioli in nylon, seduta con|2017/12/poltrona-casa-blu|data.oliviero.it/imgprodotto/poltrona-casa-blu_108555",
 "Coppia di sedie pieghevoli Heidi Grigia|Sedia Pieghevole Struttura in ferro verniciata a polvere epossidica|2017/12/coppia-di-sedie-pieghevoli-heidi-grigia|data.oliviero.it/imgprodotto/coppia-di-sedie-pieghevoli-heidi-grigia_164394",

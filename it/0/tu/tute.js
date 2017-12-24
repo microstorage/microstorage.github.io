@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloni Sportivi Taglie Forti Grigio|Collezione Primavera Estate Pantalone sportivo da uomo taglie forti|2017/12/pantaloni-sportivi-taglie-forti-grigio|data.oliviero.it/imgprodotto/pantaloni-sportivi-taglie-forti-grigio_165346",
 "Tuta Uomo Nero|Nei giorni più freddi, allenati in pieno comfort indossando questa|2017/12/tuta-uomo-nero|data.oliviero.it/imgprodotto/tuta-uomo-nero_168364",
 "Pantaloni sportivi taglie forti uomo blu UP100|Tipologia: Pantalone Sportivo Taglie Forti Tessuto: 100% cotone|2017/12/pantaloni-sportivi-taglie-forti-uomo-blu-up100|data.oliviero.it/imgprodotto/pantaloni-sportivi-taglie-forti-uomo-blu-up100_140974",
 "Tuta Light Uomo Nero|Questa tuta da uomo offre massima traspirabilità grazie alla fodera|2017/12/tuta-light-uomo-nero|data.oliviero.it/imgprodotto/tuta-light-uomo-nero_168337",

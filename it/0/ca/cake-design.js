@@ -1,4 +1,6 @@
 Gr = [
+"Rullo Taglia Pasta Tondo diam. 4,5 cm|Per ottenere da un impasto file di cerchi perfetti con uno scarto|2017/12/rullo-taglia-pasta-tondo-diam-4-5-cm|data.oliviero.it/imgprodotto/rullo-taglia-pasta-tondo-diam-4-5-cm_74089",
+"Sac à Poche Monouso Doppia|Le sac à poche monouso sono davvero pratiche, soprattutto se prepari|2017/12/sac-a-poche-monouso-doppia|data.oliviero.it/imgprodotto/sac-%C3%A0-poche-monouso-doppia-630476_155191",
 "Pirottini in silicone 7 cm Set 6 pezzi|Colorati e riutilizzabili, questi pirottini in silicone d'alta|2017/12/pirottini-in-silicone-7-cm-set-6-pezzi|data.oliviero.it/imgprodotto/pirottini-in-silicone-7-cm-set-6-pezzi-630646_157836",
 "Flacone dosatore 250 ml|Il flacone dosatore in plastica flessibile e resistente, disponibile|2017/12/flacone-dosatore-250-ml|data.oliviero.it/imgprodotto/flacone-dosatore-250-ml_74132",
 "Stampi per Panna cotta 4 pz|Hai voglia di una golosa panna cotta? Ora ci sono gli stampini che ti|2017/12/stampi-per-panna-cotta-4-pz|data.oliviero.it/imgprodotto/stampi-per-panna-cotta-4-pz-630591_157821",

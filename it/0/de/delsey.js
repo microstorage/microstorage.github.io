@@ -1,4 +1,5 @@
 Gr = [
+"Trolley 3201220 Medio|Valigia Rigida, 2 ruote Dimensioni: 32 x 64,5 x 34 cm Peso: 2,5 Kg|2017/12/trolley-3201220-medio|data.oliviero.it/imgprodotto/trolley-3201220-medio_63200",
 "Trolley 4R Belmont Rosso XL|Valigia trolley 4 ruote 76 cm H 76 x L 52 x E 30 cm - 108.63L - 4.4kg|2017/12/trolley-4r-belmont-rosso-xl|data.oliviero.it/imgprodotto/trolley-4r-belmont-rosso-xl-3840821_160855",
 "Trolley Cabina 4R Slim 55 cm Segur Blu|Valigia trolley da cabina a 4 doppie ruote slim 55 cm H 55 x L 40 x|2017/12/trolley-cabina-4r-slim-55-cm-segur-blu|data.oliviero.it/imgprodotto/trolley-cabina-4r-slim-55-cm-segur-blu-2038803_160780",
 "Trolley 234810 Medio|DELSEY - LIMITED EDITION Valigia morbida, con struttura in|2017/12/trolley-234810-medio|data.oliviero.it/imgprodotto/trolley-234810-medio_62929",

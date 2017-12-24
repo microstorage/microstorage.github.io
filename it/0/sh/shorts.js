@@ -1,4 +1,5 @@
 Gr = [
+"Jeans P02371 05226|Tipologia: Jeans donna Tessuto: 100% cotone Vestibilità: vita bassa|2017/12/jeans-p02371-05226|data.oliviero.it/imgprodotto/jeans-p02371-05226_7712_big",
 "Pantaloncini Running Donna Easy Orange Response|Collezione Primavera Estate Che tu voglia allenare la resistenza o la|2017/12/pantaloncini-running-donna-easy-orange-response|data.oliviero.it/imgprodotto/pantaloncini-running-donna-easy-orange-response-az2846_159336",
 "Bermuda WB57DA1D14|Collezione : Primavera Estate Tipologia : Bermuda casual da donna|2017/12/bermuda-wb57da1d14|data.oliviero.it/imgprodotto/bermuda-wb57da1d14_77591",
 "Bermuda T2S4MR 00457|Collezione Twin Set Jeans Bermuda da donna dalla vestibilità comoda|2017/12/bermuda-t2s4mr-00457|data.oliviero.it/imgprodotto/bermuda-t2s4mr-00457_146903",

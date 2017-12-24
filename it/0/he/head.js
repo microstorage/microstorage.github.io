@@ -1,4 +1,12 @@
 Gr = [
+"Tubo Palline Padel Pro|Barattolo Cilindrico, che può contenere 3 palline da tennis e paddle|2017/12/tubo-palline-padel-pro|data.oliviero.it/imgprodotto/tubo-palline-padel-pro_171421",
+"Casco Sci Arise Green|Casco sci Head Arise con tecnologia Flexcore: un nucleo flessibile|2017/12/casco-sci-arise-green|data.oliviero.it/imgprodotto/casco-sci-arise-green-328425_157640",
+"Racchetta Tennis Maria 25|Racchetta con piatto corde Concepita per la nuova generazione , ecco|2017/12/racchetta-tennis-maria-25|data.oliviero.it/imgprodotto/racchetta-tennis-maria-25-234506_154541",
+"Racchetta Tennis Graphene XT Extreme|Racchetta senza piatto corde La serie di racchette EXTREME abbina|2017/12/racchetta-tennis-graphene-xt-extreme|data.oliviero.it/imgprodotto/racchetta-tennis-graphene-xt-extreme-230725_154538",
+"Scarponi Sci Next Edge XP|Scarponi sci Head Next Edge XP leggero, confortevole, caldo, di|2017/12/scarponi-sci-next-edge-xp|data.oliviero.it/imgprodotto/scarponi-sci-next-edge-xp_171320",
+"Sci Venturi 95 + Attack 13|I Venturi 95 sono sci freeride versatili che garantiscono estrema|2017/12/sci-venturi-95-+-attack-13|data.oliviero.it/imgprodotto/sci-venturi-95-attack-13_144134",
+"Sci Supershape I.Magnum + PRD12|L'i.Supershape Magnum è il nostro Supershape più versatile|2017/12/sci-supershape-i-magnum-+-prd12|data.oliviero.it/imgprodotto/sci-supershape-i-magnum-prd12_171324",
+"Scarponi Sci Vector Evo ST|Scarponi sci Head Vector Evo ST ideali per sciatori esperti, unisce|2017/12/scarponi-sci-vector-evo-st|data.oliviero.it/imgprodotto/scarponi-sci-vector-evo-st_171317",
 "Scarponi Sci Next Edge XP W|Scarponi sci Head Next Edge XP W leggero, confortevole, caldo, di|2017/12/scarponi-sci-next-edge-xp-w|data.oliviero.it/imgprodotto/scarponi-sci-next-edge-xp-w_171321",
 "Racchetta Tennis Maria 23|Racchetta con piatto corde Una racchetta violetto e blu della gamma|2017/12/racchetta-tennis-maria-23|data.oliviero.it/imgprodotto/racchetta-tennis-maria-23-234516_154540",
 "Scarponi Sci Advant Edge 85 W|Personalizzazione, comfort e facilità d'uso definiscono l'Advant Edge|2017/12/scarponi-sci-advant-edge-85-w|data.oliviero.it/imgprodotto/scarponi-sci-advant-edge-85-w_171319",

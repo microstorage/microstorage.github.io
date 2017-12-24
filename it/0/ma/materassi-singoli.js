@@ -1,4 +1,5 @@
 Gr = [
+"Materasso 80x190 Singolo Export ortopedico|Materasso singolo 200 molle di diametro 2.2 Spessore 20cm L' isolante|2017/12/materasso-80x190-singolo-export-ortopedico|data.oliviero.it/imgprodotto/materasso-80x190-singolo-export-ortopedico_93506",
 "Materasso 80x190 Singolo Export|MADE IN ITALY. Materasso singolo 154 molle di diametro 2.2. Spessore|2017/12/materasso-80x190-singolo-export|data.oliviero.it/imgprodotto/materasso-80x190-singolo-export_93503",
 "Materasso 80x190 Singolo Jolly|Materasso singolo 154 molle di diamentro 2.2 Spessore 20cm L'|2017/12/materasso-80x190-singolo-jolly|data.oliviero.it/imgprodotto/materasso-80x190-singolo-jolly_93497",
 "Materasso 80x190 Singolo Jolly Ortopedico|Materasso ortopedico 200 molle, realizzato interamente in tessuto|2017/12/materasso-80x190-singolo-jolly-ortopedico|data.oliviero.it/imgprodotto/materasso-80x190-singolo-jolly-ortopedico_93500",

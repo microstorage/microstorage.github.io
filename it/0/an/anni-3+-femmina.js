@@ -1,4 +1,8 @@
 Gr = [
+"Puzzle Principi e Draghi|Età 4+ Anni Puzzle composto da 54 pezzi rappresentanti draghi|2017/12/puzzle-principi-e-draghi|data.oliviero.it/imgprodotto/puzzle-principi-e-draghi_139679",
+"Casa delle Bambole Villa delle Meraviglie|Villa delle meraviglie con luci e suoni. Inclusi 3 personaggi, un|2017/12/casa-delle-bambole-villa-delle-meraviglie|data.oliviero.it/imgprodotto/casa-delle-bambole-villa-delle-meraviglie-64220_156810",
+"Kit crea Bambola Bibi|Età 6+ Anni Kit per creare la propria bambola. Include tutto il|2017/12/kit-crea-bambola-bibi|data.oliviero.it/imgprodotto/kit-crea-bambola-bibi_139676",
+"Fashion Design Mya|4A+ Un grande intramontabile classico, le bambole di carta da|2017/12/fashion-design-mya|data.oliviero.it/imgprodotto/fashion-design-mya-2931_156286",
 "Cucina princess legno|Grandi dimensioni Cucina realizzata in solido legno e pensata per le|2017/12/cucina-princess-legno|data.oliviero.it/imgprodotto/cucina-princess-legno_163929",
 "Potere del Ghiaccio|Età 3+ Anni Le fan del film Frozen possono incanalare i poteri magici|2017/12/potere-del-ghiaccio|data.oliviero.it/imgprodotto/potere-del-ghiaccio-frozen_139573",
 "Pixel Photo 4 tavole|6A+ La fortunata linea Pixel Art si amplia con Pixel Photo. Il|2017/12/pixel-photo-4-tavole|data.oliviero.it/imgprodotto/pixel-photo-4-tavole_156255",

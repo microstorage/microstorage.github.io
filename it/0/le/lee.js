@@ -1,4 +1,6 @@
 Gr = [
+"Jeans Donna Blue Lagoon Jodee Regular Waist Super Skinny|Lee® Jodee con un taglio slim e vita normale. Taglio impeccabile con|2017/12/jeans-donna-blue-lagoon-jodee-regular-waist-super-skinny|data.oliviero.it/imgprodotto/jeans-donna-blue-lagoon-jodee-regular-waist-super-skinny-l529hake_159580",
+"Jeans Uomo Daren Zip Fly Regular Slim|Daren di Lee® è il più amato dei nostri jeans con vestibilità|2017/12/jeans-uomo-daren-zip-fly-regular-slim|data.oliviero.it/imgprodotto/jeans-uomo-daren-zip-fly-regular-slim_170927",
 "Jeans Donna Dusk Blue Jodee Regular Waist Super Skinny|Lee® Jodee con un taglio slim e vita normale. Taglio impeccabile con|2017/12/jeans-donna-dusk-blue-jodee-regular-waist-super-skinny|data.oliviero.it/imgprodotto/jeans-donna-dusk-blue-jodee-regular-waist-super-skinny-l529aync_159572",
 "Jeans Uomo Daren Regular Slim|Daren di Lee® è il più amato dei nostri jeans con vestibilità|2017/12/jeans-uomo-daren-regular-slim|data.oliviero.it/imgprodotto/jeans-uomo-daren-regular-slim_170925",
 "Jeans Donna Scarlett Night Sky|Scarlett Lee® jeans, modello cinque tasche perfetto skinny fit, vita|2017/12/jeans-donna-scarlett-night-sky|data.oliviero.it/imgprodotto/jeans-donna-scarlett-night-sky-l526haim_159593",

@@ -1,4 +1,5 @@
 Gr = [
+"Roller Phoenix|Pattini regolabili da bambina. Il modello si regola in 4 misure così|2017/12/roller-phoenix|data.oliviero.it/imgprodotto/roller-phoenix_147570",
 "Pattini e Protezioni Spitfire Combo|Regolazione a pulsante, comfort e controllo eccellenti: ogni singolo|2017/12/pattini-e-protezioni-spitfire-combo|data.oliviero.it/imgprodotto/pattini-e-protezioni-spitfire-combo_173240",
 "Pattini e Protezioni Spitfire Combo G|Regolazione a pulsante, comfort e controllo eccellenti: ogni singolo|2017/12/pattini-e-protezioni-spitfire-combo-g|data.oliviero.it/imgprodotto/pattini-e-protezioni-spitfire-combo-g_173239",
 "Roller Zetrablade W|Comodo, semplice e costruito per durare. La calzata e le prestazioni|2017/12/roller-zetrablade-w|data.oliviero.it/imgprodotto/roller-zetrablade-w_171920",

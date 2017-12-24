@@ -1,4 +1,5 @@
 Gr = [
+"Racchetta Beach Tennis Graffiti|Collezione Primavera Estate Questo attrezzo è stato progettato|2017/12/racchetta-beach-tennis-graffiti|data.oliviero.it/imgprodotto/racchetta-beach-tennis-graffiti-btt1710_164727",
 "Racchetta Beach Tennis Typhoon|Collezione Primavera Estate Ulteriormente migliorata, la Typhoon 5.1|2017/12/racchetta-beach-tennis-typhoon|data.oliviero.it/imgprodotto/racchetta-beach-tennis-typhoon-btt1716_164738",
 "Racchetta Beach Tennis Wave|Collezione Primavera Estate Le racchette WAVE sono ottimi attrezzi|2017/12/racchetta-beach-tennis-wave|data.oliviero.it/imgprodotto/racchetta-beach-tennis-wave-btt1708_164730",
 "Racchetta Beach Tennis Black Death|Collezione Primavera Estate La punta di Diamante della collezione|2017/12/racchetta-beach-tennis-black-death|data.oliviero.it/imgprodotto/racchetta-beach-tennis-black-death-btt1720l_164736",

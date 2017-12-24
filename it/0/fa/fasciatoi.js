@@ -1,4 +1,10 @@
 Gr = [
+"Bagnetto Fasciatoio Eco Celine|Bagnetto Fasciatoio collezione Celine. Celine Pali è un pratico|2017/12/bagnetto-fasciatoio-eco-celine|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-eco-celine_147359",
+"Bagnetto Fasciatoio Zoe Rosa|Pali offre una linea completa di bagnetti fasciatoio, per la cura del|2017/12/bagnetto-fasciatoio-zoe-rosa|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-zoe-rosa_147378",
+"Bagnetto Fasciatoio Gaia Bianco Lucido|Pali offre una linea completa di bagnetti fasciatoio, per la cura del|2017/12/bagnetto-fasciatoio-gaia-bianco-lucido|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-gaia-bianco-lucido_147366",
+"Fasciatoio Olimpia Bianco|Il piano fasciatoio è ben imbottito e con spondine di sicurezza|2017/12/fasciatoio-olimpia-bianco|data.oliviero.it/imgprodotto/fasciatoio-olimpia-bianco_172606",
+"Fasciatoio Tommy Naturale|Pali offre una linea completa di bagnetti fasciatoio, per la cura del|2017/12/fasciatoio-tommy-naturale|data.oliviero.it/imgprodotto/fasciatoio-tommy-naturale_157055",
+"Bagnetto Fasciatoio Zoe Azzurro|Pali offre una linea completa di bagnetti fasciatoio, per la cura del|2017/12/bagnetto-fasciatoio-zoe-azzurro|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-zoe-azzurro_147376",
 "Fasciatoio miki greige|Il fasciatoio Miki è un complemento d'arredo di design, utile ed|2017/12/fasciatoio-miki-greige|data.oliviero.it/imgprodotto/fasciatoio-miki-greige_84289",
 "Fasciatoio volare 222|Bagnetto / fasciatoio pieghevole dalle forme moderne, dispone di un|2017/12/fasciatoio-volare-222|data.oliviero.it/imgprodotto/fasciatoio-volare-222_136972",
 "Bagnetto Fasciatoio Chic Bianco|Pali offre una linea completa di bagnetti fasciatoio, per la cura del|2017/12/bagnetto-fasciatoio-chic-bianco|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-chic-bianco_166182",
