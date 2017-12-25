@@ -1,4 +1,8 @@
 Gr = [
+"Scrivania Format Ciliegio|Scrivania con struttura in ferro verniciato di colore nero, piano in|2017/12/scrivania-format-ciliegio|data.oliviero.it/imgprodotto/scrivania-format-ciliegio_108528",
+"Scrivania 95.42.022|MADE IN ITALY La serie \"SPRINT\" di \"Valentini\" comprende mobiletti|2017/12/scrivania-95-42-022|data.oliviero.it/imgprodotto/scrivania-95-42-022_74137",
+"Scrivania Folder Ciliegio|Scrivania con struttura in acciaio verniciato silver, piano in MDF|2017/12/scrivania-folder-ciliegio|data.oliviero.it/imgprodotto/scrivania-folder-ciliegio_108571",
+"2 Sedie d'attesa 99.08.74|MADE IN ITALY La serie \"Lettera32\" di \"Valentini\" comprende|2017/12/2-sedie-d-attesa-99-08-74|data.oliviero.it/imgprodotto/2-sedie-dattesa-99-08-74_157589",
 "Scrivania 51.42.115|MADE IN ITALY La serie \"SPRINT\" di \"Valentini\" comprende mobiletti|2017/12/scrivania-51-42-115|data.oliviero.it/imgprodotto/scrivania-51-42-115_55437",
 "Poltrona Sake Bianca|Poltrona per ufficio Direzionale, con base in acciaio cromato|2017/12/poltrona-sake-bianca|data.oliviero.it/imgprodotto/poltrona-sake-bianca_149138",
 "Poltrona da ufficio HIGGY|Poltrona da ufficio \"HIGGY\" rivestita in pelle ecologica di colore|2017/12/poltrona-da-ufficio-higgy|data.oliviero.it/imgprodotto/poltrona-da-ufficio-higgy_135051",

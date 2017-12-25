@@ -1,4 +1,5 @@
 Gr = [
+"Zaino Shot Pack Fantasy|Capacità 28 lt Dimensione 27x41x20 cm Funzionali Fondo imbottito|2017/12/zaino-shot-pack-fantasy|data.oliviero.it/imgprodotto/zaino-shot-pack-fantasy_167469",
 "Zaino Shot Pack|Capacità 28 lt Dimensione 27x41x20 cm Funzionali Fondo imbottito|2017/12/zaino-shot-pack|data.oliviero.it/imgprodotto/zaino-shot-pack_167467",
 "Zaino Ollie Face|Lo carichi, lo riempi all'inverosimile, lo butti a terra, prende sole|2017/12/zaino-ollie-face|data.oliviero.it/imgprodotto/zaino-ollie-face_167437",
 "Zaino Ollie Face Fantasy|Lo carichi, lo riempi all'inverosimile, lo butti a terra, prende sole|2017/12/zaino-ollie-face-fantasy|data.oliviero.it/imgprodotto/zaino-ollie-face-fantasy_167444",

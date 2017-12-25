@@ -1,4 +1,6 @@
 Gr = [
+"Recumbent Comfort R New|Ampia seduta con supporto lombare, maniglie ergonomiche che rendono|2017/12/recumbent-comfort-r-new|data.oliviero.it/imgprodotto/recumbent-comfort-r-new_154146",
+"Recumbent Diamond D41|Recumbent Diamond D41 SISTEMA FRENANTE elettromagnetico|2017/12/recumbent-diamond-d41|data.oliviero.it/imgprodotto/recumbent-diamond-d41_134931",
 "Recumbent ChronoLine BRX R300|La nuovissima cyclette Toorx BRX R 300 fa parte della nuova linea|2017/12/recumbent-chronoline-brx-r300|data.oliviero.it/imgprodotto/recumbent-chronoline-brx-r300_153878",
 "Recumbent Ride R282|Buon prodotto con un ottimo rapporto qualità prezzo. Dotata di una|2017/12/recumbent-ride-r282|data.oliviero.it/imgprodotto/recumbent-ride-r282_172822",
 "Recumbent BRX R Comfort|DATI TECNICI BRX-R COMFORT Sistema di frenaggio magnetico su|2017/12/recumbent-brx-r-comfort|data.oliviero.it/imgprodotto/recumbent-brx-r-comfort_84845",

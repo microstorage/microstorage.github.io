@@ -1,4 +1,12 @@
 Gr = [
+"Camicia Taglie Forti Uomo London blu|Tipologia : Camicia Taglie Forti uomo Tessuto : 65% cotone, 32%|2017/12/camicia-taglie-forti-uomo-london-blu|data.oliviero.it/imgprodotto/camicia-taglie-forti-uomo-london-blu_152235",
+"Camicia Uomo Taglie Forti Vinaccia|Collezione Autunno Inverno/2018 Camicia uomo taglie forti. Il modello|2017/12/camicia-uomo-taglie-forti-vinaccia|data.oliviero.it/imgprodotto/camicia-uomo-taglie-forti-vinaccia_170913",
+"Camicia Jeans Dark Black|Collezione Autunno Inverno/2018 Modello slim fit Tessuto e look denim|2017/12/camicia-jeans-dark-black|data.oliviero.it/imgprodotto/camicia-jeans-dark-black_169143",
+"Camicia Uomo Western Blu|Collezione Autunno Inverno/2018 La nostra camicia western con fit|2017/12/camicia-uomo-western-blu|data.oliviero.it/imgprodotto/camicia-uomo-western-blu_170485",
+"Camicia Taglie Forti Uomo Checked|Collezione Autunno Inverno/2018 Camicia da uomo taglie forti. Il|2017/12/camicia-taglie-forti-uomo-checked|data.oliviero.it/imgprodotto/camicia-taglie-forti-uomo-checked_169611",
+"Camicia Uomo Rosso|Collezione Autunno Inverno/2018 Se cerchi un look audace dal tocco|2017/12/camicia-uomo-rosso|data.oliviero.it/imgprodotto/camicia-uomo-rosso_171004",
+"Camicia in Lino Taglie Forti Azzurro|Collezione Primavera Estate Camicia da uomo taglie forti, in lino con|2017/12/camicia-in-lino-taglie-forti-azzurro|data.oliviero.it/imgprodotto/camicia-in-lino-taglie-forti-azzurro-n692006ad-221_158602",
+"Camicia Uomo Taglie Forti Scacchi|Collezione Autunno Inverno/2018 Camicia uomo taglie forti. Il modello|2017/12/camicia-uomo-taglie-forti-scacchi|data.oliviero.it/imgprodotto/camicia-uomo-taglie-forti-scacchi_167844",
 "Camicia Uomo Button Down Offwhite|Collezione Autunno Inverno/2018 Indosserai ogni giorno la nostra|2017/12/camicia-uomo-button-down-offwhite|data.oliviero.it/imgprodotto/camicia-uomo-button-down-offwhite_170491",
 "Camicia donna O14003 T7122 14201|Collezione Liu Jo Jeans Camicia da donna con mezze maniche|2017/12/camicia-donna-o14003-t7122-14201|data.oliviero.it/imgprodotto/camicia-donna-o14003-t7122-14201_146716",
 "Camicia Uomo Button Down|Collezione Autunno Inverno/2018 La nostra classica camicia slim ha un|2017/12/camicia-uomo-button-down|data.oliviero.it/imgprodotto/camicia-uomo-button-down_170489",

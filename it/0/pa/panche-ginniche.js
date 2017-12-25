@@ -1,4 +1,6 @@
 Gr = [
+"Panca Ginnica Force Bench 560|Force Bench 560 è una robusta panca porta bilanciere. Telaio|2017/12/panca-ginnica-force-bench-560|data.oliviero.it/imgprodotto/panca-ginnica-force-bench-560_168519",
+"Panca Ad 330 + Pesi + Bilanciere|La promozione comprende la Panca AD 330 HIGH POWER, il Bilanciere|2017/12/panca-ad-330-+-pesi-+-bilanciere|data.oliviero.it/imgprodotto/panca-ad-330-pesi-bilanciere_7888_big",
 "Smith Machine Jk 6067|Massimo peso caricabile 150 Kg Dimensione tubi 60 x 60 x 3 mm|2017/12/smith-machine-jk-6067|data.oliviero.it/imgprodotto/smith-machine-jk-6067_173191",
 "Panca Gravitazionale Turning Slim|Everfit Turning Slim è la nuova panca inversione regolabile in|2017/12/panca-gravitazionale-turning-slim|data.oliviero.it/imgprodotto/panca-gravitazionale-turning-slim_90149",
 "Panca Inversione Force Inversion Power|Panca antigravitazionale, studiata per l'allungamento dei muscoli|2017/12/panca-inversione-force-inversion-power|data.oliviero.it/imgprodotto/panca-inversione-force-inversion-power_168734",

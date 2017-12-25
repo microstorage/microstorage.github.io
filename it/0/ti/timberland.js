@@ -1,4 +1,12 @@
 Gr = [
+"Scarpa Uomo Marrone Scuro|Collezione Autunno Inverno/2018 Le stesse caratteristiche e la|2017/12/scarpa-uomo-marrone-scuro|data.oliviero.it/imgprodotto/scarpa-uomo-marrone-scuro_171096",
+"Camicia Uomo Rosso|Collezione Autunno Inverno/2018 Se cerchi un look audace dal tocco|2017/12/camicia-uomo-rosso|data.oliviero.it/imgprodotto/camicia-uomo-rosso_171004",
+"Scarpe Jr. Marrone|Collezione Autunno Inverno/2018 Quando è tempo di giocare, i piccoli|2017/12/scarpe-jr-marrone|data.oliviero.it/imgprodotto/scarpe-jr-marrone_171118",
+"Stivaletti Uomo Nero|Collezione Autunno Inverno/2018 Il nostro Stormbuck Chelsea Boot è da|2017/12/stivaletti-uomo-nero|data.oliviero.it/imgprodotto/stivaletti-uomo-nero_171089",
+"Scarponcini Donna Nero|Collezione Autunno Inverno/2018 L'iconico scarponcino Timberland®|2017/12/scarponcini-donna-nero|data.oliviero.it/imgprodotto/scarponcini-donna-nero_171101",
+"Pantaloni Uomo Beige Scuro|Collezione Autunno Inverno/2018 Pensati per una vita dinamica e di|2017/12/pantaloni-uomo-beige-scuro|data.oliviero.it/imgprodotto/pantaloni-uomo-beige-scuro_171008",
+"Scarpe Uomo Adventure 2.0 Gore-Tex|Collezione Autunno Inverno/2018 Stai sempre in movimento e sfida|2017/12/scarpe-uomo-adventure-2-0-gore-tex|data.oliviero.it/imgprodotto/scarpe-uomo-adventure-2-0-gore-tex_171075",
+"Giubbotto Uomo Rosso|Collezione Autunno Inverno/2018 Sottile e leggera, ma robusta: una|2017/12/giubbotto-uomo-rosso|data.oliviero.it/imgprodotto/giubbotto-uomo-rosso_171055",
 "Scarpe Jr. Wheat|Collezione Autunno Inverno/2018 Quando è tempo di giocare, i piccoli|2017/12/scarpe-jr-wheat|data.oliviero.it/imgprodotto/scarpe-jr-wheat_171115",
 "Felpa Uomo Grigio Chiaro|Collezione Autunno Inverno/2018 Questa classica felpa girocollo dalla|2017/12/felpa-uomo-grigio-chiaro|data.oliviero.it/imgprodotto/felpa-uomo-grigio-chiaro_171033",
 "Polo Uomo Verde|Collezione Autunno Inverno/2018 Indossa questa classica polo|2017/12/polo-uomo-verde|data.oliviero.it/imgprodotto/polo-uomo-verde_171049",

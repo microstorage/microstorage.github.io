@@ -1,4 +1,7 @@
 Gr = [
+"Pupazzo Big Soft Cuddles Azzurro|Morbido e delicato come un tenero abbraccio,è ideale proprio nei|2017/12/pupazzo-big-soft-cuddles-azzurro|data.oliviero.it/imgprodotto/pupazzo-big-soft-cuddles-azzurro_93896",
+"Copertina Happy Color Gatto|Prime copertine colorate, realizzate in morbido tessuto velour|2017/12/copertina-happy-color-gatto|data.oliviero.it/imgprodotto/copertina-happy-color-gatto_65791",
+"Sonaglio a fiore|Questo grazioso sonaglio è il giocattolo ideale per il vostro bambino|2017/12/sonaglio-a-fiore|data.oliviero.it/imgprodotto/sonaglio-a-fiore_72488",
 "Luce Musicale Buona Notte|Culla il sonno della tuo bambina con questo pannello rosa pensato|2017/12/luce-musicale-buona-notte|data.oliviero.it/imgprodotto/luce-musicale-buona-notte_156944",
 "Dancing friends|Il centro attività per passeggio dotato di un pratico sistema di|2017/12/dancing-friends|data.oliviero.it/imgprodotto/dancing-friends_156323",
 "Copertina Soft Cuddles Rosa|La copertina realizzata in morbido tessuto che aiuta il bambino|2017/12/copertina-soft-cuddles-rosa|data.oliviero.it/imgprodotto/copertina-soft-cuddles-rosa-00007496100000_155610",

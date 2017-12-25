@@ -1,4 +1,8 @@
 Gr = [
+"Polo uomo rossa classic navy manica corta|La polo a tre bottoni che Agostini ha voluto a tutti i costi, rossa|2017/12/polo-uomo-rossa-classic-navy-manica-corta|data.oliviero.it/imgprodotto/polo-uomo-rossa-classic-navy-manica-corta_93411",
+"Fascia Scaldacollo Giacomo Agostini|La fascia che Agostini indossava quando correva, nera, come le tute|2017/12/fascia-scaldacollo-giacomo-agostini|data.oliviero.it/imgprodotto/fascia-scaldacollo-giacomo-agostini_93387",
+"T-shirt uomo History Giacomo Agostini|Una leggenda mondiale, raccontata in italiano Un testo che è allo|2017/12/t-shirt-uomo-history-giacomo-agostini|data.oliviero.it/imgprodotto/t-shirt-uomo-history-giacomo-agostini_93403",
+"T-shirt uomo bianca heritage|Tratta da una foto privata di Giacomo Uno stile anni 70, heritage Una|2017/12/t-shirt-uomo-bianca-heritage|data.oliviero.it/imgprodotto/t-shirt-uomo-bianca-heritage_93397",
 "Giacomo Agostini Cap Vintage|Un cappellino che celebra i quindici titoli mondiali del più|2017/12/giacomo-agostini-cap-vintage|data.oliviero.it/imgprodotto/giacomo-agostini-cap-vintage_93378",
 "Tazza Giacomo Agostini|Una tazza per iniziare ogni giornata insieme al quindici volte|2017/12/tazza-giacomo-agostini|data.oliviero.it/imgprodotto/tazza-giacomo-agostini_93391",
 "T-shirt uomo Mention Manica Lunga Giacomo Agostini|Giacomo Agostini ci ha raccontato con una frase semplice cosa sia per|2017/12/t-shirt-uomo-mention-manica-lunga-giacomo-agostini|data.oliviero.it/imgprodotto/t-shirt-uomo-mention-manica-lunga-giacomo-agostini_93401",

@@ -1,4 +1,5 @@
 Gr = [
+"Asciugacapelli Professionale AC 2000W 40.950|Asciugacapelli Professionale AC 2000W Codice: 40.950 Descrizione|2017/12/asciugacapelli-professionale-ac-2000w-40-950|data.oliviero.it/imgprodotto/asciugacapelli-professionale-ac-2000w-40-950_152903",
 "Asciugacapelli Professionale 2000W Hello Kitty|Asciugacapelli Professionale 2000W Hello Kitty Codice: HK-JZ38|2017/12/asciugacapelli-professionale-2000w-hello-kitty|data.oliviero.it/imgprodotto/asciugacapelli-professionale-2000w-hello-kitty-hk-jz38_89525",
 "Bilancia Pesapersone Wireless|Bilancia Pesapersone Wireless - 40.809 Pedana in vetro temperato|2017/12/bilancia-pesapersone-wireless|data.oliviero.it/imgprodotto/bilancia-pesapersone-wireless-40-809_106105",
 "Bilancia Pesapersona tipo medico|Bilancia Pesapersona tipo medico - 40.804 Caratteristiche Corpo in|2017/12/bilancia-pesapersona-tipo-medico|data.oliviero.it/imgprodotto/bilancia-pesapersona-tipo-medico-40-804_106114",

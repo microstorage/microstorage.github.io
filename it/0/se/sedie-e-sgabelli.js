@@ -1,4 +1,9 @@
 Gr = [
+"Sgabello ergonomico berger|SGABELLO ERGONOMICO \"BERGER\" struttura in metallo finitura alluminio|2017/12/sgabello-ergonomico-berger|data.oliviero.it/imgprodotto/sgabello-ergonomico-berger_78543",
+"4 Sedie Just Grey|Seduta Rivestita In Pelle Sintetica Di Colore Grigio Struttura In|2017/12/4-sedie-just-grey|data.oliviero.it/imgprodotto/4-sedie-just-grey_169931",
+"4 Sedie Just white|Sedia Just White Seduta Rivestita In Pelle Sintetica Di Colore Bianco|2017/12/4-sedie-just-white|data.oliviero.it/imgprodotto/4-sedie-just-white_169923",
+"Coppia di Sgabelli bar Snappy white|Sgabello bar SNAPPY WHITE seduta in pelle ecologica BIANCA struttura|2017/12/coppia-di-sgabelli-bar-snappy-white|data.oliviero.it/imgprodotto/coppia-di-sgabelli-bar-snappy-white_137930",
+"Sgabello Quadro Lilla|Sgabello con base e struttura in acciaio cromato, seduta e schienale|2017/12/sgabello-quadro-lilla|data.oliviero.it/imgprodotto/sgabello-quadro-lilla_130775",
 "Sgabello Kris Rosso|SGABELLO KRIS Rosso Sgabello con struttura in acciaio cromato, seduta|2017/12/sgabello-kris-rosso|data.oliviero.it/imgprodotto/sgabello-kris-rosso_130761",
 "Coppia di sedie Emma Moka|Sedia imbottita \"EMMA MOKA\" dimensioni sedia cm L55 P60 H80|2017/12/coppia-di-sedie-emma-moka|data.oliviero.it/imgprodotto/coppia-di-sedie-emma-moka_134127",
 "2 sgabelli mia|Sgabello Da Interno / Esterno Mia Realizzato In Policarbonato|2017/12/2-sgabelli-mia|data.oliviero.it/imgprodotto/2-sgabelli-mia_169952",

@@ -1,5 +1,6 @@
 Tt = "Colibrì";
 Gr = [
+"Banco scuola rosso|Un vero tavolo ergonomico per scrivere e disegnare, altezza|2017/12/banco-scuola-rosso|data.oliviero.it/imgprodotto/banco-scuola-rosso_163952",
 "Triciclo mickey pieghevole|Triciclo Topolino Mickey Pieghevole con Luci e Suoni per Bambini|2017/12/triciclo-mickey-pieghevole|data.oliviero.it/imgprodotto/triciclo-mickey-pieghevole_163842",
 "Cucina princess legno|Grandi dimensioni Cucina realizzata in solido legno e pensata per le|2017/12/cucina-princess-legno|data.oliviero.it/imgprodotto/cucina-princess-legno_163929",
 "Pista acrobatica slot racing|Pista acrobatica in scala 1:43 a due velocità, con doppio giro della|2017/12/pista-acrobatica-slot-racing|data.oliviero.it/imgprodotto/pista-acrobatica-slot-racing_163927",

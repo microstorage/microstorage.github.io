@@ -1,4 +1,5 @@
 Gr = [
+"Jeans donna Vivienne|Tipologia: Jeans donna Tessuto: 100% cotone Vestibilità: vita|2017/12/jeans-donna-vivienne|data.oliviero.it/imgprodotto/jeans-donna-vivienne_6411_big",
 "Jeans donna Felicia|Tipologia: Jeans donna Tessuto : 100% cotono Vestibilità: vita bassa|2017/12/jeans-donna-felicia|data.oliviero.it/imgprodotto/jeans-donna-felicia_65651",
 "Jeans P02371 05226|Tipologia: Jeans donna Tessuto: 100% cotone Vestibilità: vita bassa|2017/12/jeans-p02371-05226|data.oliviero.it/imgprodotto/jeans-p02371-05226_7712_big",
 "Pantaloni donna Percy Beatrice|Collezione Primavera Estate Tipologia: Pantalone da donna Tessuto: Il|2017/12/pantaloni-donna-percy-beatrice|data.oliviero.it/imgprodotto/pantaloni-donna-percy-beatrice_9911_big",

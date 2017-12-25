@@ -1,4 +1,8 @@
 Gr = [
+"Salopette Sci Uomo Chili|Collezione Autunno Inverno/2018 Saloppette da sci dal taglio sportivo|2017/12/salopette-sci-uomo-chili|data.oliviero.it/imgprodotto/salopette-sci-uomo-chili_169267",
+"Scarpe Trekking Mirzam|Per le escursioni con temperature più rigide CMP presenta MIRZAM, la|2017/12/scarpe-trekking-mirzam|data.oliviero.it/imgprodotto/scarpe-trekking-mirzam_167711",
+"Pantaloni Sci Donna Bianco|Collezione Autunno Inverno/2018 Le taglie sono espresse in misure|2017/12/pantaloni-sci-donna-bianco|data.oliviero.it/imgprodotto/pantaloni-sci-donna-bianco_169275",
+"Giacca Uomo Antivento antracite e Verde|Collezione Autunno Inverno/2018 Softshell da uomo risponde a tutte le|2017/12/giacca-uomo-antivento-antracite-e-verde|data.oliviero.it/imgprodotto/giacca-uomo-antivento-antracite-e-verde_169220",
 "Scarpe Trekking Rigel Low|Pensate per chi ama le attività all'aria aperta, le calzature della|2017/12/scarpe-trekking-rigel-low|data.oliviero.it/imgprodotto/scarpe-trekking-rigel-low_166829",
 "Scarpe Trekking Rigel Mid W|RIGEL MID è uno scarponcino trekking impermeabile dallo stile|2017/12/scarpe-trekking-rigel-mid-w|data.oliviero.it/imgprodotto/scarpe-trekking-rigel-mid-w_168708",
 "Scarpe Trail Running Atlas|Scarpa veloce da SkyRace perfetta per performance sulle medie e brevi|2017/12/scarpe-trail-running-atlas|data.oliviero.it/imgprodotto/scarpe-trail-running-atlas_166823",

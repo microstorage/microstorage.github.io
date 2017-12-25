@@ -1,4 +1,10 @@
 Gr = [
+"Casco ciclismo Protone|Casco da ciclismo Tecnologia : Imbottitura tridimensionale 3d dry|2017/12/casco-ciclismo-protone|data.oliviero.it/imgprodotto/casco-ciclismo-protone_109932",
+"Guanti Ciclismo Nero e Bianco|Collezione Primavera Estate Guanto CICLOTURISMO/RACE in Lycra® sport|2017/12/guanti-ciclismo-nero-e-bianco|data.oliviero.it/imgprodotto/guanti-ciclismo-nero-e-bianco_165387",
+"Giacca Ciclismo uomo Reflex|Grande qualità e sicurezza per questa giacca a vento \"nel caso|2017/12/giacca-ciclismo-uomo-reflex|data.oliviero.it/imgprodotto/giacca-ciclismo-uomo-reflex-1101635-002_155273",
+"Giacca Ciclismo Uomo No rain|Collezione Primavera Estate Giacca leggera, compatta, impermeabile|2017/12/giacca-ciclismo-uomo-no-rain|data.oliviero.it/imgprodotto/giacca-ciclismo-uomo-no-rain-1101337-002_162758",
+"Casco Ciclismo Rush|Rush è il nuovo casco Rudy Project dedicato a chi vuole raggiungere|2017/12/casco-ciclismo-rush|data.oliviero.it/imgprodotto/casco-ciclismo-rush_146292",
+"Casco ciclismo Mojito|Casco da ciclismo Tecnlogia : ECO Chinstrap Il sottogola è in|2017/12/casco-ciclismo-mojito|data.oliviero.it/imgprodotto/casco-ciclismo-mojito_109939",
 "Guanti Ciclismo Bianco e Nero|Guanto RACE aerodinamico con imbottitura in GEL antishock, silicone|2017/12/guanti-ciclismo-bianco-e-nero|data.oliviero.it/imgprodotto/guanti-ciclismo-bianco-e-nero_165386",
 "Casco Ciclismo Fiamma Nero|Leggerissimo e dalla calzata avvolgente, il casco Fiamma garantisce|2017/12/casco-ciclismo-fiamma-nero|data.oliviero.it/imgprodotto/casco-ciclismo-fiamma-nero_165360",
 "Pantaloni Ciclismo Donna Nero|Collezione Primavera Estate Pantalone ¾ CICLOTURISMO ergonomico|2017/12/pantaloni-ciclismo-donna-nero|data.oliviero.it/imgprodotto/pantaloni-ciclismo-donna-nero_165332",

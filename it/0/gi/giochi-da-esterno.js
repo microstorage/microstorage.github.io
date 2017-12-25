@@ -1,4 +1,10 @@
 Gr = [
+"Altalena Candy 1|Altalena ad una seduta solida e resistente per un classico|2017/12/altalena-candy-1|data.oliviero.it/imgprodotto/altalena-candy-1_11204_big",
+"Seggiolino di Sicurezza per Altalena Coco e Candy|Confortevole ed avvolgente, il seggiolino di sicurezza in materiale|2017/12/seggiolino-di-sicurezza-per-altalena-coco-e-candy|data.oliviero.it/imgprodotto/seggiolino-di-sicurezza-per-altalena-coco-e-candy_11211_big",
+"Sedile Altalena Basic|Sedile base resistente e sicura, colori brillanti e resistenti alla|2017/12/sedile-altalena-basic|data.oliviero.it/imgprodotto/sedile-altalena-basic_81993",
+"Tappeto Elastico con Rete 305 cm diam|Struttura in acciaio verniciato a polvere, tappeto elastico|2017/12/tappeto-elastico-con-rete-305-cm-diam|data.oliviero.it/imgprodotto/tappeto-elastico-con-rete-305-cm-diam-70-420-0006_87774",
+"Febergus Tunnel Attività|I suoi moduli colorati permettono di montarlo in differenti|2017/12/febergus-tunnel-attivita|data.oliviero.it/imgprodotto/febergus-tunnel-attivit%C3%A0_162214",
+"Scivolo Regolabile|La struttura è robusta e stabile, la scala ha gradini larghi e un|2017/12/scivolo-regolabile|data.oliviero.it/imgprodotto/scivolo-regolabile_163739",
 "Palline colorate 100pz|Le 100 Palline multicolore possono essere utilizzate per aggiungere|2017/12/palline-colorate-100pz|data.oliviero.it/imgprodotto/palline-colorate-100pz-49602_148630",
 "Fantasy House Casetta|Casetta da gioco resistente e sicura, dotatadi porta apribile|2017/12/fantasy-house-casetta|data.oliviero.it/imgprodotto/fantasy-house-casetta_162207",
 "Secchiello Summer Time|Età consigliata: 1+ Set per la per la spiaggia con decoro Ice Cream|2017/12/secchiello-summer-time|data.oliviero.it/imgprodotto/secchiello-summer-time_165822",

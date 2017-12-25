@@ -1,4 +1,8 @@
 Gr = [
+"T-Shirt Felpa Donna Nero|Collezione Autunno Inverno/2018 maglietta ampia con mezza manica|2017/12/t-shirt-felpa-donna-nero|data.oliviero.it/imgprodotto/t-shirt-felpa-donna-nero_170346",
+"Maglione Donna Nero|Collezione Autunno Inverno/2018 maglione lungo mezza manica|2017/12/maglione-donna-nero|data.oliviero.it/imgprodotto/maglione-donna-nero_170389",
+"Blazer Lungo Donna Grigio|Collezione Autunno Inverno/2018 giacca sfoderata con rever a|2017/12/blazer-lungo-donna-grigio|data.oliviero.it/imgprodotto/blazer-lungo-donna-grigio_170370",
+"Pantaloni Sportivi in Ciniglia Donna Nero|Collezione Autunno Inverno/2018 cinturino con elastico e nastrino in|2017/12/pantaloni-sportivi-in-ciniglia-donna-nero|data.oliviero.it/imgprodotto/pantaloni-sportivi-in-ciniglia-donna-nero_170400",
 "Pantaloni Sportivi Donna Grigio Melange|Collezione Autunno Inverno/2018 pantalone con elastico e coulisse in|2017/12/pantaloni-sportivi-donna-grigio-melange|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-grigio-melange_170360",
 "Felpa Donna Oliva|Collezione Autunno Inverno/2018 felpa aperta da zip pressofusa|2017/12/felpa-donna-oliva|data.oliviero.it/imgprodotto/felpa-donna-oliva_170335",
 "Felpa con Collo Alto Oliva|Collezione Autunno Inverno/2018 felpa con collo alto sciallato|2017/12/felpa-con-collo-alto-oliva|data.oliviero.it/imgprodotto/felpa-con-collo-alto-oliva_170329",

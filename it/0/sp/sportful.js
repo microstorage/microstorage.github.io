@@ -1,4 +1,6 @@
 Gr = [
+"Giacca Ciclismo uomo Reflex|Grande qualità e sicurezza per questa giacca a vento \"nel caso|2017/12/giacca-ciclismo-uomo-reflex|data.oliviero.it/imgprodotto/giacca-ciclismo-uomo-reflex-1101635-002_155273",
+"Giacca Ciclismo Uomo No rain|Collezione Primavera Estate Giacca leggera, compatta, impermeabile|2017/12/giacca-ciclismo-uomo-no-rain|data.oliviero.it/imgprodotto/giacca-ciclismo-uomo-no-rain-1101337-002_162758",
 "Gilet Ciclismo uomo Reflex|Grande qualità e alta visibilità per questo giubbetto antivento|2017/12/gilet-ciclismo-uomo-reflex|data.oliviero.it/imgprodotto/gilet-ciclismo-uomo-reflex-1101636-002_155274",
 "Guanti Illusion Glove|Collezione Primavera Estate Semplice, lineare, con grande vestibilità|2017/12/guanti-illusion-glove|data.oliviero.it/imgprodotto/guanti-illusion-glove-1101638-187_162771",
 "Maglia 2nd Skin Uomo Bianco|Il tessuto X-Lite, con tecnologia avanzata, intrappola l'aria per|2017/12/maglia-2nd-skin-uomo-bianco|data.oliviero.it/imgprodotto/maglia-2nd-skin-uomo-bianco_165382",

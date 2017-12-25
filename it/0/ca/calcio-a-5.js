@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Calcetto Uomo MercurialX Victory VI (TF)|La scarpa da calcio per erba sintetica Nike Mercurial Victory VI|2017/12/scarpe-calcetto-uomo-mercurialx-victory-vi-tf|data.oliviero.it/imgprodotto/scarpe-calcetto-uomo-mercurialx-victory-vi-tf-831968-303_159941",
 "Scarpe Calcetto Ace 17.3 Primemesh|Hai già vinto. Servono solo 90 minuti perché se ne accorgano anche|2017/12/scarpe-calcetto-ace-17-3-primemesh|data.oliviero.it/imgprodotto/scarpe-calcetto-ace-17-3-primemesh-bb0861_158137",
 "Scarpe da Calcetto Mercurial Victory VI TF|La scarpa da calcio per erba sintetica Nike Mercurial Victory VI|2017/12/scarpe-da-calcetto-mercurial-victory-vi-tf|data.oliviero.it/imgprodotto/scarpe-da-calcetto-mercurial-victory-vi-tf_166846",
 "Scarpe Calcetto evoPower Vigor 4 TT|Le evoPOWER Vigor 4 per terreni in erba combinano leggerezza, comfort|2017/12/scarpe-calcetto-evopower-vigor-4-tt|data.oliviero.it/imgprodotto/scarpe-calcetto-evopower-vigor-4-tt-103965-01_163956",

@@ -1,4 +1,9 @@
 Gr = [
+"Panca Multifunzione Force ST 3300|Panca Multifunzione ST 3300 Nuova stazione multiuso ST 3300 ottima|2017/12/panca-multifunzione-force-st-3300|data.oliviero.it/imgprodotto/panca-multifunzione-force-st-3300_168528",
+"Modulo Dip Station|KINETIC SYSTEM Il nuovo concetto modulare Kinetic system è costituito|2017/12/modulo-dip-station|data.oliviero.it/imgprodotto/modulo-dip-station-kinetic-system_130391",
+"Panca Multifunzione Black Gym|Panca Multifunzione ideale per l'utilizzo domestico. Pacco pesi di|2017/12/panca-multifunzione-black-gym|data.oliviero.it/imgprodotto/panca-multifunzione-black-gym_124134",
+"Panca Multifunzione G102|Panca multifunzione G102: dimensioni ridotte e componenti di|2017/12/panca-multifunzione-g102|data.oliviero.it/imgprodotto/panca-multifunzione-g102_154174",
+"Modulo Double Cable Pulley|KINETIC SYSTEM Il nuovo concetto modulare Kinetic system è costituito|2017/12/modulo-double-cable-pulley|data.oliviero.it/imgprodotto/modulo-double-cable-pulley-kinetic-system_130397",
 "Stazione Multi Builder 1.0|Stazione multifunzione al TOP DELLA GAMMA GetFit. Questa macchina|2017/12/stazione-multi-builder-1-0|data.oliviero.it/imgprodotto/stazione-multi-builder-1-0_172770",
 "Power Tower PT80|Panca multifunzione per un allenamento completo del corpo PULL UP BAR|2017/12/power-tower-pt80|data.oliviero.it/imgprodotto/power-tower-pt80_171172",
 "Power Tower PT20|Caratteristiche Tecniche TELAIO IN ACCIAIO PULL UP BAR SI DIP STATION|2017/12/power-tower-pt20|data.oliviero.it/imgprodotto/power-tower-pt20_171311",

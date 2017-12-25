@@ -1,4 +1,9 @@
 Gr = [
+"Sacco a Pelo River 250|Esterno : 100% poliestere 190T Interno : 100% microfibra 210T|2017/12/sacco-a-pelo-river-250|data.oliviero.it/imgprodotto/sacco-a-pelo-river-250_87285",
+"Sacco A Pelo Yukon Plus|Sacco A Pelo Yukon Plus - 86358 Realizzati con imbottitura in H.T.F|2017/12/sacco-a-pelo-yukon-plus|data.oliviero.it/imgprodotto/sacco-a-pelo-yukon-plus-86358_158938",
+"Sacco a Pelo Microtech 80|Esterno: 100% micro diamond ripstop 260T Interno: 100% Polyestere|2017/12/sacco-a-pelo-microtech-80|data.oliviero.it/imgprodotto/sacco-a-pelo-microtech-80_147543",
+"Sacco a pelo Fuji|Misura cm: 195 x 80 Esterno: poliestere 185 T Interno: cotone|2017/12/sacco-a-pelo-fuji|data.oliviero.it/imgprodotto/sacco-a-pelo-fuji_150066",
+"Sacco Lightech Shingle SQ|Sacchiletto di peso e dimensioni estremamente ridotte, offrono ottime|2017/12/sacco-lightech-shingle-sq|data.oliviero.it/imgprodotto/sacco-lightech-shingle-sq-86266_145018",
 "Sacco a pelo Trend|Misura cm: (200+25) x 80 Esterno: Nylon TAFFETA W/R Interno: cotone|2017/12/sacco-a-pelo-trend|data.oliviero.it/imgprodotto/sacco-a-pelo-trend_150067",
 "Sacco a Pelo Lake 250|Esterno: 100% nylon 210T Interno: 65% polyestere - 35% cotone|2017/12/sacco-a-pelo-lake-250|data.oliviero.it/imgprodotto/sacco-a-pelo-lake-250_87275",
 "Sacco a Pelo Easy Cotton Orange|Caratteristiche tecniche: Esterno: 100% polyestere Interno: 80%|2017/12/sacco-a-pelo-easy-cotton-orange|data.oliviero.it/imgprodotto/sacco-a-pelo-easy-cotton-orange_85528",

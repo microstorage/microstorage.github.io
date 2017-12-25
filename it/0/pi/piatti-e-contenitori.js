@@ -1,4 +1,5 @@
 Gr = [
+"Borsa Portapasto Maternity|Borsa portapasto isotermica morbida per la conservazione a caldo e|2017/12/borsa-portapasto-maternity|data.oliviero.it/imgprodotto/borsa-portapasto-maternity_13971_big",
 "Set Piatto e ciotola Gufo Skip Hop|Grazie a questo set i bambini potranno divertirsi con il loro|2017/12/set-piatto-e-ciotola-gufo-skip-hop|data.oliviero.it/imgprodotto/set-piatto-e-ciotola-gufo-skip-hop_140392",
 "Set 3 contenitori pappa azzurro-verde|Set di 3 contenitori colorati per la conservazione del cibo in casa|2017/12/set-3-contenitori-pappa-azzurro-verde|data.oliviero.it/imgprodotto/set-3-contenitori-pappa-azzurro-verde-1468_153719",
 "Piatto fondo piccolo|Perfetto per le prime pappe e gli spuntini. La base antiscivolo|2017/12/piatto-fondo-piccolo|data.oliviero.it/imgprodotto/piatto-fondo-piccolo_73906",

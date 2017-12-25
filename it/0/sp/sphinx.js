@@ -1,4 +1,12 @@
 Gr = [
+"Paratibia NAKAMURA|Caratteristiche : Paratibia omologato gara FULL-Kick COMPETITION|2017/12/paratibia-nakamura|data.oliviero.it/imgprodotto/paratibia-nakamura_159730",
+"Guanti BLACKHAWK Evo Nero 10 oz|Caratteristiche: GENUINE LEATHER pelle ultra morbida e liscia|2017/12/guanti-blackhawk-evo-nero-10-oz|data.oliviero.it/imgprodotto/guanti-blackhawk-evo-nero-10-oz_73216",
+"Guanto PRO-FIGHT Kombat FHX 8 oz|Caratteristiche: PRO-FIGHT KOMBAT FHX Competition Fight Glove Genuine|2017/12/guanto-pro-fight-kombat-fhx-8-oz|data.oliviero.it/imgprodotto/guanto-pro-fight-kombat-fhx-8-oz_159694",
+"Pantaloni Full contact Breath-tech|Caratteristiche: Pantaloncino full-kick Hi-tech satin, morbido|2017/12/pantaloni-full-contact-breath-tech|data.oliviero.it/imgprodotto/pantaloni-full-contact-breath-tech_159733",
+"Guantoni Ultimate Warrior Blood 10 oz|Caratteristiche: Ultimate Warrior Syntex PU: materiale composito|2017/12/guantoni-ultimate-warrior-blood-10-oz|data.oliviero.it/imgprodotto/guantoni-ultimate-warrior-blood-10-oz_159713",
+"Guanto VIPER Fxx Tiger Edition 10oz|Caratteristiche: Genuine Leather pelle ultra morbida e liscia|2017/12/guanto-viper-fxx-tiger-edition-10oz|data.oliviero.it/imgprodotto/guanto-viper-fxx-tiger-edition-10oz_159700",
+"Guanti BLACKHAWK Training 14 oz|Caratteristiche: GENUINE LEATHER pelle ultra morbida e liscia|2017/12/guanti-blackhawk-training-14-oz|data.oliviero.it/imgprodotto/guanti-blackhawk-training-14-oz_165109",
+"Casco Steel Protezione zigomi|Caratteristiche: SYNTEX TECH materiale composito finitura pelle, alta|2017/12/casco-steel-protezione-zigomi|data.oliviero.it/imgprodotto/casco-steel-protezione-zigomi_159680",
 "Guanto VIPER Fxx Bushido Edition 10oz|Caratteristiche: Genuine Leather pelle ultra morbida e liscia|2017/12/guanto-viper-fxx-bushido-edition-10oz|data.oliviero.it/imgprodotto/guanto-viper-fxx-bushido-edition-10oz_159697",
 "Guantoni Cyclone Restyling 6 oz|Caratteristiche: Guantoni Sphinx Cyclone Restyling: Class essential|2017/12/guantoni-cyclone-restyling-6-oz|data.oliviero.it/imgprodotto/guantoni-cyclone-restyling-6-oz_159702",
 "Guanti BLACKHAWK Training 16 oz|Caratteristiche: GENUINE LEATHER pelle ultra morbida e liscia|2017/12/guanti-blackhawk-training-16-oz|data.oliviero.it/imgprodotto/guanti-blackhawk-training-16-oz_159683",

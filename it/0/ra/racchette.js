@@ -1,4 +1,11 @@
 Gr = [
+"Racchetta Tennis Nadal Jr 25|Babolat Nadal 25 Junior Racchetta da tennis I giovani ammiratori di|2017/12/racchetta-tennis-nadal-jr-25|data.oliviero.it/imgprodotto/racchetta-tennis-nadal-jr-25_80034",
+"Telo di copertura ping pong|Pratica copertura espressamente ideata per la protezione dei moderni|2017/12/telo-di-copertura-ping-pong|data.oliviero.it/imgprodotto/telo-di-copertura-ping-pong_157349",
+"Racchetta Pure Drive|RACCHETTA SENZA PIATTO CORDE Potenza e sensazioni allo stato puro|2017/12/racchetta-pure-drive|data.oliviero.it/imgprodotto/racchetta-pure-drive_169175",
+"Racchetta Tennis Aero Jr. 25|La Aero Junior 25 , molto leggera e più corta delle classiche|2017/12/racchetta-tennis-aero-jr-25|data.oliviero.it/imgprodotto/racchetta-tennis-aero-jr-25-140178_162196",
+"Racchetta Boost Drive|Potenza e tolleranza sono le caratteristiche di questa Babolat Boost|2017/12/racchetta-boost-drive|data.oliviero.it/imgprodotto/racchetta-boost-drive-121183_161024",
+"Racchetta Charger Tube 3 Stelle|Racchetta Ping Pong Stiga Charger Racchetta Ping Pong è una racchetta|2017/12/racchetta-charger-tube-3-stelle|data.oliviero.it/imgprodotto/racchetta-charger-tube-3-stelle_8334_big",
+"Racchetta Pure Aero|Babolat dona alla leggendaria AeroPro Drive un nuovo stile, iniziando|2017/12/racchetta-pure-aero|data.oliviero.it/imgprodotto/racchetta-pure-aero_147959",
 "Racchetta Tennis Maria 25|Racchetta con piatto corde Concepita per la nuova generazione , ecco|2017/12/racchetta-tennis-maria-25|data.oliviero.it/imgprodotto/racchetta-tennis-maria-25-234506_154541",
 "Racchetta Tennis Graphene XT Extreme|Racchetta senza piatto corde La serie di racchette EXTREME abbina|2017/12/racchetta-tennis-graphene-xt-extreme|data.oliviero.it/imgprodotto/racchetta-tennis-graphene-xt-extreme-230725_154538",
 "Set di 2 racchette Hobby Senior|Set hobby composto da 2 racchette, 3 volani e custodia. Set completo|2017/12/set-di-2-racchette-hobby-senior|data.oliviero.it/imgprodotto/set-di-2-racchette-hobby-senior_8371_big",

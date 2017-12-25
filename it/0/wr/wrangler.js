@@ -1,4 +1,11 @@
 Gr = [
+"Camicia Uomo Western Blu|Collezione Autunno Inverno/2018 La nostra camicia western con fit|2017/12/camicia-uomo-western-blu|data.oliviero.it/imgprodotto/camicia-uomo-western-blu_170485",
+"Maglia Uomo Mid Grey Melange|Collezione Autunno Inverno/2018 Affronta la stagione con questo|2017/12/maglia-uomo-mid-grey-melange|data.oliviero.it/imgprodotto/maglia-uomo-mid-grey-melange_170617",
+"Jeans Arizona Grey Tie|Collezione Autunno Inverno/2018 Fit moderno per questi jeans neri con|2017/12/jeans-arizona-grey-tie|data.oliviero.it/imgprodotto/jeans-arizona-grey-tie_170552",
+"Piumino Protector Nero|Collezione Autunno Inverno/2018 Questa giacca nera idrorepellente|2017/12/piumino-protector-nero|data.oliviero.it/imgprodotto/piumino-protector-nero_170596",
+"Felpa Logo Crew|Collezione Autunno Inverno/2018 Questa classica felpa girocollo in|2017/12/felpa-logo-crew|data.oliviero.it/imgprodotto/felpa-logo-crew_170569",
+"Jeans Larston Blue Mick|Collezione Autunno Inverno/2018 Comodità e stile si uniscono in|2017/12/jeans-larston-blue-mick|data.oliviero.it/imgprodotto/jeans-larston-blue-mick_170513",
+"Jeans Arizona Blue Stroke|Collezione Autunno Inverno/2018 Jeans a gamba dritta in denim indaco|2017/12/jeans-arizona-blue-stroke|data.oliviero.it/imgprodotto/jeans-arizona-blue-stroke_170531",
 "Camicia Uomo Button Down Offwhite|Collezione Autunno Inverno/2018 Indosserai ogni giorno la nostra|2017/12/camicia-uomo-button-down-offwhite|data.oliviero.it/imgprodotto/camicia-uomo-button-down-offwhite_170491",
 "Jeans Arizona Cool Hand|Collezione Autunno Inverno/2018 Le fibre di questi Arizona Stretch si|2017/12/jeans-arizona-cool-hand|data.oliviero.it/imgprodotto/jeans-arizona-cool-hand_170527",
 "Camicia Uomo Button Down|Collezione Autunno Inverno/2018 La nostra classica camicia slim ha un|2017/12/camicia-uomo-button-down|data.oliviero.it/imgprodotto/camicia-uomo-button-down_170489",

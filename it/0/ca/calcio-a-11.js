@@ -1,4 +1,7 @@
 Gr = [
+"Scarpe Calcio Winner RB K-Plus MG14|Una calzatura dedicata ai calciatori che fanno del controllo e del|2017/12/scarpe-calcio-winner-rb-k-plus-mg14|data.oliviero.it/imgprodotto/scarpe-calcio-winner-rb-k-plus-mg14_167291",
+"Scarpe Calcio evoPower 2 FG|Utilizzo: Calzatura calcio da uomo Tomaia: Pelle sintetica|2017/12/scarpe-calcio-evopower-2-fg|data.oliviero.it/imgprodotto/scarpe-calcio-evopower-2-fg-102945-04_87963",
+"Scarpe Calcio Ace 16.3 FG Leather|Hai già fatto capire di essere veloce. Dimostra di essere il primo|2017/12/scarpe-calcio-ace-16-3-fg-leather|data.oliviero.it/imgprodotto/scarpe-calcio-ace-16-3-fg-leather-s79724_154305",
 "Scarpe Calcio Jr. Mercurial Victory VI FG|Progettata con tomaia testurizzata e trazione innovativa, la scarpa|2017/12/scarpe-calcio-jr-mercurial-victory-vi-fg|data.oliviero.it/imgprodotto/scarpe-calcio-jr-mercurial-victory-vi-fg-831945-303_159987",
 "Scarpe Calcio Jr Magista Opus II FG|La scarpa da calcio per terreni duri Nike Jr. Magista Opus II|2017/12/scarpe-calcio-jr-magista-opus-ii-fg|data.oliviero.it/imgprodotto/scarpe-calcio-jr-magista-opus-ii-fg-844415-109_164290",
 "Scarpe da calcio Jr. Tiempo Genio Leather FG|Caratteristiche Tomaia in morbida pelle naturale pieno fiore per un|2017/12/scarpe-da-calcio-jr-tiempo-genio-leather-fg|data.oliviero.it/imgprodotto/scarpe-da-calcio-jr-tiempo-genio-leather-fg-630861-010_125621",

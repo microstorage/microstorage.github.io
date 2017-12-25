@@ -1,4 +1,6 @@
 Gr = [
+"Tapis Roulant ST 714|Tapis Roulant st 714 Caratteristiche Intensità di allenamento|2017/12/tapis-roulant-st-714|data.oliviero.it/imgprodotto/tapis-roulant-st-714-striale_119581",
+"Tapis Roulant Runner II|tapis Roulant Runner II Caratteristiche Intensità di allenamento|2017/12/tapis-roulant-runner-ii|data.oliviero.it/imgprodotto/tapis-roulant-runner-ii_119590",
 "Ellittica Ellipse NGP|Ellittica Ellipse NGP Peso massimo utente 120 Regolazione della|2017/12/ellittica-ellipse-ngp|data.oliviero.it/imgprodotto/ellittica-ellipse-ngp_119560",
 "Ellittica Futura|Ellittica Futura Intensità di allenamento Regular Adattare sì Peso|2017/12/ellittica-futura|data.oliviero.it/imgprodotto/ellittica-futura_119559",
 "Tapis Roulant Crosser II|Tapis Roulant Crosser II Caratteristiche Intensità di allenamento|2017/12/tapis-roulant-crosser-ii|data.oliviero.it/imgprodotto/tapis-roulant-crosser-ii_119588",

@@ -1,4 +1,9 @@
 Gr = [
+"Seggiolino per On Board Pedana|Brevi On Board pedana e seggiolino vi consentiranno di portare|2017/12/seggiolino-per-on-board-pedana|data.oliviero.it/imgprodotto/seggiolino-per-on-board-pedana_172590",
+"Passeggino Ginger Rosso|Il passeggino Ginger di Brevi offre il massimo confort per il bambino|2017/12/passeggino-ginger-rosso|data.oliviero.it/imgprodotto/passeggino-ginger-rosso_172603",
+"Altalena Miou My Little Bear|Per cullare il tuo bambino in tutta sicurezza fin dai primi giorni di|2017/12/altalena-miou-my-little-bear|data.oliviero.it/imgprodotto/altalena-miou-my-little-bear_172574",
+"Seggiolino Tazio tt isofix rosso|TAZIO Isofix TT il seggiolino 1.2.3 auto reclinabile isofix|2017/12/seggiolino-tazio-tt-isofix-rosso|data.oliviero.it/imgprodotto/seggiolino-tazio-tt-isofix-rosso_150277",
+"Giocagiro 3 in 1 Girello|Il girello Giocagiro è superleggero con bordo antiurto e 6 pattini di|2017/12/giocagiro-3-in-1-girello|data.oliviero.it/imgprodotto/giocagiro-3-in-1-girello_172581",
 "Fasciatoio Olimpia Bianco|Il piano fasciatoio è ben imbottito e con spondine di sicurezza|2017/12/fasciatoio-olimpia-bianco|data.oliviero.it/imgprodotto/fasciatoio-olimpia-bianco_172606",
 "Passeggino Ginger 3 Blu|Il passeggino Ginger di Brevi offre il massimo confort per il bambino|2017/12/passeggino-ginger-3-blu|data.oliviero.it/imgprodotto/passeggino-ginger-3-blu_172602",
 "Trio Ovo Twin Blu|Il passeggino trio OVO Twin è il sistema modulare versatile|2017/12/trio-ovo-twin-blu|data.oliviero.it/imgprodotto/trio-ovo-twin-blu_172614",

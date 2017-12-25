@@ -1,4 +1,7 @@
 Gr = [
+"Portabilanciere JK 6065|Massimo peso caricabile150 kg Dimensione tubi50 x 50 mm Regolabile in|2017/12/portabilanciere-jk-6065|data.oliviero.it/imgprodotto/portabilanciere-jk-6065_23727_big",
+"Kit Manubri Cromati + 32 kg Pesi|L'offerta comprende i manubri Victoria e 4 dischi in ghisa da 1 kg,|2017/12/kit-manubri-cromati-+-32-kg-pesi|data.oliviero.it/imgprodotto/kit-manubri-cromati-32-kg-pesi_147204",
+"Lat Tower per 860 e 560|Lat tower è l'accessorio per lavorare sui dorsali. Consente anche di|2017/12/lat-tower-per-860-e-560|data.oliviero.it/imgprodotto/lat-tower-per-860-e-560_366_big",
 "Bilanciere acciaio cromato 180cm|Bilanciere in acciaio cromato per dischi da 25mm. Lunghezza 180 cm|2017/12/bilanciere-acciaio-cromato-180cm|data.oliviero.it/imgprodotto/bilanciere-acciaio-cromato-180cm_58154",
 "Bilanciere cromato 150 cm|Bilanciere cromato creato per lo sviluppo di bicipiti e tricipiti|2017/12/bilanciere-cromato-150-cm|data.oliviero.it/imgprodotto/bilanciere-cromato-150-cm_151884",
 "Kettlebells 15KG|Le Kettlebells sono sfere in ghisa con una maniglia fissa. Questi|2017/12/kettlebells-15kg|data.oliviero.it/imgprodotto/kettlebells-15kg_52230",

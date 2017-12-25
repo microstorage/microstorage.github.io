@@ -1,4 +1,11 @@
 Gr = [
+"Biliardo Virginia 7|Pool di dimensioni professionali, trasformabile in tavolo da pranzo|2017/12/biliardo-virginia-7|data.oliviero.it/imgprodotto/biliardo-virginia-7_11192_big",
+"Set 3 freccette EL50|SET 3 FRECCETTE CON PUNTA IN PLASTICA, CUSTODIA E ACCESSORI EL50|2017/12/set-3-freccette-el50|data.oliviero.it/imgprodotto/set-3-freccette-el50_147955",
+"Biliardo Alexandra 7 Ardesia|Alexandra è l'ultima creazione Garlando in fatto di biliardi per la|2017/12/biliardo-alexandra-7-ardesia|data.oliviero.it/imgprodotto/biliardo-alexandra-7-ardesia_73389",
+"Biliardo Chicago 4|Tavolo da pool dedicato a chi ha poco spazio in casa e vuole avviarsi|2017/12/biliardo-chicago-4|data.oliviero.it/imgprodotto/biliardo-chicago-4_8404_big",
+"Bersaglio per freccette Polaris elettronico|Bersaglio elettronico per il gioco delle freccette con armadietto|2017/12/bersaglio-per-freccette-polaris-elettronico|data.oliviero.it/imgprodotto/bersaglio-per-freccette-polaris-elettronico_8383_big",
+"Biliardo Virginia 6|Pool di dimensioni professionali, trasformabile in tavolo da pranzo|2017/12/biliardo-virginia-6|data.oliviero.it/imgprodotto/biliardo-virginia-6_1181_big",
+"Piane di Copertura ALEXANDRA 6|Piane di copertura in nobilitato melaminico (spessore mm. 20) in|2017/12/piane-di-copertura-alexandra-6|data.oliviero.it/imgprodotto/piane-di-copertura-alexandra-6_73391",
 "Biliardo Chicago 5|Tavolo da pool dedicato a chi ha poco spazio in casa e vuole avviarsi|2017/12/biliardo-chicago-5|data.oliviero.it/imgprodotto/biliardo-chicago-5_71988",
 "Air Hockey Mistral|Un air hockey per uso familiare, pensato per i giocatori di ogni età|2017/12/air-hockey-mistral|data.oliviero.it/imgprodotto/air-hockey-mistral_3418_big",
 "Bersaglio per freccette Aries|Bersaglio in fibra modello aries per il gioco delle freccette|2017/12/bersaglio-per-freccette-aries|data.oliviero.it/imgprodotto/bersaglio-per-freccette-aries_150051",

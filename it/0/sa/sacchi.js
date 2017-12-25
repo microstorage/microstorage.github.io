@@ -1,4 +1,5 @@
 Gr = [
+"Sacco boxe 25 Kg|Caratteristiche : SACCO: realizzato in ecopelle MISURE: DIAM. cm. 35|2017/12/sacco-boxe-25-kg|data.oliviero.it/imgprodotto/sacco-boxe-25-kg_71354",
 "Sacco Boxe Pavimento Oscillante|Sacco Boxe Pavimento Oscillante SCHIAVI. Caratteristiche tecniche:|2017/12/sacco-boxe-pavimento-oscillante|data.oliviero.it/imgprodotto/sacco-boxe-pavimento-oscillante_162182",
 "Sacco Boxe 30 Kg|I sacchi boxe GetFit sono indicati per ogni tipologia di atleta|2017/12/sacco-boxe-30-kg|data.oliviero.it/imgprodotto/sacco-boxe-30-kg_170765",
 "Sacco boxe + Guantoni|Sacco + guanti da allenamento Caratteristiche : Completo boxe|2017/12/sacco-boxe-+-guantoni|data.oliviero.it/imgprodotto/sacco-boxe-guantoni_71355",

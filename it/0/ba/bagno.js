@@ -1,4 +1,5 @@
 Gr = [
+"Mobile Bagno 56.38.51|MADE IN ITALY Tutti gli elementi sono realizzati con pannelli in|2017/12/mobile-bagno-56-38-51|data.oliviero.it/imgprodotto/mobile-bagno-56-38-51_74060",
 "Telo Bagno spugna|Asciugamano viso ospite Spugna della linea basic, morbido e adatto ad|2017/12/telo-bagno-spugna|data.oliviero.it/imgprodotto/telo-bagno-spugna_153943",
 "Asciugamano viso spugna|Asciugamano viso ospite Spugna della linea basic, morbido e adatto ad|2017/12/asciugamano-viso-spugna|data.oliviero.it/imgprodotto/asciugamano-viso-spugna_172928",
 "4 Ganci appendiabiti|Gancio Appendiabiti Per Porta Furbo Realizzato In Plastica|2017/12/4-ganci-appendiabiti|data.oliviero.it/imgprodotto/4-ganci-appendiabiti_169920",

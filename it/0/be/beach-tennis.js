@@ -1,4 +1,5 @@
 Gr = [
+"Racchetta Beach Tennis Japan|Racchetta Beach Tennis Marca: VISION Modello: RACCHETTA BEACH TENNIS|2017/12/racchetta-beach-tennis-japan|data.oliviero.it/imgprodotto/racchetta-beach-tennis-japan_164427",
 "Racchetta Beach Tennis Graffiti|Collezione Primavera Estate Questo attrezzo è stato progettato|2017/12/racchetta-beach-tennis-graffiti|data.oliviero.it/imgprodotto/racchetta-beach-tennis-graffiti-btt1710_164727",
 "Racchetta Beach Tennis Logo Orange|Linea di racchette per principianti e bambini Telaio a ponte singolo|2017/12/racchetta-beach-tennis-logo-orange|data.oliviero.it/imgprodotto/racchetta-beach-tennis-logo-orange_151978",
 "Racchetta Beach Tennis Alien|Caratteristiche Materiale Carbon Glass Peso 350 gr (+/- 5 gr)|2017/12/racchetta-beach-tennis-alien|data.oliviero.it/imgprodotto/racchetta-beach-tennis-alien_164251",

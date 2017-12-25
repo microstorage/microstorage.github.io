@@ -1,4 +1,8 @@
 Gr = [
+"Pile elasticizzato mezza zip Uomo Blu|Collezione Autunno Inverno/2018 Maglia termica uomo in pile|2017/12/pile-elasticizzato-mezza-zip-uomo-blu|data.oliviero.it/imgprodotto/pile-elasticizzato-mezza-zip-uomo-blu_171778",
+"Giacca da Moto Flash Tex Uomo|Flash è un giubbino dal taglio sportivo, ideale per le escursioni nei|2017/12/giacca-da-moto-flash-tex-uomo|data.oliviero.it/imgprodotto/giacca-da-moto-flash-tex-uomo-t197-010_149754",
+"Piumino Uomo Outdoor Blu Denim 1030_167|Collezione Autunno Inverno/2018 Giacca da uomo tecnica, calda|2017/12/piumino-uomo-outdoor-blu-denim-1030_167|data.oliviero.it/imgprodotto/piumino-uomo-outdoor-blu-denim-1030_167_171476",
+"Giacca Donna Outdoor Nero|Collezione Autunno Inverno/2018 Giacca da donna tecnica, calda|2017/12/giacca-donna-outdoor-nero|data.oliviero.it/imgprodotto/giacca-donna-outdoor-nero_170456",
 "Giubbotto Moto Rogue Tex Lady|Collezione: Primavera Estate Tipologia: Giacca Moto da donna Tessuto:|2017/12/giubbotto-moto-rogue-tex-lady|data.oliviero.it/imgprodotto/giubbotto-moto-rogue-tex-lady_83604",
 "Felpa Mezza Zip Donna Grigio|Collezione Autunno Inverno/2018 Maglia termica donna in felpa effetto|2017/12/felpa-mezza-zip-donna-grigio|data.oliviero.it/imgprodotto/felpa-mezza-zip-donna-grigio_171782",
 "Piumino Outdoor Uomo Nero|Collezione Autunno Inverno/2018 Giacca da uomo tecnica, calda|2017/12/piumino-outdoor-uomo-nero|data.oliviero.it/imgprodotto/piumino-outdoor-uomo-nero_171793",

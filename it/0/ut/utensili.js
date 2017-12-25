@@ -1,4 +1,12 @@
 Gr = [
+"3 Coppapasta Rettangolo|Vuoi impiattare da vero professionista? Con i coppapasta|2017/12/3-coppapasta-rettangolo|data.oliviero.it/imgprodotto/3-coppapasta-rettangolo-422214_155195",
+"Mensola Linea Monti|La mensola è in metallo con finiture cromo, è abbastanza capiente|2017/12/mensola-linea-monti|data.oliviero.it/imgprodotto/mensola-linea-monti-900026_155102",
+"Rotella Tagliapizza Delicia|Soffice ed alta o sottile e croccante, questo utensile affetta|2017/12/rotella-tagliapizza-delicia|data.oliviero.it/imgprodotto/rotella-tagliapizza-delicia-630022_157749",
+"Set Dosatori Spray Olio e Aceto|Dosatori per olio e aceto con corpo in vetro e coperchio in acciaio|2017/12/set-dosatori-spray-olio-e-aceto|data.oliviero.it/imgprodotto/set-dosatori-spray-olio-e-aceto-650357_155175",
+"3 Coppapasta Quadrato|Vuoi impiattare da vero professionista? Con i coppapasta|2017/12/3-coppapasta-quadrato|data.oliviero.it/imgprodotto/3-coppapasta-quadrato-422212_155183",
+"Spray per limone|Prima spremi il limone nel flacone usando l'accessorio spremiagrumi|2017/12/spray-per-limone|data.oliviero.it/imgprodotto/spray-per-limone-642770_157868",
+"Stampo per panino dolce|iamo grandi fan del 'fatto in casà, anche quando si parla di pane|2017/12/stampo-per-panino-dolce|data.oliviero.it/imgprodotto/stampo-per-panino-dolce-630107_157838",
+"Barra 90 cm e Kit di Montaggio|Barra in metallo con finiture in cromo. Facilmente applicabile al|2017/12/barra-90-cm-e-kit-di-montaggio|data.oliviero.it/imgprodotto/barra-90-cm-e-kit-di-montaggio_74145",
 "Rotella Tagliapasta Delicia|Vuoi realizzare dei ravioli perfetti? La rotella taglia la pasta|2017/12/rotella-tagliapasta-delicia|data.oliviero.it/imgprodotto/rotella-tagliapasta-delicia-630020_157747",
 "8 Barattoli Portaspezie con supporto girevole|I porta spezie più eleganti ti permettono di conservarle|2017/12/8-barattoli-portaspezie-con-supporto-girevole|data.oliviero.it/imgprodotto/8-barattoli-portaspezie-con-supporto-girevole-657066_157806",
 "Stampo per rosetta|Siamo grandi fan del 'fatto in casà, anche quando si parla di pane|2017/12/stampo-per-rosetta|data.oliviero.it/imgprodotto/stampo-per-rosetta-630105_157842",

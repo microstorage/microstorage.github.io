@@ -1,4 +1,9 @@
 Gr = [
+"Monopattino a tre ruote ADVENTURE KID GRAND PRIX rosso|Descrizione: Pieghevole : con sistema di chiusura rapido e sicuro|2017/12/monopattino-a-tre-ruote-adventure-kid-grand-prix-rosso|data.oliviero.it/imgprodotto/monopattino-a-tre-ruote-adventure-kid-grand-prix-rosso_162384",
+"Longboard Carve Palm 35|Longboard Carve Palm 35 Caratteristiche Materiale (7 Ply Canadian|2017/12/longboard-carve-palm-35|data.oliviero.it/imgprodotto/longboard-carve-palm-35_125542",
+"Skateboard Rocket Complete Eclipse Series|Nuova gamma da Skateboards Rocket! Deck: 7 strati Hardrock Acero|2017/12/skateboard-rocket-complete-eclipse-series|data.oliviero.it/imgprodotto/skateboard-rocket-complete-eclipse-series_157625",
+"Longboard CRUISER BAY NEW|Descrizione: Dimensioni tavola : 96X24 cm spessore 12,5 mm Materiale|2017/12/longboard-cruiser-bay-new|data.oliviero.it/imgprodotto/longboard-cruiser-bay-new_162377",
+"Skateboards Pro Script|Lunghezza: 31.0\"; Larghezza: 7.75\"; Tavola: 7 strati in acero; Ruote:|2017/12/skateboards-pro-script|data.oliviero.it/imgprodotto/skateboards-pro-script_151102",
 "Longboard Mellow 41\"|Longboard Shore Crash Dimensione: 41\" x 9,25\" Colore: Ciano e azzurro|2017/12/longboard-mellow-41|data.oliviero.it/imgprodotto/longboard-mellow-41_125115",
 "Skateboard FREEDOM PRO MILITARY|Descrizione: Dimensioni tavola : 57x15,2 cm Materiale tavola : ABS|2017/12/skateboard-freedom-pro-military|data.oliviero.it/imgprodotto/skateboard-freedom-pro-military_162376",
 "Mini Longboard Maui|Longboard Maui 32\" Dimensione: 37\" x 9\" Carrello Alluminio Ruote 62|2017/12/mini-longboard-maui|data.oliviero.it/imgprodotto/mini-longboard-maui_151099",

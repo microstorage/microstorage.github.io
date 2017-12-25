@@ -1,4 +1,6 @@
 Gr = [
+"Muta Baby Stingray|Mutino a maniche corte per ragazzi fino ai 12 anni. Realizzato in|2017/12/muta-baby-stingray|data.oliviero.it/imgprodotto/muta-baby-stingray_171810",
+"Muta Bimbo DG0010|Mutino Baby Bambino Realizzato in neoprene da 1.5 mm di spessore|2017/12/muta-bimbo-dg0010|data.oliviero.it/imgprodotto/muta-bimbo-dg0010_87436",
 "Set Snorkeling Jr Pirate|MASCHERA : MASSIMO COMFORT REGOLAZIONE DEL CINTURINO FACILE|2017/12/set-snorkeling-jr-pirate|data.oliviero.it/imgprodotto/set-snorkeling-jr-pirate_165665",
 "Pinne Fluida Jr|Pinna ideale durevole per lo snorkeling. Modello con tallone chiuso|2017/12/pinne-fluida-jr|data.oliviero.it/imgprodotto/pinne-fluida-jr_147752",
 "Muta Shorty Tritone|La tua vera seconda pelle. TIZIP silverseal. Estremamente resistente|2017/12/muta-shorty-tritone|data.oliviero.it/imgprodotto/muta-shorty-tritone_10846_big",

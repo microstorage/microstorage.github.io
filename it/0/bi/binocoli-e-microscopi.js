@@ -1,4 +1,8 @@
 Gr = [
+"Binocolo Z-CAI Alta Quota 8x42 WW|Ideale per montagna, bird watching. Ingrandimenti 8x obiettivo Ø 42|2017/12/binocolo-z-cai-alta-quota-8x42-ww|data.oliviero.it/imgprodotto/binocolo-z-cai-alta-quota-8x42-ww_87837",
+"Monocolo 10x25|Caratteristiche tecniche: Mini telescopio da viaggio rivestito in|2017/12/monocolo-10x25|data.oliviero.it/imgprodotto/monocolo-10x25_83792",
+"Telescopio AZ rifrattore 50 600|Caratteristiche tecniche: Questo telescopio 50/600 con sistema ottico|2017/12/telescopio-az-rifrattore-50-600|data.oliviero.it/imgprodotto/telescopio-az-rifrattore-50-600_83761",
+"Telescopio AZ Rifrattore 50 360|Caratteristiche tecniche: Telescopio da viaggio ultra compatto con|2017/12/telescopio-az-rifrattore-50-360|data.oliviero.it/imgprodotto/telescopio-az-rifrattore-50-360_83751",
 "Caricatore solare Charger 4-in-1|Caratteristiche tecniche: Caricatore solare con quattro funzioni|2017/12/caricatore-solare-charger-4-in-1|data.oliviero.it/imgprodotto/caricatore-solare-charger-4-in-1_83882",
 "Binocolo impermeabile 8x42|Caratteristiche tecniche: Binocolo 8x42 Binocolo multi accessoriato|2017/12/binocolo-impermeabile-8x42|data.oliviero.it/imgprodotto/binocolo-impermeabile-8x42_83817",
 "Microscopio universale 20x- 200x|Caratteristiche tecniche: Il microscopio universale portatile lascia|2017/12/microscopio-universale-20x-200x|data.oliviero.it/imgprodotto/microscopio-universale-20x-200x_83858",

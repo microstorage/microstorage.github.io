@@ -1,4 +1,5 @@
 Gr = [
+"2 Sensation Tanga|Tipologia: Confezione da 2 Sensation Tanga Tessuto: 43% cotone, 11%|2017/12/2-sensation-tanga|data.oliviero.it/imgprodotto/2-sensation-tanga_21054_big",
 "2 Slip Hipster|Tipologia: Confezione da 2 Slip donna Tessuto: 95% cotone, 5% elastan|2017/12/2-slip-hipster|data.oliviero.it/imgprodotto/2-slip-hipster_21256_big",
 "3 Paia Calzini Bianchi|Dotati di supporto sull'arco plantare, questi calzini da training|2017/12/3-paia-calzini-bianchi|data.oliviero.it/imgprodotto/3-paia-calzini-bianchi-aa2320_159384",
 "Brasiliana Holly|Tipologia: Brasiliana donna abbellito da pizzo Tessuto: 88%|2017/12/brasiliana-holly|data.oliviero.it/imgprodotto/brasiliana-holly_21135_big",

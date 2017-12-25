@@ -1,4 +1,6 @@
 Gr = [
+"Recumbent Comfort R New|Ampia seduta con supporto lombare, maniglie ergonomiche che rendono|2017/12/recumbent-comfort-r-new|data.oliviero.it/imgprodotto/recumbent-comfort-r-new_154146",
+"Struttura Adonis Rack|Per coordinare al meglio la nostra attività fisica ci viene incontro|2017/12/struttura-adonis-rack|data.oliviero.it/imgprodotto/struttura-adonis-rack_154164",
 "Ellittica Andes 3 New|L'ellittica Andes 3 vi offre la possibilità di fare attività fisica|2017/12/ellittica-andes-3-new|data.oliviero.it/imgprodotto/ellittica-andes-3-new_154154",
 "Tapis Roulant Adventure 3 New|Con la nostra gamma di Tapis roulant raggiungi i tuoi obiettivi più|2017/12/tapis-roulant-adventure-3-new|data.oliviero.it/imgprodotto/tapis-roulant-adventure-3-new_154137",
 "Tapis Roulant Adventure 7 New|Progettato per alte performance, Adventure 7 ha un'area di corsa più|2017/12/tapis-roulant-adventure-7-new|data.oliviero.it/imgprodotto/tapis-roulant-adventure-7-new_154129",

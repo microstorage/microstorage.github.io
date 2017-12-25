@@ -1,4 +1,6 @@
 Gr = [
+"Tazza fuxia con beccuccio in silicone|A partire dai 6 mesi di età del bambino, la tazza lo aiuta ad|2017/12/tazza-fuxia-con-beccuccio-in-silicone|data.oliviero.it/imgprodotto/tazza-fuxia-con-beccuccio-in-silicone_85863",
+"Tazza arancio con beccuccio in silicone|A partire dai 6 mesi di età del bambino, la tazza lo aiuta ad|2017/12/tazza-arancio-con-beccuccio-in-silicone|data.oliviero.it/imgprodotto/tazza-arancio-con-beccuccio-in-silicone_85862",
 "Cucchiaini Termosensibili Azzurro|Set 2 cucchiai termosensibili cambia-colore. Il cucchiaio|2017/12/cucchiaini-termosensibili-azzurro|data.oliviero.it/imgprodotto/cucchiaini-termosensibili-azzurro_167210",
 "Set 3 contenitori pappa azzurro-verde|Set di 3 contenitori colorati per la conservazione del cibo in casa|2017/12/set-3-contenitori-pappa-azzurro-verde|data.oliviero.it/imgprodotto/set-3-contenitori-pappa-azzurro-verde-1468_153719",
 "Ventosa magica per piatto|Ventosa magica antirovesciamento in silicone. Forma universale adatta|2017/12/ventosa-magica-per-piatto|data.oliviero.it/imgprodotto/ventosa-magica-per-piatto_74161",

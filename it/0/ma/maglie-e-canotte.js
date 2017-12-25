@@ -1,4 +1,8 @@
 Gr = [
+"T-Shirt Running Uomo Nero|Questa maglia da running girocollo da uomo mantiene la pelle asciutta|2017/12/t-shirt-running-uomo-nero|data.oliviero.it/imgprodotto/t-shirt-running-uomo-nero_168498",
+"Maglia Running Sweat Goteborg|Maglia tecnica sportiva a manica lunga ideale per il running|2017/12/maglia-running-sweat-goteborg|data.oliviero.it/imgprodotto/maglia-running-sweat-goteborg_10305_big",
+"Canotta Running Uomo Rosso|Canotta da running uomo con tessuto composto da pannelli per una|2017/12/canotta-running-uomo-rosso|data.oliviero.it/imgprodotto/canotta-running-uomo-rosso_167791",
+"Maglia Running Donna Nero|Collezione Autunno Inverno/2018 Il top da running Nike Element|2017/12/maglia-running-donna-nero|data.oliviero.it/imgprodotto/maglia-running-donna-nero_169427",
 "Canotta Donna Nero|La canottiera adidas D2M Tank 3S si adatta perfettamente a tutte le|2017/12/canotta-donna-nero|data.oliviero.it/imgprodotto/canotta-donna-nero_168146",
 "Felpa Running Donna|La felpa adidas ZNE Hoodie 2 da donna è stata disegnata con il collo|2017/12/felpa-running-donna|data.oliviero.it/imgprodotto/felpa-running-donna_167962",
 "Felpa Uomo Arancio|Collezione Autunno Inverno/2018 Quando corri la mattina presto o la|2017/12/felpa-uomo-arancio|data.oliviero.it/imgprodotto/felpa-uomo-arancio_166898",

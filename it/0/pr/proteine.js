@@ -1,4 +1,6 @@
 Gr = [
+"MuscleMilk Natural 1,122 Kg|Integratore alimentare di proteine e carboidrati, con vitamine|2017/12/musclemilk-natural-1-122-kg|data.oliviero.it/imgprodotto/musclemilk-natural-1-122-kg_114276",
+"Mass Building 1,8 kg Cacao|MASS BUILDING è un integratore alimentare i cui ingredienti|2017/12/mass-building-1-8-kg-cacao|data.oliviero.it/imgprodotto/mass-building-1-8-kg-cacao_108643",
 "BCAA 200 Caplets|BCAA CAPLETS è un integratore alimentare di aminoacidi ramificati|2017/12/bcaa-200-caplets|data.oliviero.it/imgprodotto/bcaa-200-caplets_108437",
 "MuscleMilk 2,2 Kg|Integratore alimentare di proteine e carboidrati, con vitamine|2017/12/musclemilk-2-2-kg|data.oliviero.it/imgprodotto/musclemilk-2-2-kg_114274",
 "Krono Protein 95 3KG Cacao|KRONO PROTEIN 95 é un integratore alimentare di diverse fonti|2017/12/krono-protein-95-3kg-cacao|data.oliviero.it/imgprodotto/krono-protein-95-3kg-cacao_108765",

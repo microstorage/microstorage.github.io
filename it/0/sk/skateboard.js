@@ -1,4 +1,6 @@
 Gr = [
+"Skateboard Rocket Complete Fade Series|Skateboard perfetto per i principianti Deck: 7 strati macchiato|2017/12/skateboard-rocket-complete-fade-series|data.oliviero.it/imgprodotto/skateboard-rocket-complete-fade-series_157623",
+"Skateboard Rocket Complete Eclipse Series|Nuova gamma da Skateboards Rocket! Deck: 7 strati Hardrock Acero|2017/12/skateboard-rocket-complete-eclipse-series|data.oliviero.it/imgprodotto/skateboard-rocket-complete-eclipse-series_157625",
 "Skateboard FREEDOM PRO MILITARY|Descrizione: Dimensioni tavola : 57x15,2 cm Materiale tavola : ABS|2017/12/skateboard-freedom-pro-military|data.oliviero.it/imgprodotto/skateboard-freedom-pro-military_162376",
 "Skateboard Hula 30\"|Caratteristiche Stile di guida: Cruising, lunghezza: 76 cm|2017/12/skateboard-hula-30|data.oliviero.it/imgprodotto/skateboard-hula-30_165543",
 "Skateboard FREEDOM tavola nera|Descrizione: Dimensioni tavola : 57x15,2 cm Materiale tavola|2017/12/skateboard-freedom-tavola-nera|data.oliviero.it/imgprodotto/skateboard-freedom-tavola-nera-ruote-arancio_162374",

@@ -1,4 +1,11 @@
 Gr = [
+"Racchetta Tennis Nadal Jr 25|Babolat Nadal 25 Junior Racchetta da tennis I giovani ammiratori di|2017/12/racchetta-tennis-nadal-jr-25|data.oliviero.it/imgprodotto/racchetta-tennis-nadal-jr-25_80034",
+"Racchetta Pure Drive|RACCHETTA SENZA PIATTO CORDE Potenza e sensazioni allo stato puro|2017/12/racchetta-pure-drive|data.oliviero.it/imgprodotto/racchetta-pure-drive_169175",
+"VS Origial My Overgrip|L'overgrip Babolat VS Original è estremamente sottile, questa|2017/12/vs-origial-my-overgrip|data.oliviero.it/imgprodotto/vs-origial-my-overgrip-653040-101_162203",
+"Racchetta Tennis Aero Jr. 25|La Aero Junior 25 , molto leggera e più corta delle classiche|2017/12/racchetta-tennis-aero-jr-25|data.oliviero.it/imgprodotto/racchetta-tennis-aero-jr-25-140178_162196",
+"Racchetta Boost Drive|Potenza e tolleranza sono le caratteristiche di questa Babolat Boost|2017/12/racchetta-boost-drive|data.oliviero.it/imgprodotto/racchetta-boost-drive-121183_161024",
+"Racchetta Pure Aero|Babolat dona alla leggendaria AeroPro Drive un nuovo stile, iniziando|2017/12/racchetta-pure-aero|data.oliviero.it/imgprodotto/racchetta-pure-aero_147959",
+"Borsa Portaracchette Racket Holder X3 Club|Borsa portaracchette ideale per 3 racchette Caratteristiche: Comparto|2017/12/borsa-portaracchette-racket-holder-x3-club|data.oliviero.it/imgprodotto/borsa-portaracchette-racket-holder-x3-club_164733",
 "Zaino Tennis Pure Backpack|Lo zaino da tennis Babolat Pure Backpack è una valida alterntiva per|2017/12/zaino-tennis-pure-backpack|data.oliviero.it/imgprodotto/zaino-tennis-pure-backpack_169176",
 "Racchetta Boost Aero|Leggerezza e maneggevolezza per la Baboat Boost Aero, una racchetta|2017/12/racchetta-boost-aero|data.oliviero.it/imgprodotto/racchetta-boost-aero-121182_161023",
 "Borsa Pure X 12 2017|La borsa da tennis Babolat Pure x 12 può contenere fino a 12|2017/12/borsa-pure-x-12-2017|data.oliviero.it/imgprodotto/borsa-pure-x-12-2017_167544",

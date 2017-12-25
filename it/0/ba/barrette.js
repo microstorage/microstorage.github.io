@@ -1,4 +1,5 @@
 Gr = [
+"Muscle Milk Bar 8x73 gr|Barretta ad alto contenuto di proteine e fibre con edulcorante da|2017/12/muscle-milk-bar-8x73-gr|data.oliviero.it/imgprodotto/muscle-milk-bar-8x73-gr_114271",
 "Barretta Maxi Nut|La confezione contiene 24 barrette gusto Pistacchio Ingredienti:|2017/12/barretta-maxi-nut|data.oliviero.it/imgprodotto/barretta-maxi-nut-24-pz-pistacchio_108391",
 "Barretta 40 30 30 30 pz Arachidi|Confezione da 30 barrette BARRETTA 40-30-30 è una barretta|2017/12/barretta-40-30-30-30-pz-arachidi|data.oliviero.it/imgprodotto/barretta-40-30-30-30-pz-arachidi_108759",
 "Barretta Slim Day|La confezione contiene 24 barrette gusto cioccolato SLIM DAY è una|2017/12/barretta-slim-day|data.oliviero.it/imgprodotto/barretta-slim-day-24-pz-cioccolato_108404",

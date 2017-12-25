@@ -1,4 +1,7 @@
 Gr = [
+"Berretto Nike Bianco|Questo cappello da tennis Nike Aerobill Featherlight è ideale per|2017/12/berretto-nike-bianco|data.oliviero.it/imgprodotto/berretto-nike-bianco_169732",
+"VS Origial My Overgrip|L'overgrip Babolat VS Original è estremamente sottile, questa|2017/12/vs-origial-my-overgrip|data.oliviero.it/imgprodotto/vs-origial-my-overgrip-653040-101_162203",
+"Borsa Portaracchette Racket Holder X3 Club|Borsa portaracchette ideale per 3 racchette Caratteristiche: Comparto|2017/12/borsa-portaracchette-racket-holder-x3-club|data.oliviero.it/imgprodotto/borsa-portaracchette-racket-holder-x3-club_164733",
 "Tubo Palline Padel Pro|Barattolo Cilindrico, che può contenere 3 palline da tennis e paddle|2017/12/tubo-palline-padel-pro|data.oliviero.it/imgprodotto/tubo-palline-padel-pro_171421",
 "Zaino Tennis Pure Backpack|Lo zaino da tennis Babolat Pure Backpack è una valida alterntiva per|2017/12/zaino-tennis-pure-backpack|data.oliviero.it/imgprodotto/zaino-tennis-pure-backpack_169176",
 "Borsa Pure X 12 2017|La borsa da tennis Babolat Pure x 12 può contenere fino a 12|2017/12/borsa-pure-x-12-2017|data.oliviero.it/imgprodotto/borsa-pure-x-12-2017_167544",

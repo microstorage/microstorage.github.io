@@ -1,4 +1,6 @@
 Gr = [
+"2 T-shirt taglie forti uomo 99110|Confezione composta da 2 T-Shirt corpo uomo realizzata in puro|2017/12/2-t-shirt-taglie-forti-uomo-99110|data.oliviero.it/imgprodotto/2-t-shirt-taglie-forti-uomo-99110_11936_big",
+"Giubbotto Uomo Taglie Forti Grigio|Collezione Autunno Inverno/2018 Gilet imbottito da uomo taglie forti|2017/12/giubbotto-uomo-taglie-forti-grigio|data.oliviero.it/imgprodotto/giubbotto-uomo-taglie-forti-grigio_168590",
 "Bermuda Uomo Taglie Forti Grigio|Collezione Primavera Estate Bermuda uomo taglie forti. Il modello|2017/12/bermuda-uomo-taglie-forti-grigio|data.oliviero.it/imgprodotto/bermuda-uomo-taglie-forti-grigio_165632",
 "Felpa Taglie Forti Uomo Grigio|Collezione Autunno Inverno/2018 Felpa uomo taglie forti. Il modello|2017/12/felpa-taglie-forti-uomo-grigio|data.oliviero.it/imgprodotto/felpa-taglie-forti-uomo-grigio_169610",
 "2 T-Shirt taglie forti uomo bianca|Confezione composta da 2 T-Shirt. Modello maglia realizzato per le|2017/12/2-t-shirt-taglie-forti-uomo-bianca|data.oliviero.it/imgprodotto/2-t-shirt-taglie-forti-uomo-bianca_10380_big",

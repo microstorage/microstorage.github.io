@@ -1,4 +1,8 @@
 Gr = [
+"Sci Cloud 8 + Lithium 10|L'Atomic Cloud Eight è il nostro sci da pista 'a risparmio|2017/12/sci-cloud-8-+-lithium-10|data.oliviero.it/imgprodotto/sci-cloud-8-lithium-10-aass00974_157944",
+"Sci Pursuit 100 Xpress + Xpress 10|Leggero, reattivo, tollerante, il PURSUIT 100 è LO sci da noleggio|2017/12/sci-pursuit-100-xpress-+-xpress-10|data.oliviero.it/imgprodotto/sci-pursuit-100-xpress-xpress-10_171747",
+"Sci Redster XT + XT 10|Se cerchi uno sci da pista performante facile da manovrare|2017/12/sci-redster-xt-+-xt-10|data.oliviero.it/imgprodotto/sci-redster-xt-xt-10-aass00924163_157942",
+"Sci Supershape I.Speed + PRD12|L'i.Supershape Speed è un race carver per sciatori esperti e assetati|2017/12/sci-supershape-i-speed-+-prd12|data.oliviero.it/imgprodotto/sci-supershape-i-speed-prd12_171322",
 "Sci Venturi 95 + Attack 13|I Venturi 95 sono sci freeride versatili che garantiscono estrema|2017/12/sci-venturi-95-+-attack-13|data.oliviero.it/imgprodotto/sci-venturi-95-attack-13_144134",
 "Sci Supershape I.Magnum + PRD12|L'i.Supershape Magnum è il nostro Supershape più versatile|2017/12/sci-supershape-i-magnum-+-prd12|data.oliviero.it/imgprodotto/sci-supershape-i-magnum-prd12_171324",
 "Sci Vantage X83 CTI + Warden MNC 13|Il nuovo Atomic Vantage X 83 CTI è lo sci più largo della serie di|2017/12/sci-vantage-x83-cti-+-warden-mnc-13|data.oliviero.it/imgprodotto/sci-vantage-x83-cti-warden-mnc-13_156426",

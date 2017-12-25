@@ -1,4 +1,8 @@
 Gr = [
+"Pressofiltro 1 L|Preziosa, pressofiltro in alluminio da 1 litro. Un'infusione calda|2017/12/pressofiltro-1-l|data.oliviero.it/imgprodotto/pressofiltro-1-l_156345",
+"Moka Colour 3 tz Bianco|Moka White nasce dall'esigenza di affiancare stile e fascino moderni|2017/12/moka-colour-3-tz-bianco|data.oliviero.it/imgprodotto/moka-colour-3-tz-bianco_154715",
+"Cappuccinatore 1 Lt|Il Cappuccinatore di Bialetti è il modo semplice e pratico per|2017/12/cappuccinatore-1-lt|data.oliviero.it/imgprodotto/cappuccinatore-1-lt_154702",
+"Moka Colour 3 tz Nero Lucido|Moka Black nasce dall'esigenza di affiancare stile e fascino moderni|2017/12/moka-colour-3-tz-nero-lucido|data.oliviero.it/imgprodotto/moka-colour-3-tz-nero-lucido_154710",
 "Pressofiltro 1 Lt|Preziosa, pressofiltro in alluminio da 1 litro. Un'infusione calda|2017/12/pressofiltro-1-lt|data.oliviero.it/imgprodotto/pressofiltro-1-lt_154724",
 "Moka Colour 1 tz Bianco|Moka White nasce dall'esigenza di affiancare stile e fascino moderni|2017/12/moka-colour-1-tz-bianco|data.oliviero.it/imgprodotto/moka-colour-1-tz-bianco_154714",
 "Moka Nuova Dama 1 tz|Dama 1 tazza, Nero/alluminio Bialetti Dama 1. Coffee maker type:|2017/12/moka-nuova-dama-1-tz|data.oliviero.it/imgprodotto/moka-nuova-dama-1-tz_156467",

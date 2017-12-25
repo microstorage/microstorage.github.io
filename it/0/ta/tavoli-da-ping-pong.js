@@ -1,4 +1,7 @@
 Gr = [
+"Tavolo Ping Pong Expert Roller CSS Indoor|Modello da competizione per interno, della massima stabilità|2017/12/tavolo-ping-pong-expert-roller-css-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-expert-roller-css-indoor_2021_big",
+"Tavolo Ping Pong Competition 740 ITTF|Tavolo Ping Pong Competition 740 ITTF Caratteristiche PIANO|2017/12/tavolo-ping-pong-competition-740-ittf|data.oliviero.it/imgprodotto/tavolo-ping-pong-competition-740-ittf_136312",
+"Tavolo Ping Pong Competition 850 wood ITTF Indoor|Tavolo Ping Pong Competition 850 wood ITTF Indoor COLORE GRIGIO PIANO|2017/12/tavolo-ping-pong-competition-850-wood-ittf-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-competition-850-wood-ittf-indoor_130135",
 "Ping Pong Progress Indoor blu da interno|Modello per interno, verde o blu, per l'uso familiare e amatoriale|2017/12/ping-pong-progress-indoor-blu-da-interno|data.oliviero.it/imgprodotto/ping-pong-progress-indoor-blu-da-interno_83039",
 "Tavolo Ping Pong Outdoor 6|OUTDOOR 6 07177-900 Modello per uso ricreativo per utilizzatori di|2017/12/tavolo-ping-pong-outdoor-6|data.oliviero.it/imgprodotto/tavolo-ping-pong-outdoor-6_110126",
 "Tavolo Ping Pong Master Indoor Blu|Modello per interno, pieghevole, disponibile con piano gioco verde|2017/12/tavolo-ping-pong-master-indoor-blu|data.oliviero.it/imgprodotto/tavolo-ping-pong-master-indoor-blu_83074",

@@ -1,4 +1,8 @@
 Gr = [
+"Biberon 260 ml rosa natural|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-260-ml-rosa-natural|data.oliviero.it/imgprodotto/biberon-260-ml-rosa-natural_138407",
+"Biberon 330 ml natural azzurro|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-330-ml-natural-azzurro|data.oliviero.it/imgprodotto/biberon-330-ml-natural-azzurro_71637",
+"Biberon 260 ml rosa|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-260-ml-rosa|data.oliviero.it/imgprodotto/biberon-260-ml-rosa_164670",
+"Biberon 125 ml natural rosa|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-125-ml-natural-rosa|data.oliviero.it/imgprodotto/biberon-125-ml-natural-rosa_66814",
 "Biberon 120 ml Vetro Natural|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-120-ml-vetro-natural|data.oliviero.it/imgprodotto/biberon-120-ml-vetro-natural_66812",
 "Scaldabiberon elettrico|Il modo rapido e sicuro per scaldare latte materno e alimenti per|2017/12/scaldabiberon-elettrico|data.oliviero.it/imgprodotto/scaldabiberon-elettrico_73761",
 "Piatto fondo piccolo|Perfetto per le prime pappe e gli spuntini. La base antiscivolo|2017/12/piatto-fondo-piccolo|data.oliviero.it/imgprodotto/piatto-fondo-piccolo_73906",

@@ -1,4 +1,10 @@
 Gr = [
+"Stivaletti Boxe|Scarpa da boxe polivalente adatta per l'allenamento e per il tempo|2017/12/stivaletti-boxe|data.oliviero.it/imgprodotto/stivaletti-boxe_171393",
+"Borsone Sportivo a Zaino|Borsa a zaino in materiale antistrappo, con spalline a scomparsa|2017/12/borsone-sportivo-a-zaino|data.oliviero.it/imgprodotto/borsone-sportivo-a-zaino-ac908_154992",
+"Guantoni Boxe 14oz. GN083|Guantoni 14oz. Chiusura: Velcro Disciplina: Boxe, kick boxing, muay|2017/12/guantoni-boxe-14oz-gn083|data.oliviero.it/imgprodotto/guantoni-boxe-14oz-gn083_155001",
+"Guanti Xpad GM249|Guanti protezione maestro con nuova imbottitura 'no shock advanced'|2017/12/guanti-xpad-gm249|data.oliviero.it/imgprodotto/guanti-xpad-gm249_169630",
+"Guanti Fit Boxe|I Guanti da fit boxe Leone Power Fit GK099 sono stati creati dai|2017/12/guanti-fit-boxe|data.oliviero.it/imgprodotto/guanti-fit-boxe_169635",
+"Guanto da Boxe GN038|Guantoni interamente in pelle; la scelta dei materiali più validi|2017/12/guanto-da-boxe-gn038|data.oliviero.it/imgprodotto/guanto-da-boxe-gn038_51787",
 "Guanto Karate Fit Boxe Gk095 Rosso|Guanti pro da karate ideali anche per la fit-boxe, indispensabili per|2017/12/guanto-karate-fit-boxe-gk095-rosso|data.oliviero.it/imgprodotto/guanto-karate-fit-boxe-gk095-rosso_19305_big",
 "Guanti Sacco Italy|Guanto in pelle particolarmente resistente ed anatomico, ideale per|2017/12/guanti-sacco-italy|data.oliviero.it/imgprodotto/guanti-sacco-italy_171395",
 "Paradenti Safe Guard|Paradenti professionale in GEL modellabile. È composto da un corpo|2017/12/paradenti-safe-guard|data.oliviero.it/imgprodotto/paradenti-safe-guard_171419",

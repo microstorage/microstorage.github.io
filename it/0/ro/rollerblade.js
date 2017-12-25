@@ -1,4 +1,6 @@
 Gr = [
+"Roller Macroblade 84|Caratteristiche tecniche: Macroblade 84 dispone di componenti di alta|2017/12/roller-macroblade-84|data.oliviero.it/imgprodotto/roller-macroblade-84_80388",
+"Roller Macroblade 80 W|Il passaggio al telaio in alluminio non è mai stato così facile. La|2017/12/roller-macroblade-80-w|data.oliviero.it/imgprodotto/roller-macroblade-80-w_80384",
 "Roller Phoenix|Pattini regolabili da bambina. Il modello si regola in 4 misure così|2017/12/roller-phoenix|data.oliviero.it/imgprodotto/roller-phoenix_147570",
 "Pattini e Protezioni Spitfire Combo|Regolazione a pulsante, comfort e controllo eccellenti: ogni singolo|2017/12/pattini-e-protezioni-spitfire-combo|data.oliviero.it/imgprodotto/pattini-e-protezioni-spitfire-combo_173240",
 "Pattini e Protezioni Spitfire Combo G|Regolazione a pulsante, comfort e controllo eccellenti: ogni singolo|2017/12/pattini-e-protezioni-spitfire-combo-g|data.oliviero.it/imgprodotto/pattini-e-protezioni-spitfire-combo-g_173239",

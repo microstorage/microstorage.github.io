@@ -1,4 +1,7 @@
 Gr = [
+"Polacchino Uomo Nero|Collezione Autunno Inverno/2018 Materiale: pelle Colore: nero Fodera:|2017/12/polacchino-uomo-nero|data.oliviero.it/imgprodotto/polacchino-uomo-nero_168897",
+"Stivaletti Uomo Nero|Collezione Autunno Inverno/2018 Il nostro Stormbuck Chelsea Boot è da|2017/12/stivaletti-uomo-nero|data.oliviero.it/imgprodotto/stivaletti-uomo-nero_171089",
+"Scarpe Jaylon Uomo Mud|Collezione Autunno Inverno/2018 Per affrontare le lunghe giornate|2017/12/scarpe-jaylon-uomo-mud|data.oliviero.it/imgprodotto/scarpe-jaylon-uomo-mud_167192",
 "Stivaletti Uomo Jaylon Mud|Collezione Autunno Inverno/2018 Per affrontare le lunghe giornate|2017/12/stivaletti-uomo-jaylon-mud|data.oliviero.it/imgprodotto/stivaletti-uomo-jaylon-mud_168839",
 "Scarpe Uomo Jaylon|Collezione Autunno Inverno/2018 Per affrontare le lunghe giornate|2017/12/scarpe-uomo-jaylon|data.oliviero.it/imgprodotto/scarpe-uomo-jaylon_167184",
 "Stivaletti Uomo Larchmont|Collezione Autunno Inverno/2018 Questi robusti stivali chelsea da|2017/12/stivaletti-uomo-larchmont|data.oliviero.it/imgprodotto/stivaletti-uomo-larchmont_171082",

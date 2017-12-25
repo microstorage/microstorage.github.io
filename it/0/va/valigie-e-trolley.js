@@ -1,4 +1,9 @@
 Gr = [
+"Trolley 4R Belmont Antracite XL|Valigia trolley 4 ruote 76 cm H 76 x L 52 x E 30 cm - 108.63L - 4.4kg|2017/12/trolley-4r-belmont-antracite-xl|data.oliviero.it/imgprodotto/trolley-4r-belmont-antracite-xl-3840821_160849",
+"Trolley 25X10X27 Cm| Trolley di colore marrone e sabbia  Chiusura con coulisse e fibbia|2017/12/trolley-25x10x27-cm|data.oliviero.it/imgprodotto/trolley-25x10x27-cm_117172",
+"Cuscino da Viaggio Argento|Questo cuscino da viaggio sposa perfettamente la forma della nuca per|2017/12/cuscino-da-viaggio-argento|data.oliviero.it/imgprodotto/cuscino-da-viaggio-argento-003940260_160630",
+"Cuscino da Viaggio TN 2016 Rosso|L'oggetto indispensabile per i vostri viaggi: questo cuscino da|2017/12/cuscino-da-viaggio-tn-2016-rosso|data.oliviero.it/imgprodotto/cuscino-da-viaggio-tn-2016-rosso-003940262_160632",
+"Trolley 4R Belmont Rosso L|Valigia trolley 4 ruote 70 cm H 70.5 x L 47 x E 28.5 cm - 76.23L|2017/12/trolley-4r-belmont-rosso-l|data.oliviero.it/imgprodotto/trolley-4r-belmont-rosso-l-3840820_160845",
 "Trolley 3201220 Medio|Valigia Rigida, 2 ruote Dimensioni: 32 x 64,5 x 34 cm Peso: 2,5 Kg|2017/12/trolley-3201220-medio|data.oliviero.it/imgprodotto/trolley-3201220-medio_63200",
 "Trolley 2 ruote Lining Viola e Silver|Trolley Struttura Super Light 2 ruote Lucchetto a combinazione con|2017/12/trolley-2-ruote-lining-viola-e-silver|data.oliviero.it/imgprodotto/trolley-2-ruote-lining-viola-e-silver_159468",
 "Trolley 2 ruote Lining Verde e Silver|Trolley Struttura Super Light 2 ruote Lucchetto a combinazione con|2017/12/trolley-2-ruote-lining-verde-e-silver|data.oliviero.it/imgprodotto/trolley-2-ruote-lining-verde-e-silver_159470",

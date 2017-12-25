@@ -1,4 +1,6 @@
 Gr = [
+"Giubbino Bambino Blu|Collezione Primavera Estate In resistente nylon Fodera interna in|2017/12/giubbino-bambino-blu|data.oliviero.it/imgprodotto/giubbino-bambino-blu-171mhaa005_161083",
+"T-Shirt Jr. Grigio|Collezione Autunno Inverno/2018 Uno dei design più amati sfoggia un|2017/12/t-shirt-jr-grigio|data.oliviero.it/imgprodotto/t-shirt-jr-grigio_167574",
 "T-Shirt Bambina Giallo|Collezione Primavera Estate In morbido jersey Stondata sul fondo|2017/12/t-shirt-bambina-giallo|data.oliviero.it/imgprodotto/t-shirt-bambina-giallo-171mifn010_163709",
 "Pantalone Bambino Fango|Collezione Primavera Estate Pantalone da bambino con allacciatura|2017/12/pantalone-bambino-fango|data.oliviero.it/imgprodotto/pantalone-bambino-fango-0s340_162147",
 "Camicia Ragazzo Stone Washed Chiaro|Collezione Primavera Estate Camicia da bambino con maniche lunghe. Il|2017/12/camicia-ragazzo-stone-washed-chiaro|data.oliviero.it/imgprodotto/camicia-ragazzo-stone-washed-chiaro-4s404-7400_158471",

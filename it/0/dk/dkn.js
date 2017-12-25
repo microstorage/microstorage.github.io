@@ -1,4 +1,11 @@
 Gr = [
+"Cyclette Magbike 430|DKN Magbike 430 è una cyclette magnetica dal design semplice e dalla|2017/12/cyclette-magbike-430|data.oliviero.it/imgprodotto/cyclette-magbike-430_68674",
+"Gym bike Z-11D|DKN Z-11D è una gym bike con telaio in acciaio che offre una vasta|2017/12/gym-bike-z-11d|data.oliviero.it/imgprodotto/gym-bike-z-11d_85284",
+"Ellittica XC 120w|DKN XC-120W è un'ellitica facile da usare, ma ricca di funzioni per|2017/12/ellittica-xc-120w|data.oliviero.it/imgprodotto/ellittica-xc-120w_68606",
+"Recumbent RB-4i|La cyclette orizzontale DKN RB-4i non è solo incredibilmente elegante|2017/12/recumbent-rb-4i|data.oliviero.it/imgprodotto/recumbent-rb-4i_154186",
+"Tapis Roulant Treadmill RoadRun|Il tapis roulant DKN RoadRun è pensato per qualsiasi tipologia di|2017/12/tapis-roulant-treadmill-roadrun|data.oliviero.it/imgprodotto/tapis-roulant-treadmill-roadrun_68612",
+"Tapis Roulant MedRun|Attrezzature cardio per la riabilitazione terapeutica Il tapis|2017/12/tapis-roulant-medrun|data.oliviero.it/imgprodotto/tapis-roulant-medrun_154215",
+"Gym Bike X-Revolution|La Gymbike DKN X Revolution è lo strumento ideale per praticare|2017/12/gym-bike-x-revolution|data.oliviero.it/imgprodotto/gym-bike-x-revolution_76910",
 "Ellittica XC 140i|L'ellittica DKN XC140i è pensata per gli sportivi più esigenti e per|2017/12/ellittica-xc-140i|data.oliviero.it/imgprodotto/ellittica-xc-140i_68607",
 "Tapis Roulant Treadmill EcoRun i Black|DKN EcoRun i Black è un tapis roulant Plug and Run: un attrezzo pre|2017/12/tapis-roulant-treadmill-ecorun-i-black|data.oliviero.it/imgprodotto/tapis-roulant-treadmill-ecorun-i-black_89654",
 "Tapis Roulant Treadmill EcoRun|Il DKN Ecorun è un tapis roulant Plug and Run: un attrezzo|2017/12/tapis-roulant-treadmill-ecorun|data.oliviero.it/imgprodotto/tapis-roulant-treadmill-ecorun_68609",

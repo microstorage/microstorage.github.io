@@ -1,4 +1,5 @@
 Gr = [
+"Double Print Frame Bianco|Un'idea originale per voi o come regalo Con il Baby Art Hand|2017/12/double-print-frame-bianco|data.oliviero.it/imgprodotto/double-print-frame-bianco_56936",
 "Print Frame Taupe|Baby Art è il leader mondiale nella distribuzione di prodotti unici|2017/12/print-frame-taupe|data.oliviero.it/imgprodotto/print-frame-taupe_52208",
 "Magic Box white & grey|Baby Art è il leader mondiale nella distribuzione di prodotti unici|2017/12/magic-box-white-grey|data.oliviero.it/imgprodotto/magic-box-white-%26-grey_109085",
 "Double print frame grey|Double print frame è una soluzuone originale per creare con il|2017/12/double-print-frame-grey|data.oliviero.it/imgprodotto/double-print-frame-grey_132095",

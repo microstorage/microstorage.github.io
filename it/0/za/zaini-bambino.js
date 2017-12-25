@@ -1,4 +1,5 @@
 Gr = [
+"Zaino Shot Pack Fantasy|Capacità 28 lt Dimensione 27x41x20 cm Funzionali Fondo imbottito|2017/12/zaino-shot-pack-fantasy|data.oliviero.it/imgprodotto/zaino-shot-pack-fantasy_167469",
 "Zaino The Double Camouflage|È uno zaino ma sono due. Da un lato fantasia e dall'altro tinta|2017/12/zaino-the-double-camouflage|data.oliviero.it/imgprodotto/zaino-the-double-camouflage_167526",
 "Zaino Maxi Sj Boy|Sempre per la scuola una versione alternativa con un modello tondo:|2017/12/zaino-maxi-sj-boy|data.oliviero.it/imgprodotto/zaino-maxi-sj-boy_166223",
 "Maxi Trolley SJ Boy|Questo è il Big trolley Sj! Adatto per la scuola con una capienza di|2017/12/maxi-trolley-sj-boy|data.oliviero.it/imgprodotto/maxi-trolley-sj-boy_166224",

@@ -1,4 +1,10 @@
 Gr = [
+"Tastiera Elettronica con Microfono|Pianola musicale con 32 tasti multifunzionali, diversi ritmi|2017/12/tastiera-elettronica-con-microfono|data.oliviero.it/imgprodotto/tastiera-elettronica-con-microfono-64834_156828",
+"Tappetino con Lettere|Tappeto morbido e colorato in gomma con incastro 5 Lettere. Ideale|2017/12/tappetino-con-lettere|data.oliviero.it/imgprodotto/tappetino-con-lettere-72274_156856",
+"Playset Lavori in Corso con Accessori|Stazione di lavori in corso con accessori Dimensioni 45 x 26 cm|2017/12/playset-lavori-in-corso-con-accessori|data.oliviero.it/imgprodotto/playset-lavori-in-corso-con-accessori-64232_156888",
+"Banco Frutta e Verdura|Dimensioni prodotto 60 x 40 x 20 cm Divertiti a fare la spesa. Il|2017/12/banco-frutta-e-verdura|data.oliviero.it/imgprodotto/banco-frutta-e-verdura_136290",
+"La Fattoria con Trattore e Animali|PlaySet composto da una fattoria ed un trattore, con quattro|2017/12/la-fattoria-con-trattore-e-animali|data.oliviero.it/imgprodotto/la-fattoria-con-trattore-e-animali_139991",
+"Tappetone Gioco 120x200 cm|Coloratissimo tappeto con disegnato un simpatico circuito cittadino|2017/12/tappetone-gioco-120x200-cm|data.oliviero.it/imgprodotto/tappetone-gioco-120x200-cm-73035_156876",
 "Casa delle Bambole Villa delle Meraviglie|Villa delle meraviglie con luci e suoni. Inclusi 3 personaggi, un|2017/12/casa-delle-bambole-villa-delle-meraviglie|data.oliviero.it/imgprodotto/casa-delle-bambole-villa-delle-meraviglie-64220_156810",
 "Camion Raccolta Differenziata|Baby camion nettezza urbana con funzioni reali, luci e suoni|2017/12/camion-raccolta-differenziata|data.oliviero.it/imgprodotto/camion-raccolta-differenziata-63750_156808",
 "Garage Polizia con Pista e 3 Auto incluse|Ricrea gli inseguimenti più emozionanti con questa fantastica pista|2017/12/garage-polizia-con-pista-e-3-auto-incluse|data.oliviero.it/imgprodotto/garage-polizia-con-pista-e-3-auto-incluse-64496_156815",

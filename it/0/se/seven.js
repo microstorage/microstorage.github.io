@@ -1,4 +1,5 @@
 Gr = [
+"Zaino Advanced Widget|Questo zaino è speciale! Grazie alla serigrafia fotosensibile, con|2017/12/zaino-advanced-widget|data.oliviero.it/imgprodotto/zaino-advanced-widget_166132",
 "Zaino The Double Camouflage|È uno zaino ma sono due. Da un lato fantasia e dall'altro tinta|2017/12/zaino-the-double-camouflage|data.oliviero.it/imgprodotto/zaino-the-double-camouflage_167526",
 "Portapenne Round PLUS Swag Boy|Un portapenne attrezzato per organizzare al meglio penne, matite|2017/12/portapenne-round-plus-swag-boy|data.oliviero.it/imgprodotto/portapenne-round-plus-swag-boy_166276",
 "Portapenne Sunflower|Tanti modelli, grafiche e colori… proprio per tutti i gusti!!!|2017/12/portapenne-sunflower|data.oliviero.it/imgprodotto/portapenne-sunflower_166295",

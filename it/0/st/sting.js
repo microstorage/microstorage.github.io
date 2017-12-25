@@ -1,4 +1,5 @@
 Gr = [
+"Guanti da Boxe Armalite 10oz|Guanti da Boxe Caratteristiche: Pelle esterna SLV3 per durata|2017/12/guanti-da-boxe-armalite-10oz|data.oliviero.it/imgprodotto/guanti-da-boxe-armalite-10oz-sabg-0112_92974",
 "Guanti Boxe in Pelle da competizione 10oz|Guanti da Boxe da competizione Caratteristiche: Strato esterno in|2017/12/guanti-boxe-in-pelle-da-competizione-10oz|data.oliviero.it/imgprodotto/guanti-boxe-in-pelle-da-competizione-10oz-s2ag-0312_92985",
 "Guanti da Boxe Armalite 16oz|Guanti da Boxe Caratteristiche: Pelle esterna SLV3 per durata|2017/12/guanti-da-boxe-armalite-16oz|data.oliviero.it/imgprodotto/guanti-da-boxe-armalite-16oz-sabg-0115_92977",
 "Guanti da Sacco Armalite|Guanti da allenamento per Sacco Caratteristiche: Pelle esterna SLV3|2017/12/guanti-da-sacco-armalite|data.oliviero.it/imgprodotto/guanti-da-sacco-armalite-sabm-0101_157058",

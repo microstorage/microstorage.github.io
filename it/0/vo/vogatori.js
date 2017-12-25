@@ -1,4 +1,6 @@
 Gr = [
+"Vogatore Coach E|Il vogatore professionale creato e progettato per eliminare tutti gli|2017/12/vogatore-coach-e|data.oliviero.it/imgprodotto/vogatore-coach-e_6974_big",
+"Vogatore Rower NEW|Migliora la tua forma fisica con ROWER, il rinnovato vogatore|2017/12/vogatore-rower-new|data.oliviero.it/imgprodotto/vogatore-rower-new_130399",
 "Vogatore Coach S|NUOVO COACH S 07975-170 Con il nuovo KETTLER COACH S si amplia la|2017/12/vogatore-coach-s|data.oliviero.it/imgprodotto/vogatore-coach-s_90370",
 "Vogatore Rowers SR 909|Rowers SR 909 Caratteristiche Numero di resistanza 8 Peso massimo|2017/12/vogatore-rowers-sr-909|data.oliviero.it/imgprodotto/vogatore-rowers-sr-909_119564",
 "Vogatore Rower R400|Per tutti coloro che vogliono sviluppare la parte superiore del|2017/12/vogatore-rower-r400|data.oliviero.it/imgprodotto/vogatore-rower-r400_73951",

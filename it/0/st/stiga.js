@@ -1,4 +1,8 @@
 Gr = [
+"Tavolo Ping Pong Expert Roller CSS Indoor|Modello da competizione per interno, della massima stabilità|2017/12/tavolo-ping-pong-expert-roller-css-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-expert-roller-css-indoor_2021_big",
+"Tavolo Ping Pong Privat Roller CSS Indoor|Modello per interno, di notevole stabilità e robustezza e di qualità|2017/12/tavolo-ping-pong-privat-roller-css-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-privat-roller-css-indoor_2017_big",
+"Calcio da Tavolo World Champs|Caratteristiche tecniche: Tutti i giocatori sono tridimensionali ed|2017/12/calcio-da-tavolo-world-champs|data.oliviero.it/imgprodotto/calcio-da-tavolo-world-champs_11186_big",
+"Racchetta Charger Tube 3 Stelle|Racchetta Ping Pong Stiga Charger Racchetta Ping Pong è una racchetta|2017/12/racchetta-charger-tube-3-stelle|data.oliviero.it/imgprodotto/racchetta-charger-tube-3-stelle_8334_big",
 "Set Venture WRB|Set ping pong composto da 1 racchetta e 3 palline con custodia) Set|2017/12/set-venture-wrb|data.oliviero.it/imgprodotto/set-venture-wrb_8355_big",
 "Set di 2 racchette Hobby Senior|Set hobby composto da 2 racchette, 3 volani e custodia. Set completo|2017/12/set-di-2-racchette-hobby-senior|data.oliviero.it/imgprodotto/set-di-2-racchette-hobby-senior_8371_big",
 "Racchetta Premier NCT 5 Stelle|Racchetta Ping Pong Racchetta da Ping Pong Premier NCT (5 stelle) di|2017/12/racchetta-premier-nct-5-stelle|data.oliviero.it/imgprodotto/racchetta-premier-nct-5-stelle_8345_big",

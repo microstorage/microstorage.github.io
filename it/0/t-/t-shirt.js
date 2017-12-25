@@ -1,5 +1,18 @@
 Tt = "T-Shirt";
 Gr = [
+"T-Shirt Jordan Bianco|La t-shirt Jordan Sportswear Wings - Uomo sfoggia dettagli esclusivi|2017/12/t-shirt-jordan-bianco|data.oliviero.it/imgprodotto/t-shirt-jordan-bianco_167890",
+"T-Shirt Felpa Donna Nero|Collezione Autunno Inverno/2018 maglietta ampia con mezza manica|2017/12/t-shirt-felpa-donna-nero|data.oliviero.it/imgprodotto/t-shirt-felpa-donna-nero_170346",
+"T-Shirt donna S2S4XB 00445|T-Shirt da donna con scollo a V, mezze maniche, disegno nella parte|2017/12/t-shirt-donna-s2s4xb-00445|data.oliviero.it/imgprodotto/t-shirt-donna-s2s4xb-00445_146534",
+"T-Shirt Uomo Arancio|Realizzata in tessuto antiumidità riciclato e arricchita da una|2017/12/t-shirt-uomo-arancio|data.oliviero.it/imgprodotto/t-shirt-uomo-arancio_168344",
+"T-shirt uomo History Giacomo Agostini|Una leggenda mondiale, raccontata in italiano Un testo che è allo|2017/12/t-shirt-uomo-history-giacomo-agostini|data.oliviero.it/imgprodotto/t-shirt-uomo-history-giacomo-agostini_93403",
+"T-Shirt Donna da Alllenamento|Questa T-shirt da donna ha tutto ciò di cui hai bisogno per|2017/12/t-shirt-donna-da-alllenamento|data.oliviero.it/imgprodotto/t-shirt-donna-da-alllenamento_168440",
+"T-Shirt Bianco Uomo|Questa T-shirt da uomo è pensata per offrirti comfort e copertura. Il|2017/12/t-shirt-bianco-uomo|data.oliviero.it/imgprodotto/t-shirt-bianco-uomo_168463",
+"T-Shirt Uomo Grigio scuro e Chiaro|Una T-shirt fresca e trendy. Non devi più scegliere tra la copertura|2017/12/t-shirt-uomo-grigio-scuro-e-chiaro|data.oliviero.it/imgprodotto/t-shirt-uomo-grigio-scuro-e-chiaro_168436",
+"T-Shirt Aire Nero|Collezione Autunno Inverno/2018 T-shirt nera a manica lunga con|2017/12/t-shirt-aire-nero|data.oliviero.it/imgprodotto/t-shirt-aire-nero_170879",
+"T-Shirt Running Donna Viola|Il top da running a manica corta Nike Relay - Donna è realizzato in|2017/12/t-shirt-running-donna-viola|data.oliviero.it/imgprodotto/t-shirt-running-donna-viola_167920",
+"T-Shirt donna Verde|Collezione Primavera Estate Tipologia: T-shirt mezza manica da donna|2017/12/t-shirt-donna-verde|data.oliviero.it/imgprodotto/t-shirt-donna-verde_5882_big",
+"T-Shirt Uomo Navy Essentials 3 Stripes Tee|Questa T-shirt da uomo è pensata per offrirti comfort e copertura|2017/12/t-shirt-uomo-navy-essentials-3-stripes-tee|data.oliviero.it/imgprodotto/t-shirt-uomo-navy-essentials-3-stripes-tee-b47359_159392",
+"T-shirt uomo bianca heritage|Tratta da una foto privata di Giacomo Uno stile anni 70, heritage Una|2017/12/t-shirt-uomo-bianca-heritage|data.oliviero.it/imgprodotto/t-shirt-uomo-bianca-heritage_93397",
 "T-Shirt Uomo Nero|La t-shirt Nike Swoosh Athlete - Uomo è realizzata in morbido tessuto|2017/12/t-shirt-uomo-nero|data.oliviero.it/imgprodotto/t-shirt-uomo-nero_169690",
 "T-Shirt da Basket Uomo Nero|La t-shirt da basket Nike Dry - Uomo è realizzata in tessuto|2017/12/t-shirt-da-basket-uomo-nero|data.oliviero.it/imgprodotto/t-shirt-da-basket-uomo-nero_167928",
 "T-Shirt Sportiva Uomo Bianco|La t-shirt Nike Sportswear - Uomo è realizzata in puro cotone per un|2017/12/t-shirt-sportiva-uomo-bianco|data.oliviero.it/imgprodotto/t-shirt-sportiva-uomo-bianco-827021-100_158069",

@@ -1,4 +1,10 @@
 Gr = [
+"Piumetto Letto Stella Ricamato|Stella Converse è una novità Picci. Il Completo Lettino Picci Stalla|2017/12/piumetto-letto-stella-ricamato|data.oliviero.it/imgprodotto/piumetto-letto-stella-ricamato_172062",
+"Piumetto Letto Amelie Ricamato|Il Completo Lettino Picci Amelie è un Set 3 pezzi sfilabile ricamato|2017/12/piumetto-letto-amelie-ricamato|data.oliviero.it/imgprodotto/piumetto-letto-amelie-ricamato_172701",
+"Piumone e paracolpi loving bear azzurro|Federa: Misura: cm. 40x60 Materiale: cotone Copripiumone: Misura: cm|2017/12/piumone-e-paracolpi-loving-bear-azzurro|data.oliviero.it/imgprodotto/piumone-e-paracolpi-loving-bear-azzurro_86197",
+"Piumetto Letto Amelie Cuori per Letto Pannellato|ARTICOLO PER LETTINO CON TESTIERA/PEDIERA CON PANNELLO. Il Completo|2017/12/piumetto-letto-amelie-cuori-per-letto-pannellato|data.oliviero.it/imgprodotto/piumetto-letto-amelie-cuori-per-letto-pannellato_172696",
+"Piumone e paracolpi Zoe Rosa|Federa: Misura: cm. 40x60 Materiale: cotone Copripiumone: Misura: cm|2017/12/piumone-e-paracolpi-zoe-rosa|data.oliviero.it/imgprodotto/piumone-e-paracolpi-zoe-rosa_147381",
+"Piumetto Letto Stella Stampato|Stella Converse è una novità Picci. Il Completo Lettino Picci Stalla|2017/12/piumetto-letto-stella-stampato|data.oliviero.it/imgprodotto/piumetto-letto-stella-stampato_172066",
 "Stella Rivestimento Tessile Per Culla Converse|Il Rivestimento Tessile necessario al letto converse Stella nella sua|2017/12/stella-rivestimento-tessile-per-culla-converse|data.oliviero.it/imgprodotto/stella-rivestimento-tessile-per-culla-converse_172058",
 "Nina Rivestimento Tessile Per Culla Converse|Il Rivestimento Tessile necessario al letto converse Nina nella sua|2017/12/nina-rivestimento-tessile-per-culla-converse|data.oliviero.it/imgprodotto/nina-rivestimento-tessile-per-culla-converse_172660",
 "Set Poldo Arancio|Set piumone + paracolpi + federa cuscino Tessuto 100% cotone - Decori|2017/12/set-poldo-arancio|data.oliviero.it/imgprodotto/set-poldo-arancio_132588",

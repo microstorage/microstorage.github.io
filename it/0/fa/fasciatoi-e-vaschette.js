@@ -1,4 +1,12 @@
 Gr = [
+"Fasciatoio Tris Ciak Sbiancato|Pali offre una linea completa di bagnetti fasciatoio, per la cura del|2017/12/fasciatoio-tris-ciak-sbiancato|data.oliviero.it/imgprodotto/fasciatoio-tris-ciak-sbiancato_153452",
+"Aqua Fasciatoio 219|Bagnetto / fasciatoio dalle forme moderne. La vaschetta è dotata di|2017/12/aqua-fasciatoio-219|data.oliviero.it/imgprodotto/aqua-fasciatoio-219_171525",
+"Fasciatoio Cambio 226|Morbido fasciatoio con sistema di anti-ribaltamento, include|2017/12/fasciatoio-cambio-226|data.oliviero.it/imgprodotto/fasciatoio-cambio-226_158817",
+"Bagnetto Fasciatoio Celine|Bagnetto Fasciatoio collezione Celine impreziosito da dettagli sui|2017/12/bagnetto-fasciatoio-celine|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-celine_147360",
+"Fasciatoio Tris Ciak Naturale|Pali offre una linea completa di bagnetti fasciatoio, per la cura del|2017/12/fasciatoio-tris-ciak-naturale|data.oliviero.it/imgprodotto/fasciatoio-tris-ciak-naturale_153454",
+"Fasciatoio volare 219|Bagnetto / fasciatoio pieghevole dalle forme moderne, dispone di un|2017/12/fasciatoio-volare-219|data.oliviero.it/imgprodotto/fasciatoio-volare-219_116753",
+"Fasciatoio Cambio 219|Il Bagnetto Cambio Cam è il nuovo bagnetto Cam. Il fasciatoio cambio|2017/12/fasciatoio-cambio-219|data.oliviero.it/imgprodotto/fasciatoio-cambio-219_136979",
+"Vaschetta Laguna|Tutte le prerogative delle vaschette di Okbaby in un modello|2017/12/vaschetta-laguna|data.oliviero.it/imgprodotto/vaschetta-laguna_130877",
 "Fasciatoio Nuvola 219|Bagnetto fasciatolo nuvola cam. Bagnetto fasciatoio dal nuovo design|2017/12/fasciatoio-nuvola-219|data.oliviero.it/imgprodotto/fasciatoio-nuvola-219_136976",
 "Fasciatoio Nuvola 222|Bagnetto fasciatolo nuvola cam. Bagnetto fasciatoio dal nuovo design|2017/12/fasciatoio-nuvola-222|data.oliviero.it/imgprodotto/fasciatoio-nuvola-222_136978",
 "Fasciatoio Volare 227|Bagnetto / fasciatoio pieghevole dalle forme moderne, dispone di un|2017/12/fasciatoio-volare-227|data.oliviero.it/imgprodotto/fasciatoio-volare-227_158813",

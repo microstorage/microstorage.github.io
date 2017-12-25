@@ -1,4 +1,11 @@
 Gr = [
+"Rulli per manicotto di boemia trdelnik|Il manicotto di Boemia, il cui nome originale è trdelnik, è un dolce|2017/12/rulli-per-manicotto-di-boemia-trdelnik|data.oliviero.it/imgprodotto/rulli-per-manicotto-di-boemia-trdelnik-623390_157899",
+"Stampi per Budino 4 pz|Hai voglia di un delizioso budino? Ora ci sono gli stampini che ti|2017/12/stampi-per-budino-4-pz|data.oliviero.it/imgprodotto/stampi-per-budino-4-pz_90734",
+"Formine per uova|Un uovo sodo a forma di farfalla… ma anche di casetta, cuore|2017/12/formine-per-uova|data.oliviero.it/imgprodotto/formine-per-uova-420658_155247",
+"Stampo tagliapasta per bastoncini|Ideale per preparare velocemente bastoncini dolci o salati; taglia|2017/12/stampo-tagliapasta-per-bastoncini|data.oliviero.it/imgprodotto/stampo-tagliapasta-per-bastoncini_74152",
+"Svuota Maffin 2 pz|Aggiungi una dolce sorpresa all'interno dei tuoi cupcake o muffin!|2017/12/svuota-maffin-2-pz|data.oliviero.it/imgprodotto/svuota-maffin-2-pz_93302",
+"Stampo Tagliapasta per Fagottini|Realizza i tuoi salatini preferiti, fagottini dolci o salati|2017/12/stampo-tagliapasta-per-fagottini|data.oliviero.it/imgprodotto/stampo-tagliapasta-per-fagottini-630896_155125",
+"Beccucci decoratori 13 pz|Farcire e decorare i dolci come un vero professionista? Un sogno che|2017/12/beccucci-decoratori-13-pz|data.oliviero.it/imgprodotto/beccucci-decoratori-13-pz_155834",
 "Rullo Taglia Pasta Tondo diam. 4,5 cm|Per ottenere da un impasto file di cerchi perfetti con uno scarto|2017/12/rullo-taglia-pasta-tondo-diam-4-5-cm|data.oliviero.it/imgprodotto/rullo-taglia-pasta-tondo-diam-4-5-cm_74089",
 "Sac à Poche Monouso Doppia|Le sac à poche monouso sono davvero pratiche, soprattutto se prepari|2017/12/sac-a-poche-monouso-doppia|data.oliviero.it/imgprodotto/sac-%C3%A0-poche-monouso-doppia-630476_155191",
 "Pirottini in silicone 7 cm Set 6 pezzi|Colorati e riutilizzabili, questi pirottini in silicone d'alta|2017/12/pirottini-in-silicone-7-cm-set-6-pezzi|data.oliviero.it/imgprodotto/pirottini-in-silicone-7-cm-set-6-pezzi-630646_157836",

@@ -1,4 +1,9 @@
 Gr = [
+"Costume Uomo Solid Brief|Collezione Autunno Inverno/2017 Questo classico costume da uomo|2017/12/costume-uomo-solid-brief|data.oliviero.it/imgprodotto/costume-uomo-solid-brief-2a254_153440",
+"Costume Nuoto Donna|Migliora la bracciata con questo costume da bagno intero. Realizzato|2017/12/costume-nuoto-donna|data.oliviero.it/imgprodotto/costume-nuoto-donna_168164",
+"Costume Baby Seasquad Brief|Costume da bambino pensato per i più piccoli e non solo. Questo|2017/12/costume-baby-seasquad-brief|data.oliviero.it/imgprodotto/costume-baby-seasquad-brief-809217b419_161112",
+"Boxer Nuoto Nero Grigio|Nuota con sicurezza indossando questi boxer. Realizzati in|2017/12/boxer-nuoto-nero-grigio|data.oliviero.it/imgprodotto/boxer-nuoto-nero-grigio_168284",
+"Costume Nuoto Donna Essence Core Infinitex + 3-Stripes|Collezione Primavera Estate Perfeziona la bracciata grazie a questo|2017/12/costume-nuoto-donna-essence-core-infinitex-+-3-stripes|data.oliviero.it/imgprodotto/costume-nuoto-donna-essence-core-infinitex-3-stripes-bp9530_159423",
 "Bermuda mare uomo rosso 59118W0 Berry|Tipologia: Costume mare Uomo Tessuto: 100% Nylon Vestibilità:|2017/12/bermuda-mare-uomo-rosso-59118w0-berry|data.oliviero.it/imgprodotto/bermuda-mare-uomo-rosso-59118w0-berry_56795",
 "Costume Nuoto Donna Essence Core 3S 2PC|Collezione Primavera Estate Perfetto per nuotare in piscina o nel|2017/12/costume-nuoto-donna-essence-core-3s-2pc|data.oliviero.it/imgprodotto/costume-nuoto-donna-essence-core-3s-2pc-bp5482_159420",
 "Costume Nuoto Uomo Bluette Essence Core 3S|Collezione Primavera Estate Mix perfetto di comfort e prestazioni|2017/12/costume-nuoto-uomo-bluette-essence-core-3s|data.oliviero.it/imgprodotto/costume-nuoto-uomo-bluette-essence-core-3s-bq0630_159429",

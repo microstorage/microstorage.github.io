@@ -1,4 +1,6 @@
 Gr = [
+"Libro Buon Appetito, Signor Coniglio!|Al Signor Coniglio non piacciono più le carote. Grande è la curiosità|2017/12/libro-buon-appetito-signor-coniglio|data.oliviero.it/imgprodotto/libro-buon-appetito-signor-coniglio-_156331",
+"Libro Aspetto un fratellino|La mamma dice: Camilla, avrai presto un fratellino. Ma Camilla non|2017/12/libro-aspetto-un-fratellino|data.oliviero.it/imgprodotto/libro-aspetto-un-fratellino_156327",
 "Libro Non voglio andare a Scuola|Una nuova avventura aspetta Simone, il protagonista di \"Cacca pupù\"|2017/12/libro-non-voglio-andare-a-scuola|data.oliviero.it/imgprodotto/libro-non-voglio-andare-a-scuola_156405",
 "Libro L'amico del piccolo tirannosauro|C'era una volta un piccolo tirannosauro che non aveva amici perché li|2017/12/libro-l-amico-del-piccolo-tirannosauro|data.oliviero.it/imgprodotto/libro-lamico-del-piccolo-tirannosauro_156377",
 "Libro Quando avevo paura del buio|Roberto è a letto. Crac! \"Da dove viene questo rumore? Dev'essere|2017/12/libro-quando-avevo-paura-del-buio|data.oliviero.it/imgprodotto/libro-quando-avevo-paura-del-buio_156410",

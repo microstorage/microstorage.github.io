@@ -1,4 +1,5 @@
 Gr = [
+"Giubbino Bambino Blu|Collezione Primavera Estate In resistente nylon Fodera interna in|2017/12/giubbino-bambino-blu|data.oliviero.it/imgprodotto/giubbino-bambino-blu-171mhaa005_161083",
 "T-Shirt Bambina Giallo|Collezione Primavera Estate In morbido jersey Stondata sul fondo|2017/12/t-shirt-bambina-giallo|data.oliviero.it/imgprodotto/t-shirt-bambina-giallo-171mifn010_163709",
 "Pantalone in Felpa Bambino|Collezione Primavera Estate In leggerissima felpa indaco Elastico|2017/12/pantalone-in-felpa-bambino|data.oliviero.it/imgprodotto/pantalone-in-felpa-bambino-171mhbm008_163684",
 "Felpa Bambino Giallo|Collezione Primavera Estate In morbida felpa Stampa allover|2017/12/felpa-bambino-giallo|data.oliviero.it/imgprodotto/felpa-bambino-giallo-171mhfc011_163705",

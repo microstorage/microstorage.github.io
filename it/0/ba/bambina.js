@@ -1,4 +1,12 @@
 Gr = [
+"Grembiule Asilo Bambina Bianco|Collezione Autunno Inverno/2018 Grembiule asilo da bambina. Il|2017/12/grembiule-asilo-bambina-bianco|data.oliviero.it/imgprodotto/grembiule-asilo-bambina-bianco-fg401_166468",
+"Canotta Bambina Panna Beige|Collezione Primavera Estate Canotta da bambina con allacciatura|2017/12/canotta-bambina-panna-beige|data.oliviero.it/imgprodotto/canotta-bambina-panna-beige-4s510-6t05_158472",
+"Scarpe Jr. Marrone|Collezione Autunno Inverno/2018 Quando è tempo di giocare, i piccoli|2017/12/scarpe-jr-marrone|data.oliviero.it/imgprodotto/scarpe-jr-marrone_171118",
+"Grembiule Asilo E579|Collezione : Autunno Inverno/2016 Tipologia : Grembiule asilo da|2017/12/grembiule-asilo-e579|data.oliviero.it/imgprodotto/grembiule-asilo-e579_126034",
+"T-Shirt Jr. Grigio|Collezione Autunno Inverno/2018 Uno dei design più amati sfoggia un|2017/12/t-shirt-jr-grigio|data.oliviero.it/imgprodotto/t-shirt-jr-grigio_167574",
+"Pantalone Sportivo Bambino Navy|Collezione Primavera Estate Pantalone sportivo da bambino ideale per|2017/12/pantalone-sportivo-bambino-navy|data.oliviero.it/imgprodotto/pantalone-sportivo-bambino-navy-4s176_159335",
+"Scarpe Superstar Foundation J|Queste scarpe adidas Originals Superstar Foundation sono una nuova|2017/12/scarpe-superstar-foundation-j|data.oliviero.it/imgprodotto/scarpe-superstar-foundation-j_172194",
+"Sandali Baby Kaytan Bianco|Collezione Primavera Estate Per accompagnare la tua bimba per i suoi|2017/12/sandali-baby-kaytan-bianco|data.oliviero.it/imgprodotto/sandali-baby-kaytan-bianco-b7251c-c0626_162558",
 "Trolley Monkey Skip-Hop|Trolley ideale per i bambini sia per piccoli viaggi che grandi|2017/12/trolley-monkey-skip-hop|data.oliviero.it/imgprodotto/trolley-monkey-skip-hop_140417",
 "Portapenne Sunflower|Tanti modelli, grafiche e colori… proprio per tutti i gusti!!!|2017/12/portapenne-sunflower|data.oliviero.it/imgprodotto/portapenne-sunflower_166295",
 "Scarpe Jr. Kiwi Girl|Collezione Primavera Estate Trendy, cool e ideali per le bambine che|2017/12/scarpe-jr-kiwi-girl|data.oliviero.it/imgprodotto/scarpe-jr-kiwi-girl-j72d5b-c5000_162362",

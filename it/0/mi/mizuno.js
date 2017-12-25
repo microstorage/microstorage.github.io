@@ -1,4 +1,9 @@
 Gr = [
+"Scarpe Running Wave Creation 19|Rapida e reattiva, la scarpa da running Mizuno Creation 19 è stata|2017/12/scarpe-running-wave-creation-19|data.oliviero.it/imgprodotto/scarpe-running-wave-creation-19_166516",
+"Scarpe Pallavolo Wave Hurricane 3 Mid W|Wave Bolt è una scarpa specifica per risposte veloci e performance|2017/12/scarpe-pallavolo-wave-hurricane-3-mid-w|data.oliviero.it/imgprodotto/scarpe-pallavolo-wave-hurricane-3-mid-w_169828",
+"Scarpe Running Synchro MX2 (W)|Mizuno Synchro MX 2 è costituita da tipologie di intersuola|2017/12/scarpe-running-synchro-mx2-w|data.oliviero.it/imgprodotto/scarpe-running-synchro-mx2-w-j1gf171902_162416",
+"Scarpe Running Wave Ultima 8|Mizuno Wave Ultima 8 è la scarpa da running neutra, ammortizzata|2017/12/scarpe-running-wave-ultima-8|data.oliviero.it/imgprodotto/scarpe-running-wave-ultima-8-j1gc160942_162438",
+"Scarpe Running Uomo Wave Hitogami 4|La scarpa da running Mizuno Wave Hitogami 4 è una scarpa leggera|2017/12/scarpe-running-uomo-wave-hitogami-4|data.oliviero.it/imgprodotto/scarpe-running-uomo-wave-hitogami-4-j1gc178003_162419",
 "Scarpe Tennis Thunder Blade|\"The fast one\"La scarpa più veloce nella categoria|2017/12/scarpe-tennis-thunder-blade|data.oliviero.it/imgprodotto/scarpe-tennis-thunder-blade_167707",
 "Scarpe Running Wave Rider 20 (W)|Corri più lontano con le nuove Mizuno Wave Rider 20, una scarpa più|2017/12/scarpe-running-wave-rider-20-w|data.oliviero.it/imgprodotto/scarpe-running-wave-rider-20-w-_165896",
 "Scarpe Trail Running Wave Daichi 2|La scarpa Mizuno Wave Daichi 2 da Uomo, è caratterizzata da una suola|2017/12/scarpe-trail-running-wave-daichi-2|data.oliviero.it/imgprodotto/scarpe-trail-running-wave-daichi-2_166816",

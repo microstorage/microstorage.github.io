@@ -1,4 +1,7 @@
 Gr = [
+"Scarpe Calcio Winner RB K-Plus MG14|Una calzatura dedicata ai calciatori che fanno del controllo e del|2017/12/scarpe-calcio-winner-rb-k-plus-mg14|data.oliviero.it/imgprodotto/scarpe-calcio-winner-rb-k-plus-mg14_167291",
+"Scarpe Running Swan 2|Una calzatura sportiva ideale per gli amatori e per attività di|2017/12/scarpe-running-swan-2|data.oliviero.it/imgprodotto/scarpe-running-swan-2_167118",
+"Scarpe Calcio Winner RB LT MG14|Scarpe da calcio a tacchetti fissi di Diadora, modello M. Winner RB|2017/12/scarpe-calcio-winner-rb-lt-mg14|data.oliviero.it/imgprodotto/scarpe-calcio-winner-rb-lt-mg14_167282",
 "Scarpe Field Verde|Tomaia in pelle scamosciata Logo Diadora a rilievo a lato Ampia|2017/12/scarpe-field-verde|data.oliviero.it/imgprodotto/scarpe-field-verde_168223",
 "Scarpe Calcio Brasil K-Plus MG14|Il modello Brasil K-Plus è l'ideale per esprimere il massimo su|2017/12/scarpe-calcio-brasil-k-plus-mg14|data.oliviero.it/imgprodotto/scarpe-calcio-brasil-k-plus-mg14-170856-c0004_152259",
 "Scarpe Jazzy 4 SL V|Utilizzo : Sneakers da uomo Tomaia: ecopelle Battistrada: Gomma|2017/12/scarpe-jazzy-4-sl-v|data.oliviero.it/imgprodotto/scarpe-jazzy-4-sl-v-161272-01_127212",

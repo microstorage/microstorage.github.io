@@ -1,4 +1,8 @@
 Gr = [
+"Bagnetto Fasciatoio Amelie 4 Cassetti Panna|Mobiletto fasciatoio 4 cassetti legno bianco con applicativo completo|2017/12/bagnetto-fasciatoio-amelie-4-cassetti-panna|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-amelie-4-cassetti-panna_172736",
+"Bagnetto Fasciatoio Amelie 4 Cassetti Bianco|Mobiletto fasciatoio 4 cassetti legno bianco con applicativo completo|2017/12/bagnetto-fasciatoio-amelie-4-cassetti-bianco|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-amelie-4-cassetti-bianco_172734",
+"Fasciatoio Four Ciak Bianco|Pali offre una linea completa di bagnetti fasciatoio, per la cura del|2017/12/fasciatoio-four-ciak-bianco|data.oliviero.it/imgprodotto/fasciatoio-four-ciak-bianco_170101",
+"Fasciatoio Asia naturale|Cassettiera in legno con fasciatoio, vaschetta, portaoggetti|2017/12/fasciatoio-asia-naturale|data.oliviero.it/imgprodotto/fasciatoio-asia-naturale_136992",
 "Bagnetto Fasciatoio Eco Celine|Bagnetto Fasciatoio collezione Celine. Celine Pali è un pratico|2017/12/bagnetto-fasciatoio-eco-celine|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-eco-celine_147359",
 "Bagnetto Fasciatoio Zoe Rosa|Pali offre una linea completa di bagnetti fasciatoio, per la cura del|2017/12/bagnetto-fasciatoio-zoe-rosa|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-zoe-rosa_147378",
 "Bagnetto Fasciatoio Gaia Bianco Lucido|Pali offre una linea completa di bagnetti fasciatoio, per la cura del|2017/12/bagnetto-fasciatoio-gaia-bianco-lucido|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-gaia-bianco-lucido_147366",

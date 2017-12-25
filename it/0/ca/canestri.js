@@ -1,4 +1,7 @@
 Gr = [
+"Canestro San Diego|Un tabellone da basket professionale, dotato di tutto quello che|2017/12/canestro-san-diego|data.oliviero.it/imgprodotto/canestro-san-diego_1759_big",
+"Impianto basket a parete|IMPIANTO BASKET-MINIBASKET A PARETE SINGOLO con piastra da fissare|2017/12/impianto-basket-a-parete|data.oliviero.it/imgprodotto/impianto-basket-a-parete_162170",
+"Canestro basket sganciabile FIBA|CANESTRO BASKET SGANCIABILE FIBA a norme FIBA. Caratteristiche|2017/12/canestro-basket-sganciabile-fiba|data.oliviero.it/imgprodotto/canestro-basket-sganciabile-fiba_162181",
 "Canestro Phoenix|Il divertimento da spiaggia per bambini e ragazzi in un kit completo|2017/12/canestro-phoenix|data.oliviero.it/imgprodotto/canestro-phoenix_1751_big",
 "Canestro Boston|Boston è un tabellone da basket di qualità professionale e di misure|2017/12/canestro-boston|data.oliviero.it/imgprodotto/canestro-boston_1745_big",
 "1 Piantana Basket Magic|Caratteristiche tecniche: Altezza cm. 158, con base zavorrabile con|2017/12/1-piantana-basket-magic|data.oliviero.it/imgprodotto/1-piantana-basket-magic-70-320-0046_157444",

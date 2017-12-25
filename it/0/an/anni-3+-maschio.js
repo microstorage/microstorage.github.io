@@ -1,4 +1,8 @@
 Gr = [
+"Banco scuola rosso|Un vero tavolo ergonomico per scrivere e disegnare, altezza|2017/12/banco-scuola-rosso|data.oliviero.it/imgprodotto/banco-scuola-rosso_163952",
+"Playset Lavori in Corso con Accessori|Stazione di lavori in corso con accessori Dimensioni 45 x 26 cm|2017/12/playset-lavori-in-corso-con-accessori|data.oliviero.it/imgprodotto/playset-lavori-in-corso-con-accessori-64232_156888",
+"Banco Frutta e Verdura|Dimensioni prodotto 60 x 40 x 20 cm Divertiti a fare la spesa. Il|2017/12/banco-frutta-e-verdura|data.oliviero.it/imgprodotto/banco-frutta-e-verdura_136290",
+"Stencils Design Forest|4A+ Una nuovissima serie di sagome realizzate senza spigoli ed in|2017/12/stencils-design-forest|data.oliviero.it/imgprodotto/stencils-design-forest-2646_156285",
 "Camion Raccolta Differenziata|Baby camion nettezza urbana con funzioni reali, luci e suoni|2017/12/camion-raccolta-differenziata|data.oliviero.it/imgprodotto/camion-raccolta-differenziata-63750_156808",
 "Libro Non voglio andare a Scuola|Una nuova avventura aspetta Simone, il protagonista di \"Cacca pupù\"|2017/12/libro-non-voglio-andare-a-scuola|data.oliviero.it/imgprodotto/libro-non-voglio-andare-a-scuola_156405",
 "Il mio teatrino. Masha e Orso|Età 3+ Anni Grande teatrino da costruire Scenari intercambiabili|2017/12/il-mio-teatrino-masha-e-orso|data.oliviero.it/imgprodotto/il-mio-teatrino-masha-e-orso_139602",

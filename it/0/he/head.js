@@ -1,4 +1,6 @@
 Gr = [
+"Casco Sci Rebel Nero|Sicurezza senza compromessi a un giusto prezzo. Caratteristiche:|2017/12/casco-sci-rebel-nero|data.oliviero.it/imgprodotto/casco-sci-rebel-nero-324645_157637",
+"Sci Supershape I.Speed + PRD12|L'i.Supershape Speed è un race carver per sciatori esperti e assetati|2017/12/sci-supershape-i-speed-+-prd12|data.oliviero.it/imgprodotto/sci-supershape-i-speed-prd12_171322",
 "Tubo Palline Padel Pro|Barattolo Cilindrico, che può contenere 3 palline da tennis e paddle|2017/12/tubo-palline-padel-pro|data.oliviero.it/imgprodotto/tubo-palline-padel-pro_171421",
 "Casco Sci Arise Green|Casco sci Head Arise con tecnologia Flexcore: un nucleo flessibile|2017/12/casco-sci-arise-green|data.oliviero.it/imgprodotto/casco-sci-arise-green-328425_157640",
 "Racchetta Tennis Maria 25|Racchetta con piatto corde Concepita per la nuova generazione , ecco|2017/12/racchetta-tennis-maria-25|data.oliviero.it/imgprodotto/racchetta-tennis-maria-25-234506_154541",

@@ -1,4 +1,8 @@
 Gr = [
+"Sedile Altalena Basic|Sedile base resistente e sicura, colori brillanti e resistenti alla|2017/12/sedile-altalena-basic|data.oliviero.it/imgprodotto/sedile-altalena-basic_81993",
+"Freeride 6V Quad|Quad elettrico un posto, acceleratore a pedale, freno motore|2017/12/freeride-6v-quad|data.oliviero.it/imgprodotto/freeride-6v-quad_162222",
+"Motofeber minnie|Primi passi Disney personaggio Minnie per la prima infanzia, con|2017/12/motofeber-minnie|data.oliviero.it/imgprodotto/motofeber-minnie_106477",
+"Febergus Tunnel Attività|I suoi moduli colorati permettono di montarlo in differenti|2017/12/febergus-tunnel-attivita|data.oliviero.it/imgprodotto/febergus-tunnel-attivit%C3%A0_162214",
 "Trimoto Pink Tattoo 6V|Trimoto elettrico, acceleratore apedale, freno motore, batteria|2017/12/trimoto-pink-tattoo-6v|data.oliviero.it/imgprodotto/trimoto-pink-tattoo-6v_82053",
 "Fantasy House Casetta|Casetta da gioco resistente e sicura, dotatadi porta apribile|2017/12/fantasy-house-casetta|data.oliviero.it/imgprodotto/fantasy-house-casetta_162207",
 "Motofeber topolino|Primi passi Disney personaggio Topolino per la prima infanzia, con|2017/12/motofeber-topolino|data.oliviero.it/imgprodotto/motofeber-topolino_106478",

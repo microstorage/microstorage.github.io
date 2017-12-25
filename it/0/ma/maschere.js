@@ -1,4 +1,7 @@
 Gr = [
+"Maschera Sci Amiata Matt Black|Amiata è una maschera accessibile con ottime proprietà: tripla spugna|2017/12/maschera-sci-amiata-matt-black|data.oliviero.it/imgprodotto/maschera-sci-amiata-matt-black_171739",
+"Maschera Sci Nyira Free Fighter|Con l'aggiunta di piccole chele laterali al frame in poliuretano|2017/12/maschera-sci-nyira-free-fighter|data.oliviero.it/imgprodotto/maschera-sci-nyira-free-fighter_171743",
+"Maschera Sci Amiata Matt Pink Light Blue|Amiata è una maschera accessibile con ottime proprietà: tripla spugna|2017/12/maschera-sci-amiata-matt-pink-light-blue|data.oliviero.it/imgprodotto/maschera-sci-amiata-matt-pink-light-blue_171741",
 "Maschera Sci Savor S Stereo|Gli occhiali Atomic Savor S offrono super comfort e valore. Si|2017/12/maschera-sci-savor-s-stereo|data.oliviero.it/imgprodotto/maschera-sci-savor-s-stereo_171755",
 "Maschera Sci Comanche P|Maschera Sci dal design pulito. Il filtro di polarizzazione della|2017/12/maschera-sci-comanche-p|data.oliviero.it/imgprodotto/maschera-sci-comanche-p_171353",
 "Maschera Sci Savor M Stereo|Maschera versatile, per un campo di visione, una vestibilità e una|2017/12/maschera-sci-savor-m-stereo|data.oliviero.it/imgprodotto/maschera-sci-savor-m-stereo_171760",

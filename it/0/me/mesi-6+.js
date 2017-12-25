@@ -1,4 +1,7 @@
 Gr = [
+"Chiave Parlante|La simpatica chiave bilingue con effetti luminosi ad intermittenza|2017/12/chiave-parlante|data.oliviero.it/imgprodotto/chiave-parlante-00000995000000_154081",
+"Telefonino Parlante|Età: 3m+ Il telefonino paralante che aiuta il bambino|2017/12/telefonino-parlante|data.oliviero.it/imgprodotto/telefonino-parlante-00071408000000_137983",
+"Cubetti Disney|Set formato da 4 cubi in tessuto, impilabili e colorati, ognuno dei|2017/12/cubetti-disney|data.oliviero.it/imgprodotto/cubetti-disney_139259",
 "Tamburello Disney Classic|Nuovo tamburello elettronico per sviluppare la sensibilità musicale|2017/12/tamburello-disney-classic|data.oliviero.it/imgprodotto/tamburello-disney-classic-00007514000000_139257",
 "Tavolo safari sound|Tavolo di attività affinché i piccoli si divertano un mondo. Il bimbo|2017/12/tavolo-safari-sound|data.oliviero.it/imgprodotto/tavolo-safari-sound_91229",
 "Owl Phone SKip Hop|I bambini amano esplorare suoni e ascoltare melodie. Guarda, ascolta|2017/12/owl-phone-skip-hop|data.oliviero.it/imgprodotto/owl-phone-skip-hop_140426",

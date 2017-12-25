@@ -1,4 +1,6 @@
 Gr = [
+"Scarpe Calcio evoPower 2 FG|Utilizzo: Calzatura calcio da uomo Tomaia: Pelle sintetica|2017/12/scarpe-calcio-evopower-2-fg|data.oliviero.it/imgprodotto/scarpe-calcio-evopower-2-fg-102945-04_87963",
+"Maglia FIGC Away Italia Stemma|Questa T-shirt è realizzata con orgoglio per i tifosi appassionati|2017/12/maglia-figc-away-italia-stemma|data.oliviero.it/imgprodotto/maglia-figc-away-italia-stemma-749103_148502",
 "Scarpe Calcetto evoPower Vigor 4 TT|Le evoPOWER Vigor 4 per terreni in erba combinano leggerezza, comfort|2017/12/scarpe-calcetto-evopower-vigor-4-tt|data.oliviero.it/imgprodotto/scarpe-calcetto-evopower-vigor-4-tt-103965-01_163956",
 "Scarpe Running Carson Runner Knit Wn's|Scarpe running da donna Intersuola in EVA stampata a iniezione|2017/12/scarpe-running-carson-runner-knit-wn-s|data.oliviero.it/imgprodotto/scarpe-running-carson-runner-knit-wns-188151-06_129194",
 "Scarpe Calcetto evoPower Vigor 4 TT Jr|Leggera e comoda è la nuova scarpa da bambino Puma. Formato da|2017/12/scarpe-calcetto-evopower-vigor-4-tt-jr|data.oliviero.it/imgprodotto/scarpe-calcetto-evopower-vigor-4-tt-jr-103974-01_163964",

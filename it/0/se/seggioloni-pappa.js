@@ -1,4 +1,11 @@
 Gr = [
+"Prima Pappa Zero3 Paloma|Prima Pappa Zero 3 è il seggiolone ultraleggero e multifunzionale|2017/12/prima-pappa-zero3-paloma|data.oliviero.it/imgprodotto/prima-pappa-zero3-paloma_146036",
+"Seggiolone Dan Chair con cuscino|Il baby Dan danchair è progettato con piedini extra lungo per fornire|2017/12/seggiolone-dan-chair-con-cuscino|data.oliviero.it/imgprodotto/seggiolone-dan-chair-con-cuscino_162739",
+"Gusto Seggiolone apple|Nuovissimo seggiolone Gusto da Inglesina dal design moderno|2017/12/gusto-seggiolone-apple|data.oliviero.it/imgprodotto/gusto-seggiolone-apple_124721",
+"Seggiolone Pappananna S2250 C226|Pratico e confortevole con defferenti altezze e inclinazioni dello|2017/12/seggiolone-pappananna-s2250-c226|data.oliviero.it/imgprodotto/seggiolone-pappananna-s2250-c226_156033",
+"Seggiolone Istante S2400 C226|7 altezze, 4 inclinazioni dello schienale utilizzabile dalla nascita|2017/12/seggiolone-istante-s2400-c226|data.oliviero.it/imgprodotto/seggiolone-istante-s2400-c226_156046",
+"Seggiolone Gusto 236|Istante Gusto è il nuovissimo seggiolone di Cam per magiare, giocare|2017/12/seggiolone-gusto-236|data.oliviero.it/imgprodotto/seggiolone-gusto-236_171513",
+"Seggiolone Istante S2400 222|Istante Seggiolone è il nuovissimo seggiolone di Cam per magiare|2017/12/seggiolone-istante-s2400-222|data.oliviero.it/imgprodotto/seggiolone-istante-s2400-222_136361",
 "Seggiolone Campione 222|Interamente progettato e prodotto in Italia. SEMPLICITA': si apre|2017/12/seggiolone-campione-222|data.oliviero.it/imgprodotto/seggiolone-campione-222_136363",
 "Seggiolone Pappananna S2250 C229|Pratico e confortevole con defferenti altezze e inclinazioni dello|2017/12/seggiolone-pappananna-s2250-c229|data.oliviero.it/imgprodotto/seggiolone-pappananna-s2250-c229_171369",
 "Seggiolone Polly 2 Start Baby Elephant|Seggiolone pappa dotato di un sistema di regolazione dell'ampiezza|2017/12/seggiolone-polly-2-start-baby-elephant|data.oliviero.it/imgprodotto/seggiolone-polly-2-start-baby-elephant_167553",

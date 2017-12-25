@@ -1,4 +1,10 @@
 Gr = [
+"Roller Moody 4.0 Boy|Pattini in linea regolabili. Scafo: HQ polipropilene rinforzato con|2017/12/roller-moody-4-0-boy|data.oliviero.it/imgprodotto/roller-moody-4-0-boy_81054",
+"Casco Tattoo Aggressive|Il casco TATTOO AGGRESSIVE è specificatamente progettato da Roces per|2017/12/casco-tattoo-aggressive|data.oliviero.it/imgprodotto/casco-tattoo-aggressive-301418_157362",
+"Skateboard Rocket Complete Fade Series|Skateboard perfetto per i principianti Deck: 7 strati macchiato|2017/12/skateboard-rocket-complete-fade-series|data.oliviero.it/imgprodotto/skateboard-rocket-complete-fade-series_157623",
+"Roller Macroblade 84|Caratteristiche tecniche: Macroblade 84 dispone di componenti di alta|2017/12/roller-macroblade-84|data.oliviero.it/imgprodotto/roller-macroblade-84_80388",
+"Roller Macroblade 80 W|Il passaggio al telaio in alluminio non è mai stato così facile. La|2017/12/roller-macroblade-80-w|data.oliviero.it/imgprodotto/roller-macroblade-80-w_80384",
+"Pattini Rookie Forever Rainbow V2|I pattini del Rainbow presentano un fresco, tocco vintage ispirato|2017/12/pattini-rookie-forever-rainbow-v2|data.oliviero.it/imgprodotto/pattini-rookie-forever-rainbow-v2_157616",
 "Casco street FLOWERS|Descrizione: Calotta interna : anti shock in EPS ad alta densità Made|2017/12/casco-street-flowers|data.oliviero.it/imgprodotto/casco-street-flowers_162414",
 "Scarpe con Ruote Dual Up X2|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/12/scarpe-con-ruote-dual-up-x2|data.oliviero.it/imgprodotto/scarpe-con-ruote-dual-up-x2-770947k_164208",
 "Monopattino Fun 150mm Rosso e Nero|Corri più veloce con il monopattino in alluminio FUN 150mm|2017/12/monopattino-fun-150mm-rosso-e-nero|data.oliviero.it/imgprodotto/monopattino-fun-150mm-rosso-e-nero_165277",

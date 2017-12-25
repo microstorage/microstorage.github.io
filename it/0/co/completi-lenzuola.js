@@ -1,4 +1,10 @@
 Gr = [
+"Completo Lenzuola Niki Azzurro|Completo lenzuola composto da lenzuola da sotto, lenzuolo da sopra|2017/12/completo-lenzuola-niki-azzurro|data.oliviero.it/imgprodotto/completo-lenzuola-niki-azzurro_153856",
+"Completo Lenzuola Mise|Completo matrimoniale 270x290 in raso satin di puro cotone|2017/12/completo-lenzuola-mise|data.oliviero.it/imgprodotto/completo-lenzuola-mise_117448",
+"Completo Lenzuola Fiori Flan. Rosa|Tessuto in flanella di puro cotone. Singolo Lenzuolo superiore|2017/12/completo-lenzuola-fiori-flan-rosa|data.oliviero.it/imgprodotto/completo-lenzuola-fiori-flan-rosa_169042",
+"Completo Lenzuola Kiss Flan. Azzurro|Tessuto in flanella di puro cotone. Singolo Lenzuolo superiore|2017/12/completo-lenzuola-kiss-flan-azzurro|data.oliviero.it/imgprodotto/completo-lenzuola-kiss-flan-azzurro_169030",
+"Completo Lenzuola Flanella Princess Rose|Tessuto in flanella Singolo Lenzuolo superiore 160x280 cm Lenzuolo|2017/12/completo-lenzuola-flanella-princess-rose|data.oliviero.it/imgprodotto/completo-lenzuola-flanella-princess-rose_168972",
+"Completo Lenzuola Princess Magia|Completo lenzuola composto da lenzuola da sotto, lenzuolo da sopra|2017/12/completo-lenzuola-princess-magia|data.oliviero.it/imgprodotto/completo-lenzuola-princess-magia_153873",
 "Completo Lenzuola Geometria Flan. Avio|Tessuto in flanella di puro cotone. Singolo Lenzuolo superiore|2017/12/completo-lenzuola-geometria-flan-avio|data.oliviero.it/imgprodotto/completo-lenzuola-geometria-flan-avio_169034",
 "Completo Lenzuola Welcome 240x280 cm|Bellissimo set di lenzuola per letto a due piazze moderno e giovane|2017/12/completo-lenzuola-welcome-240x280-cm|data.oliviero.it/imgprodotto/completo-lenzuola-welcome-240x280-cm_154097",
 "Scaldasonno Rapid Peluche|IMETEC SCALDASONNO RAPID PELUCHE 16273 I vantaggi della tecnologia|2017/12/scaldasonno-rapid-peluche|data.oliviero.it/imgprodotto/scaldasonno-rapid-peluche_154091",

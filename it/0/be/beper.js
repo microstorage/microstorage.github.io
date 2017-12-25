@@ -1,4 +1,12 @@
 Gr = [
+"MiniTritatutto 150 watt|MiniTritatutto 150 watt Codice: 90.330 Descrizione : Corpo in abs|2017/12/minitritatutto-150-watt|data.oliviero.it/imgprodotto/minitritatutto-150-watt_157400",
+"Scaldabiberon casa e auto|Scaldabiberon casa e auto - 90.354 Scaldabiberon multifunzione che ti|2017/12/scaldabiberon-casa-e-auto|data.oliviero.it/imgprodotto/scaldabiberon-casa-e-auto-90-354_160658",
+"Forno Microonde Meccanico 25 litri c Grill|Forno Microonde Meccanico 25 litri c/Grill Codice: 90.379|2017/12/forno-microonde-meccanico-25-litri-c-grill|data.oliviero.it/imgprodotto/forno-microonde-meccanico-25-litri-c-grill-90-379_88996",
+"Biscottiera Elettrica|Biscottiera Codice: 90.603 Descrizione : Piastra in alluminio|2017/12/biscottiera-elettrica|data.oliviero.it/imgprodotto/biscottiera-elettrica-90-603_90285",
+"Frullatore a Immersione 220W Acciaio|Frullatore a Immersione 220W Acciaio Codice: 90.321 Descrizione|2017/12/frullatore-a-immersione-220w-acciaio|data.oliviero.it/imgprodotto/frullatore-a-immersione-220w-acciaio-90-321_89122",
+"Asciugacapelli Professionale AC 2000W 40.950|Asciugacapelli Professionale AC 2000W Codice: 40.950 Descrizione|2017/12/asciugacapelli-professionale-ac-2000w-40-950|data.oliviero.it/imgprodotto/asciugacapelli-professionale-ac-2000w-40-950_152903",
+"Impastatrice professionale 1000 watt|Impastatrice 1000 watt Codice: 90.700 Descrizione : 5 L 6 velocità|2017/12/impastatrice-professionale-1000-watt|data.oliviero.it/imgprodotto/impastatrice-professionale-1000-watt-90-700_90349",
+"Macchina per Muffin CupCake|Macchina per CupCake Codice: 90.498 Descrizione : Piastra|2017/12/macchina-per-muffin-cupcake|data.oliviero.it/imgprodotto/macchina-per-muffin-cupcake-90-498_89031",
 "Impastatrice professionale Bianco Nero|Impastatrice professionale Bianco Nero Descrizione: Ciotola|2017/12/impastatrice-professionale-bianco-nero|data.oliviero.it/imgprodotto/impastatrice-professionale-bianco-nero-90-344n_160647",
 "Centrifuga 350W per frutta e verdura|Centrifuga 350W per frutta e verdura Codice: 90.313A Descrizione|2017/12/centrifuga-350w-per-frutta-e-verdura|data.oliviero.it/imgprodotto/centrifuga-350w-per-frutta-e-verdura-90-313a_157371",
 "Spremiagrumi Elettrico 1 litro Bianco|Spremiagrumi Elettrico 1 litro Bianco Codice: 90.302/B Descrizione|2017/12/spremiagrumi-elettrico-1-litro-bianco|data.oliviero.it/imgprodotto/spremiagrumi-elettrico-1-litro-bianco-90-302-b_89066",

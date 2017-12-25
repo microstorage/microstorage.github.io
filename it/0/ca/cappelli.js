@@ -1,4 +1,8 @@
 Gr = [
+"Cappello Donna Bianco e Azzurro|Collezione Autunno Inverno/2018 Cappello invernale da donna in|2017/12/cappello-donna-bianco-e-azzurro|data.oliviero.it/imgprodotto/cappello-donna-bianco-e-azzurro_170959",
+"Fascia Scaldacollo Giacomo Agostini|La fascia che Agostini indossava quando correva, nera, come le tute|2017/12/fascia-scaldacollo-giacomo-agostini|data.oliviero.it/imgprodotto/fascia-scaldacollo-giacomo-agostini_93387",
+"Cappello Giallo|Collezione Autunno Inverno/2018 Beanie basic Lavorazione a maglia|2017/12/cappello-giallo|data.oliviero.it/imgprodotto/cappello-giallo_169213",
+"Berretto Jordan Jampman Beige|Il berretto regolabile Jordan Jumpman H86 offre una struttura comoda|2017/12/berretto-jordan-jampman-beige|data.oliviero.it/imgprodotto/berretto-jordan-jampman-beige_169744",
 "Cappello Donna Blu e Bianco|Collezione Autunno Inverno/2018 Cappello invernale da donna in|2017/12/cappello-donna-blu-e-bianco|data.oliviero.it/imgprodotto/cappello-donna-blu-e-bianco_170960",
 "Giacomo Agostini Cap Vintage|Un cappellino che celebra i quindici titoli mondiali del più|2017/12/giacomo-agostini-cap-vintage|data.oliviero.it/imgprodotto/giacomo-agostini-cap-vintage_93378",
 "Cappello Donna Blu|Collezione Autunno Inverno/2018 Cappello invernale da donna in|2017/12/cappello-donna-blu|data.oliviero.it/imgprodotto/cappello-donna-blu_171795",

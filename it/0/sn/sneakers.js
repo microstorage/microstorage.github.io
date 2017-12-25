@@ -1,4 +1,7 @@
 Gr = [
+"Scarpe con ruote Spiffy|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/12/scarpe-con-ruote-spiffy|data.oliviero.it/imgprodotto/scarpe-con-ruote-spiffy-770715k_146314",
+"Scarpe Jr. Marrone|Collezione Autunno Inverno/2018 Quando è tempo di giocare, i piccoli|2017/12/scarpe-jr-marrone|data.oliviero.it/imgprodotto/scarpe-jr-marrone_171118",
+"Scarpe Superstar Foundation J|Queste scarpe adidas Originals Superstar Foundation sono una nuova|2017/12/scarpe-superstar-foundation-j|data.oliviero.it/imgprodotto/scarpe-superstar-foundation-j_172194",
 "Scarpe con Ruote CruzX2|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/12/scarpe-con-ruote-cruzx2|data.oliviero.it/imgprodotto/scarpe-con-ruote-cruzx2-770498k_139610",
 "Scarpe Jr. Wheat|Collezione Autunno Inverno/2018 Quando è tempo di giocare, i piccoli|2017/12/scarpe-jr-wheat|data.oliviero.it/imgprodotto/scarpe-jr-wheat_171115",
 "Scarpe Jr. Kiwi Girl|Collezione Primavera Estate Trendy, cool e ideali per le bambine che|2017/12/scarpe-jr-kiwi-girl|data.oliviero.it/imgprodotto/scarpe-jr-kiwi-girl-j72d5b-c5000_162362",

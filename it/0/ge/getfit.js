@@ -1,4 +1,10 @@
 Gr = [
+"Panca Multifunzione Force ST 3300|Panca Multifunzione ST 3300 Nuova stazione multiuso ST 3300 ottima|2017/12/panca-multifunzione-force-st-3300|data.oliviero.it/imgprodotto/panca-multifunzione-force-st-3300_168528",
+"Panca Ginnica Force Bench 560|Force Bench 560 è una robusta panca porta bilanciere. Telaio|2017/12/panca-ginnica-force-bench-560|data.oliviero.it/imgprodotto/panca-ginnica-force-bench-560_168519",
+"Cyclette Ride 201|Rideti permetterà di scegliere l'intensità di allenamento grazie ai|2017/12/cyclette-ride-201|data.oliviero.it/imgprodotto/cyclette-ride-201_172789",
+"Cyclette Ride 270 Black|Ride 270 è un modello pratico e performante per soddisfare i clienti|2017/12/cyclette-ride-270-black|data.oliviero.it/imgprodotto/cyclette-ride-270-black_172806",
+"Ellittica Elite 502|Tecnologia ed eleganza si muovono di pari passo su Elite 502. Il|2017/12/ellittica-elite-502|data.oliviero.it/imgprodotto/ellittica-elite-502_172763",
+"Lat Tower per 860 e 560|Lat tower è l'accessorio per lavorare sui dorsali. Consente anche di|2017/12/lat-tower-per-860-e-560|data.oliviero.it/imgprodotto/lat-tower-per-860-e-560_366_big",
 "Ellittica Premium E6|L'ELLITTICA GETFIT AUTO-ALIMENTATA PER UTILIZZO COMMERCIALE (non|2017/12/ellittica-premium-e6|data.oliviero.it/imgprodotto/ellittica-premium-e6_172775",
 "Tapis Roulant Premium T11|Il Tapis Roulant Premium T11 è una vera meraviglia dell'ingegneria|2017/12/tapis-roulant-premium-t11|data.oliviero.it/imgprodotto/tapis-roulant-premium-t11_172787",
 "Tapis Roulant Route 370|Route 370 compatto nelle dimensioni e facile da usare. Route 370 con|2017/12/tapis-roulant-route-370|data.oliviero.it/imgprodotto/tapis-roulant-route-370_172830",

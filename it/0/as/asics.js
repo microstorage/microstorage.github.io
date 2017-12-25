@@ -1,4 +1,7 @@
 Gr = [
+"Scarpe Tennis Gel Game 5 GS (W)|Scarpe Tennis Gel Game 5 GS (W) - C502Y 2101 La GEL GAME 5 è la|2017/12/scarpe-tennis-gel-game-5-gs-w|data.oliviero.it/imgprodotto/scarpe-tennis-gel-game-5-gs-w-c502y-2101_145741",
+"Scarpe Running Gel Cumulus 19 W|La GEL-CUMULUS 19 con pronazione neutra, per chi corre chilometraggi|2017/12/scarpe-running-gel-cumulus-19-w|data.oliviero.it/imgprodotto/scarpe-running-gel-cumulus-19-w_169594",
+"Maglia Running Sweat Goteborg|Maglia tecnica sportiva a manica lunga ideale per il running|2017/12/maglia-running-sweat-goteborg|data.oliviero.it/imgprodotto/maglia-running-sweat-goteborg_10305_big",
 "Scarpe Running Gel Nimbus 18 (W)|Scarpe Running Gel Nimbus 18 (W) - T650N 9397 La GEL-NIMBUS 18 ti|2017/12/scarpe-running-gel-nimbus-18-w|data.oliviero.it/imgprodotto/scarpe-running-gel-nimbus-18-w-t650n-5806_153630",
 "Scarpe Running Gel Pulse 8|Stabilisci tempi da record sui tuoi percorsi preferiti indossando le|2017/12/scarpe-running-gel-pulse-8|data.oliviero.it/imgprodotto/scarpe-running-gel-pulse-8-t6e1n-4907_164139",
 "Scarpe Running Cumulus 18 (W)|Un mix perfetto di sostegno ed ammortizzazione, la 18esima edizione|2017/12/scarpe-running-cumulus-18-w|data.oliviero.it/imgprodotto/scarpe-running-cumulus-18-w-t6c8n-0107_154489",

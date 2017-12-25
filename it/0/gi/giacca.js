@@ -1,4 +1,6 @@
 Gr = [
+"Giacca Ciclismo uomo Reflex|Grande qualità e sicurezza per questa giacca a vento \"nel caso|2017/12/giacca-ciclismo-uomo-reflex|data.oliviero.it/imgprodotto/giacca-ciclismo-uomo-reflex-1101635-002_155273",
+"Giacca Ciclismo Uomo No rain|Collezione Primavera Estate Giacca leggera, compatta, impermeabile|2017/12/giacca-ciclismo-uomo-no-rain|data.oliviero.it/imgprodotto/giacca-ciclismo-uomo-no-rain-1101337-002_162758",
 "Gilet Ciclismo uomo Reflex|Grande qualità e alta visibilità per questo giubbetto antivento|2017/12/gilet-ciclismo-uomo-reflex|data.oliviero.it/imgprodotto/gilet-ciclismo-uomo-reflex-1101636-002_155274",
 "Giacca Ciclismo Uomo Hot Pack 5|Collezione Primavera Estate Questa è l'originale giacca tuttofare di|2017/12/giacca-ciclismo-uomo-hot-pack-5|data.oliviero.it/imgprodotto/giacca-ciclismo-uomo-hot-pack-5-1101135-187_162788",
 "Le 10 Felpe Uomo di moda ora: marzo 2017|Le 10 Felpe Uomo più belle: la classifica aggiornata a marzo 2017|2017/03/le-10-felpe-uomo-di-moda-ora-marzo-2017|data.oliviero.it/imgprodotto/felpa-uomo-arancio-essentials-linear-s98773_159283",

@@ -1,4 +1,9 @@
 Gr = [
+"Tenda Jerez 3 da Campeggio|La tenda Jerez rappresenta la giusta scelta in termini di qualità|2017/12/tenda-jerez-3-da-campeggio|data.oliviero.it/imgprodotto/tenda-jerez-3-da-campeggio_149694",
+"Veranda Capri Verde|Tetto in tessuto poliestere bispalmato PVC da 530 gr/mq Cavetto|2017/12/veranda-capri-verde|data.oliviero.it/imgprodotto/veranda-capri-verde_149639",
+"Sacco a pelo Fuji|Misura cm: 195 x 80 Esterno: poliestere 185 T Interno: cotone|2017/12/sacco-a-pelo-fuji|data.oliviero.it/imgprodotto/sacco-a-pelo-fuji_150066",
+"Sedia Reclinabile Style|Sedia reclinabile in 8 posizioni con cuscino integrato e bracciolo|2017/12/sedia-reclinabile-style|data.oliviero.it/imgprodotto/sedia-reclinabile-style_150020",
+"Zen Poggiapiedi Regolabile per sedia Style|Poggiapiedi regolabile in 2 posizioni per sedia Style Struttura:|2017/12/zen-poggiapiedi-regolabile-per-sedia-style|data.oliviero.it/imgprodotto/zen-poggiapiedi-regolabile-per-sedia-style_150022",
 "Tenda Victoria 4 da Campeggio|Il pavimento integrato al telo esterno più il pavimento delle camere|2017/12/tenda-victoria-4-da-campeggio|data.oliviero.it/imgprodotto/tenda-victoria-4-da-campeggio_164523",
 "Sedia Pieghevole Storm|Sedia pieghevole in ferro con sacca a tracolla Tessuto: poliestere|2017/12/sedia-pieghevole-storm|data.oliviero.it/imgprodotto/sedia-pieghevole-storm_149997",
 "Sacco a pelo Trend|Misura cm: (200+25) x 80 Esterno: Nylon TAFFETA W/R Interno: cotone|2017/12/sacco-a-pelo-trend|data.oliviero.it/imgprodotto/sacco-a-pelo-trend_150067",

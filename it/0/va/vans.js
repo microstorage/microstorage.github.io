@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Classic Slip On|Utilizzo: Calzatura Moda Sport uomo Tomaia: Tessuto Battistrada:|2017/12/scarpe-classic-slip-on|data.oliviero.it/imgprodotto/scarpe-classic-slip-on_124974",
 "Scarpe Chapman Mid|La Scarpa Vans Chapman Mid M è una Sneakers Alta Uomo In Linea allo|2017/12/scarpe-chapman-mid|data.oliviero.it/imgprodotto/scarpe-chapman-mid-vn0a2xswonv_167694",
 "Scarpe Atwood Triple B|Le scarpe Atwood sono un modello stringato dal profilo basso che|2017/12/scarpe-atwood-triple-b|data.oliviero.it/imgprodotto/scarpe-atwood-triple-b_168707",
 "Scarpe Authentic|Utilizzo: Calzatura Moda donna Tomaia: Tessuto Battistrada: Gomma|2017/12/scarpe-authentic|data.oliviero.it/imgprodotto/scarpe-authentic-zukfgz_124989",

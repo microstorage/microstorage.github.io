@@ -1,4 +1,12 @@
 Gr = [
+"Fascia elastica Medium|Fascia elastica con resistenza media per esercizi di gambe e braccia|2017/12/fascia-elastica-medium|data.oliviero.it/imgprodotto/fascia-elastica-medium_157966",
+"Borsone Sportivo BO7111 Blu|Borsa sportiva doppia maniglia per appendere e tasca frontale con|2017/12/borsone-sportivo-bo7111-blu|data.oliviero.it/imgprodotto/borsone-sportivo-bo7111-blu_152111",
+"Tappetino Insonorizzante 180x90|Tappeto in PVC, fonoassorbente ad alta densità perfetto per|2017/12/tappetino-insonorizzante-180x90|data.oliviero.it/imgprodotto/tappetino-insonorizzante-180x90_140806",
+"Kit Manubri Cromati + 32 kg Pesi|L'offerta comprende i manubri Victoria e 4 dischi in ghisa da 1 kg,|2017/12/kit-manubri-cromati-+-32-kg-pesi|data.oliviero.it/imgprodotto/kit-manubri-cromati-32-kg-pesi_147204",
+"Tappetino Pieghevole|Tappetino pieghevole &bull; Superficie antiscivolo in ecopelle|2017/12/tappetino-pieghevole|data.oliviero.it/imgprodotto/tappetino-pieghevole_153869",
+"Panca Multifunzione Black Gym|Panca Multifunzione ideale per l'utilizzo domestico. Pacco pesi di|2017/12/panca-multifunzione-black-gym|data.oliviero.it/imgprodotto/panca-multifunzione-black-gym_124134",
+"Fascia elastica Light|Fascia elastica con resistenza leggera per esercizi di gambe|2017/12/fascia-elastica-light|data.oliviero.it/imgprodotto/fascia-elastica-light_157967",
+"Barra per Trazioni Entroporta Isometrica|Victoria, il nuovo marchio di proprietà Oliviero, vi propone la Barra|2017/12/barra-per-trazioni-entroporta-isometrica|data.oliviero.it/imgprodotto/barra-per-trazioni-entroporta-isometrica_1201_big",
 "Sacca Oliviero|Caratterizzata da un design semplice e leggero, questa sacca sportiva|2017/12/sacca-oliviero|data.oliviero.it/imgprodotto/sacca-oliviero_165201",
 "Cyclette ST 105|La cyclette ST 105 è la soluzione ideale per l'home fitness con un|2017/12/cyclette-st-105|data.oliviero.it/imgprodotto/cyclette-st-105_142882",
 "Kit 180 Bilanciere + Manubri + 32 kg Pesi|Pacchetto Offerta composto da: Bilanciere 180 cm + Coppia di Manubri|2017/12/kit-180-bilanciere-+-manubri-+-32-kg-pesi|data.oliviero.it/imgprodotto/kit-180-bilanciere-manubri-32-kg-pesi_92918",

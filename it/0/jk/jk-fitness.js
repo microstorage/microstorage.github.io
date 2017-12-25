@@ -1,4 +1,8 @@
 Gr = [
+"Portabilanciere JK 6065|Massimo peso caricabile150 kg Dimensione tubi50 x 50 mm Regolabile in|2017/12/portabilanciere-jk-6065|data.oliviero.it/imgprodotto/portabilanciere-jk-6065_23727_big",
+"Step Professionale JK5001|Caratteristiche tecniche: SUPERFICIE antiscivolo REGOLAZIONE ALTEZZA|2017/12/step-professionale-jk5001|data.oliviero.it/imgprodotto/step-professionale-jk5001_23743_big",
+"Tapis Roulant JK 145|Caratteristiche tecniche: MOTORE 3,0 hp DC CONTINUATIVI / 4,5 hp DC|2017/12/tapis-roulant-jk-145|data.oliviero.it/imgprodotto/tapis-roulant-jk-145_135921",
+"Gym Bike JK 545|Gym Bike Jk 545 SISTEMA FRENANTE TAMPONI REGOLAZIONE INERZIA|2017/12/gym-bike-jk-545|data.oliviero.it/imgprodotto/gym-bike-jk-545_135893",
 "Recumbent Tekna 305|Recumbent Tekna 305 SISTEMA FRENANTE MAGNETICO REGOLAZIONE INERZIA|2017/12/recumbent-tekna-305|data.oliviero.it/imgprodotto/recumbent-tekna-305_135908",
 "Tapis Roulant Super Compact|Caratteristiche Tecniche MOTORE 1,75 HP DC CONTINUATIVI / 2,75 HP DC|2017/12/tapis-roulant-super-compact|data.oliviero.it/imgprodotto/tapis-roulant-super-compact_170939",
 "Panca Addominali JK 6000|Panca addominali molto resistente e richiudibile con 3 livelli di|2017/12/panca-addominali-jk-6000|data.oliviero.it/imgprodotto/panca-addominali-jk-6000_68411",

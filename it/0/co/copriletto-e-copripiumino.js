@@ -1,4 +1,8 @@
 Gr = [
+"Scaldotto Italian Style Grigio|Scaldotto Caleffi cm.130x170. Morbido, caldo avvolgente. Si lava|2017/12/scaldotto-italian-style-grigio|data.oliviero.it/imgprodotto/scaldotto-italian-style-grigio_168950",
+"Completo Copripiumino Arcobaleno Avio|Tessuto in puro cotone. Singolo Sacco 155x200 cm Lenzuolo inferiore|2017/12/completo-copripiumino-arcobaleno-avio|data.oliviero.it/imgprodotto/completo-copripiumino-arcobaleno-avio_169059",
+"Scaldotto Danubio Corallo|Scaldotto Caleffi cm.130x170. Morbido, caldo avvolgente. Si lava|2017/12/scaldotto-danubio-corallo|data.oliviero.it/imgprodotto/scaldotto-danubio-corallo_168947",
+"Completo Copripiumino Norvegia Caffé|Collezione Autunno Inverno/2018 Tessuto di puro cotone. Colore Vivo|2017/12/completo-copripiumino-norvegia-caffe|data.oliviero.it/imgprodotto/completo-copripiumino-norvegia-caff%C3%A9_166720",
 "Scaldaletto Matrimoniale Lana Sintetica Dolly|Scaldaletto Matrimoniale Lana Sintetica Dolly Codice: RI.412|2017/12/scaldaletto-matrimoniale-lana-sintetica-dolly|data.oliviero.it/imgprodotto/scaldaletto-matrimoniale-lana-sintetica-dolly_157374",
 "Trapunta Dolls|La dolcissima coppia Masha&Orso che giocano e si divertono con la|2017/12/trapunta-dolls|data.oliviero.it/imgprodotto/trapunta-dolls_137034",
 "Completo Copripiumino Alice in Wonderland|Completo copripiumino composto da sacco, lenzuolo con angoli e federa|2017/12/completo-copripiumino-alice-in-wonderland|data.oliviero.it/imgprodotto/completo-copripiumino-alice-in-wonderland_153924",

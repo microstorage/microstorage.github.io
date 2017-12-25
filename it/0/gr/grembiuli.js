@@ -1,4 +1,6 @@
 Gr = [
+"Grembiule Asilo Bambina Bianco|Collezione Autunno Inverno/2018 Grembiule asilo da bambina. Il|2017/12/grembiule-asilo-bambina-bianco|data.oliviero.it/imgprodotto/grembiule-asilo-bambina-bianco-fg401_166468",
+"Grembiule Asilo E579|Collezione : Autunno Inverno/2016 Tipologia : Grembiule asilo da|2017/12/grembiule-asilo-e579|data.oliviero.it/imgprodotto/grembiule-asilo-e579_126034",
 "Grembiule Asilo Azzurro|Collezione Autunno Inverno/2018 Grembiule asilo da bambino con|2017/12/grembiule-asilo-azzurro|data.oliviero.it/imgprodotto/grembiule-asilo-azzurro-33gr2852_166048",
 "Grembiule Scuola Azzurro|Grembiule Scuola da bambino con due tasche anteriori, allacciatura|2017/12/grembiule-scuola-azzurro|data.oliviero.it/imgprodotto/grembiule-scuola-azzurro-33gr2901_166983",
 "Grembiule Scuola Bambina Bianco|Collezione Autunno Inverno/2018 Grembiule scuola da bambina con|2017/12/grembiule-scuola-bambina-bianco|data.oliviero.it/imgprodotto/grembiule-scuola-bambina-bianco-37gr1969_166038",

@@ -1,4 +1,12 @@
 Gr = [
+"Coppia Bastoncini Nordic Walking NW Balance CL. Carbon|Descrizione : SISTEMA CLICK-IN Komperdell FIT'S caratteristiche:|2017/12/coppia-bastoncini-nordic-walking-nw-balance-cl-carbon|data.oliviero.it/imgprodotto/coppia-bastoncini-nordic-walking-nw-balance-cl-carbon_85733",
+"Zaino Laser 20 Orange|Zaino Laser 20 Orange Capacità: litri 20 Materiale: kodratex diamond|2017/12/zaino-laser-20-orange|data.oliviero.it/imgprodotto/zaino-laser-20-orange_147545",
+"Scarpe Trekking T-Walk Low Syn GTX MS|Escursionisti veloci che cercano una calzatura flessibile, leggera|2017/12/scarpe-trekking-t-walk-low-syn-gtx-ms|data.oliviero.it/imgprodotto/scarpe-trekking-t-walk-low-syn-gtx-ms_165325",
+"Bastoncino Telescopico da Trekking Blackcountry Carbon|Bastoncino telescopico per il trekking, con 3 segmenti graduati|2017/12/bastoncino-telescopico-da-trekking-blackcountry-carbon|data.oliviero.it/imgprodotto/bastoncino-telescopico-da-trekking-blackcountry-carbon-1913_157358",
+"Bastoni Nordic Walking Spirit Vario|Il bastone Komperdell Spirit Vario è pensato apposta per la pratica|2017/12/bastoni-nordic-walking-spirit-vario|data.oliviero.it/imgprodotto/bastoni-nordic-walking-spirit-vario_156236",
+"Scarpe Trekking Eclisse Bretex Topo|Scarpe Trekking uomo Tomaia Cordura e pelle scamosciata|2017/12/scarpe-trekking-eclisse-bretex-topo|data.oliviero.it/imgprodotto/scarpe-trekking-eclisse-bretex-topo-838_164487",
+"Bastoncini da Nordic Walking 78393|Bastoncino da nordic walking 1 sezioni telescopica in lega di|2017/12/bastoncini-da-nordic-walking-78393|data.oliviero.it/imgprodotto/bastoncini-da-nordic-walking-78393_171665",
+"Busta Acquastop 20L|Sacche in nylon spalmato termosaldate con chiusura arrotolabile|2017/12/busta-acquastop-20l|data.oliviero.it/imgprodotto/busta-acquastop-20l-m_108103",
 "Zaino Stelvio 55+10|Capacità : litri 55+10 Materiale : kodratex Struttura : wishbone|2017/12/zaino-stelvio-55+10|data.oliviero.it/imgprodotto/zaino-stelvio-55-10_87241",
 "Scarpe Trekking Ellipse 2 Aero W|Scarpe Trekking Ellipse 2 Aero W - 379206 Leggera e molto|2017/12/scarpe-trekking-ellipse-2-aero-w|data.oliviero.it/imgprodotto/scarpe-trekking-ellipse-2-aero-w-379206_145338",
 "Scarpe Trekking Spagna Sabbia|Scarpe da trekking Unisex Tomaia in tessuto tecnico traspirante con|2017/12/scarpe-trekking-spagna-sabbia|data.oliviero.it/imgprodotto/scarpe-trekking-spagna-sabbia-814_164481",

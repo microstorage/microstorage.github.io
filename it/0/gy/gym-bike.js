@@ -1,4 +1,8 @@
 Gr = [
+"Gym bike Z-11D|DKN Z-11D è una gym bike con telaio in acciaio che offre una vasta|2017/12/gym-bike-z-11d|data.oliviero.it/imgprodotto/gym-bike-z-11d_85284",
+"Gym Bike Speed 5|Kettler Speed 5 è un modello di Gymbike con telaio solido in acciaio|2017/12/gym-bike-speed-5|data.oliviero.it/imgprodotto/gym-bike-speed-5_71160",
+"Gym Bike X-Revolution|La Gymbike DKN X Revolution è lo strumento ideale per praticare|2017/12/gym-bike-x-revolution|data.oliviero.it/imgprodotto/gym-bike-x-revolution_76910",
+"Gym Bike JK 545|Gym Bike Jk 545 SISTEMA FRENANTE TAMPONI REGOLAZIONE INERZIA|2017/12/gym-bike-jk-545|data.oliviero.it/imgprodotto/gym-bike-jk-545_135893",
 "Gym Bike Professional 505|Gym Bike Professional 505 SISTEMA FRENANTE TAMPONI REGOLAZIONE|2017/12/gym-bike-professional-505|data.oliviero.it/imgprodotto/gym-bike-professional-505_135005",
 "XSpin kit allenamento interattivo|JK Fitness presenta Pafers XSPIN, un dispositivo rivoluzionario che|2017/12/xspin-kit-allenamento-interattivo|data.oliviero.it/imgprodotto/xspin-kit-allenamento-interattivo_130551",
 "Gym bike Diamond D55|JK Fitness Diamond D55 è una gym bike professionale dotata di display|2017/12/gym-bike-diamond-d55|data.oliviero.it/imgprodotto/gym-bike-diamond-d55_93755",

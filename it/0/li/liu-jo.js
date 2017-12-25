@@ -1,4 +1,11 @@
 Gr = [
+"Pantalone Sportivo T15093 F0247 03N98|Collezione Liu Jo Sport Pantalone sportivo da donna, lunghezza 3/4|2017/12/pantalone-sportivo-t15093-f0247-03n98|data.oliviero.it/imgprodotto/pantalone-sportivo-t15093-f0247-03n98_146837",
+"Pantaloncino Sportivo T15055 F0248 80322|Collezione Liu Jo Sport Pantaloncini sportivi da donna con elastico|2017/12/pantaloncino-sportivo-t15055-f0248-80322|data.oliviero.it/imgprodotto/pantaloncino-sportivo-t15055-f0248-80322_146839",
+"Pantaloni donna Casual F15228 T8062 41307|Collezione Liu Jo Jeans Pantalone casual da donna con allacciatura|2017/12/pantaloni-donna-casual-f15228-t8062-41307|data.oliviero.it/imgprodotto/pantaloni-donna-casual-f15228-t8062-41307_146852",
+"Coprispalle donna W15092 MA361 33801|Collezione Liu Jo Jeans Coprispalle con allacciatura tramite|2017/12/coprispalle-donna-w15092-ma361-33801|data.oliviero.it/imgprodotto/coprispalle-donna-w15092-ma361-33801_146665",
+"Jeans donna P15184 T6446 41905|Jeans da donna con vestibilità regolare, allacciatura tramite bottone|2017/12/jeans-donna-p15184-t6446-41905|data.oliviero.it/imgprodotto/jeans-donna-p15184-t6446-41905_146840",
+"Canotta F15119 J7453 11110|Collezione Liu Jo Jeans Canotta da donna con stampa frontale, tessuto|2017/12/canotta-f15119-j7453-11110|data.oliviero.it/imgprodotto/canotta-f15119-j7453-11110_146514",
+"Pantaloni donna Casual T15026 T8033 90135|Collezione Liu Jo Sport Pantaloni casual e sportivi, comodi e alla|2017/12/pantaloni-donna-casual-t15026-t8033-90135|data.oliviero.it/imgprodotto/pantaloni-donna-casual-t15026-t8033-90135_146805",
 "Camicia donna O14003 T7122 14201|Collezione Liu Jo Jeans Camicia da donna con mezze maniche|2017/12/camicia-donna-o14003-t7122-14201|data.oliviero.it/imgprodotto/camicia-donna-o14003-t7122-14201_146716",
 "Salopette Vylma|Collezione Liu Jo jeans Salopette intera da donna composta da camicia|2017/12/salopette-vylma|data.oliviero.it/imgprodotto/salopette-vylma-f15245-d3301_147054",
 "Pantaloni donna Casual P15045 T1428 22222|Pantaloni Casual da donna con laccetto in vita per regolare la|2017/12/pantaloni-donna-casual-p15045-t1428-22222|data.oliviero.it/imgprodotto/pantaloni-donna-casual-p15045-t1428-22222_146741",

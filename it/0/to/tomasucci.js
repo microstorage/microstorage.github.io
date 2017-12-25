@@ -1,4 +1,12 @@
 Gr = [
+"Sgabello ergonomico berger|SGABELLO ERGONOMICO \"BERGER\" struttura in metallo finitura alluminio|2017/12/sgabello-ergonomico-berger|data.oliviero.it/imgprodotto/sgabello-ergonomico-berger_78543",
+"4 Sedie Just Grey|Seduta Rivestita In Pelle Sintetica Di Colore Grigio Struttura In|2017/12/4-sedie-just-grey|data.oliviero.it/imgprodotto/4-sedie-just-grey_169931",
+"tavolo rotondo FRISIA|Tavolo rotondo FRISIA gambe realizzate in legno massello finitura|2017/12/tavolo-rotondo-frisia|data.oliviero.it/imgprodotto/tavolo-rotondo-frisia_149435",
+"Portafoto Random 10FA|Porta foto RANDOM 10FA realizzato in legno massello Finitura Rovere|2017/12/portafoto-random-10fa|data.oliviero.it/imgprodotto/portafoto-random-10fa_136147",
+"Libreria bi-facciale|Libreria bi-facciale, parete / centrostanza modello FORTY-FIVE|2017/12/libreria-bi-facciale|data.oliviero.it/imgprodotto/libreria-bi-facciale_136121",
+"4 Sedie Just white|Sedia Just White Seduta Rivestita In Pelle Sintetica Di Colore Bianco|2017/12/4-sedie-just-white|data.oliviero.it/imgprodotto/4-sedie-just-white_169923",
+"Coppia di Sgabelli bar Snappy white|Sgabello bar SNAPPY WHITE seduta in pelle ecologica BIANCA struttura|2017/12/coppia-di-sgabelli-bar-snappy-white|data.oliviero.it/imgprodotto/coppia-di-sgabelli-bar-snappy-white_137930",
+"Lampadario Decor|Lampadario Decor Paralumi Realizzati In Vetro Trasparente Supporto|2017/12/lampadario-decor|data.oliviero.it/imgprodotto/lampadario-decor_170051",
 "Libreria a montanti a parete con 4 ripiani|Libreria a montanti a parete con 4 ripiani - KIJU - ripiani|2017/12/libreria-a-montanti-a-parete-con-4-ripiani|data.oliviero.it/imgprodotto/libreria-a-montanti-a-parete-con-4-ripiani-kiju_135019",
 "Carrello a 3 cestelli MATT|Carrello a 3 cestelli \"\"MATT\"\" struttura in metallo cromato motanti|2017/12/carrello-a-3-cestelli-matt|data.oliviero.it/imgprodotto/carrello-a-3-cestelli-matt_134312",
 "Stender da parete PAKA|Stender da parete PAKA realizzato in legno massello laccato Bianco|2017/12/stender-da-parete-paka|data.oliviero.it/imgprodotto/stender-da-parete-paka_136056",

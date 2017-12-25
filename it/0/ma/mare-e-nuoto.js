@@ -1,4 +1,11 @@
 Gr = [
+"Costume Uomo Solid Brief|Collezione Autunno Inverno/2017 Questo classico costume da uomo|2017/12/costume-uomo-solid-brief|data.oliviero.it/imgprodotto/costume-uomo-solid-brief-2a254_153440",
+"Costume Nuoto Donna|Migliora la bracciata con questo costume da bagno intero. Realizzato|2017/12/costume-nuoto-donna|data.oliviero.it/imgprodotto/costume-nuoto-donna_168164",
+"Lettore Mp3 Subacqueo e Sportivo MPV 1800 WP|Lettore Mp3 Subacqueo e Sportivo Trevi MPV 1800 WP con comoda clip|2017/12/lettore-mp3-subacqueo-e-sportivo-mpv-1800-wp|data.oliviero.it/imgprodotto/lettore-mp3-subacqueo-e-sportivo-mpv-1800-wp_95645",
+"Costume Baby Seasquad Brief|Costume da bambino pensato per i più piccoli e non solo. Questo|2017/12/costume-baby-seasquad-brief|data.oliviero.it/imgprodotto/costume-baby-seasquad-brief-809217b419_161112",
+"Boxer Nuoto Nero Grigio|Nuota con sicurezza indossando questi boxer. Realizzati in|2017/12/boxer-nuoto-nero-grigio|data.oliviero.it/imgprodotto/boxer-nuoto-nero-grigio_168284",
+"Skimboard Encinitas 41,5\"|Encinitas 41,5\" Costruzione legno multistrato Design classico|2017/12/skimboard-encinitas-41-5|data.oliviero.it/imgprodotto/skimboard-encinitas-41-5_125086",
+"Occhialini da Nuoto Bambino|Occhialini da nuoto pensati e progettati per piccoli nuotatori dai|2017/12/occhialini-da-nuoto-bambino|data.oliviero.it/imgprodotto/occhialini-da-nuoto-bambino-8083828028_161108",
 "Skimboard The Ice Skim 39\"|The Ice Skim 39\" Costruzione legno multistrato Dimensioni: 100 X 55|2017/12/skimboard-the-ice-skim-39|data.oliviero.it/imgprodotto/skimboard-the-ice-skim-39_125083",
 "Costume Bambina Astropop Allover Splashback|Costume da bambina dal design accattivante e dal tessuto resistente|2017/12/costume-bambina-astropop-allover-splashback|data.oliviero.it/imgprodotto/costume-bambina-astropop-allover-splashback-807386b483_161102",
 "Costume Donna Sculpture LunaLustre Nero e Rosso|Stampe eleganti, disegnate su misura per essere eleganti anche mentre|2017/12/costume-donna-sculpture-lunalustre-nero-e-rosso|data.oliviero.it/imgprodotto/costume-donna-sculpture-lunalustre-nero-e-rosso-810835b346_161099",

@@ -1,4 +1,6 @@
 Gr = [
+"Forno Microonde Meccanico 25 litri c Grill|Forno Microonde Meccanico 25 litri c/Grill Codice: 90.379|2017/12/forno-microonde-meccanico-25-litri-c-grill|data.oliviero.it/imgprodotto/forno-microonde-meccanico-25-litri-c-grill-90-379_88996",
+"Macchina per Muffin CupCake|Macchina per CupCake Codice: 90.498 Descrizione : Piastra|2017/12/macchina-per-muffin-cupcake|data.oliviero.it/imgprodotto/macchina-per-muffin-cupcake-90-498_89031",
 "Termometro da cottura|Termometro da cottura in acciaio inossidabile per misurare la|2017/12/termometro-da-cottura|data.oliviero.it/imgprodotto/termometro-da-cottura_74030",
 "Piastra Teppanyaki 70 cm|Piastra Teppanyaki 70 cm Codice: 90.386 Descrizione : Piastra|2017/12/piastra-teppanyaki-70-cm|data.oliviero.it/imgprodotto/piastra-teppanyaki-70-cm-90-386_90334",
 "Fonduta Finland|I tempi di consegna sono di circa 10 giorni lavorativi Set per|2017/12/fonduta-finland|data.oliviero.it/imgprodotto/fonduta-finland_1315_big",

@@ -1,4 +1,7 @@
 Gr = [
+"Pantaloni donna P563D 11025A|Collezione : Primavera Estate Tipologia : Pantaloni casual da donna|2017/12/pantaloni-donna-p563d-11025a|data.oliviero.it/imgprodotto/pantaloni-donna-p563d-11025a_77606",
+"Pantaloni donna 3-4 P557D 16023A|Collezione : Primavera Estate Tipologia : Pantaloni casual da donna|2017/12/pantaloni-donna-3-4-p557d-16023a|data.oliviero.it/imgprodotto/pantaloni-donna-3-4-p557d-16023a_77598",
+"Pantaloni donna P606D 11022A|Collezione : Primavera Estate Tipologia : Pantaloni casual da donna|2017/12/pantaloni-donna-p606d-11022a|data.oliviero.it/imgprodotto/pantaloni-donna-p606d-11022a_77603",
 "Pantaloni donna P553D 11016A 016|Collezione : Primavera Estate Tipologia : Pantalone casual da donna|2017/12/pantaloni-donna-p553d-11016a-016|data.oliviero.it/imgprodotto/pantaloni-donna-p553d-11016a-016_77636",
 "Pantaloni donna P552D 11005A|Collezione : Primavera Estate Tipologia : Pantalone casual da donna|2017/12/pantaloni-donna-p552d-11005a|data.oliviero.it/imgprodotto/pantaloni-donna-p552d-11005a_76944",
 "Jeans donna P593D 71000A|Collezione : Primavera Estate Tipologia : Jeans casual da donna|2017/12/jeans-donna-p593d-71000a|data.oliviero.it/imgprodotto/jeans-donna-p593d-71000a_77632",

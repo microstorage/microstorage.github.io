@@ -1,4 +1,8 @@
 Gr = [
+"Kit 4 Pareti per Gazebo Rapido 300|Telo: polyestere. Ogni parete può essere montata singolarmente e/o|2017/12/kit-4-pareti-per-gazebo-rapido-300|data.oliviero.it/imgprodotto/kit-4-pareti-per-gazebo-rapido-300_165283",
+"Gazebo Velox 3X3|Telo: polyestere 500D 290 gr./m2, rivestito e spalmato in PVC|2017/12/gazebo-velox-3x3|data.oliviero.it/imgprodotto/gazebo-velox-3x3_149671",
+"Parete per gazebo Market 4,5 m|TELO LATERALE 4,50X2,10 PER GAZEBO MARKET Telo : polyestere 500D 290|2017/12/parete-per-gazebo-market-4-5-m|data.oliviero.it/imgprodotto/parete-per-gazebo-market-4-5-m_87420",
+"Tenda Market 3x4,5 Alluminio|Caratteristiche Telo: polyestere 500D 290 gr./m2, rivestito|2017/12/tenda-market-3x4-5-alluminio|data.oliviero.it/imgprodotto/tenda-market-3x4-5-alluminio_161725",
 "Gazebo Market 3X3|Telo: polyestere 500D 290 gr./m2, rivestito e spalmato in PVC|2017/12/gazebo-market-3x3|data.oliviero.it/imgprodotto/gazebo-market-3x3_87412",
 "Parete per gazebo Market 3 m|Telo polyestere 500D 290 gr./m2, rivestito e spalmato in PVC, con|2017/12/parete-per-gazebo-market-3-m|data.oliviero.it/imgprodotto/parete-per-gazebo-market-3-m_87419",
 "Parete per gazebo con finestra Market 3 m|Telo polyestere 500D 290 gr./m2, rivestito e spalmato in PVC, con|2017/12/parete-per-gazebo-con-finestra-market-3-m|data.oliviero.it/imgprodotto/parete-per-gazebo-con-finestra-market-3-m_151827",

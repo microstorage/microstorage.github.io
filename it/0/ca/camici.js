@@ -1,4 +1,5 @@
 Gr = [
+"Camicia donna rosa kyoto|Colore : Rosa Composizione : tessuto 65% poliestere e 35% cotone|2017/12/camicia-donna-rosa-kyoto|data.oliviero.it/imgprodotto/camicia-donna-rosa-kyoto_2343_big",
 "Camice odontotecnico lungo verde|Colore : Verde Composizione : tessuto 100% cotone Dimensioni : / Peso|2017/12/camice-odontotecnico-lungo-verde|data.oliviero.it/imgprodotto/camice-odontotecnico-lungo-verde_23011_big",
 "Camice odontotecnico corto bianco|Colore : Bianco Composizione : tessuto 100% cotone Dimensioni :|2017/12/camice-odontotecnico-corto-bianco|data.oliviero.it/imgprodotto/camice-odontotecnico-corto-bianco_23008_big",
 "Camicia donna azzurra kyoto|Colore :Azzurro Composizione : tessuto 65% poliestere e 35% cotone|2017/12/camicia-donna-azzurra-kyoto|data.oliviero.it/imgprodotto/camicia-donna-azzurra-kyoto_2342_big",

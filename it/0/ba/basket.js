@@ -1,4 +1,13 @@
 Gr = [
+"Scarpe Basket Lebron Soldier XI|La scarpa da basket LeBron Soldier XI - Uomo avvolge il piede con un|2017/12/scarpe-basket-lebron-soldier-xi|data.oliviero.it/imgprodotto/scarpe-basket-lebron-soldier-xi_167408",
+"Stivaletti Boxe|Scarpa da boxe polivalente adatta per l'allenamento e per il tempo|2017/12/stivaletti-boxe|data.oliviero.it/imgprodotto/stivaletti-boxe_171393",
+"Canestro San Diego|Un tabellone da basket professionale, dotato di tutto quello che|2017/12/canestro-san-diego|data.oliviero.it/imgprodotto/canestro-san-diego_1759_big",
+"Impianto basket a parete|IMPIANTO BASKET-MINIBASKET A PARETE SINGOLO con piastra da fissare|2017/12/impianto-basket-a-parete|data.oliviero.it/imgprodotto/impianto-basket-a-parete_162170",
+"Scarpe Basket D Lillard 2 PK|Damian Lillard è celebre per gli incredibili tiri da metà campo con|2017/12/scarpe-basket-d-lillard-2-pk|data.oliviero.it/imgprodotto/scarpe-basket-d-lillard-2-pk-b72775_155429",
+"Scarpe Basket D Rose 773 V|Non esiste difesa o infortunio che possa fermare Derrick Rose|2017/12/scarpe-basket-d-rose-773-v|data.oliviero.it/imgprodotto/scarpe-basket-d-rose-773-v-aq7222_151278",
+"Scarpe Basket Zoom Rev 2017|Pensata per un gioco versatile, la scarpa da basket Nike Zoom Rev|2017/12/scarpe-basket-zoom-rev-2017|data.oliviero.it/imgprodotto/scarpe-basket-zoom-rev-2017-852422-601_164241",
+"Canestro basket sganciabile FIBA|CANESTRO BASKET SGANCIABILE FIBA a norme FIBA. Caratteristiche|2017/12/canestro-basket-sganciabile-fiba|data.oliviero.it/imgprodotto/canestro-basket-sganciabile-fiba_162181",
+"Scarpe Basket Ua Torch Fade|La tomaia in pelle leggera con tallone e avampiede in schiuma|2017/12/scarpe-basket-ua-torch-fade|data.oliviero.it/imgprodotto/scarpe-basket-ua-torch-fade-1274423-001_151967",
 "Scarpe Basket Ua Clutchfit Drive 3|La tecnologia ClutchFit® aggiornata respira, si tende e supporta il|2017/12/scarpe-basket-ua-clutchfit-drive-3|data.oliviero.it/imgprodotto/scarpe-basket-ua-clutchfit-drive-3-1269274-108_160539",
 "Scarpe Basket Jordan Ultra Fly 2|La scarpa da basket Jordan Ultra.Fly 2 - Uomo offre un comfort totale|2017/12/scarpe-basket-jordan-ultra-fly-2|data.oliviero.it/imgprodotto/scarpe-basket-jordan-ultra-fly-2_166513",
 "Canestro Phoenix|Il divertimento da spiaggia per bambini e ragazzi in un kit completo|2017/12/canestro-phoenix|data.oliviero.it/imgprodotto/canestro-phoenix_1751_big",

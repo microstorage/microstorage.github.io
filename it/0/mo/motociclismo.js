@@ -1,4 +1,10 @@
 Gr = [
+"Guanti da moto G-Flash Tex Lady|Guanti in tessuto tecnico con inserti in microfibra e zone|2017/12/guanti-da-moto-g-flash-tex-lady|data.oliviero.it/imgprodotto/guanti-da-moto-g-flash-tex-lady_165750",
+"Guanti da Moto Wake Evo|Spidi Wake EVO è la perfetta combinazione tra ergonomia, stile|2017/12/guanti-da-moto-wake-evo|data.oliviero.it/imgprodotto/guanti-da-moto-wake-evo_165740",
+"Guanti da Moto STS R Glove|STS-R è un guanto sportivo adatto tanto all'utilizzo sportivo, quanto|2017/12/guanti-da-moto-sts-r-glove|data.oliviero.it/imgprodotto/guanti-da-moto-sts-r-glove_165742",
+"Copriscarpe HV-Cover|Pratico copristivale ad alta visibilit, realizzato in Nylon Pu ad|2017/12/copriscarpe-hv-cover|data.oliviero.it/imgprodotto/copriscarpe-hv-cover_165778",
+"Giacca da Moto Flash Tex Uomo|Flash è un giubbino dal taglio sportivo, ideale per le escursioni nei|2017/12/giacca-da-moto-flash-tex-uomo|data.oliviero.it/imgprodotto/giacca-da-moto-flash-tex-uomo-t197-010_149754",
+"Casco da moto Misano 2011|K-3 SV nasce dall'esperienza maturata da AGV a seguito della|2017/12/casco-da-moto-misano-2011|data.oliviero.it/imgprodotto/casco-da-moto-misano-2011_149889",
 "Guanti da Moto TX-2|Spidi TX-2 è la nuova frontiera del guanto per il turismo avventura|2017/12/guanti-da-moto-tx-2|data.oliviero.it/imgprodotto/guanti-da-moto-tx-2-c69-026_149836",
 "Giubbotto Moto Rogue Tex Lady|Collezione: Primavera Estate Tipologia: Giacca Moto da donna Tessuto:|2017/12/giubbotto-moto-rogue-tex-lady|data.oliviero.it/imgprodotto/giubbotto-moto-rogue-tex-lady_83604",
 "Casco da moto Jet Fluid Multi Black Fucsia|CARATTERISTICHE GENERALI VISIERA Attenzione: il casco viene venduto|2017/12/casco-da-moto-jet-fluid-multi-black-fucsia|data.oliviero.it/imgprodotto/casco-da-moto-jet-fluid-multi-black-fucsia-4811a2g0-008_149376",

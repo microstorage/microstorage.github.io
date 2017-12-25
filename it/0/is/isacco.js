@@ -1,4 +1,10 @@
 Gr = [
+"Camicia donna rosa kyoto|Colore : Rosa Composizione : tessuto 65% poliestere e 35% cotone|2017/12/camicia-donna-rosa-kyoto|data.oliviero.it/imgprodotto/camicia-donna-rosa-kyoto_2343_big",
+"Bandana cuoco bordeaux|Colore : Bordeaux Composizione : tessuto 100% cotone Dimensioni :|2017/12/bandana-cuoco-bordeaux|data.oliviero.it/imgprodotto/bandana-cuoco-bordeaux_24497_big",
+"Bandana cuoco italia|Colore : Tortuga Composizione : tessuto 100% cotone Dimensioni :|2017/12/bandana-cuoco-italia|data.oliviero.it/imgprodotto/bandana-cuoco-italia_24494_big",
+"Bandana cuoco New York|Colore : San Francisco Composizione : tessuto 100% cotone Dimensioni|2017/12/bandana-cuoco-new-york|data.oliviero.it/imgprodotto/bandana-cuoco-new-york_1653_big",
+"Pantaloni Cuoco Biscotto|Modello con passanti in vita chiusura con due bottoni e zip. due|2017/12/pantaloni-cuoco-biscotto|data.oliviero.it/imgprodotto/pantaloni-cuoco-biscotto-064115_151133",
+"Bandana cuoco Pepper|Colore : Colorato Composizione : tessuto 100% cotone Dimensioni :|2017/12/bandana-cuoco-pepper|data.oliviero.it/imgprodotto/bandana-cuoco-pepper_24486_big",
 "Giacca Cuoca Lady Euro|Colore : Bianco e Blu Composizione : tessuto 100% cotone Dimensioni|2017/12/giacca-cuoca-lady-euro|data.oliviero.it/imgprodotto/giacca-cuoca-lady-euro_150870",
 "Giacca Cuoco Livorno Taglie Forti|Colore : Bianco Composizione : tessuto 100% cotone Dimensioni :|2017/12/giacca-cuoco-livorno-taglie-forti|data.oliviero.it/imgprodotto/giacca-cuoco-livorno-taglie-forti_1640_big",
 "Zoccolo Autoclavabile|Zoccoli professionali antistatici in gomma. Modello unisex|2017/12/zoccolo-autoclavabile|data.oliviero.it/imgprodotto/zoccolo-autoclavabile-112606_94287",

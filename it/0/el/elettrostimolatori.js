@@ -1,4 +1,6 @@
 Gr = [
+"Elettrostimolatore My Stim|55 PROGRAMMI: 12 SPORT, 33 FITNESS E BELLEZZA, 10 REHAB Massima|2017/12/elettrostimolatore-my-stim|data.oliviero.it/imgprodotto/elettrostimolatore-my-stim_130843",
+"Medisound 2 PRO Ultrasuono Terapia|NUOVA LINEA PROFESSIONAL MICRO PER ULTRASUONOTERAPIA Medisound 2 Pro|2017/12/medisound-2-pro-ultrasuono-terapia|data.oliviero.it/imgprodotto/medisound-2-pro-ultrasuono-terapia_71109",
 "Elettrostimolatore Premium 150|Globus Premium 150 è l'elettrostimolatore che permette di ottenere|2017/12/elettrostimolatore-premium-150|data.oliviero.it/imgprodotto/elettrostimolatore-premium-150_159763",
 "Fascia per Elettrostimolatore Cefar Easy|Cintura taglia unica regolabile in neoprene da utilizzare con|2017/12/fascia-per-elettrostimolatore-cefar-easy|data.oliviero.it/imgprodotto/fascia-per-elettrostimolatore-cefar-easy_72300",
 "Massaggiatore Plantare|massaggiatore elettrico plantare ad azione massaggiante|2017/12/massaggiatore-plantare|data.oliviero.it/imgprodotto/massaggiatore-plantare_71346",

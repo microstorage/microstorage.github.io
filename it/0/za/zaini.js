@@ -1,4 +1,10 @@
 Gr = [
+"Zaino Voyage Bloom|Zaino Chiusura a zip bidirezionale Tasca esterna con chiusura a zip|2017/12/zaino-voyage-bloom|data.oliviero.it/imgprodotto/zaino-voyage-bloom_169132",
+"Sacca Performance Logo Blu|Riponi con ordine il tuo abbigliamento sportivo all'interno di questa|2017/12/sacca-performance-logo-blu|data.oliviero.it/imgprodotto/sacca-performance-logo-blu_168321",
+"Zaino Laser 20 Orange|Zaino Laser 20 Orange Capacità: litri 20 Materiale: kodratex diamond|2017/12/zaino-laser-20-orange|data.oliviero.it/imgprodotto/zaino-laser-20-orange_147545",
+"Zaino Advanced Widget|Questo zaino è speciale! Grazie alla serigrafia fotosensibile, con|2017/12/zaino-advanced-widget|data.oliviero.it/imgprodotto/zaino-advanced-widget_166132",
+"Zainetto per il Pranzo Penguin|Zainetto per l'asilo, morbido e con un capiente vano principale|2017/12/zainetto-per-il-pranzo-penguin|data.oliviero.it/imgprodotto/zainetto-per-il-pranzo-penguin-skip-hop_140401",
+"Zaino Voyage Giallo Ocra|Zaino Chiusura a zip bidirezionale Tasca esterna con chiusura a zip|2017/12/zaino-voyage-giallo-ocra|data.oliviero.it/imgprodotto/zaino-voyage-giallo-ocra_169135",
 "Sacca Oliviero|Caratterizzata da un design semplice e leggero, questa sacca sportiva|2017/12/sacca-oliviero|data.oliviero.it/imgprodotto/sacca-oliviero_165201",
 "Zaino Stelvio 55+10|Capacità : litri 55+10 Materiale : kodratex Struttura : wishbone|2017/12/zaino-stelvio-55+10|data.oliviero.it/imgprodotto/zaino-stelvio-55-10_87241",
 "Zainetto per il Pranzo Bee|Zainetto per l'asilo, morbido e con un capiente vano principale|2017/12/zainetto-per-il-pranzo-bee|data.oliviero.it/imgprodotto/zainetto-per-il-pranzo-bee-skip-hop_140404",

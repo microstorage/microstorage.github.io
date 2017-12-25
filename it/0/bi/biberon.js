@@ -1,4 +1,10 @@
 Gr = [
+"Cofanetto nascita rosa|Chicco gift set è il regalo perfetto per una nascita. Un cofanetto|2017/12/cofanetto-nascita-rosa|data.oliviero.it/imgprodotto/cofanetto-nascita-rosa_91975",
+"Biberon 260 ml rosa natural|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-260-ml-rosa-natural|data.oliviero.it/imgprodotto/biberon-260-ml-rosa-natural_138407",
+"Biberon 260 ml verde|Con il biberon First Bottle i bambini si sentono al sicuro fin dal|2017/12/biberon-260-ml-verde|data.oliviero.it/imgprodotto/biberon-260-ml-verde_53143",
+"Biberon 330 ml natural azzurro|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-330-ml-natural-azzurro|data.oliviero.it/imgprodotto/biberon-330-ml-natural-azzurro_71637",
+"Biberon 260 ml rosa|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-260-ml-rosa|data.oliviero.it/imgprodotto/biberon-260-ml-rosa_164670",
+"Biberon 125 ml natural rosa|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-125-ml-natural-rosa|data.oliviero.it/imgprodotto/biberon-125-ml-natural-rosa_66814",
 "Biberon 120 ml Vetro Natural|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-120-ml-vetro-natural|data.oliviero.it/imgprodotto/biberon-120-ml-vetro-natural_66812",
 "Biberon Silicone 150 ml|Biberon Linea Benessere in silicone 150 ml 0% BPA Chicco sono|2017/12/biberon-silicone-150-ml|data.oliviero.it/imgprodotto/biberon-silicone-150-ml_138865",
 "Cofanetto nascita azzurro|Chicco gift set è il regalo perfetto per una nascita. Un cofanetto|2017/12/cofanetto-nascita-azzurro|data.oliviero.it/imgprodotto/cofanetto-nascita-azzurro_91976",

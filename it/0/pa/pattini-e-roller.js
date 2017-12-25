@@ -1,4 +1,8 @@
 Gr = [
+"Roller Moody 4.0 Boy|Pattini in linea regolabili. Scafo: HQ polipropilene rinforzato con|2017/12/roller-moody-4-0-boy|data.oliviero.it/imgprodotto/roller-moody-4-0-boy_81054",
+"Roller Macroblade 84|Caratteristiche tecniche: Macroblade 84 dispone di componenti di alta|2017/12/roller-macroblade-84|data.oliviero.it/imgprodotto/roller-macroblade-84_80388",
+"Roller Macroblade 80 W|Il passaggio al telaio in alluminio non è mai stato così facile. La|2017/12/roller-macroblade-80-w|data.oliviero.it/imgprodotto/roller-macroblade-80-w_80384",
+"Pattini Rookie Forever Rainbow V2|I pattini del Rainbow presentano un fresco, tocco vintage ispirato|2017/12/pattini-rookie-forever-rainbow-v2|data.oliviero.it/imgprodotto/pattini-rookie-forever-rainbow-v2_157616",
 "Roller Phoenix|Pattini regolabili da bambina. Il modello si regola in 4 misure così|2017/12/roller-phoenix|data.oliviero.it/imgprodotto/roller-phoenix_147570",
 "Pattini Rookie Fruits|Pattini dallo stile retro e dalla struttura moderna Tomaia in mesh|2017/12/pattini-rookie-fruits|data.oliviero.it/imgprodotto/pattini-rookie-fruits_165824",
 "Pattini e Protezioni Spitfire Combo|Regolazione a pulsante, comfort e controllo eccellenti: ogni singolo|2017/12/pattini-e-protezioni-spitfire-combo|data.oliviero.it/imgprodotto/pattini-e-protezioni-spitfire-combo_173240",

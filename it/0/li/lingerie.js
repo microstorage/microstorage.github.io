@@ -1,4 +1,7 @@
 Gr = [
+"Bipack T-shirt 065418 020KB|Confezione composta da 2 magliette Tipologia : T-shirt intima da uomo|2017/12/bipack-t-shirt-065418-020kb|data.oliviero.it/imgprodotto/bipack-t-shirt-065418-020kb_85101",
+"Fascia Post Parto Millerighe 82750|Facile da indossare e regolare. Indispensabile in clinica subito dopo|2017/12/fascia-post-parto-millerighe-82750|data.oliviero.it/imgprodotto/fascia-post-parto-millerighe-82750_53119",
+"Reggiseno Allat. Nero 82410|Reggiseno con apertura al centro Nuovo sistema di sgancio rapido|2017/12/reggiseno-allat-nero-82410|data.oliviero.it/imgprodotto/reggiseno-allat-nero-82410_52948",
 "Reggiseno Techfit Core Pink|Caratterizzato da un design a supporto medio ideale per discipline|2017/12/reggiseno-techfit-core-pink|data.oliviero.it/imgprodotto/reggiseno-techfit-core-pink-bk3529_159304",
 "3 Calzini Bianchi|Quando ti alleni duramente per raggiungere i tuoi obiettivi,|2017/12/3-calzini-bianchi|data.oliviero.it/imgprodotto/3-calzini-bianchi_166986",
 "Fascia Post Parto Regolabile 82250|Nuovo brevetto a tre fasce orizzontali ideale per ottenere un preciso|2017/12/fascia-post-parto-regolabile-82250|data.oliviero.it/imgprodotto/fascia-post-parto-regolabile-82250_53117",

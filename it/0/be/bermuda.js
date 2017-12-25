@@ -1,4 +1,5 @@
 Gr = [
+"Bermuda uomo Taglie Forti Ocra|Collezione Primavera Estate Bermuda uomo taglie forti. Il modello|2017/12/bermuda-uomo-taglie-forti-ocra|data.oliviero.it/imgprodotto/bermuda-uomo-taglie-forti-ocra_163495",
 "Bermuda Uomo Taglie Forti Grigio|Collezione Primavera Estate Bermuda uomo taglie forti. Il modello|2017/12/bermuda-uomo-taglie-forti-grigio|data.oliviero.it/imgprodotto/bermuda-uomo-taglie-forti-grigio_165632",
 "Bermuda Uomo Taglie Forti Nero|Collezione Primavera Estate Bermuda uomo taglie forti. Il modello|2017/12/bermuda-uomo-taglie-forti-nero|data.oliviero.it/imgprodotto/bermuda-uomo-taglie-forti-nero_164855",
 "Bermuda Uomo Taglie Forti Verde|Collezione Primavera Estate Bermuda uomo taglie forti. Il modello|2017/12/bermuda-uomo-taglie-forti-verde|data.oliviero.it/imgprodotto/bermuda-uomo-taglie-forti-verde_165631",

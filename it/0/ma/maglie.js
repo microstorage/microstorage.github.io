@@ -1,4 +1,10 @@
 Gr = [
+"Maglia donna T2S4F2 00252|Maglia da donna con maniche a 3/4, tessuto abbellito da paillettes|2017/12/maglia-donna-t2s4f2-00252|data.oliviero.it/imgprodotto/maglia-donna-t2s4f2-00252_146554",
+"Maglione Donna Nero|Collezione Autunno Inverno/2018 maglione lungo mezza manica|2017/12/maglione-donna-nero|data.oliviero.it/imgprodotto/maglione-donna-nero_170389",
+"Maglia Uomo Mid Grey Melange|Collezione Autunno Inverno/2018 Affronta la stagione con questo|2017/12/maglia-uomo-mid-grey-melange|data.oliviero.it/imgprodotto/maglia-uomo-mid-grey-melange_170617",
+"Maglia Termica Donna Mezza Zip Nero|Collezione Autunno Inverno/2018 Maglia termica donna in pile|2017/12/maglia-termica-donna-mezza-zip-nero|data.oliviero.it/imgprodotto/maglia-termica-donna-mezza-zip-nero_171316",
+"Coprispalle donna W15092 MA361 33801|Collezione Liu Jo Jeans Coprispalle con allacciatura tramite|2017/12/coprispalle-donna-w15092-ma361-33801|data.oliviero.it/imgprodotto/coprispalle-donna-w15092-ma361-33801_146665",
+"Maglia Donna Silverhalis|Collezione Autunno Inverno/2018 Maglia oversize da donna con diverse|2017/12/maglia-donna-silverhalis|data.oliviero.it/imgprodotto/maglia-donna-silverhalis_170672",
 "Maglia Termica Donna mezza Zip Blu Notte|Collezione Autunno Inverno/2018 Maglia termica donna in pile|2017/12/maglia-termica-donna-mezza-zip-blu-notte|data.oliviero.it/imgprodotto/maglia-termica-donna-mezza-zip-blu-notte_170479",
 "Cardigan Donna Aaron|Collezione Autunno Inverno/2018 Cardigan tricot da donna con|2017/12/cardigan-donna-aaron|data.oliviero.it/imgprodotto/cardigan-donna-aaron_170641",
 "Cardigan Donna Adeline|Collezione Autunno Inverno/2018 Cardigan nero da donna con stampa|2017/12/cardigan-donna-adeline|data.oliviero.it/imgprodotto/cardigan-donna-adeline_170645",

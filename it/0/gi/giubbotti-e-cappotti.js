@@ -1,4 +1,7 @@
 Gr = [
+"Giubbino Uomo Asphalt|Collezione Autunno Inverno/2018 Piumino con cappuccio di tendenza|2017/12/giubbino-uomo-asphalt|data.oliviero.it/imgprodotto/giubbino-uomo-asphalt_169208",
+"Giubbotto Uomo Rosso|Collezione Autunno Inverno/2018 Sottile e leggera, ma robusta: una|2017/12/giubbotto-uomo-rosso|data.oliviero.it/imgprodotto/giubbotto-uomo-rosso_171055",
+"Giacca Uomo Antivento antracite e Verde|Collezione Autunno Inverno/2018 Softshell da uomo risponde a tutte le|2017/12/giacca-uomo-antivento-antracite-e-verde|data.oliviero.it/imgprodotto/giacca-uomo-antivento-antracite-e-verde_169220",
 "Giacca da Sci Uomo Jackson Hole|Collezione Autunno Inverno/2018 Libertà di movimento e tagli|2017/12/giacca-da-sci-uomo-jackson-hole|data.oliviero.it/imgprodotto/giacca-da-sci-uomo-jackson-hole_170436",
 "Giubbotto Uomo Dark Navy M7221W F4300|Collezione Primaver Estate Giubbotto da uomo ideale per la stagione|2017/12/giubbotto-uomo-dark-navy-m7221w-f4300|data.oliviero.it/imgprodotto/giubbotto-uomo-dark-navy-m7221w-f4300_158456",
 "Giubbotto Uomo Limone Acerbo|Collezione Primavera Estate Giubbotto da uomo in tessuto Il modello|2017/12/giubbotto-uomo-limone-acerbo|data.oliviero.it/imgprodotto/giubbotto-uomo-limone-acerbo-nv67010-211_158581",

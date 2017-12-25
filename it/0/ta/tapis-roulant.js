@@ -1,4 +1,12 @@
 Gr = [
+"Tapis Roulant ST 714|Tapis Roulant st 714 Caratteristiche Intensità di allenamento|2017/12/tapis-roulant-st-714|data.oliviero.it/imgprodotto/tapis-roulant-st-714-striale_119581",
+"Tapis Roulant MF395 Compact|Descrizione: Motore : 2,0 HP CONTINUATIVI / 3,0 HP DC DI SPUNTO|2017/12/tapis-roulant-mf395-compact|data.oliviero.it/imgprodotto/tapis-roulant-mf395-compact_162487",
+"Tapis Roulant TRX Active Compact|TRX ACTIVE COMPACT Garanzia a vita sul telaio. Pre-assemblato pronto|2017/12/tapis-roulant-trx-active-compact|data.oliviero.it/imgprodotto/tapis-roulant-trx-active-compact_159623",
+"Tapis Roulant JK 145|Caratteristiche tecniche: MOTORE 3,0 hp DC CONTINUATIVI / 4,5 hp DC|2017/12/tapis-roulant-jk-145|data.oliviero.it/imgprodotto/tapis-roulant-jk-145_135921",
+"Tapis Roulant Treadmill RoadRun|Il tapis roulant DKN RoadRun è pensato per qualsiasi tipologia di|2017/12/tapis-roulant-treadmill-roadrun|data.oliviero.it/imgprodotto/tapis-roulant-treadmill-roadrun_68612",
+"Tapis Roulant MedRun|Attrezzature cardio per la riabilitazione terapeutica Il tapis|2017/12/tapis-roulant-medrun|data.oliviero.it/imgprodotto/tapis-roulant-medrun_154215",
+"Tapis Roulant Runner II|tapis Roulant Runner II Caratteristiche Intensità di allenamento|2017/12/tapis-roulant-runner-ii|data.oliviero.it/imgprodotto/tapis-roulant-runner-ii_119590",
+"Tapis Roulant TRX Endurance|TRX ENDURANCE MOTORE AC. FASCIA CARDIO TOORX inclusa. Garanzia a vita|2017/12/tapis-roulant-trx-endurance|data.oliviero.it/imgprodotto/tapis-roulant-trx-endurance_159521",
 "Tapis Roulant Super Compact|Caratteristiche Tecniche MOTORE 1,75 HP DC CONTINUATIVI / 2,75 HP DC|2017/12/tapis-roulant-super-compact|data.oliviero.it/imgprodotto/tapis-roulant-super-compact_170939",
 "Tapis Roulant Premium T11|Il Tapis Roulant Premium T11 è una vera meraviglia dell'ingegneria|2017/12/tapis-roulant-premium-t11|data.oliviero.it/imgprodotto/tapis-roulant-premium-t11_172787",
 "Tapis Roulant Treadmill EcoRun i Black|DKN EcoRun i Black è un tapis roulant Plug and Run: un attrezzo pre|2017/12/tapis-roulant-treadmill-ecorun-i-black|data.oliviero.it/imgprodotto/tapis-roulant-treadmill-ecorun-i-black_89654",

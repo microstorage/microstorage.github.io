@@ -1,4 +1,7 @@
 Gr = [
+"Good Shake 40 30 30|GOOD SHAKE 40-30-30 è un integratore alimentare che fornisce|2017/12/good-shake-40-30-30|data.oliviero.it/imgprodotto/good-shake-40-30-30-8-buste-cacao_108619",
+"Energel 24 Flaconi da 35 ml gusto Arancia|INGREDIENTI: Sciroppo di glucosio disidratato, Acqua, Saccarosio|2017/12/energel-24-flaconi-da-35-ml-gusto-arancia|data.oliviero.it/imgprodotto/energel-24-flaconi-da-35-ml-gusto-arancia_108611",
+"Advanced BCAA 400 cps|ADVANCED BCAA è un integratore alimentare che aumenta il livello di|2017/12/advanced-bcaa-400-cps|data.oliviero.it/imgprodotto/advanced-bcaa-400-cps_108370",
 "Amino X 435 gr|Integratore alimentare di aminoacidi con vitamine ed edulcoranti, in|2017/12/amino-x-435-gr|data.oliviero.it/imgprodotto/amino-x-435-gr_109963",
 "Nitrix 2.0 180 tabs|INTEGRATORE ALIMENTARE DI CREATINA, L-CITRULLINA, NIACINA ED ESTRATTI|2017/12/nitrix-2-0-180-tabs|data.oliviero.it/imgprodotto/nitrix-2-0-180-tabs_165502",
 "Amino X 1015 gr|Integratore alimentare di aminoacidi con vitamine ed edulcoranti, in|2017/12/amino-x-1015-gr|data.oliviero.it/imgprodotto/amino-x-1015-gr_109964",

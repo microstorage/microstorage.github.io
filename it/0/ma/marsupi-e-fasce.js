@@ -1,4 +1,8 @@
 Gr = [
+"Fascia Porta Bebè Carry Sling 510 cm Lollipop|Fascia porta bebè Carry Sling Lollipop 510 cm La Carry Sling di color|2017/12/fascia-porta-bebe-carry-sling-510-cm-lollipop|data.oliviero.it/imgprodotto/fascia-porta-beb%C3%A8-carry-sling-510-cm-lollipop_84046",
+"Marsupio Porta Bebè Smart Carrier Hearth|Marsupio Smart Carrier Earth Il nostro Marsupio SMART CARRIER Earth|2017/12/marsupio-porta-bebe-smart-carrier-hearth|data.oliviero.it/imgprodotto/marsupio-porta-beb%C3%A8-smart-carrier-hearth_84073",
+"Easia marsupio|Portare il bambino nel marsupio favorisce lo sviluppo del legame tra|2017/12/easia-marsupio|data.oliviero.it/imgprodotto/easia-marsupio_71486",
+"Marsupio Porta Bebè Mei Tai Earth|Marsupio/Fascia porta bebè Mei Tai Earth Il Mei Tai marsupio|2017/12/marsupio-porta-bebe-mei-tai-earth|data.oliviero.it/imgprodotto/marsupio-porta-beb%C3%A8-mei-tai-earth_84077",
 "Fascia Porta Bebè Carry Sling 510 cm Laguna|Fascia porta bebè Carry Sling Laguna 510 cm La Carry Sling di color|2017/12/fascia-porta-bebe-carry-sling-510-cm-laguna|data.oliviero.it/imgprodotto/fascia-porta-beb%C3%A8-carry-sling-510-cm-laguna_84014",
 "Fascia Porta Bebè Carry Sling 450 cm Lollipop|Fascia porta bebè Carry Sling Lollipop- 450 cm La Carry Sling di|2017/12/fascia-porta-bebe-carry-sling-450-cm-lollipop|data.oliviero.it/imgprodotto/fascia-porta-beb%C3%A8-carry-sling-450-cm-lollipop_83997",
 "Fascia portaenfant|Fascia in jersey di cotone che permette di portare il bebè in|2017/12/fascia-portaenfant|data.oliviero.it/imgprodotto/fascia-portaenfant_101735",

@@ -1,4 +1,6 @@
 Gr = [
+"Bipack T-shirt 065418 020KB|Confezione composta da 2 magliette Tipologia : T-shirt intima da uomo|2017/12/bipack-t-shirt-065418-020kb|data.oliviero.it/imgprodotto/bipack-t-shirt-065418-020kb_85101",
+"2 T-shirt taglie forti uomo 99110|Confezione composta da 2 T-Shirt corpo uomo realizzata in puro|2017/12/2-t-shirt-taglie-forti-uomo-99110|data.oliviero.it/imgprodotto/2-t-shirt-taglie-forti-uomo-99110_11936_big",
 "3 Calzini Bianchi|Quando ti alleni duramente per raggiungere i tuoi obiettivi,|2017/12/3-calzini-bianchi|data.oliviero.it/imgprodotto/3-calzini-bianchi_166986",
 "Boxer taglie forti 100 bianco|Boxer uomo taglie forti con bottone realizzato in cotone 100%|2017/12/boxer-taglie-forti-100-bianco|data.oliviero.it/imgprodotto/boxer-taglie-forti-100-bianco_63513",
 "T-shirt taglie forti uomo bianca 500|T-Shirt corpo uomo realizzata in puro Cotone, scollo a V, maniche|2017/12/t-shirt-taglie-forti-uomo-bianca-500|data.oliviero.it/imgprodotto/t-shirt-taglie-forti-uomo-bianca-500_24242_big",

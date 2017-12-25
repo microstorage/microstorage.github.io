@@ -1,4 +1,5 @@
 Gr = [
+"Cardiofrequenzimetro FT 1|Il primo passo nell'allenamento Per chi inizia l'allenamento basato|2017/12/cardiofrequenzimetro-ft-1|data.oliviero.it/imgprodotto/cardiofrequenzimetro-ft-1_15250_big",
 "Cardiofrequenzimetro FT 7|Per coloro che desiderano sapere se si sta migliorando la forma|2017/12/cardiofrequenzimetro-ft-7|data.oliviero.it/imgprodotto/cardiofrequenzimetro-ft-7_15252_big",
 "Cinturino intercambiabile A300|Ogni piccolo cambiamento può fare una grande differenza. Personalizza|2017/12/cinturino-intercambiabile-a300|data.oliviero.it/imgprodotto/cinturino-intercambiabile-a300_114256",
 "Cardiofrequenzimetro M200|Il miglior allenamento è l'allenamento più giusto per te. Polar M200|2017/12/cardiofrequenzimetro-m200|data.oliviero.it/imgprodotto/cardiofrequenzimetro-m200_158368",

@@ -1,4 +1,7 @@
 Gr = [
+"Panca Catering 183x30|Materiale: HD Polietilene alta densità lavabile Struttura: Ferro Ø 25|2017/12/panca-catering-183x30|data.oliviero.it/imgprodotto/panca-catering-183x30_147530",
+"Sedia Reclinabile Style|Sedia reclinabile in 8 posizioni con cuscino integrato e bracciolo|2017/12/sedia-reclinabile-style|data.oliviero.it/imgprodotto/sedia-reclinabile-style_150020",
+"Zen Poggiapiedi Regolabile per sedia Style|Poggiapiedi regolabile in 2 posizioni per sedia Style Struttura:|2017/12/zen-poggiapiedi-regolabile-per-sedia-style|data.oliviero.it/imgprodotto/zen-poggiapiedi-regolabile-per-sedia-style_150022",
 "Sedia Pieghevole Storm|Sedia pieghevole in ferro con sacca a tracolla Tessuto: poliestere|2017/12/sedia-pieghevole-storm|data.oliviero.it/imgprodotto/sedia-pieghevole-storm_149997",
 "Set Birreria 220x67|Struttura: metallica con portanti in angolare elettrosaldato 30x30x3|2017/12/set-birreria-220x67|data.oliviero.it/imgprodotto/set-birreria-220x67_147531",
 "Sedia Sdraio Cordobaby|Sedia sdraio Cordobaby Caratteristiche tecniche: Telaio: acciaio 20|2017/12/sedia-sdraio-cordobaby|data.oliviero.it/imgprodotto/sedia-sdraio-cordobaby_86987",

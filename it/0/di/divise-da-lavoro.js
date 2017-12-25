@@ -1,4 +1,12 @@
 Gr = [
+"Giacca coreana donna|Colore base : griglio scuro Inserto : In colore nero + profili oro|2017/12/giacca-coreana-donna|data.oliviero.it/imgprodotto/giacca-coreana-donna_82990",
+"Camicia donna rosa kyoto|Colore : Rosa Composizione : tessuto 65% poliestere e 35% cotone|2017/12/camicia-donna-rosa-kyoto|data.oliviero.it/imgprodotto/camicia-donna-rosa-kyoto_2343_big",
+"Bandana cuoco bordeaux|Colore : Bordeaux Composizione : tessuto 100% cotone Dimensioni :|2017/12/bandana-cuoco-bordeaux|data.oliviero.it/imgprodotto/bandana-cuoco-bordeaux_24497_big",
+"Bandana cuoco italia|Colore : Tortuga Composizione : tessuto 100% cotone Dimensioni :|2017/12/bandana-cuoco-italia|data.oliviero.it/imgprodotto/bandana-cuoco-italia_24494_big",
+"Bandana cuoco New York|Colore : San Francisco Composizione : tessuto 100% cotone Dimensioni|2017/12/bandana-cuoco-new-york|data.oliviero.it/imgprodotto/bandana-cuoco-new-york_1653_big",
+"Pantalone da lavoro Apanor|Colore : Blu Composizione : cotone 100% sanforizzato 265 gr/mq|2017/12/pantalone-da-lavoro-apanor|data.oliviero.it/imgprodotto/pantalone-da-lavoro-apanor_153954",
+"Pantaloni Cuoco Biscotto|Modello con passanti in vita chiusura con due bottoni e zip. due|2017/12/pantaloni-cuoco-biscotto|data.oliviero.it/imgprodotto/pantaloni-cuoco-biscotto-064115_151133",
+"Bandana cuoco Pepper|Colore : Colorato Composizione : tessuto 100% cotone Dimensioni :|2017/12/bandana-cuoco-pepper|data.oliviero.it/imgprodotto/bandana-cuoco-pepper_24486_big",
 "Giacca Cuoca Lady Euro|Colore : Bianco e Blu Composizione : tessuto 100% cotone Dimensioni|2017/12/giacca-cuoca-lady-euro|data.oliviero.it/imgprodotto/giacca-cuoca-lady-euro_150870",
 "Giacca da lavoro Agiaor|Colore : Blu Composizione : Tessuto Cotone 100% sanforizzato 265|2017/12/giacca-da-lavoro-agiaor|data.oliviero.it/imgprodotto/giacca-da-lavoro-agiaor_153953",
 "Camice odontotecnico lungo verde|Colore : Verde Composizione : tessuto 100% cotone Dimensioni : / Peso|2017/12/camice-odontotecnico-lungo-verde|data.oliviero.it/imgprodotto/camice-odontotecnico-lungo-verde_23011_big",

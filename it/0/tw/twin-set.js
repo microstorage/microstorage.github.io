@@ -1,4 +1,10 @@
 Gr = [
+"Jeans donna S2S42C 00440|Jeans da donna con vestibilità slim, allacciatura tramite bottone|2017/12/jeans-donna-s2s42c-00440|data.oliviero.it/imgprodotto/jeans-donna-s2s42c-00440_146847",
+"T-Shirt donna S2S4XB 00445|T-Shirt da donna con scollo a V, mezze maniche, disegno nella parte|2017/12/t-shirt-donna-s2s4xb-00445|data.oliviero.it/imgprodotto/t-shirt-donna-s2s4xb-00445_146534",
+"Maglia donna T2S4F2 00252|Maglia da donna con maniche a 3/4, tessuto abbellito da paillettes|2017/12/maglia-donna-t2s4f2-00252|data.oliviero.it/imgprodotto/maglia-donna-t2s4f2-00252_146554",
+"Pantalone Sportivo K2SGR3 0082M|Collezione Le coeur de Twin Set Pantalone sportivo da donna con|2017/12/pantalone-sportivo-k2sgr3-0082m|data.oliviero.it/imgprodotto/pantalone-sportivo-k2sgr3-0082m_146862",
+"Pantaloni donna T2S41B 00457|Pantaloni da donna dalla vestibilità morbida con laccetto in vita|2017/12/pantaloni-donna-t2s41b-00457|data.oliviero.it/imgprodotto/pantaloni-donna-t2s41b-00457_146763",
+"T-Shirt Lingerie LS4AEE 00466|Collezione Twin set Lingerie T-Shirt della collezione lingerie da|2017/12/t-shirt-lingerie-ls4aee-00466|data.oliviero.it/imgprodotto/t-shirt-lingerie-ls4aee-00466_146540",
 "Pantaloni donna casual P2S4S8 00433|Pantalone Casual da donna con tasconi, vestibilità slim, allacciatura|2017/12/pantaloni-donna-casual-p2s4s8-00433|data.oliviero.it/imgprodotto/pantaloni-donna-casual-p2s4s8-00433_146915",
 "Jeans donna J2S4ZY 00100|Collezione Twin Set Jeans Jeans da donna dalla vestibilità slim,|2017/12/jeans-donna-j2s4zy-00100|data.oliviero.it/imgprodotto/jeans-donna-j2s4zy-00100_146909",
 "Pantalone sportivo K2S4RK 00100|Collezione Le Coeur de Twin Set P antalone sportivo da donna con|2017/12/pantalone-sportivo-k2s4rk-00100|data.oliviero.it/imgprodotto/pantalone-sportivo-k2s4rk-00100_146923",

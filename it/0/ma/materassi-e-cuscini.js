@@ -1,4 +1,6 @@
 Gr = [
+"Materassino Da Campeggio|Materasso camping 120x60. Adatto a tutti i lettini da viaggio|2017/12/materassino-da-campeggio|data.oliviero.it/imgprodotto/materassino-da-campeggio_159514",
+"Cuscino Atisoffoco Med Antiacaro|Guanciale traspirante ed antiacaro, in fibra Amicor Pure. Il lavaggio|2017/12/cuscino-atisoffoco-med-antiacaro|data.oliviero.it/imgprodotto/cuscino-atisoffoco-med-antiacaro_51967",
 "Materasso Biogreenfirst|Un materasso accuratamente studiato nei minimi dettagli utilizzando|2017/12/materasso-biogreenfirst|data.oliviero.it/imgprodotto/materasso-biogreenfirst_93556",
 "Materasso Deocell|Un materasso in cui la ricerca più avanzata si è espressa al meglio|2017/12/materasso-deocell|data.oliviero.it/imgprodotto/materasso-deocell_93558",
 "Materasso Med Sanitized|Il materasso antiacaro per eccellenza. SEMPLICEMENTE PERFETTO MED|2017/12/materasso-med-sanitized|data.oliviero.it/imgprodotto/materasso-med-sanitized_93566",

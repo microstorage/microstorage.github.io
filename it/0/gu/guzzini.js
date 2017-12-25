@@ -1,4 +1,7 @@
 Gr = [
+"Set insalata: Insalatiera ø25 e Posate Sabbia|MADE IN ITALY - DESIGN BY ANGELETTI RUZZA Insalatiera diametro 25 cm|2017/12/set-insalata-insalatiera-ø25-e-posate-sabbia|data.oliviero.it/imgprodotto/set-insalata-insalatiera-%C3%B825-e-posate-sabbia_99942",
+"Tostapane Bianco|Non perdere l'opportunità di acquistare il vostro acciaio|2017/12/tostapane-bianco|data.oliviero.it/imgprodotto/tostapane-bianco_156067",
+"Set 6 tazzine con piattini Grace rosso|Il set 6 tazzine caffé con piattini sono caratterizzate da un corpo|2017/12/set-6-tazzine-con-piattini-grace-rosso|data.oliviero.it/imgprodotto/set-6-tazzine-con-piattini-grace-rosso_155784",
 "Set 2 tazzine con piattini, cucchiaini e zuccheriera Sabbia|MADE IN ITALY - DESIGN BY ANGELETTI RUZZA Il nuovo design del corpo|2017/12/set-2-tazzine-con-piattini-cucchiaini-e-zuccheriera-sabbia|data.oliviero.it/imgprodotto/set-2-tazzine-con-piattini-cucchiaini-e-zuccheriera-sabbia_99950",
 "Set 24 Posate da Tavola Blu|Set posate caratterizzato da un manico, con acciaio passante, in|2017/12/set-24-posate-da-tavola-blu|data.oliviero.it/imgprodotto/set-24-posate-da-tavola-blu_155656",
 "Portarotolo my kitchen|Portaroto universale my kitchen è un valido alleato in cucina|2017/12/portarotolo-my-kitchen|data.oliviero.it/imgprodotto/portarotolo-my-kitchen_155785",

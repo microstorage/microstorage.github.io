@@ -1,4 +1,8 @@
 Gr = [
+"Libro Buon Appetito, Signor Coniglio!|Al Signor Coniglio non piacciono più le carote. Grande è la curiosità|2017/12/libro-buon-appetito-signor-coniglio|data.oliviero.it/imgprodotto/libro-buon-appetito-signor-coniglio-_156331",
+"Libro Aspetto un fratellino|La mamma dice: Camilla, avrai presto un fratellino. Ma Camilla non|2017/12/libro-aspetto-un-fratellino|data.oliviero.it/imgprodotto/libro-aspetto-un-fratellino_156327",
+"La Fattoria con Trattore e Animali|PlaySet composto da una fattoria ed un trattore, con quattro|2017/12/la-fattoria-con-trattore-e-animali|data.oliviero.it/imgprodotto/la-fattoria-con-trattore-e-animali_139991",
+"Puzzle Gigante 3D Incastra e costruisci I Pompieri|I pompieri sono in azione! Costruisci il fantastico camion dei|2017/12/puzzle-gigante-3d-incastra-e-costruisci-i-pompieri|data.oliviero.it/imgprodotto/puzzle-gigante-3d-incastra-e-costruisci-i-pompieri_156566",
 "Puzzle Principi e Draghi|Età 4+ Anni Puzzle composto da 54 pezzi rappresentanti draghi|2017/12/puzzle-principi-e-draghi|data.oliviero.it/imgprodotto/puzzle-principi-e-draghi_139679",
 "Casa delle Bambole Villa delle Meraviglie|Villa delle meraviglie con luci e suoni. Inclusi 3 personaggi, un|2017/12/casa-delle-bambole-villa-delle-meraviglie|data.oliviero.it/imgprodotto/casa-delle-bambole-villa-delle-meraviglie-64220_156810",
 "Kit crea Bambola Bibi|Età 6+ Anni Kit per creare la propria bambola. Include tutto il|2017/12/kit-crea-bambola-bibi|data.oliviero.it/imgprodotto/kit-crea-bambola-bibi_139676",

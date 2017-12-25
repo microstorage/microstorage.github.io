@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Running Glycerin 14|Il DNA Brooks DNA per tutta la lunghezza del piede permette alla|2017/12/scarpe-running-glycerin-14|data.oliviero.it/imgprodotto/scarpe-running-glycerin-14-110236-432_152770",
 "Scarpe Running Adrenaline GTS 16|Queste affidabili scarpe da corsa da uomo sempre pronte all'azione|2017/12/scarpe-running-adrenaline-gts-16|data.oliviero.it/imgprodotto/scarpe-running-adrenaline-gts-16-110212-068_152766",
 "Scarpe Running Launch 4|Nuovamente migliorata con un tocco di gomma ammortizzante in più|2017/12/scarpe-running-launch-4|data.oliviero.it/imgprodotto/scarpe-running-launch-4-110244-497_164695",
 "Scarpe Running Ghost 9|L'ammortizzazione equilibrata aiuta la Ghost 9 da uomo a offrire una|2017/12/scarpe-running-ghost-9|data.oliviero.it/imgprodotto/scarpe-running-ghost-9-110233-431_163334",

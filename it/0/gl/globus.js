@@ -1,4 +1,6 @@
 Gr = [
+"Elettrostimolatore My Stim|55 PROGRAMMI: 12 SPORT, 33 FITNESS E BELLEZZA, 10 REHAB Massima|2017/12/elettrostimolatore-my-stim|data.oliviero.it/imgprodotto/elettrostimolatore-my-stim_130843",
+"Medisound 2 PRO Ultrasuono Terapia|NUOVA LINEA PROFESSIONAL MICRO PER ULTRASUONOTERAPIA Medisound 2 Pro|2017/12/medisound-2-pro-ultrasuono-terapia|data.oliviero.it/imgprodotto/medisound-2-pro-ultrasuono-terapia_71109",
 "Elettrostimolatore Premium 150|Globus Premium 150 è l'elettrostimolatore che permette di ottenere|2017/12/elettrostimolatore-premium-150|data.oliviero.it/imgprodotto/elettrostimolatore-premium-150_159763",
 "Pancera Activa Slim|Grazie alla capacità di trattenere il calore, Activa Slim Maxi|2017/12/pancera-activa-slim|data.oliviero.it/imgprodotto/pancera-activa-slim-maxi-taglia_130241",
 "Pedana Vibrante G Vibe 100|Pedana vibrante sussultoria, frequenza da 15 a 55 Hz. Il motore da|2017/12/pedana-vibrante-g-vibe-100|data.oliviero.it/imgprodotto/pedana-vibrante-g-vibe-100_7191_big",

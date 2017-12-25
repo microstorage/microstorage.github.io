@@ -1,4 +1,5 @@
 Gr = [
+"Borsa Tracolla Nero|Collezione Autunno Inverno/2018 Tracolla donna Nero Giardini in|2017/12/borsa-tracolla-nero|data.oliviero.it/imgprodotto/borsa-tracolla-nero-a743149d-100_168737",
 "Borsa Morbida Donna Bianco|Collezione Primavera Estate Borsa morbida da donna con manici|2017/12/borsa-morbida-donna-bianco|data.oliviero.it/imgprodotto/borsa-morbida-donna-bianco-p743429-707_159015",
 "Borsa con Borchie Nero|Collezione Autunno Inverno/2018 Composizione: Esterno ecopelle|2017/12/borsa-con-borchie-nero|data.oliviero.it/imgprodotto/borsa-con-borchie-nero_168764",
 "Borsa Rigida Nero|Collezione Autunno Inverno/2018 Composizione: Esterno ecopelle|2017/12/borsa-rigida-nero|data.oliviero.it/imgprodotto/borsa-rigida-nero-a743514d-100_168738",

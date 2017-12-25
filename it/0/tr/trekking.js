@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Trekking Mirzam|Per le escursioni con temperature più rigide CMP presenta MIRZAM, la|2017/12/scarpe-trekking-mirzam|data.oliviero.it/imgprodotto/scarpe-trekking-mirzam_167711",
 "Scarpe Trekking Losanna Tex Topo|Scarpe da trekking donna Tomaia in tessuto tecnico e pelle|2017/12/scarpe-trekking-losanna-tex-topo|data.oliviero.it/imgprodotto/scarpe-trekking-losanna-tex-topo-838_164484",
 "Scarpe Trekking T-Cross Low GTX WS|Escursionisti veloci particolarmente esigenti che cercano una|2017/12/scarpe-trekking-t-cross-low-gtx-ws|data.oliviero.it/imgprodotto/scarpe-trekking-t-cross-low-gtx-ws_165326",
 "Scarpe Trekking Rigel Mid W|RIGEL MID è uno scarponcino trekking impermeabile dallo stile|2017/12/scarpe-trekking-rigel-mid-w|data.oliviero.it/imgprodotto/scarpe-trekking-rigel-mid-w_168708",

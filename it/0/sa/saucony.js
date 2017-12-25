@@ -1,4 +1,7 @@
 Gr = [
+"Scarpe Jazz Original Donna|Saucony Originals Jazz O' donna Nero/Verde Acqua : dal 1981 le|2017/12/scarpe-jazz-original-donna|data.oliviero.it/imgprodotto/scarpe-jazz-original-donna_167356",
+"Scarpe Running Freedom ISO|Freedom rappresenta il punto più alto della tecnologia Saucony. Non|2017/12/scarpe-running-freedom-iso|data.oliviero.it/imgprodotto/scarpe-running-freedom-iso_167274",
+"Scarpe Running Kinvara 8 Giro d'Italia|Questa versione con colorazione rosa e lacci tricolore è stata|2017/12/scarpe-running-kinvara-8-giro-d-italia|data.oliviero.it/imgprodotto/scarpe-running-kinvara-8-giro-ditalia_165011",
 "Scarpe Running Grid Cohesion 9|Scarpe Running Grid Cohesion 9 - S15262-4 PROFILO ATLETA: l'entry|2017/12/scarpe-running-grid-cohesion-9|data.oliviero.it/imgprodotto/scarpe-running-grid-cohesion-9-s25262-20_149094",
 "Scarpe Trail Running Xodus ISO|Da sempre la miglior scarpa da trail Saucony. Nuova versione con|2017/12/scarpe-trail-running-xodus-iso|data.oliviero.it/imgprodotto/scarpe-trail-running-xodus-iso-s20325-2_152469",
 "Scarpe Jazz Original Uomo|Saucony Originals Jazz O' uomo Nero/Bianco: dal 1981 le sneakers|2017/12/scarpe-jazz-original-uomo|data.oliviero.it/imgprodotto/scarpe-jazz-original-uomo_153506",

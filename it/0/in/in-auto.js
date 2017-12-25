@@ -1,4 +1,13 @@
 Gr = [
+"Seggiolino king II purple|King Plus è equipaggiato con il sistema esclusivo tendicinghia della|2017/12/seggiolino-king-ii-purple|data.oliviero.it/imgprodotto/seggiolino-king-ii-purple_156890",
+"Seggiolino Seat up 012 Nero 079828|Seat Up 012 è il seggiolino auto di Chicco, omologato come Gruppo|2017/12/seggiolino-seat-up-012-nero-079828|data.oliviero.it/imgprodotto/seggiolino-seat-up-012-nero-079828_158622",
+"Seggiolino Tazio tt isofix rosso|TAZIO Isofix TT il seggiolino 1.2.3 auto reclinabile isofix|2017/12/seggiolino-tazio-tt-isofix-rosso|data.oliviero.it/imgprodotto/seggiolino-tazio-tt-isofix-rosso_150277",
+"Rodi Air Protect earth brown|Seggiolino auto omologato da 15 a 36 kg. , da 3 a 10 anni. Da buon|2017/12/rodi-air-protect-earth-brown|data.oliviero.it/imgprodotto/rodi-air-protect-earth-brown_51703",
+"Calibro isofix 151|Seggiolino Auto Cam Calibro Isofix è omologato per il trasporto in|2017/12/calibro-isofix-151|data.oliviero.it/imgprodotto/calibro-isofix-151_171617",
+"Axissfix Nomad Grey|Il nuovo Bébé Confort AxissFix Plus è il seggiolino auto utilizzabile|2017/12/axissfix-nomad-grey|data.oliviero.it/imgprodotto/axissfix-nomad-grey_171872",
+"Rodi XP Fix Down Grey|Seggiolino Auto 15-36 Kg Ogni bimbo è unico e cresce in modo|2017/12/rodi-xp-fix-down-grey|data.oliviero.it/imgprodotto/rodi-xp-fix-down-grey_172145",
+"Galileo I-fix Black|Galileo l-Fix è il seggiolino auto Inglesina omologato per i Gruppi|2017/12/galileo-i-fix-black|data.oliviero.it/imgprodotto/galileo-i-fix-black-av93f0blk_154904",
+"Rodifix AP Nomad Grey|Seggiolino Auto 15-36 Kg A partire da 3 anni fino a 10 anni circa (o|2017/12/rodifix-ap-nomad-grey|data.oliviero.it/imgprodotto/rodifix-ap-nomad-grey_171875",
 "Seggiolino Youniverse Black|Il Seggiolino Auto Chicco Youniverse è omologato dai 9 ai 36 Kg del|2017/12/seggiolino-youniverse-black|data.oliviero.it/imgprodotto/seggiolino-youniverse-black_170721",
 "Rodifix AP Sparkling Grey|Seggiolino Auto 15-36 Kg A partire da 3 anni fino a 10 anni circa (o|2017/12/rodifix-ap-sparkling-grey|data.oliviero.it/imgprodotto/rodifix-ap-sparkling-grey_161461",
 "Soft wraps proteggi cintura|Coprispalline per cinture di sicurezza auto e seggiolini realizzati|2017/12/soft-wraps-proteggi-cintura|data.oliviero.it/imgprodotto/soft-wraps-proteggi-cintura_73423",

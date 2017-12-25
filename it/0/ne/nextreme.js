@@ -1,4 +1,6 @@
 Gr = [
+"Monopattino a tre ruote ADVENTURE KID GRAND PRIX rosso|Descrizione: Pieghevole : con sistema di chiusura rapido e sicuro|2017/12/monopattino-a-tre-ruote-adventure-kid-grand-prix-rosso|data.oliviero.it/imgprodotto/monopattino-a-tre-ruote-adventure-kid-grand-prix-rosso_162384",
+"Longboard CRUISER BAY NEW|Descrizione: Dimensioni tavola : 96X24 cm spessore 12,5 mm Materiale|2017/12/longboard-cruiser-bay-new|data.oliviero.it/imgprodotto/longboard-cruiser-bay-new_162377",
 "Skateboard FREEDOM PRO MILITARY|Descrizione: Dimensioni tavola : 57x15,2 cm Materiale tavola : ABS|2017/12/skateboard-freedom-pro-military|data.oliviero.it/imgprodotto/skateboard-freedom-pro-military_162376",
 "Casco street FLOWERS|Descrizione: Calotta interna : anti shock in EPS ad alta densità Made|2017/12/casco-street-flowers|data.oliviero.it/imgprodotto/casco-street-flowers_162414",
 "Monopattino RAPTOR PRO 200 nero arancio|Descrizione: Pieghevole : salvaspazio Tracolla removibile : inclusa|2017/12/monopattino-raptor-pro-200-nero-arancio|data.oliviero.it/imgprodotto/monopattino-raptor-pro-200-nero-arancio_162386",

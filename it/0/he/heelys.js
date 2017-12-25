@@ -1,4 +1,8 @@
 Gr = [
+"Skateboard Rocket Complete Fade Series|Skateboard perfetto per i principianti Deck: 7 strati macchiato|2017/12/skateboard-rocket-complete-fade-series|data.oliviero.it/imgprodotto/skateboard-rocket-complete-fade-series_157623",
+"Scarpe con ruote Spiffy|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/12/scarpe-con-ruote-spiffy|data.oliviero.it/imgprodotto/scarpe-con-ruote-spiffy-770715k_146314",
+"Skateboard Rocket Complete Eclipse Series|Nuova gamma da Skateboards Rocket! Deck: 7 strati Hardrock Acero|2017/12/skateboard-rocket-complete-eclipse-series|data.oliviero.it/imgprodotto/skateboard-rocket-complete-eclipse-series_157625",
+"Pattini Rookie Forever Rainbow V2|I pattini del Rainbow presentano un fresco, tocco vintage ispirato|2017/12/pattini-rookie-forever-rainbow-v2|data.oliviero.it/imgprodotto/pattini-rookie-forever-rainbow-v2_157616",
 "Scarpe con Ruote CruzX2|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/12/scarpe-con-ruote-cruzx2|data.oliviero.it/imgprodotto/scarpe-con-ruote-cruzx2-770498k_139610",
 "Scarpe con Ruote Dual Up X2|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/12/scarpe-con-ruote-dual-up-x2|data.oliviero.it/imgprodotto/scarpe-con-ruote-dual-up-x2-770947k_164208",
 "Scarpe con Ruote Force|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/12/scarpe-con-ruote-force|data.oliviero.it/imgprodotto/scarpe-con-ruote-force-770836_157596",

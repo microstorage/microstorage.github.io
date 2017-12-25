@@ -1,4 +1,6 @@
 Gr = [
+"Accessorio Cappellini Atlas 150|Taglia a rulli la pasta, 1mm Capellini da fogli di pasta fino|2017/12/accessorio-cappellini-atlas-150|data.oliviero.it/imgprodotto/accessorio-cappellini-atlas-150_156200",
+"Accessorio Mafaldine Atlas 150|Accessorio per macchina Atlas 150 per mafaldine. Progettato per|2017/12/accessorio-mafaldine-atlas-150|data.oliviero.it/imgprodotto/accessorio-mafaldine-atlas-150_156418",
 "Macchina a Motore Per Pasta Fresca Atlas|Unione tra Atlas 150 e motore Pastadrive: un connubio perfetto tra|2017/12/macchina-a-motore-per-pasta-fresca-atlas|data.oliviero.it/imgprodotto/macchina-a-motore-per-pasta-fresca-atlas_156445",
 "Accessorio Spaghetti Chitarra Atlas 150|Accessorio per macchina Atlas 150 per spaghetti chitarra da 2 mm|2017/12/accessorio-spaghetti-chitarra-atlas-150|data.oliviero.it/imgprodotto/accessorio-spaghetti-chitarra-atlas-150_156414",
 "Macchina Pasta Fresca Roller Classic Atlas 150|Un autentica e originale macchina italiana per la pasta fresca|2017/12/macchina-pasta-fresca-roller-classic-atlas-150|data.oliviero.it/imgprodotto/macchina-pasta-fresca-roller-classic-atlas-150_156435",

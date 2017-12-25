@@ -1,4 +1,8 @@
 Gr = [
+"Giubbino Bambino Blu|Collezione Primavera Estate In resistente nylon Fodera interna in|2017/12/giubbino-bambino-blu|data.oliviero.it/imgprodotto/giubbino-bambino-blu-171mhaa005_161083",
+"Scarpe con ruote Spiffy|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/12/scarpe-con-ruote-spiffy|data.oliviero.it/imgprodotto/scarpe-con-ruote-spiffy-770715k_146314",
+"Zaino Shot Pack Fantasy|Capacità 28 lt Dimensione 27x41x20 cm Funzionali Fondo imbottito|2017/12/zaino-shot-pack-fantasy|data.oliviero.it/imgprodotto/zaino-shot-pack-fantasy_167469",
+"Camicia Bambino Bianco Blu 4S402 6S65|Collezione Primavera Estate Camicia da bambino con maniche lunghe. Il|2017/12/camicia-bambino-bianco-blu-4s402-6s65|data.oliviero.it/imgprodotto/camicia-bambino-bianco-blu-4s402-6s65_158469",
 "Scarpe con Ruote CruzX2|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/12/scarpe-con-ruote-cruzx2|data.oliviero.it/imgprodotto/scarpe-con-ruote-cruzx2-770498k_139610",
 "Scarpe Jr. Wheat|Collezione Autunno Inverno/2018 Quando è tempo di giocare, i piccoli|2017/12/scarpe-jr-wheat|data.oliviero.it/imgprodotto/scarpe-jr-wheat_171115",
 "Zaino The Double Camouflage|È uno zaino ma sono due. Da un lato fantasia e dall'altro tinta|2017/12/zaino-the-double-camouflage|data.oliviero.it/imgprodotto/zaino-the-double-camouflage_167526",

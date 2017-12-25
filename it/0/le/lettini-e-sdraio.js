@@ -1,4 +1,8 @@
 Gr = [
+"Spiaggina Playa Text Apple|Spiaggina Pieghevole. Caratteristiche tecniche: Materiale: textilene|2017/12/spiaggina-playa-text-apple|data.oliviero.it/imgprodotto/spiaggina-playa-text-apple_87096",
+"Brandina USA ALU|Brandina da campo in alluminio Caratteristiche: Materiale: polyestere|2017/12/brandina-usa-alu|data.oliviero.it/imgprodotto/brandina-usa-alu_87118",
+"Poltrona basculante 5374|Poltrona basculante Caratteristiche tecniche: Telaio in acciaio 22 mm|2017/12/poltrona-basculante-5374|data.oliviero.it/imgprodotto/poltrona-basculante-5374_58743",
+"Brandina Arena Poly Blue|Brandina da mare con schienale pieghevole. Chiusura a valigetta per|2017/12/brandina-arena-poly-blue|data.oliviero.it/imgprodotto/brandina-arena-poly-blue_87106",
 "Lettino Mare Letmar 2|Lettino mare Blu Caratteristiche tecniche: Telaio: alluminio|2017/12/lettino-mare-letmar-2|data.oliviero.it/imgprodotto/lettino-mare-letmar-2_163203",
 "Sdraio Dondolino 152|Dondolino oscillante Caratteristiche tecniche: Telaio in acciaio|2017/12/sdraio-dondolino-152|data.oliviero.it/imgprodotto/sdraio-dondolino-152_125055",
 "Sdraio Reclinabile 330|Sdraio reclinabile in textilene Caratteristiche tecniche: Telaio in|2017/12/sdraio-reclinabile-330|data.oliviero.it/imgprodotto/sdraio-reclinabile-330_163211",

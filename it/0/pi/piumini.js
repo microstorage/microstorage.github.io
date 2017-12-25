@@ -1,4 +1,6 @@
 Gr = [
+"Piumino Donna Dark Navy|Collezione Autunno Inverno/2018 Piumino da donna con zip frontale|2017/12/piumino-donna-dark-navy|data.oliviero.it/imgprodotto/piumino-donna-dark-navy_169358",
+"Piumino Protector Nero|Collezione Autunno Inverno/2018 Questa giacca nera idrorepellente|2017/12/piumino-protector-nero|data.oliviero.it/imgprodotto/piumino-protector-nero_170596",
 "Piumino Donna Dark Rock|Collezione Autunno Inverno/2018 Piumino da donna con zip frontale|2017/12/piumino-donna-dark-rock|data.oliviero.it/imgprodotto/piumino-donna-dark-rock_169360",
 "Piumino Donna Verde|Collezione Autunno Inverno/2018 Piumino 3/4 con imbottitura in eco|2017/12/piumino-donna-verde|data.oliviero.it/imgprodotto/piumino-donna-verde_171492",
 "Piumino Donna Blu|Collezione Autunno Inverno/2018 Piumino 3/4 con imbottitura in eco|2017/12/piumino-donna-blu|data.oliviero.it/imgprodotto/piumino-donna-blu_171509",

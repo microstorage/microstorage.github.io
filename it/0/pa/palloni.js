@@ -1,4 +1,9 @@
 Gr = [
+"Pallone Calcio Nike Premier League|Il pallone da calcio Nike Strike Premier League, con camera d'aria in|2017/12/pallone-calcio-nike-premier-league|data.oliviero.it/imgprodotto/pallone-calcio-nike-premier-league_169701",
+"Pallone Calcio FC Internazionale Supporters|Il pallone da calcio FC Internazionale Supporters è resistente|2017/12/pallone-calcio-fc-internazionale-supporters|data.oliviero.it/imgprodotto/pallone-calcio-fc-internazionale-supporters-sc3019_152057",
+"Pallone da Calcio Strike Serie A|Il pallone da calcio Serie A Strike è dotato di camera d'aria in|2017/12/pallone-da-calcio-strike-serie-a|data.oliviero.it/imgprodotto/pallone-da-calcio-strike-serie-a_167128",
+"Pallone Calcio Roma Skills|Impreziosito dai dettagli del club e dotato di un rivestimento in|2017/12/pallone-calcio-roma-skills|data.oliviero.it/imgprodotto/pallone-calcio-roma-skills-sc2520-670_90249",
+"Pallone da Calcio Ufficiale Ordem V Serie A|Il pallone da calcio Serie A Ordem V, con scanalature Nike Aerowtrac|2017/12/pallone-da-calcio-ufficiale-ordem-v-serie-a|data.oliviero.it/imgprodotto/pallone-da-calcio-ufficiale-ordem-v-serie-a_167129",
 "Pallone Calcio UCL Finale 16 Capitano|Imponi il tuo ritmo in campo con questo robusto pallone pensato per|2017/12/pallone-calcio-ucl-finale-16-capitano|data.oliviero.it/imgprodotto/pallone-calcio-ucl-finale-16-capitano-ap0375_154552",
 "Pallone Red Wind 13 Sweet Touch|Pallone beach volley per allenamento \"Sweet Touch\" indicato per tutti|2017/12/pallone-red-wind-13-sweet-touch|data.oliviero.it/imgprodotto/pallone-red-wind-13-sweet-touch_63894",
 "Pallone Wilson|Il vincitore della categoria Migliore oggetto inanimato dei Critics|2017/12/pallone-wilson|data.oliviero.it/imgprodotto/pallone-wilson_124508",

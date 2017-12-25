@@ -1,4 +1,7 @@
 Gr = [
+"Dondolo Classic|Dondolo in acciaio Caratteristiche: Telaio in acciaio D 40 Finitura:|2017/12/dondolo-classic|data.oliviero.it/imgprodotto/dondolo-classic_157423",
+"Slittino Alpen Space|Slittino-Bob Alpen Space per adulti e bambini Telaio in plastica|2017/12/slittino-alpen-space|data.oliviero.it/imgprodotto/slittino-alpen-space_31668_big",
+"Poltrona basculante 5374|Poltrona basculante Caratteristiche tecniche: Telaio in acciaio 22 mm|2017/12/poltrona-basculante-5374|data.oliviero.it/imgprodotto/poltrona-basculante-5374_58743",
 "Lettino Mare Letmar 2|Lettino mare Blu Caratteristiche tecniche: Telaio: alluminio|2017/12/lettino-mare-letmar-2|data.oliviero.it/imgprodotto/lettino-mare-letmar-2_163203",
 "Sdraio Dondolino 152|Dondolino oscillante Caratteristiche tecniche: Telaio in acciaio|2017/12/sdraio-dondolino-152|data.oliviero.it/imgprodotto/sdraio-dondolino-152_125055",
 "Sedia Sdraio Cordobaby|Sedia sdraio Cordobaby Caratteristiche tecniche: Telaio: acciaio 20|2017/12/sedia-sdraio-cordobaby|data.oliviero.it/imgprodotto/sedia-sdraio-cordobaby_86987",

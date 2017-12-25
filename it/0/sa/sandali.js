@@ -1,4 +1,5 @@
 Gr = [
+"Sandali Donna Taupe New Rorie|Collezione Primavera Estate Sandali da donna con zeppa da 8 cm|2017/12/sandali-donna-taupe-new-rorie|data.oliviero.it/imgprodotto/sandali-donna-taupe-new-rorie-d72p3a-ch62l_162345",
 "Sandali Nymphe Nero|Versace 1969 Abbigliamento Sportivo srl Milano Italia Scarpe donna|2017/12/sandali-nymphe-nero|data.oliviero.it/imgprodotto/sandali-nymphe-nero_104216",
 "Sandalo Donna Laminato Oro|Collezione Primavera Estate Sandalo da donna Tomaia in ecopelle|2017/12/sandalo-donna-laminato-oro|data.oliviero.it/imgprodotto/sandalo-donna-laminato-oro-p717371de-434_159214",
 "Sandalo Donna Audie Bianco e Nero|Collezione Primavera Estate Sandalo da donna con tomaia in pelle|2017/12/sandalo-donna-audie-bianco-e-nero|data.oliviero.it/imgprodotto/sandalo-donna-audie-bianco-e-nero_165236",

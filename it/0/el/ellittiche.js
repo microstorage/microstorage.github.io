@@ -1,4 +1,11 @@
 Gr = [
+"Ellittica XC 120w|DKN XC-120W è un'ellitica facile da usare, ma ricca di funzioni per|2017/12/ellittica-xc-120w|data.oliviero.it/imgprodotto/ellittica-xc-120w_68606",
+"Ellittica Elite 502|Tecnologia ed eleganza si muovono di pari passo su Elite 502. Il|2017/12/ellittica-elite-502|data.oliviero.it/imgprodotto/ellittica-elite-502_172763",
+"Ellittica ERX 90 + ricevitore Polar|Sistema di frenaggio magnetico con regolazione elettronica dello|2017/12/ellittica-erx-90-+-ricevitore-polar|data.oliviero.it/imgprodotto/ellittica-erx-90-ricevitore-polar_68842",
+"Ellittica Unix Ex|UNIX EX ELLITTICA ERGOMETRO KETTLER COD.7670-760 Modello top della|2017/12/ellittica-unix-ex|data.oliviero.it/imgprodotto/ellittica-unix-ex_72661",
+"Ellittica Cross P NEW|Versione computerizzata con sistema di frenaggio magnetico|2017/12/ellittica-cross-p-new|data.oliviero.it/imgprodotto/ellittica-cross-p-new_130316",
+"Ellittica E902|La R108 è una gym bike destinata a tutti i tipi di utenza, anche|2017/12/ellittica-e902|data.oliviero.it/imgprodotto/ellittica-e902_154172",
+"Bowflex Max Trainer M3|Bowflex MAX Trainer M3 è il più modello base della gamma Bowflex per|2017/12/bowflex-max-trainer-m3|data.oliviero.it/imgprodotto/bowflex-max-trainer-m3_140002",
 "Ellittica Premium E6|L'ELLITTICA GETFIT AUTO-ALIMENTATA PER UTILIZZO COMMERCIALE (non|2017/12/ellittica-premium-e6|data.oliviero.it/imgprodotto/ellittica-premium-e6_172775",
 "Ellittica Rivo M Black Edition|RIVO M 07643-300 Fitness per tutti! Avvicinarsi al fitness è un gioco|2017/12/ellittica-rivo-m-black-edition|data.oliviero.it/imgprodotto/ellittica-rivo-m-black-edition_130308",
 "Ellittica Andes 3 New|L'ellittica Andes 3 vi offre la possibilità di fare attività fisica|2017/12/ellittica-andes-3-new|data.oliviero.it/imgprodotto/ellittica-andes-3-new_154154",

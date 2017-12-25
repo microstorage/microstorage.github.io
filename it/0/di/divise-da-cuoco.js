@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloni Cuoco Biscotto|Modello con passanti in vita chiusura con due bottoni e zip. due|2017/12/pantaloni-cuoco-biscotto|data.oliviero.it/imgprodotto/pantaloni-cuoco-biscotto-064115_151133",
 "Giacca Cuoca Lady Euro|Colore : Bianco e Blu Composizione : tessuto 100% cotone Dimensioni|2017/12/giacca-cuoca-lady-euro|data.oliviero.it/imgprodotto/giacca-cuoca-lady-euro_150870",
 "Giacca Cuoco Livorno Taglie Forti|Colore : Bianco Composizione : tessuto 100% cotone Dimensioni :|2017/12/giacca-cuoco-livorno-taglie-forti|data.oliviero.it/imgprodotto/giacca-cuoco-livorno-taglie-forti_1640_big",
 "Giacca Cuoco Donna|Colore base : Biancoo Profili : Nero Composizione : Tessuto Gabardina|2017/12/giacca-cuoco-donna|data.oliviero.it/imgprodotto/giacca-cuoco-donna_78996",

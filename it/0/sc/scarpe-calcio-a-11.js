@@ -1,4 +1,11 @@
 Gr = [
+"Scarpe Calcio Jr. Mercurial Victory V FG|Scarpe Calcio Jr. Mercurial Victory V FG - 651634 580|2017/12/scarpe-calcio-jr-mercurial-victory-v-fg|data.oliviero.it/imgprodotto/scarpe-calcio-jr-mercurial-victory-v-fg-651634-580_140140",
+"Scarpe Calcio X 16.3 FG Leather|I giocatori esplosivi riscrivono le regole. Gioca alla grande|2017/12/scarpe-calcio-x-16-3-fg-leather|data.oliviero.it/imgprodotto/scarpe-calcio-x-16-3-fg-leather-bb4195_154301",
+"Scarpe Calcio Tiempo Ligera IV FG|La scarpa da calcio per terreni duri Nike Tiempo Ligera IV, con|2017/12/scarpe-calcio-tiempo-ligera-iv-fg|data.oliviero.it/imgprodotto/scarpe-calcio-tiempo-ligera-iv-fg_167382",
+"Scarpe Calcio X 17.2 FG|Le scarpe calcio adidas X 17.2 sono state progettate per scatenare|2017/12/scarpe-calcio-x-17-2-fg|data.oliviero.it/imgprodotto/scarpe-calcio-x-17-2-fg_172182",
+"Scarpe Calcio Ace 17.3 FG J|Domina in campo. Guida ogni azione. Sfodera tiri decisivi da|2017/12/scarpe-calcio-ace-17-3-fg-j|data.oliviero.it/imgprodotto/scarpe-calcio-ace-17-3-fg-j_167427",
+"Scarpe Calcio Winner RB LT MG14|Scarpe da calcio a tacchetti fissi di Diadora, modello M. Winner RB|2017/12/scarpe-calcio-winner-rb-lt-mg14|data.oliviero.it/imgprodotto/scarpe-calcio-winner-rb-lt-mg14_167282",
+"Scarpe Calcio Mercurial Victory VI DF FG|La scarpa da calcio per terreni duri Nike Mercurial Victory VI|2017/12/scarpe-calcio-mercurial-victory-vi-df-fg|data.oliviero.it/imgprodotto/scarpe-calcio-mercurial-victory-vi-df-fg-903609-601_164293",
 "Scarpe Calcio X16.3 Firm Ground|I giocatori esplosivi riscrivono le regole. Sfreccia in campo|2017/12/scarpe-calcio-x16-3-firm-ground|data.oliviero.it/imgprodotto/scarpe-calcio-x16-3-firm-ground-s79483_151563",
 "Scarpe Calcio Jr. X 17.4 FxG J|Scarpe da calcio a tacchetti fissi da bambino / ragazzo di Adidas|2017/12/scarpe-calcio-jr-x-17-4-fxg-j|data.oliviero.it/imgprodotto/scarpe-calcio-jr-x-17-4-fxg-j_167418",
 "Scarpe Calcio Hypervenom Phelon III FG|La scarpa da calcio per terreni duri Nike Hypervenom Phelon 3 - Uomo|2017/12/scarpe-calcio-hypervenom-phelon-iii-fg|data.oliviero.it/imgprodotto/scarpe-calcio-hypervenom-phelon-iii-fg-852556-308_160764",

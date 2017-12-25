@@ -1,4 +1,7 @@
 Gr = [
+"Scarpe Techamphibian 3|l nome Techamphibian riassume bene l'anima di questa scarpa. È una|2017/12/scarpe-techamphibian-3|data.oliviero.it/imgprodotto/scarpe-techamphibian-3-356783_163278",
+"Snowboard Pulse 2016 + Attacchi Rhythm|Snowboard + attacchi UOMO Snowboard Pulse La versione della Pulse|2017/12/snowboard-pulse-2016-+-attacchi-rhythm|data.oliviero.it/imgprodotto/snowboard-pulse-2016-attacchi-rhythm_156328",
+"Scarponi Snow Titan|FUORI DAL MONDO Con scarpetta Bronze Series, suola Flightweight|2017/12/scarponi-snow-titan|data.oliviero.it/imgprodotto/scarponi-snow-titan_94280",
 "Scarponi Snowboard Launch Boa SJ|Quando lo street style incontra la tecnologia: gli scarponi da|2017/12/scarponi-snowboard-launch-boa-sj|data.oliviero.it/imgprodotto/scarponi-snowboard-launch-boa-sj_157954",
 "Lotus + Attacchi Spell Bianco|Snowboard + Attacchi Donna Snowboard Lotus Tempo di fioriture La|2017/12/lotus-+-attacchi-spell-bianco|data.oliviero.it/imgprodotto/lotus-attacchi-spell-bianco_94277",
 "Scarpe Trekking Ellipse 2 Aero W|Scarpe Trekking Ellipse 2 Aero W - 379206 Leggera e molto|2017/12/scarpe-trekking-ellipse-2-aero-w|data.oliviero.it/imgprodotto/scarpe-trekking-ellipse-2-aero-w-379206_145338",

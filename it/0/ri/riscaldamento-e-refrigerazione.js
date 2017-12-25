@@ -1,4 +1,11 @@
 Gr = [
+"Termoforo Cervicale e Spalle|Il calore intelligente per il tuo benessere quotidiano - modello|2017/12/termoforo-cervicale-e-spalle|data.oliviero.it/imgprodotto/termoforo-cervicale-e-spalle_172053",
+"Forno Microonde Meccanico 25 litri c Grill|Forno Microonde Meccanico 25 litri c/Grill Codice: 90.379|2017/12/forno-microonde-meccanico-25-litri-c-grill|data.oliviero.it/imgprodotto/forno-microonde-meccanico-25-litri-c-grill-90-379_88996",
+"Carrello Top per Barbecue|Carrello TOP per appoggio BBQ CITY, PIASTRA SHARK 50 e SHARK 80|2017/12/carrello-top-per-barbecue|data.oliviero.it/imgprodotto/carrello-top-per-barbecue_86387",
+"Piastra pizza in terracotta refrattaria 345x345 mm|Piastra pizza \"DIAMOND\" in terracotta refrattaria 345x345 mm Il|2017/12/piastra-pizza-in-terracotta-refrattaria-345x345-mm|data.oliviero.it/imgprodotto/piastra-pizza-in-terracotta-refrattaria-345x345-mm_86454",
+"Griglia a Incasso Interno Pietra Lavica|MODELLO 2100: la griglia a pietra lavica da incasso La griglia|2017/12/griglia-a-incasso-interno-pietra-lavica|data.oliviero.it/imgprodotto/griglia-a-incasso-interno-pietra-lavica_163416",
+"Barbecue Siviglia Black 3 fuochi con laterali|Linea Ecologic Grill Max 3 potenti bruciatori in ghisa Accensione|2017/12/barbecue-siviglia-black-3-fuochi-con-laterali|data.oliviero.it/imgprodotto/barbecue-siviglia-black-3-fuochi-con-laterali_157339",
+"Macchina per Muffin CupCake|Macchina per CupCake Codice: 90.498 Descrizione : Piastra|2017/12/macchina-per-muffin-cupcake|data.oliviero.it/imgprodotto/macchina-per-muffin-cupcake-90-498_89031",
 "Barbecue Pupo 47|Barbecue a carbone, area di cottura diam 47cm, Griglia di cottura in|2017/12/barbecue-pupo-47|data.oliviero.it/imgprodotto/barbecue-pupo-47_110020",
 "Termometro da cottura|Termometro da cottura in acciaio inossidabile per misurare la|2017/12/termometro-da-cottura|data.oliviero.it/imgprodotto/termometro-da-cottura_74030",
 "Piastra Teppanyaki 70 cm|Piastra Teppanyaki 70 cm Codice: 90.386 Descrizione : Piastra|2017/12/piastra-teppanyaki-70-cm|data.oliviero.it/imgprodotto/piastra-teppanyaki-70-cm-90-386_90334",

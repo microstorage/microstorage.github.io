@@ -1,4 +1,8 @@
 Gr = [
+"Camicia Jeans Dark Black|Collezione Autunno Inverno/2018 Modello slim fit Tessuto e look denim|2017/12/camicia-jeans-dark-black|data.oliviero.it/imgprodotto/camicia-jeans-dark-black_169143",
+"Giubbino Uomo Asphalt|Collezione Autunno Inverno/2018 Piumino con cappuccio di tendenza|2017/12/giubbino-uomo-asphalt|data.oliviero.it/imgprodotto/giubbino-uomo-asphalt_169208",
+"Pantaloni Slim Fit Uomo Dark Grey|Collezione Autunno Inverno/2018 Pantaloni navy con patta con bottoni|2017/12/pantaloni-slim-fit-uomo-dark-grey|data.oliviero.it/imgprodotto/pantaloni-slim-fit-uomo-dark-grey_169186",
+"Cappello Giallo|Collezione Autunno Inverno/2018 Beanie basic Lavorazione a maglia|2017/12/cappello-giallo|data.oliviero.it/imgprodotto/cappello-giallo_169213",
 "Giubbino Uomo Nero|Collezione Autunno inverno/2018 Parka regular fit Cappuccio con|2017/12/giubbino-uomo-nero|data.oliviero.it/imgprodotto/giubbino-uomo-nero_169206",
 "Camicia Jeans Dark Blue Denim|Collezione Autunno Inverno/2018 Modello slim fit Tessuto e look denim|2017/12/camicia-jeans-dark-blue-denim|data.oliviero.it/imgprodotto/camicia-jeans-dark-blue-denim_169138",
 "Pantaloni Uomo Camel|Collezione Autunno Inverno/2018 Chino con elasticità aggiunta Patta|2017/12/pantaloni-uomo-camel|data.oliviero.it/imgprodotto/pantaloni-uomo-camel_169188",

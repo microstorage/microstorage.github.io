@@ -1,4 +1,5 @@
 Gr = [
+"Passeggino Cubo Beige|Il Passeggino Cam Cubo è l'ideale per i genitori che sono spesso in|2017/12/passeggino-cubo-beige|data.oliviero.it/imgprodotto/passeggino-cubo-beige-830-114_155962",
 "Passeggino Fly Ciano|Fly è il passeggino perfetto per i viaggi in famiglia grazie alle sue|2017/12/passeggino-fly-ciano|data.oliviero.it/imgprodotto/passeggino-fly-ciano_151392",
 "Passeggino Tre.9 Blu cobalto|La formula perfetta per il tempo libero ! È il passeggino di nuova|2017/12/passeggino-tre-9-blu-cobalto|data.oliviero.it/imgprodotto/passeggino-tre-9-blu-cobalto_165506",
 "Passeggino Curvi 121|Leggero (solo 5,9 kg) e compatto (solo 85 cm h), con telaio in|2017/12/passeggino-curvi-121|data.oliviero.it/imgprodotto/passeggino-curvi-121_159138",

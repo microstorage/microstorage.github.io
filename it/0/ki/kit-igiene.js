@@ -1,4 +1,7 @@
 Gr = [
+"Set Baby Smile|Il set sempre sorridenti insegna al tuo bambino a prendersi cura dei|2017/12/set-baby-smile|data.oliviero.it/imgprodotto/set-baby-smile-verde_89868",
+"Pettinella per crosta lattea|Grazie ai suoi denti fini a punta arrotondata la pettinella crosta|2017/12/pettinella-per-crosta-lattea|data.oliviero.it/imgprodotto/pettinella-per-crosta-lattea_139132",
+"Mini kit medicazione ombelicale|Il mini kit permette di fissare e di rimuovere la medicazione con|2017/12/mini-kit-medicazione-ombelicale|data.oliviero.it/imgprodotto/mini-kit-medicazione-ombelicale_138295",
 "Set Baby Smile Rosa|Il set sempre sorridenti insegna al tuo bambino a prendersi cura dei|2017/12/set-baby-smile-rosa|data.oliviero.it/imgprodotto/set-baby-smile-rosa_17470_big",
 "Ammorbidente cuore di Talco|Dona freschezza e morbidezza a tutti i capi del bambino senza|2017/12/ammorbidente-cuore-di-talco|data.oliviero.it/imgprodotto/ammorbidente-cuore-di-talco-00067294000000_155679",
 "Baby Kit Nails|Kit forbicine tagliaunghie e lime in cartoncino per la cura delle|2017/12/baby-kit-nails|data.oliviero.it/imgprodotto/baby-kit-nails_136269",

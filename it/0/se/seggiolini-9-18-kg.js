@@ -1,4 +1,5 @@
 Gr = [
+"Seggiolino king II purple|King Plus è equipaggiato con il sistema esclusivo tendicinghia della|2017/12/seggiolino-king-ii-purple|data.oliviero.it/imgprodotto/seggiolino-king-ii-purple_156890",
 "Seggiolino Auto Duo Plus|Con il seggiolino per auto DUO plus Isofix di Romer assicurerai al|2017/12/seggiolino-auto-duo-plus|data.oliviero.it/imgprodotto/seggiolino-auto-duo-plus_64958",
 "Viaggiosicuro isofix 520|Seggiolino Auto dotato di un sistema di controllo visivo, anteriore|2017/12/viaggiosicuro-isofix-520|data.oliviero.it/imgprodotto/viaggiosicuro-isofix-520_139437",
 "Iseos Isofix black|Iséos IsoFix, la garanzia di un sistema di fissaggio universale per|2017/12/iseos-isofix-black|data.oliviero.it/imgprodotto/iseos-isofix-black_108745",

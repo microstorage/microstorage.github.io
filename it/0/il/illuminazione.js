@@ -1,4 +1,10 @@
 Gr = [
+"Tubo luminoso bianco 8m Duralight|Tubo 3 fili rincorrente bianco per uso interno ed esterno Lunghezza|2017/12/tubo-luminoso-bianco-8m-duralight|data.oliviero.it/imgprodotto/tubo-luminoso-bianco-8m-duralight_156402",
+"Torcia Flash Light Spider Man|La torcia tascabile Philips and Marvel Spider-Man illumina le|2017/12/torcia-flash-light-spider-man|data.oliviero.it/imgprodotto/torcia-flash-light-spider-man_107585",
+"Lampada da Tavolo Winnie the Pooh|Questa lampada da comodino Philips e Disney Winnie The Pooh ha come|2017/12/lampada-da-tavolo-winnie-the-pooh|data.oliviero.it/imgprodotto/lampada-da-tavolo-winnie-the-pooh_107557",
+"Abat Jour Caprice Royal|Linea dal gusto romantico e antico. Soddisfa un vero e proprio|2017/12/abat-jour-caprice-royal|data.oliviero.it/imgprodotto/abat-jour-caprice-royal_5646_big",
+"Torcia Flash Light Winnie the Pooh|La torcia tascabile Philips and Disney Winnie illumina le avventure|2017/12/torcia-flash-light-winnie-the-pooh|data.oliviero.it/imgprodotto/torcia-flash-light-winnie-the-pooh_107587",
+"Lampadario Decor|Lampadario Decor Paralumi Realizzati In Vetro Trasparente Supporto|2017/12/lampadario-decor|data.oliviero.it/imgprodotto/lampadario-decor_170051",
 "Lampada da Tavolo Minnie Mouse|La lampada da comodino Philips e Disney Minnie raffigura la topolina|2017/12/lampada-da-tavolo-minnie-mouse|data.oliviero.it/imgprodotto/lampada-da-tavolo-minnie-mouse_107563",
 "Lampadario Kiri|Lampadario \"\"KIRI\"\" - Paralume realizzato in tessuto Nero esterno|2017/12/lampadario-kiri|data.oliviero.it/imgprodotto/lampadario-kiri_137817",
 "Lampada Led da Parete o Soffitto Minnie Mouse|Questa lampada rotonda Philips e Disney si accende con un'immagine|2017/12/lampada-led-da-parete-o-soffitto-minnie-mouse|data.oliviero.it/imgprodotto/lampada-led-da-parete-o-soffitto-minnie-mouse_107528",

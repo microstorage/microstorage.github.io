@@ -1,4 +1,11 @@
 Gr = [
+"Coperchio 16 cm Vetro Ingenio|Ingenio è la nuova linea antiaderente ad effetto marmorizzato firmata|2017/12/coperchio-16-cm-vetro-ingenio|data.oliviero.it/imgprodotto/coperchio-16-cm-vetro-ingenio_155889",
+"Coperchio in silicone Ingenio|Ingenio è la nuova linea antiaderente ad effetto marmorizzato firmata|2017/12/coperchio-in-silicone-ingenio|data.oliviero.it/imgprodotto/coperchio-in-silicone-ingenio_155890",
+"Coperchio 20 cm Vetro Ingenio|Ingenio è la nuova linea antiaderente ad effetto marmorizzato firmata|2017/12/coperchio-20-cm-vetro-ingenio|data.oliviero.it/imgprodotto/coperchio-20-cm-vetro-ingenio_155891",
+"Set insalata: Insalatiera ø25 e Posate Sabbia|MADE IN ITALY - DESIGN BY ANGELETTI RUZZA Insalatiera diametro 25 cm|2017/12/set-insalata-insalatiera-ø25-e-posate-sabbia|data.oliviero.it/imgprodotto/set-insalata-insalatiera-%C3%B825-e-posate-sabbia_99942",
+"Padella Silver 20 cm|Caratteristiche: Cottura senza grassi, grande resistenza, facile da|2017/12/padella-silver-20-cm|data.oliviero.it/imgprodotto/padella-silver-20-cm_156391",
+"Bistecchiera 26x26cm|Lavinia è la nuova linea antiaderente di Lagostina. Il suo|2017/12/bistecchiera-26x26cm|data.oliviero.it/imgprodotto/bistecchiera-26x26cm_155810",
+"Coperchio 22 cm Vetro Ingenio|Ingenio è la nuova linea antiaderente ad effetto marmorizzato firmata|2017/12/coperchio-22-cm-vetro-ingenio|data.oliviero.it/imgprodotto/coperchio-22-cm-vetro-ingenio_155892",
 "Adattatore per piano cottura a induzione|Se hai una nuova cucina con piano cottura ad induzione, niente paura|2017/12/adattatore-per-piano-cottura-a-induzione|data.oliviero.it/imgprodotto/adattatore-per-piano-cottura-a-induzione_156450",
 "Tegame 32 cm Granito Antiaderente 2 Manici|Tegame Risoli antiaderente in granito, manici integrati, senza|2017/12/tegame-32-cm-granito-antiaderente-2-manici|data.oliviero.it/imgprodotto/tegame-32-cm-granito-antiaderente-2-manici_156012",
 "Casseruola 2 Maniglie + Coperchio in Vetro 24cm|Ideale per cucinare con pochi grassi, per scottare i cibi e per|2017/12/casseruola-2-maniglie-+-coperchio-in-vetro-24cm|data.oliviero.it/imgprodotto/casseruola-2-maniglie-coperchio-in-vetro-24cm_155954",

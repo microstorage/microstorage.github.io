@@ -1,4 +1,9 @@
 Gr = [
+"Tavolino richiudibile OM-076-T|Tavolino richiudibile base in acciaio top asportabile in MDF laccato|2017/12/tavolino-richiudibile-om-076-t|data.oliviero.it/imgprodotto/tavolino-richiudibile-om-076-t_94181",
+"Caminetto da pavimento FP 003|Caminetti da pavimento FP/003 Caminetto a bioetanolo da pavimento, in|2017/12/caminetto-da-pavimento-fp-003|data.oliviero.it/imgprodotto/caminetto-da-pavimento-fp-003_94261",
+"Caminetto da tavolo FP 002|Caminetti da tavolo FP/002 Caminetto a bioetanolo da tavolo con base|2017/12/caminetto-da-tavolo-fp-002|data.oliviero.it/imgprodotto/caminetto-da-tavolo-fp-002_94246",
+"Caminetto da tavolo FP 001|Caminetti da tavolo FP/001 Caminetto a bioetanolo da tavolo in|2017/12/caminetto-da-tavolo-fp-001|data.oliviero.it/imgprodotto/caminetto-da-tavolo-fp-001_94245",
+"Tavolo Madia Cloud|Madia con cassetto dotato di apertura a pressione, così non servono|2017/12/tavolo-madia-cloud|data.oliviero.it/imgprodotto/tavolo-madia-cloud-om-234-no_158274",
 "Caminetto da muro o appoggio FP 011|Caminetti da muro/appoggio FP/011 Caminetto a bioetanolo, da muro|2017/12/caminetto-da-muro-o-appoggio-fp-011|data.oliviero.it/imgprodotto/caminetto-da-muro-o-appoggio-fp-011_94254",
 "Caminetto da muro FP 022|Caminetti da muro FP/022 Caminetto a bioetanolo, struttura in MDF|2017/12/caminetto-da-muro-fp-022|data.oliviero.it/imgprodotto/caminetto-da-muro-fp-022_136004",
 "Caminetto da muro FP 013|Caminetti da muro FP/013 Caminetto a bioetanolo da muro in metallo|2017/12/caminetto-da-muro-fp-013|data.oliviero.it/imgprodotto/caminetto-da-muro-fp-013_94251",

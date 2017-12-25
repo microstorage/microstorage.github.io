@@ -1,4 +1,12 @@
 Gr = [
+"Calcio balilla Summer Outdoor Azzurro|Calciobalilla Summer da esterno destinato ad uso esterno grazie|2017/12/calcio-balilla-summer-outdoor-azzurro|data.oliviero.it/imgprodotto/calcio-balilla-summer-outdoor-azzurro_163214",
+"Calcio balilla Adrenaline|MOBILE MULTISTRATO DI PIOPPO CON DUE LAMINE ESTERNE IN MDF PER UNA|2017/12/calcio-balilla-adrenaline|data.oliviero.it/imgprodotto/calcio-balilla-adrenaline_147234",
+"Calcio balilla College Azzurro|Calcio balilla College Azzurro Caratteristiche tecniche: Peso: 55 kg|2017/12/calcio-balilla-college-azzurro|data.oliviero.it/imgprodotto/calcio-balilla-college-azzurro_88198",
+"Calcio Balilla New Camp Super Azzurro e Rosso|Calcio Baliila con Gettoniera MOBILE MULTISTRATO DI PIOPPO RIVESTITO|2017/12/calcio-balilla-new-camp-super-azzurro-e-rosso|data.oliviero.it/imgprodotto/calcio-balilla-new-camp-super-azzurro-e-rosso_147245",
+"Calcio Balilla International Champion Blu|Calcio Balilla con gettoniera da interno MOBILE MULTISTRATO DI PIOPPO|2017/12/calcio-balilla-international-champion-blu|data.oliviero.it/imgprodotto/calcio-balilla-international-champion-blu_147250",
+"Calcio balilla College Rosso|Calcio balilla College Rosso Caratteristiche tecniche: Peso: 55 kg|2017/12/calcio-balilla-college-rosso|data.oliviero.it/imgprodotto/calcio-balilla-college-rosso_72677",
+"Calcio balilla Pro-Winner Blu|MOBILE MULTISRATO DI PIOPPO CON DUE LAMINE ESTERNE DI MDF PER UNA|2017/12/calcio-balilla-pro-winner-blu|data.oliviero.it/imgprodotto/calcio-balilla-pro-winner-blu_147232",
+"Calcio balilla Export Led Blu|Calcio Balilla coperto con vetro, Indoor con gettoniera MOBILE|2017/12/calcio-balilla-export-led-blu|data.oliviero.it/imgprodotto/calcio-balilla-export-led-blu_147257",
 "Calcio balilla Tam Tam|Calcio balilla Tam Tam Mobile in multistrato di pioppo rivestito in|2017/12/calcio-balilla-tam-tam|data.oliviero.it/imgprodotto/calcio-balilla-tam-tam_136323",
 "Calcio balilla Export Nero|Calcio Balilla coperto con vetro, Indoor con gettoniera MOBILE|2017/12/calcio-balilla-export-nero|data.oliviero.it/imgprodotto/calcio-balilla-export-nero_147253",
 "Calcio balilla College Pro Blu|Calcio balilla College Blu Caratteristiche tecniche: Peso: 55 kg|2017/12/calcio-balilla-college-pro-blu|data.oliviero.it/imgprodotto/calcio-balilla-college-pro-blu_85100",

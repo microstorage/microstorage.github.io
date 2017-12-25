@@ -1,4 +1,5 @@
 Gr = [
+"Vr Black Forget S 56 14|Mazza golf con testa forgiata in acciaio morbido che conferisce con|2017/12/vr-black-forget-s-56-14|data.oliviero.it/imgprodotto/vr-black-forget-s-56-14_4688_big",
 "Scarpe Golf W innolux|Scarpa da donna realizzata per il Golf di foggia sportiva. La tomaia|2017/12/scarpe-golf-w-innolux|data.oliviero.it/imgprodotto/scarpe-golf-w-innolux_1843_big",
 "Scarpe Golf G-SOK Lady|Scarpa da donna realizzata per il Golf di foggia molto classica ed|2017/12/scarpe-golf-g-sok-lady|data.oliviero.it/imgprodotto/scarpe-golf-g-sok-lady_1842_big",
 "Scarpe Golf Leisure series|Scarpa da donna realizzata per il Golf di foggia molto classica ed|2017/12/scarpe-golf-leisure-series|data.oliviero.it/imgprodotto/scarpe-golf-leisure-series_862_big",

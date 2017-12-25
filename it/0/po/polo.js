@@ -1,4 +1,8 @@
 Gr = [
+"Polo uomo rossa classic navy manica corta|La polo a tre bottoni che Agostini ha voluto a tutti i costi, rossa|2017/12/polo-uomo-rossa-classic-navy-manica-corta|data.oliviero.it/imgprodotto/polo-uomo-rossa-classic-navy-manica-corta_93411",
+"Polo Uomo Taglie Forti Menta|Collezione Primavera Estate Polo uomo taglie forti. Il modello|2017/12/polo-uomo-taglie-forti-menta|data.oliviero.it/imgprodotto/polo-uomo-taglie-forti-menta_165180",
+"Polo Taglie Forti Uomo Blu|Collezione Autunno Inverno/2018 Polo da uomo taglie forti. Il modello|2017/12/polo-taglie-forti-uomo-blu|data.oliviero.it/imgprodotto/polo-taglie-forti-uomo-blu-10001-298_154969",
+"Polo Uomo Pino|Collezione Primavera Estate Polo da uomo con mezze maniche. Il|2017/12/polo-uomo-pino|data.oliviero.it/imgprodotto/polo-uomo-pino-nv82002-041_164617",
 "Polo Uomo Verde|Collezione Autunno Inverno/2018 Indossa questa classica polo|2017/12/polo-uomo-verde|data.oliviero.it/imgprodotto/polo-uomo-verde_171049",
 "Polo Uomo Blu Melange|Collezione Autunno Inverno/2018 Polo a maniche lunghe da uomo di|2017/12/polo-uomo-blu-melange|data.oliviero.it/imgprodotto/polo-uomo-blu-melange_169770",
 "Polo Uomo Bianco|Collezione Primavera Estate Polo da uomo con mezze maniche. Il|2017/12/polo-uomo-bianco|data.oliviero.it/imgprodotto/polo-uomo-bianco-nv82023-005_164624",

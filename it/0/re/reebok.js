@@ -1,4 +1,6 @@
 Gr = [
+"Scarpe Yourflex Trainette 9.0 MT (W)|Mentre ti alleni, hai bisogno di leggerezza e massima libertà di|2017/12/scarpe-yourflex-trainette-9-0-mt-w|data.oliviero.it/imgprodotto/scarpe-yourflex-trainette-9-0-mt-w-_165673",
+"Scarpe Classic Leather uomo|Utilizzo: Calzatura Moda Sport Tomaia: Pelle Battistrada: Gomma|2017/12/scarpe-classic-leather-uomo|data.oliviero.it/imgprodotto/scarpe-classic-leather-uomo_74227",
 "Scarpe Classic Leather mens|Utilizzo: Calzatura Moda Sport Tomaia: Pelle Battistrada: Gomma|2017/12/scarpe-classic-leather-mens|data.oliviero.it/imgprodotto/scarpe-classic-leather-mens_74222",
 "Scarpe CL Leather SG|Lo stile Classic la fa da padrone quest'anno: il nostro Seasonal Gum|2017/12/scarpe-cl-leather-sg|data.oliviero.it/imgprodotto/scarpe-cl-leather-sg_168692",
 "Scarpe Classic Leather|Non sarai mai a corto di stile. La tomaia in morbida pelle offre il|2017/12/scarpe-classic-leather|data.oliviero.it/imgprodotto/scarpe-classic-leather-28413_159833",

@@ -1,4 +1,8 @@
 Gr = [
+"Rock & Ball Gioco Interattivo|Caratteristiche: Facile da afferrare, da farrotolare o da|2017/12/rock-ball-gioco-interattivo|data.oliviero.it/imgprodotto/rock-%26-ball-gioco-interattivo_157125",
+"Trunky Gerry Giraffe|FARE I BAGAGLI. CAVALCARE. FARSI TRAINARE! Ecco tutto quello che si|2017/12/trunky-gerry-giraffe|data.oliviero.it/imgprodotto/trunky-gerry-giraffe_163480",
+"Fiat 500 con radiocomando intuitivo|Linee e grinta di Fiat 500. Sterzando il volante il veicolo cambia|2017/12/fiat-500-con-radiocomando-intuitivo|data.oliviero.it/imgprodotto/fiat-500-con-radiocomando-intuitivo_151042",
+"Playset Giddy Up Gal con Sonaglio|Caratteristiche: Playset Giddy Up Gal con personaggi simpatici|2017/12/playset-giddy-up-gal-con-sonaglio|data.oliviero.it/imgprodotto/playset-giddy-up-gal-con-sonaglio_157075",
 "Cottage degli Animali|Cottage degli Animali Chicco è il gioco ideale per stimolare|2017/12/cottage-degli-animali|data.oliviero.it/imgprodotto/cottage-degli-animali-00064273000000_8785_big",
 "Il Mio Primo Cucciolo|Con 2 accessori per giocare: una spazzola e un biscottino.Accarezzalo|2017/12/il-mio-primo-cucciolo|data.oliviero.it/imgprodotto/il-mio-primo-cucciolo_138779",
 "Georello Junior|2+ Con Georello Junior sarà divertentissimo mettere in movimento|2017/12/georello-junior|data.oliviero.it/imgprodotto/georello-junior_156253",

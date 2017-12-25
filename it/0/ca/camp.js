@@ -1,4 +1,5 @@
 Gr = [
+"Bastoncino Telescopico da Trekking Blackcountry Carbon|Bastoncino telescopico per il trekking, con 3 segmenti graduati|2017/12/bastoncino-telescopico-da-trekking-blackcountry-carbon|data.oliviero.it/imgprodotto/bastoncino-telescopico-da-trekking-blackcountry-carbon-1913_157358",
 "Zaino Trekking 30L M3|Sistema Back Door Schienale ventilato con fasce imbottite in rete|2017/12/zaino-trekking-30l-m3|data.oliviero.it/imgprodotto/zaino-trekking-30l-m3-0274_164192",
 "Zaino Phantom 2.0|Leggero e compatto, può essere piegato ed infilato nella piccola|2017/12/zaino-phantom-2-0|data.oliviero.it/imgprodotto/zaino-phantom-2-0-0233_164201",
 "Sacco a Pelo Tuareg|Saccoletto con imbottitura sintetica. Grazie alla sua struttura|2017/12/sacco-a-pelo-tuareg|data.oliviero.it/imgprodotto/sacco-a-pelo-tuareg-0830s_157352",

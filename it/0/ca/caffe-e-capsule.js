@@ -1,4 +1,10 @@
 Gr = [
+"Pressofiltro 1 L|Preziosa, pressofiltro in alluminio da 1 litro. Un'infusione calda|2017/12/pressofiltro-1-l|data.oliviero.it/imgprodotto/pressofiltro-1-l_156345",
+"Caffettiera 2 tazze linea Montecarlo|Con la caffettiera Montecarlo, il classico diventa modernità!|2017/12/caffettiera-2-tazze-linea-montecarlo|data.oliviero.it/imgprodotto/caffettiera-2-tazze-linea-montecarlo_155199",
+"Moka Colour 3 tz Bianco|Moka White nasce dall'esigenza di affiancare stile e fascino moderni|2017/12/moka-colour-3-tz-bianco|data.oliviero.it/imgprodotto/moka-colour-3-tz-bianco_154715",
+"Cappuccinatore 1 Lt|Il Cappuccinatore di Bialetti è il modo semplice e pratico per|2017/12/cappuccinatore-1-lt|data.oliviero.it/imgprodotto/cappuccinatore-1-lt_154702",
+"Moka Colour 3 tz Nero Lucido|Moka Black nasce dall'esigenza di affiancare stile e fascino moderni|2017/12/moka-colour-3-tz-nero-lucido|data.oliviero.it/imgprodotto/moka-colour-3-tz-nero-lucido_154710",
+"Set 6 tazzine con piattini Grace rosso|Il set 6 tazzine caffé con piattini sono caratterizzate da un corpo|2017/12/set-6-tazzine-con-piattini-grace-rosso|data.oliviero.it/imgprodotto/set-6-tazzine-con-piattini-grace-rosso_155784",
 "Macina Caffe Handy|Il caffè in grani ha un fascino particolare e conserva intatto il suo|2017/12/macina-caffe-handy|data.oliviero.it/imgprodotto/macina-caffe-handy_155832",
 "Tazza Giacomo Agostini|Una tazza per iniziare ogni giornata insieme al quindici volte|2017/12/tazza-giacomo-agostini|data.oliviero.it/imgprodotto/tazza-giacomo-agostini_93391",
 "Macchina Caffè Americano|Macchina Caffè Americano Codice: 90.391 Descrizione : Corpo in|2017/12/macchina-caffe-americano|data.oliviero.it/imgprodotto/macchina-caff%C3%A8-americano-90-391_88985",

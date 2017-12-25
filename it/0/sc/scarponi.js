@@ -1,4 +1,8 @@
 Gr = [
+"Scarponi Sci Fire Arrow F4 W|Scarpone Sci/2012 Tecnologia Chiave: - Tenuta del collo del piede|2017/12/scarponi-sci-fire-arrow-f4-w|data.oliviero.it/imgprodotto/scarponi-sci-fire-arrow-f4-w_15093_big",
+"Scarponi Snow Titan|FUORI DAL MONDO Con scarpetta Bronze Series, suola Flightweight|2017/12/scarponi-snow-titan|data.oliviero.it/imgprodotto/scarponi-snow-titan_94280",
+"Scarponi Sci Hawx Ultra 120|Lo scarpone sci Atomic Hawx Ultra 120 è la nuova proposta della casa|2017/12/scarponi-sci-hawx-ultra-120|data.oliviero.it/imgprodotto/scarponi-sci-hawx-ultra-120_156442",
+"Scarponi Sci Hawx Magna 100|L' Hawx Magna 100 è uno degli scarponi custom della nostra nuova|2017/12/scarponi-sci-hawx-magna-100|data.oliviero.it/imgprodotto/scarponi-sci-hawx-magna-100_155859",
 "Scarponi Snowboard Launch Boa SJ|Quando lo street style incontra la tecnologia: gli scarponi da|2017/12/scarponi-snowboard-launch-boa-sj|data.oliviero.it/imgprodotto/scarponi-snowboard-launch-boa-sj_157954",
 "Scarponi Sci Next Edge XP|Scarponi sci Head Next Edge XP leggero, confortevole, caldo, di|2017/12/scarponi-sci-next-edge-xp|data.oliviero.it/imgprodotto/scarponi-sci-next-edge-xp_171320",
 "Scarponi Sci NXT N4|Il nuovo NXT N4 di Nordica è facile da calzare, completamente|2017/12/scarponi-sci-nxt-n4|data.oliviero.it/imgprodotto/scarponi-sci-nxt-n4-05032600_92512",

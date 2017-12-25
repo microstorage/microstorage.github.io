@@ -1,4 +1,11 @@
 Gr = [
+"Maschera Sci Amiata Matt Black|Amiata è una maschera accessibile con ottime proprietà: tripla spugna|2017/12/maschera-sci-amiata-matt-black|data.oliviero.it/imgprodotto/maschera-sci-amiata-matt-black_171739",
+"Maschera Sci Nyira Free Fighter|Con l'aggiunta di piccole chele laterali al frame in poliuretano|2017/12/maschera-sci-nyira-free-fighter|data.oliviero.it/imgprodotto/maschera-sci-nyira-free-fighter_171743",
+"Casco Sci Snowy|Un tunnel che scorre dai fori frontali alle prese sul retro|2017/12/casco-sci-snowy|data.oliviero.it/imgprodotto/casco-sci-snowy-sh0004-a026_138663",
+"Casco Sci Canyon Orange Camo|Il nostro casco più leggero. Il meglio della tecnologia in moulding|2017/12/casco-sci-canyon-orange-camo|data.oliviero.it/imgprodotto/casco-sci-canyon-orange-camo_171737",
+"Guanti Ciclismo Nero e Bianco|Collezione Primavera Estate Guanto CICLOTURISMO/RACE in Lycra® sport|2017/12/guanti-ciclismo-nero-e-bianco|data.oliviero.it/imgprodotto/guanti-ciclismo-nero-e-bianco_165387",
+"Casco Sci Canyon Matt Black|Il nostro casco più leggero. Il meglio della tecnologia in moulding|2017/12/casco-sci-canyon-matt-black|data.oliviero.it/imgprodotto/casco-sci-canyon-matt-black_171738",
+"Maschera Sci Amiata Matt Pink Light Blue|Amiata è una maschera accessibile con ottime proprietà: tripla spugna|2017/12/maschera-sci-amiata-matt-pink-light-blue|data.oliviero.it/imgprodotto/maschera-sci-amiata-matt-pink-light-blue_171741",
 "Guanti Ciclismo Bianco e Nero|Guanto RACE aerodinamico con imbottitura in GEL antishock, silicone|2017/12/guanti-ciclismo-bianco-e-nero|data.oliviero.it/imgprodotto/guanti-ciclismo-bianco-e-nero_165386",
 "Casco Ciclismo Fiamma Nero|Leggerissimo e dalla calzata avvolgente, il casco Fiamma garantisce|2017/12/casco-ciclismo-fiamma-nero|data.oliviero.it/imgprodotto/casco-ciclismo-fiamma-nero_165360",
 "Pantaloni Ciclismo Donna Nero|Collezione Primavera Estate Pantalone ¾ CICLOTURISMO ergonomico|2017/12/pantaloni-ciclismo-donna-nero|data.oliviero.it/imgprodotto/pantaloni-ciclismo-donna-nero_165332",

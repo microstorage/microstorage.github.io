@@ -1,4 +1,7 @@
 Gr = [
+"Ellittica ERX 90 + ricevitore Polar|Sistema di frenaggio magnetico con regolazione elettronica dello|2017/12/ellittica-erx-90-+-ricevitore-polar|data.oliviero.it/imgprodotto/ellittica-erx-90-ricevitore-polar_68842",
+"Tapis Roulant TRX Active Compact|TRX ACTIVE COMPACT Garanzia a vita sul telaio. Pre-assemblato pronto|2017/12/tapis-roulant-trx-active-compact|data.oliviero.it/imgprodotto/tapis-roulant-trx-active-compact_159623",
+"Tapis Roulant TRX Endurance|TRX ENDURANCE MOTORE AC. FASCIA CARDIO TOORX inclusa. Garanzia a vita|2017/12/tapis-roulant-trx-endurance|data.oliviero.it/imgprodotto/tapis-roulant-trx-endurance_159521",
 "Recumbent ChronoLine BRX R300|La nuovissima cyclette Toorx BRX R 300 fa parte della nuova linea|2017/12/recumbent-chronoline-brx-r300|data.oliviero.it/imgprodotto/recumbent-chronoline-brx-r300_153878",
 "Tapis Roulant TRX Marathon|Il tappeto TRX Marathon ha un motore da 4 cavalli con un picco di|2017/12/tapis-roulant-trx-marathon|data.oliviero.it/imgprodotto/tapis-roulant-trx-marathon_149166",
 "Tapis Roulant TRX 40 S EVO|Tapis Roulant pre-assemblato, 2 ruote di trasporto. AIR CUSHIONS|2017/12/tapis-roulant-trx-40-s-evo|data.oliviero.it/imgprodotto/tapis-roulant-trx-40-s-evo_159597",

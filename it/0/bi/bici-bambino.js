@@ -1,4 +1,7 @@
 Gr = [
+"Bicicletta Ben Ten 14\"|Una bellissima bicicletta di BEN10 , il regalo perfetto da fare ad|2017/12/bicicletta-ben-ten-14|data.oliviero.it/imgprodotto/bicicletta-ben-ten-14_56394",
+"Bicicletta Flappy 14\"|Caratteristiche tecniche - Freno anteriore e posteriore - Ruote in|2017/12/bicicletta-flappy-14|data.oliviero.it/imgprodotto/bicicletta-flappy-14_165559",
+"Bicicletta Spiderman 14\"|Caratteristiche tecniche - Freno anteriore e posteriore - Ruote in|2017/12/bicicletta-spiderman-14|data.oliviero.it/imgprodotto/bicicletta-spiderman-14_165553",
 "Bicicletta Little Heart 12\"|Caratteristiche tecniche: - Freno anteriore - Ruote in composito|2017/12/bicicletta-little-heart-12|data.oliviero.it/imgprodotto/bicicletta-little-heart-12_165541",
 "Bicicletta PJ Mask 16\"|Caratteristiche tecniche - Freno anteriore e posteriore - Ruote in|2017/12/bicicletta-pj-mask-16|data.oliviero.it/imgprodotto/bicicletta-pj-mask-16_169218",
 "Bicicletta Hornet 20\"|Caratteristiche Tecniche: Telaio: Acciaio Serie sterzo: Acciaio Leva|2017/12/bicicletta-hornet-20|data.oliviero.it/imgprodotto/bicicletta-hornet-20_87490",

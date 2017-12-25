@@ -1,4 +1,8 @@
 Gr = [
+"Lenzuola Piane Pantone Vibrant Yellow|Lenzuolo da sopra in puro cotone tinta unita, coordinabile con tutti|2017/12/lenzuola-piane-pantone-vibrant-yellow|data.oliviero.it/imgprodotto/lenzuola-piane-pantone-vibrant-yellow_115318",
+"Lenzuola Piane Pantone Turkish Sea|Lenzuolo da sopra in puro cotone tinta unita, coordinabile con tutti|2017/12/lenzuola-piane-pantone-turkish-sea|data.oliviero.it/imgprodotto/lenzuola-piane-pantone-turkish-sea_115316",
+"Lenzuola Angoli Pantone Bright White|Lenzuolo da sotto con angoli in puro cotone tinta unita, coordinabile|2017/12/lenzuola-angoli-pantone-bright-white|data.oliviero.it/imgprodotto/lenzuola-angoli-pantone-bright-white_115337",
+"Lenzuola Piane Pantone Wild Lime|Lenzuolo da sopra in puro cotone tinta unita, coordinabile con tutti|2017/12/lenzuola-piane-pantone-wild-lime|data.oliviero.it/imgprodotto/lenzuola-piane-pantone-wild-lime_115328",
 "Lenzuola Piane Pantone Smoked Pearl|Lenzuolo da sopra in puro cotone tinta unita, coordinabile con tutti|2017/12/lenzuola-piane-pantone-smoked-pearl|data.oliviero.it/imgprodotto/lenzuola-piane-pantone-smoked-pearl_115319",
 "Completo Lenzuola Welcome 240x280 cm|Bellissimo set di lenzuola per letto a due piazze moderno e giovane|2017/12/completo-lenzuola-welcome-240x280-cm|data.oliviero.it/imgprodotto/completo-lenzuola-welcome-240x280-cm_154097",
 "Lenzuola Angoli Pantone Vibrant Yellow|Lenzuolo da sotto con angoli in puro cotone tinta unita, coordinabile|2017/12/lenzuola-angoli-pantone-vibrant-yellow|data.oliviero.it/imgprodotto/lenzuola-angoli-pantone-vibrant-yellow_115334",

@@ -1,4 +1,13 @@
 Gr = [
+"Borsa Florida Snake|Collezione Autunno Inverno/2018 Borsa nera da donna tipo shopper con|2017/12/borsa-florida-snake|data.oliviero.it/imgprodotto/borsa-florida-snake_170786",
+"Borsa Shopper Cuenca Metal Nero|Collezione Autunno Inverno/2018 Borsa nera da donna tipo shopper in|2017/12/borsa-shopper-cuenca-metal-nero|data.oliviero.it/imgprodotto/borsa-shopper-cuenca-metal-nero_170784",
+"Borsa Reversibile Capri Alice|Collezione Autunno Inverno/2018 Borsa reversibile da donna stile|2017/12/borsa-reversibile-capri-alice|data.oliviero.it/imgprodotto/borsa-reversibile-capri-alice_170802",
+"Borsa Charlotte Snake Patch|Collezione Autunno Inverno/2018 Borsa a tracolla nera da donna con|2017/12/borsa-charlotte-snake-patch|data.oliviero.it/imgprodotto/borsa-charlotte-snake-patch_170827",
+"Borsa Lucerna Anabella|Collezione Autunno Inverno/2018 Borsa nera da donna con dettagli tono|2017/12/borsa-lucerna-anabella|data.oliviero.it/imgprodotto/borsa-lucerna-anabella_170792",
+"Borsa Tracolla Nero|Collezione Autunno Inverno/2018 Tracolla donna Nero Giardini in|2017/12/borsa-tracolla-nero|data.oliviero.it/imgprodotto/borsa-tracolla-nero-a743149d-100_168737",
+"Borsa 35X46X10 Cm| Borsa di colore verde  Realizzata in cotone  Chiusura con zip|2017/12/borsa-35x46x10-cm|data.oliviero.it/imgprodotto/borsa-35x46x10-cm_117349",
+"Borsa Reversibile Capri Cougar|Collezione Autunno Inverno/2018 Borsa tipo shopper double face, nera|2017/12/borsa-reversibile-capri-cougar|data.oliviero.it/imgprodotto/borsa-reversibile-capri-cougar_170800",
+"Borsa Cracovia Alice|Collezione Autunno Inverno/2018 Mini borsa a tracolla con leggeri|2017/12/borsa-cracovia-alice|data.oliviero.it/imgprodotto/borsa-cracovia-alice_170842",
 "Borsa Morbida Donna Bianco|Collezione Primavera Estate Borsa morbida da donna con manici|2017/12/borsa-morbida-donna-bianco|data.oliviero.it/imgprodotto/borsa-morbida-donna-bianco-p743429-707_159015",
 "Borsa con Borchie Nero|Collezione Autunno Inverno/2018 Composizione: Esterno ecopelle|2017/12/borsa-con-borchie-nero|data.oliviero.it/imgprodotto/borsa-con-borchie-nero_168764",
 "Borsa 42X50X10 Cm| Borsa colore blu  Realizzata in tessuto impermeabile  Chiusura|2017/12/borsa-42x50x10-cm|data.oliviero.it/imgprodotto/borsa-42x50x10-cm_117317",

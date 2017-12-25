@@ -1,4 +1,6 @@
 Gr = [
+"Smart Puzzle Magnetico|18m+ Un nuovissimo puzzle magnetico double-face per i più piccoli. Da|2017/12/smart-puzzle-magnetico|data.oliviero.it/imgprodotto/smart-puzzle-magnetico-savana_156250",
+"Stencils Design Forest|4A+ Una nuovissima serie di sagome realizzate senza spigoli ed in|2017/12/stencils-design-forest|data.oliviero.it/imgprodotto/stencils-design-forest-2646_156285",
 "Georello Junior|2+ Con Georello Junior sarà divertentissimo mettere in movimento|2017/12/georello-junior|data.oliviero.it/imgprodotto/georello-junior_156253",
 "Fashion Design Mya|4A+ Un grande intramontabile classico, le bambole di carta da|2017/12/fashion-design-mya|data.oliviero.it/imgprodotto/fashion-design-mya-2931_156286",
 "Pixel Photo 4 tavole|6A+ La fortunata linea Pixel Art si amplia con Pixel Photo. Il|2017/12/pixel-photo-4-tavole|data.oliviero.it/imgprodotto/pixel-photo-4-tavole_156255",
