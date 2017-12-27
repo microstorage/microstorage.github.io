@@ -1,4 +1,7 @@
 Gr = [
+"Canotta donna Drew|Collezione Primavera Estate Tipologia: Canotta da donna Tessuto|2017/12/canotta-donna-drew|data.oliviero.it/imgprodotto/canotta-donna-drew_5902_big",
+"Canotta Donna Rosso|La canottiera adidas D2M Tank 3S si adatta perfettamente a tutte le|2017/12/canotta-donna-rosso|data.oliviero.it/imgprodotto/canotta-donna-rosso_168149",
+"Top W15010 J0004|Collezione Liu Jo Jeans Collezione Liu Jo Jeans Top da donna senza|2017/12/top-w15010-j0004|data.oliviero.it/imgprodotto/top-w15010-j0004_146486",
 "Bra Sportivo Nike Pro Classic Nero|Ideale per gli allenamenti a impatto moderato, il bra sportivo Nike|2017/12/bra-sportivo-nike-pro-classic-nero|data.oliviero.it/imgprodotto/bra-sportivo-nike-pro-classic-nero_161692",
 "Canotta F15119 J7453 11110|Collezione Liu Jo Jeans Canotta da donna con stampa frontale, tessuto|2017/12/canotta-f15119-j7453-11110|data.oliviero.it/imgprodotto/canotta-f15119-j7453-11110_146514",
 "Canotta Tennis NikeCourt Team Pure|La canotta da tennis NikeCourt Team Pure - Donna è realizzata in un|2017/12/canotta-tennis-nikecourt-team-pure|data.oliviero.it/imgprodotto/canotta-tennis-nikecourt-team-pure_167775",

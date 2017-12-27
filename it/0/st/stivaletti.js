@@ -1,4 +1,5 @@
 Gr = [
+"Stivaletti Clarisse Nero|Versace 1969 Abbigliamento Sportivo srl Milano Italia - Scarpe donna|2017/12/stivaletti-clarisse-nero|data.oliviero.it/imgprodotto/stivaletti-clarisse-nero_130339",
 "Polacchino Uomo Nero|Collezione Autunno Inverno/2018 Materiale: pelle Colore: nero Fodera:|2017/12/polacchino-uomo-nero|data.oliviero.it/imgprodotto/polacchino-uomo-nero_168897",
 "Stivaletti Uomo Nero|Collezione Autunno Inverno/2018 Il nostro Stormbuck Chelsea Boot è da|2017/12/stivaletti-uomo-nero|data.oliviero.it/imgprodotto/stivaletti-uomo-nero_171089",
 "Scarpe Jaylon Uomo Mud|Collezione Autunno Inverno/2018 Per affrontare le lunghe giornate|2017/12/scarpe-jaylon-uomo-mud|data.oliviero.it/imgprodotto/scarpe-jaylon-uomo-mud_167192",

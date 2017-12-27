@@ -1,5 +1,6 @@
 Tt = "Levi's";
 Gr = [
+"Jeans Uomo 501 Skinny|Abbiamo preso i jeans più ambiti del mondo per personalizzarli con|2017/12/jeans-uomo-501-skinny|data.oliviero.it/imgprodotto/jeans-uomo-501-skinny_171151",
 "Jeans Uomo 511 Slim Fit|Caratterizzati da un taglio slim moderno, che lascia ampia libertà di|2017/12/jeans-uomo-511-slim-fit|data.oliviero.it/imgprodotto/jeans-uomo-511-slim-fit_171147",
 "Jeans Uomo 501 Skinny Warp Stretch|Il jeans più ambito al mondo, personalizzato con una gamba più|2017/12/jeans-uomo-501-skinny-warp-stretch|data.oliviero.it/imgprodotto/jeans-uomo-501-skinny-warp-stretch_171153",
 "Jeans Uomo 501 Original Fit|I primi blue jeans del mondo. Sin da quando sono stati inventati nel|2017/12/jeans-uomo-501-original-fit|data.oliviero.it/imgprodotto/jeans-uomo-501-original-fit_171145",

@@ -1,4 +1,9 @@
 Gr = [
+"Maglia Taglie Forti Uomo Petrolio|Collezione Autunno Inverno/2018 Pullover in misto lana scollo V, con|2017/12/maglia-taglie-forti-uomo-petrolio|data.oliviero.it/imgprodotto/maglia-taglie-forti-uomo-petrolio_170223",
+"Gilet Uomo Taglie Forti Vinaccia|Collezione Autunno Inverno/2018 Gilet da uomo taglie forti. Il|2017/12/gilet-uomo-taglie-forti-vinaccia|data.oliviero.it/imgprodotto/gilet-uomo-taglie-forti-vinaccia_168598",
+"Polo Taglie Forti Uomo Rosso|Collezione Autunno Inverno/2018 Polo uomo taglie forti. Il modello|2017/12/polo-taglie-forti-uomo-rosso|data.oliviero.it/imgprodotto/polo-taglie-forti-uomo-rosso_172213",
+"Lupetto Taglie Forti Uomo Nero|Collezione Autunno Inverno/2018 Lupetto da uomo taglie forti. Il|2017/12/lupetto-taglie-forti-uomo-nero|data.oliviero.it/imgprodotto/lupetto-taglie-forti-uomo-nero_169536",
+"Maglia Taglie Forti Uomo Foresta|Collezione Autunno Inverno/2018 Felpa Uomo taglie forti. Il modello|2017/12/maglia-taglie-forti-uomo-foresta|data.oliviero.it/imgprodotto/maglia-taglie-forti-uomo-foresta_171894",
 "Cardigan Taglie Forti Uomo|Collezione Primavera Estate Cardigan uomo taglie forti con zip|2017/12/cardigan-taglie-forti-uomo|data.oliviero.it/imgprodotto/cardigan-taglie-forti-uomo-4610_160747",
 "Polo Taglie Forti Uomo Petrolio|Collezione Autunno Inverno/2018 Polo uomo taglie forti. Il modello|2017/12/polo-taglie-forti-uomo-petrolio|data.oliviero.it/imgprodotto/polo-taglie-forti-uomo-petrolio_172211",
 "Maglia Uomo Taglie Forti Rosso|Collezione Autunno Inverno/2018 Maglia uomo taglie forti. Il modello|2017/12/maglia-uomo-taglie-forti-rosso|data.oliviero.it/imgprodotto/maglia-uomo-taglie-forti-rosso_169255",

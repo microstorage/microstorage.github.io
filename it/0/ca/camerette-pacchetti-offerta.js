@@ -1,4 +1,13 @@
 Gr = [
+"Pacchetto Tommy Naturale|Il pacchetto Tommy include: Lettino Fasciatoio Materasso Piumone|2017/12/pacchetto-tommy-naturale|data.oliviero.it/imgprodotto/pacchetto-tommy-naturale_135879",
+"Cameretta Lapo|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/12/cameretta-lapo|data.oliviero.it/imgprodotto/cameretta-lapo-gt4048_160214",
+"Cameretta Enrica|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/12/cameretta-enrica|data.oliviero.it/imgprodotto/cameretta-enrica-gt4015_160136",
+"Set miki greige|Set Miki composto da lettino (art.130228), fasciatoio completo di|2017/12/set-miki-greige|data.oliviero.it/imgprodotto/set-miki-greige_84296",
+"Pacchetto georgia tortora|Il pacchetto Georgia Pali è composto da: Lettino Fasciatoio Materasso|2017/12/pacchetto-georgia-tortora|data.oliviero.it/imgprodotto/pacchetto-georgia-tortora_124162",
+"Cameretta Silvio|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/12/cameretta-silvio|data.oliviero.it/imgprodotto/cameretta-silvio-gt4030_160184",
+"Cameretta Pasquale|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/12/cameretta-pasquale|data.oliviero.it/imgprodotto/cameretta-pasquale-gt4004_160076",
+"Pacchetto Ciak Naturale|Il pacchetto Ciak Naturale è composto da: Lettino Ciak Naturale|2017/12/pacchetto-ciak-naturale|data.oliviero.it/imgprodotto/pacchetto-ciak-naturale_153456",
+"Pacchetto Max Bianco con Materasso, Seggiolone e Seggiolino|Pacchetto Max Prestige Bianco composto da: Trio ghibli; Lettino Max;|2017/12/pacchetto-max-bianco-con-materasso-seggiolone-e-seggiolino|data.oliviero.it/imgprodotto/pacchetto-max-bianco-con-materasso-seggiolone-e-seggiolino_164921",
 "Set miki blu fotonico|Set Miki composto da lettino (art.130227), fasciatoio completo di|2017/12/set-miki-blu-fotonico|data.oliviero.it/imgprodotto/set-miki-blu-fotonico_84295",
 "Pacchetto Smart Maison Bebè|La cameretta Smart Maison Bebè della Pali a prezzo promozionale|2017/12/pacchetto-smart-maison-bebe|data.oliviero.it/imgprodotto/pacchetto-smart-maison-beb%C3%A8_10527_big",
 "Pacchetto City rosa|Il pacchetto City è composto da: Lettino City in legno bianco - PALI|2017/12/pacchetto-city-rosa|data.oliviero.it/imgprodotto/pacchetto-city-rosa_155669",

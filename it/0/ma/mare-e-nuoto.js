@@ -1,4 +1,5 @@
 Gr = [
+"Costume Donna Navy Purple|Costume da donna ideale per la piscina. Grazie alle sue spalline|2017/12/costume-donna-navy-purple|data.oliviero.it/imgprodotto/costume-donna-navy-purple_173311",
 "Costume Uomo Solid Brief|Collezione Autunno Inverno/2017 Questo classico costume da uomo|2017/12/costume-uomo-solid-brief|data.oliviero.it/imgprodotto/costume-uomo-solid-brief-2a254_153440",
 "Costume Nuoto Donna|Migliora la bracciata con questo costume da bagno intero. Realizzato|2017/12/costume-nuoto-donna|data.oliviero.it/imgprodotto/costume-nuoto-donna_168164",
 "Lettore Mp3 Subacqueo e Sportivo MPV 1800 WP|Lettore Mp3 Subacqueo e Sportivo Trevi MPV 1800 WP con comoda clip|2017/12/lettore-mp3-subacqueo-e-sportivo-mpv-1800-wp|data.oliviero.it/imgprodotto/lettore-mp3-subacqueo-e-sportivo-mpv-1800-wp_95645",

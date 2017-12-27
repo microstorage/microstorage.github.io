@@ -1,4 +1,8 @@
 Gr = [
+"Padella 22 cm Ingegno|LAGOSTINA PADELLA ANTIADERENTE Ingenio 22cm Facile da pulire;|2017/12/padella-22-cm-ingegno|data.oliviero.it/imgprodotto/padella-22-cm-ingegno_156209",
+"Padella 30 cm Silver|Caratteristiche: Cottura senza grassi, grande resistenza, facile da|2017/12/padella-30-cm-silver|data.oliviero.it/imgprodotto/padella-30-cm-silver_155966",
+"Pentola a pressione 6L manici ramati|Pentola a pressione 6L manici ramati Descrizione: pentola a pressione|2017/12/pentola-a-pressione-6l-manici-ramati|data.oliviero.it/imgprodotto/pentola-a-pressione-6l-manici-ramati_160619",
+"Posate 24 pz Bordeaux Brio|Modello di posate dalla tradizionale semplicità che grazie alle|2017/12/posate-24-pz-bordeaux-brio|data.oliviero.it/imgprodotto/posate-24-pz-bordeaux-brio_156501",
 "Coperchio 16 cm Vetro Ingenio|Ingenio è la nuova linea antiaderente ad effetto marmorizzato firmata|2017/12/coperchio-16-cm-vetro-ingenio|data.oliviero.it/imgprodotto/coperchio-16-cm-vetro-ingenio_155889",
 "Coperchio in silicone Ingenio|Ingenio è la nuova linea antiaderente ad effetto marmorizzato firmata|2017/12/coperchio-in-silicone-ingenio|data.oliviero.it/imgprodotto/coperchio-in-silicone-ingenio_155890",
 "Coperchio 20 cm Vetro Ingenio|Ingenio è la nuova linea antiaderente ad effetto marmorizzato firmata|2017/12/coperchio-20-cm-vetro-ingenio|data.oliviero.it/imgprodotto/coperchio-20-cm-vetro-ingenio_155891",

@@ -1,4 +1,6 @@
 Gr = [
+"Ellittica ERX 70|Sistema di frenaggio magnetico con regolazione manuale dello sforzo|2017/12/ellittica-erx-70|data.oliviero.it/imgprodotto/ellittica-erx-70_68838",
+"Cyclette BRX 300|Cyclette BRX 300 Sistema di frenaggio : magnetico con regolazione|2017/12/cyclette-brx-300|data.oliviero.it/imgprodotto/cyclette-brx-300_159738",
 "Ellittica ERX 90 + ricevitore Polar|Sistema di frenaggio magnetico con regolazione elettronica dello|2017/12/ellittica-erx-90-+-ricevitore-polar|data.oliviero.it/imgprodotto/ellittica-erx-90-ricevitore-polar_68842",
 "Tapis Roulant TRX Active Compact|TRX ACTIVE COMPACT Garanzia a vita sul telaio. Pre-assemblato pronto|2017/12/tapis-roulant-trx-active-compact|data.oliviero.it/imgprodotto/tapis-roulant-trx-active-compact_159623",
 "Tapis Roulant TRX Endurance|TRX ENDURANCE MOTORE AC. FASCIA CARDIO TOORX inclusa. Garanzia a vita|2017/12/tapis-roulant-trx-endurance|data.oliviero.it/imgprodotto/tapis-roulant-trx-endurance_159521",

@@ -1,4 +1,11 @@
 Gr = [
+"Coppia Sgabelli Kris Nero|SGABELLO KRIS Nero Sgabello con struttura in acciaio cromato, seduta|2017/12/coppia-sgabelli-kris-nero|data.oliviero.it/imgprodotto/coppia-sgabelli-kris-nero_130762",
+"Gazebo Rodi 3x4 Ecru|Gazebo Ferro 3x4 Metri Struttura in ferro verniciato a polvere|2017/12/gazebo-rodi-3x4-ecru|data.oliviero.it/imgprodotto/gazebo-rodi-3x4-ecru_146605",
+"Ombrellone Garden 3m Bianco|Ombrellone diam 3 m in alluminio con palo centrale diam 38 mm,|2017/12/ombrellone-garden-3m-bianco|data.oliviero.it/imgprodotto/ombrellone-garden-3m-bianco_108490",
+"Gazebo Vela 4x4 Ecrù|Gazebo ferro 4x4 metri Struttura in ferro verniciato a polvere|2017/12/gazebo-vela-4x4-ecru|data.oliviero.it/imgprodotto/gazebo-vela-4x4-ecr%C3%B9_164388",
+"Scrivania View_Colours|Scrivania con struttura in ferro verniciato di colore bianco, vetro|2017/12/scrivania-view_colours|data.oliviero.it/imgprodotto/scrivania-view_colours_108536",
+"Portacomputer Link Blu|Portacomputer con struttura in ferro verniciato color silver, vetro|2017/12/portacomputer-link-blu|data.oliviero.it/imgprodotto/portacomputer-link-blu_108566",
+"Ombrellone Senso 3X4 Ecrù|Ombrellone a Braccio Retrattile Struttura in alluminio verniciato|2017/12/ombrellone-senso-3x4-ecru|data.oliviero.it/imgprodotto/ombrellone-senso-3x4-ecr%C3%B9_108502",
 "Scrivania Format Ciliegio|Scrivania con struttura in ferro verniciato di colore nero, piano in|2017/12/scrivania-format-ciliegio|data.oliviero.it/imgprodotto/scrivania-format-ciliegio_108528",
 "Dondolo Sand Dune Ecrù|Dondolo 2 posti Struttura in tubolare di ferro verniciato a polvere|2017/12/dondolo-sand-dune-ecru|data.oliviero.it/imgprodotto/dondolo-sand-dune-ecr%C3%B9_108481",
 "Dondolo Pagoda Martinica Ecrù|Dondolo Pagoda 3 posti Struttura in tubolare di ferro di colore|2017/12/dondolo-pagoda-martinica-ecru|data.oliviero.it/imgprodotto/dondolo-pagoda-martinica-ecr%C3%B9_108507",

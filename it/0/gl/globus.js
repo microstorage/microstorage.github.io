@@ -1,4 +1,6 @@
 Gr = [
+"RF Clinic Body Radiofrequenza|Globus RF Clinic Body è un innovativo apparecchio professionale che|2017/12/rf-clinic-body-radiofrequenza|data.oliviero.it/imgprodotto/rf-clinic-body-radiofrequenza_71102",
+"Elettrostimolatore Fit & Beauty|FIT & BEAUTY è un esclusivo elettrostimolatore concepito e prodotto|2017/12/elettrostimolatore-fit-beauty|data.oliviero.it/imgprodotto/elettrostimolatore-fit-%26-beauty_152999",
 "Elettrostimolatore My Stim|55 PROGRAMMI: 12 SPORT, 33 FITNESS E BELLEZZA, 10 REHAB Massima|2017/12/elettrostimolatore-my-stim|data.oliviero.it/imgprodotto/elettrostimolatore-my-stim_130843",
 "Medisound 2 PRO Ultrasuono Terapia|NUOVA LINEA PROFESSIONAL MICRO PER ULTRASUONOTERAPIA Medisound 2 Pro|2017/12/medisound-2-pro-ultrasuono-terapia|data.oliviero.it/imgprodotto/medisound-2-pro-ultrasuono-terapia_71109",
 "Elettrostimolatore Premium 150|Globus Premium 150 è l'elettrostimolatore che permette di ottenere|2017/12/elettrostimolatore-premium-150|data.oliviero.it/imgprodotto/elettrostimolatore-premium-150_159763",

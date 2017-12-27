@@ -1,4 +1,7 @@
 Gr = [
+"T-shirt taglie forti uomo nero 500|T-Shirt corpo uomo realizzata in puro Cotone, scollo a V, maniche|2017/12/t-shirt-taglie-forti-uomo-nero-500|data.oliviero.it/imgprodotto/t-shirt-taglie-forti-uomo-nero-500_24239_big",
+"Slip uomo Con Apertura 1200|Tipologia: Slip con apertura uomo Tessuto: 100% cotone pettinato|2017/12/slip-uomo-con-apertura-1200|data.oliviero.it/imgprodotto/slip-uomo-con-apertura-1200_20685_big",
+"Boxer bianco 2pz 2481|Tipologia: Confezione da 2 boxer uomo Tessuto: 52% modal, 42% cotone|2017/12/boxer-bianco-2pz-2481|data.oliviero.it/imgprodotto/boxer-bianco-2pz-2481_20466_big",
 "Bipack T-shirt 065418 020KB|Confezione composta da 2 magliette Tipologia : T-shirt intima da uomo|2017/12/bipack-t-shirt-065418-020kb|data.oliviero.it/imgprodotto/bipack-t-shirt-065418-020kb_85101",
 "2 T-shirt taglie forti uomo 99110|Confezione composta da 2 T-Shirt corpo uomo realizzata in puro|2017/12/2-t-shirt-taglie-forti-uomo-99110|data.oliviero.it/imgprodotto/2-t-shirt-taglie-forti-uomo-99110_11936_big",
 "3 Calzini Bianchi|Quando ti alleni duramente per raggiungere i tuoi obiettivi,|2017/12/3-calzini-bianchi|data.oliviero.it/imgprodotto/3-calzini-bianchi_166986",

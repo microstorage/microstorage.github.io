@@ -1,4 +1,11 @@
 Gr = [
+"Racchetta Jr. Maria 25|Divertente design per la nuova racchetta Head Maria 21, perfetta per|2017/12/racchetta-jr-maria-25|data.oliviero.it/imgprodotto/racchetta-jr-maria-25_173387",
+"Borsa Padel Combi|In tre versioni di colore, questa borsa con 2 scomparti grandi e una|2017/12/borsa-padel-combi|data.oliviero.it/imgprodotto/borsa-padel-combi_173390",
+"Racchetta Padel Evolution Bela|Sei curioso di provare a giocare a paddle? Prova la nuova Evolution|2017/12/racchetta-padel-evolution-bela|data.oliviero.it/imgprodotto/racchetta-padel-evolution-bela_173380",
+"Racchetta Padel Lightning 333|Se cerchi una racchetta leggera, non esiste scelta migliore della|2017/12/racchetta-padel-lightning-333|data.oliviero.it/imgprodotto/racchetta-padel-lightning-333_173382",
+"Borsa Tennis Tour Team 12R|Head Tour Team 12R Monstercombi Se hai molti oggetti da portare con|2017/12/borsa-tennis-tour-team-12r|data.oliviero.it/imgprodotto/borsa-tennis-tour-team-12r_173395",
+"Racchetta Padel Delta Elite|La racchetta preferita del numero uno al mondo, Fernando Belasteguín|2017/12/racchetta-padel-delta-elite|data.oliviero.it/imgprodotto/racchetta-padel-delta-elite_173383",
+"Borsa Tennis Tour Team 9R|Non avresti mai saputo di quante cose avevi bisogno finché non hai|2017/12/borsa-tennis-tour-team-9r|data.oliviero.it/imgprodotto/borsa-tennis-tour-team-9r_173392",
 "Casco Sci Rebel Nero|Sicurezza senza compromessi a un giusto prezzo. Caratteristiche:|2017/12/casco-sci-rebel-nero|data.oliviero.it/imgprodotto/casco-sci-rebel-nero-324645_157637",
 "Sci Supershape I.Speed + PRD12|L'i.Supershape Speed è un race carver per sciatori esperti e assetati|2017/12/sci-supershape-i-speed-+-prd12|data.oliviero.it/imgprodotto/sci-supershape-i-speed-prd12_171322",
 "Tubo Palline Padel Pro|Barattolo Cilindrico, che può contenere 3 palline da tennis e paddle|2017/12/tubo-palline-padel-pro|data.oliviero.it/imgprodotto/tubo-palline-padel-pro_171421",

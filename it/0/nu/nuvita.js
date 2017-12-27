@@ -1,4 +1,7 @@
 Gr = [
+"Ciotole Primi Numeri Rosa|Queste ciotole sono la perfetta soluzione per il passaggio al cibo|2017/12/ciotole-primi-numeri-rosa|data.oliviero.it/imgprodotto/ciotole-primi-numeri-rosa_167213",
+"Sgocciolatore Pieghevole|Sgocciolatore portatile a valigetta per asciugare bottilgie|2017/12/sgocciolatore-pieghevole|data.oliviero.it/imgprodotto/sgocciolatore-pieghevole_69292",
+"Set Pappa 6+ azzurro|Set disegnato per le prime tappe dello svezzamento. Incoraggia il|2017/12/set-pappa-6+-azzurro|data.oliviero.it/imgprodotto/set-pappa-6-azzurro_150287",
 "Tazza fuxia con beccuccio in silicone|A partire dai 6 mesi di età del bambino, la tazza lo aiuta ad|2017/12/tazza-fuxia-con-beccuccio-in-silicone|data.oliviero.it/imgprodotto/tazza-fuxia-con-beccuccio-in-silicone_85863",
 "Tazza arancio con beccuccio in silicone|A partire dai 6 mesi di età del bambino, la tazza lo aiuta ad|2017/12/tazza-arancio-con-beccuccio-in-silicone|data.oliviero.it/imgprodotto/tazza-arancio-con-beccuccio-in-silicone_85862",
 "Cucchiaini Termosensibili Azzurro|Set 2 cucchiai termosensibili cambia-colore. Il cucchiaio|2017/12/cucchiaini-termosensibili-azzurro|data.oliviero.it/imgprodotto/cucchiaini-termosensibili-azzurro_167210",

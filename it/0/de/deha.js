@@ -1,4 +1,6 @@
 Gr = [
+"Felpa Donna Rosso|Collezione Autunno Inverno/2018 felpa ampia che si allarga sul fondo|2017/12/felpa-donna-rosso|data.oliviero.it/imgprodotto/felpa-donna-rosso_170379",
+"T-Shirt Stampata Donna Nero Grigio|Collezione Autunno Inverno/2018 schiena e collo in jersey tinta unita|2017/12/t-shirt-stampata-donna-nero-grigio|data.oliviero.it/imgprodotto/t-shirt-stampata-donna-nero-grigio_170429",
 "T-Shirt Felpa Donna Nero|Collezione Autunno Inverno/2018 maglietta ampia con mezza manica|2017/12/t-shirt-felpa-donna-nero|data.oliviero.it/imgprodotto/t-shirt-felpa-donna-nero_170346",
 "Maglione Donna Nero|Collezione Autunno Inverno/2018 maglione lungo mezza manica|2017/12/maglione-donna-nero|data.oliviero.it/imgprodotto/maglione-donna-nero_170389",
 "Blazer Lungo Donna Grigio|Collezione Autunno Inverno/2018 giacca sfoderata con rever a|2017/12/blazer-lungo-donna-grigio|data.oliviero.it/imgprodotto/blazer-lungo-donna-grigio_170370",

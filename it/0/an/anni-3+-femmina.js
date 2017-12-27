@@ -1,4 +1,8 @@
 Gr = [
+"Tavolino Elettronico Peppa Pig|Età 3+ Anni Questo robusto tavolino contiene tantissimi giochi|2017/12/tavolino-elettronico-peppa-pig|data.oliviero.it/imgprodotto/tavolino-elettronico-peppa-pig_139608",
+"Play-Doh Cupcake Carnival|Età 3+ anni Divertiti con la Giostra dei Cupcake e crea il tuo|2017/12/play-doh-cupcake-carnival|data.oliviero.it/imgprodotto/play-doh-cupcake-carnival_139522",
+"Carrozzina trendy|Lussuossima completa di elegante borsa con manico ed altezza|2017/12/carrozzina-trendy|data.oliviero.it/imgprodotto/carrozzina-trendy_163919",
+"Labirinto Mare|Età 3+ Anni Labirinto Mare! Acquista questo fantastico Labirinto di|2017/12/labirinto-mare|data.oliviero.it/imgprodotto/labirinto-mare-53453_154368",
 "Libro Buon Appetito, Signor Coniglio!|Al Signor Coniglio non piacciono più le carote. Grande è la curiosità|2017/12/libro-buon-appetito-signor-coniglio|data.oliviero.it/imgprodotto/libro-buon-appetito-signor-coniglio-_156331",
 "Libro Aspetto un fratellino|La mamma dice: Camilla, avrai presto un fratellino. Ma Camilla non|2017/12/libro-aspetto-un-fratellino|data.oliviero.it/imgprodotto/libro-aspetto-un-fratellino_156327",
 "La Fattoria con Trattore e Animali|PlaySet composto da una fattoria ed un trattore, con quattro|2017/12/la-fattoria-con-trattore-e-animali|data.oliviero.it/imgprodotto/la-fattoria-con-trattore-e-animali_139991",

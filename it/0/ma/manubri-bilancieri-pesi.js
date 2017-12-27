@@ -1,4 +1,5 @@
 Gr = [
+"Disco in ghisa 1 2 5 10 kg|Disco in ghisa verniciato nero. Ideale per bilancieri e manubri per|2017/12/disco-in-ghisa-1-2-5-10-kg|data.oliviero.it/imgprodotto/disco-in-ghisa-1-2-5-10-kg_145896",
 "Portabilanciere JK 6065|Massimo peso caricabile150 kg Dimensione tubi50 x 50 mm Regolabile in|2017/12/portabilanciere-jk-6065|data.oliviero.it/imgprodotto/portabilanciere-jk-6065_23727_big",
 "Kit Manubri Cromati + 32 kg Pesi|L'offerta comprende i manubri Victoria e 4 dischi in ghisa da 1 kg,|2017/12/kit-manubri-cromati-+-32-kg-pesi|data.oliviero.it/imgprodotto/kit-manubri-cromati-32-kg-pesi_147204",
 "Lat Tower per 860 e 560|Lat tower è l'accessorio per lavorare sui dorsali. Consente anche di|2017/12/lat-tower-per-860-e-560|data.oliviero.it/imgprodotto/lat-tower-per-860-e-560_366_big",

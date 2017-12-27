@@ -1,4 +1,8 @@
 Gr = [
+"2 Tettarelle 1+ Natural|L'ampia tettarella dalla forma anatomica consente un allattamento|2017/12/2-tettarelle-1+-natural|data.oliviero.it/imgprodotto/2-tettarelle-1-natural_66824",
+"Biberon 260 ml natural|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-260-ml-natural|data.oliviero.it/imgprodotto/biberon-260-ml-natural_66810",
+"Biberon 125 ml natural azzurro|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-125-ml-natural-azzurro|data.oliviero.it/imgprodotto/biberon-125-ml-natural-azzurro_66815",
+"Tazza Con Cannuccia 18+|È dotata di una morbida cannuccia in silicone, resistente ai dentini|2017/12/tazza-con-cannuccia-18+|data.oliviero.it/imgprodotto/tazza-con-cannuccia-18-_69201",
 "Biberon 260 ml rosa natural|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-260-ml-rosa-natural|data.oliviero.it/imgprodotto/biberon-260-ml-rosa-natural_138407",
 "Biberon 330 ml natural azzurro|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-330-ml-natural-azzurro|data.oliviero.it/imgprodotto/biberon-330-ml-natural-azzurro_71637",
 "Biberon 260 ml rosa|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-260-ml-rosa|data.oliviero.it/imgprodotto/biberon-260-ml-rosa_164670",

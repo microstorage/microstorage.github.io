@@ -1,4 +1,10 @@
 Gr = [
+"Tuta Layette Fluo Coral Grigio Melange|Collezione Primavera Estate Tuta da bambino Il modello è composto da|2017/12/tuta-layette-fluo-coral-grigio-melange|data.oliviero.it/imgprodotto/tuta-layette-fluo-coral-grigio-melange-4s303_158610",
+"Doposci Jr. Eolo|GAMBALE IN POLIESTERE E OVATTA CHIUSURA ZIP COLLETTO REGOLABILE CON|2017/12/doposci-jr-eolo|data.oliviero.it/imgprodotto/doposci-jr-eolo_173338",
+"Doposci Jr. Bingo Argento|TOMAIA GAMBALE IN PU E OVATTA TRAPUNTATA CHIUSURA ZIP COLLETTO|2017/12/doposci-jr-bingo-argento|data.oliviero.it/imgprodotto/doposci-jr-bingo-argento_173351",
+"Doposci Patty Kid|TOMAIA GAMBALE IN POLIESTERE E OVATTA TRAPUNTATA COLLARINO IN ECO|2017/12/doposci-patty-kid|data.oliviero.it/imgprodotto/doposci-patty-kid_173355",
+"Doposci Jr. Bingo Mela|TOMAIA GAMBALE IN PU E OVATTA TRAPUNTATA CHIUSURA ZIP COLLETTO|2017/12/doposci-jr-bingo-mela|data.oliviero.it/imgprodotto/doposci-jr-bingo-mela_173348",
+"Trolley Ladybug Skip-Hop|Trolley ideale per i bambini sia per piccoli viaggi che grandi|2017/12/trolley-ladybug-skip-hop|data.oliviero.it/imgprodotto/trolley-ladybug-skip-hop_140415",
 "Grembiule Asilo Bambina Bianco|Collezione Autunno Inverno/2018 Grembiule asilo da bambina. Il|2017/12/grembiule-asilo-bambina-bianco|data.oliviero.it/imgprodotto/grembiule-asilo-bambina-bianco-fg401_166468",
 "Canotta Bambina Panna Beige|Collezione Primavera Estate Canotta da bambina con allacciatura|2017/12/canotta-bambina-panna-beige|data.oliviero.it/imgprodotto/canotta-bambina-panna-beige-4s510-6t05_158472",
 "Scarpe Jr. Marrone|Collezione Autunno Inverno/2018 Quando è tempo di giocare, i piccoli|2017/12/scarpe-jr-marrone|data.oliviero.it/imgprodotto/scarpe-jr-marrone_171118",

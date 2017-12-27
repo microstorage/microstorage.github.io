@@ -1,4 +1,6 @@
 Gr = [
+"Scrivania View_Colours|Scrivania con struttura in ferro verniciato di colore bianco, vetro|2017/12/scrivania-view_colours|data.oliviero.it/imgprodotto/scrivania-view_colours_108536",
+"Portacomputer Link Blu|Portacomputer con struttura in ferro verniciato color silver, vetro|2017/12/portacomputer-link-blu|data.oliviero.it/imgprodotto/portacomputer-link-blu_108566",
 "Scrivania Format Ciliegio|Scrivania con struttura in ferro verniciato di colore nero, piano in|2017/12/scrivania-format-ciliegio|data.oliviero.it/imgprodotto/scrivania-format-ciliegio_108528",
 "Scrivania 95.42.022|MADE IN ITALY La serie \"SPRINT\" di \"Valentini\" comprende mobiletti|2017/12/scrivania-95-42-022|data.oliviero.it/imgprodotto/scrivania-95-42-022_74137",
 "Scrivania Folder Ciliegio|Scrivania con struttura in acciaio verniciato silver, piano in MDF|2017/12/scrivania-folder-ciliegio|data.oliviero.it/imgprodotto/scrivania-folder-ciliegio_108571",

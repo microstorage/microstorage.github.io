@@ -1,4 +1,7 @@
 Gr = [
+"Letto Matrimoniale Borea Ecopelle Rete Fissa|Caratteristiche Dimensioni letto 207x176x37cm Dimensioni testiera|2017/12/letto-matrimoniale-borea-ecopelle-rete-fissa|data.oliviero.it/imgprodotto/letto-matrimoniale-borea-ecopelle-rete-fissa-musa_153584",
+"Letto Matrimoniale Gea Rete Fissa|Caratteristiche Dimensioni letto 206x169x30 cm Dimensioni testiera|2017/12/letto-matrimoniale-gea-rete-fissa|data.oliviero.it/imgprodotto/letto-matrimoniale-gea-rete-fissa-musa_153592",
+"Letto Matrimoniale Apollo con contenitore|Caratteristiche Dimensioni letto 206x182x31 cm Dimensioni testiera|2017/12/letto-matrimoniale-apollo-con-contenitore|data.oliviero.it/imgprodotto/letto-matrimoniale-apollo-con-contenitore-musa_153574",
 "Letto Matrimoniale Apollo Rete Fissa|Caratteristiche Dimensioni letto 206x182x31 cm Dimensioni testiera|2017/12/letto-matrimoniale-apollo-rete-fissa|data.oliviero.it/imgprodotto/letto-matrimoniale-apollo-rete-fissa-musa_153575",
 "Letto Matrimoniale Ulisse Rete Fissa|Caratteristiche Dimensioni letto 200x170x37 cm Dimensioni testiera|2017/12/letto-matrimoniale-ulisse-rete-fissa|data.oliviero.it/imgprodotto/letto-matrimoniale-ulisse-rete-fissa-musa_153606",
 "Letto Matrimoniale Demetra Ecopelle con contenitore|Caratteristiche Dimensioni letto 206x174x31cm Dimensioni testiera|2017/12/letto-matrimoniale-demetra-ecopelle-con-contenitore|data.oliviero.it/imgprodotto/letto-matrimoniale-demetra-ecopelle-con-contenitore-musa_153587",

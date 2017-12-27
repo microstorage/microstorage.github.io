@@ -1,4 +1,8 @@
 Gr = [
+"Felpa Uomo Taglie Forti Senape|Collezione Autunno Inverno/2018 Felpa da uomo taglie forti. Il|2017/12/felpa-uomo-taglie-forti-senape|data.oliviero.it/imgprodotto/felpa-uomo-taglie-forti-senape_167945",
+"Polo Taglie Forti Uomo Rosso|Collezione Autunno Inverno/2018 Polo uomo taglie forti. Il modello|2017/12/polo-taglie-forti-uomo-rosso|data.oliviero.it/imgprodotto/polo-taglie-forti-uomo-rosso_172213",
+"Felpa Taglie Forti Uomo Ambra|Collezione Autunno Inverno/2018 Felpa uomo taglie forti. Il modello|2017/12/felpa-taglie-forti-uomo-ambra|data.oliviero.it/imgprodotto/felpa-taglie-forti-uomo-ambra_171864",
+"Maglia Taglie Forti Uomo Foresta|Collezione Autunno Inverno/2018 Felpa Uomo taglie forti. Il modello|2017/12/maglia-taglie-forti-uomo-foresta|data.oliviero.it/imgprodotto/maglia-taglie-forti-uomo-foresta_171894",
 "Polo Taglie Forti Uomo Petrolio|Collezione Autunno Inverno/2018 Polo uomo taglie forti. Il modello|2017/12/polo-taglie-forti-uomo-petrolio|data.oliviero.it/imgprodotto/polo-taglie-forti-uomo-petrolio_172211",
 "Pile Taglie Forti Uomo Grafite|Collezione Autunno Inverno/2018 Pile uomo taglie forti. Il modello|2017/12/pile-taglie-forti-uomo-grafite|data.oliviero.it/imgprodotto/pile-taglie-forti-uomo-grafite_171383",
 "Pantaloni Uomo Taglie Forti 9036 Blu|Collezione Autunno Inverno/2018 Tipologia : Pantaloni sportivi taglie|2017/12/pantaloni-uomo-taglie-forti-9036-blu|data.oliviero.it/imgprodotto/pantaloni-uomo-taglie-forti-9036-blu_171345",

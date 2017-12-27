@@ -1,4 +1,7 @@
 Gr = [
+"Gilet Uomo Taglie Forti Vinaccia|Collezione Autunno Inverno/2018 Gilet da uomo taglie forti. Il|2017/12/gilet-uomo-taglie-forti-vinaccia|data.oliviero.it/imgprodotto/gilet-uomo-taglie-forti-vinaccia_168598",
+"Lupetto Taglie Forti Uomo Nero|Collezione Autunno Inverno/2018 Lupetto da uomo taglie forti. Il|2017/12/lupetto-taglie-forti-uomo-nero|data.oliviero.it/imgprodotto/lupetto-taglie-forti-uomo-nero_169536",
+"Pantaloni taglie forti uomo 005 1071 88|Collezione: Autunno Inverno Tipologia: Pantalone Taglie Forti Uomo|2017/12/pantaloni-taglie-forti-uomo-005-1071-88|data.oliviero.it/imgprodotto/pantaloni-taglie-forti-uomo-005-1071-88_93650",
 "Bermuda uomo Taglie Forti Ocra|Collezione Primavera Estate Bermuda uomo taglie forti. Il modello|2017/12/bermuda-uomo-taglie-forti-ocra|data.oliviero.it/imgprodotto/bermuda-uomo-taglie-forti-ocra_163495",
 "Pantalone Uomo Taglie Forti rosso|Collezione Primavera Estate Pantalone Casual da uomo taglie forti. Il|2017/12/pantalone-uomo-taglie-forti-rosso|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-rosso-p27-1067-26_163455",
 "Pantaloni Taglie Forti Uomo Grigio|Collezione Autunno Inverno/2018 Pantaloni uomo taglie forti. Il|2017/12/pantaloni-taglie-forti-uomo-grigio|data.oliviero.it/imgprodotto/pantaloni-taglie-forti-uomo-grigio_169802",

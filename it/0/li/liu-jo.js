@@ -1,4 +1,9 @@
 Gr = [
+"Camicia donna C15227 T1294|Camicia Casual da donna dalla vestibilità slim, mezze maniche|2017/12/camicia-donna-c15227-t1294|data.oliviero.it/imgprodotto/camicia-donna-c15227-t1294_147068",
+"Pantaloni donna Casual C15183 J0887 22222|Pantalone jersey da donna dal taglio classico con allacciatura|2017/12/pantaloni-donna-casual-c15183-j0887-22222|data.oliviero.it/imgprodotto/pantaloni-donna-casual-c15183-j0887-22222_147052",
+"Jeans donna P15186 D3287|Jeans dalla vestibilità slim, da donna con 5 tasche, allacciatura|2017/12/jeans-donna-p15186-d3287|data.oliviero.it/imgprodotto/jeans-donna-p15186-d3287_146808",
+"Pantaloncino T15033 J7479 81741|Collezione Liu Jo Sport Pantaloncino da donna con elastico in vita|2017/12/pantaloncino-t15033-j7479-81741|data.oliviero.it/imgprodotto/pantaloncino-t15033-j7479-81741_146831",
+"Top W15010 J0004|Collezione Liu Jo Jeans Collezione Liu Jo Jeans Top da donna senza|2017/12/top-w15010-j0004|data.oliviero.it/imgprodotto/top-w15010-j0004_146486",
 "Pantalone Sportivo T15093 F0247 03N98|Collezione Liu Jo Sport Pantalone sportivo da donna, lunghezza 3/4|2017/12/pantalone-sportivo-t15093-f0247-03n98|data.oliviero.it/imgprodotto/pantalone-sportivo-t15093-f0247-03n98_146837",
 "Pantaloncino Sportivo T15055 F0248 80322|Collezione Liu Jo Sport Pantaloncini sportivi da donna con elastico|2017/12/pantaloncino-sportivo-t15055-f0248-80322|data.oliviero.it/imgprodotto/pantaloncino-sportivo-t15055-f0248-80322_146839",
 "Pantaloni donna Casual F15228 T8062 41307|Collezione Liu Jo Jeans Pantalone casual da donna con allacciatura|2017/12/pantaloni-donna-casual-f15228-t8062-41307|data.oliviero.it/imgprodotto/pantaloni-donna-casual-f15228-t8062-41307_146852",

@@ -1,4 +1,6 @@
 Gr = [
+"Scarponi Snowboard Faction Boa|Nessun altro stivale a questo prezzo ha un pedigree come la fazione|2017/12/scarponi-snowboard-faction-boa|data.oliviero.it/imgprodotto/scarponi-snowboard-faction-boa_157952",
+"Scarponi Snow Pearl Boa|DOLCE & SEMPLICE. Semplice, comoda e femminile— Con 3 steps indossi|2017/12/scarponi-snow-pearl-boa|data.oliviero.it/imgprodotto/scarponi-snow-pearl-boa_94282",
 "Scarponi Sci Fire Arrow F4 W|Scarpone Sci/2012 Tecnologia Chiave: - Tenuta del collo del piede|2017/12/scarponi-sci-fire-arrow-f4-w|data.oliviero.it/imgprodotto/scarponi-sci-fire-arrow-f4-w_15093_big",
 "Scarponi Snow Titan|FUORI DAL MONDO Con scarpetta Bronze Series, suola Flightweight|2017/12/scarponi-snow-titan|data.oliviero.it/imgprodotto/scarponi-snow-titan_94280",
 "Scarponi Sci Hawx Ultra 120|Lo scarpone sci Atomic Hawx Ultra 120 è la nuova proposta della casa|2017/12/scarponi-sci-hawx-ultra-120|data.oliviero.it/imgprodotto/scarponi-sci-hawx-ultra-120_156442",

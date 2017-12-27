@@ -1,4 +1,7 @@
 Gr = [
+"Tappeto Elastico con Rete 140 cm diam|Struttura in acciaio verniciato a polvere, tappeto elastico|2017/12/tappeto-elastico-con-rete-140-cm-diam|data.oliviero.it/imgprodotto/tappeto-elastico-con-rete-140-cm-diam-70-420-0011_166636",
+"Set Basket USA con canestro e pallone|Canestro e Pallone Basket USA set completo con rete e kit di|2017/12/set-basket-usa-con-canestro-e-pallone|data.oliviero.it/imgprodotto/set-basket-usa-con-canestro-e-pallone-70-320-0091_87713",
+"Pattini In-Line Easy Roller Rosa Regolabili|Pattini X-Line Easy Roller Regolabili Rosa, pattini regolabili fino|2017/12/pattini-in-line-easy-roller-rosa-regolabili|data.oliviero.it/imgprodotto/pattini-in-line-easy-roller-rosa-regolabili_165988",
 "Skateboard Cobra Surfing Board|Surfing Board Cobra, fantastico surfing board disponibile in|2017/12/skateboard-cobra-surfing-board|data.oliviero.it/imgprodotto/skateboard-cobra-surfing-board-70-710-0041_87728",
 "Pattini In-Line Easy Roller Azzurro Regolabili|Pattini X-Line Easy Roller Regolabili Azzurro, pattini regolabili|2017/12/pattini-in-line-easy-roller-azzurro-regolabili|data.oliviero.it/imgprodotto/pattini-in-line-easy-roller-azzurro-regolabili-70-740-0021_87759",
 "1 Piantana Basket Magic|Caratteristiche tecniche: Altezza cm. 158, con base zavorrabile con|2017/12/1-piantana-basket-magic|data.oliviero.it/imgprodotto/1-piantana-basket-magic-70-320-0046_157444",

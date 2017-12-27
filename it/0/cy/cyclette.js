@@ -1,4 +1,10 @@
 Gr = [
+"Cyclette JK256|Sistema frenante Elettromagnetico alimentatore 8v Regolazione inerzia|2017/12/cyclette-jk256|data.oliviero.it/imgprodotto/cyclette-jk256_173183",
+"Recumbent X-COMPACT MF620|Recumbent bike o cyclette orizzontale caratterizzata dalla posizione|2017/12/recumbent-x-compact-mf620|data.oliviero.it/imgprodotto/recumbent-x-compact-mf620_90947",
+"Cyclette Ergo S6|KETTLER ERGO S6 Un vero ergometro con 2 modalità di utilizzo:|2017/12/cyclette-ergo-s6|data.oliviero.it/imgprodotto/cyclette-ergo-s6_158038",
+"Cyclette BRX 300|Cyclette BRX 300 Sistema di frenaggio : magnetico con regolazione|2017/12/cyclette-brx-300|data.oliviero.it/imgprodotto/cyclette-brx-300_159738",
+"Cyclette JK236|Sistema frenante Magnetico Regolazione inerzia 8 livelli di|2017/12/cyclette-jk236|data.oliviero.it/imgprodotto/cyclette-jk236_173187",
+"Cyclette Paros Pro S Horizon|Le bike della linea PAROS garantiscono un'esperienza di allenamento|2017/12/cyclette-paros-pro-s-horizon|data.oliviero.it/imgprodotto/cyclette-paros-pro-s-horizon_154149",
 "Cyclette Magbike 430|DKN Magbike 430 è una cyclette magnetica dal design semplice e dalla|2017/12/cyclette-magbike-430|data.oliviero.it/imgprodotto/cyclette-magbike-430_68674",
 "Cyclette Ride 201|Rideti permetterà di scegliere l'intensità di allenamento grazie ai|2017/12/cyclette-ride-201|data.oliviero.it/imgprodotto/cyclette-ride-201_172789",
 "Cyclette Ride 270 Black|Ride 270 è un modello pratico e performante per soddisfare i clienti|2017/12/cyclette-ride-270-black|data.oliviero.it/imgprodotto/cyclette-ride-270-black_172806",

@@ -1,4 +1,6 @@
 Gr = [
+"Axissfix Sparkling Grey|Il nuovo Bébé Confort AxissFix Plus è il seggiolino auto utilizzabile|2017/12/axissfix-sparkling-grey|data.oliviero.it/imgprodotto/axissfix-sparkling-grey_161454",
+"Seggiolino Auto Axiss Nomad Grey|Man mano che il bimbo cresce, accomodarlo nel seggiolino diventa|2017/12/seggiolino-auto-axiss-nomad-grey|data.oliviero.it/imgprodotto/seggiolino-auto-axiss-nomad-grey_171877",
 "Borsa Portapasto Maternity|Borsa portapasto isotermica morbida per la conservazione a caldo e|2017/12/borsa-portapasto-maternity|data.oliviero.it/imgprodotto/borsa-portapasto-maternity_13971_big",
 "Easia marsupio|Portare il bambino nel marsupio favorisce lo sviluppo del legame tra|2017/12/easia-marsupio|data.oliviero.it/imgprodotto/easia-marsupio_71486",
 "Rodi Air Protect earth brown|Seggiolino auto omologato da 15 a 36 kg. , da 3 a 10 anni. Da buon|2017/12/rodi-air-protect-earth-brown|data.oliviero.it/imgprodotto/rodi-air-protect-earth-brown_51703",

@@ -1,4 +1,12 @@
 Gr = [
+"2 Tettarelle 1+ Natural|L'ampia tettarella dalla forma anatomica consente un allattamento|2017/12/2-tettarelle-1+-natural|data.oliviero.it/imgprodotto/2-tettarelle-1-natural_66824",
+"Boppy cuscino allattamento wild flowers|Boppy permette alla mamma di assumere una posizione confortevole. Il|2017/12/boppy-cuscino-allattamento-wild-flowers|data.oliviero.it/imgprodotto/boppy-cuscino-allattamento-wild-flowers_72364",
+"Biberon 260 ml natural|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-260-ml-natural|data.oliviero.it/imgprodotto/biberon-260-ml-natural_66810",
+"Biberon 125 ml natural azzurro|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-125-ml-natural-azzurro|data.oliviero.it/imgprodotto/biberon-125-ml-natural-azzurro_66815",
+"Perfect Night 6+ mesi|Il Succhietto classico MAM Perfect è progettato per ridurre il|2017/12/perfect-night-6+-mesi|data.oliviero.it/imgprodotto/perfect-night-6-mesi_135993",
+"Boppy cuscino allattamento butterfly|Boppy permette alla mamma di assumere una posizione confortevole. Il|2017/12/boppy-cuscino-allattamento-butterfly|data.oliviero.it/imgprodotto/boppy-cuscino-allattamento-butterfly_72365",
+"Ultima Body Cuscino Gravidanza e Allattamento|Il cuscino di sostegno per il corpo della Summer Infant è un morbido|2017/12/ultima-body-cuscino-gravidanza-e-allattamento|data.oliviero.it/imgprodotto/ultima-body-cuscino-gravidanza-e-allattamento_162740",
+"Sgocciolatore Pieghevole|Sgocciolatore portatile a valigetta per asciugare bottilgie|2017/12/sgocciolatore-pieghevole|data.oliviero.it/imgprodotto/sgocciolatore-pieghevole_69292",
 "Disinfettante ad ampio spettro|Disinfettante ad ampio spettro per sterilizzatore a freddo|2017/12/disinfettante-ad-ampio-spettro|data.oliviero.it/imgprodotto/disinfettante-ad-ampio-spettro_81479",
 "Cofanetto nascita rosa|Chicco gift set è il regalo perfetto per una nascita. Un cofanetto|2017/12/cofanetto-nascita-rosa|data.oliviero.it/imgprodotto/cofanetto-nascita-rosa_91975",
 "Scaldabiberon casa e auto|Scaldabiberon casa e auto - 90.354 Scaldabiberon multifunzione che ti|2017/12/scaldabiberon-casa-e-auto|data.oliviero.it/imgprodotto/scaldabiberon-casa-e-auto-90-354_160658",

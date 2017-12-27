@@ -1,4 +1,5 @@
 Gr = [
+"Grembiule mod. lungo|Colore :Bianco Composizione : tessuto 65% poliestere e 35% cotone|2017/12/grembiule-mod-lungo|data.oliviero.it/imgprodotto/grembiule-mod-lungo_23013_big",
 "Grembiulino Cameriera|Colore : Bianco e Blu a righe Composizione : tessuto 100% polyestere|2017/12/grembiulino-cameriera|data.oliviero.it/imgprodotto/grembiulino-cameriera_24514_big",
 "Pettorina New York|Colore : New York Composizione : tessuto 65% poliestere e 35% cotone|2017/12/pettorina-new-york|data.oliviero.it/imgprodotto/pettorina-new-york_1647_big",
 "Grembiule Big Pettorina|Grembiule pettorina lunga. Caratteristiche: Colore: Bianco|2017/12/grembiule-big-pettorina|data.oliviero.it/imgprodotto/grembiule-big-pettorina-087997_159018",

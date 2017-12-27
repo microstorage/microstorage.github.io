@@ -1,4 +1,5 @@
 Gr = [
+"Borsa Portaracchette Racket Holder X6 Club|2 comparti racchette, Grande tasca laterale per sistemare gli|2017/12/borsa-portaracchette-racket-holder-x6-club|data.oliviero.it/imgprodotto/borsa-portaracchette-racket-holder-x6-club_94141",
 "Racchetta Tennis Nadal Jr 25|Babolat Nadal 25 Junior Racchetta da tennis I giovani ammiratori di|2017/12/racchetta-tennis-nadal-jr-25|data.oliviero.it/imgprodotto/racchetta-tennis-nadal-jr-25_80034",
 "Racchetta Pure Drive|RACCHETTA SENZA PIATTO CORDE Potenza e sensazioni allo stato puro|2017/12/racchetta-pure-drive|data.oliviero.it/imgprodotto/racchetta-pure-drive_169175",
 "VS Origial My Overgrip|L'overgrip Babolat VS Original è estremamente sottile, questa|2017/12/vs-origial-my-overgrip|data.oliviero.it/imgprodotto/vs-origial-my-overgrip-653040-101_162203",

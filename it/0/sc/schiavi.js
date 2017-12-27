@@ -1,4 +1,7 @@
 Gr = [
+"Impianto Beach Volley-Tennis Monotubo Zincato|IMPIANTO BEACH VOLLEY-TENNIS MONOTUBO ZINCATO. Caratteristiche|2017/12/impianto-beach-volley-tennis-monotubo-zincato|data.oliviero.it/imgprodotto/impianto-beach-volley-tennis-monotubo-zincato_162189",
+"Barriera con ruote|BARRIERA in acciaio zincato a caldo, 5 sagome oscillanti di varie|2017/12/barriera-con-ruote|data.oliviero.it/imgprodotto/barriera-con-ruote_162167",
+"Utilbasket a colonna|UTILBASKET A COLONNA con canestro e rete(senza tabellone)|2017/12/utilbasket-a-colonna|data.oliviero.it/imgprodotto/utilbasket-a-colonna_162172",
 "Reti beach Soccer 550x220|RETI BEACH SOCCER ANNODATE 550x220 corda HDPE Caratteristiche|2017/12/reti-beach-soccer-550x220|data.oliviero.it/imgprodotto/reti-beach-soccer-550x220_162164",
 "Impianto basket a parete|IMPIANTO BASKET-MINIBASKET A PARETE SINGOLO con piastra da fissare|2017/12/impianto-basket-a-parete|data.oliviero.it/imgprodotto/impianto-basket-a-parete_162170",
 "Cesto Carrello|Cesto carrello porta palloni \"pieghevole\" con ruote corredato di|2017/12/cesto-carrello|data.oliviero.it/imgprodotto/cesto-carrello_162163",

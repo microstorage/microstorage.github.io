@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Running Donna Ua W Charged Bandit 2|La tomaia melangiata è leggera, traspirante ed estremamente|2017/12/scarpe-running-donna-ua-w-charged-bandit-2|data.oliviero.it/imgprodotto/scarpe-running-donna-ua-w-charged-bandit-2-1273961-002_160529",
 "Scarpe Basket Ua Torch Fade|La tomaia in pelle leggera con tallone e avampiede in schiuma|2017/12/scarpe-basket-ua-torch-fade|data.oliviero.it/imgprodotto/scarpe-basket-ua-torch-fade-1274423-001_151967",
 "Scarpe Basket Ua Clutchfit Drive 3|La tecnologia ClutchFit® aggiornata respira, si tende e supporta il|2017/12/scarpe-basket-ua-clutchfit-drive-3|data.oliviero.it/imgprodotto/scarpe-basket-ua-clutchfit-drive-3-1269274-108_160539",
 "Scarpe Running Donna Charged Bandit 3 Digi|L'innovativa struttura UA SpeedForm® si modella sul piede per una|2017/12/scarpe-running-donna-charged-bandit-3-digi|data.oliviero.it/imgprodotto/scarpe-running-donna-charged-bandit-3-digi_171829",

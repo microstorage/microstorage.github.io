@@ -1,4 +1,6 @@
 Gr = [
+"Ciclocomputer CM 2.11|Il nuovo computer per ruota cablato CM 2.11 si contraddistingue non|2017/12/ciclocomputer-cm-2-11|data.oliviero.it/imgprodotto/ciclocomputer-cm-2-11_169750",
+"Casco Ciclismo Ventus Nero|Utilizzato dai Pro. Ventus è un casco innovativo dotato di Protetto|2017/12/casco-ciclismo-ventus-nero|data.oliviero.it/imgprodotto/casco-ciclismo-ventus-nero_165359",
 "Casco ciclismo Protone|Casco da ciclismo Tecnologia : Imbottitura tridimensionale 3d dry|2017/12/casco-ciclismo-protone|data.oliviero.it/imgprodotto/casco-ciclismo-protone_109932",
 "Guanti Ciclismo Nero e Bianco|Collezione Primavera Estate Guanto CICLOTURISMO/RACE in Lycra® sport|2017/12/guanti-ciclismo-nero-e-bianco|data.oliviero.it/imgprodotto/guanti-ciclismo-nero-e-bianco_165387",
 "Giacca Ciclismo uomo Reflex|Grande qualità e sicurezza per questa giacca a vento \"nel caso|2017/12/giacca-ciclismo-uomo-reflex|data.oliviero.it/imgprodotto/giacca-ciclismo-uomo-reflex-1101635-002_155273",

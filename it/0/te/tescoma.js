@@ -1,4 +1,13 @@
 Gr = [
+"Accessori per tritacarne|TRAFILA PER BISCOTTI: La inserisci nell'apertura frontale del|2017/12/accessori-per-tritacarne|data.oliviero.it/imgprodotto/accessori-per-tritacarne_75858",
+"Spargi Zucchero|Disponibile in tre diverse capacità, questo barattolo è utilissimo|2017/12/spargi-zucchero|data.oliviero.it/imgprodotto/spargi-zucchero-630331_157833",
+"Beccucci decoratori 21 pz|Farcire e decorare i dolci come un vero professionista, da oggi, non|2017/12/beccucci-decoratori-21-pz|data.oliviero.it/imgprodotto/beccucci-decoratori-21-pz-630496_148201",
+"Mandolina Julienne|Questa mandolina ti consente di tagliare a julienne ogni tipo di|2017/12/mandolina-julienne|data.oliviero.it/imgprodotto/mandolina-julienne-643854_155130",
+"Pompetta per Carni e arrosti|Il segreto per un arrosto succulento? Irrorare la carne con|2017/12/pompetta-per-carni-e-arrosti|data.oliviero.it/imgprodotto/pompetta-per-carni-e-arrosti-630298_155137",
+"Stampo Pupazzo di neve|Quando nevica, scatta subito la voglia di costruire un pupazzo di|2017/12/stampo-pupazzo-di-neve|data.oliviero.it/imgprodotto/stampo-pupazzo-di-neve-623198_155210",
+"Penna decora dolci|Ideale per decorare dolci ed altri alimenti. Provvista di 5 beccucci|2017/12/penna-decora-dolci|data.oliviero.it/imgprodotto/penna-decora-dolci_155119",
+"Pala dolce con estrattore|Ecco una pala per dolce davvero furba: la sua forma permette di|2017/12/pala-dolce-con-estrattore|data.oliviero.it/imgprodotto/pala-dolce-con-estrattore_155128",
+"Affetta Patate|Adori gli stick di patate? Ecco un pratico strumento, facilissimo da|2017/12/affetta-patate|data.oliviero.it/imgprodotto/affetta-patate-643560_155149",
 "Spatola per Spalmare|Spatola prodotta in acciaio inox di alta qualità con eleganti|2017/12/spatola-per-spalmare|data.oliviero.it/imgprodotto/spatola-per-spalmare-638711_155230",
 "3 Coppapasta Rettangolo|Vuoi impiattare da vero professionista? Con i coppapasta|2017/12/3-coppapasta-rettangolo|data.oliviero.it/imgprodotto/3-coppapasta-rettangolo-422214_155195",
 "Rulli per manicotto di boemia trdelnik|Il manicotto di Boemia, il cui nome originale è trdelnik, è un dolce|2017/12/rulli-per-manicotto-di-boemia-trdelnik|data.oliviero.it/imgprodotto/rulli-per-manicotto-di-boemia-trdelnik-623390_157899",

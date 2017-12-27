@@ -1,4 +1,5 @@
 Gr = [
+"Gym Bike Racer 1 speed bike|RACER 1 GYM BIKE KETTLER COD.7639-700; Tecnologia affidabile per il|2017/12/gym-bike-racer-1-speed-bike|data.oliviero.it/imgprodotto/gym-bike-racer-1-speed-bike_157997",
 "Gym bike Z-11D|DKN Z-11D è una gym bike con telaio in acciaio che offre una vasta|2017/12/gym-bike-z-11d|data.oliviero.it/imgprodotto/gym-bike-z-11d_85284",
 "Gym Bike Speed 5|Kettler Speed 5 è un modello di Gymbike con telaio solido in acciaio|2017/12/gym-bike-speed-5|data.oliviero.it/imgprodotto/gym-bike-speed-5_71160",
 "Gym Bike X-Revolution|La Gymbike DKN X Revolution è lo strumento ideale per praticare|2017/12/gym-bike-x-revolution|data.oliviero.it/imgprodotto/gym-bike-x-revolution_76910",

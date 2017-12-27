@@ -1,4 +1,13 @@
 Gr = [
+"Girello Walky Talky green|Il Girello Chicco Walky Talky è l'innovativa girello con barra gioco|2017/12/girello-walky-talky-green|data.oliviero.it/imgprodotto/girello-walky-talky-green_149855",
+"Sdraietta Hooplà Princess|Comfort ideale per i primi mesi, divertimento unico per le prime|2017/12/sdraietta-hoopla-princess|data.oliviero.it/imgprodotto/sdraietta-hoopl%C3%A0-princess-00079840490000_155542",
+"Boo 4 in 1 Girello|Il girello per bambini Boo 4 in 1 è dotato di tavola didattica|2017/12/boo-4-in-1-girello|data.oliviero.it/imgprodotto/boo-4-in-1-girello_172575",
+"Cancelletto Autoclose e Prolunga da 90,4 a 95,4|Il Cancelletto Chicco Nightlight permette di limitare l'accesso del|2017/12/cancelletto-autoclose-e-prolunga-da-90-4-a-95-4|data.oliviero.it/imgprodotto/cancelletto-autoclose-e-prolunga-da-90-4-a-95-4_25211_big",
+"Sonnolento 225|- Età di utilizzo: 0-9 kg;- Descrizione: Schienale regolabile in|2017/12/sonnolento-225|data.oliviero.it/imgprodotto/sonnolento-225_136375",
+"Girello giocando D|Girello regolabile in 3 altezze. Sistema anticaduta dalle scale|2017/12/girello-giocando-d|data.oliviero.it/imgprodotto/girello-giocando-d_136964",
+"Aerosol Super Soft Orso|L'aerosol a pistone Chicco pratico e funzionale è stato pensato|2017/12/aerosol-super-soft-orso|data.oliviero.it/imgprodotto/aerosol-super-soft-orso_171623",
+"Park a kid nero|Facile da assemblare come recinto, box, cancelletto di sicurezza|2017/12/park-a-kid-nero|data.oliviero.it/imgprodotto/park-a-kid-nero_145168",
+"Park a kid bianco|Facile da assemblare come recinto, box, cancelletto di sicurezza|2017/12/park-a-kid-bianco|data.oliviero.it/imgprodotto/park-a-kid-bianco_145167",
 "Sdraietta Balloon Turquoise|Balloon è la sdraietta che accoglie in totale confort il tuo bambino|2017/12/sdraietta-balloon-turquoise|data.oliviero.it/imgprodotto/sdraietta-balloon-turquoise-04079282410000_155413",
 "Girello Kamino Red Lines|Il bimbo parte comodamente alla scoperta del mondo seduto sul suo|2017/12/girello-kamino-red-lines|data.oliviero.it/imgprodotto/girello-kamino-red-lines_172146",
 "Altalena Portatile Safari Smile|L'altalena portatile con base Smart & Quiet grazie alla sua|2017/12/altalena-portatile-safari-smile|data.oliviero.it/imgprodotto/altalena-portatile-safari-smile_162741",

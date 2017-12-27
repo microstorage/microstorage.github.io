@@ -1,4 +1,5 @@
 Gr = [
+"Cyclette Paros Pro S Horizon|Le bike della linea PAROS garantiscono un'esperienza di allenamento|2017/12/cyclette-paros-pro-s-horizon|data.oliviero.it/imgprodotto/cyclette-paros-pro-s-horizon_154149",
 "Recumbent Comfort R New|Ampia seduta con supporto lombare, maniglie ergonomiche che rendono|2017/12/recumbent-comfort-r-new|data.oliviero.it/imgprodotto/recumbent-comfort-r-new_154146",
 "Struttura Adonis Rack|Per coordinare al meglio la nostra attività fisica ci viene incontro|2017/12/struttura-adonis-rack|data.oliviero.it/imgprodotto/struttura-adonis-rack_154164",
 "Ellittica Andes 3 New|L'ellittica Andes 3 vi offre la possibilità di fare attività fisica|2017/12/ellittica-andes-3-new|data.oliviero.it/imgprodotto/ellittica-andes-3-new_154154",

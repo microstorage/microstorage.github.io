@@ -1,4 +1,5 @@
 Gr = [
+"Borsa Mum & Baby|La borsa MUM & BABY è ideale per avere sempre a disposizione tutto il|2017/12/borsa-mum-baby|data.oliviero.it/imgprodotto/borsa-mum-%26-baby_93689",
 "Set Baby Smile|Il set sempre sorridenti insegna al tuo bambino a prendersi cura dei|2017/12/set-baby-smile|data.oliviero.it/imgprodotto/set-baby-smile-verde_89868",
 "Pettinella per crosta lattea|Grazie ai suoi denti fini a punta arrotondata la pettinella crosta|2017/12/pettinella-per-crosta-lattea|data.oliviero.it/imgprodotto/pettinella-per-crosta-lattea_139132",
 "Mini kit medicazione ombelicale|Il mini kit permette di fissare e di rimuovere la medicazione con|2017/12/mini-kit-medicazione-ombelicale|data.oliviero.it/imgprodotto/mini-kit-medicazione-ombelicale_138295",

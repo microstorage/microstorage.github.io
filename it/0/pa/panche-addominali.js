@@ -1,4 +1,10 @@
 Gr = [
+"Core Trainer CT80|La panca Tunturi CT80 Core Trainer vanta delle protezioni di gomma|2017/12/core-trainer-ct80|data.oliviero.it/imgprodotto/core-trainer-ct80_171231",
+"Panca Addominali con leg extension AB LEG|Panca piana fitness per addominali pieghevole Realizzata in tubolare|2017/12/panca-addominali-con-leg-extension-ab-leg|data.oliviero.it/imgprodotto/panca-addominali-con-leg-extension-ab-leg_71319",
+"Panca Addominali Force 200|Force 200 della Get Fit, panca da addominali che permette di eseguire|2017/12/panca-addominali-force-200|data.oliviero.it/imgprodotto/panca-addominali-force-200_172764",
+"Panca Addominale AB SMART|Panca addominale dal design ergonomico, semplice da usare, con seduta|2017/12/panca-addominale-ab-smart|data.oliviero.it/imgprodotto/panca-addominale-ab-smart_159172",
+"Panca Addominale AB Crunch Master|AB-CRUNCH MASTER Attrezzo semplice e robusto, ideale per|2017/12/panca-addominale-ab-crunch-master|data.oliviero.it/imgprodotto/panca-addominale-ab-crunch-master_90113",
+"Total Power Training|Total Power Training è un attrezzo ideale per esercitare il muscoli|2017/12/total-power-training|data.oliviero.it/imgprodotto/total-power-training_153945",
 "Struttura Adonis Rack|Per coordinare al meglio la nostra attività fisica ci viene incontro|2017/12/struttura-adonis-rack|data.oliviero.it/imgprodotto/struttura-adonis-rack_154164",
 "Panca Addominali AB Trainer|AB-TRAINER 07629-600 Panca Inclinata da allenamento inclinazione|2017/12/panca-addominali-ab-trainer|data.oliviero.it/imgprodotto/panca-addominali-ab-trainer_130321",
 "Panca Addominali JK 6000|Panca addominali molto resistente e richiudibile con 3 livelli di|2017/12/panca-addominali-jk-6000|data.oliviero.it/imgprodotto/panca-addominali-jk-6000_68411",

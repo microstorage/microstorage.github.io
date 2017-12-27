@@ -1,4 +1,10 @@
 Gr = [
+"Caminetto da muro FP 021 B|Caminetti da muro FP/021/B Caminetto a bioetanolo da muro in metallo|2017/12/caminetto-da-muro-fp-021-b|data.oliviero.it/imgprodotto/caminetto-da-muro-fp-021-b_94248",
+"Tavolino OM-145-A|Tavolino con ripiano superiore girevole bianco/essenza Materiale MDF|2017/12/tavolino-om-145-a|data.oliviero.it/imgprodotto/tavolino-om-145-a_94192",
+"Tavolino OM-143-G|Tavolino con base in metallo e top in MDF laccato giallo Materiale|2017/12/tavolino-om-143-g|data.oliviero.it/imgprodotto/tavolino-om-143-g_136009",
+"Tavolino richiudibile OM-076-N|Tavolino richiudibile base in acciaio top asportabile in MDF laccato|2017/12/tavolino-richiudibile-om-076-n|data.oliviero.it/imgprodotto/tavolino-richiudibile-om-076-n_94241",
+"Tavolino OM-143-T|Tavolino con base in metallo e top in MDF laccato tortora Materiale|2017/12/tavolino-om-143-t|data.oliviero.it/imgprodotto/tavolino-om-143-t_149442",
+"Tavolino richiudibile OM 076 R|Tavolino richiudibile base in acciaio top asportabile in MDF laccato|2017/12/tavolino-richiudibile-om-076-r|data.oliviero.it/imgprodotto/tavolino-richiudibile-om-076-r_94180",
 "Tavolino richiudibile OM-076-T|Tavolino richiudibile base in acciaio top asportabile in MDF laccato|2017/12/tavolino-richiudibile-om-076-t|data.oliviero.it/imgprodotto/tavolino-richiudibile-om-076-t_94181",
 "Caminetto da pavimento FP 003|Caminetti da pavimento FP/003 Caminetto a bioetanolo da pavimento, in|2017/12/caminetto-da-pavimento-fp-003|data.oliviero.it/imgprodotto/caminetto-da-pavimento-fp-003_94261",
 "Caminetto da tavolo FP 002|Caminetti da tavolo FP/002 Caminetto a bioetanolo da tavolo con base|2017/12/caminetto-da-tavolo-fp-002|data.oliviero.it/imgprodotto/caminetto-da-tavolo-fp-002_94246",

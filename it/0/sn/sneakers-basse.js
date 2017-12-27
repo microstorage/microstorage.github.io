@@ -1,4 +1,9 @@
 Gr = [
+"Scarpe Donna Silver e Panna Nebula D641EG C1121|Collezione Primavera Estate Nebula di Geox è una calzatura che|2017/12/scarpe-donna-silver-e-panna-nebula-d641eg-c1121|data.oliviero.it/imgprodotto/scarpe-donna-silver-e-panna-nebula-d641eg-c1121_158410",
+"Scarpe Wmns Nike Tanjun|Le scarpe donna Nike Tanjun sono leggere e dotate di un|2017/12/scarpe-wmns-nike-tanjun|data.oliviero.it/imgprodotto/scarpe-wmns-nike-tanjun-812655-010_167387",
+"Scarpe Field Viola Prugna|Tomaia in pelle scamosciata Logo Diadora a rilievo a lato Ampia|2017/12/scarpe-field-viola-prugna|data.oliviero.it/imgprodotto/scarpe-field-viola-prugna_168214",
+"Scarpe Cortez Ultra Moire 2|Le Nike Cortez Ultra Moire 2, qui nella versione con tomaia in suede|2017/12/scarpe-cortez-ultra-moire-2|data.oliviero.it/imgprodotto/scarpe-cortez-ultra-moire-2_171718",
+"Scarpe Donna Avery Nero|Collezione Primavera Estate Sneakers da donna con tomaia in pelle|2017/12/scarpe-donna-avery-nero|data.oliviero.it/imgprodotto/scarpe-donna-avery-nero_165219",
 "Scarpe Jazz Original Donna|Saucony Originals Jazz O' donna Nero/Verde Acqua : dal 1981 le|2017/12/scarpe-jazz-original-donna|data.oliviero.it/imgprodotto/scarpe-jazz-original-donna_167356",
 "Scarpe Uomo Bianco New Do|Collezione Primavera Estate Innovazione allo stato puro, con un|2017/12/scarpe-uomo-bianco-new-do|data.oliviero.it/imgprodotto/scarpe-uomo-bianco-new-do-u620qb-c1000_158227",
 "Scarpe Air Max 95 Essential|La scarpa Nike Air Max 95 Essential - Uomo è caratterizzata|2017/12/scarpe-air-max-95-essential|data.oliviero.it/imgprodotto/scarpe-air-max-95-essential_171726",

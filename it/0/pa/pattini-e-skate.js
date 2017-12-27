@@ -1,4 +1,9 @@
 Gr = [
+"Roller Macroblade 80|Caratteristiche tecniche: Macroblade 80 dispone di componenti di alta|2017/12/roller-macroblade-80|data.oliviero.it/imgprodotto/roller-macroblade-80_80391",
+"Pattini in linea FIREWHEEL PRO|Descrizione: Asse ruota : alluminio - spessore 2,2 mm Scarpetta|2017/12/pattini-in-linea-firewheel-pro|data.oliviero.it/imgprodotto/pattini-in-linea-firewheel-pro-colore-nero_162397",
+"Pattini In-Line Easy Roller Rosa Regolabili|Pattini X-Line Easy Roller Regolabili Rosa, pattini regolabili fino|2017/12/pattini-in-line-easy-roller-rosa-regolabili|data.oliviero.it/imgprodotto/pattini-in-line-easy-roller-rosa-regolabili_165988",
+"Skateboard TRIBE PRO WHITE SKULL|Descrizione: Dimensioni tavola : 79x20 cm Materiale tavola|2017/12/skateboard-tribe-pro-white-skull|data.oliviero.it/imgprodotto/skateboard-tribe-pro-white-skull_162367",
+"Roller Zetrablade Nero Rosso|Confortevole, semplice e costruito per durare. Mantiene il piede ben|2017/12/roller-zetrablade-nero-rosso|data.oliviero.it/imgprodotto/roller-zetrablade-nero-rosso_138401",
 "Roller Moody 4.0 Boy|Pattini in linea regolabili. Scafo: HQ polipropilene rinforzato con|2017/12/roller-moody-4-0-boy|data.oliviero.it/imgprodotto/roller-moody-4-0-boy_81054",
 "Casco Tattoo Aggressive|Il casco TATTOO AGGRESSIVE è specificatamente progettato da Roces per|2017/12/casco-tattoo-aggressive|data.oliviero.it/imgprodotto/casco-tattoo-aggressive-301418_157362",
 "Skateboard Rocket Complete Fade Series|Skateboard perfetto per i principianti Deck: 7 strati macchiato|2017/12/skateboard-rocket-complete-fade-series|data.oliviero.it/imgprodotto/skateboard-rocket-complete-fade-series_157623",

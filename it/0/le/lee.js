@@ -1,4 +1,5 @@
 Gr = [
+"Giacca Sherpa Rider|La giacca Lee® Sherpa, con taglio slim per esaltare le forme, è la|2017/12/giacca-sherpa-rider|data.oliviero.it/imgprodotto/giacca-sherpa-rider_170948",
 "Short Donna Boyfriend|Collezione Primavera Estate I Boyfriend Shorts di Lee® sono un|2017/12/short-donna-boyfriend|data.oliviero.it/imgprodotto/short-donna-boyfriend-l37gcdjx_161130",
 "Jeans Uomo Luke Slim Tapered|I jeans Luke di Lee® sono i jeans slim per eccellenza. Hanno una vita|2017/12/jeans-uomo-luke-slim-tapered|data.oliviero.it/imgprodotto/jeans-uomo-luke-slim-tapered_170929",
 "Jeans Jodee Regular Waist Super Skinny|Lee® Jodee è il nostro modello ultra skinny dalla vita regular. Ha|2017/12/jeans-jodee-regular-waist-super-skinny|data.oliviero.it/imgprodotto/jeans-jodee-regular-waist-super-skinny_170942",

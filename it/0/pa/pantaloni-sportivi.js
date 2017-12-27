@@ -1,4 +1,10 @@
 Gr = [
+"Pantaloncini Sportivi Uomo Nero e Bianco|Celebra la mitica serie SST. Questi short da uomo si ispirano alle|2017/12/pantaloncini-sportivi-uomo-nero-e-bianco|data.oliviero.it/imgprodotto/pantaloncini-sportivi-uomo-nero-e-bianco_165301",
+"Pantaloncini Uomo Grigio|Collezione Autunno Inverno/2018 Gli shorts Nike Sportswear - Uomo|2017/12/pantaloncini-uomo-grigio|data.oliviero.it/imgprodotto/pantaloncini-uomo-grigio_167721",
+"Pantaloni Sportivi Nero Uomo|Pantaloni lunghi in tuta di Adidas Originals. Due tasche laterali|2017/12/pantaloni-sportivi-nero-uomo|data.oliviero.it/imgprodotto/pantaloni-sportivi-nero-uomo_168063",
+"Pantaloni Sportivi Uomo Charcoal|Collezione Autunno Inverno/2018 Pantaloni sportivi da uomo realizzati|2017/12/pantaloni-sportivi-uomo-charcoal|data.oliviero.it/imgprodotto/pantaloni-sportivi-uomo-charcoal_167679",
+"Pantaloni Skinny Donna Nero|Collezione Primavera Estate Questi pantaloni da donna sfoggiano un|2017/12/pantaloni-skinny-donna-nero|data.oliviero.it/imgprodotto/pantaloni-skinny-donna-nero-b47317_159312",
+"Pantaloncino T15033 J7479 81741|Collezione Liu Jo Sport Pantaloncino da donna con elastico in vita|2017/12/pantaloncino-t15033-j7479-81741|data.oliviero.it/imgprodotto/pantaloncino-t15033-j7479-81741_146831",
 "Capri Donna Blu|Pantaloni 3/4 da donna in tessuto tecnico che aiuta a rimanere|2017/12/capri-donna-blu|data.oliviero.it/imgprodotto/capri-donna-blu_169660",
 "Pantalone Sportivo T15093 F0247 03N98|Collezione Liu Jo Sport Pantalone sportivo da donna, lunghezza 3/4|2017/12/pantalone-sportivo-t15093-f0247-03n98|data.oliviero.it/imgprodotto/pantalone-sportivo-t15093-f0247-03n98_146837",
 "Pantaloni Sportivi Uomo Camouflage|Pantaloni sportivi da uomo con una stampa mimetica allover che dona|2017/12/pantaloni-sportivi-uomo-camouflage|data.oliviero.it/imgprodotto/pantaloni-sportivi-uomo-camouflage_168093",

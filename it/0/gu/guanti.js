@@ -1,4 +1,11 @@
 Gr = [
+"Guanti da moto Flash R Evo|Flash-R Evo evolve il concetto del suo predecessore, esaltandone|2017/12/guanti-da-moto-flash-r-evo|data.oliviero.it/imgprodotto/guanti-da-moto-flash-r-evo-b79k-011_164803",
+"Guanti MMA Impact|Guanto da MMA da allenamento ultra - protettivo soprattutto su|2017/12/guanti-mma-impact|data.oliviero.it/imgprodotto/guanti-mma-impact_171404",
+"Guanti MMA L47|Perfetto mix di cura per i dettagli e ricerca dei più attuali trend|2017/12/guanti-mma-l47|data.oliviero.it/imgprodotto/guanti-mma-l47_171416",
+"Guanti MMA KIMURA MX|Caratteristiche: GENUINE LEATHER pelle ultra morbida e liscia|2017/12/guanti-mma-kimura-mx|data.oliviero.it/imgprodotto/guanti-mma-kimura-mx_65961",
+"Guantoni BLACKSTORM Skull Nero 10 oz|Caratteristiche Prodotto: -Prestazione 3/5 -Qualità 4/5 -Sistema di|2017/12/guantoni-blackstorm-skull-nero-10-oz|data.oliviero.it/imgprodotto/guantoni-blackstorm-skull-nero-10-oz_159705",
+"Guantoni Cyclone Restyling 10 oz|Caratteristiche: Guantoni Sphinx Cyclone Restyling: Class essential|2017/12/guantoni-cyclone-restyling-10-oz|data.oliviero.it/imgprodotto/guantoni-cyclone-restyling-10-oz_159704",
+"Guanti da Boxe Armalite 12oz|Guanti da Boxe Caratteristiche: Pelle esterna SLV3 per durata|2017/12/guanti-da-boxe-armalite-12oz|data.oliviero.it/imgprodotto/guanti-da-boxe-armalite-12oz-sabg-0113_92975",
 "Guanti da moto G-Flash Tex Lady|Guanti in tessuto tecnico con inserti in microfibra e zone|2017/12/guanti-da-moto-g-flash-tex-lady|data.oliviero.it/imgprodotto/guanti-da-moto-g-flash-tex-lady_165750",
 "Guanti da Boxe Armalite 10oz|Guanti da Boxe Caratteristiche: Pelle esterna SLV3 per durata|2017/12/guanti-da-boxe-armalite-10oz|data.oliviero.it/imgprodotto/guanti-da-boxe-armalite-10oz-sabg-0112_92974",
 "Guanti BLACKHAWK Evo Nero 10 oz|Caratteristiche: GENUINE LEATHER pelle ultra morbida e liscia|2017/12/guanti-blackhawk-evo-nero-10-oz|data.oliviero.it/imgprodotto/guanti-blackhawk-evo-nero-10-oz_73216",

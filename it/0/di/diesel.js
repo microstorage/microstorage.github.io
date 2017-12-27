@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloni donna Fecut|Collezione Primavera Estate Tipologia: Pantalone da donna Tessuto:|2017/12/pantaloni-donna-fecut|data.oliviero.it/imgprodotto/pantaloni-donna-fecut_12928_big",
 "Pantaloni donna Stiny|Collezione Primavera Estate Tipologia: Pantalone da donna Tessuto:|2017/12/pantaloni-donna-stiny|data.oliviero.it/imgprodotto/pantaloni-donna-stiny_9456_big",
 "Pantaloni donna Basebi|Collezione Primavera Estate Tipologia: Pantalone da donna Tessuto: Il|2017/12/pantaloni-donna-basebi|data.oliviero.it/imgprodotto/pantaloni-donna-basebi_9181_big",
 "Pantaloni donna Diskol|Pantalone da donna con vita regolare e tasche dal taglio classico|2017/12/pantaloni-donna-diskol|data.oliviero.it/imgprodotto/pantaloni-donna-diskol_10135_big",

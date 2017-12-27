@@ -1,4 +1,7 @@
 Gr = [
+"Scarpe Calcio Copa Mundial|Un buon motivo per scegliere la scarpa più popolare di tutti i tempi|2017/12/scarpe-calcio-copa-mundial|data.oliviero.it/imgprodotto/scarpe-calcio-copa-mundial-015110_151573",
+"Scarpe Calcio MRL Club MD|La MRL Club mantiene le caratteristiche base di tocco e calzata|2017/12/scarpe-calcio-mrl-club-md|data.oliviero.it/imgprodotto/scarpe-calcio-mrl-club-md-p1ga160637_151173",
+"Scarpe Calcio Uomo Tiempo Myst FG|La scarpa da calcio per terreni duri Nike Tiempo Mystic V - uomo|2017/12/scarpe-calcio-uomo-tiempo-myst-fg|data.oliviero.it/imgprodotto/scarpe-calcio-uomo-tiempo-myst-fg-819236-707_159917",
 "Scarpe Calcio Winner RB K-Plus MG14|Una calzatura dedicata ai calciatori che fanno del controllo e del|2017/12/scarpe-calcio-winner-rb-k-plus-mg14|data.oliviero.it/imgprodotto/scarpe-calcio-winner-rb-k-plus-mg14_167291",
 "Scarpe Calcio evoPower 2 FG|Utilizzo: Calzatura calcio da uomo Tomaia: Pelle sintetica|2017/12/scarpe-calcio-evopower-2-fg|data.oliviero.it/imgprodotto/scarpe-calcio-evopower-2-fg-102945-04_87963",
 "Scarpe Calcio Ace 16.3 FG Leather|Hai già fatto capire di essere veloce. Dimostra di essere il primo|2017/12/scarpe-calcio-ace-16-3-fg-leather|data.oliviero.it/imgprodotto/scarpe-calcio-ace-16-3-fg-leather-s79724_154305",

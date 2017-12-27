@@ -1,4 +1,5 @@
 Gr = [
+"Lampada petalo polypropilene|Lampada da tavolo PETALO paralume realizzato in polipropilene bianco|2017/12/lampada-petalo-polypropilene|data.oliviero.it/imgprodotto/lampada-petalo-polypropilene_77964",
 "Tubo luminoso bianco 8m Duralight|Tubo 3 fili rincorrente bianco per uso interno ed esterno Lunghezza|2017/12/tubo-luminoso-bianco-8m-duralight|data.oliviero.it/imgprodotto/tubo-luminoso-bianco-8m-duralight_156402",
 "Torcia Flash Light Spider Man|La torcia tascabile Philips and Marvel Spider-Man illumina le|2017/12/torcia-flash-light-spider-man|data.oliviero.it/imgprodotto/torcia-flash-light-spider-man_107585",
 "Lampada da Tavolo Winnie the Pooh|Questa lampada da comodino Philips e Disney Winnie The Pooh ha come|2017/12/lampada-da-tavolo-winnie-the-pooh|data.oliviero.it/imgprodotto/lampada-da-tavolo-winnie-the-pooh_107557",

@@ -1,4 +1,8 @@
 Gr = [
+"Fasciatoio Cuddle & bubble Eucalyptus 079348|Cuddle & Bubble è il nuovo fasciatoio che si trasforma in bagnetto|2017/12/fasciatoio-cuddle-bubble-eucalyptus-079348|data.oliviero.it/imgprodotto/fasciatoio-cuddle-%26-bubble-eucalyptus-079348_158623",
+"Hippo Cappellino|Cappellino ampio e morbido che si fissa delicatamente sulla testa del|2017/12/hippo-cappellino|data.oliviero.it/imgprodotto/hippo-cappellino_137089",
+"Fasciatoio Cuddle & bubble Sage 079348|Cuddle & Bubble è il nuovo fasciatoio che si trasforma in bagnetto|2017/12/fasciatoio-cuddle-bubble-sage-079348|data.oliviero.it/imgprodotto/fasciatoio-cuddle-%26-bubble-sage-079348_173346",
+"Fasciatoio Olimpia Multicolor|Il piano fasciatoio è ben imbottito e con spondine di sicurezza|2017/12/fasciatoio-olimpia-multicolor|data.oliviero.it/imgprodotto/fasciatoio-olimpia-multicolor_172607",
 "Fasciatoio Tris Ciak Sbiancato|Pali offre una linea completa di bagnetti fasciatoio, per la cura del|2017/12/fasciatoio-tris-ciak-sbiancato|data.oliviero.it/imgprodotto/fasciatoio-tris-ciak-sbiancato_153452",
 "Aqua Fasciatoio 219|Bagnetto / fasciatoio dalle forme moderne. La vaschetta è dotata di|2017/12/aqua-fasciatoio-219|data.oliviero.it/imgprodotto/aqua-fasciatoio-219_171525",
 "Fasciatoio Cambio 226|Morbido fasciatoio con sistema di anti-ribaltamento, include|2017/12/fasciatoio-cambio-226|data.oliviero.it/imgprodotto/fasciatoio-cambio-226_158817",

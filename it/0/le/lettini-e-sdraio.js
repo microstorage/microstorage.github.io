@@ -1,4 +1,6 @@
 Gr = [
+"Dondolino Resort text Apple|Caratteristiche tecniche: Materiale: textilene Struttura: alluminio|2017/12/dondolino-resort-text-apple|data.oliviero.it/imgprodotto/dondolino-resort-text-apple_87101",
+"Brandina Scout|Brandina pieghevole Caratteristiche tecniche: Materiale: polyestere|2017/12/brandina-scout|data.oliviero.it/imgprodotto/brandina-scout_87114",
 "Spiaggina Playa Text Apple|Spiaggina Pieghevole. Caratteristiche tecniche: Materiale: textilene|2017/12/spiaggina-playa-text-apple|data.oliviero.it/imgprodotto/spiaggina-playa-text-apple_87096",
 "Brandina USA ALU|Brandina da campo in alluminio Caratteristiche: Materiale: polyestere|2017/12/brandina-usa-alu|data.oliviero.it/imgprodotto/brandina-usa-alu_87118",
 "Poltrona basculante 5374|Poltrona basculante Caratteristiche tecniche: Telaio in acciaio 22 mm|2017/12/poltrona-basculante-5374|data.oliviero.it/imgprodotto/poltrona-basculante-5374_58743",

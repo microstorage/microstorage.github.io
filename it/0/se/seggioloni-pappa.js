@@ -1,4 +1,7 @@
 Gr = [
+"Seggiolone Istante S2400 C219|7 altezze, 4 inclinazioni dello schienale utilizzabile dalla nascita|2017/12/seggiolone-istante-s2400-c219|data.oliviero.it/imgprodotto/seggiolone-istante-s2400-c219_156045",
+"Seggiolone B-Fun Beige Sabbia|B.Fun è il seggiolone multifunzione con caratteristiche tecnico|2017/12/seggiolone-b-fun-beige-sabbia|data.oliviero.it/imgprodotto/seggiolone-b-fun-beige-sabbia_172596",
+"Seggiolone Istante S2400 235|Istante Seggiolone è il nuovissimo seggiolone di Cam per magiare|2017/12/seggiolone-istante-s2400-235|data.oliviero.it/imgprodotto/seggiolone-istante-s2400-235_171516",
 "Prima Pappa Zero3 Paloma|Prima Pappa Zero 3 è il seggiolone ultraleggero e multifunzionale|2017/12/prima-pappa-zero3-paloma|data.oliviero.it/imgprodotto/prima-pappa-zero3-paloma_146036",
 "Seggiolone Dan Chair con cuscino|Il baby Dan danchair è progettato con piedini extra lungo per fornire|2017/12/seggiolone-dan-chair-con-cuscino|data.oliviero.it/imgprodotto/seggiolone-dan-chair-con-cuscino_162739",
 "Gusto Seggiolone apple|Nuovissimo seggiolone Gusto da Inglesina dal design moderno|2017/12/gusto-seggiolone-apple|data.oliviero.it/imgprodotto/gusto-seggiolone-apple_124721",

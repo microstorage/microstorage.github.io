@@ -1,4 +1,6 @@
 Gr = [
+"Panca Multifunzione JK 6096|SPESSORE TUBI: 50 mm SPESSORE IMBOTTITURE:50 mm CARATTERISTICHE:|2017/12/panca-multifunzione-jk-6096|data.oliviero.it/imgprodotto/panca-multifunzione-jk-6096_14497_big",
+"Modulo Leg extension, Leg Curl|KINETIC SYSTEM Il nuovo concetto modulare Kinetic system è costituito|2017/12/modulo-leg-extension-leg-curl|data.oliviero.it/imgprodotto/modulo-leg-extension-leg-curl-kinetic-system_130393",
 "Panca Multifunzione Force ST 3300|Panca Multifunzione ST 3300 Nuova stazione multiuso ST 3300 ottima|2017/12/panca-multifunzione-force-st-3300|data.oliviero.it/imgprodotto/panca-multifunzione-force-st-3300_168528",
 "Modulo Dip Station|KINETIC SYSTEM Il nuovo concetto modulare Kinetic system è costituito|2017/12/modulo-dip-station|data.oliviero.it/imgprodotto/modulo-dip-station-kinetic-system_130391",
 "Panca Multifunzione Black Gym|Panca Multifunzione ideale per l'utilizzo domestico. Pacco pesi di|2017/12/panca-multifunzione-black-gym|data.oliviero.it/imgprodotto/panca-multifunzione-black-gym_124134",

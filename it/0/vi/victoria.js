@@ -1,4 +1,9 @@
 Gr = [
+"Tapis Roulant St 5000|SCOPRI IL NUOVO VIC 7000 DISPLAY TOUCH SCREEN E WiFi CLICCA QUI Tapis|2017/12/tapis-roulant-st-5000|data.oliviero.it/imgprodotto/tapis-roulant-st-5000_127097",
+"Borsone Sportivo BO7111 Nero|Borsa sportiva doppia maniglia per appendere e tasca frontale con|2017/12/borsone-sportivo-bo7111-nero|data.oliviero.it/imgprodotto/borsone-sportivo-bo7111-nero_152109",
+"Materassino Tappetino per Esercizi a terra|Tappetino per il fitness ripieghevole Imbottito e rifinito in|2017/12/materassino-tappetino-per-esercizi-a-terra|data.oliviero.it/imgprodotto/materassino-tappetino-per-esercizi-a-terra_142887",
+"Gym Ball Antiscoppio 65 cm|Victoria , il nuovo marchio di proprietà Oliviero, vi propone la|2017/12/gym-ball-antiscoppio-65-cm|data.oliviero.it/imgprodotto/gym-ball-antiscoppio-65-cm_74500",
+"Disco in ghisa 1 2 5 10 kg|Disco in ghisa verniciato nero. Ideale per bilancieri e manubri per|2017/12/disco-in-ghisa-1-2-5-10-kg|data.oliviero.it/imgprodotto/disco-in-ghisa-1-2-5-10-kg_145896",
 "Fascia elastica Medium|Fascia elastica con resistenza media per esercizi di gambe e braccia|2017/12/fascia-elastica-medium|data.oliviero.it/imgprodotto/fascia-elastica-medium_157966",
 "Borsone Sportivo BO7111 Blu|Borsa sportiva doppia maniglia per appendere e tasca frontale con|2017/12/borsone-sportivo-bo7111-blu|data.oliviero.it/imgprodotto/borsone-sportivo-bo7111-blu_152111",
 "Tappetino Insonorizzante 180x90|Tappeto in PVC, fonoassorbente ad alta densità perfetto per|2017/12/tappetino-insonorizzante-180x90|data.oliviero.it/imgprodotto/tappetino-insonorizzante-180x90_140806",

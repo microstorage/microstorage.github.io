@@ -1,4 +1,5 @@
 Gr = [
+"Casco Ciclismo Ventus Nero|Utilizzato dai Pro. Ventus è un casco innovativo dotato di Protetto|2017/12/casco-ciclismo-ventus-nero|data.oliviero.it/imgprodotto/casco-ciclismo-ventus-nero_165359",
 "Maschera Sci Amiata Matt Black|Amiata è una maschera accessibile con ottime proprietà: tripla spugna|2017/12/maschera-sci-amiata-matt-black|data.oliviero.it/imgprodotto/maschera-sci-amiata-matt-black_171739",
 "Maschera Sci Nyira Free Fighter|Con l'aggiunta di piccole chele laterali al frame in poliuretano|2017/12/maschera-sci-nyira-free-fighter|data.oliviero.it/imgprodotto/maschera-sci-nyira-free-fighter_171743",
 "Casco Sci Snowy|Un tunnel che scorre dai fori frontali alle prese sul retro|2017/12/casco-sci-snowy|data.oliviero.it/imgprodotto/casco-sci-snowy-sh0004-a026_138663",

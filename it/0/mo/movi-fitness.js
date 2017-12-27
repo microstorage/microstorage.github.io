@@ -1,4 +1,6 @@
 Gr = [
+"Recumbent X-COMPACT MF620|Recumbent bike o cyclette orizzontale caratterizzata dalla posizione|2017/12/recumbent-x-compact-mf620|data.oliviero.it/imgprodotto/recumbent-x-compact-mf620_90947",
+"Barra a Muro MF525|Barra a muro cm 127x45x60 Barra in acciaio da fissare al muro Ideale|2017/12/barra-a-muro-mf525|data.oliviero.it/imgprodotto/barra-a-muro-mf525_148569",
 "Tapis Roulant MF395 Compact|Descrizione: Motore : 2,0 HP CONTINUATIVI / 3,0 HP DC DI SPUNTO|2017/12/tapis-roulant-mf395-compact|data.oliviero.it/imgprodotto/tapis-roulant-mf395-compact_162487",
 "Bilanciere acciaio cromato 180cm|Bilanciere in acciaio cromato per dischi da 25mm. Lunghezza 180 cm|2017/12/bilanciere-acciaio-cromato-180cm|data.oliviero.it/imgprodotto/bilanciere-acciaio-cromato-180cm_58154",
 "Cyclette MF604|Caratteristiche Sistema frenante magnetico Regolazione freno|2017/12/cyclette-mf604|data.oliviero.it/imgprodotto/cyclette-mf604_165475",

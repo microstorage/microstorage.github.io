@@ -1,4 +1,7 @@
 Gr = [
+"Scarpe Calcio MRL Club MD|La MRL Club mantiene le caratteristiche base di tocco e calzata|2017/12/scarpe-calcio-mrl-club-md|data.oliviero.it/imgprodotto/scarpe-calcio-mrl-club-md-p1ga160637_151173",
+"Scarpe Running Wave Rider 21 (W)|Progettata per una corsa ancora più performante, Wave Rider 21 grazie|2017/12/scarpe-running-wave-rider-21-w|data.oliviero.it/imgprodotto/scarpe-running-wave-rider-21-w-_173408",
+"Scarpe Running Wave Rider 20|Corri più lontano con le nuove Mizuno Wave Rider 20, una scarpa più|2017/12/scarpe-running-wave-rider-20|data.oliviero.it/imgprodotto/scarpe-running-wave-rider-20_165881",
 "Scarpe Running Wave Creation 19|Rapida e reattiva, la scarpa da running Mizuno Creation 19 è stata|2017/12/scarpe-running-wave-creation-19|data.oliviero.it/imgprodotto/scarpe-running-wave-creation-19_166516",
 "Scarpe Pallavolo Wave Hurricane 3 Mid W|Wave Bolt è una scarpa specifica per risposte veloci e performance|2017/12/scarpe-pallavolo-wave-hurricane-3-mid-w|data.oliviero.it/imgprodotto/scarpe-pallavolo-wave-hurricane-3-mid-w_169828",
 "Scarpe Running Synchro MX2 (W)|Mizuno Synchro MX 2 è costituita da tipologie di intersuola|2017/12/scarpe-running-synchro-mx2-w|data.oliviero.it/imgprodotto/scarpe-running-synchro-mx2-w-j1gf171902_162416",

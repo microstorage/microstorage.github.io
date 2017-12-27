@@ -1,4 +1,6 @@
 Gr = [
+"Giubbotto Uomo Phantom|Collezione Autunno Inverno/2018 Giubbotto da uomo con allacciatura|2017/12/giubbotto-uomo-phantom|data.oliviero.it/imgprodotto/giubbotto-uomo-phantom_169348",
+"Giubbino Uomo Blu|Collezione Autunno Inverno/2018 Piumino con cappuccio di tendenza|2017/12/giubbino-uomo-blu|data.oliviero.it/imgprodotto/giubbino-uomo-blu_169210",
 "Giubbino Uomo Asphalt|Collezione Autunno Inverno/2018 Piumino con cappuccio di tendenza|2017/12/giubbino-uomo-asphalt|data.oliviero.it/imgprodotto/giubbino-uomo-asphalt_169208",
 "Giubbotto Uomo Rosso|Collezione Autunno Inverno/2018 Sottile e leggera, ma robusta: una|2017/12/giubbotto-uomo-rosso|data.oliviero.it/imgprodotto/giubbotto-uomo-rosso_171055",
 "Giacca Uomo Antivento antracite e Verde|Collezione Autunno Inverno/2018 Softshell da uomo risponde a tutte le|2017/12/giacca-uomo-antivento-antracite-e-verde|data.oliviero.it/imgprodotto/giacca-uomo-antivento-antracite-e-verde_169220",

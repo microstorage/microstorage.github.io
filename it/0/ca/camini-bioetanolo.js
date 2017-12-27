@@ -1,4 +1,6 @@
 Gr = [
+"Caminetto da muro FP 021 B|Caminetti da muro FP/021/B Caminetto a bioetanolo da muro in metallo|2017/12/caminetto-da-muro-fp-021-b|data.oliviero.it/imgprodotto/caminetto-da-muro-fp-021-b_94248",
+"Caminetto a bioetanolo feel|Camino a bioetanolo\"FEEL\" base in acciaio verniciato bianco e nero|2017/12/caminetto-a-bioetanolo-feel|data.oliviero.it/imgprodotto/caminetto-a-bioetanolo-feel_78655",
 "Caminetto da pavimento FP 003|Caminetti da pavimento FP/003 Caminetto a bioetanolo da pavimento, in|2017/12/caminetto-da-pavimento-fp-003|data.oliviero.it/imgprodotto/caminetto-da-pavimento-fp-003_94261",
 "Caminetto da tavolo FP 002|Caminetti da tavolo FP/002 Caminetto a bioetanolo da tavolo con base|2017/12/caminetto-da-tavolo-fp-002|data.oliviero.it/imgprodotto/caminetto-da-tavolo-fp-002_94246",
 "Caminetto da tavolo FP 001|Caminetti da tavolo FP/001 Caminetto a bioetanolo da tavolo in|2017/12/caminetto-da-tavolo-fp-001|data.oliviero.it/imgprodotto/caminetto-da-tavolo-fp-001_94245",

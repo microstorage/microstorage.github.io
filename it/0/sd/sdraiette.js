@@ -1,4 +1,6 @@
 Gr = [
+"Sdraietta Hooplà Princess|Comfort ideale per i primi mesi, divertimento unico per le prime|2017/12/sdraietta-hoopla-princess|data.oliviero.it/imgprodotto/sdraietta-hoopl%C3%A0-princess-00079840490000_155542",
+"Sonnolento 225|- Età di utilizzo: 0-9 kg;- Descrizione: Schienale regolabile in|2017/12/sonnolento-225|data.oliviero.it/imgprodotto/sonnolento-225_136375",
 "Sdraietta Balloon Turquoise|Balloon è la sdraietta che accoglie in totale confort il tuo bambino|2017/12/sdraietta-balloon-turquoise|data.oliviero.it/imgprodotto/sdraietta-balloon-turquoise-04079282410000_155413",
 "Altalena Portatile Safari Smile|L'altalena portatile con base Smart & Quiet grazie alla sua|2017/12/altalena-portatile-safari-smile|data.oliviero.it/imgprodotto/altalena-portatile-safari-smile_162741",
 "Sonnolento 219|- Età di utilizzo: 0-9 kg;- Descrizione: Schienale regolabile in|2017/12/sonnolento-219|data.oliviero.it/imgprodotto/sonnolento-219_136373",

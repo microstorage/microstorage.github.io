@@ -1,4 +1,6 @@
 Gr = [
+"Pianoforte del Cagnolino|Un fantastico Pianoforte colorato per imparare la musica in compagnia|2017/12/pianoforte-del-cagnolino|data.oliviero.it/imgprodotto/pianoforte-del-cagnolino-dld22_156706",
+"ABC Libro Animali|Libretto parlante bilingue che introduce i bambini nel regno degli|2017/12/abc-libro-animali|data.oliviero.it/imgprodotto/abc-libro-animali-00000996000000_138798",
 "Chiave Parlante|La simpatica chiave bilingue con effetti luminosi ad intermittenza|2017/12/chiave-parlante|data.oliviero.it/imgprodotto/chiave-parlante-00000995000000_154081",
 "Telefonino Parlante|Età: 3m+ Il telefonino paralante che aiuta il bambino|2017/12/telefonino-parlante|data.oliviero.it/imgprodotto/telefonino-parlante-00071408000000_137983",
 "Cubetti Disney|Set formato da 4 cubi in tessuto, impilabili e colorati, ognuno dei|2017/12/cubetti-disney|data.oliviero.it/imgprodotto/cubetti-disney_139259",

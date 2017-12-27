@@ -1,4 +1,6 @@
 Gr = [
+"Scarpe Calcio EvoSpeed 3.5 Lth FG|Le evoSPEED 3.5 Lth sono scarpe performanti per terreni compatti che|2017/12/scarpe-calcio-evospeed-3-5-lth-fg|data.oliviero.it/imgprodotto/scarpe-calcio-evospeed-3-5-lth-fg-103794-01_152758",
+"Scarpe da Calcio Copa 17.2 FG|Raggiungi il pallone per primo. Punta la porta. Fin dove puoi|2017/12/scarpe-da-calcio-copa-17-2-fg|data.oliviero.it/imgprodotto/scarpe-da-calcio-copa-17-2-fg-ba8521_159870",
 "Scarpe Calcio Jr. Mercurial Victory V FG|Scarpe Calcio Jr. Mercurial Victory V FG - 651634 580|2017/12/scarpe-calcio-jr-mercurial-victory-v-fg|data.oliviero.it/imgprodotto/scarpe-calcio-jr-mercurial-victory-v-fg-651634-580_140140",
 "Scarpe Calcio X 16.3 FG Leather|I giocatori esplosivi riscrivono le regole. Gioca alla grande|2017/12/scarpe-calcio-x-16-3-fg-leather|data.oliviero.it/imgprodotto/scarpe-calcio-x-16-3-fg-leather-bb4195_154301",
 "Scarpe Calcio Tiempo Ligera IV FG|La scarpa da calcio per terreni duri Nike Tiempo Ligera IV, con|2017/12/scarpe-calcio-tiempo-ligera-iv-fg|data.oliviero.it/imgprodotto/scarpe-calcio-tiempo-ligera-iv-fg_167382",

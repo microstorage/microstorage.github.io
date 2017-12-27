@@ -1,4 +1,5 @@
 Gr = [
+"Sgabello Pratik 350|Caratteristiche tecniche: Materiale: polyestere Struttura: alluminio|2017/12/sgabello-pratik-350|data.oliviero.it/imgprodotto/sgabello-pratik-350_85530",
 "Panca Catering 183x30|Materiale: HD Polietilene alta densità lavabile Struttura: Ferro Ø 25|2017/12/panca-catering-183x30|data.oliviero.it/imgprodotto/panca-catering-183x30_147530",
 "Sedia Reclinabile Style|Sedia reclinabile in 8 posizioni con cuscino integrato e bracciolo|2017/12/sedia-reclinabile-style|data.oliviero.it/imgprodotto/sedia-reclinabile-style_150020",
 "Zen Poggiapiedi Regolabile per sedia Style|Poggiapiedi regolabile in 2 posizioni per sedia Style Struttura:|2017/12/zen-poggiapiedi-regolabile-per-sedia-style|data.oliviero.it/imgprodotto/zen-poggiapiedi-regolabile-per-sedia-style_150022",

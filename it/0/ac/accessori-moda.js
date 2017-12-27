@@ -1,4 +1,11 @@
 Gr = [
+"Orologio T5K367|Forma articolo: Tondo Tipo di vetro: Plastica Display: Analogico|2017/12/orologio-t5k367|data.oliviero.it/imgprodotto/orologio-t5k367_14583_big",
+"Cartella 2 Soffietti PC Compatibile|Organizzazione e funzionalità prima di tutto Caratteristiche:|2017/12/cartella-2-soffietti-pc-compatibile|data.oliviero.it/imgprodotto/cartella-2-soffietti-pc-compatibile_7127_big",
+"Trolley New Jack Widget|Non conosci ancora Jack??? JACK è il trolley brevettato Seven che|2017/12/trolley-new-jack-widget|data.oliviero.it/imgprodotto/trolley-new-jack-widget_166136",
+"Trolley 4R Belmont Blu L|Valigia trolley 4 ruote 70 cm H 70.5 x L 47 x E 28.5 cm - 76.23L|2017/12/trolley-4r-belmont-blu-l|data.oliviero.it/imgprodotto/trolley-4r-belmont-blu-l-3840820_160841",
+"Borsa Lisboa Eternal|Borsa a tracolla nera di forma arrotondata con ricami e strass|2017/12/borsa-lisboa-eternal|data.oliviero.it/imgprodotto/borsa-lisboa-eternal-67x51j24009_155386",
+"Zainetto per il Pranzo Mouse|Zainetto per l'asilo, morbido e con un capiente vano principale|2017/12/zainetto-per-il-pranzo-mouse|data.oliviero.it/imgprodotto/zainetto-per-il-pranzo-mouse-skip-hop_140396",
+"Porta Passaporto| Porta Passaporto di colore nero  Realizzato in gomma  Dettagli:|2017/12/porta-passaporto|data.oliviero.it/imgprodotto/porta-passaporto_117425",
 "Borsa Florida Snake|Collezione Autunno Inverno/2018 Borsa nera da donna tipo shopper con|2017/12/borsa-florida-snake|data.oliviero.it/imgprodotto/borsa-florida-snake_170786",
 "Zaino Voyage Bloom|Zaino Chiusura a zip bidirezionale Tasca esterna con chiusura a zip|2017/12/zaino-voyage-bloom|data.oliviero.it/imgprodotto/zaino-voyage-bloom_169132",
 "Borsa Shopper Cuenca Metal Nero|Collezione Autunno Inverno/2018 Borsa nera da donna tipo shopper in|2017/12/borsa-shopper-cuenca-metal-nero|data.oliviero.it/imgprodotto/borsa-shopper-cuenca-metal-nero_170784",

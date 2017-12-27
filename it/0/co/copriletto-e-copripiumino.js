@@ -1,4 +1,10 @@
 Gr = [
+"Completo Copripiumino City Grigio|Tessuto di puro cotone. Colore vivo. Singolo Sacco 155x200 cm|2017/12/completo-copripiumino-city-grigio|data.oliviero.it/imgprodotto/completo-copripiumino-city-grigio_166719",
+"Completo Copripiumino Princess Magia|Completo copripiumino composto da sacco e federa Singolo Sacco|2017/12/completo-copripiumino-princess-magia|data.oliviero.it/imgprodotto/completo-copripiumino-princess-magia_153926",
+"Scaldaletto Singolo Lana Sintetica Dolly|Scaldaletto Singolo Lana Sintetica Dolly Codice: RI.402 Descrizione|2017/12/scaldaletto-singolo-lana-sintetica-dolly|data.oliviero.it/imgprodotto/scaldaletto-singolo-lana-sintetica-dolly-ri-402_157375",
+"Scaldaletto Singolo RI.401|Scaldaletto Singolo Codice: RI.401 Descrizione : Tessuto poliestere|2017/12/scaldaletto-singolo-ri-401|data.oliviero.it/imgprodotto/scaldaletto-singolo-ri-401_157366",
+"Trapunta Bicycles|La simpaticissima Masha e il suo più grande amico Orso, tanto amati|2017/12/trapunta-bicycles|data.oliviero.it/imgprodotto/trapunta-bicycles_137029",
+"Scaldapiedi Intellisense|Lo scaldapiedi intelligente che si prende cura del tuo benessere. Lo|2017/12/scaldapiedi-intellisense|data.oliviero.it/imgprodotto/scaldapiedi-intellisense_154093",
 "Scaldotto Italian Style Grigio|Scaldotto Caleffi cm.130x170. Morbido, caldo avvolgente. Si lava|2017/12/scaldotto-italian-style-grigio|data.oliviero.it/imgprodotto/scaldotto-italian-style-grigio_168950",
 "Completo Copripiumino Arcobaleno Avio|Tessuto in puro cotone. Singolo Sacco 155x200 cm Lenzuolo inferiore|2017/12/completo-copripiumino-arcobaleno-avio|data.oliviero.it/imgprodotto/completo-copripiumino-arcobaleno-avio_169059",
 "Scaldotto Danubio Corallo|Scaldotto Caleffi cm.130x170. Morbido, caldo avvolgente. Si lava|2017/12/scaldotto-danubio-corallo|data.oliviero.it/imgprodotto/scaldotto-danubio-corallo_168947",

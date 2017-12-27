@@ -1,4 +1,6 @@
 Gr = [
+"Cardigan Uomo Dark Sapphire|Collezione Autunno Inverno/2018 Proteggiti dal freddo con questo|2017/12/cardigan-uomo-dark-sapphire|data.oliviero.it/imgprodotto/cardigan-uomo-dark-sapphire_171020",
+"Maglia Uomo Rosso|Collezione Autunno Inverno/2018 Questo pullover girocollo in maglia|2017/12/maglia-uomo-rosso|data.oliviero.it/imgprodotto/maglia-uomo-rosso_170611",
 "Maglia donna T2S4F2 00252|Maglia da donna con maniche a 3/4, tessuto abbellito da paillettes|2017/12/maglia-donna-t2s4f2-00252|data.oliviero.it/imgprodotto/maglia-donna-t2s4f2-00252_146554",
 "Maglione Donna Nero|Collezione Autunno Inverno/2018 maglione lungo mezza manica|2017/12/maglione-donna-nero|data.oliviero.it/imgprodotto/maglione-donna-nero_170389",
 "Maglia Uomo Mid Grey Melange|Collezione Autunno Inverno/2018 Affronta la stagione con questo|2017/12/maglia-uomo-mid-grey-melange|data.oliviero.it/imgprodotto/maglia-uomo-mid-grey-melange_170617",

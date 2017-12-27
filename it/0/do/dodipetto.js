@@ -1,4 +1,5 @@
 Gr = [
+"Tuta Layette Fluo Coral Grigio Melange|Collezione Primavera Estate Tuta da bambino Il modello è composto da|2017/12/tuta-layette-fluo-coral-grigio-melange|data.oliviero.it/imgprodotto/tuta-layette-fluo-coral-grigio-melange-4s303_158610",
 "Canotta Bambina Panna Beige|Collezione Primavera Estate Canotta da bambina con allacciatura|2017/12/canotta-bambina-panna-beige|data.oliviero.it/imgprodotto/canotta-bambina-panna-beige-4s510-6t05_158472",
 "Pantalone Sportivo Bambino Navy|Collezione Primavera Estate Pantalone sportivo da bambino ideale per|2017/12/pantalone-sportivo-bambino-navy|data.oliviero.it/imgprodotto/pantalone-sportivo-bambino-navy-4s176_159335",
 "Camicia Bambino Bianco Blu 4S402 6S65|Collezione Primavera Estate Camicia da bambino con maniche lunghe. Il|2017/12/camicia-bambino-bianco-blu-4s402-6s65|data.oliviero.it/imgprodotto/camicia-bambino-bianco-blu-4s402-6s65_158469",

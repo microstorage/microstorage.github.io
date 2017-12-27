@@ -1,4 +1,13 @@
 Gr = [
+"Jeans Uomo 501 Skinny|Abbiamo preso i jeans più ambiti del mondo per personalizzarli con|2017/12/jeans-uomo-501-skinny|data.oliviero.it/imgprodotto/jeans-uomo-501-skinny_171151",
+"Jeans Larston Resin Rinse|Collezione Autunno Inverno/2018 Jeans slim in denim scuro dalle linee|2017/12/jeans-larston-resin-rinse|data.oliviero.it/imgprodotto/jeans-larston-resin-rinse_170535",
+"Jeans Greensboro Bright Stoke|Collezione Autunno Inverno/2018 Jeans blu con fit regular e risvolto|2017/12/jeans-greensboro-bright-stoke|data.oliviero.it/imgprodotto/jeans-greensboro-bright-stoke_170523",
+"Jeans taglie forti uomo Tuvok|Collezione Primavera Estate Jeans da uomo taglie Forti. Il modello|2017/12/jeans-taglie-forti-uomo-tuvok|data.oliviero.it/imgprodotto/jeans-taglie-forti-uomo-tuvok_147825",
+"Jeans Uomo Taglie Forti E1103|Jeans uomo taglie forti. Il modello presenta allacciatura frontale|2017/12/jeans-uomo-taglie-forti-e1103|data.oliviero.it/imgprodotto/jeans-uomo-taglie-forti-e1103_168575",
+"Jeans Bryson Reflex|Collezione Autunno Inverno/2018 I nostri jeans skinny sono|2017/12/jeans-bryson-reflex|data.oliviero.it/imgprodotto/jeans-bryson-reflex_170537",
+"Jeans donna P15186 D3287|Jeans dalla vestibilità slim, da donna con 5 tasche, allacciatura|2017/12/jeans-donna-p15186-d3287|data.oliviero.it/imgprodotto/jeans-donna-p15186-d3287_146808",
+"Jeans donna Crock|Tipologia: Jeans Donna Tessuto: 98% cotone e 2% elastan Vestibilità:|2017/12/jeans-donna-crock|data.oliviero.it/imgprodotto/jeans-donna-crock_9897_big",
+"Jeans Arizona Black Belt|Collezione Autunno Inverno/2018 Jeans neri con vita regolare e gamba|2017/12/jeans-arizona-black-belt|data.oliviero.it/imgprodotto/jeans-arizona-black-belt_170554",
 "Jeans donna S2S42C 00440|Jeans da donna con vestibilità slim, allacciatura tramite bottone|2017/12/jeans-donna-s2s42c-00440|data.oliviero.it/imgprodotto/jeans-donna-s2s42c-00440_146847",
 "Jeans Uomo Taglie Forti Salvia|Collezione Autunno Inverno/2018 Jeans uomo taglie forti. Il modello|2017/12/jeans-uomo-taglie-forti-salvia|data.oliviero.it/imgprodotto/jeans-uomo-taglie-forti-salvia-nv51047ad_169233",
 "Jeans donna WPT297 D719|Collezione Primavera Estate Tipologia: Jeans donna Tessuto: 100%|2017/12/jeans-donna-wpt297-d719|data.oliviero.it/imgprodotto/jeans-donna-wpt297-d719_73270",

@@ -1,4 +1,9 @@
 Gr = [
+"Racchetta Jr. Maria 25|Divertente design per la nuova racchetta Head Maria 21, perfetta per|2017/12/racchetta-jr-maria-25|data.oliviero.it/imgprodotto/racchetta-jr-maria-25_173387",
+"Racchetta Padel Evolution Bela|Sei curioso di provare a giocare a paddle? Prova la nuova Evolution|2017/12/racchetta-padel-evolution-bela|data.oliviero.it/imgprodotto/racchetta-padel-evolution-bela_173380",
+"Racchetta Padel Lightning 333|Se cerchi una racchetta leggera, non esiste scelta migliore della|2017/12/racchetta-padel-lightning-333|data.oliviero.it/imgprodotto/racchetta-padel-lightning-333_173382",
+"Racchette da ping pong Pack Sport Duo 432|Racchette da Ping Pong Pack Sport Duo 432. La confezione comprende|2017/12/racchette-da-ping-pong-pack-sport-duo-432|data.oliviero.it/imgprodotto/racchette-da-ping-pong-pack-sport-duo-432_58096",
+"Racchetta Padel Delta Elite|La racchetta preferita del numero uno al mondo, Fernando Belasteguín|2017/12/racchetta-padel-delta-elite|data.oliviero.it/imgprodotto/racchetta-padel-delta-elite_173383",
 "Racchetta Tennis Nadal Jr 25|Babolat Nadal 25 Junior Racchetta da tennis I giovani ammiratori di|2017/12/racchetta-tennis-nadal-jr-25|data.oliviero.it/imgprodotto/racchetta-tennis-nadal-jr-25_80034",
 "Telo di copertura ping pong|Pratica copertura espressamente ideata per la protezione dei moderni|2017/12/telo-di-copertura-ping-pong|data.oliviero.it/imgprodotto/telo-di-copertura-ping-pong_157349",
 "Racchetta Pure Drive|RACCHETTA SENZA PIATTO CORDE Potenza e sensazioni allo stato puro|2017/12/racchetta-pure-drive|data.oliviero.it/imgprodotto/racchetta-pure-drive_169175",

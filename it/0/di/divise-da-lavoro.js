@@ -1,4 +1,7 @@
 Gr = [
+"Grembiule mod. lungo|Colore :Bianco Composizione : tessuto 65% poliestere e 35% cotone|2017/12/grembiule-mod-lungo|data.oliviero.it/imgprodotto/grembiule-mod-lungo_23013_big",
+"Bandana cuoco nera|Colore : Colorato Composizione : tessuto 100% cotone Dimensioni :|2017/12/bandana-cuoco-nera|data.oliviero.it/imgprodotto/bandana-cuoco-nera_1650_big",
+"Giacca Cuoco Panama Slim|Divisa ufficiale Federazione Italiana Cuochi Giacca cuoco a manica|2017/12/giacca-cuoco-panama-slim|data.oliviero.it/imgprodotto/giacca-cuoco-panama-slim-058297_159003",
 "Giacca coreana donna|Colore base : griglio scuro Inserto : In colore nero + profili oro|2017/12/giacca-coreana-donna|data.oliviero.it/imgprodotto/giacca-coreana-donna_82990",
 "Camicia donna rosa kyoto|Colore : Rosa Composizione : tessuto 65% poliestere e 35% cotone|2017/12/camicia-donna-rosa-kyoto|data.oliviero.it/imgprodotto/camicia-donna-rosa-kyoto_2343_big",
 "Bandana cuoco bordeaux|Colore : Bordeaux Composizione : tessuto 100% cotone Dimensioni :|2017/12/bandana-cuoco-bordeaux|data.oliviero.it/imgprodotto/bandana-cuoco-bordeaux_24497_big",

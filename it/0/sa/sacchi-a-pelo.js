@@ -1,4 +1,6 @@
 Gr = [
+"Sacco a Pelo Auckland 200|Progettato per un'esperienza di campeggio piacevole Caratteristiche|2017/12/sacco-a-pelo-auckland-200|data.oliviero.it/imgprodotto/sacco-a-pelo-auckland-200_80778",
+"Sacco Letto Levity 00 SQ|Realizzati con imbottitura HTF High Thermal Fiber Compact®, che|2017/12/sacco-letto-levity-00-sq|data.oliviero.it/imgprodotto/sacco-letto-levity-00-sq-86600_163541",
 "Sacco a Pelo River 250|Esterno : 100% poliestere 190T Interno : 100% microfibra 210T|2017/12/sacco-a-pelo-river-250|data.oliviero.it/imgprodotto/sacco-a-pelo-river-250_87285",
 "Sacco A Pelo Yukon Plus|Sacco A Pelo Yukon Plus - 86358 Realizzati con imbottitura in H.T.F|2017/12/sacco-a-pelo-yukon-plus|data.oliviero.it/imgprodotto/sacco-a-pelo-yukon-plus-86358_158938",
 "Sacco a Pelo Microtech 80|Esterno: 100% micro diamond ripstop 260T Interno: 100% Polyestere|2017/12/sacco-a-pelo-microtech-80|data.oliviero.it/imgprodotto/sacco-a-pelo-microtech-80_147543",

@@ -1,4 +1,5 @@
 Gr = [
+"Tavolo Tapparella 70|Tavolo in alluminio Caratteristiche tecniche: Materiale e struttura:|2017/12/tavolo-tapparella-70|data.oliviero.it/imgprodotto/tavolo-tapparella-70_87124",
 "Panchetta Bistrot Marrone|Panchetta Bistrot Ribaltabile Funzione ribaltabile per trasformare la|2017/12/panchetta-bistrot-marrone|data.oliviero.it/imgprodotto/panchetta-bistrot-marrone_146619",
 "Tavolo da campeggio Smeraldo|Tavolo da campeggio Caratteristiche: Telaio in acciaio verniciato|2017/12/tavolo-da-campeggio-smeraldo|data.oliviero.it/imgprodotto/tavolo-da-campeggio-smeraldo_86969",
 "Set Verline Sofa Ecrù|Set sofa composto da divanetto 2 posti, 2 poltrone e tavolino da|2017/12/set-verline-sofa-ecru|data.oliviero.it/imgprodotto/set-verline-sofa-ecr%C3%B9_164383",

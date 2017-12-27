@@ -1,4 +1,5 @@
 Gr = [
+"Seggiolino Auto Axiss Nomad Grey|Man mano che il bimbo cresce, accomodarlo nel seggiolino diventa|2017/12/seggiolino-auto-axiss-nomad-grey|data.oliviero.it/imgprodotto/seggiolino-auto-axiss-nomad-grey_171877",
 "Seggiolino king II purple|King Plus è equipaggiato con il sistema esclusivo tendicinghia della|2017/12/seggiolino-king-ii-purple|data.oliviero.it/imgprodotto/seggiolino-king-ii-purple_156890",
 "Seggiolino Auto Duo Plus|Con il seggiolino per auto DUO plus Isofix di Romer assicurerai al|2017/12/seggiolino-auto-duo-plus|data.oliviero.it/imgprodotto/seggiolino-auto-duo-plus_64958",
 "Viaggiosicuro isofix 520|Seggiolino Auto dotato di un sistema di controllo visivo, anteriore|2017/12/viaggiosicuro-isofix-520|data.oliviero.it/imgprodotto/viaggiosicuro-isofix-520_139437",

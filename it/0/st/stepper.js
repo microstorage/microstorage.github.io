@@ -1,4 +1,5 @@
 Gr = [
+"Ministepper con Computer|Il Kettler Mini-Stepper con computer slancia la vostra circolazione|2017/12/ministepper-con-computer|data.oliviero.it/imgprodotto/ministepper-con-computer_8432_big",
 "Stepper Montana|stepper ideale per l'home- fitness. Caratteristiche: Training PC:|2017/12/stepper-montana|data.oliviero.it/imgprodotto/stepper-montana_57_big",
 "Step Professionale JK5001|Caratteristiche tecniche: SUPERFICIE antiscivolo REGOLAZIONE ALTEZZA|2017/12/step-professionale-jk5001|data.oliviero.it/imgprodotto/step-professionale-jk5001_23743_big",
 "Gradino Aerobica Step JK5002|Caratteristiche tecniche: SUPERFICIE antiscivolo REGOLAZIONE ALTEZZA|2017/12/gradino-aerobica-step-jk5002|data.oliviero.it/imgprodotto/gradino-aerobica-step-jk5002_23746_big",

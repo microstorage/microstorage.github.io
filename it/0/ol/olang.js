@@ -1,4 +1,12 @@
 Gr = [
+"Doposci Jr. Happy|GAMBALE IN POLIESTERE E OVATTA CHIUSURA ZIP COLLETTO REGOLABILE CON|2017/12/doposci-jr-happy|data.oliviero.it/imgprodotto/doposci-jr-happy_173339",
+"Doposci Uomo Kiev|TOMAIA POLIESTERE CON OVATTA CHIUSURA IN VELCRO FODERA LANA|2017/12/doposci-uomo-kiev|data.oliviero.it/imgprodotto/doposci-uomo-kiev_173366",
+"Doposci Clara Nero Camouflage|TOMAIA PELLE VITELLO SCAMOSCIATA IDRO GAMBALE IN POLIESTERE E OVATTA|2017/12/doposci-clara-nero-camouflage|data.oliviero.it/imgprodotto/doposci-clara-nero-camouflage_173363",
+"Doposci Jr. Eolo|GAMBALE IN POLIESTERE E OVATTA CHIUSURA ZIP COLLETTO REGOLABILE CON|2017/12/doposci-jr-eolo|data.oliviero.it/imgprodotto/doposci-jr-eolo_173338",
+"Doposci Jr. Bingo Argento|TOMAIA GAMBALE IN PU E OVATTA TRAPUNTATA CHIUSURA ZIP COLLETTO|2017/12/doposci-jr-bingo-argento|data.oliviero.it/imgprodotto/doposci-jr-bingo-argento_173351",
+"Doposci Patty Kid|TOMAIA GAMBALE IN POLIESTERE E OVATTA TRAPUNTATA COLLARINO IN ECO|2017/12/doposci-patty-kid|data.oliviero.it/imgprodotto/doposci-patty-kid_173355",
+"Doposci Jr. Bingo Rosa|TOMAIA GAMBALE IN PU E OVATTA TRAPUNTATA CHIUSURA ZIP COLLETTO|2017/12/doposci-jr-bingo-rosa|data.oliviero.it/imgprodotto/doposci-jr-bingo-rosa_173352",
+"Doposci Jr. Bingo Mela|TOMAIA GAMBALE IN PU E OVATTA TRAPUNTATA CHIUSURA ZIP COLLETTO|2017/12/doposci-jr-bingo-mela|data.oliviero.it/imgprodotto/doposci-jr-bingo-mela_173348",
 "Scarpe Trekking Eclisse Bretex Topo|Scarpe Trekking uomo Tomaia Cordura e pelle scamosciata|2017/12/scarpe-trekking-eclisse-bretex-topo|data.oliviero.it/imgprodotto/scarpe-trekking-eclisse-bretex-topo-838_164487",
 "Scarpe Trekking Spagna Sabbia|Scarpe da trekking Unisex Tomaia in tessuto tecnico traspirante con|2017/12/scarpe-trekking-spagna-sabbia|data.oliviero.it/imgprodotto/scarpe-trekking-spagna-sabbia-814_164481",
 "Scarpe Trekking Losanna Tex Topo|Scarpe da trekking donna Tomaia in tessuto tecnico e pelle|2017/12/scarpe-trekking-losanna-tex-topo|data.oliviero.it/imgprodotto/scarpe-trekking-losanna-tex-topo-838_164484",

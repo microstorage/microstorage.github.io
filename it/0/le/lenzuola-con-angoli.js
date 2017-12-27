@@ -1,4 +1,5 @@
 Gr = [
+"Lenzuola Angoli Pantone Fiesta|Lenzuolo da sotto con angoli in puro cotone tinta unita, coordinabile|2017/12/lenzuola-angoli-pantone-fiesta|data.oliviero.it/imgprodotto/lenzuola-angoli-pantone-fiesta_115342",
 "Lenzuola Angoli Pantone Bright White|Lenzuolo da sotto con angoli in puro cotone tinta unita, coordinabile|2017/12/lenzuola-angoli-pantone-bright-white|data.oliviero.it/imgprodotto/lenzuola-angoli-pantone-bright-white_115337",
 "Lenzuola Angoli Pantone Vibrant Yellow|Lenzuolo da sotto con angoli in puro cotone tinta unita, coordinabile|2017/12/lenzuola-angoli-pantone-vibrant-yellow|data.oliviero.it/imgprodotto/lenzuola-angoli-pantone-vibrant-yellow_115334",
 "Lenzuola Angoli Pantone Turkish Sea|Lenzuolo da sotto con angoli in puro cotone tinta unita, coordinabile|2017/12/lenzuola-angoli-pantone-turkish-sea|data.oliviero.it/imgprodotto/lenzuola-angoli-pantone-turkish-sea_115332",

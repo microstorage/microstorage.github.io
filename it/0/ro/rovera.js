@@ -1,4 +1,6 @@
 Gr = [
+"Panca Addominali con leg extension AB LEG|Panca piana fitness per addominali pieghevole Realizzata in tubolare|2017/12/panca-addominali-con-leg-extension-ab-leg|data.oliviero.it/imgprodotto/panca-addominali-con-leg-extension-ab-leg_71319",
+"Tavolo da ping pong T604 Giardino Outdoor|Caratteristiche tecniche: Tavolo montato su ruote gemellari Ø 80 mm|2017/12/tavolo-da-ping-pong-t604-giardino-outdoor|data.oliviero.it/imgprodotto/tavolo-da-ping-pong-t604-giardino-outdoor_475_big",
 "Sacco boxe 25 Kg|Caratteristiche : SACCO: realizzato in ecopelle MISURE: DIAM. cm. 35|2017/12/sacco-boxe-25-kg|data.oliviero.it/imgprodotto/sacco-boxe-25-kg_71354",
 "Cyclette Ritmo|Bici da camera pieghevole con un semplice movimento MODELLO: RITMO|2017/12/cyclette-ritmo|data.oliviero.it/imgprodotto/cyclette-ritmo_71268",
 "Tavolo Ping Pong T905 Superior Outdoor con kit di montaggio|Con l'arrivo della bella stagione cresce il desiderio di trascorrere|2017/12/tavolo-ping-pong-t905-superior-outdoor-con-kit-di-montaggio|data.oliviero.it/imgprodotto/tavolo-ping-pong-t905-superior-outdoor-con-kit-di-montaggio_162516",

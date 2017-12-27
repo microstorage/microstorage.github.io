@@ -1,4 +1,5 @@
 Gr = [
+"Day Bag Alpaca Beige|É una borsa capiente e funzionale, di foggia esclusiva, con interno|2017/12/day-bag-alpaca-beige|data.oliviero.it/imgprodotto/day-bag-alpaca-beige_170183",
 "Dual Bag Derby Grey|Borsa Inglesina Dual Bag è la pratica e comoda borsa da passeggino|2017/12/dual-bag-derby-grey|data.oliviero.it/imgprodotto/dual-bag-derby-grey_172106",
 "Day Bag Artic Blue|É una borsa capiente e funzionale, di foggia esclusiva, con interno|2017/12/day-bag-artic-blue|data.oliviero.it/imgprodotto/day-bag-artic-blue_170189",
 "Day Bag Sideral Grey|É una borsa capiente e funzionale, di foggia esclusiva, con interno|2017/12/day-bag-sideral-grey|data.oliviero.it/imgprodotto/day-bag-sideral-grey_170186",

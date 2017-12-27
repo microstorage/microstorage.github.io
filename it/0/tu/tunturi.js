@@ -1,4 +1,10 @@
 Gr = [
+"Tapis Roulant Competence T20|SCHERMO 5,5 INCH LCD - MONOCOLORE PROGRAMMI 1 MANUALE,|2017/12/tapis-roulant-competence-t20|data.oliviero.it/imgprodotto/tapis-roulant-competence-t20_173323",
+"Core Trainer CT80|La panca Tunturi CT80 Core Trainer vanta delle protezioni di gomma|2017/12/core-trainer-ct80|data.oliviero.it/imgprodotto/core-trainer-ct80_171231",
+"Tapis Roulant Performance T60|SCHERMO 6,6 INCH LCD - COLORE RETROILLUMINATO PROGRAMMI 1 MANUALE, 17|2017/12/tapis-roulant-performance-t60|data.oliviero.it/imgprodotto/tapis-roulant-performance-t60_173326",
+"Tapis Rouant Performance T50|SCHERMO 6,6 INCH LCD - COLORE RETROILLUMINATO PROGRAMMI 1 MANUALE, 17|2017/12/tapis-rouant-performance-t50|data.oliviero.it/imgprodotto/tapis-rouant-performance-t50_173319",
+"Tapis Roulant Competence T40|SCHERMO 5,5 INCH LCD - COLORE RETROILLUMINATO PROGRAMMI 1 MANUALE,|2017/12/tapis-roulant-competence-t40|data.oliviero.it/imgprodotto/tapis-roulant-competence-t40_173316",
+"Tapis Roulant Endurance T80|SCHERMO 10 INCH LCD - COLORE PROGRAMMI 1 MANUALE, 10 PREIMPOSTATI, 10|2017/12/tapis-roulant-endurance-t80|data.oliviero.it/imgprodotto/tapis-roulant-endurance-t80_173313",
 "Flat Bench FB80|Caratteristiche Tecniche PANCA ADDOMINALE SI APPOGGI PER GAMBE SI|2017/12/flat-bench-fb80|data.oliviero.it/imgprodotto/flat-bench-fb80_171247",
 "Panca UB40 Utility Bench|Panca compatta Seduta ultra robusta Schienale regolabile su|2017/12/panca-ub40-utility-bench|data.oliviero.it/imgprodotto/panca-ub40-utility-bench_171177",
 "Power Tower PT80|Panca multifunzione per un allenamento completo del corpo PULL UP BAR|2017/12/power-tower-pt80|data.oliviero.it/imgprodotto/power-tower-pt80_171172",

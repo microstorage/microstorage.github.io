@@ -1,4 +1,9 @@
 Gr = [
+"Gazebo Rodi 3x4 Ecru|Gazebo Ferro 3x4 Metri Struttura in ferro verniciato a polvere|2017/12/gazebo-rodi-3x4-ecru|data.oliviero.it/imgprodotto/gazebo-rodi-3x4-ecru_146605",
+"Gazebo Vela 4x4 Ecrù|Gazebo ferro 4x4 metri Struttura in ferro verniciato a polvere|2017/12/gazebo-vela-4x4-ecru|data.oliviero.it/imgprodotto/gazebo-vela-4x4-ecr%C3%B9_164388",
+"Veranda 3 mt per Gazebo serie Piramide|VERANDA 3 mt. PER GAZEBO SERIE PIRAMIDE 30x30 mm. Telo : polyestere|2017/12/veranda-3-mt-per-gazebo-serie-piramide|data.oliviero.it/imgprodotto/veranda-3-mt-per-gazebo-serie-piramide_149678",
+"Gazebo Velox 2x3|Telo: polyestere 500D 290 gr./m2, rivestito e spalmato in PVC|2017/12/gazebo-velox-2x3|data.oliviero.it/imgprodotto/gazebo-velox-2x3-ber315_153477",
+"Gazebo Rapido 3x3 Hobby|Gazebo rapido 3x3 economico non professionale. Prodotto adatto agli|2017/12/gazebo-rapido-3x3-hobby|data.oliviero.it/imgprodotto/gazebo-rapido-3x3-hobby_144355",
 "Kit 4 Pareti per Gazebo Rapido 300|Telo: polyestere. Ogni parete può essere montata singolarmente e/o|2017/12/kit-4-pareti-per-gazebo-rapido-300|data.oliviero.it/imgprodotto/kit-4-pareti-per-gazebo-rapido-300_165283",
 "Gazebo Velox 3X3|Telo: polyestere 500D 290 gr./m2, rivestito e spalmato in PVC|2017/12/gazebo-velox-3x3|data.oliviero.it/imgprodotto/gazebo-velox-3x3_149671",
 "Parete per gazebo Market 4,5 m|TELO LATERALE 4,50X2,10 PER GAZEBO MARKET Telo : polyestere 500D 290|2017/12/parete-per-gazebo-market-4-5-m|data.oliviero.it/imgprodotto/parete-per-gazebo-market-4-5-m_87420",

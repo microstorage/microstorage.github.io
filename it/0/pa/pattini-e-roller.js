@@ -1,4 +1,8 @@
 Gr = [
+"Roller Macroblade 80|Caratteristiche tecniche: Macroblade 80 dispone di componenti di alta|2017/12/roller-macroblade-80|data.oliviero.it/imgprodotto/roller-macroblade-80_80391",
+"Pattini in linea FIREWHEEL PRO|Descrizione: Asse ruota : alluminio - spessore 2,2 mm Scarpetta|2017/12/pattini-in-linea-firewheel-pro|data.oliviero.it/imgprodotto/pattini-in-linea-firewheel-pro-colore-nero_162397",
+"Pattini In-Line Easy Roller Rosa Regolabili|Pattini X-Line Easy Roller Regolabili Rosa, pattini regolabili fino|2017/12/pattini-in-line-easy-roller-rosa-regolabili|data.oliviero.it/imgprodotto/pattini-in-line-easy-roller-rosa-regolabili_165988",
+"Roller Zetrablade Nero Rosso|Confortevole, semplice e costruito per durare. Mantiene il piede ben|2017/12/roller-zetrablade-nero-rosso|data.oliviero.it/imgprodotto/roller-zetrablade-nero-rosso_138401",
 "Roller Moody 4.0 Boy|Pattini in linea regolabili. Scafo: HQ polipropilene rinforzato con|2017/12/roller-moody-4-0-boy|data.oliviero.it/imgprodotto/roller-moody-4-0-boy_81054",
 "Roller Macroblade 84|Caratteristiche tecniche: Macroblade 84 dispone di componenti di alta|2017/12/roller-macroblade-84|data.oliviero.it/imgprodotto/roller-macroblade-84_80388",
 "Roller Macroblade 80 W|Il passaggio al telaio in alluminio non è mai stato così facile. La|2017/12/roller-macroblade-80-w|data.oliviero.it/imgprodotto/roller-macroblade-80-w_80384",

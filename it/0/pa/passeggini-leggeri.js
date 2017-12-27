@@ -1,4 +1,5 @@
 Gr = [
+"Passeggino cannefix rosso|Il Passeggino peep è estremamente leggero e maneggevole|2017/12/passeggino-cannefix-rosso|data.oliviero.it/imgprodotto/passeggino-cannefix-rosso_147164",
 "Passeggino Trip Amarena 2017|Trip è un passeggino compatto e leggero con forme sobrie e sportive|2017/12/passeggino-trip-amarena-2017|data.oliviero.it/imgprodotto/passeggino-trip-amarena-2017_146467",
 "Passeggino Ginger Rosso|Il passeggino Ginger di Brevi offre il massimo confort per il bambino|2017/12/passeggino-ginger-rosso|data.oliviero.it/imgprodotto/passeggino-ginger-rosso_172603",
 "Passeggino Cubo Arancio|Il Passeggino Cam Cubo è l'ideale per i genitori che sono spesso in|2017/12/passeggino-cubo-arancio|data.oliviero.it/imgprodotto/passeggino-cubo-arancio-830-116_155970",

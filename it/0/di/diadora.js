@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Field Viola Prugna|Tomaia in pelle scamosciata Logo Diadora a rilievo a lato Ampia|2017/12/scarpe-field-viola-prugna|data.oliviero.it/imgprodotto/scarpe-field-viola-prugna_168214",
 "Scarpe Calcio Winner RB K-Plus MG14|Una calzatura dedicata ai calciatori che fanno del controllo e del|2017/12/scarpe-calcio-winner-rb-k-plus-mg14|data.oliviero.it/imgprodotto/scarpe-calcio-winner-rb-k-plus-mg14_167291",
 "Scarpe Running Swan 2|Una calzatura sportiva ideale per gli amatori e per attività di|2017/12/scarpe-running-swan-2|data.oliviero.it/imgprodotto/scarpe-running-swan-2_167118",
 "Scarpe Calcio Winner RB LT MG14|Scarpe da calcio a tacchetti fissi di Diadora, modello M. Winner RB|2017/12/scarpe-calcio-winner-rb-lt-mg14|data.oliviero.it/imgprodotto/scarpe-calcio-winner-rb-lt-mg14_167282",

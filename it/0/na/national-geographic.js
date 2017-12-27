@@ -1,4 +1,5 @@
 Gr = [
+"Stazione meteo Weather Center|Caratteristiche tecniche: Il dipslay della stazione meteo Weather|2017/12/stazione-meteo-weather-center|data.oliviero.it/imgprodotto/stazione-meteo-weather-center_83896",
 "Monocolo 10x25|Caratteristiche tecniche: Mini telescopio da viaggio rivestito in|2017/12/monocolo-10x25|data.oliviero.it/imgprodotto/monocolo-10x25_83792",
 "Telescopio AZ rifrattore 50 600|Caratteristiche tecniche: Questo telescopio 50/600 con sistema ottico|2017/12/telescopio-az-rifrattore-50-600|data.oliviero.it/imgprodotto/telescopio-az-rifrattore-50-600_83761",
 "Telescopio AZ Rifrattore 50 360|Caratteristiche tecniche: Telescopio da viaggio ultra compatto con|2017/12/telescopio-az-rifrattore-50-360|data.oliviero.it/imgprodotto/telescopio-az-rifrattore-50-360_83751",

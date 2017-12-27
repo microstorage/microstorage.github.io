@@ -1,4 +1,6 @@
 Gr = [
+"Squat Rack JK6066|Massimo peso caricabile 150 Kg Dimensione tubi 60 x 60 x 3 mm - 70|2017/12/squat-rack-jk6066|data.oliviero.it/imgprodotto/squat-rack-jk6066_173193",
+"Panca Inversione Apollo|La panca gravitazionale APOLLO permette, con il suo movimento di|2017/12/panca-inversione-apollo|data.oliviero.it/imgprodotto/panca-inversione-apollo_50639_big",
 "Panca Ginnica Force Bench 560|Force Bench 560 è una robusta panca porta bilanciere. Telaio|2017/12/panca-ginnica-force-bench-560|data.oliviero.it/imgprodotto/panca-ginnica-force-bench-560_168519",
 "Panca Ad 330 + Pesi + Bilanciere|La promozione comprende la Panca AD 330 HIGH POWER, il Bilanciere|2017/12/panca-ad-330-+-pesi-+-bilanciere|data.oliviero.it/imgprodotto/panca-ad-330-pesi-bilanciere_7888_big",
 "Smith Machine Jk 6067|Massimo peso caricabile 150 Kg Dimensione tubi 60 x 60 x 3 mm|2017/12/smith-machine-jk-6067|data.oliviero.it/imgprodotto/smith-machine-jk-6067_173191",

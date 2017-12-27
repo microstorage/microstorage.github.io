@@ -1,4 +1,9 @@
 Gr = [
+"100 gr Uomo Taglie Forti Trulli Nero|Piumino da uomo taglie forti. Il modello presenta allacciatura|2017/12/100-gr-uomo-taglie-forti-trulli-nero|data.oliviero.it/imgprodotto/100-gr-uomo-taglie-forti-trulli-nero_170897",
+"Piumino Taglie Forti Odd Uomo Blu|Collezione Autunno Inverno/2018 Piumino Uomo taglie forti con|2017/12/piumino-taglie-forti-odd-uomo-blu|data.oliviero.it/imgprodotto/piumino-taglie-forti-odd-uomo-blu_168504",
+"Giacca Taglie Forti Uomo Denim|Collezione Autunno Inverno/2018 Giacca casual da uomo taglie forti|2017/12/giacca-taglie-forti-uomo-denim|data.oliviero.it/imgprodotto/giacca-taglie-forti-uomo-denim_168516",
+"Giubbotto Taglie Forti Uomo Beige|Collezione Primavera Estate Giubbotto uomo taglie Forti. Il modello|2017/12/giubbotto-taglie-forti-uomo-beige|data.oliviero.it/imgprodotto/giubbotto-taglie-forti-uomo-beige-17ercc040-22_161313",
+"Giubbino Taglie Forti Uomo Nero|C ollezione Autunno Invermo/2018 Giubbotto reversibile da uomo taglie|2017/12/giubbino-taglie-forti-uomo-nero|data.oliviero.it/imgprodotto/giubbino-taglie-forti-uomo-nero_170889",
 "Giubbotto Taglie Forti Uomo Blu|Collezione Autunno Inverno/2018 Giubbotto uomo taglie forti. Il|2017/12/giubbotto-taglie-forti-uomo-blu|data.oliviero.it/imgprodotto/giubbotto-taglie-forti-uomo-blu_169314",
 "Giubbotto Uomo Taglie Forti Grigio|Collezione Autunno Inverno/2018 Gilet imbottito da uomo taglie forti|2017/12/giubbotto-uomo-taglie-forti-grigio|data.oliviero.it/imgprodotto/giubbotto-uomo-taglie-forti-grigio_168590",
 "Giacca NeveTaglie Forti Uomo Denim|Collezione Autunno Inverno/2018 Giacca uomo da neve con cappuccio|2017/12/giacca-nevetaglie-forti-uomo-denim|data.oliviero.it/imgprodotto/giacca-nevetaglie-forti-uomo-denim_171843",

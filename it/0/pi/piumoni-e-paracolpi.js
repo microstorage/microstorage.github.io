@@ -1,4 +1,10 @@
 Gr = [
+"Piumetto Letto Amelie per Letto Pannellato|ARTICOLO PER LETTINO CON TESTIERA/PEDIERA CON PANNELLO. Il Completo|2017/12/piumetto-letto-amelie-per-letto-pannellato|data.oliviero.it/imgprodotto/piumetto-letto-amelie-per-letto-pannellato_172705",
+"Piumetto Letto Muffin Verticale|Il Completo Lettino Picci Muffin è un Set 3 pezzi sfilabile ricamato|2017/12/piumetto-letto-muffin-verticale|data.oliviero.it/imgprodotto/piumetto-letto-muffin-verticale_173542",
+"Piumetto Letto Ovale Cheesecake|La collezione è disponibile in due colorazioni estremamente|2017/12/piumetto-letto-ovale-cheesecake|data.oliviero.it/imgprodotto/piumetto-letto-ovale-cheesecake_140289",
+"Piumetto Letto Milky Ricamato|Il Completo Lettino Picci Milky è un Set 3 pezzi sfilabile ricamato|2017/12/piumetto-letto-milky-ricamato|data.oliviero.it/imgprodotto/piumetto-letto-milky-ricamato_172916",
+"Piumetto Letto Sugar Fondo Colorato|Il Completo Lettino Picci Sugar è un Set 3 pezzi sfilabile ricamato|2017/12/piumetto-letto-sugar-fondo-colorato|data.oliviero.it/imgprodotto/piumetto-letto-sugar-fondo-colorato_173461",
+"Piumetto Letto Muffin Lettere|Il Completo Lettino Picci Muffin è un Set 3 pezzi sfilabile ricamato|2017/12/piumetto-letto-muffin-lettere|data.oliviero.it/imgprodotto/piumetto-letto-muffin-lettere_173543",
 "Piumetto Letto Stella Ricamato|Stella Converse è una novità Picci. Il Completo Lettino Picci Stalla|2017/12/piumetto-letto-stella-ricamato|data.oliviero.it/imgprodotto/piumetto-letto-stella-ricamato_172062",
 "Piumetto Letto Amelie Ricamato|Il Completo Lettino Picci Amelie è un Set 3 pezzi sfilabile ricamato|2017/12/piumetto-letto-amelie-ricamato|data.oliviero.it/imgprodotto/piumetto-letto-amelie-ricamato_172701",
 "Piumone e paracolpi loving bear azzurro|Federa: Misura: cm. 40x60 Materiale: cotone Copripiumone: Misura: cm|2017/12/piumone-e-paracolpi-loving-bear-azzurro|data.oliviero.it/imgprodotto/piumone-e-paracolpi-loving-bear-azzurro_86197",

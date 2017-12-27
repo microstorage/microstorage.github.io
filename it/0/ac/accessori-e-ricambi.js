@@ -1,4 +1,8 @@
 Gr = [
+"Borsa Padel Combi|In tre versioni di colore, questa borsa con 2 scomparti grandi e una|2017/12/borsa-padel-combi|data.oliviero.it/imgprodotto/borsa-padel-combi_173390",
+"Borsa Portaracchette Racket Holder X6 Club|2 comparti racchette, Grande tasca laterale per sistemare gli|2017/12/borsa-portaracchette-racket-holder-x6-club|data.oliviero.it/imgprodotto/borsa-portaracchette-racket-holder-x6-club_94141",
+"Borsa Tennis Tour Team 12R|Head Tour Team 12R Monstercombi Se hai molti oggetti da portare con|2017/12/borsa-tennis-tour-team-12r|data.oliviero.it/imgprodotto/borsa-tennis-tour-team-12r_173395",
+"Borsa Tennis Tour Team 9R|Non avresti mai saputo di quante cose avevi bisogno finché non hai|2017/12/borsa-tennis-tour-team-9r|data.oliviero.it/imgprodotto/borsa-tennis-tour-team-9r_173392",
 "Berretto Nike Bianco|Questo cappello da tennis Nike Aerobill Featherlight è ideale per|2017/12/berretto-nike-bianco|data.oliviero.it/imgprodotto/berretto-nike-bianco_169732",
 "VS Origial My Overgrip|L'overgrip Babolat VS Original è estremamente sottile, questa|2017/12/vs-origial-my-overgrip|data.oliviero.it/imgprodotto/vs-origial-my-overgrip-653040-101_162203",
 "Borsa Portaracchette Racket Holder X3 Club|Borsa portaracchette ideale per 3 racchette Caratteristiche: Comparto|2017/12/borsa-portaracchette-racket-holder-x3-club|data.oliviero.it/imgprodotto/borsa-portaracchette-racket-holder-x3-club_164733",

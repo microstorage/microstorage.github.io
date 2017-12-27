@@ -1,4 +1,9 @@
 Gr = [
+"Tavolino OM-145-A|Tavolino con ripiano superiore girevole bianco/essenza Materiale MDF|2017/12/tavolino-om-145-a|data.oliviero.it/imgprodotto/tavolino-om-145-a_94192",
+"Tavolino OM-143-G|Tavolino con base in metallo e top in MDF laccato giallo Materiale|2017/12/tavolino-om-143-g|data.oliviero.it/imgprodotto/tavolino-om-143-g_136009",
+"Tavolino richiudibile OM-076-N|Tavolino richiudibile base in acciaio top asportabile in MDF laccato|2017/12/tavolino-richiudibile-om-076-n|data.oliviero.it/imgprodotto/tavolino-richiudibile-om-076-n_94241",
+"Tavolino OM-143-T|Tavolino con base in metallo e top in MDF laccato tortora Materiale|2017/12/tavolino-om-143-t|data.oliviero.it/imgprodotto/tavolino-om-143-t_149442",
+"Tavolino richiudibile OM 076 R|Tavolino richiudibile base in acciaio top asportabile in MDF laccato|2017/12/tavolino-richiudibile-om-076-r|data.oliviero.it/imgprodotto/tavolino-richiudibile-om-076-r_94180",
 "Tavolino richiudibile OM-076-T|Tavolino richiudibile base in acciaio top asportabile in MDF laccato|2017/12/tavolino-richiudibile-om-076-t|data.oliviero.it/imgprodotto/tavolino-richiudibile-om-076-t_94181",
 "tavolo rotondo FRISIA|Tavolo rotondo FRISIA gambe realizzate in legno massello finitura|2017/12/tavolo-rotondo-frisia|data.oliviero.it/imgprodotto/tavolo-rotondo-frisia_149435",
 "Tavolo Madia Cloud|Madia con cassetto dotato di apertura a pressione, così non servono|2017/12/tavolo-madia-cloud|data.oliviero.it/imgprodotto/tavolo-madia-cloud-om-234-no_158274",

@@ -1,4 +1,12 @@
 Gr = [
+"Giacca Sherpa Rider|La giacca Lee® Sherpa, con taglio slim per esaltare le forme, è la|2017/12/giacca-sherpa-rider|data.oliviero.it/imgprodotto/giacca-sherpa-rider_170948",
+"Giacca da Sci Donna Courchevel 1850|Collezione Autunno Inverno/2018 La giacca sci donna Courchevel 1850|2017/12/giacca-da-sci-donna-courchevel-1850|data.oliviero.it/imgprodotto/giacca-da-sci-donna-courchevel-1850_170448",
+"Pile effetto Melange Mezza Zip Uomo Antracite|Collezione Autunno Inverno/2018 Maglia termica uomo in pile effetto|2017/12/pile-effetto-melange-mezza-zip-uomo-antracite|data.oliviero.it/imgprodotto/pile-effetto-melange-mezza-zip-uomo-antracite_171787",
+"Giacca da Moto in Tessuto NW 200 Tex|La North West 200 è una epica gara di moto, che si svolge ogni anno|2017/12/giacca-da-moto-in-tessuto-nw-200-tex|data.oliviero.it/imgprodotto/giacca-da-moto-in-tessuto-nw-200-tex-t167-011_149819",
+"Pile elasticizzato mezza zip Uomo Bianco|Collezione Autunno Inverno/2018 Maglia termica uomo in pile|2017/12/pile-elasticizzato-mezza-zip-uomo-bianco|data.oliviero.it/imgprodotto/pile-elasticizzato-mezza-zip-uomo-bianco_171786",
+"Giacca da Sci Donna Sapporo|Collezione Autunno Inverno/2018 La giacca sci donna Greenland, della|2017/12/giacca-da-sci-donna-sapporo|data.oliviero.it/imgprodotto/giacca-da-sci-donna-sapporo_170444",
+"Giacca da Moto HT Raid|H.T Raid racchiude tutto il know-how SPIDI in materia di giacche|2017/12/giacca-da-moto-ht-raid|data.oliviero.it/imgprodotto/giacca-da-moto-ht-raid-d137-010_164816",
+"Giubbini donna con Borchie|Giubbino da donna in ecopelle con allacciatura frontale tramite zip|2017/12/giubbini-donna-con-borchie|data.oliviero.it/imgprodotto/giubbini-donna-con-borchie_146410",
 "Pile elasticizzato mezza zip Uomo Blu|Collezione Autunno Inverno/2018 Maglia termica uomo in pile|2017/12/pile-elasticizzato-mezza-zip-uomo-blu|data.oliviero.it/imgprodotto/pile-elasticizzato-mezza-zip-uomo-blu_171778",
 "Giacca da Moto Flash Tex Uomo|Flash è un giubbino dal taglio sportivo, ideale per le escursioni nei|2017/12/giacca-da-moto-flash-tex-uomo|data.oliviero.it/imgprodotto/giacca-da-moto-flash-tex-uomo-t197-010_149754",
 "Piumino Uomo Outdoor Blu Denim 1030_167|Collezione Autunno Inverno/2018 Giacca da uomo tecnica, calda|2017/12/piumino-uomo-outdoor-blu-denim-1030_167|data.oliviero.it/imgprodotto/piumino-uomo-outdoor-blu-denim-1030_167_171476",

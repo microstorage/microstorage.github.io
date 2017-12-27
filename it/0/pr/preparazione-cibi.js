@@ -1,4 +1,9 @@
 Gr = [
+"Accessori per tritacarne|TRAFILA PER BISCOTTI: La inserisci nell'apertura frontale del|2017/12/accessori-per-tritacarne|data.oliviero.it/imgprodotto/accessori-per-tritacarne_75858",
+"Mandolina Julienne|Questa mandolina ti consente di tagliare a julienne ogni tipo di|2017/12/mandolina-julienne|data.oliviero.it/imgprodotto/mandolina-julienne-643854_155130",
+"Fonduta per cioccolato \"Fondy\"|Fondy è lo strumento che vi permette di creare deliziosi cioccolatini|2017/12/fonduta-per-cioccolato-fondy|data.oliviero.it/imgprodotto/fonduta-per-cioccolato-fondy_156078",
+"Pompetta per Carni e arrosti|Il segreto per un arrosto succulento? Irrorare la carne con|2017/12/pompetta-per-carni-e-arrosti|data.oliviero.it/imgprodotto/pompetta-per-carni-e-arrosti-630298_155137",
+"Affetta Patate|Adori gli stick di patate? Ecco un pratico strumento, facilissimo da|2017/12/affetta-patate|data.oliviero.it/imgprodotto/affetta-patate-643560_155149",
 "Spatola per Spalmare|Spatola prodotta in acciaio inox di alta qualità con eleganti|2017/12/spatola-per-spalmare|data.oliviero.it/imgprodotto/spatola-per-spalmare-638711_155230",
 "MiniTritatutto 150 watt|MiniTritatutto 150 watt Codice: 90.330 Descrizione : Corpo in abs|2017/12/minitritatutto-150-watt|data.oliviero.it/imgprodotto/minitritatutto-150-watt_157400",
 "Affetta verdure Ghidini 3 in 1|Affetta verdure Ghidini 3 in 1 Uno strumento utile e di facile|2017/12/affetta-verdure-ghidini-3-in-1|data.oliviero.it/imgprodotto/affetta-verdure-ghidini-3-in-1_156178",

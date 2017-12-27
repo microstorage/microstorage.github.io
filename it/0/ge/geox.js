@@ -1,4 +1,10 @@
 Gr = [
+"Giubbotto Uomo Phantom|Collezione Autunno Inverno/2018 Giubbotto da uomo con allacciatura|2017/12/giubbotto-uomo-phantom|data.oliviero.it/imgprodotto/giubbotto-uomo-phantom_169348",
+"Sandali Donna Bianco Darline|Collezione Primavera Estate Perfetto per rendere più trendy anche|2017/12/sandali-donna-bianco-darline|data.oliviero.it/imgprodotto/sandali-donna-bianco-darline-d721yc-c1000_163244",
+"Sandalo Donna Janira Cigar|Collezione Primavera Estate Pensate per quelle donne che amano essere|2017/12/sandalo-donna-janira-cigar|data.oliviero.it/imgprodotto/sandalo-donna-janira-cigar_165241",
+"Scarpe Uomo Kapsian Ebony|Collezione Autunno Inverno/2018 Le scarpe uomo Kapsian sono un|2017/12/scarpe-uomo-kapsian-ebony|data.oliviero.it/imgprodotto/scarpe-uomo-kapsian-ebony_167177",
+"Scarpe Donna Silver e Panna Nebula D641EG C1121|Collezione Primavera Estate Nebula di Geox è una calzatura che|2017/12/scarpe-donna-silver-e-panna-nebula-d641eg-c1121|data.oliviero.it/imgprodotto/scarpe-donna-silver-e-panna-nebula-d641eg-c1121_158410",
+"Scarpe Donna Avery Nero|Collezione Primavera Estate Sneakers da donna con tomaia in pelle|2017/12/scarpe-donna-avery-nero|data.oliviero.it/imgprodotto/scarpe-donna-avery-nero_165219",
 "Scarpe Uomo Bianco New Do|Collezione Primavera Estate Innovazione allo stato puro, con un|2017/12/scarpe-uomo-bianco-new-do|data.oliviero.it/imgprodotto/scarpe-uomo-bianco-new-do-u620qb-c1000_158227",
 "Piumino Donna Dark Navy|Collezione Autunno Inverno/2018 Piumino da donna con zip frontale|2017/12/piumino-donna-dark-navy|data.oliviero.it/imgprodotto/piumino-donna-dark-navy_169358",
 "Scarpe Uomo Rosso e Nero Nebula U64D7B C0048|Collezione Primavera Estate Ottime performance e design innovativo si|2017/12/scarpe-uomo-rosso-e-nero-nebula-u64d7b-c0048|data.oliviero.it/imgprodotto/scarpe-uomo-rosso-e-nero-nebula-u64d7b-c0048_158383",

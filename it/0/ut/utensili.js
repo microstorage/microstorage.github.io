@@ -1,4 +1,5 @@
 Gr = [
+"Spargi Zucchero|Disponibile in tre diverse capacità, questo barattolo è utilissimo|2017/12/spargi-zucchero|data.oliviero.it/imgprodotto/spargi-zucchero-630331_157833",
 "3 Coppapasta Rettangolo|Vuoi impiattare da vero professionista? Con i coppapasta|2017/12/3-coppapasta-rettangolo|data.oliviero.it/imgprodotto/3-coppapasta-rettangolo-422214_155195",
 "Mensola Linea Monti|La mensola è in metallo con finiture cromo, è abbastanza capiente|2017/12/mensola-linea-monti|data.oliviero.it/imgprodotto/mensola-linea-monti-900026_155102",
 "Rotella Tagliapizza Delicia|Soffice ed alta o sottile e croccante, questo utensile affetta|2017/12/rotella-tagliapizza-delicia|data.oliviero.it/imgprodotto/rotella-tagliapizza-delicia-630022_157749",

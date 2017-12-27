@@ -1,4 +1,10 @@
 Gr = [
+"Bra Sportivo Nike Pro Classic Grigio|Ideale per gli allenamenti a impatto moderato, il bra sportivo Nike|2017/12/bra-sportivo-nike-pro-classic-grigio|data.oliviero.it/imgprodotto/bra-sportivo-nike-pro-classic-grigio_161694",
+"Slip uomo Con Apertura 1200|Tipologia: Slip con apertura uomo Tessuto: 100% cotone pettinato|2017/12/slip-uomo-con-apertura-1200|data.oliviero.it/imgprodotto/slip-uomo-con-apertura-1200_20685_big",
+"Fascia Gestante Doppia Regolazione|Innovativo modello di sostegno personalizzabile della zona addominale|2017/12/fascia-gestante-doppia-regolazione|data.oliviero.it/imgprodotto/fascia-gestante-doppia-regolazione_72240",
+"Boxer bianco 2pz 2481|Tipologia: Confezione da 2 boxer uomo Tessuto: 52% modal, 42% cotone|2017/12/boxer-bianco-2pz-2481|data.oliviero.it/imgprodotto/boxer-bianco-2pz-2481_20466_big",
+"Guaina Gravidanza|Esclusivo sistema di sostegno della zona addominale e lombare per una|2017/12/guaina-gravidanza|data.oliviero.it/imgprodotto/guaina-gravidanza_167737",
+"Reggiseno Allatt. Nero Preformato 82208|Pratico e confortevole. Coppe preformate senza cuciture per un|2017/12/reggiseno-allatt-nero-preformato-82208|data.oliviero.it/imgprodotto/reggiseno-allatt-nero-preformato-82208_52932",
 "Bipack T-shirt 065418 020KB|Confezione composta da 2 magliette Tipologia : T-shirt intima da uomo|2017/12/bipack-t-shirt-065418-020kb|data.oliviero.it/imgprodotto/bipack-t-shirt-065418-020kb_85101",
 "Fascia Post Parto Millerighe 82750|Facile da indossare e regolare. Indispensabile in clinica subito dopo|2017/12/fascia-post-parto-millerighe-82750|data.oliviero.it/imgprodotto/fascia-post-parto-millerighe-82750_53119",
 "Reggiseno Allat. Nero 82410|Reggiseno con apertura al centro Nuovo sistema di sgancio rapido|2017/12/reggiseno-allat-nero-82410|data.oliviero.it/imgprodotto/reggiseno-allat-nero-82410_52948",

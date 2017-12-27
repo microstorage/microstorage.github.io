@@ -1,4 +1,6 @@
 Gr = [
+"Astuccio 3 zip Facce da SJ|L'ASTUCCIO 3 ZIP SJ GANG è l'accessorio che non può mancare nel tuo|2017/12/astuccio-3-zip-facce-da-sj|data.oliviero.it/imgprodotto/astuccio-3-zip-facce-da-sj_166253",
+"Moon Boot Blu Nylon|I doposci Moon Boot Tecnica 'The Original Icon' rappresentano da|2017/12/moon-boot-blu-nylon|data.oliviero.it/imgprodotto/moon-boot-blu-nylon_173369",
 "Giubbino Bambino Blu|Collezione Primavera Estate In resistente nylon Fodera interna in|2017/12/giubbino-bambino-blu|data.oliviero.it/imgprodotto/giubbino-bambino-blu-171mhaa005_161083",
 "Scarpe con ruote Spiffy|Le Heelys sono scarpe munite di ruote con cui, grazie ad un semplice|2017/12/scarpe-con-ruote-spiffy|data.oliviero.it/imgprodotto/scarpe-con-ruote-spiffy-770715k_146314",
 "Zaino Shot Pack Fantasy|Capacità 28 lt Dimensione 27x41x20 cm Funzionali Fondo imbottito|2017/12/zaino-shot-pack-fantasy|data.oliviero.it/imgprodotto/zaino-shot-pack-fantasy_167469",

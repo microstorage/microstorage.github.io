@@ -1,4 +1,7 @@
 Gr = [
+"Camicia donna C15227 T1294|Camicia Casual da donna dalla vestibilità slim, mezze maniche|2017/12/camicia-donna-c15227-t1294|data.oliviero.it/imgprodotto/camicia-donna-c15227-t1294_147068",
+"Camicia Uomo Taglie Forti Blu Azzurro|Collezione Autunno Inverno/2018 Camicia uomo taglie forti. Il modello|2017/12/camicia-uomo-taglie-forti-blu-azzurro|data.oliviero.it/imgprodotto/camicia-uomo-taglie-forti-blu-azzurro-n691053ad_173417",
+"Camicia Taglie Forti Uomo Bordeaux|Collezione Autunno Inverno/2018 Camicia uomo taglie forti. Il modello|2017/12/camicia-taglie-forti-uomo-bordeaux|data.oliviero.it/imgprodotto/camicia-taglie-forti-uomo-bordeaux_173419",
 "Camicia Taglie Forti Uomo London blu|Tipologia : Camicia Taglie Forti uomo Tessuto : 65% cotone, 32%|2017/12/camicia-taglie-forti-uomo-london-blu|data.oliviero.it/imgprodotto/camicia-taglie-forti-uomo-london-blu_152235",
 "Camicia Uomo Taglie Forti Vinaccia|Collezione Autunno Inverno/2018 Camicia uomo taglie forti. Il modello|2017/12/camicia-uomo-taglie-forti-vinaccia|data.oliviero.it/imgprodotto/camicia-uomo-taglie-forti-vinaccia_170913",
 "Camicia Jeans Dark Black|Collezione Autunno Inverno/2018 Modello slim fit Tessuto e look denim|2017/12/camicia-jeans-dark-black|data.oliviero.it/imgprodotto/camicia-jeans-dark-black_169143",

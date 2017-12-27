@@ -1,4 +1,8 @@
 Gr = [
+"Zaino Guardian 50|Zaino sviluppato in collaborazione con i tecnici ed i medici di|2017/12/zaino-guardian-50|data.oliviero.it/imgprodotto/zaino-guardian-50-75215_158943",
+"Zaino Esterel 50|Robusto zaino da trekking multi tasche dotato di separatore per un|2017/12/zaino-esterel-50|data.oliviero.it/imgprodotto/zaino-esterel-50-75672_159116",
+"Trolley New Jack Widget|Non conosci ancora Jack??? JACK è il trolley brevettato Seven che|2017/12/trolley-new-jack-widget|data.oliviero.it/imgprodotto/trolley-new-jack-widget_166136",
+"Zainetto per il Pranzo Mouse|Zainetto per l'asilo, morbido e con un capiente vano principale|2017/12/zainetto-per-il-pranzo-mouse|data.oliviero.it/imgprodotto/zainetto-per-il-pranzo-mouse-skip-hop_140396",
 "Zaino Voyage Bloom|Zaino Chiusura a zip bidirezionale Tasca esterna con chiusura a zip|2017/12/zaino-voyage-bloom|data.oliviero.it/imgprodotto/zaino-voyage-bloom_169132",
 "Sacca Performance Logo Blu|Riponi con ordine il tuo abbigliamento sportivo all'interno di questa|2017/12/sacca-performance-logo-blu|data.oliviero.it/imgprodotto/sacca-performance-logo-blu_168321",
 "Zaino Laser 20 Orange|Zaino Laser 20 Orange Capacità: litri 20 Materiale: kodratex diamond|2017/12/zaino-laser-20-orange|data.oliviero.it/imgprodotto/zaino-laser-20-orange_147545",

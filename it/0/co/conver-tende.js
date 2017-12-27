@@ -1,4 +1,5 @@
 Gr = [
+"Tenda Frontera 4 da Campeggio|Rappresenta la soluzione ideale per chi desidera una tenda robusta|2017/12/tenda-frontera-4-da-campeggio|data.oliviero.it/imgprodotto/tenda-frontera-4-da-campeggio_149717",
 "Tenda Jerez 3 da Campeggio|La tenda Jerez rappresenta la giusta scelta in termini di qualità|2017/12/tenda-jerez-3-da-campeggio|data.oliviero.it/imgprodotto/tenda-jerez-3-da-campeggio_149694",
 "Veranda Capri Verde|Tetto in tessuto poliestere bispalmato PVC da 530 gr/mq Cavetto|2017/12/veranda-capri-verde|data.oliviero.it/imgprodotto/veranda-capri-verde_149639",
 "Sacco a pelo Fuji|Misura cm: 195 x 80 Esterno: poliestere 185 T Interno: cotone|2017/12/sacco-a-pelo-fuji|data.oliviero.it/imgprodotto/sacco-a-pelo-fuji_150066",

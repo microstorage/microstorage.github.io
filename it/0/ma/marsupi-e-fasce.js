@@ -1,4 +1,8 @@
 Gr = [
+"Fascia Porta Bebè Carry Sling 510 cm Saffron|Fascia porta bebè Carry Sling Saffron 510 cm La Carry Sling di color|2017/12/fascia-porta-bebe-carry-sling-510-cm-saffron|data.oliviero.it/imgprodotto/fascia-porta-beb%C3%A8-carry-sling-510-cm-saffron_84050",
+"Fascia Porta Bebè Carry Baby Petrol|Fascia porta bebè Carry Baby Petrol Anche se realizzate in misura|2017/12/fascia-porta-bebe-carry-baby-petrol|data.oliviero.it/imgprodotto/fascia-porta-beb%C3%A8-carry-baby-petrol_158732",
+"Marsupio Porta Bebè Smart Carrier Blueberry|Marsupio Smart Carrier Blueberry Il marsupio SMART CARRIER Blueberry|2017/12/marsupio-porta-bebe-smart-carrier-blueberry|data.oliviero.it/imgprodotto/marsupio-porta-beb%C3%A8-smart-carrier-blueberry_84074",
+"Fascia Baby Wrap Grigio|BabyWrap è una morbida fascia di jersey di cotone che ti permette di|2017/12/fascia-baby-wrap-grigio|data.oliviero.it/imgprodotto/fascia-baby-wrap-grigio_162878",
 "Fascia Porta Bebè Carry Sling 510 cm Lollipop|Fascia porta bebè Carry Sling Lollipop 510 cm La Carry Sling di color|2017/12/fascia-porta-bebe-carry-sling-510-cm-lollipop|data.oliviero.it/imgprodotto/fascia-porta-beb%C3%A8-carry-sling-510-cm-lollipop_84046",
 "Marsupio Porta Bebè Smart Carrier Hearth|Marsupio Smart Carrier Earth Il nostro Marsupio SMART CARRIER Earth|2017/12/marsupio-porta-bebe-smart-carrier-hearth|data.oliviero.it/imgprodotto/marsupio-porta-beb%C3%A8-smart-carrier-hearth_84073",
 "Easia marsupio|Portare il bambino nel marsupio favorisce lo sviluppo del legame tra|2017/12/easia-marsupio|data.oliviero.it/imgprodotto/easia-marsupio_71486",

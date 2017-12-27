@@ -1,4 +1,6 @@
 Gr = [
+"Set Basket USA con canestro e pallone|Canestro e Pallone Basket USA set completo con rete e kit di|2017/12/set-basket-usa-con-canestro-e-pallone|data.oliviero.it/imgprodotto/set-basket-usa-con-canestro-e-pallone-70-320-0091_87713",
+"Utilbasket a colonna|UTILBASKET A COLONNA con canestro e rete(senza tabellone)|2017/12/utilbasket-a-colonna|data.oliviero.it/imgprodotto/utilbasket-a-colonna_162172",
 "Canestro San Diego|Un tabellone da basket professionale, dotato di tutto quello che|2017/12/canestro-san-diego|data.oliviero.it/imgprodotto/canestro-san-diego_1759_big",
 "Impianto basket a parete|IMPIANTO BASKET-MINIBASKET A PARETE SINGOLO con piastra da fissare|2017/12/impianto-basket-a-parete|data.oliviero.it/imgprodotto/impianto-basket-a-parete_162170",
 "Canestro basket sganciabile FIBA|CANESTRO BASKET SGANCIABILE FIBA a norme FIBA. Caratteristiche|2017/12/canestro-basket-sganciabile-fiba|data.oliviero.it/imgprodotto/canestro-basket-sganciabile-fiba_162181",

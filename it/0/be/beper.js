@@ -1,4 +1,10 @@
 Gr = [
+"Scaldaletto Singolo Lana Sintetica Dolly|Scaldaletto Singolo Lana Sintetica Dolly Codice: RI.402 Descrizione|2017/12/scaldaletto-singolo-lana-sintetica-dolly|data.oliviero.it/imgprodotto/scaldaletto-singolo-lana-sintetica-dolly-ri-402_157375",
+"Pentola a pressione 6L manici ramati|Pentola a pressione 6L manici ramati Descrizione: pentola a pressione|2017/12/pentola-a-pressione-6l-manici-ramati|data.oliviero.it/imgprodotto/pentola-a-pressione-6l-manici-ramati_160619",
+"Macchina per Popcake|Macchina per Popcake Codice: 90.600 Descrizione : Piastra in|2017/12/macchina-per-popcake|data.oliviero.it/imgprodotto/macchina-per-popcake-90-600_90288",
+"Forno 36L con 2 Fornelli|Forno 36L con 2 Fornelli Codice: 90.375/A Descrizione: 36 L Funzioni|2017/12/forno-36l-con-2-fornelli|data.oliviero.it/imgprodotto/forno-36l-con-2-fornelli-90-375-a_89006",
+"Piastra per Capelli Hello Kitty|Piastra per Capelli Hello Kitty Codice: HK-NV009W Descrizione|2017/12/piastra-per-capelli-hello-kitty|data.oliviero.it/imgprodotto/piastra-per-capelli-hello-kitty-hk-nv009w_89526",
+"Scaldaletto Singolo RI.401|Scaldaletto Singolo Codice: RI.401 Descrizione : Tessuto poliestere|2017/12/scaldaletto-singolo-ri-401|data.oliviero.it/imgprodotto/scaldaletto-singolo-ri-401_157366",
 "MiniTritatutto 150 watt|MiniTritatutto 150 watt Codice: 90.330 Descrizione : Corpo in abs|2017/12/minitritatutto-150-watt|data.oliviero.it/imgprodotto/minitritatutto-150-watt_157400",
 "Scaldabiberon casa e auto|Scaldabiberon casa e auto - 90.354 Scaldabiberon multifunzione che ti|2017/12/scaldabiberon-casa-e-auto|data.oliviero.it/imgprodotto/scaldabiberon-casa-e-auto-90-354_160658",
 "Forno Microonde Meccanico 25 litri c Grill|Forno Microonde Meccanico 25 litri c/Grill Codice: 90.379|2017/12/forno-microonde-meccanico-25-litri-c-grill|data.oliviero.it/imgprodotto/forno-microonde-meccanico-25-litri-c-grill-90-379_88996",

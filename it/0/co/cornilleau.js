@@ -1,4 +1,6 @@
 Gr = [
+"Tavolo Ping Pong Tecto Indoor|Tectonic è la linea di ping-pong entry level di Cornilleau, azienda|2017/12/tavolo-ping-pong-tecto-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-tecto-indoor_83021",
+"Racchette da ping pong Pack Sport Duo 432|Racchette da Ping Pong Pack Sport Duo 432. La confezione comprende|2017/12/racchette-da-ping-pong-pack-sport-duo-432|data.oliviero.it/imgprodotto/racchette-da-ping-pong-pack-sport-duo-432_58096",
 "Tavolo Ping Pong Sport 100 Indoor|Tavolo Ping Pong Sport 100 Indoor PIANO AGGLOMERATO 19 mm SKILTOP|2017/12/tavolo-ping-pong-sport-100-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-sport-100-indoor_147306",
 "Tavolo Ping Pong Competition 740 ITTF|Tavolo Ping Pong Competition 740 ITTF Caratteristiche PIANO|2017/12/tavolo-ping-pong-competition-740-ittf|data.oliviero.it/imgprodotto/tavolo-ping-pong-competition-740-ittf_136312",
 "Tavolo Ping Pong Competition 850 wood ITTF Indoor|Tavolo Ping Pong Competition 850 wood ITTF Indoor COLORE GRIGIO PIANO|2017/12/tavolo-ping-pong-competition-850-wood-ittf-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-competition-850-wood-ittf-indoor_130135",

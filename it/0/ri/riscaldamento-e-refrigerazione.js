@@ -1,4 +1,6 @@
 Gr = [
+"Cuscino Riscaldante 38x48 cm|Cuscino riscaldante intelligente che si prende cura del tuo benessere|2017/12/cuscino-riscaldante-38x48-cm|data.oliviero.it/imgprodotto/cuscino-riscaldante-38x48-cm_172055",
+"Forno 36L con 2 Fornelli|Forno 36L con 2 Fornelli Codice: 90.375/A Descrizione: 36 L Funzioni|2017/12/forno-36l-con-2-fornelli|data.oliviero.it/imgprodotto/forno-36l-con-2-fornelli-90-375-a_89006",
 "Termoforo Cervicale e Spalle|Il calore intelligente per il tuo benessere quotidiano - modello|2017/12/termoforo-cervicale-e-spalle|data.oliviero.it/imgprodotto/termoforo-cervicale-e-spalle_172053",
 "Forno Microonde Meccanico 25 litri c Grill|Forno Microonde Meccanico 25 litri c/Grill Codice: 90.379|2017/12/forno-microonde-meccanico-25-litri-c-grill|data.oliviero.it/imgprodotto/forno-microonde-meccanico-25-litri-c-grill-90-379_88996",
 "Carrello Top per Barbecue|Carrello TOP per appoggio BBQ CITY, PIASTRA SHARK 50 e SHARK 80|2017/12/carrello-top-per-barbecue|data.oliviero.it/imgprodotto/carrello-top-per-barbecue_86387",

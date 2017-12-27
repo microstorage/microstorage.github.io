@@ -1,4 +1,5 @@
 Gr = [
+"Padella 22 cm Ingegno|LAGOSTINA PADELLA ANTIADERENTE Ingenio 22cm Facile da pulire;|2017/12/padella-22-cm-ingegno|data.oliviero.it/imgprodotto/padella-22-cm-ingegno_156209",
 "Coperchio 16 cm Vetro Ingenio|Ingenio è la nuova linea antiaderente ad effetto marmorizzato firmata|2017/12/coperchio-16-cm-vetro-ingenio|data.oliviero.it/imgprodotto/coperchio-16-cm-vetro-ingenio_155889",
 "Coperchio in silicone Ingenio|Ingenio è la nuova linea antiaderente ad effetto marmorizzato firmata|2017/12/coperchio-in-silicone-ingenio|data.oliviero.it/imgprodotto/coperchio-in-silicone-ingenio_155890",
 "Coperchio 20 cm Vetro Ingenio|Ingenio è la nuova linea antiaderente ad effetto marmorizzato firmata|2017/12/coperchio-20-cm-vetro-ingenio|data.oliviero.it/imgprodotto/coperchio-20-cm-vetro-ingenio_155891",

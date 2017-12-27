@@ -1,4 +1,5 @@
 Gr = [
+"Cuscino Riscaldante 38x48 cm|Cuscino riscaldante intelligente che si prende cura del tuo benessere|2017/12/cuscino-riscaldante-38x48-cm|data.oliviero.it/imgprodotto/cuscino-riscaldante-38x48-cm_172055",
 "Termoforo Cervicale e Spalle|Il calore intelligente per il tuo benessere quotidiano - modello|2017/12/termoforo-cervicale-e-spalle|data.oliviero.it/imgprodotto/termoforo-cervicale-e-spalle_172053",
 "Stufa a Gas 15 Kg|Stufa a Gas 15 Kg Codice: RI.312 Descrizione : Corpo in acciaio|2017/12/stufa-a-gas-15-kg|data.oliviero.it/imgprodotto/stufa-a-gas-15-kg-ri-312_90006",
 "Termoforo Multifunzione Intellisense|Il calore intelligente per il tuo benessere quotidiano - modello|2017/12/termoforo-multifunzione-intellisense|data.oliviero.it/imgprodotto/termoforo-multifunzione-intellisense_172051",

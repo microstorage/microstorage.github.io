@@ -1,4 +1,8 @@
 Gr = [
+"Coppia Bastoncini Nordic 78380|Bastoncino da nordic walking Sistema di regolazione LOCK & GO per la|2017/12/coppia-bastoncini-nordic-78380|data.oliviero.it/imgprodotto/coppia-bastoncini-nordic-78380_66715",
+"Zaino Guardian 50|Zaino sviluppato in collaborazione con i tecnici ed i medici di|2017/12/zaino-guardian-50|data.oliviero.it/imgprodotto/zaino-guardian-50-75215_158943",
+"Zaino Esterel 50|Robusto zaino da trekking multi tasche dotato di separatore per un|2017/12/zaino-esterel-50|data.oliviero.it/imgprodotto/zaino-esterel-50-75672_159116",
+"Bastoncini Trekking TK1|Due bastoncini pieghevoli per backpacking o l'alpinismo. Tre sezioni|2017/12/bastoncini-trekking-tk1|data.oliviero.it/imgprodotto/bastoncini-trekking-tk1_80784",
 "Coppia Bastoncini Nordic Walking NW Balance CL. Carbon|Descrizione : SISTEMA CLICK-IN Komperdell FIT'S caratteristiche:|2017/12/coppia-bastoncini-nordic-walking-nw-balance-cl-carbon|data.oliviero.it/imgprodotto/coppia-bastoncini-nordic-walking-nw-balance-cl-carbon_85733",
 "Zaino Laser 20 Orange|Zaino Laser 20 Orange Capacità: litri 20 Materiale: kodratex diamond|2017/12/zaino-laser-20-orange|data.oliviero.it/imgprodotto/zaino-laser-20-orange_147545",
 "Scarpe Trekking T-Walk Low Syn GTX MS|Escursionisti veloci che cercano una calzatura flessibile, leggera|2017/12/scarpe-trekking-t-walk-low-syn-gtx-ms|data.oliviero.it/imgprodotto/scarpe-trekking-t-walk-low-syn-gtx-ms_165325",

@@ -1,4 +1,9 @@
 Gr = [
+"Racchetta Beach Tennis Sbed|Telaio studiato per conferire maggiore precisione e controllo alle|2017/12/racchetta-beach-tennis-sbed|data.oliviero.it/imgprodotto/racchetta-beach-tennis-sbed_167106",
+"Impianto Beach Volley-Tennis Monotubo Zincato|IMPIANTO BEACH VOLLEY-TENNIS MONOTUBO ZINCATO. Caratteristiche|2017/12/impianto-beach-volley-tennis-monotubo-zincato|data.oliviero.it/imgprodotto/impianto-beach-volley-tennis-monotubo-zincato_162189",
+"Racchetta Beach Tennis Katana|Modello: HIGH POWER RACCHETTA BEACH TENNIS RACKET KATANA CON CUSTODIA|2017/12/racchetta-beach-tennis-katana|data.oliviero.it/imgprodotto/racchetta-beach-tennis-katana_173404",
+"Racchetta Beach Tennis Junior Green|Racchetta Beach Tennis Linea di racchette prodotta appositamente per|2017/12/racchetta-beach-tennis-junior-green|data.oliviero.it/imgprodotto/racchetta-beach-tennis-junior-green_147594",
+"Rete Beach Tennis 6 mm|Rete Beach Tennis PVC stampata Colore nero mm 40 Maglia esagonale con|2017/12/rete-beach-tennis-6-mm|data.oliviero.it/imgprodotto/rete-beach-tennis-6-mm_165500",
 "Racchetta Beach Tennis Japan|Racchetta Beach Tennis Marca: VISION Modello: RACCHETTA BEACH TENNIS|2017/12/racchetta-beach-tennis-japan|data.oliviero.it/imgprodotto/racchetta-beach-tennis-japan_164427",
 "Racchetta Beach Tennis Graffiti|Collezione Primavera Estate Questo attrezzo è stato progettato|2017/12/racchetta-beach-tennis-graffiti|data.oliviero.it/imgprodotto/racchetta-beach-tennis-graffiti-btt1710_164727",
 "Racchetta Beach Tennis Logo Orange|Linea di racchette per principianti e bambini Telaio a ponte singolo|2017/12/racchetta-beach-tennis-logo-orange|data.oliviero.it/imgprodotto/racchetta-beach-tennis-logo-orange_151978",

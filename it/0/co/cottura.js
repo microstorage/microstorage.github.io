@@ -1,4 +1,5 @@
 Gr = [
+"Forno 36L con 2 Fornelli|Forno 36L con 2 Fornelli Codice: 90.375/A Descrizione: 36 L Funzioni|2017/12/forno-36l-con-2-fornelli|data.oliviero.it/imgprodotto/forno-36l-con-2-fornelli-90-375-a_89006",
 "Forno Microonde Meccanico 25 litri c Grill|Forno Microonde Meccanico 25 litri c/Grill Codice: 90.379|2017/12/forno-microonde-meccanico-25-litri-c-grill|data.oliviero.it/imgprodotto/forno-microonde-meccanico-25-litri-c-grill-90-379_88996",
 "Macchina per Muffin CupCake|Macchina per CupCake Codice: 90.498 Descrizione : Piastra|2017/12/macchina-per-muffin-cupcake|data.oliviero.it/imgprodotto/macchina-per-muffin-cupcake-90-498_89031",
 "Termometro da cottura|Termometro da cottura in acciaio inossidabile per misurare la|2017/12/termometro-da-cottura|data.oliviero.it/imgprodotto/termometro-da-cottura_74030",

@@ -1,4 +1,12 @@
 Gr = [
+"Rialzo Smarty 219|Più sicuro di un tradizionale seggiolino da tavola perchè si fissa|2017/12/rialzo-smarty-219|data.oliviero.it/imgprodotto/rialzo-smarty-219_167056",
+"Cuocipappa Easy Meal|Cuoci Pappa Easy Meal: più facile e veloce per pappe nutrienti!|2017/12/cuocipappa-easy-meal|data.oliviero.it/imgprodotto/cuocipappa-easy-meal_167237",
+"Ciotole Primi Numeri Rosa|Queste ciotole sono la perfetta soluzione per il passaggio al cibo|2017/12/ciotole-primi-numeri-rosa|data.oliviero.it/imgprodotto/ciotole-primi-numeri-rosa_167213",
+"Seggiolone Istante S2400 C219|7 altezze, 4 inclinazioni dello schienale utilizzabile dalla nascita|2017/12/seggiolone-istante-s2400-c219|data.oliviero.it/imgprodotto/seggiolone-istante-s2400-c219_156045",
+"Tazza Con Cannuccia 18+|È dotata di una morbida cannuccia in silicone, resistente ai dentini|2017/12/tazza-con-cannuccia-18+|data.oliviero.it/imgprodotto/tazza-con-cannuccia-18-_69201",
+"Seggiolone B-Fun Beige Sabbia|B.Fun è il seggiolone multifunzione con caratteristiche tecnico|2017/12/seggiolone-b-fun-beige-sabbia|data.oliviero.it/imgprodotto/seggiolone-b-fun-beige-sabbia_172596",
+"Set Pappa 6+ azzurro|Set disegnato per le prime tappe dello svezzamento. Incoraggia il|2017/12/set-pappa-6+-azzurro|data.oliviero.it/imgprodotto/set-pappa-6-azzurro_150287",
+"Seggiolone Istante S2400 235|Istante Seggiolone è il nuovissimo seggiolone di Cam per magiare|2017/12/seggiolone-istante-s2400-235|data.oliviero.it/imgprodotto/seggiolone-istante-s2400-235_171516",
 "Prima Pappa Zero3 Paloma|Prima Pappa Zero 3 è il seggiolone ultraleggero e multifunzionale|2017/12/prima-pappa-zero3-paloma|data.oliviero.it/imgprodotto/prima-pappa-zero3-paloma_146036",
 "Seggiolone Dan Chair con cuscino|Il baby Dan danchair è progettato con piedini extra lungo per fornire|2017/12/seggiolone-dan-chair-con-cuscino|data.oliviero.it/imgprodotto/seggiolone-dan-chair-con-cuscino_162739",
 "Bavaglia monouso 40 pezzi|Bavaglini monouso in una pratica confezione dispenser, ralizzati in|2017/12/bavaglia-monouso-40-pezzi|data.oliviero.it/imgprodotto/bavaglia-monouso-40-pezzi_2200_big",

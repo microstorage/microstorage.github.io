@@ -1,4 +1,5 @@
 Gr = [
+"Grembiule mod. lungo|Colore :Bianco Composizione : tessuto 65% poliestere e 35% cotone|2017/12/grembiule-mod-lungo|data.oliviero.it/imgprodotto/grembiule-mod-lungo_23013_big",
 "Giacca coreana donna|Colore base : griglio scuro Inserto : In colore nero + profili oro|2017/12/giacca-coreana-donna|data.oliviero.it/imgprodotto/giacca-coreana-donna_82990",
 "Camice odontotecnico lungo verde|Colore : Verde Composizione : tessuto 100% cotone Dimensioni : / Peso|2017/12/camice-odontotecnico-lungo-verde|data.oliviero.it/imgprodotto/camice-odontotecnico-lungo-verde_23011_big",
 "Giacca Cuoco Donna|Colore base : Biancoo Profili : Nero Composizione : Tessuto Gabardina|2017/12/giacca-cuoco-donna|data.oliviero.it/imgprodotto/giacca-cuoco-donna_78996",

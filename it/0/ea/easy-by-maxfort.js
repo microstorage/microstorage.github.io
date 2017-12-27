@@ -1,4 +1,8 @@
 Gr = [
+"Pantaloni Uomo Taglie Forti Navy|Collezione Primavera Estate Pantaloni da uomo taglie forti. Il|2017/12/pantaloni-uomo-taglie-forti-navy|data.oliviero.it/imgprodotto/pantaloni-uomo-taglie-forti-navy_162820",
+"Jeans Uomo Taglie Forti E1103|Jeans uomo taglie forti. Il modello presenta allacciatura frontale|2017/12/jeans-uomo-taglie-forti-e1103|data.oliviero.it/imgprodotto/jeans-uomo-taglie-forti-e1103_168575",
+"Giubbino Taglie Forti Uomo Nero|C ollezione Autunno Invermo/2018 Giubbotto reversibile da uomo taglie|2017/12/giubbino-taglie-forti-uomo-nero|data.oliviero.it/imgprodotto/giubbino-taglie-forti-uomo-nero_170889",
+"Camicia Taglie Forti Uomo Bordeaux|Collezione Autunno Inverno/2018 Camicia uomo taglie forti. Il modello|2017/12/camicia-taglie-forti-uomo-bordeaux|data.oliviero.it/imgprodotto/camicia-taglie-forti-uomo-bordeaux_173419",
 "Felpa Taglie Forti Uomo Ocra|Collezione Autunno Inverno/2018 Felpa uomo taglie forti. Il modello|2017/12/felpa-taglie-forti-uomo-ocra|data.oliviero.it/imgprodotto/felpa-taglie-forti-uomo-ocra_172160",
 "Pantalone Uomo Taglie Forti Navy|Collezione Primavera Estate Pantaloni uomo Taglie Forti. Il modello|2017/12/pantalone-uomo-taglie-forti-navy|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-navy_161447",
 "Felpa Uomo Taglie Forti Nero|Collezione Primavera Estate Felpa da uomo taglie forti. Il modello|2017/12/felpa-uomo-taglie-forti-nero|data.oliviero.it/imgprodotto/felpa-uomo-taglie-forti-nero_160294",

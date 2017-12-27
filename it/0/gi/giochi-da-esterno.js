@@ -1,4 +1,8 @@
 Gr = [
+"Tappeto Elastico con Rete 140 cm diam|Struttura in acciaio verniciato a polvere, tappeto elastico|2017/12/tappeto-elastico-con-rete-140-cm-diam|data.oliviero.it/imgprodotto/tappeto-elastico-con-rete-140-cm-diam-70-420-0011_166636",
+"Wood House Centro Attività|Casetta del bosco con scivolo e due scalette di salita laterali, con|2017/12/wood-house-centro-attivita|data.oliviero.it/imgprodotto/wood-house-centro-attivit%C3%A0_162218",
+"Zainetto mare Minnie|Set da spiaggia. Include: sacca, secchiello D.17, setaccio|2017/12/zainetto-mare-minnie|data.oliviero.it/imgprodotto/zainetto-mare-minnie_148024",
+"Frisbee Dyn-O-Glo 130gr|Il Frisbee che brilla più di 30 minuti. Ecco il Frisbee che si|2017/12/frisbee-dyn-o-glo-130gr|data.oliviero.it/imgprodotto/frisbee-dyn-o-glo-130gr_166397",
 "Altalena Candy 1|Altalena ad una seduta solida e resistente per un classico|2017/12/altalena-candy-1|data.oliviero.it/imgprodotto/altalena-candy-1_11204_big",
 "Seggiolino di Sicurezza per Altalena Coco e Candy|Confortevole ed avvolgente, il seggiolino di sicurezza in materiale|2017/12/seggiolino-di-sicurezza-per-altalena-coco-e-candy|data.oliviero.it/imgprodotto/seggiolino-di-sicurezza-per-altalena-coco-e-candy_11211_big",
 "Sedile Altalena Basic|Sedile base resistente e sicura, colori brillanti e resistenti alla|2017/12/sedile-altalena-basic|data.oliviero.it/imgprodotto/sedile-altalena-basic_81993",

@@ -1,4 +1,5 @@
 Gr = [
+"Tuta Layette Fluo Coral Grigio Melange|Collezione Primavera Estate Tuta da bambino Il modello è composto da|2017/12/tuta-layette-fluo-coral-grigio-melange|data.oliviero.it/imgprodotto/tuta-layette-fluo-coral-grigio-melange-4s303_158610",
 "Pantalone Sportivo Bambino Navy|Collezione Primavera Estate Pantalone sportivo da bambino ideale per|2017/12/pantalone-sportivo-bambino-navy|data.oliviero.it/imgprodotto/pantalone-sportivo-bambino-navy-4s176_159335",
 "Maxi Maglia e Leggings Layette Fluo Coral e Grigio 4S304|Collezione Primavera Estate Maxi maglia e leggings da bambina Il|2017/12/maxi-maglia-e-leggings-layette-fluo-coral-e-grigio-4s304|data.oliviero.it/imgprodotto/maxi-maglia-e-leggings-layette-fluo-coral-e-grigio-4s304_158611",
 "Camicia Bambino Navy|Collezione Primavera Estate Camicia maniche lunghe da bambino. Il|2017/12/camicia-bambino-navy|data.oliviero.it/imgprodotto/camicia-bambino-navy-3s620_159250",

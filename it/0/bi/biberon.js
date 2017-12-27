@@ -1,4 +1,6 @@
 Gr = [
+"Biberon 260 ml natural|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-260-ml-natural|data.oliviero.it/imgprodotto/biberon-260-ml-natural_66810",
+"Biberon 125 ml natural azzurro|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-125-ml-natural-azzurro|data.oliviero.it/imgprodotto/biberon-125-ml-natural-azzurro_66815",
 "Cofanetto nascita rosa|Chicco gift set è il regalo perfetto per una nascita. Un cofanetto|2017/12/cofanetto-nascita-rosa|data.oliviero.it/imgprodotto/cofanetto-nascita-rosa_91975",
 "Biberon 260 ml rosa natural|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-260-ml-rosa-natural|data.oliviero.it/imgprodotto/biberon-260-ml-rosa-natural_138407",
 "Biberon 260 ml verde|Con il biberon First Bottle i bambini si sentono al sicuro fin dal|2017/12/biberon-260-ml-verde|data.oliviero.it/imgprodotto/biberon-260-ml-verde_53143",

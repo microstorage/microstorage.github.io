@@ -1,4 +1,5 @@
 Gr = [
+"Materassino Double 22 floccato con gonfiatore elettrico 220V|Materassino Double 22 floccato con gonfiatore elettrico 220V|2017/12/materassino-double-22-floccato-con-gonfiatore-elettrico-220v|data.oliviero.it/imgprodotto/materassino-double-22-floccato-con-gonfiatore-elettrico-220v_87214",
 "Brandina Heavy Duty Pieghevole|Brandina Heavy Duty Pieghevole - 97104 Realizzata con telaio in|2017/12/brandina-heavy-duty-pieghevole|data.oliviero.it/imgprodotto/brandina-heavy-duty-pieghevole-97104_158934",
 "Materassino Queen 47 floccato con gonfiatore elettrico 220V|Caratteristiche tecniche: Misure: 203x157x47 Grande comodità|2017/12/materassino-queen-47-floccato-con-gonfiatore-elettrico-220v|data.oliviero.it/imgprodotto/materassino-queen-47-floccato-con-gonfiatore-elettrico-220v_155292",
 "Materassino Floccato con Pompa Incorporata|Materassino Floccato con pompa incorporata. Caratteristiche tecniche:|2017/12/materassino-floccato-con-pompa-incorporata|data.oliviero.it/imgprodotto/materassino-floccato-con-pompa-incorporata_165990",

@@ -1,4 +1,6 @@
 Gr = [
+"Crinkly Bunny Gioco, Blu|Animaletto frusciante facile da afferrare per giocare al gioco del|2017/12/crinkly-bunny-gioco-blu|data.oliviero.it/imgprodotto/crinkly-bunny-gioco-blu_157122",
+"Cozy Rocker Napper Sdraietta, Grigio|Si converte facilmente da sdraietta per il gioco a culla dotata di|2017/12/cozy-rocker-napper-sdraietta-grigio|data.oliviero.it/imgprodotto/cozy-rocker-napper-sdraietta-grigio_157127",
 "Rock & Ball Gioco Interattivo|Caratteristiche: Facile da afferrare, da farrotolare o da|2017/12/rock-ball-gioco-interattivo|data.oliviero.it/imgprodotto/rock-%26-ball-gioco-interattivo_157125",
 "Sonaglio a fiore|Questo grazioso sonaglio è il giocattolo ideale per il vostro bambino|2017/12/sonaglio-a-fiore|data.oliviero.it/imgprodotto/sonaglio-a-fiore_72488",
 "Take Along Mobile Princess Giostrina, Rosa|Giostrina colorata e coinvolgente che segue il tuo bambino ovunque|2017/12/take-along-mobile-princess-giostrina-rosa|data.oliviero.it/imgprodotto/take-along-mobile-princess-giostrina-rosa_157129",

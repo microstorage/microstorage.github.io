@@ -1,4 +1,13 @@
 Gr = [
+"Tenda Grand Chic da Campeggio|Ampia finestratura con zanzariera e copertura antipioggia in kristal|2017/12/tenda-grand-chic-da-campeggio|data.oliviero.it/imgprodotto/tenda-grand-chic-da-campeggio_87328",
+"Tenda Frontera 4 da Campeggio|Rappresenta la soluzione ideale per chi desidera una tenda robusta|2017/12/tenda-frontera-4-da-campeggio|data.oliviero.it/imgprodotto/tenda-frontera-4-da-campeggio_149717",
+"Capannone Area 40 (5x8)|Capannoni per uso comunità, banchetti, esposizioni fieristiche|2017/12/capannone-area-40-5x8|data.oliviero.it/imgprodotto/capannone-area-40-5x8-_147523",
+"Canadese Sogno Tenda da Campeggio|Tenda da campeggio Sono munite di sopratetto ed abside con cuffia di|2017/12/canadese-sogno-tenda-da-campeggio|data.oliviero.it/imgprodotto/canadese-sogno-tenda-da-campeggio_87432",
+"Tenda Igloo ALP 3 da Campeggio|Sopratetto: polyestere ripstop 75 DX210T P.U. & Silicon 4000 mm., con|2017/12/tenda-igloo-alp-3-da-campeggio|data.oliviero.it/imgprodotto/tenda-igloo-alp-3-da-campeggio_87332",
+"Tenda Spider da Campeggio|Sopratetto : polyestere diamond ripstop 75 DX210T P.U. & Silicon 4000|2017/12/tenda-spider-da-campeggio|data.oliviero.it/imgprodotto/tenda-spider-da-campeggio_149930",
+"Tenda Cosmo 4 VIP|Sopratetto : polyestere 190T P.U., alluminato termoisolante 3000 mm|2017/12/tenda-cosmo-4-vip|data.oliviero.it/imgprodotto/tenda-cosmo-4-vip_87336",
+"Gabbiotto Polar Azzurro|Preingresso invernale adattabile a tutti i tipi di Caravan e Camper|2017/12/gabbiotto-polar-azzurro|data.oliviero.it/imgprodotto/gabbiotto-polar-azzurro_161730",
+"Tenda Comet 6 da Campeggio|Sopratetto : polyestere 190T P.U. 3000 mm., alluminato|2017/12/tenda-comet-6-da-campeggio|data.oliviero.it/imgprodotto/tenda-comet-6-da-campeggio_87341",
 "Tenda Ready Steady 3 Tenda Gonfiabile da Campeggio|Tenda caratterizzata da un'innovativa struttura pneumatica al posto|2017/12/tenda-ready-steady-3-tenda-gonfiabile-da-campeggio|data.oliviero.it/imgprodotto/tenda-ready-steady-3-tenda-gonfiabile-da-campeggio_158506",
 "Tenda Emperor 2 da Campeggio|È la nuova frontiera tecnologica e prestazionale raggiunta da|2017/12/tenda-emperor-2-da-campeggio|data.oliviero.it/imgprodotto/tenda-emperor-2-da-campeggio_158380",
 "Gabbiotto Caravan|Tenda per molteplici usi. Cucina, toilette, doccia, wc. Porta/veranda|2017/12/gabbiotto-caravan|data.oliviero.it/imgprodotto/gabbiotto-caravan_87303",

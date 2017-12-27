@@ -1,4 +1,6 @@
 Gr = [
+"Pattini in linea FIREWHEEL PRO|Descrizione: Asse ruota : alluminio - spessore 2,2 mm Scarpetta|2017/12/pattini-in-linea-firewheel-pro|data.oliviero.it/imgprodotto/pattini-in-linea-firewheel-pro-colore-nero_162397",
+"Skateboard TRIBE PRO WHITE SKULL|Descrizione: Dimensioni tavola : 79x20 cm Materiale tavola|2017/12/skateboard-tribe-pro-white-skull|data.oliviero.it/imgprodotto/skateboard-tribe-pro-white-skull_162367",
 "Monopattino a tre ruote ADVENTURE KID GRAND PRIX rosso|Descrizione: Pieghevole : con sistema di chiusura rapido e sicuro|2017/12/monopattino-a-tre-ruote-adventure-kid-grand-prix-rosso|data.oliviero.it/imgprodotto/monopattino-a-tre-ruote-adventure-kid-grand-prix-rosso_162384",
 "Longboard CRUISER BAY NEW|Descrizione: Dimensioni tavola : 96X24 cm spessore 12,5 mm Materiale|2017/12/longboard-cruiser-bay-new|data.oliviero.it/imgprodotto/longboard-cruiser-bay-new_162377",
 "Skateboard FREEDOM PRO MILITARY|Descrizione: Dimensioni tavola : 57x15,2 cm Materiale tavola : ABS|2017/12/skateboard-freedom-pro-military|data.oliviero.it/imgprodotto/skateboard-freedom-pro-military_162376",

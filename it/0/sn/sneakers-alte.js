@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe All Star Ct AS Sp Hi glitter e borchie|Utilizzo: Calzatura moda sport Unisex Tomaia: Tessuto Battistrada: in|2017/12/scarpe-all-star-ct-as-sp-hi-glitter-e-borchie|data.oliviero.it/imgprodotto/scarpe-all-star-ct-as-sp-hi-glitter-e-borchie_124656",
 "Scarpe CT As Distressed Hi|Apparsa nel 1917, la marca Converse si rivolse inizialmente ai|2017/12/scarpe-ct-as-distressed-hi|data.oliviero.it/imgprodotto/scarpe-ct-as-distressed-hi_169804",
 "Scarpe CT As Hi Glitter|Apparsa nel 1917, la marca Converse si rivolse inizialmente ai|2017/12/scarpe-ct-as-hi-glitter|data.oliviero.it/imgprodotto/scarpe-ct-as-hi-glitter-555114_152095",
 "Stivaletti Donna Grigio|Collezione Autunno Inverno/2018 Tipologia: stivaletto con zeppa|2017/12/stivaletti-donna-grigio|data.oliviero.it/imgprodotto/stivaletti-donna-grigio_168923",

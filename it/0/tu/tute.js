@@ -1,4 +1,6 @@
 Gr = [
+"Tuta Sportiva Uomo Blu Energize|Collezione Primavera Estate Rinfresca il tuo look sportivo indossando|2017/12/tuta-sportiva-uomo-blu-energize|data.oliviero.it/imgprodotto/tuta-sportiva-uomo-blu-energize-bk2674_160250",
+"Tuta uomo Triacetato Navy|Collezione Autunno Inverno/2018 Tuta sportiva uomo in acetato.Felpa|2017/12/tuta-uomo-triacetato-navy|data.oliviero.it/imgprodotto/tuta-uomo-triacetato-navy-210849-bs501_167674",
 "Pantaloni Sportivi Taglie Forti Grigio|Collezione Primavera Estate Pantalone sportivo da uomo taglie forti|2017/12/pantaloni-sportivi-taglie-forti-grigio|data.oliviero.it/imgprodotto/pantaloni-sportivi-taglie-forti-grigio_165346",
 "Tuta Uomo Nero|Nei giorni più freddi, allenati in pieno comfort indossando questa|2017/12/tuta-uomo-nero|data.oliviero.it/imgprodotto/tuta-uomo-nero_168364",
 "Pantaloni sportivi taglie forti uomo blu UP100|Tipologia: Pantalone Sportivo Taglie Forti Tessuto: 100% cotone|2017/12/pantaloni-sportivi-taglie-forti-uomo-blu-up100|data.oliviero.it/imgprodotto/pantaloni-sportivi-taglie-forti-uomo-blu-up100_140974",

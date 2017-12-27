@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Running Freedom ISO W|Le scarpe running Saucony Freedom ISO rappresentano il massimo in|2017/12/scarpe-running-freedom-iso-w|data.oliviero.it/imgprodotto/scarpe-running-freedom-iso-w_167255",
 "Scarpe Jazz Original Donna|Saucony Originals Jazz O' donna Nero/Verde Acqua : dal 1981 le|2017/12/scarpe-jazz-original-donna|data.oliviero.it/imgprodotto/scarpe-jazz-original-donna_167356",
 "Scarpe Running Freedom ISO|Freedom rappresenta il punto più alto della tecnologia Saucony. Non|2017/12/scarpe-running-freedom-iso|data.oliviero.it/imgprodotto/scarpe-running-freedom-iso_167274",
 "Scarpe Running Kinvara 8 Giro d'Italia|Questa versione con colorazione rosa e lacci tricolore è stata|2017/12/scarpe-running-kinvara-8-giro-d-italia|data.oliviero.it/imgprodotto/scarpe-running-kinvara-8-giro-ditalia_165011",

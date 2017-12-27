@@ -1,4 +1,12 @@
 Gr = [
+"Ellittica Rivo P Black Edition|RIVO P 07644-500 Passo dopo passo verso la tua forma ideale. Grazie|2017/12/ellittica-rivo-p-black-edition|data.oliviero.it/imgprodotto/ellittica-rivo-p-black-edition_130310",
+"Cyclette Ergo S6|KETTLER ERGO S6 Un vero ergometro con 2 modalità di utilizzo:|2017/12/cyclette-ergo-s6|data.oliviero.it/imgprodotto/cyclette-ergo-s6_158038",
+"Gym Bike Racer 1 speed bike|RACER 1 GYM BIKE KETTLER COD.7639-700; Tecnologia affidabile per il|2017/12/gym-bike-racer-1-speed-bike|data.oliviero.it/imgprodotto/gym-bike-racer-1-speed-bike_157997",
+"Panca Inversione Apollo|La panca gravitazionale APOLLO permette, con il suo movimento di|2017/12/panca-inversione-apollo|data.oliviero.it/imgprodotto/panca-inversione-apollo_50639_big",
+"Tapis Roulant Track 5|KETTLER Track 5, oltre al sistema EASY ROLLER e allo Shock Absorber|2017/12/tapis-roulant-track-5|data.oliviero.it/imgprodotto/tapis-roulant-track-5_162679",
+"Ministepper con Computer|Il Kettler Mini-Stepper con computer slancia la vostra circolazione|2017/12/ministepper-con-computer|data.oliviero.it/imgprodotto/ministepper-con-computer_8432_big",
+"Modulo Leg extension, Leg Curl|KINETIC SYSTEM Il nuovo concetto modulare Kinetic system è costituito|2017/12/modulo-leg-extension-leg-curl|data.oliviero.it/imgprodotto/modulo-leg-extension-leg-curl-kinetic-system_130393",
+"Gym Bike Racer 9 incluso World Tours 2.0|La cyclette Racer 9 da Kettler è naturalmente per ciclisti ambiziosi|2017/12/gym-bike-racer-9-incluso-world-tours-2-0|data.oliviero.it/imgprodotto/gym-bike-racer-9-incluso-world-tours-2-0_158083",
 "Stepper Montana|stepper ideale per l'home- fitness. Caratteristiche: Training PC:|2017/12/stepper-montana|data.oliviero.it/imgprodotto/stepper-montana_57_big",
 "Tavolo Ping Pong Outdoor 10 Blu|OUTDOOR 10 Modello per uso ricreativo per utilizzatori di tutte le|2017/12/tavolo-ping-pong-outdoor-10-blu|data.oliviero.it/imgprodotto/tavolo-ping-pong-outdoor-10-blu_110975",
 "Vogatore Coach E|Il vogatore professionale creato e progettato per eliminare tutti gli|2017/12/vogatore-coach-e|data.oliviero.it/imgprodotto/vogatore-coach-e_6974_big",

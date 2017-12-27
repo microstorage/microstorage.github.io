@@ -1,4 +1,6 @@
 Gr = [
+"Cesta Portabebè Sugar|Cesta portabebe` in palma con piumetto serie Sugar. Tessuto 100%|2017/12/cesta-portabebe-sugar|data.oliviero.it/imgprodotto/cesta-portabeb%C3%A8-sugar_173510",
+"Cesta Portabebè con Cappotta Muffin|Cesta portabebe` in palma con piumetto e cappotta serie Muffin|2017/12/cesta-portabebe-con-cappotta-muffin|data.oliviero.it/imgprodotto/cesta-portabeb%C3%A8-con-cappotta-muffin_173568",
 "Cesta Porta Enfant Gigi e Lele|Ecco arrivare finalmente la colorata e simpatica linea Gigi e Lele|2017/12/cesta-porta-enfant-gigi-e-lele|data.oliviero.it/imgprodotto/cesta-porta-enfant-gigi-e-lele_5609_big",
 "Cesta Portabebè Amelie|Cesta portabebe` in palma con piumetto serie Amelie. Tessuto 100%|2017/12/cesta-portabebe-amelie|data.oliviero.it/imgprodotto/cesta-portabeb%C3%A8-amelie_172907",
 "Cesta Porta Enfant Caprice Royal|Linea dal gusto romantico e antico. Soddisfa un vero e proprio|2017/12/cesta-porta-enfant-caprice-royal|data.oliviero.it/imgprodotto/cesta-porta-enfant-caprice-royal_5654_big",

@@ -1,4 +1,5 @@
 Gr = [
+"Shake Me: Asinello Sonaglio|Caratteristiche: Facile da impugnare Musiche con interruttore on/off|2017/12/shake-me-asinello-sonaglio|data.oliviero.it/imgprodotto/shake-me-asinello-sonaglio_157111",
 "Gioco Musicale Corsa Delle Oche Utilizzabile in Acqua|Caratteristiche: 4 divertentissime oche colorate che sguazzano tra|2017/12/gioco-musicale-corsa-delle-oche-utilizzabile-in-acqua|data.oliviero.it/imgprodotto/gioco-musicale-corsa-delle-oche-utilizzabile-in-acqua_157109",
 "Playset Giddy Up Gal con Sonaglio|Caratteristiche: Playset Giddy Up Gal con personaggi simpatici|2017/12/playset-giddy-up-gal-con-sonaglio|data.oliviero.it/imgprodotto/playset-giddy-up-gal-con-sonaglio_157075",
 "Gioco Stazione Spray Sottomarina Utilizzabile in Acqua|Caratteristiche: Una pompa alimentata a batterie (nel sottomarino)|2017/12/gioco-stazione-spray-sottomarina-utilizzabile-in-acqua|data.oliviero.it/imgprodotto/gioco-stazione-spray-sottomarina-utilizzabile-in-acqua_157092",

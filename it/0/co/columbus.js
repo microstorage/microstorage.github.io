@@ -1,4 +1,6 @@
 Gr = [
+"Sacco a Pelo Auckland 200|Progettato per un'esperienza di campeggio piacevole Caratteristiche|2017/12/sacco-a-pelo-auckland-200|data.oliviero.it/imgprodotto/sacco-a-pelo-auckland-200_80778",
+"Bastoncini Trekking TK1|Due bastoncini pieghevoli per backpacking o l'alpinismo. Tre sezioni|2017/12/bastoncini-trekking-tk1|data.oliviero.it/imgprodotto/bastoncini-trekking-tk1_80784",
 "BALTORO Duffle Bag 45L|A08197 – BALTORO Duffle Bag 45L Borsa Ideale per viaggi o per il|2017/12/baltoro-duffle-bag-45l|data.oliviero.it/imgprodotto/baltoro-duffle-bag-45l_144745",
 "Tenda Mosa 4 da Campeggio|La Mosa 4 tenda da campeggio è dotato di un tocco flash o meccanismo|2017/12/tenda-mosa-4-da-campeggio|data.oliviero.it/imgprodotto/tenda-mosa-4-da-campeggio_80729",
 "Zaino Trekking K10|Zaino per uso quotidiano con alloggiamento per Tablet o per deposito|2017/12/zaino-trekking-k10|data.oliviero.it/imgprodotto/zaino-trekking-k10-10l_149163",

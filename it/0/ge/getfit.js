@@ -1,4 +1,8 @@
 Gr = [
+"Tapis Roulant Route 670|Route 670 connubio perfetto fra qualità e prezzo. Route 670|2017/12/tapis-roulant-route-670|data.oliviero.it/imgprodotto/tapis-roulant-route-670_172841",
+"Recumbent Premium R6|Premium R6 è la bike ideale per qualsivoglia utente, ma in modo|2017/12/recumbent-premium-r6|data.oliviero.it/imgprodotto/recumbent-premium-r6_172780",
+"Panca Addominali Force 200|Force 200 della Get Fit, panca da addominali che permette di eseguire|2017/12/panca-addominali-force-200|data.oliviero.it/imgprodotto/panca-addominali-force-200_172764",
+"Recumbent Ride R281|Buon prodotto con un ottimo rapporto qualità prezzo. Dotata di una|2017/12/recumbent-ride-r281|data.oliviero.it/imgprodotto/recumbent-ride-r281_172821",
 "Panca Multifunzione Force ST 3300|Panca Multifunzione ST 3300 Nuova stazione multiuso ST 3300 ottima|2017/12/panca-multifunzione-force-st-3300|data.oliviero.it/imgprodotto/panca-multifunzione-force-st-3300_168528",
 "Panca Ginnica Force Bench 560|Force Bench 560 è una robusta panca porta bilanciere. Telaio|2017/12/panca-ginnica-force-bench-560|data.oliviero.it/imgprodotto/panca-ginnica-force-bench-560_168519",
 "Cyclette Ride 201|Rideti permetterà di scegliere l'intensità di allenamento grazie ai|2017/12/cyclette-ride-201|data.oliviero.it/imgprodotto/cyclette-ride-201_172789",

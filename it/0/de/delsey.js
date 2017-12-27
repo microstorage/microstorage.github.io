@@ -1,4 +1,6 @@
 Gr = [
+"Cartella 2 Soffietti PC Compatibile|Organizzazione e funzionalità prima di tutto Caratteristiche:|2017/12/cartella-2-soffietti-pc-compatibile|data.oliviero.it/imgprodotto/cartella-2-soffietti-pc-compatibile_7127_big",
+"Trolley 4R Belmont Blu L|Valigia trolley 4 ruote 70 cm H 70.5 x L 47 x E 28.5 cm - 76.23L|2017/12/trolley-4r-belmont-blu-l|data.oliviero.it/imgprodotto/trolley-4r-belmont-blu-l-3840820_160841",
 "Trolley 4R Belmont Antracite XL|Valigia trolley 4 ruote 76 cm H 76 x L 52 x E 30 cm - 108.63L - 4.4kg|2017/12/trolley-4r-belmont-antracite-xl|data.oliviero.it/imgprodotto/trolley-4r-belmont-antracite-xl-3840821_160849",
 "Cartella Parvis Nero XS|Cartella a 2 scomparti - protezione pc H 30 x L 41 x E 12 cm - 0.7kg|2017/12/cartella-parvis-nero-xs|data.oliviero.it/imgprodotto/cartella-parvis-nero-xs-003943161_160628",
 "Cuscino da Viaggio Argento|Questo cuscino da viaggio sposa perfettamente la forma della nuca per|2017/12/cuscino-da-viaggio-argento|data.oliviero.it/imgprodotto/cuscino-da-viaggio-argento-003940260_160630",

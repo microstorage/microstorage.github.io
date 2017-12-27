@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloni Sci Donna Nero|Collezione Autunno Inverno/2018 Le taglie sono espresse in misure|2017/12/pantaloni-sci-donna-nero|data.oliviero.it/imgprodotto/pantaloni-sci-donna-nero_169273",
 "Salopette Sci Uomo Chili|Collezione Autunno Inverno/2018 Saloppette da sci dal taglio sportivo|2017/12/salopette-sci-uomo-chili|data.oliviero.it/imgprodotto/salopette-sci-uomo-chili_169267",
 "Scarpe Trekking Mirzam|Per le escursioni con temperature più rigide CMP presenta MIRZAM, la|2017/12/scarpe-trekking-mirzam|data.oliviero.it/imgprodotto/scarpe-trekking-mirzam_167711",
 "Pantaloni Sci Donna Bianco|Collezione Autunno Inverno/2018 Le taglie sono espresse in misure|2017/12/pantaloni-sci-donna-bianco|data.oliviero.it/imgprodotto/pantaloni-sci-donna-bianco_169275",

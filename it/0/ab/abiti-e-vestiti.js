@@ -1,4 +1,9 @@
 Gr = [
+"Abito donna Lingerie LS4ABB 00120|Collezione Lingerie Twin Set Abito intero da donna con allacciatura|2017/12/abito-donna-lingerie-ls4abb-00120|data.oliviero.it/imgprodotto/abito-donna-lingerie-ls4abb-00120_146782",
+"Abito donna S2S4UC 00006|Abito intero da donna con allacciatura laterale tramite zip|2017/12/abito-donna-s2s4uc-00006|data.oliviero.it/imgprodotto/abito-donna-s2s4uc-00006_146797",
+"Abito donna Lingerie LS4ABB 00006|Collezione Lingerie Twin Set Abito intero da donna con allacciatura|2017/12/abito-donna-lingerie-ls4abb-00006|data.oliviero.it/imgprodotto/abito-donna-lingerie-ls4abb-00006_146802",
+"Abito donna K2S4R0 0082|Collezione Le coeur de Twin Set Abito intero da donna con mezze|2017/12/abito-donna-k2s4r0-0082|data.oliviero.it/imgprodotto/abito-donna-k2s4r0-0082_146544",
+"Abito donna J2S4XA 00100|Collezione Twin Set Jeans Abito da donna con ampio scollo con|2017/12/abito-donna-j2s4xa-00100|data.oliviero.it/imgprodotto/abito-donna-j2s4xa-00100_146755",
 "Abito donna C25005 T1465 22222|Abito intero da donna con spalline removibili grazie a dei|2017/12/abito-donna-c25005-t1465-22222|data.oliviero.it/imgprodotto/abito-donna-c25005-t1465-22222_146729",
 "Abito donna Dakor|Collezione : Primavera Estate Tipologia : Abito intero da donna|2017/12/abito-donna-dakor|data.oliviero.it/imgprodotto/abito-donna-dakor_73188",
 "Abito donna K2S4S4 00431|Collezione Le couer de Twin Set A bito intero da donna|2017/12/abito-donna-k2s4s4-00431|data.oliviero.it/imgprodotto/abito-donna-k2s4s4-00431_146560",

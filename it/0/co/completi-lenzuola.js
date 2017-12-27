@@ -1,4 +1,6 @@
 Gr = [
+"Completo Lenzuola Sogni d'Oro Naturale|Completo lenzuola composto da lenzuola da sotto, lenzuolo da sopra|2017/12/completo-lenzuola-sogni-d-oro-naturale|data.oliviero.it/imgprodotto/completo-lenzuola-sogni-doro-naturale_153863",
+"Maxiscaldasonno Sensitive 100% Peluche|Comfort tutta la notte: si adatta ai cambi di temperatura mentre|2017/12/maxiscaldasonno-sensitive-100-peluche|data.oliviero.it/imgprodotto/maxiscaldasonno-sensitive-100-peluche_154088",
 "Completo Lenzuola Niki Azzurro|Completo lenzuola composto da lenzuola da sotto, lenzuolo da sopra|2017/12/completo-lenzuola-niki-azzurro|data.oliviero.it/imgprodotto/completo-lenzuola-niki-azzurro_153856",
 "Completo Lenzuola Mise|Completo matrimoniale 270x290 in raso satin di puro cotone|2017/12/completo-lenzuola-mise|data.oliviero.it/imgprodotto/completo-lenzuola-mise_117448",
 "Completo Lenzuola Fiori Flan. Rosa|Tessuto in flanella di puro cotone. Singolo Lenzuolo superiore|2017/12/completo-lenzuola-fiori-flan-rosa|data.oliviero.it/imgprodotto/completo-lenzuola-fiori-flan-rosa_169042",

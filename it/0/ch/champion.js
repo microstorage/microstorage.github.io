@@ -1,4 +1,6 @@
 Gr = [
+"Tuta uomo Triacetato Navy|Collezione Autunno Inverno/2018 Tuta sportiva uomo in acetato.Felpa|2017/12/tuta-uomo-triacetato-navy|data.oliviero.it/imgprodotto/tuta-uomo-triacetato-navy-210849-bs501_167674",
+"Felpa Uomo Grigio Scuro|Collezione Autunno Inverno/2018 Felpa da uomo di Champion della|2017/12/felpa-uomo-grigio-scuro|data.oliviero.it/imgprodotto/felpa-uomo-grigio-scuro_169777",
 "Tuta Donna Nero|Collezione Autunno Inverno/2018 Tuta sportiva donna in cotone|2017/12/tuta-donna-nero|data.oliviero.it/imgprodotto/tuta-donna-nero_169786",
 "Polo Uomo Blu Melange|Collezione Autunno Inverno/2018 Polo a maniche lunghe da uomo di|2017/12/polo-uomo-blu-melange|data.oliviero.it/imgprodotto/polo-uomo-blu-melange_169770",
 "T-Shirt Donna Kaki|Collezione Primavera Estate T-Shirt Champion da donna. Il modello|2017/12/t-shirt-donna-kaki|data.oliviero.it/imgprodotto/t-shirt-donna-kaki-109547-3044_159787",

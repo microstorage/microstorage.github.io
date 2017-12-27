@@ -1,4 +1,9 @@
 Gr = [
+"Guanti MMA Impact|Guanto da MMA da allenamento ultra - protettivo soprattutto su|2017/12/guanti-mma-impact|data.oliviero.it/imgprodotto/guanti-mma-impact_171404",
+"Paradenti Titan Pd520|Paradenti LEONE ad arcata singola a doppio grado di densità|2017/12/paradenti-titan-pd520|data.oliviero.it/imgprodotto/paradenti-titan-pd520_19349_big",
+"Guanti MMA L47|Perfetto mix di cura per i dettagli e ricerca dei più attuali trend|2017/12/guanti-mma-l47|data.oliviero.it/imgprodotto/guanti-mma-l47_171416",
+"T-Shirt Smanicata Basic X|Smanicato tecnico dal taglio regolare ideale per la pratica di ogni|2017/12/t-shirt-smanicata-basic-x|data.oliviero.it/imgprodotto/t-shirt-smanicata-basic-x_171411",
+"Paradenti Top Guard|Paradenti ad arcata singola, realizzato in Eva, particolarmente|2017/12/paradenti-top-guard|data.oliviero.it/imgprodotto/paradenti-top-guard_171417",
 "Stivaletti Boxe|Scarpa da boxe polivalente adatta per l'allenamento e per il tempo|2017/12/stivaletti-boxe|data.oliviero.it/imgprodotto/stivaletti-boxe_171393",
 "Borsone Sportivo a Zaino|Borsa a zaino in materiale antistrappo, con spalline a scomparsa|2017/12/borsone-sportivo-a-zaino|data.oliviero.it/imgprodotto/borsone-sportivo-a-zaino-ac908_154992",
 "Guantoni Boxe 14oz. GN083|Guantoni 14oz. Chiusura: Velcro Disciplina: Boxe, kick boxing, muay|2017/12/guantoni-boxe-14oz-gn083|data.oliviero.it/imgprodotto/guantoni-boxe-14oz-gn083_155001",

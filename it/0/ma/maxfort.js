@@ -1,4 +1,12 @@
 Gr = [
+"100 gr Uomo Taglie Forti Trulli Nero|Piumino da uomo taglie forti. Il modello presenta allacciatura|2017/12/100-gr-uomo-taglie-forti-trulli-nero|data.oliviero.it/imgprodotto/100-gr-uomo-taglie-forti-trulli-nero_170897",
+"Pantalone Uomo Taglie Forti Liberio Nero|Collezione Primavera Estate Panralone casual da uomo taglie forti. Il|2017/12/pantalone-uomo-taglie-forti-liberio-nero|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-liberio-nero_164219",
+"Jeans taglie forti uomo Tuvok|Collezione Primavera Estate Jeans da uomo taglie Forti. Il modello|2017/12/jeans-taglie-forti-uomo-tuvok|data.oliviero.it/imgprodotto/jeans-taglie-forti-uomo-tuvok_147825",
+"T-shirt taglie forti uomo nero 500|T-Shirt corpo uomo realizzata in puro Cotone, scollo a V, maniche|2017/12/t-shirt-taglie-forti-uomo-nero-500|data.oliviero.it/imgprodotto/t-shirt-taglie-forti-uomo-nero-500_24239_big",
+"Piumino Taglie Forti Odd Uomo Blu|Collezione Autunno Inverno/2018 Piumino Uomo taglie forti con|2017/12/piumino-taglie-forti-odd-uomo-blu|data.oliviero.it/imgprodotto/piumino-taglie-forti-odd-uomo-blu_168504",
+"Giacca Taglie Forti Uomo Denim|Collezione Autunno Inverno/2018 Giacca casual da uomo taglie forti|2017/12/giacca-taglie-forti-uomo-denim|data.oliviero.it/imgprodotto/giacca-taglie-forti-uomo-denim_168516",
+"Felpa Uomo Taglie Forti Blu|Collezione Autunno Inverno/2018 Felpa uomo taglie forti. Il modello|2017/12/felpa-uomo-taglie-forti-blu|data.oliviero.it/imgprodotto/felpa-uomo-taglie-forti-blu_171688",
+"Polo Taglie Forti Uomo Denim|Collezione Autunno Inverno/2018 Polo da uomo taglie forti. Il modello|2017/12/polo-taglie-forti-uomo-denim|data.oliviero.it/imgprodotto/polo-taglie-forti-uomo-denim-10001-170_154973",
 "Felpa giacca Uomo Taglie Forti Nero|Collezione Autunno Inverno/2018 Giacca Scuba uomo taglie forti|2017/12/felpa-giacca-uomo-taglie-forti-nero|data.oliviero.it/imgprodotto/felpa-giacca-uomo-taglie-forti-nero_170312",
 "Camicia Taglie Forti Uomo London blu|Tipologia : Camicia Taglie Forti uomo Tessuto : 65% cotone, 32%|2017/12/camicia-taglie-forti-uomo-london-blu|data.oliviero.it/imgprodotto/camicia-taglie-forti-uomo-london-blu_152235",
 "Pantaloni Uomo Taglie Forti Blu|Collezione Primavera Estate Pantalone da uomo taglie forti. Il|2017/12/pantaloni-uomo-taglie-forti-blu|data.oliviero.it/imgprodotto/pantaloni-uomo-taglie-forti-blu_165164",

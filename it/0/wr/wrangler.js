@@ -1,4 +1,9 @@
 Gr = [
+"Jeans Larston Resin Rinse|Collezione Autunno Inverno/2018 Jeans slim in denim scuro dalle linee|2017/12/jeans-larston-resin-rinse|data.oliviero.it/imgprodotto/jeans-larston-resin-rinse_170535",
+"Jeans Greensboro Bright Stoke|Collezione Autunno Inverno/2018 Jeans blu con fit regular e risvolto|2017/12/jeans-greensboro-bright-stoke|data.oliviero.it/imgprodotto/jeans-greensboro-bright-stoke_170523",
+"Jeans Bryson Reflex|Collezione Autunno Inverno/2018 I nostri jeans skinny sono|2017/12/jeans-bryson-reflex|data.oliviero.it/imgprodotto/jeans-bryson-reflex_170537",
+"Maglia Uomo Rosso|Collezione Autunno Inverno/2018 Questo pullover girocollo in maglia|2017/12/maglia-uomo-rosso|data.oliviero.it/imgprodotto/maglia-uomo-rosso_170611",
+"Jeans Arizona Black Belt|Collezione Autunno Inverno/2018 Jeans neri con vita regolare e gamba|2017/12/jeans-arizona-black-belt|data.oliviero.it/imgprodotto/jeans-arizona-black-belt_170554",
 "Camicia Uomo Western Blu|Collezione Autunno Inverno/2018 La nostra camicia western con fit|2017/12/camicia-uomo-western-blu|data.oliviero.it/imgprodotto/camicia-uomo-western-blu_170485",
 "Maglia Uomo Mid Grey Melange|Collezione Autunno Inverno/2018 Affronta la stagione con questo|2017/12/maglia-uomo-mid-grey-melange|data.oliviero.it/imgprodotto/maglia-uomo-mid-grey-melange_170617",
 "Jeans Arizona Grey Tie|Collezione Autunno Inverno/2018 Fit moderno per questi jeans neri con|2017/12/jeans-arizona-grey-tie|data.oliviero.it/imgprodotto/jeans-arizona-grey-tie_170552",

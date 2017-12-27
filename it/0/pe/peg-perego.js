@@ -1,4 +1,6 @@
 Gr = [
+"Trio Book Plus S Bloom Pink|Gli esclusivi sistemi modulari Peg Perego sono stati concepiti per|2017/12/trio-book-plus-s-bloom-pink|data.oliviero.it/imgprodotto/trio-book-plus-s-bloom-pink_170251",
+"Trio Book 51 Luxe Blue|Gli esclusivi sistemi modulari Peg Perego sono stati concepiti per|2017/12/trio-book-51-luxe-blue|data.oliviero.it/imgprodotto/trio-book-51-luxe-blue_170300",
 "Prima Pappa Zero3 Paloma|Prima Pappa Zero 3 è il seggiolone ultraleggero e multifunzionale|2017/12/prima-pappa-zero3-paloma|data.oliviero.it/imgprodotto/prima-pappa-zero3-paloma_146036",
 "Trio Book 51 Geo Red|Gli esclusivi sistemi modulari Peg Perego sono stati concepiti per|2017/12/trio-book-51-geo-red|data.oliviero.it/imgprodotto/trio-book-51-geo-red_170259",
 "Trio Book 51 S Geo Black|Gli esclusivi sistemi modulari Peg Perego sono stati concepiti per|2017/12/trio-book-51-s-geo-black|data.oliviero.it/imgprodotto/trio-book-51-s-geo-black_170293",

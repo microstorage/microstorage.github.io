@@ -1,4 +1,7 @@
 Gr = [
+"Crinkly Bunny Gioco, Blu|Animaletto frusciante facile da afferrare per giocare al gioco del|2017/12/crinkly-bunny-gioco-blu|data.oliviero.it/imgprodotto/crinkly-bunny-gioco-blu_157122",
+"Cozy Rocker Napper Sdraietta, Grigio|Si converte facilmente da sdraietta per il gioco a culla dotata di|2017/12/cozy-rocker-napper-sdraietta-grigio|data.oliviero.it/imgprodotto/cozy-rocker-napper-sdraietta-grigio_157127",
+"Shake Me: Asinello Sonaglio|Caratteristiche: Facile da impugnare Musiche con interruttore on/off|2017/12/shake-me-asinello-sonaglio|data.oliviero.it/imgprodotto/shake-me-asinello-sonaglio_157111",
 "Rock & Ball Gioco Interattivo|Caratteristiche: Facile da afferrare, da farrotolare o da|2017/12/rock-ball-gioco-interattivo|data.oliviero.it/imgprodotto/rock-%26-ball-gioco-interattivo_157125",
 "Trunky Gerry Giraffe|FARE I BAGAGLI. CAVALCARE. FARSI TRAINARE! Ecco tutto quello che si|2017/12/trunky-gerry-giraffe|data.oliviero.it/imgprodotto/trunky-gerry-giraffe_163480",
 "Fiat 500 con radiocomando intuitivo|Linee e grinta di Fiat 500. Sterzando il volante il veicolo cambia|2017/12/fiat-500-con-radiocomando-intuitivo|data.oliviero.it/imgprodotto/fiat-500-con-radiocomando-intuitivo_151042",

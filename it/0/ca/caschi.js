@@ -1,4 +1,7 @@
 Gr = [
+"Casco da moto M13 Mono Black|Caratteristiche Calotta: resina termoplastica HIR-TH (High Resistant|2017/12/casco-da-moto-m13-mono-black|data.oliviero.it/imgprodotto/casco-da-moto-m13-mono-black-3232a4d0_149393",
+"Casco da moto Bali Copter E2205 Top Vale 46 Black|Il Bali Copter è la proposta AGV per gli scooteristi alla ricerca di|2017/12/casco-da-moto-bali-copter-e2205-top-vale-46-black|data.oliviero.it/imgprodotto/casco-da-moto-bali-copter-e2205-top-vale-46-black_83680",
+"Casco Ciclismo Ventus Nero|Utilizzato dai Pro. Ventus è un casco innovativo dotato di Protetto|2017/12/casco-ciclismo-ventus-nero|data.oliviero.it/imgprodotto/casco-ciclismo-ventus-nero_165359",
 "Casco Sci Rewind V + SO|Il modello Rewind V + SO di Mivida è un casco da sci super|2017/12/casco-sci-rewind-v-+-so|data.oliviero.it/imgprodotto/casco-sci-rewind-v-so_171821",
 "Casco Sci Rewind Solid Grigio|Calotta esterna in resina termoplastica ad alta resistenza agli|2017/12/casco-sci-rewind-solid-grigio|data.oliviero.it/imgprodotto/casco-sci-rewind-solid-grigio_171820",
 "Casco ciclismo Protone|Casco da ciclismo Tecnologia : Imbottitura tridimensionale 3d dry|2017/12/casco-ciclismo-protone|data.oliviero.it/imgprodotto/casco-ciclismo-protone_109932",

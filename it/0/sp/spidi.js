@@ -1,4 +1,11 @@
 Gr = [
+"Guanti da moto Flash R Evo|Flash-R Evo evolve il concetto del suo predecessore, esaltandone|2017/12/guanti-da-moto-flash-r-evo|data.oliviero.it/imgprodotto/guanti-da-moto-flash-r-evo-b79k-011_164803",
+"Guanti Moto Lok Lady|Versione femminile del guanto Lok: un prodotto dal taglio classico|2017/12/guanti-moto-lok-lady|data.oliviero.it/imgprodotto/guanti-moto-lok-lady_83738",
+"Guanti da moto Grip 2 Leather Lady|Nato dall'esperienza del precedente guanto femminile, Grip 2 ne|2017/12/guanti-da-moto-grip-2-leather-lady|data.oliviero.it/imgprodotto/guanti-da-moto-grip-2-leather-lady_165755",
+"Giacca da Moto in Tessuto NW 200 Tex|La North West 200 è una epica gara di moto, che si svolge ogni anno|2017/12/giacca-da-moto-in-tessuto-nw-200-tex|data.oliviero.it/imgprodotto/giacca-da-moto-in-tessuto-nw-200-tex-t167-011_149819",
+"Gilet Alta Visibilità HV|HV Vest è un pratico gilet da indossare sopra il proprio|2017/12/gilet-alta-visibilita-hv|data.oliviero.it/imgprodotto/gilet-alta-visibilita-hv_165775",
+"Giacca da Moto HT Raid|H.T Raid racchiude tutto il know-how SPIDI in materia di giacche|2017/12/giacca-da-moto-ht-raid|data.oliviero.it/imgprodotto/giacca-da-moto-ht-raid-d137-010_164816",
+"Protezione Moto Warrior Back Lady|Protettore interno compatto per prodotti Lady. Back Warrior Lady Z64|2017/12/protezione-moto-warrior-back-lady|data.oliviero.it/imgprodotto/protezione-moto-warrior-back-lady_83695",
 "Guanti da moto G-Flash Tex Lady|Guanti in tessuto tecnico con inserti in microfibra e zone|2017/12/guanti-da-moto-g-flash-tex-lady|data.oliviero.it/imgprodotto/guanti-da-moto-g-flash-tex-lady_165750",
 "Guanti da Moto Wake Evo|Spidi Wake EVO è la perfetta combinazione tra ergonomia, stile|2017/12/guanti-da-moto-wake-evo|data.oliviero.it/imgprodotto/guanti-da-moto-wake-evo_165740",
 "Guanti da Moto STS R Glove|STS-R è un guanto sportivo adatto tanto all'utilizzo sportivo, quanto|2017/12/guanti-da-moto-sts-r-glove|data.oliviero.it/imgprodotto/guanti-da-moto-sts-r-glove_165742",

@@ -1,4 +1,11 @@
 Gr = [
+"Comò Gaia Sbiancato|Comò modello Gaia composto da 3 ampi cassetti. Costruito con|2017/12/como-gaia-sbiancato|data.oliviero.it/imgprodotto/com%C3%B2-gaia-sbiancato_147369",
+"Bagnetto Fasciatoio Sugar|Mobiletto fasciatoio 3 cassetti legno bianco con applicativo completo|2017/12/bagnetto-fasciatoio-sugar|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-sugar_173471",
+"Bagnetto Fasciatoio Sugar 4 Cassetti|Mobiletto fasciatoio 4 cassetti legno bianco con applicativo completo|2017/12/bagnetto-fasciatoio-sugar-4-cassetti|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-sugar-4-cassetti_173469",
+"Comò Milky Fiocco|Comò collezione Milky con applicazione fiocco. (Fasciatoio tessile da|2017/12/como-milky-fiocco|data.oliviero.it/imgprodotto/com%C3%B2-milky-fiocco_173252",
+"Bagnetto Fasciatoio Joy|Pali offre una linea completa di bagnetti fasciatoio, per la cura del|2017/12/bagnetto-fasciatoio-joy|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-joy_166178",
+"Bagnetto Fasciatoio Muffin 4 Cassetti|Mobiletto fasciatoio 4 cassetti legno con applicativo completo di|2017/12/bagnetto-fasciatoio-muffin-4-cassetti|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-muffin-4-cassetti_173554",
+"Fasciatoio miki blu fotonico|Il fasciatoio Miki è un complemento d'arredo di design, utile ed|2017/12/fasciatoio-miki-blu-fotonico|data.oliviero.it/imgprodotto/fasciatoio-miki-blu-fotonico_84288",
 "Bagnetto Fasciatoio Amelie 4 Cassetti Panna|Mobiletto fasciatoio 4 cassetti legno bianco con applicativo completo|2017/12/bagnetto-fasciatoio-amelie-4-cassetti-panna|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-amelie-4-cassetti-panna_172736",
 "Bagnetto Fasciatoio Amelie 4 Cassetti Bianco|Mobiletto fasciatoio 4 cassetti legno bianco con applicativo completo|2017/12/bagnetto-fasciatoio-amelie-4-cassetti-bianco|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-amelie-4-cassetti-bianco_172734",
 "Fasciatoio Four Ciak Bianco|Pali offre una linea completa di bagnetti fasciatoio, per la cura del|2017/12/fasciatoio-four-ciak-bianco|data.oliviero.it/imgprodotto/fasciatoio-four-ciak-bianco_170101",

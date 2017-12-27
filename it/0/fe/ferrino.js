@@ -1,4 +1,8 @@
 Gr = [
+"Coppia Bastoncini Nordic 78380|Bastoncino da nordic walking Sistema di regolazione LOCK & GO per la|2017/12/coppia-bastoncini-nordic-78380|data.oliviero.it/imgprodotto/coppia-bastoncini-nordic-78380_66715",
+"Zaino Guardian 50|Zaino sviluppato in collaborazione con i tecnici ed i medici di|2017/12/zaino-guardian-50|data.oliviero.it/imgprodotto/zaino-guardian-50-75215_158943",
+"Zaino Esterel 50|Robusto zaino da trekking multi tasche dotato di separatore per un|2017/12/zaino-esterel-50|data.oliviero.it/imgprodotto/zaino-esterel-50-75672_159116",
+"Sacco Letto Levity 00 SQ|Realizzati con imbottitura HTF High Thermal Fiber Compact®, che|2017/12/sacco-letto-levity-00-sq|data.oliviero.it/imgprodotto/sacco-letto-levity-00-sq-86600_163541",
 "Tenda Ready Steady 3 Tenda Gonfiabile da Campeggio|Tenda caratterizzata da un'innovativa struttura pneumatica al posto|2017/12/tenda-ready-steady-3-tenda-gonfiabile-da-campeggio|data.oliviero.it/imgprodotto/tenda-ready-steady-3-tenda-gonfiabile-da-campeggio_158506",
 "Tenda Emperor 2 da Campeggio|È la nuova frontiera tecnologica e prestazionale raggiunta da|2017/12/tenda-emperor-2-da-campeggio|data.oliviero.it/imgprodotto/tenda-emperor-2-da-campeggio_158380",
 "Sacco A Pelo Yukon Plus|Sacco A Pelo Yukon Plus - 86358 Realizzati con imbottitura in H.T.F|2017/12/sacco-a-pelo-yukon-plus|data.oliviero.it/imgprodotto/sacco-a-pelo-yukon-plus-86358_158938",

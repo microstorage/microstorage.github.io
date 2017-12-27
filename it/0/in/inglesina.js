@@ -1,4 +1,11 @@
 Gr = [
+"Trio Trilogy 2018 Imperial Blue|Inglesina Trilogy Trio City è un set modular pratico e maneggevole|2017/12/trio-trilogy-2018-imperial-blue|data.oliviero.it/imgprodotto/trio-trilogy-2018-imperial-blue_170198",
+"Seggiolino Marco Polo black|nglesina presenta Marco Polo, il seggiolino auto evoluto pensato per|2017/12/seggiolino-marco-polo-black|data.oliviero.it/imgprodotto/seggiolino-marco-polo-black_51697",
+"Trio Trilogy Plus 2018 Pantelleria|Con il trio TRILOGY PLUS Inglesina regala al nuovo nato un ricordo da|2017/12/trio-trilogy-plus-2018-pantelleria|data.oliviero.it/imgprodotto/trio-trilogy-plus-2018-pantelleria_170207",
+"Trio Trilogy 2018 Artic Blue|Inglesina Trilogy Trio City è un set modular pratico e maneggevole|2017/12/trio-trilogy-2018-artic-blue|data.oliviero.it/imgprodotto/trio-trilogy-2018-artic-blue_170190",
+"Day Bag Alpaca Beige|É una borsa capiente e funzionale, di foggia esclusiva, con interno|2017/12/day-bag-alpaca-beige|data.oliviero.it/imgprodotto/day-bag-alpaca-beige_170183",
+"Trio Trilogy Plus 2018 Panarea|Con il trio TRILOGY PLUS Inglesina regala al nuovo nato un ricordo da|2017/12/trio-trilogy-plus-2018-panarea|data.oliviero.it/imgprodotto/trio-trilogy-plus-2018-panarea_170204",
+"Sacco Ovetto/Carrozzina Silver|Per culla e seggiolino auto, ti accompagna nelle passeggiate durante|2017/12/sacco-ovetto-carrozzina-silver|data.oliviero.it/imgprodotto/sacco-ovetto-carrozzina-silver_170134",
 "Sacco Ovetto/Carrozzina Oxford Blue|Per culla e seggiolino auto, ti accompagna nelle passeggiate durante|2017/12/sacco-ovetto-carrozzina-oxford-blue|data.oliviero.it/imgprodotto/sacco-ovetto-carrozzina-oxford-blue_170133",
 "Passeggino Trip Amarena 2017|Trip è un passeggino compatto e leggero con forme sobrie e sportive|2017/12/passeggino-trip-amarena-2017|data.oliviero.it/imgprodotto/passeggino-trip-amarena-2017_146467",
 "Gusto Seggiolone apple|Nuovissimo seggiolone Gusto da Inglesina dal design moderno|2017/12/gusto-seggiolone-apple|data.oliviero.it/imgprodotto/gusto-seggiolone-apple_124721",

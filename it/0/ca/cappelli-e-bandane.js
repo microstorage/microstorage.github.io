@@ -1,4 +1,5 @@
 Gr = [
+"Bandana cuoco nera|Colore : Colorato Composizione : tessuto 100% cotone Dimensioni :|2017/12/bandana-cuoco-nera|data.oliviero.it/imgprodotto/bandana-cuoco-nera_1650_big",
 "Bandana cuoco bordeaux|Colore : Bordeaux Composizione : tessuto 100% cotone Dimensioni :|2017/12/bandana-cuoco-bordeaux|data.oliviero.it/imgprodotto/bandana-cuoco-bordeaux_24497_big",
 "Bandana cuoco italia|Colore : Tortuga Composizione : tessuto 100% cotone Dimensioni :|2017/12/bandana-cuoco-italia|data.oliviero.it/imgprodotto/bandana-cuoco-italia_24494_big",
 "Bandana cuoco New York|Colore : San Francisco Composizione : tessuto 100% cotone Dimensioni|2017/12/bandana-cuoco-new-york|data.oliviero.it/imgprodotto/bandana-cuoco-new-york_1653_big",

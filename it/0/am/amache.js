@@ -1,4 +1,10 @@
 Gr = [
+"Amaca Tahiti Candy L|Prodotta da Amazonas, azienda conosciuta tutto il mondo per l'ottima|2017/12/amaca-tahiti-candy-l|data.oliviero.it/imgprodotto/amaca-tahiti-candy-l_80890",
+"Struttura Porta-Amache Leo|Struttura porta-culla Leo Leo è una mini struttura porta amache della|2017/12/struttura-porta-amache-leo|data.oliviero.it/imgprodotto/struttura-porta-amache-leo_84103",
+"Struttura summer set con samba fuego|Prodotta da Amazonas, azienda conosciuta tutto il mondo per l'ottima|2017/12/struttura-summer-set-con-samba-fuego|data.oliviero.it/imgprodotto/struttura-summer-set-con-samba-fuego_80610",
+"Poltroncina Pensile Bogota Mandarina|Poltrona pensile Bogota Mandarina - che siesta!Prodotta a mano in|2017/12/poltroncina-pensile-bogota-mandarina|data.oliviero.it/imgprodotto/poltroncina-pensile-bogota-mandarina_83986",
+"Amaca Salsa Fuego L|Amaca Salsa Fuego - L Prodotta da Amazonas, azienda conosciuta tutto|2017/12/amaca-salsa-fuego-l|data.oliviero.it/imgprodotto/amaca-salsa-fuego-l_80606",
+"Amaca Tahiti Vulcano L|Informazioni Tecniche: La famosa amaca Brasiliana ad un prezzo|2017/12/amaca-tahiti-vulcano-l|data.oliviero.it/imgprodotto/amaca-tahiti-vulcano-l_158745",
 "Gancio Porta amaca Jumbo|Gancio porta amaca Jumbo Gancio adatto per posizionare amache e sedie|2017/12/gancio-porta-amaca-jumbo|data.oliviero.it/imgprodotto/gancio-porta-amaca-jumbo_82982",
 "Culla Dondolino Koala|Culla dondolino Koala Si dorme veramente bene e sereni con un leggero|2017/12/culla-dondolino-koala|data.oliviero.it/imgprodotto/culla-dondolino-koala_84084",
 "Amaca Brasilia Capuccino|Siamo riusciti a rendere le nostre amache ad asta tanto comode quanto|2017/12/amaca-brasilia-capuccino|data.oliviero.it/imgprodotto/amaca-brasilia-capuccino_162828",

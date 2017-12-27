@@ -1,4 +1,5 @@
 Gr = [
+"Tavolo Multi 12 giochi in 1|Porta a casa tua il divertimento e la varietà di una intera sala|2017/12/tavolo-multi-12-giochi-in-1|data.oliviero.it/imgprodotto/tavolo-multi-12-giochi-in-1_8412_big",
 "Biliardo Virginia 7|Pool di dimensioni professionali, trasformabile in tavolo da pranzo|2017/12/biliardo-virginia-7|data.oliviero.it/imgprodotto/biliardo-virginia-7_11192_big",
 "Biliardo Alexandra 7 Ardesia|Alexandra è l'ultima creazione Garlando in fatto di biliardi per la|2017/12/biliardo-alexandra-7-ardesia|data.oliviero.it/imgprodotto/biliardo-alexandra-7-ardesia_73389",
 "Biliardo Chicago 4|Tavolo da pool dedicato a chi ha poco spazio in casa e vuole avviarsi|2017/12/biliardo-chicago-4|data.oliviero.it/imgprodotto/biliardo-chicago-4_8404_big",

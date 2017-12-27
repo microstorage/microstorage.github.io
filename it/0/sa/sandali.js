@@ -1,4 +1,6 @@
 Gr = [
+"Sandali Donna Bianco Darline|Collezione Primavera Estate Perfetto per rendere più trendy anche|2017/12/sandali-donna-bianco-darline|data.oliviero.it/imgprodotto/sandali-donna-bianco-darline-d721yc-c1000_163244",
+"Sandalo Donna Janira Cigar|Collezione Primavera Estate Pensate per quelle donne che amano essere|2017/12/sandalo-donna-janira-cigar|data.oliviero.it/imgprodotto/sandalo-donna-janira-cigar_165241",
 "Sandali Donna Taupe New Rorie|Collezione Primavera Estate Sandali da donna con zeppa da 8 cm|2017/12/sandali-donna-taupe-new-rorie|data.oliviero.it/imgprodotto/sandali-donna-taupe-new-rorie-d72p3a-ch62l_162345",
 "Sandali Nymphe Nero|Versace 1969 Abbigliamento Sportivo srl Milano Italia Scarpe donna|2017/12/sandali-nymphe-nero|data.oliviero.it/imgprodotto/sandali-nymphe-nero_104216",
 "Sandalo Donna Laminato Oro|Collezione Primavera Estate Sandalo da donna Tomaia in ecopelle|2017/12/sandalo-donna-laminato-oro|data.oliviero.it/imgprodotto/sandalo-donna-laminato-oro-p717371de-434_159214",

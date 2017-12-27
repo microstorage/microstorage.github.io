@@ -1,4 +1,5 @@
 Gr = [
+"Skateboard TRIBE PRO WHITE SKULL|Descrizione: Dimensioni tavola : 79x20 cm Materiale tavola|2017/12/skateboard-tribe-pro-white-skull|data.oliviero.it/imgprodotto/skateboard-tribe-pro-white-skull_162367",
 "Skateboard Rocket Complete Fade Series|Skateboard perfetto per i principianti Deck: 7 strati macchiato|2017/12/skateboard-rocket-complete-fade-series|data.oliviero.it/imgprodotto/skateboard-rocket-complete-fade-series_157623",
 "Skateboard Rocket Complete Eclipse Series|Nuova gamma da Skateboards Rocket! Deck: 7 strati Hardrock Acero|2017/12/skateboard-rocket-complete-eclipse-series|data.oliviero.it/imgprodotto/skateboard-rocket-complete-eclipse-series_157625",
 "Skateboard FREEDOM PRO MILITARY|Descrizione: Dimensioni tavola : 57x15,2 cm Materiale tavola : ABS|2017/12/skateboard-freedom-pro-military|data.oliviero.it/imgprodotto/skateboard-freedom-pro-military_162376",

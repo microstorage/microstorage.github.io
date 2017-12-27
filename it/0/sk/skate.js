@@ -1,4 +1,6 @@
 Gr = [
+"Skateboard TRIBE PRO WHITE SKULL|Descrizione: Dimensioni tavola : 79x20 cm Materiale tavola|2017/12/skateboard-tribe-pro-white-skull|data.oliviero.it/imgprodotto/skateboard-tribe-pro-white-skull_162367",
+"Skateboard Music Hip Hop|Tavola perfetta per i principianti Piattaforma: 7.5 / 7.75 '' x 31 ''|2017/12/skateboard-music-hip-hop|data.oliviero.it/imgprodotto/skateboard-music-hip-hop_151092",
 "Monopattino a tre ruote ADVENTURE KID GRAND PRIX rosso|Descrizione: Pieghevole : con sistema di chiusura rapido e sicuro|2017/12/monopattino-a-tre-ruote-adventure-kid-grand-prix-rosso|data.oliviero.it/imgprodotto/monopattino-a-tre-ruote-adventure-kid-grand-prix-rosso_162384",
 "Skateboard Rocket Complete Fade Series|Skateboard perfetto per i principianti Deck: 7 strati macchiato|2017/12/skateboard-rocket-complete-fade-series|data.oliviero.it/imgprodotto/skateboard-rocket-complete-fade-series_157623",
 "Longboard Carve Palm 35|Longboard Carve Palm 35 Caratteristiche Materiale (7 Ply Canadian|2017/12/longboard-carve-palm-35|data.oliviero.it/imgprodotto/longboard-carve-palm-35_125542",

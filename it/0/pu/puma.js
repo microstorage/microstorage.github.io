@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Calcio EvoSpeed 3.5 Lth FG|Le evoSPEED 3.5 Lth sono scarpe performanti per terreni compatti che|2017/12/scarpe-calcio-evospeed-3-5-lth-fg|data.oliviero.it/imgprodotto/scarpe-calcio-evospeed-3-5-lth-fg-103794-01_152758",
 "Scarpe Calcio evoPower 2 FG|Utilizzo: Calzatura calcio da uomo Tomaia: Pelle sintetica|2017/12/scarpe-calcio-evopower-2-fg|data.oliviero.it/imgprodotto/scarpe-calcio-evopower-2-fg-102945-04_87963",
 "Maglia FIGC Away Italia Stemma|Questa T-shirt è realizzata con orgoglio per i tifosi appassionati|2017/12/maglia-figc-away-italia-stemma|data.oliviero.it/imgprodotto/maglia-figc-away-italia-stemma-749103_148502",
 "Scarpe Calcetto evoPower Vigor 4 TT|Le evoPOWER Vigor 4 per terreni in erba combinano leggerezza, comfort|2017/12/scarpe-calcetto-evopower-vigor-4-tt|data.oliviero.it/imgprodotto/scarpe-calcetto-evopower-vigor-4-tt-103965-01_163956",

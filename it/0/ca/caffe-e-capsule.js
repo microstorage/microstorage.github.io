@@ -1,4 +1,6 @@
 Gr = [
+"Macchina da Caffè Minù Bianco|Nel suo piccolo, è il massimo. Compatta e adatta a ogni spazio|2017/12/macchina-da-caffe-minu-bianco|data.oliviero.it/imgprodotto/macchina-da-caffe-minu-bianco_165782",
+"Capsule Caffe Torino 16 pz|Confezione da 16 capsule Torino. Il caffè di Torino è un elegante|2017/12/capsule-caffe-torino-16-pz|data.oliviero.it/imgprodotto/capsule-caffe-torino-16-pz_108999",
 "Pressofiltro 1 L|Preziosa, pressofiltro in alluminio da 1 litro. Un'infusione calda|2017/12/pressofiltro-1-l|data.oliviero.it/imgprodotto/pressofiltro-1-l_156345",
 "Caffettiera 2 tazze linea Montecarlo|Con la caffettiera Montecarlo, il classico diventa modernità!|2017/12/caffettiera-2-tazze-linea-montecarlo|data.oliviero.it/imgprodotto/caffettiera-2-tazze-linea-montecarlo_155199",
 "Moka Colour 3 tz Bianco|Moka White nasce dall'esigenza di affiancare stile e fascino moderni|2017/12/moka-colour-3-tz-bianco|data.oliviero.it/imgprodotto/moka-colour-3-tz-bianco_154715",

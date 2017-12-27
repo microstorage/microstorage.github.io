@@ -1,4 +1,6 @@
 Gr = [
+"Scarpiera 42.45.36|MADE IN ITALY Serie Nettuno arreda case e uffici Colore Bianco|2017/12/scarpiera-42-45-36|data.oliviero.it/imgprodotto/scarpiera-42-45-36_55472",
+"Scarpiera 95.42.012|MADE IN ITALY Serie SPRINT Colore unico Noce H: 164 cm. P: 15 cm. L:|2017/12/scarpiera-95-42-012|data.oliviero.it/imgprodotto/scarpiera-95-42-012_55430",
 "Scarpiera 42.45.37|MADE IN ITALY Serie Nettuno arreda case e uffici Colore Bianco|2017/12/scarpiera-42-45-37|data.oliviero.it/imgprodotto/scarpiera-42-45-37_55475",
 "Scarpiera 95.04.019|MADE IN ITALY Elegante Scarpiera, ideale per essere collocata in una|2017/12/scarpiera-95-04-019|data.oliviero.it/imgprodotto/scarpiera-95-04-019_55423",
 "Scarpiera 95.04.043|MADE IN ITALY Serie SPRINT Colore unico Bianco H: 164 cm. P: 14 cm|2017/12/scarpiera-95-04-043|data.oliviero.it/imgprodotto/scarpiera-95-04-043_55429",

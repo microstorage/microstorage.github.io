@@ -1,4 +1,7 @@
 Gr = [
+"Completo Copripiumino City Grigio|Tessuto di puro cotone. Colore vivo. Singolo Sacco 155x200 cm|2017/12/completo-copripiumino-city-grigio|data.oliviero.it/imgprodotto/completo-copripiumino-city-grigio_166719",
+"Completo Copripiumino Princess Magia|Completo copripiumino composto da sacco e federa Singolo Sacco|2017/12/completo-copripiumino-princess-magia|data.oliviero.it/imgprodotto/completo-copripiumino-princess-magia_153926",
+"Completo Lenzuola Sogni d'Oro Naturale|Completo lenzuola composto da lenzuola da sotto, lenzuolo da sopra|2017/12/completo-lenzuola-sogni-d-oro-naturale|data.oliviero.it/imgprodotto/completo-lenzuola-sogni-doro-naturale_153863",
 "Scaldotto Italian Style Grigio|Scaldotto Caleffi cm.130x170. Morbido, caldo avvolgente. Si lava|2017/12/scaldotto-italian-style-grigio|data.oliviero.it/imgprodotto/scaldotto-italian-style-grigio_168950",
 "Completo Copripiumino Arcobaleno Avio|Tessuto in puro cotone. Singolo Sacco 155x200 cm Lenzuolo inferiore|2017/12/completo-copripiumino-arcobaleno-avio|data.oliviero.it/imgprodotto/completo-copripiumino-arcobaleno-avio_169059",
 "Completo Lenzuola Niki Azzurro|Completo lenzuola composto da lenzuola da sotto, lenzuolo da sopra|2017/12/completo-lenzuola-niki-azzurro|data.oliviero.it/imgprodotto/completo-lenzuola-niki-azzurro_153856",

@@ -1,4 +1,7 @@
 Gr = [
+"T-Shirt Donna Sami|Collezione Autunno Inverno/2018 Maglietta leggera a manica lunga da|2017/12/t-shirt-donna-sami|data.oliviero.it/imgprodotto/t-shirt-donna-sami_170866",
+"Borsa Lisboa Eternal|Borsa a tracolla nera di forma arrotondata con ricami e strass|2017/12/borsa-lisboa-eternal|data.oliviero.it/imgprodotto/borsa-lisboa-eternal-67x51j24009_155386",
+"Maglia Masi Nero|Collezione Autunno Inverno/2018 Maglietta nera da donna con maniche|2017/12/maglia-masi-nero|data.oliviero.it/imgprodotto/maglia-masi-nero_170868",
 "Borsa Florida Snake|Collezione Autunno Inverno/2018 Borsa nera da donna tipo shopper con|2017/12/borsa-florida-snake|data.oliviero.it/imgprodotto/borsa-florida-snake_170786",
 "Borsa Shopper Cuenca Metal Nero|Collezione Autunno Inverno/2018 Borsa nera da donna tipo shopper in|2017/12/borsa-shopper-cuenca-metal-nero|data.oliviero.it/imgprodotto/borsa-shopper-cuenca-metal-nero_170784",
 "Borsa Reversibile Capri Alice|Collezione Autunno Inverno/2018 Borsa reversibile da donna stile|2017/12/borsa-reversibile-capri-alice|data.oliviero.it/imgprodotto/borsa-reversibile-capri-alice_170802",

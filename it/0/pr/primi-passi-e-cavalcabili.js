@@ -1,4 +1,6 @@
 Gr = [
+"Dondolo draghetto|Dondolo draghetto rivestito con stoffe differenti al tatto, con base|2017/12/dondolo-draghetto|data.oliviero.it/imgprodotto/dondolo-draghetto_163822",
+"Dondolo agnellino|Il dondolo agnellino comodissimo e incredibilmente tenero da|2017/12/dondolo-agnellino|data.oliviero.it/imgprodotto/dondolo-agnellino_163820",
 "Freeride 6V Quad|Quad elettrico un posto, acceleratore a pedale, freno motore|2017/12/freeride-6v-quad|data.oliviero.it/imgprodotto/freeride-6v-quad_162222",
 "Primi Passi in Musica Rosa|Questo primi passi 2 in 1 permette ai bambini di stare in piedi|2017/12/primi-passi-in-musica-rosa|data.oliviero.it/imgprodotto/primi-passi-in-musica-rosa-00065261200010_155603",
 "All Around 2016 Girl|Il nuovo cavalcabile All around girl presenta ruote piroettanti per|2017/12/all-around-2016-girl|data.oliviero.it/imgprodotto/all-around-2016-girl-00007347010000_155590",

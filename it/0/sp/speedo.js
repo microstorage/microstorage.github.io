@@ -1,4 +1,5 @@
 Gr = [
+"Costume Donna Navy Purple|Costume da donna ideale per la piscina. Grazie alle sue spalline|2017/12/costume-donna-navy-purple|data.oliviero.it/imgprodotto/costume-donna-navy-purple_173311",
 "Costume Baby Seasquad Brief|Costume da bambino pensato per i più piccoli e non solo. Questo|2017/12/costume-baby-seasquad-brief|data.oliviero.it/imgprodotto/costume-baby-seasquad-brief-809217b419_161112",
 "Occhialini da Nuoto Bambino|Occhialini da nuoto pensati e progettati per piccoli nuotatori dai|2017/12/occhialini-da-nuoto-bambino|data.oliviero.it/imgprodotto/occhialini-da-nuoto-bambino-8083828028_161108",
 "Costume Bambina Astropop Allover Splashback|Costume da bambina dal design accattivante e dal tessuto resistente|2017/12/costume-bambina-astropop-allover-splashback|data.oliviero.it/imgprodotto/costume-bambina-astropop-allover-splashback-807386b483_161102",

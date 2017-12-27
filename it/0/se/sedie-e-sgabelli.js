@@ -1,4 +1,7 @@
 Gr = [
+"Coppia Sgabelli Kris Nero|SGABELLO KRIS Nero Sgabello con struttura in acciaio cromato, seduta|2017/12/coppia-sgabelli-kris-nero|data.oliviero.it/imgprodotto/coppia-sgabelli-kris-nero_130762",
+"Coppia di Sedie Soft Old Brown|Sedie SOFT OLD BROWN rivestita in pelle ecologica effetto cuoio gambe|2017/12/coppia-di-sedie-soft-old-brown|data.oliviero.it/imgprodotto/coppia-di-sedie-soft-old-brown_137913",
+"Coppia di Sedie Well tortora|Sedia WELL TORTORA rivestita in pelle ecologica di colore tortora|2017/12/coppia-di-sedie-well-tortora|data.oliviero.it/imgprodotto/coppia-di-sedie-well-tortora_137902",
 "Sgabello ergonomico berger|SGABELLO ERGONOMICO \"BERGER\" struttura in metallo finitura alluminio|2017/12/sgabello-ergonomico-berger|data.oliviero.it/imgprodotto/sgabello-ergonomico-berger_78543",
 "4 Sedie Just Grey|Seduta Rivestita In Pelle Sintetica Di Colore Grigio Struttura In|2017/12/4-sedie-just-grey|data.oliviero.it/imgprodotto/4-sedie-just-grey_169931",
 "4 Sedie Just white|Sedia Just White Seduta Rivestita In Pelle Sintetica Di Colore Bianco|2017/12/4-sedie-just-white|data.oliviero.it/imgprodotto/4-sedie-just-white_169923",

@@ -1,4 +1,6 @@
 Gr = [
+"Scarpe Tennis Gel Dedicate 5|Collezione Primavera Estate Le Gel Dedicate 5 sono un modello rivolto|2017/12/scarpe-tennis-gel-dedicate-5|data.oliviero.it/imgprodotto/scarpe-tennis-gel-dedicate-5-e707y-4901_164127",
+"Scarpe Running Gel Nimbus 19|Accumula chilometri senza sforzare i piedi indossando la leggerissima|2017/12/scarpe-running-gel-nimbus-19|data.oliviero.it/imgprodotto/scarpe-running-gel-nimbus-19-t700n-4301_169592",
 "Scarpe Tennis Gel Game 5 GS (W)|Scarpe Tennis Gel Game 5 GS (W) - C502Y 2101 La GEL GAME 5 è la|2017/12/scarpe-tennis-gel-game-5-gs-w|data.oliviero.it/imgprodotto/scarpe-tennis-gel-game-5-gs-w-c502y-2101_145741",
 "Scarpe Running Gel Cumulus 19 W|La GEL-CUMULUS 19 con pronazione neutra, per chi corre chilometraggi|2017/12/scarpe-running-gel-cumulus-19-w|data.oliviero.it/imgprodotto/scarpe-running-gel-cumulus-19-w_169594",
 "Maglia Running Sweat Goteborg|Maglia tecnica sportiva a manica lunga ideale per il running|2017/12/maglia-running-sweat-goteborg|data.oliviero.it/imgprodotto/maglia-running-sweat-goteborg_10305_big",

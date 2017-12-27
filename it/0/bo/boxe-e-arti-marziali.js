@@ -1,4 +1,13 @@
 Gr = [
+"Guanti MMA Impact|Guanto da MMA da allenamento ultra - protettivo soprattutto su|2017/12/guanti-mma-impact|data.oliviero.it/imgprodotto/guanti-mma-impact_171404",
+"Paradenti Titan Pd520|Paradenti LEONE ad arcata singola a doppio grado di densità|2017/12/paradenti-titan-pd520|data.oliviero.it/imgprodotto/paradenti-titan-pd520_19349_big",
+"Guanti MMA L47|Perfetto mix di cura per i dettagli e ricerca dei più attuali trend|2017/12/guanti-mma-l47|data.oliviero.it/imgprodotto/guanti-mma-l47_171416",
+"Guanti MMA KIMURA MX|Caratteristiche: GENUINE LEATHER pelle ultra morbida e liscia|2017/12/guanti-mma-kimura-mx|data.oliviero.it/imgprodotto/guanti-mma-kimura-mx_65961",
+"Guantoni BLACKSTORM Skull Nero 10 oz|Caratteristiche Prodotto: -Prestazione 3/5 -Qualità 4/5 -Sistema di|2017/12/guantoni-blackstorm-skull-nero-10-oz|data.oliviero.it/imgprodotto/guantoni-blackstorm-skull-nero-10-oz_159705",
+"Guantoni Cyclone Restyling 10 oz|Caratteristiche: Guantoni Sphinx Cyclone Restyling: Class essential|2017/12/guantoni-cyclone-restyling-10-oz|data.oliviero.it/imgprodotto/guantoni-cyclone-restyling-10-oz_159704",
+"Guanti da Boxe Armalite 12oz|Guanti da Boxe Caratteristiche: Pelle esterna SLV3 per durata|2017/12/guanti-da-boxe-armalite-12oz|data.oliviero.it/imgprodotto/guanti-da-boxe-armalite-12oz-sabg-0113_92975",
+"T-Shirt Smanicata Basic X|Smanicato tecnico dal taglio regolare ideale per la pratica di ogni|2017/12/t-shirt-smanicata-basic-x|data.oliviero.it/imgprodotto/t-shirt-smanicata-basic-x_171411",
+"Paradenti Top Guard|Paradenti ad arcata singola, realizzato in Eva, particolarmente|2017/12/paradenti-top-guard|data.oliviero.it/imgprodotto/paradenti-top-guard_171417",
 "Guanti da Boxe Armalite 10oz|Guanti da Boxe Caratteristiche: Pelle esterna SLV3 per durata|2017/12/guanti-da-boxe-armalite-10oz|data.oliviero.it/imgprodotto/guanti-da-boxe-armalite-10oz-sabg-0112_92974",
 "Paratibia NAKAMURA|Caratteristiche : Paratibia omologato gara FULL-Kick COMPETITION|2017/12/paratibia-nakamura|data.oliviero.it/imgprodotto/paratibia-nakamura_159730",
 "Guanti BLACKHAWK Evo Nero 10 oz|Caratteristiche: GENUINE LEATHER pelle ultra morbida e liscia|2017/12/guanti-blackhawk-evo-nero-10-oz|data.oliviero.it/imgprodotto/guanti-blackhawk-evo-nero-10-oz_73216",

@@ -1,4 +1,5 @@
 Gr = [
+"Hippo Cappellino|Cappellino ampio e morbido che si fissa delicatamente sulla testa del|2017/12/hippo-cappellino|data.oliviero.it/imgprodotto/hippo-cappellino_137089",
 "Portagiochi Pelly Fun|Un ampio e pratico porta giochi per bagno Sistema di regolazione che|2017/12/portagiochi-pelly-fun|data.oliviero.it/imgprodotto/portagiochi-pelly-fun_160910",
 "Vaschetta Laguna|Tutte le prerogative delle vaschette di Okbaby in un modello|2017/12/vaschetta-laguna|data.oliviero.it/imgprodotto/vaschetta-laguna_130877",
 "Flipper Evolution|Il momento del bagnetto è sempre pieno di \"sorprese\". Lui si diverte|2017/12/flipper-evolution|data.oliviero.it/imgprodotto/flipper-evolution_136401",

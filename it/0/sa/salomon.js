@@ -1,4 +1,8 @@
 Gr = [
+"Zaino Trail 20|Il Salomon Trail 20 Backpack è ideale per le escursioni di un giorno|2017/12/zaino-trail-20|data.oliviero.it/imgprodotto/zaino-trail-20_80308",
+"Scarpe Trail Running XA Lite GTX W|Affronta con mente sveglia e passo leggero qualsiasi terreno, in|2017/12/scarpe-trail-running-xa-lite-gtx-w|data.oliviero.it/imgprodotto/scarpe-trail-running-xa-lite-gtx-w_169149",
+"Scarponi Snowboard Faction Boa|Nessun altro stivale a questo prezzo ha un pedigree come la fazione|2017/12/scarponi-snowboard-faction-boa|data.oliviero.it/imgprodotto/scarponi-snowboard-faction-boa_157952",
+"Scarponi Snow Pearl Boa|DOLCE & SEMPLICE. Semplice, comoda e femminile— Con 3 steps indossi|2017/12/scarponi-snow-pearl-boa|data.oliviero.it/imgprodotto/scarponi-snow-pearl-boa_94282",
 "Scarpe Techamphibian 3|l nome Techamphibian riassume bene l'anima di questa scarpa. È una|2017/12/scarpe-techamphibian-3|data.oliviero.it/imgprodotto/scarpe-techamphibian-3-356783_163278",
 "Snowboard Pulse 2016 + Attacchi Rhythm|Snowboard + attacchi UOMO Snowboard Pulse La versione della Pulse|2017/12/snowboard-pulse-2016-+-attacchi-rhythm|data.oliviero.it/imgprodotto/snowboard-pulse-2016-attacchi-rhythm_156328",
 "Scarponi Snow Titan|FUORI DAL MONDO Con scarpetta Bronze Series, suola Flightweight|2017/12/scarponi-snow-titan|data.oliviero.it/imgprodotto/scarponi-snow-titan_94280",

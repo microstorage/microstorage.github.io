@@ -1,4 +1,7 @@
 Gr = [
+"T-Shirt Response Graphic|Collezione Primavera Estate Caratterizzata da un stampa allover sulla|2017/12/t-shirt-response-graphic|data.oliviero.it/imgprodotto/t-shirt-response-graphic-az2859_159837",
+"T-Shirt Running Uomo Zonal Cooling Relay Blu|La maglia da running a manica corta Nike Zonal Cooling Relay - Uomo|2017/12/t-shirt-running-uomo-zonal-cooling-relay-blu|data.oliviero.it/imgprodotto/t-shirt-running-uomo-zonal-cooling-relay-blu_167923",
+"T-Shirt Uomo Blu Nike Pro|La maglia da allenamento a manica corta Nike Pro - Uomo è dotata di|2017/12/t-shirt-uomo-blu-nike-pro|data.oliviero.it/imgprodotto/t-shirt-uomo-blu-nike-pro-703094-480_161251",
 "T-Shirt Running Uomo Nero|Questa maglia da running girocollo da uomo mantiene la pelle asciutta|2017/12/t-shirt-running-uomo-nero|data.oliviero.it/imgprodotto/t-shirt-running-uomo-nero_168498",
 "Maglia Running Sweat Goteborg|Maglia tecnica sportiva a manica lunga ideale per il running|2017/12/maglia-running-sweat-goteborg|data.oliviero.it/imgprodotto/maglia-running-sweat-goteborg_10305_big",
 "Canotta Running Uomo Rosso|Canotta da running uomo con tessuto composto da pannelli per una|2017/12/canotta-running-uomo-rosso|data.oliviero.it/imgprodotto/canotta-running-uomo-rosso_167791",

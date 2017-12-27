@@ -1,4 +1,13 @@
 Gr = [
+"Tapis Roulant St 5000|SCOPRI IL NUOVO VIC 7000 DISPLAY TOUCH SCREEN E WiFi CLICCA QUI Tapis|2017/12/tapis-roulant-st-5000|data.oliviero.it/imgprodotto/tapis-roulant-st-5000_127097",
+"Tapis Roulant Competence T20|SCHERMO 5,5 INCH LCD - MONOCOLORE PROGRAMMI 1 MANUALE,|2017/12/tapis-roulant-competence-t20|data.oliviero.it/imgprodotto/tapis-roulant-competence-t20_173323",
+"Tapis Roulant Route 670|Route 670 connubio perfetto fra qualità e prezzo. Route 670|2017/12/tapis-roulant-route-670|data.oliviero.it/imgprodotto/tapis-roulant-route-670_172841",
+"Tapis Roulant Super Compact SC48|Caratteristiche Tecniche MOTORE 1,75 HP DC CONTINUATIVI / 2,75 HP DC|2017/12/tapis-roulant-super-compact-sc48|data.oliviero.it/imgprodotto/tapis-roulant-super-compact-sc48_170939",
+"Tapis Roulant Track 5|KETTLER Track 5, oltre al sistema EASY ROLLER e allo Shock Absorber|2017/12/tapis-roulant-track-5|data.oliviero.it/imgprodotto/tapis-roulant-track-5_162679",
+"Tapis Roulant Performance T60|SCHERMO 6,6 INCH LCD - COLORE RETROILLUMINATO PROGRAMMI 1 MANUALE, 17|2017/12/tapis-roulant-performance-t60|data.oliviero.it/imgprodotto/tapis-roulant-performance-t60_173326",
+"Tapis Rouant Performance T50|SCHERMO 6,6 INCH LCD - COLORE RETROILLUMINATO PROGRAMMI 1 MANUALE, 17|2017/12/tapis-rouant-performance-t50|data.oliviero.it/imgprodotto/tapis-rouant-performance-t50_173319",
+"Tapis Roulant Competence T40|SCHERMO 5,5 INCH LCD - COLORE RETROILLUMINATO PROGRAMMI 1 MANUALE,|2017/12/tapis-roulant-competence-t40|data.oliviero.it/imgprodotto/tapis-roulant-competence-t40_173316",
+"Tapis Roulant Endurance T80|SCHERMO 10 INCH LCD - COLORE PROGRAMMI 1 MANUALE, 10 PREIMPOSTATI, 10|2017/12/tapis-roulant-endurance-t80|data.oliviero.it/imgprodotto/tapis-roulant-endurance-t80_173313",
 "Tapis Roulant ST 714|Tapis Roulant st 714 Caratteristiche Intensità di allenamento|2017/12/tapis-roulant-st-714|data.oliviero.it/imgprodotto/tapis-roulant-st-714-striale_119581",
 "Tapis Roulant MF395 Compact|Descrizione: Motore : 2,0 HP CONTINUATIVI / 3,0 HP DC DI SPUNTO|2017/12/tapis-roulant-mf395-compact|data.oliviero.it/imgprodotto/tapis-roulant-mf395-compact_162487",
 "Tapis Roulant TRX Active Compact|TRX ACTIVE COMPACT Garanzia a vita sul telaio. Pre-assemblato pronto|2017/12/tapis-roulant-trx-active-compact|data.oliviero.it/imgprodotto/tapis-roulant-trx-active-compact_159623",

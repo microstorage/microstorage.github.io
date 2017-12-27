@@ -1,4 +1,11 @@
 Gr = [
+"Tavolo Ping Pong Tecto Indoor|Tectonic è la linea di ping-pong entry level di Cornilleau, azienda|2017/12/tavolo-ping-pong-tecto-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-tecto-indoor_83021",
+"Ping Pong Progress Outdoor Blu|Modello per esterno, pieghevole, con piano gioco blu, indicato per|2017/12/ping-pong-progress-outdoor-blu|data.oliviero.it/imgprodotto/ping-pong-progress-outdoor-blu_83101",
+"Racchette da ping pong Pack Sport Duo 432|Racchette da Ping Pong Pack Sport Duo 432. La confezione comprende|2017/12/racchette-da-ping-pong-pack-sport-duo-432|data.oliviero.it/imgprodotto/racchette-da-ping-pong-pack-sport-duo-432_58096",
+"Tavolo da ping pong T604 Giardino Outdoor|Caratteristiche tecniche: Tavolo montato su ruote gemellari Ø 80 mm|2017/12/tavolo-da-ping-pong-t604-giardino-outdoor|data.oliviero.it/imgprodotto/tavolo-da-ping-pong-t604-giardino-outdoor_475_big",
+"Ping Pong Progress Indoor verde da interno|Modello per interno, pieghevole con chiusura automatica compatta, con|2017/12/ping-pong-progress-indoor-verde-da-interno|data.oliviero.it/imgprodotto/ping-pong-progress-indoor-verde-da-interno_83028",
+"Set rete + tendirete Universal per tavoli da ping pong|Set rete + tendirete Universal per tavoli da ping pong Adatto ad ogni|2017/12/set-rete-+-tendirete-universal-per-tavoli-da-ping-pong|data.oliviero.it/imgprodotto/set-rete-tendirete-universal-per-tavoli-da-ping-pong_157348",
+"Tavolo Ping Pong Training Outdoor Blu|MADE IN GERMANY Modello per esterno, pieghevole, con piano gioco blu|2017/12/tavolo-ping-pong-training-outdoor-blu|data.oliviero.it/imgprodotto/tavolo-ping-pong-training-outdoor-blu_83098",
 "Telo di copertura ping pong|Pratica copertura espressamente ideata per la protezione dei moderni|2017/12/telo-di-copertura-ping-pong|data.oliviero.it/imgprodotto/telo-di-copertura-ping-pong_157349",
 "Tavolo Ping Pong Outdoor 10 Blu|OUTDOOR 10 Modello per uso ricreativo per utilizzatori di tutte le|2017/12/tavolo-ping-pong-outdoor-10-blu|data.oliviero.it/imgprodotto/tavolo-ping-pong-outdoor-10-blu_110975",
 "Tavolo Ping Pong Expert Roller CSS Indoor|Modello da competizione per interno, della massima stabilità|2017/12/tavolo-ping-pong-expert-roller-css-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-expert-roller-css-indoor_2021_big",

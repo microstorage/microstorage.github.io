@@ -1,4 +1,7 @@
 Gr = [
+"Bowflex Max Trainer M5|Bowflex MAX Trainer M5 è il più modello ricco di funzionalità della|2017/12/bowflex-max-trainer-m5|data.oliviero.it/imgprodotto/bowflex-max-trainer-m5_140006",
+"Ellittica Rivo P Black Edition|RIVO P 07644-500 Passo dopo passo verso la tua forma ideale. Grazie|2017/12/ellittica-rivo-p-black-edition|data.oliviero.it/imgprodotto/ellittica-rivo-p-black-edition_130310",
+"Ellittica ERX 70|Sistema di frenaggio magnetico con regolazione manuale dello sforzo|2017/12/ellittica-erx-70|data.oliviero.it/imgprodotto/ellittica-erx-70_68838",
 "Ellittica XC 120w|DKN XC-120W è un'ellitica facile da usare, ma ricca di funzioni per|2017/12/ellittica-xc-120w|data.oliviero.it/imgprodotto/ellittica-xc-120w_68606",
 "Ellittica Elite 502|Tecnologia ed eleganza si muovono di pari passo su Elite 502. Il|2017/12/ellittica-elite-502|data.oliviero.it/imgprodotto/ellittica-elite-502_172763",
 "Ellittica ERX 90 + ricevitore Polar|Sistema di frenaggio magnetico con regolazione elettronica dello|2017/12/ellittica-erx-90-+-ricevitore-polar|data.oliviero.it/imgprodotto/ellittica-erx-90-ricevitore-polar_68842",

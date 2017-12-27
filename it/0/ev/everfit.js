@@ -1,4 +1,6 @@
 Gr = [
+"Panca Addominale AB SMART|Panca addominale dal design ergonomico, semplice da usare, con seduta|2017/12/panca-addominale-ab-smart|data.oliviero.it/imgprodotto/panca-addominale-ab-smart_159172",
+"Panca Addominale AB Crunch Master|AB-CRUNCH MASTER Attrezzo semplice e robusto, ideale per|2017/12/panca-addominale-ab-crunch-master|data.oliviero.it/imgprodotto/panca-addominale-ab-crunch-master_90113",
 "Cyclette BFK 300|Carattestiche: Sistema di frenaggio magnetico su 8 posizioni Volano|2017/12/cyclette-bfk-300|data.oliviero.it/imgprodotto/cyclette-bfk-300_84837",
 "Tapis Roulant TFK 455 Slim|Tapis Roulant TFK 455 Slim HRC-Heart Rate Control PRE-ASSEMBLATO|2017/12/tapis-roulant-tfk-455-slim|data.oliviero.it/imgprodotto/tapis-roulant-tfk-455-slim_147613",
 "Panca Gravitazionale Turning Slim|Everfit Turning Slim è la nuova panca inversione regolabile in|2017/12/panca-gravitazionale-turning-slim|data.oliviero.it/imgprodotto/panca-gravitazionale-turning-slim_90149",

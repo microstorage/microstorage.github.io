@@ -1,4 +1,7 @@
 Gr = [
+"Pallone Europei 2016 Top Glider|Supera gli avversari con questo pallone da calcio di alta qualità. La|2017/12/pallone-europei-2016-top-glider|data.oliviero.it/imgprodotto/pallone-europei-2016-top-glider_142224",
+"Pallone FC Internazionale Prestige|Il pallone da calcio FC Internazionale Prestige offre un tocco|2017/12/pallone-fc-internazionale-prestige|data.oliviero.it/imgprodotto/pallone-fc-internazionale-prestige_169697",
+"Pallone Calcio Menor|Pallone Nike FootballX Menor. Di dimensioni più piccole rispetto ai|2017/12/pallone-calcio-menor|data.oliviero.it/imgprodotto/pallone-calcio-menor_169698",
 "Pallone Calcio Nike Premier League|Il pallone da calcio Nike Strike Premier League, con camera d'aria in|2017/12/pallone-calcio-nike-premier-league|data.oliviero.it/imgprodotto/pallone-calcio-nike-premier-league_169701",
 "Pallone Calcio FC Internazionale Supporters|Il pallone da calcio FC Internazionale Supporters è resistente|2017/12/pallone-calcio-fc-internazionale-supporters|data.oliviero.it/imgprodotto/pallone-calcio-fc-internazionale-supporters-sc3019_152057",
 "Pallone da Calcio Strike Serie A|Il pallone da calcio Serie A Strike è dotato di camera d'aria in|2017/12/pallone-da-calcio-strike-serie-a|data.oliviero.it/imgprodotto/pallone-da-calcio-strike-serie-a_167128",

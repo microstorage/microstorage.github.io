@@ -1,4 +1,9 @@
 Gr = [
+"Beccucci decoratori 21 pz|Farcire e decorare i dolci come un vero professionista, da oggi, non|2017/12/beccucci-decoratori-21-pz|data.oliviero.it/imgprodotto/beccucci-decoratori-21-pz-630496_148201",
+"Stampo Pupazzo di neve|Quando nevica, scatta subito la voglia di costruire un pupazzo di|2017/12/stampo-pupazzo-di-neve|data.oliviero.it/imgprodotto/stampo-pupazzo-di-neve-623198_155210",
+"Penna decora dolci|Ideale per decorare dolci ed altri alimenti. Provvista di 5 beccucci|2017/12/penna-decora-dolci|data.oliviero.it/imgprodotto/penna-decora-dolci_155119",
+"Pala dolce con estrattore|Ecco una pala per dolce davvero furba: la sua forma permette di|2017/12/pala-dolce-con-estrattore|data.oliviero.it/imgprodotto/pala-dolce-con-estrattore_155128",
+"Macchina per Popcake|Macchina per Popcake Codice: 90.600 Descrizione : Piastra in|2017/12/macchina-per-popcake|data.oliviero.it/imgprodotto/macchina-per-popcake-90-600_90288",
 "Rulli per manicotto di boemia trdelnik|Il manicotto di Boemia, il cui nome originale è trdelnik, è un dolce|2017/12/rulli-per-manicotto-di-boemia-trdelnik|data.oliviero.it/imgprodotto/rulli-per-manicotto-di-boemia-trdelnik-623390_157899",
 "Stampi per Budino 4 pz|Hai voglia di un delizioso budino? Ora ci sono gli stampini che ti|2017/12/stampi-per-budino-4-pz|data.oliviero.it/imgprodotto/stampi-per-budino-4-pz_90734",
 "Formine per uova|Un uovo sodo a forma di farfalla… ma anche di casetta, cuore|2017/12/formine-per-uova|data.oliviero.it/imgprodotto/formine-per-uova-420658_155247",

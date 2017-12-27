@@ -1,4 +1,5 @@
 Gr = [
+"Macchina da Caffè Minù Bianco|Nel suo piccolo, è il massimo. Compatta e adatta a ogni spazio|2017/12/macchina-da-caffe-minu-bianco|data.oliviero.it/imgprodotto/macchina-da-caffe-minu-bianco_165782",
 "Macchina da Caffè Magia Rosso|Il nuovo modo di preparare il caffè. La nuova macchina Lavazza A Modo|2017/12/macchina-da-caffe-magia-rosso|data.oliviero.it/imgprodotto/macchina-da-caffe-magia-rosso_155701",
 "Macchina da Caffè Magia white|Il nuovo modo di preparare il caffè. La nuova macchina Lavazza A Modo|2017/12/macchina-da-caffe-magia-white|data.oliviero.it/imgprodotto/macchina-da-caffe-magia-white_155699",
 "Macchina da Caffè Minù Rosso|Nel suo piccolo, è il massimo. Compatta e adatta a ogni spazio|2017/12/macchina-da-caffe-minu-rosso|data.oliviero.it/imgprodotto/macchina-da-caffe-minu-rosso_165784",

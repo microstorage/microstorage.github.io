@@ -1,5 +1,14 @@
 Tt = "T-Shirt";
 Gr = [
+"T-Shirt Trefoil Uomo Bianco|Sfoggia con orgoglio la tua passione per adidas indossando questa|2017/12/t-shirt-trefoil-uomo-bianco|data.oliviero.it/imgprodotto/t-shirt-trefoil-uomo-bianco-aj8828_164097",
+"T-Shirt Donna Sami|Collezione Autunno Inverno/2018 Maglietta leggera a manica lunga da|2017/12/t-shirt-donna-sami|data.oliviero.it/imgprodotto/t-shirt-donna-sami_170866",
+"T-Shirt Donna Bianco Allison Raglan|Collezione Primavera Estate T-Shirt Donna con maniche morbide a 3/4|2017/12/t-shirt-donna-bianco-allison-raglan|data.oliviero.it/imgprodotto/t-shirt-donna-bianco-allison-raglan-12-10011-0100_163172",
+"T-Shirt da Tennis Uomo Rosso|La t-shirt da tennis NikeCourt Roger Federer - Uomo è realizzata in|2017/12/t-shirt-da-tennis-uomo-rosso|data.oliviero.it/imgprodotto/t-shirt-da-tennis-uomo-rosso_167940",
+"T-shirt uomo Michelle|Collezione Primavera Estate Tipologia: Maglia mezza manica da uomo|2017/12/t-shirt-uomo-michelle|data.oliviero.it/imgprodotto/t-shirt-uomo-michelle_7469_big",
+"T-Shirt Uomo Taglie Forti Verde|Collezione Primavera Estate T-Shirt mezza manica da uomo taglie|2017/12/t-shirt-uomo-taglie-forti-verde|data.oliviero.it/imgprodotto/t-shirt-uomo-taglie-forti-verde_165417",
+"T-Shirt Stampata Donna Nero Grigio|Collezione Autunno Inverno/2018 schiena e collo in jersey tinta unita|2017/12/t-shirt-stampata-donna-nero-grigio|data.oliviero.it/imgprodotto/t-shirt-stampata-donna-nero-grigio_170429",
+"T-Shirt Uomo Manica Lunga Nero|Collezione Autunno Inverno/2018 T-Shirt manica lunga da uomo Il|2017/12/t-shirt-uomo-manica-lunga-nero|data.oliviero.it/imgprodotto/t-shirt-uomo-manica-lunga-nero_169115",
+"Maglia Masi Nero|Collezione Autunno Inverno/2018 Maglietta nera da donna con maniche|2017/12/maglia-masi-nero|data.oliviero.it/imgprodotto/maglia-masi-nero_170868",
 "T-Shirt Jordan Bianco|La t-shirt Jordan Sportswear Wings - Uomo sfoggia dettagli esclusivi|2017/12/t-shirt-jordan-bianco|data.oliviero.it/imgprodotto/t-shirt-jordan-bianco_167890",
 "T-Shirt Felpa Donna Nero|Collezione Autunno Inverno/2018 maglietta ampia con mezza manica|2017/12/t-shirt-felpa-donna-nero|data.oliviero.it/imgprodotto/t-shirt-felpa-donna-nero_170346",
 "T-Shirt donna S2S4XB 00445|T-Shirt da donna con scollo a V, mezze maniche, disegno nella parte|2017/12/t-shirt-donna-s2s4xb-00445|data.oliviero.it/imgprodotto/t-shirt-donna-s2s4xb-00445_146534",

@@ -1,4 +1,9 @@
 Gr = [
+"Lenzuola Culla/Carrozzina Milky|Le Lenzuola Culla/Carrozzina Picci Milky è un set composto da|2017/12/lenzuola-culla-carrozzina-milky|data.oliviero.it/imgprodotto/lenzuola-culla-carrozzina-milky_173273",
+"Lenzuola Culla o Carrozzina Cheesecake|Le Lenzuola Culla/Carrozzina Picci Cheesecake è un Set composto da|2017/12/lenzuola-culla-o-carrozzina-cheesecake|data.oliviero.it/imgprodotto/lenzuola-culla-o-carrozzina-cheesecake_173425",
+"Lenzuolo letto Milky Pois|Composè per lettino in cotone composto da lenziolo sotto con angoli|2017/12/lenzuolo-letto-milky-pois|data.oliviero.it/imgprodotto/lenzuolo-letto-milky-pois_173261",
+"Lenzuolo letto Muffin Panna|Composè per lettino in cotone composto da lenziolo sotto con angoli|2017/12/lenzuolo-letto-muffin-panna|data.oliviero.it/imgprodotto/lenzuolo-letto-muffin-panna_173557",
+"Lenzuolo letto Sugar|Composè per lettino in cotone composto da lenziolo sotto con angoli|2017/12/lenzuolo-letto-sugar|data.oliviero.it/imgprodotto/lenzuolo-letto-sugar_173477",
 "Lenzuola Culla o Carrozzina Stella|Le Lenzuola Culla/Carrozzina Picci Stella è un Set composto da|2017/12/lenzuola-culla-o-carrozzina-stella|data.oliviero.it/imgprodotto/lenzuola-culla-o-carrozzina-stella_172089",
 "Set Lenzuolino letto loving bear rosa|Il Set Lenzuola Pali Loving Bear è composto da 3 pezzi: lenzuolino|2017/12/set-lenzuolino-letto-loving-bear-rosa|data.oliviero.it/imgprodotto/set-lenzuolino-letto-loving-bear-rosa_86207",
 "Set Lenzuolino Birillo|Set lenzuolo composto da sotto con angoli (sempre teso) sopra|2017/12/set-lenzuolino-birillo|data.oliviero.it/imgprodotto/set-lenzuolino-birillo_166163",

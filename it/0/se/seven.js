@@ -1,4 +1,6 @@
 Gr = [
+"Astuccio 3 zip Facce da SJ|L'ASTUCCIO 3 ZIP SJ GANG è l'accessorio che non può mancare nel tuo|2017/12/astuccio-3-zip-facce-da-sj|data.oliviero.it/imgprodotto/astuccio-3-zip-facce-da-sj_166253",
+"Trolley New Jack Widget|Non conosci ancora Jack??? JACK è il trolley brevettato Seven che|2017/12/trolley-new-jack-widget|data.oliviero.it/imgprodotto/trolley-new-jack-widget_166136",
 "Zaino Advanced Widget|Questo zaino è speciale! Grazie alla serigrafia fotosensibile, con|2017/12/zaino-advanced-widget|data.oliviero.it/imgprodotto/zaino-advanced-widget_166132",
 "Zaino The Double Camouflage|È uno zaino ma sono due. Da un lato fantasia e dall'altro tinta|2017/12/zaino-the-double-camouflage|data.oliviero.it/imgprodotto/zaino-the-double-camouflage_167526",
 "Portapenne Round PLUS Swag Boy|Un portapenne attrezzato per organizzare al meglio penne, matite|2017/12/portapenne-round-plus-swag-boy|data.oliviero.it/imgprodotto/portapenne-round-plus-swag-boy_166276",

@@ -1,4 +1,10 @@
 Gr = [
+"Cyclette JK256|Sistema frenante Elettromagnetico alimentatore 8v Regolazione inerzia|2017/12/cyclette-jk256|data.oliviero.it/imgprodotto/cyclette-jk256_173183",
+"Squat Rack JK6066|Massimo peso caricabile 150 Kg Dimensione tubi 60 x 60 x 3 mm - 70|2017/12/squat-rack-jk6066|data.oliviero.it/imgprodotto/squat-rack-jk6066_173193",
+"Cyclette JK236|Sistema frenante Magnetico Regolazione inerzia 8 livelli di|2017/12/cyclette-jk236|data.oliviero.it/imgprodotto/cyclette-jk236_173187",
+"Panca Multifunzione JK 6096|SPESSORE TUBI: 50 mm SPESSORE IMBOTTITURE:50 mm CARATTERISTICHE:|2017/12/panca-multifunzione-jk-6096|data.oliviero.it/imgprodotto/panca-multifunzione-jk-6096_14497_big",
+"Tapis Roulant Super Compact SC48|Caratteristiche Tecniche MOTORE 1,75 HP DC CONTINUATIVI / 2,75 HP DC|2017/12/tapis-roulant-super-compact-sc48|data.oliviero.it/imgprodotto/tapis-roulant-super-compact-sc48_170939",
+"Calciobalilla JKS400|Caratteristiche ASTE RIENTRANTI MOBILE Mobile in MDF con rivestimento|2017/12/calciobalilla-jks400|data.oliviero.it/imgprodotto/calciobalilla-jks400_155725",
 "Portabilanciere JK 6065|Massimo peso caricabile150 kg Dimensione tubi50 x 50 mm Regolabile in|2017/12/portabilanciere-jk-6065|data.oliviero.it/imgprodotto/portabilanciere-jk-6065_23727_big",
 "Step Professionale JK5001|Caratteristiche tecniche: SUPERFICIE antiscivolo REGOLAZIONE ALTEZZA|2017/12/step-professionale-jk5001|data.oliviero.it/imgprodotto/step-professionale-jk5001_23743_big",
 "Tapis Roulant JK 145|Caratteristiche tecniche: MOTORE 3,0 hp DC CONTINUATIVI / 4,5 hp DC|2017/12/tapis-roulant-jk-145|data.oliviero.it/imgprodotto/tapis-roulant-jk-145_135921",

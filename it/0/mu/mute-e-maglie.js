@@ -1,4 +1,6 @@
 Gr = [
+"Muta Umida Uomo Shorty Manta|Bifoderata Cerniera posteriore Tirazip e sistema di bloccaggio|2017/12/muta-umida-uomo-shorty-manta|data.oliviero.it/imgprodotto/muta-umida-uomo-shorty-manta_165668",
+"Muta Sealight Kid 8019|Muta Bambino della linea Scuba2011 di Seac Sub. Lo snorkeling per|2017/12/muta-sealight-kid-8019|data.oliviero.it/imgprodotto/muta-sealight-kid-8019_10870_big",
 "Muta Baby Stingray|Mutino a maniche corte per ragazzi fino ai 12 anni. Realizzato in|2017/12/muta-baby-stingray|data.oliviero.it/imgprodotto/muta-baby-stingray_171810",
 "Muta Bimbo DG0010|Mutino Baby Bambino Realizzato in neoprene da 1.5 mm di spessore|2017/12/muta-bimbo-dg0010|data.oliviero.it/imgprodotto/muta-bimbo-dg0010_87436",
 "Muta Shorty Tritone|La tua vera seconda pelle. TIZIP silverseal. Estremamente resistente|2017/12/muta-shorty-tritone|data.oliviero.it/imgprodotto/muta-shorty-tritone_10846_big",

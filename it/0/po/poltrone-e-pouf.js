@@ -1,4 +1,5 @@
 Gr = [
+"Poltrona riempita I Love You|Poltrona riempita a sacco con stampa I LOVE YOU rivestimento sacca in|2017/12/poltrona-riempita-i-love-you|data.oliviero.it/imgprodotto/poltrona-riempita-i-love-you_139488",
 "Poltrona Hollywood|Poltrona AVIO completamente realizzata in legno massello seduta|2017/12/poltrona-hollywood|data.oliviero.it/imgprodotto/poltrona-hollywood-weal007-legno-marrone_162049",
 "Divano 2 posti kaleidos|Divano 2 Posti Kaleidos-D Blue Seduta E Schienale Rivestiti In|2017/12/divano-2-posti-kaleidos|data.oliviero.it/imgprodotto/divano-2-posti-kaleidos_170037",
 "Letto Nora Taupe|Letto Nora Taupe - Contenitore Pelle Sintetica Colore Tortora|2017/12/letto-nora-taupe|data.oliviero.it/imgprodotto/letto-nora-taupe_170059",

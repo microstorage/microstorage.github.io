@@ -1,4 +1,6 @@
 Gr = [
+"Stazione dei Pompieri|Età: da 18 mesi a 5 anni Compatibile con noti mattoncini da|2017/12/stazione-dei-pompieri|data.oliviero.it/imgprodotto/stazione-dei-pompieri_135970",
+"Fattoria Piccola|Età: da 18 mesi in su Compatibile con noti mattoncini da costruzione|2017/12/fattoria-piccola|data.oliviero.it/imgprodotto/fattoria-piccola_135972",
 "Cofanetto Cars for Kids|Età: da 0 mesi Compatibile con noti mattoncini da costruzione|2017/12/cofanetto-cars-for-kids|data.oliviero.it/imgprodotto/cofanetto-cars-for-kids_135969",
 "Castello Grande Hello Kitty|Età: da 12 mesi a 5 anni Compatibile con noti mattoncini da|2017/12/castello-grande-hello-kitty|data.oliviero.it/imgprodotto/castello-grande-hello-kitty_135990",
 "Stazione della Polizia|Età: da 18 mesi a 5 anni Stazione di polizia con mezzi e personaggi|2017/12/stazione-della-polizia|data.oliviero.it/imgprodotto/stazione-della-polizia-8544_156989",

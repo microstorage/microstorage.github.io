@@ -1,4 +1,6 @@
 Gr = [
+"Bandana cuoco nera|Colore : Colorato Composizione : tessuto 100% cotone Dimensioni :|2017/12/bandana-cuoco-nera|data.oliviero.it/imgprodotto/bandana-cuoco-nera_1650_big",
+"Giacca Cuoco Panama Slim|Divisa ufficiale Federazione Italiana Cuochi Giacca cuoco a manica|2017/12/giacca-cuoco-panama-slim|data.oliviero.it/imgprodotto/giacca-cuoco-panama-slim-058297_159003",
 "Camicia donna rosa kyoto|Colore : Rosa Composizione : tessuto 65% poliestere e 35% cotone|2017/12/camicia-donna-rosa-kyoto|data.oliviero.it/imgprodotto/camicia-donna-rosa-kyoto_2343_big",
 "Bandana cuoco bordeaux|Colore : Bordeaux Composizione : tessuto 100% cotone Dimensioni :|2017/12/bandana-cuoco-bordeaux|data.oliviero.it/imgprodotto/bandana-cuoco-bordeaux_24497_big",
 "Bandana cuoco italia|Colore : Tortuga Composizione : tessuto 100% cotone Dimensioni :|2017/12/bandana-cuoco-italia|data.oliviero.it/imgprodotto/bandana-cuoco-italia_24494_big",

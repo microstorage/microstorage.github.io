@@ -1,4 +1,8 @@
 Gr = [
+"Boo 4 in 1 Girello|Il girello per bambini Boo 4 in 1 è dotato di tavola didattica|2017/12/boo-4-in-1-girello|data.oliviero.it/imgprodotto/boo-4-in-1-girello_172575",
+"On Board Pedana|On Board è la pedana porta bimbo UNIVERSALE dotata di 2 ruote|2017/12/on-board-pedana|data.oliviero.it/imgprodotto/on-board-pedana_172586",
+"Seggiolone B-Fun Beige Sabbia|B.Fun è il seggiolone multifunzione con caratteristiche tecnico|2017/12/seggiolone-b-fun-beige-sabbia|data.oliviero.it/imgprodotto/seggiolone-b-fun-beige-sabbia_172596",
+"Fasciatoio Olimpia Multicolor|Il piano fasciatoio è ben imbottito e con spondine di sicurezza|2017/12/fasciatoio-olimpia-multicolor|data.oliviero.it/imgprodotto/fasciatoio-olimpia-multicolor_172607",
 "Seggiolino per On Board Pedana|Brevi On Board pedana e seggiolino vi consentiranno di portare|2017/12/seggiolino-per-on-board-pedana|data.oliviero.it/imgprodotto/seggiolino-per-on-board-pedana_172590",
 "Passeggino Ginger Rosso|Il passeggino Ginger di Brevi offre il massimo confort per il bambino|2017/12/passeggino-ginger-rosso|data.oliviero.it/imgprodotto/passeggino-ginger-rosso_172603",
 "Altalena Miou My Little Bear|Per cullare il tuo bambino in tutta sicurezza fin dai primi giorni di|2017/12/altalena-miou-my-little-bear|data.oliviero.it/imgprodotto/altalena-miou-my-little-bear_172574",

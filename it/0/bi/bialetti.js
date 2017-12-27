@@ -1,4 +1,5 @@
 Gr = [
+"Capsule Caffe Torino 16 pz|Confezione da 16 capsule Torino. Il caffè di Torino è un elegante|2017/12/capsule-caffe-torino-16-pz|data.oliviero.it/imgprodotto/capsule-caffe-torino-16-pz_108999",
 "Pressofiltro 1 L|Preziosa, pressofiltro in alluminio da 1 litro. Un'infusione calda|2017/12/pressofiltro-1-l|data.oliviero.it/imgprodotto/pressofiltro-1-l_156345",
 "Moka Colour 3 tz Bianco|Moka White nasce dall'esigenza di affiancare stile e fascino moderni|2017/12/moka-colour-3-tz-bianco|data.oliviero.it/imgprodotto/moka-colour-3-tz-bianco_154715",
 "Cappuccinatore 1 Lt|Il Cappuccinatore di Bialetti è il modo semplice e pratico per|2017/12/cappuccinatore-1-lt|data.oliviero.it/imgprodotto/cappuccinatore-1-lt_154702",

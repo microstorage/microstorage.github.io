@@ -1,4 +1,7 @@
 Gr = [
+"Tavolo Ping Pong Tecto Indoor|Tectonic è la linea di ping-pong entry level di Cornilleau, azienda|2017/12/tavolo-ping-pong-tecto-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-tecto-indoor_83021",
+"Ping Pong Progress Outdoor Blu|Modello per esterno, pieghevole, con piano gioco blu, indicato per|2017/12/ping-pong-progress-outdoor-blu|data.oliviero.it/imgprodotto/ping-pong-progress-outdoor-blu_83101",
+"Ping Pong Progress Indoor verde da interno|Modello per interno, pieghevole con chiusura automatica compatta, con|2017/12/ping-pong-progress-indoor-verde-da-interno|data.oliviero.it/imgprodotto/ping-pong-progress-indoor-verde-da-interno_83028",
 "Tavolo Ping Pong Expert Roller CSS Indoor|Modello da competizione per interno, della massima stabilità|2017/12/tavolo-ping-pong-expert-roller-css-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-expert-roller-css-indoor_2021_big",
 "Tavolo Ping Pong Competition 740 ITTF|Tavolo Ping Pong Competition 740 ITTF Caratteristiche PIANO|2017/12/tavolo-ping-pong-competition-740-ittf|data.oliviero.it/imgprodotto/tavolo-ping-pong-competition-740-ittf_136312",
 "Tavolo Ping Pong Competition 850 wood ITTF Indoor|Tavolo Ping Pong Competition 850 wood ITTF Indoor COLORE GRIGIO PIANO|2017/12/tavolo-ping-pong-competition-850-wood-ittf-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-competition-850-wood-ittf-indoor_130135",

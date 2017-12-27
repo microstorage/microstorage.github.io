@@ -1,4 +1,5 @@
 Gr = [
+"Seggiolino auto Kidfix II XP Sict Mineral Purple|Il seggiolino auto KIDFIX è il top dei seggiolini del gruppo 2-3|2017/12/seggiolino-auto-kidfix-ii-xp-sict-mineral-purple|data.oliviero.it/imgprodotto/seggiolino-auto-kidfix-ii-xp-sict-mineral-purple_147598",
 "Seggiolino king II purple|King Plus è equipaggiato con il sistema esclusivo tendicinghia della|2017/12/seggiolino-king-ii-purple|data.oliviero.it/imgprodotto/seggiolino-king-ii-purple_156890",
 "Passeggino B-Agile 4 cosmos black|Il meccanisco Pull-Fold consente di ripiegare il telaio con estrema|2017/12/passeggino-b-agile-4-cosmos-black|data.oliviero.it/imgprodotto/passeggino-b-agile-4-cosmos-black_145159",
 "Seggiolino Evolva Plus 1 2 3|Il seggiolino combinato EVOLVA 1-2-3 plus è dotato di numerose|2017/12/seggiolino-evolva-plus-1-2-3|data.oliviero.it/imgprodotto/seggiolino-evolva-plus-1-2-3_51747",

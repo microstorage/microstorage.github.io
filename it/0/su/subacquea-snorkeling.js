@@ -1,4 +1,6 @@
 Gr = [
+"Muta Umida Uomo Shorty Manta|Bifoderata Cerniera posteriore Tirazip e sistema di bloccaggio|2017/12/muta-umida-uomo-shorty-manta|data.oliviero.it/imgprodotto/muta-umida-uomo-shorty-manta_165668",
+"Muta Sealight Kid 8019|Muta Bambino della linea Scuba2011 di Seac Sub. Lo snorkeling per|2017/12/muta-sealight-kid-8019|data.oliviero.it/imgprodotto/muta-sealight-kid-8019_10870_big",
 "Muta Baby Stingray|Mutino a maniche corte per ragazzi fino ai 12 anni. Realizzato in|2017/12/muta-baby-stingray|data.oliviero.it/imgprodotto/muta-baby-stingray_171810",
 "Muta Bimbo DG0010|Mutino Baby Bambino Realizzato in neoprene da 1.5 mm di spessore|2017/12/muta-bimbo-dg0010|data.oliviero.it/imgprodotto/muta-bimbo-dg0010_87436",
 "Set Snorkeling Jr Pirate|MASCHERA : MASSIMO COMFORT REGOLAZIONE DEL CINTURINO FACILE|2017/12/set-snorkeling-jr-pirate|data.oliviero.it/imgprodotto/set-snorkeling-jr-pirate_165665",

@@ -1,4 +1,11 @@
 Gr = [
+"Lampada petalo polypropilene|Lampada da tavolo PETALO paralume realizzato in polipropilene bianco|2017/12/lampada-petalo-polypropilene|data.oliviero.it/imgprodotto/lampada-petalo-polypropilene_77964",
+"Coppia di Sedie Soft Old Brown|Sedie SOFT OLD BROWN rivestita in pelle ecologica effetto cuoio gambe|2017/12/coppia-di-sedie-soft-old-brown|data.oliviero.it/imgprodotto/coppia-di-sedie-soft-old-brown_137913",
+"Caminetto a bioetanolo feel|Camino a bioetanolo\"FEEL\" base in acciaio verniciato bianco e nero|2017/12/caminetto-a-bioetanolo-feel|data.oliviero.it/imgprodotto/caminetto-a-bioetanolo-feel_78655",
+"Poltrona riempita I Love You|Poltrona riempita a sacco con stampa I LOVE YOU rivestimento sacca in|2017/12/poltrona-riempita-i-love-you|data.oliviero.it/imgprodotto/poltrona-riempita-i-love-you_139488",
+"Coppia di Sedie Well tortora|Sedia WELL TORTORA rivestita in pelle ecologica di colore tortora|2017/12/coppia-di-sedie-well-tortora|data.oliviero.it/imgprodotto/coppia-di-sedie-well-tortora_137902",
+"Cantinetta impilabile WINE-RACK|Cantinetta impilabile WINE-RACK fianchi realizzati in metallo colore|2017/12/cantinetta-impilabile-wine-rack|data.oliviero.it/imgprodotto/cantinetta-impilabile-wine-rack_136081",
+"Cantinetta osteria white|CANTINETTA DA PARETE \"OSTERIA WHITE\" mensola porta bottiglia|2017/12/cantinetta-osteria-white|data.oliviero.it/imgprodotto/cantinetta-osteria-white_78410",
 "Sgabello ergonomico berger|SGABELLO ERGONOMICO \"BERGER\" struttura in metallo finitura alluminio|2017/12/sgabello-ergonomico-berger|data.oliviero.it/imgprodotto/sgabello-ergonomico-berger_78543",
 "4 Sedie Just Grey|Seduta Rivestita In Pelle Sintetica Di Colore Grigio Struttura In|2017/12/4-sedie-just-grey|data.oliviero.it/imgprodotto/4-sedie-just-grey_169931",
 "tavolo rotondo FRISIA|Tavolo rotondo FRISIA gambe realizzate in legno massello finitura|2017/12/tavolo-rotondo-frisia|data.oliviero.it/imgprodotto/tavolo-rotondo-frisia_149435",

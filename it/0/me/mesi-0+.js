@@ -1,4 +1,6 @@
 Gr = [
+"Copertina Happy Color Cane|Prime copertine colorate, realizzate in morbido tessuto velour|2017/12/copertina-happy-color-cane|data.oliviero.it/imgprodotto/copertina-happy-color-cane_65790",
+"Carillon Ninna Luna|Ninna Luna è un grande classico che si rinnova nel design con forme|2017/12/carillon-ninna-luna|data.oliviero.it/imgprodotto/carillon-ninna-luna_12119_big",
 "Pupazzo Big Soft Cuddles Azzurro|Morbido e delicato come un tenero abbraccio,è ideale proprio nei|2017/12/pupazzo-big-soft-cuddles-azzurro|data.oliviero.it/imgprodotto/pupazzo-big-soft-cuddles-azzurro_93896",
 "Copertina Happy Color Gatto|Prime copertine colorate, realizzate in morbido tessuto velour|2017/12/copertina-happy-color-gatto|data.oliviero.it/imgprodotto/copertina-happy-color-gatto_65791",
 "Sonaglio a fiore|Questo grazioso sonaglio è il giocattolo ideale per il vostro bambino|2017/12/sonaglio-a-fiore|data.oliviero.it/imgprodotto/sonaglio-a-fiore_72488",
