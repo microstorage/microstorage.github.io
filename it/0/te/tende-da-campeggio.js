@@ -1,4 +1,8 @@
 Gr = [
+"Tenda Atom 2 da Campeggio|La tenda Atom rappresenta il passo evolutivo delle Tende Lite per il|2017/12/tenda-atom-2-da-campeggio|data.oliviero.it/imgprodotto/tenda-atom-2-da-campeggio_158478",
+"Tenda Mono 2 da Campeggio|Monotelo : polyestere 190T P.U. 800 mm., alluminato termoisolante|2017/12/tenda-mono-2-da-campeggio|data.oliviero.it/imgprodotto/tenda-mono-2-da-campeggio_87362",
+"Tenda Lightent 3 Rosso da Campeggio|Un vero esempio di leggerezza ed affidabilità. Dotata di due pali in|2017/12/tenda-lightent-3-rosso-da-campeggio|data.oliviero.it/imgprodotto/tenda-lightent-3-rosso-da-campeggio_158494",
+"Tenda Danubio 2|Caratteristiche Del Prodotto: La tenda camping Danubio 2 di Columbus|2017/12/tenda-danubio-2|data.oliviero.it/imgprodotto/tenda-danubio-2_80770",
 "Tenda Grand Chic da Campeggio|Ampia finestratura con zanzariera e copertura antipioggia in kristal|2017/12/tenda-grand-chic-da-campeggio|data.oliviero.it/imgprodotto/tenda-grand-chic-da-campeggio_87328",
 "Tenda Frontera 4 da Campeggio|Rappresenta la soluzione ideale per chi desidera una tenda robusta|2017/12/tenda-frontera-4-da-campeggio|data.oliviero.it/imgprodotto/tenda-frontera-4-da-campeggio_149717",
 "Capannone Area 40 (5x8)|Capannoni per uso comunità, banchetti, esposizioni fieristiche|2017/12/capannone-area-40-5x8|data.oliviero.it/imgprodotto/capannone-area-40-5x8-_147523",

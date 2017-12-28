@@ -1,4 +1,5 @@
 Gr = [
+"Sandalo Baby Each Girl Beige|Collezione Primavera Estate Each Girl è la scarpina primi passi dalla|2017/12/sandalo-baby-each-girl-beige|data.oliviero.it/imgprodotto/sandalo-baby-each-girl-beige-b720ae-c0512_162358",
 "Giubbotto Uomo Phantom|Collezione Autunno Inverno/2018 Giubbotto da uomo con allacciatura|2017/12/giubbotto-uomo-phantom|data.oliviero.it/imgprodotto/giubbotto-uomo-phantom_169348",
 "Sandali Donna Bianco Darline|Collezione Primavera Estate Perfetto per rendere più trendy anche|2017/12/sandali-donna-bianco-darline|data.oliviero.it/imgprodotto/sandali-donna-bianco-darline-d721yc-c1000_163244",
 "Sandalo Donna Janira Cigar|Collezione Primavera Estate Pensate per quelle donne che amano essere|2017/12/sandalo-donna-janira-cigar|data.oliviero.it/imgprodotto/sandalo-donna-janira-cigar_165241",

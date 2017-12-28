@@ -1,4 +1,10 @@
 Gr = [
+"Jeans Larston Blue Tie|Collezione Autunno Inverno/2018 Jeans slim comodissimi in denim blu|2017/12/jeans-larston-blue-tie|data.oliviero.it/imgprodotto/jeans-larston-blue-tie_170533",
+"Jeans Taglie Forti Uomo Jeep|Collezione Primavera Estate Jeans uomo taglie forti con allacciatura|2017/12/jeans-taglie-forti-uomo-jeep|data.oliviero.it/imgprodotto/jeans-taglie-forti-uomo-jeep_164881",
+"Jeans Super Skinny|Collezione Autunno Inverno/2018 Jeans super skinny in denim indaco|2017/12/jeans-super-skinny|data.oliviero.it/imgprodotto/jeans-super-skinny_170556",
+"Jeggings P2S4SW 00437|Jeggings da donna con vita regolare, vestibilità slim, allacciatura|2017/12/jeggings-p2s4sw-00437|data.oliviero.it/imgprodotto/jeggings-p2s4sw-00437_146892",
+"Jeans High Rise Skinny Best Blue|Collezione Autunno Inverno/2018 Parti all'avventura con i nostri|2017/12/jeans-high-rise-skinny-best-blue|data.oliviero.it/imgprodotto/jeans-high-rise-skinny-best-blue_170562",
+"Jeans donna BP290009|Tipologia : Jeans donna Tessuto : 99% cotone 1% elastan|2017/12/jeans-donna-bp290009|data.oliviero.it/imgprodotto/jeans-donna-bp290009_73338",
 "Jeans Uomo 501 Skinny|Abbiamo preso i jeans più ambiti del mondo per personalizzarli con|2017/12/jeans-uomo-501-skinny|data.oliviero.it/imgprodotto/jeans-uomo-501-skinny_171151",
 "Jeans Larston Resin Rinse|Collezione Autunno Inverno/2018 Jeans slim in denim scuro dalle linee|2017/12/jeans-larston-resin-rinse|data.oliviero.it/imgprodotto/jeans-larston-resin-rinse_170535",
 "Jeans Greensboro Bright Stoke|Collezione Autunno Inverno/2018 Jeans blu con fit regular e risvolto|2017/12/jeans-greensboro-bright-stoke|data.oliviero.it/imgprodotto/jeans-greensboro-bright-stoke_170523",

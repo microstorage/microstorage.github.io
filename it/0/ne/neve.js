@@ -1,4 +1,7 @@
 Gr = [
+"Maschera Sci Slider|Maschera da sci unisex. Fantastica maschera da sci Slider di Uvex|2017/12/maschera-sci-slider|data.oliviero.it/imgprodotto/maschera-sci-slider-s5500241129_136997",
+"Casco Sci Stromboli Visor 1V Matt Black|Stromboli Visor è la combinazione tra leggerezza e protezione dai|2017/12/casco-sci-stromboli-visor-1v-matt-black|data.oliviero.it/imgprodotto/casco-sci-stromboli-visor-1v-matt-black_171735",
+"Snowracer Flames|Snowracer monoposto dal look attraente, ideale per bambini e ragazzi|2017/12/snowracer-flames|data.oliviero.it/imgprodotto/snowracer-flames_8366_big",
 "Pantaloni Sci Donna Nero|Collezione Autunno Inverno/2018 Le taglie sono espresse in misure|2017/12/pantaloni-sci-donna-nero|data.oliviero.it/imgprodotto/pantaloni-sci-donna-nero_169273",
 "Maschera Sci Compact LM|Colore montatura Bianco Protezione 100% UVA, UVB, UVC Ultravision|2017/12/maschera-sci-compact-lm|data.oliviero.it/imgprodotto/maschera-sci-compact-lm_171341",
 "Giacca da Sci Donna Courchevel 1850|Collezione Autunno Inverno/2018 La giacca sci donna Courchevel 1850|2017/12/giacca-da-sci-donna-courchevel-1850|data.oliviero.it/imgprodotto/giacca-da-sci-donna-courchevel-1850_170448",

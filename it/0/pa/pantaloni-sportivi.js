@@ -1,4 +1,6 @@
 Gr = [
+"Leggings Nero Bianco Donna|I leggings con logo nike sportswear - donna sono realizzati in|2017/12/leggings-nero-bianco-donna|data.oliviero.it/imgprodotto/leggings-nero-bianco-donna_167808",
+"Pantaloni Sportivi Donna Dark Grey Melange|Collezione Autunno Inverno/2018 pantalone jogger in felpa pesante|2017/12/pantaloni-sportivi-donna-dark-grey-melange|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-dark-grey-melange_170339",
 "Pantaloncini Sportivi Uomo Nero e Bianco|Celebra la mitica serie SST. Questi short da uomo si ispirano alle|2017/12/pantaloncini-sportivi-uomo-nero-e-bianco|data.oliviero.it/imgprodotto/pantaloncini-sportivi-uomo-nero-e-bianco_165301",
 "Pantaloncini Uomo Grigio|Collezione Autunno Inverno/2018 Gli shorts Nike Sportswear - Uomo|2017/12/pantaloncini-uomo-grigio|data.oliviero.it/imgprodotto/pantaloncini-uomo-grigio_167721",
 "Pantaloni Sportivi Nero Uomo|Pantaloni lunghi in tuta di Adidas Originals. Due tasche laterali|2017/12/pantaloni-sportivi-nero-uomo|data.oliviero.it/imgprodotto/pantaloni-sportivi-nero-uomo_168063",

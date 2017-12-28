@@ -1,4 +1,9 @@
 Gr = [
+"Vaschetta Bollicina|La Vaschetta Cam Bollicina è un modello ampio e spazioso che|2017/12/vaschetta-bollicina|data.oliviero.it/imgprodotto/vaschetta-bollicina_135886",
+"Docciatore Splash|Un pratico docciatore sempre a portata di mano Doccino per sciacquare|2017/12/docciatore-splash|data.oliviero.it/imgprodotto/docciatore-splash_160913",
+"Sapone non sapone|Detergente liquido per corpo, mani e viso con azione nutriente grazie|2017/12/sapone-non-sapone|data.oliviero.it/imgprodotto/sapone-non-sapone_150263",
+"Kit supporto barre laterali per Onda|Onda è una vaschetta intelligente, si adatta alla crescita del|2017/12/kit-supporto-barre-laterali-per-onda|data.oliviero.it/imgprodotto/kit-supporto-barre-laterali-per-onda_25253_big",
+"Aqua Spa Fasciatoio 219|Il Bagnetto Cam Aqua SPA C77 comprende una comoda vaschetta anatomica|2017/12/aqua-spa-fasciatoio-219|data.oliviero.it/imgprodotto/aqua-spa-fasciatoio-219_171527",
 "Spray Ipertonico Congestione Nasale|Spray Nasale Ipertonico Mustela Congestione Nasale 150ml. Spray|2017/12/spray-ipertonico-congestione-nasale|data.oliviero.it/imgprodotto/spray-ipertonico-congestione-nasale_171633",
 "Borsa Mum & Baby|La borsa MUM & BABY è ideale per avere sempre a disposizione tutto il|2017/12/borsa-mum-baby|data.oliviero.it/imgprodotto/borsa-mum-%26-baby_93689",
 "Fasciatoio Cuddle & bubble Eucalyptus 079348|Cuddle & Bubble è il nuovo fasciatoio che si trasforma in bagnetto|2017/12/fasciatoio-cuddle-bubble-eucalyptus-079348|data.oliviero.it/imgprodotto/fasciatoio-cuddle-%26-bubble-eucalyptus-079348_158623",

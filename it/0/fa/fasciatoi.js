@@ -1,4 +1,9 @@
 Gr = [
+"Bagnetto Fasciatoio Nina Bianco|Mobiletto fasciatoio legno bianco con applicativo completo di|2017/12/bagnetto-fasciatoio-nina-bianco|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-nina-bianco_172666",
+"Nina Mobile Fasciatoio|Fasciatoio con Struttura in legno di faggio completo di materassino|2017/12/nina-mobile-fasciatoio|data.oliviero.it/imgprodotto/nina-mobile-fasciatoio_172667",
+"Stella Mobile Fasciatoio Bianco|Fasciatoio con Struttura in legno di faggio completo di materassino|2017/12/stella-mobile-fasciatoio-bianco|data.oliviero.it/imgprodotto/stella-mobile-fasciatoio-bianco_171813",
+"Fasciatoio Cheesecake|Mobiletto fasciatoio legno con applicativo completo di vaschetta per|2017/12/fasciatoio-cheesecake|data.oliviero.it/imgprodotto/fasciatoio-cheesecake_140951",
+"Bagnetto Fasciatoio Birba Bianco|Pali offre una linea completa di bagnetti fasciatoio, per la cura del|2017/12/bagnetto-fasciatoio-birba-bianco|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-birba-bianco_166168",
 "Comò Gaia Sbiancato|Comò modello Gaia composto da 3 ampi cassetti. Costruito con|2017/12/como-gaia-sbiancato|data.oliviero.it/imgprodotto/com%C3%B2-gaia-sbiancato_147369",
 "Bagnetto Fasciatoio Sugar|Mobiletto fasciatoio 3 cassetti legno bianco con applicativo completo|2017/12/bagnetto-fasciatoio-sugar|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-sugar_173471",
 "Bagnetto Fasciatoio Sugar 4 Cassetti|Mobiletto fasciatoio 4 cassetti legno bianco con applicativo completo|2017/12/bagnetto-fasciatoio-sugar-4-cassetti|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-sugar-4-cassetti_173469",

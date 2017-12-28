@@ -1,4 +1,7 @@
 Gr = [
+"Racchetta Beach Tennis Beacher Jr|Racchetta Beach Tennis Marca: VISION Modello: RACCHETTA BEACH TENNIS|2017/12/racchetta-beach-tennis-beacher-jr|data.oliviero.it/imgprodotto/racchetta-beach-tennis-beacher-jr_164431",
+"Racchetta Beach Tennis Black|Il profilo maggiorato garantisce una maggiore velocità di gioco|2017/12/racchetta-beach-tennis-black|data.oliviero.it/imgprodotto/racchetta-beach-tennis-black_164256",
+"Racchetta Beach Tennis Jamaica|Racchetta Beach Tennis Marca: VISION Modello: RACCHETTA BEACH TENNIS|2017/12/racchetta-beach-tennis-jamaica|data.oliviero.it/imgprodotto/racchetta-beach-tennis-jamaica_164430",
 "Racchetta Beach Tennis Sbed|Telaio studiato per conferire maggiore precisione e controllo alle|2017/12/racchetta-beach-tennis-sbed|data.oliviero.it/imgprodotto/racchetta-beach-tennis-sbed_167106",
 "Racchetta Beach Tennis Katana|Modello: HIGH POWER RACCHETTA BEACH TENNIS RACKET KATANA CON CUSTODIA|2017/12/racchetta-beach-tennis-katana|data.oliviero.it/imgprodotto/racchetta-beach-tennis-katana_173404",
 "Racchetta Beach Tennis Junior Green|Racchetta Beach Tennis Linea di racchette prodotta appositamente per|2017/12/racchetta-beach-tennis-junior-green|data.oliviero.it/imgprodotto/racchetta-beach-tennis-junior-green_147594",

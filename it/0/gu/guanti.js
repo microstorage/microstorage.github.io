@@ -1,4 +1,8 @@
 Gr = [
+"Guantoni Boxe 16oz|È l'articolo perfetto per tutti coloro che decidono di iniziare la|2017/12/guantoni-boxe-16oz|data.oliviero.it/imgprodotto/guantoni-boxe-16oz-_169634",
+"Guantoni Cyclone Restyling 8 oz|Caratteristiche: Guantoni Sphinx Cyclone Restyling: Class essential|2017/12/guantoni-cyclone-restyling-8-oz|data.oliviero.it/imgprodotto/guantoni-cyclone-restyling-8-oz_159708",
+"Guanti Boxe Legionarivs|Il guanto GN202 è un tributo al mitico Alessio Sakara, il primo|2017/12/guanti-boxe-legionarivs|data.oliviero.it/imgprodotto/guanti-boxe-legionarivs_171415",
+"Guanti MMA Black Edition|Dopo il grande successo della Black Edition Collection entra|2017/12/guanti-mma-black-edition|data.oliviero.it/imgprodotto/guanti-mma-black-edition_171407",
 "Guanti da moto Flash R Evo|Flash-R Evo evolve il concetto del suo predecessore, esaltandone|2017/12/guanti-da-moto-flash-r-evo|data.oliviero.it/imgprodotto/guanti-da-moto-flash-r-evo-b79k-011_164803",
 "Guanti MMA Impact|Guanto da MMA da allenamento ultra - protettivo soprattutto su|2017/12/guanti-mma-impact|data.oliviero.it/imgprodotto/guanti-mma-impact_171404",
 "Guanti MMA L47|Perfetto mix di cura per i dettagli e ricerca dei più attuali trend|2017/12/guanti-mma-l47|data.oliviero.it/imgprodotto/guanti-mma-l47_171416",

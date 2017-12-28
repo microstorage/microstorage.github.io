@@ -1,4 +1,5 @@
 Gr = [
+"Materassino 18 buchi Trasparente 188x71 cm|Materassino 18 buchi trasparente Dimensioni 188x71 cm 2 camere d'aria|2017/12/materassino-18-buchi-trasparente-188x71-cm|data.oliviero.it/imgprodotto/materassino-18-buchi-trasparente-188x71-cm-59894_148604",
 "Zainetto mare Minnie|Set da spiaggia. Include: sacca, secchiello D.17, setaccio|2017/12/zainetto-mare-minnie|data.oliviero.it/imgprodotto/zainetto-mare-minnie_148024",
 "Frisbee Dyn-O-Glo 130gr|Il Frisbee che brilla più di 30 minuti. Ecco il Frisbee che si|2017/12/frisbee-dyn-o-glo-130gr|data.oliviero.it/imgprodotto/frisbee-dyn-o-glo-130gr_166397",
 "Palline colorate 100pz|Le 100 Palline multicolore possono essere utilizzate per aggiungere|2017/12/palline-colorate-100pz|data.oliviero.it/imgprodotto/palline-colorate-100pz-49602_148630",

@@ -1,4 +1,7 @@
 Gr = [
+"Lettino Sonia bianco|Il Lettino della collezione Sonia di Erbesi è composta da una|2017/12/lettino-sonia-bianco|data.oliviero.it/imgprodotto/lettino-sonia-bianco_144143",
+"Lettino Celine baby|Tutti i Lettini e tutti i componenti delle camerette Pali sono sempre|2017/12/lettino-celine-baby|data.oliviero.it/imgprodotto/lettino-celine-baby_147358",
+"Lettino Ciak Naturale|Tutti i Lettini e tutti i componenti delle camerette Pali sono sempre|2017/12/lettino-ciak-naturale|data.oliviero.it/imgprodotto/lettino-ciak-naturale_25074_big",
 "Lettino Amelie Pannellato|Letto collezione Amelie con pannelli testiera/pediera in legno. Il|2017/12/lettino-amelie-pannellato|data.oliviero.it/imgprodotto/lettino-amelie-pannellato_172730",
 "Lettino Celine Bianco|Il Lettino Celine Bianco è composto da una struttura in legno|2017/12/lettino-celine-bianco|data.oliviero.it/imgprodotto/lettino-celine-bianco_147357",
 "Lettino Cheesecake|Letto collezione Cheesecake in legno laccato con cassetto, r uote|2017/12/lettino-cheesecake|data.oliviero.it/imgprodotto/lettino-cheesecake_140306",

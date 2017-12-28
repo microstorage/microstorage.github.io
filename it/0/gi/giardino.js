@@ -1,4 +1,9 @@
 Gr = [
+"Amaca Barbados Lemon XL|La classica! Il nostro obiettivo era qello di offrire un'amaca a due|2017/12/amaca-barbados-lemon-xl|data.oliviero.it/imgprodotto/amaca-barbados-lemon-xl_158711",
+"Amaca con Asta Brasilia Cappuccino L|Amaca Brasilia Cappuccino - L Siamo riusciti a rendere le nostre|2017/12/amaca-con-asta-brasilia-cappuccino-l|data.oliviero.it/imgprodotto/amaca-con-asta-brasilia-cappuccino-l_158729",
+"Struttura Porta-Amaca Madera|Struttura porta-amaca Madera In Giardino o in campeggio si trova|2017/12/struttura-porta-amaca-madera|data.oliviero.it/imgprodotto/struttura-porta-amaca-madera_82605",
+"Beach set Tonga Vulcano|Lo stand nero verniciato a polvere e l'amaca nel colore popolare|2017/12/beach-set-tonga-vulcano|data.oliviero.it/imgprodotto/beach-set-tonga-vulcano_82134",
+"Catena per Amache Liana|Catena di prolunga per appendere amache e poltrone pensili sia al|2017/12/catena-per-amache-liana|data.oliviero.it/imgprodotto/catena-per-amache-liana_83955",
 "Dondolo Grande|Dondolo in acciaio Caratterstiche tecniche: Telaio in acciaio tondo|2017/12/dondolo-grande|data.oliviero.it/imgprodotto/dondolo-grande_87058",
 "Amaca Tahiti Candy L|Prodotta da Amazonas, azienda conosciuta tutto il mondo per l'ottima|2017/12/amaca-tahiti-candy-l|data.oliviero.it/imgprodotto/amaca-tahiti-candy-l_80890",
 "Struttura Porta-Amache Leo|Struttura porta-culla Leo Leo è una mini struttura porta amache della|2017/12/struttura-porta-amache-leo|data.oliviero.it/imgprodotto/struttura-porta-amache-leo_84103",

@@ -1,4 +1,7 @@
 Gr = [
+"Stampo Campana|Ecco uno stampo da forno particolare, lo appoggi su una teglia piana|2017/12/stampo-campana|data.oliviero.it/imgprodotto/stampo-campana_74143",
+"Piccolo Presepe di Natale Set Tagliabiscotti|Set di tagliabiscotti ideale per comporre un piccolo presepe di|2017/12/piccolo-presepe-di-natale-set-tagliabiscotti|data.oliviero.it/imgprodotto/piccolo-presepe-di-natale-set-tagliabiscotti-631426_155169",
+"Set 6 Stampi Tondi|Indispensabili per preparare piccola pasticceria o barchette salate|2017/12/set-6-stampi-tondi|data.oliviero.it/imgprodotto/set-6-stampi-tondi_154428",
 "Beccucci decoratori 21 pz|Farcire e decorare i dolci come un vero professionista, da oggi, non|2017/12/beccucci-decoratori-21-pz|data.oliviero.it/imgprodotto/beccucci-decoratori-21-pz-630496_148201",
 "Stampo Pupazzo di neve|Quando nevica, scatta subito la voglia di costruire un pupazzo di|2017/12/stampo-pupazzo-di-neve|data.oliviero.it/imgprodotto/stampo-pupazzo-di-neve-623198_155210",
 "Penna decora dolci|Ideale per decorare dolci ed altri alimenti. Provvista di 5 beccucci|2017/12/penna-decora-dolci|data.oliviero.it/imgprodotto/penna-decora-dolci_155119",

@@ -1,4 +1,13 @@
 Gr = [
+"Coppia di sedie Cozy white|Sedia COZY WHITE seduta e schienale rivestiti in pelle sintetica|2017/12/coppia-di-sedie-cozy-white|data.oliviero.it/imgprodotto/coppia-di-sedie-cozy-white_149501",
+"Set 4 mensole rocket white|SET 4 CUBI DA PARETE \"ROCKET WHITE\" realizzati in MDF laccato colore|2017/12/set-4-mensole-rocket-white|data.oliviero.it/imgprodotto/set-4-mensole-rocket-white_139503",
+"Coppia di Sedie Mesh White|Sedia MESH WHITE rivestita in pelle ecologica di colore bianco gambe|2017/12/coppia-di-sedie-mesh-white|data.oliviero.it/imgprodotto/coppia-di-sedie-mesh-white_137892",
+"Specchiera vanessa con appendiabiti|Specchiera da terra con appendiabiti VANESSA specchiera da terra con|2017/12/specchiera-vanessa-con-appendiabiti|data.oliviero.it/imgprodotto/specchiera-vanessa-con-appendiabiti_153694",
+"Comodino Tavolino Hijo white|Comodino / tavolino HIJO WHITE realizzato in legno massello di bamboo|2017/12/comodino-tavolino-hijo-white|data.oliviero.it/imgprodotto/comodino-tavolino-hijo-white_135007",
+"tavolo allungabile BLADE 120|Tavolo allungabile BLADE 120 - TORTORA gambe realizzate in metallo|2017/12/tavolo-allungabile-blade-120|data.oliviero.it/imgprodotto/tavolo-allungabile-blade-120-tortora_137777",
+"Poltrona da ufficio PENTY BROWN|Poltrona da ufficio PENTY BROWN seduta in pelle ecologica MARRONE|2017/12/poltrona-da-ufficio-penty-brown|data.oliviero.it/imgprodotto/poltrona-da-ufficio-penty-brown_135035",
+"Portafoto da muro i love u|PORTA FOTO DA PARETE \"I LOVE U\" legno bianco e nero per 2 foto x cm|2017/12/portafoto-da-muro-i-love-u|data.oliviero.it/imgprodotto/portafoto-da-muro-i-love-u_78321",
+"Puff tavolino lum.space purple|Pouff/tavolino luminoso SPACE PURPLE struttura esterna in metacrilato|2017/12/puff-tavolino-lum-space-purple|data.oliviero.it/imgprodotto/puff-tavolino-lum-space-purple_77950",
 "Lampada petalo polypropilene|Lampada da tavolo PETALO paralume realizzato in polipropilene bianco|2017/12/lampada-petalo-polypropilene|data.oliviero.it/imgprodotto/lampada-petalo-polypropilene_77964",
 "Coppia di Sedie Soft Old Brown|Sedie SOFT OLD BROWN rivestita in pelle ecologica effetto cuoio gambe|2017/12/coppia-di-sedie-soft-old-brown|data.oliviero.it/imgprodotto/coppia-di-sedie-soft-old-brown_137913",
 "Caminetto a bioetanolo feel|Camino a bioetanolo\"FEEL\" base in acciaio verniciato bianco e nero|2017/12/caminetto-a-bioetanolo-feel|data.oliviero.it/imgprodotto/caminetto-a-bioetanolo-feel_78655",

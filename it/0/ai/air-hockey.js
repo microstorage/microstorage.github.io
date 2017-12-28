@@ -1,4 +1,5 @@
 Gr = [
+"Air Hockey Ghibli|Un air hockey per tutta la famiglia, creato per essere utilizzato|2017/12/air-hockey-ghibli|data.oliviero.it/imgprodotto/air-hockey-ghibli_3414_big",
 "Air Hockey Mistral|Un air hockey per uso familiare, pensato per i giocatori di ogni età|2017/12/air-hockey-mistral|data.oliviero.it/imgprodotto/air-hockey-mistral_3418_big",
 "Air Hockey Zodiac|Zodiac è un modello di piattaforma per Air Hockey della linea|2017/12/air-hockey-zodiac|data.oliviero.it/imgprodotto/air-hockey-zodiac_3424_big",
 "Hockey da Tavolo Play Off|L'Hockey su tavolo, dinamico gioco di origine nordica, offre puro|2017/12/hockey-da-tavolo-play-off|data.oliviero.it/imgprodotto/hockey-da-tavolo-play-off_8356_big",

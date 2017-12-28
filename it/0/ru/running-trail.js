@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Trail Running Tempesta GTX W's|Calzatura impermeabile da Winter Running pensata per allenamenti ed|2017/12/scarpe-trail-running-tempesta-gtx-w-s|data.oliviero.it/imgprodotto/scarpe-trail-running-tempesta-gtx-ws_170980",
 "Scarpe Trail Running XA Lite GTX W|Affronta con mente sveglia e passo leggero qualsiasi terreno, in|2017/12/scarpe-trail-running-xa-lite-gtx-w|data.oliviero.it/imgprodotto/scarpe-trail-running-xa-lite-gtx-w_169149",
 "Scarpe Trail Running Wave Daichi 2|La scarpa Mizuno Wave Daichi 2 da Uomo, è caratterizzata da una suola|2017/12/scarpe-trail-running-wave-daichi-2|data.oliviero.it/imgprodotto/scarpe-trail-running-wave-daichi-2_166816",
 "Scarpe Trail Running Uomo Akira GTX|Calzatura impermeabile in membrana Gore-Tex® specifica per winter|2017/12/scarpe-trail-running-uomo-akira-gtx|data.oliviero.it/imgprodotto/scarpe-trail-running-uomo-akira-gtx_170975",

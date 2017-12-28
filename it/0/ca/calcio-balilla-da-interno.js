@@ -1,4 +1,5 @@
 Gr = [
+"Calcio balilla Flexy|Calcio balilla Flexy Caratteristiche tecniche: MOBILE MULTISTRATO DI|2017/12/calcio-balilla-flexy|data.oliviero.it/imgprodotto/calcio-balilla-flexy_136324",
 "Calcio balilla G 5000|Il profilo morbido del mobile, le gambe inclinate dalla linea|2017/12/calcio-balilla-g-5000|data.oliviero.it/imgprodotto/calcio-balilla-g-5000_48286_big",
 "Calcio balilla Duetto con Gettoniera|Questo calciobalilla professionale per due giocatori soltanto, di|2017/12/calcio-balilla-duetto-con-gettoniera|data.oliviero.it/imgprodotto/calcio-balilla-duetto-con-gettoniera_150023",
 "Calciobalilla JKS400|Caratteristiche ASTE RIENTRANTI MOBILE Mobile in MDF con rivestimento|2017/12/calciobalilla-jks400|data.oliviero.it/imgprodotto/calciobalilla-jks400_155725",

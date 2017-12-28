@@ -1,4 +1,5 @@
 Gr = [
+"Sapone non sapone|Detergente liquido per corpo, mani e viso con azione nutriente grazie|2017/12/sapone-non-sapone|data.oliviero.it/imgprodotto/sapone-non-sapone_150263",
 "Salviette 72 Pz|Salviettine igieniche per pelli sensibili al nettare di fiori, noto|2017/12/salviette-72-pz|data.oliviero.it/imgprodotto/salviette-72-pz_23223_big",
 "Crema pantenolo|I prodotti della linea Mamma Baby non contengono coloranti|2017/12/crema-pantenolo|data.oliviero.it/imgprodotto/crema-pantenolo_138434",
 "Olio mandorle dolci|Grazie alle mandorle dolci, spremute a freddo, trattate senza|2017/12/olio-mandorle-dolci|data.oliviero.it/imgprodotto/olio-mandorle-dolci_138430",

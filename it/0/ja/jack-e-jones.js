@@ -1,4 +1,5 @@
 Gr = [
+"Pantaloni Slim Fit Uomo Marrone|Collezione Autunno Inverno/2018 Pantaloni in tonalità marroni molto|2017/12/pantaloni-slim-fit-uomo-marrone|data.oliviero.it/imgprodotto/pantaloni-slim-fit-uomo-marrone_169182",
 "Giubbino Uomo Blu|Collezione Autunno Inverno/2018 Piumino con cappuccio di tendenza|2017/12/giubbino-uomo-blu|data.oliviero.it/imgprodotto/giubbino-uomo-blu_169210",
 "Camicia Jeans Dark Black|Collezione Autunno Inverno/2018 Modello slim fit Tessuto e look denim|2017/12/camicia-jeans-dark-black|data.oliviero.it/imgprodotto/camicia-jeans-dark-black_169143",
 "Giubbino Uomo Asphalt|Collezione Autunno Inverno/2018 Piumino con cappuccio di tendenza|2017/12/giubbino-uomo-asphalt|data.oliviero.it/imgprodotto/giubbino-uomo-asphalt_169208",

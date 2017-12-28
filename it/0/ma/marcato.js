@@ -1,4 +1,5 @@
 Gr = [
+"Macchina Per Pasta Fresca 150 Atlas|Caratteristiche principali del SMV Marcato atlas 150 Macchina|2017/12/macchina-per-pasta-fresca-150-atlas|data.oliviero.it/imgprodotto/macchina-per-pasta-fresca-150-atlas_156437",
 "Accessorio Cappellini Atlas 150|Taglia a rulli la pasta, 1mm Capellini da fogli di pasta fino|2017/12/accessorio-cappellini-atlas-150|data.oliviero.it/imgprodotto/accessorio-cappellini-atlas-150_156200",
 "Accessorio Mafaldine Atlas 150|Accessorio per macchina Atlas 150 per mafaldine. Progettato per|2017/12/accessorio-mafaldine-atlas-150|data.oliviero.it/imgprodotto/accessorio-mafaldine-atlas-150_156418",
 "Macchina a Motore Per Pasta Fresca Atlas|Unione tra Atlas 150 e motore Pastadrive: un connubio perfetto tra|2017/12/macchina-a-motore-per-pasta-fresca-atlas|data.oliviero.it/imgprodotto/macchina-a-motore-per-pasta-fresca-atlas_156445",

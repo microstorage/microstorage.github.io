@@ -1,4 +1,6 @@
 Gr = [
+"Poltrona Network Bianca|Poltrona per ufficio con base e braccioli in nylon, seduta con|2017/12/poltrona-network-bianca|data.oliviero.it/imgprodotto/poltrona-network-bianca_108508",
+"Poltrona da ufficio PENTY BROWN|Poltrona da ufficio PENTY BROWN seduta in pelle ecologica MARRONE|2017/12/poltrona-da-ufficio-penty-brown|data.oliviero.it/imgprodotto/poltrona-da-ufficio-penty-brown_135035",
 "Scrivania View_Colours|Scrivania con struttura in ferro verniciato di colore bianco, vetro|2017/12/scrivania-view_colours|data.oliviero.it/imgprodotto/scrivania-view_colours_108536",
 "Portacomputer Link Blu|Portacomputer con struttura in ferro verniciato color silver, vetro|2017/12/portacomputer-link-blu|data.oliviero.it/imgprodotto/portacomputer-link-blu_108566",
 "Scrivania Format Ciliegio|Scrivania con struttura in ferro verniciato di colore nero, piano in|2017/12/scrivania-format-ciliegio|data.oliviero.it/imgprodotto/scrivania-format-ciliegio_108528",

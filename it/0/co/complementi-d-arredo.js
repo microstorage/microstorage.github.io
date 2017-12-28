@@ -1,4 +1,8 @@
 Gr = [
+"Cestino Giunco Stella|Cestino in palma rettangolare Stella Converse rivestito, utile come|2017/12/cestino-giunco-stella|data.oliviero.it/imgprodotto/cestino-giunco-stella_172627",
+"Bauli in Giunco Set 2 Pz Cheesecake|Set bauli ovali in giunco serie cheesecake completi di top in tessuto|2017/12/bauli-in-giunco-set-2-pz-cheesecake|data.oliviero.it/imgprodotto/bauli-in-giunco-set-2-pz-cheesecake_173453",
+"Armadio Caprice Royal|Linea dal gusto romantico e antico. Soddisfa un vero e proprio|2017/12/armadio-caprice-royal|data.oliviero.it/imgprodotto/armadio-caprice-royal_5651_big",
+"Bauli in Giunco Set 2 Pz Sugar|Set bauli ovali in giunco serie Sugar completi di top in tessuto|2017/12/bauli-in-giunco-set-2-pz-sugar|data.oliviero.it/imgprodotto/bauli-in-giunco-set-2-pz-sugar_173538",
 "Cestino Giunco Nina|Cestino in palma rettangolare Nina rivestito, utile come portacose|2017/12/cestino-giunco-nina|data.oliviero.it/imgprodotto/cestino-giunco-nina_172685",
 "Mobiletto 5 Cassetti Sugar|Mobiletto struttura legno laccato completo di 5 cassetti in giunco|2017/12/mobiletto-5-cassetti-sugar|data.oliviero.it/imgprodotto/mobiletto-5-cassetti-sugar_173539",
 "Bauli in Giunco Set 2 Pz Muffin|Set bauli ovali in giunco serie Muffin completi di top in tessuto|2017/12/bauli-in-giunco-set-2-pz-muffin|data.oliviero.it/imgprodotto/bauli-in-giunco-set-2-pz-muffin_173581",

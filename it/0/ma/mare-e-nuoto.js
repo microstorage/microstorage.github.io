@@ -1,4 +1,6 @@
 Gr = [
+"Boxer Nuoto Nero|Nuota con sicurezza indossando questi boxer. Realizzati in|2017/12/boxer-nuoto-nero|data.oliviero.it/imgprodotto/boxer-nuoto-nero_167017",
+"Costume Donna LaCoca Powerback|Collezione Autunno Inverno/2017 Costume da donna ideale per la|2017/12/costume-donna-lacoca-powerback|data.oliviero.it/imgprodotto/costume-donna-lacoca-powerback-806187b051_153414",
 "Costume Donna Navy Purple|Costume da donna ideale per la piscina. Grazie alle sue spalline|2017/12/costume-donna-navy-purple|data.oliviero.it/imgprodotto/costume-donna-navy-purple_173311",
 "Costume Uomo Solid Brief|Collezione Autunno Inverno/2017 Questo classico costume da uomo|2017/12/costume-uomo-solid-brief|data.oliviero.it/imgprodotto/costume-uomo-solid-brief-2a254_153440",
 "Costume Nuoto Donna|Migliora la bracciata con questo costume da bagno intero. Realizzato|2017/12/costume-nuoto-donna|data.oliviero.it/imgprodotto/costume-nuoto-donna_168164",

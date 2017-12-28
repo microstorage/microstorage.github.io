@@ -1,4 +1,5 @@
 Gr = [
+"Camicia Taglie Forti Uomo Blu|Collezione Autunno Inverno/2018 Camicia uomo taglie forti. Il modello|2017/12/camicia-taglie-forti-uomo-blu|data.oliviero.it/imgprodotto/camicia-taglie-forti-uomo-blu_173418",
 "Pantaloni Uomo Taglie Forti Navy|Collezione Primavera Estate Pantaloni da uomo taglie forti. Il|2017/12/pantaloni-uomo-taglie-forti-navy|data.oliviero.it/imgprodotto/pantaloni-uomo-taglie-forti-navy_162820",
 "Jeans Uomo Taglie Forti E1103|Jeans uomo taglie forti. Il modello presenta allacciatura frontale|2017/12/jeans-uomo-taglie-forti-e1103|data.oliviero.it/imgprodotto/jeans-uomo-taglie-forti-e1103_168575",
 "Giubbino Taglie Forti Uomo Nero|C ollezione Autunno Invermo/2018 Giubbotto reversibile da uomo taglie|2017/12/giubbino-taglie-forti-uomo-nero|data.oliviero.it/imgprodotto/giubbino-taglie-forti-uomo-nero_170889",

@@ -1,4 +1,5 @@
 Gr = [
+"Tapis Roulant TRX 50 S EVO|Caratteristiche Diametro dei rulli anteriore ø48 mm - posteriore ø42|2017/12/tapis-roulant-trx-50-s-evo|data.oliviero.it/imgprodotto/tapis-roulant-trx-50-s-evo_157605",
 "Tapis Roulant St 5000|SCOPRI IL NUOVO VIC 7000 DISPLAY TOUCH SCREEN E WiFi CLICCA QUI Tapis|2017/12/tapis-roulant-st-5000|data.oliviero.it/imgprodotto/tapis-roulant-st-5000_127097",
 "Tapis Roulant Competence T20|SCHERMO 5,5 INCH LCD - MONOCOLORE PROGRAMMI 1 MANUALE,|2017/12/tapis-roulant-competence-t20|data.oliviero.it/imgprodotto/tapis-roulant-competence-t20_173323",
 "Tapis Roulant Route 670|Route 670 connubio perfetto fra qualità e prezzo. Route 670|2017/12/tapis-roulant-route-670|data.oliviero.it/imgprodotto/tapis-roulant-route-670_172841",

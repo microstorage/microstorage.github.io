@@ -1,4 +1,6 @@
 Gr = [
+"Marsupio Front Marina|Il marsupio per muoversi agevolmente in totale libertà sempre al|2017/12/marsupio-front-marina|data.oliviero.it/imgprodotto/marsupio-front-marina_154915",
+"Passeggino Trip Grafite 2017|Trip è un passeggino compatto e leggero con forme sobrie e sportive|2017/12/passeggino-trip-grafite-2017|data.oliviero.it/imgprodotto/passeggino-trip-grafite-2017_146468",
 "Trio Trilogy 2018 Imperial Blue|Inglesina Trilogy Trio City è un set modular pratico e maneggevole|2017/12/trio-trilogy-2018-imperial-blue|data.oliviero.it/imgprodotto/trio-trilogy-2018-imperial-blue_170198",
 "Seggiolino Marco Polo black|nglesina presenta Marco Polo, il seggiolino auto evoluto pensato per|2017/12/seggiolino-marco-polo-black|data.oliviero.it/imgprodotto/seggiolino-marco-polo-black_51697",
 "Trio Trilogy Plus 2018 Pantelleria|Con il trio TRILOGY PLUS Inglesina regala al nuovo nato un ricordo da|2017/12/trio-trilogy-plus-2018-pantelleria|data.oliviero.it/imgprodotto/trio-trilogy-plus-2018-pantelleria_170207",

@@ -1,4 +1,5 @@
 Gr = [
+"Borsa Dallas Metal Splatter|Collezione Autunno Inverno/2018 Borsa a tracolla blu da donna in|2017/12/borsa-dallas-metal-splatter|data.oliviero.it/imgprodotto/borsa-dallas-metal-splatter_170813",
 "Borsa Lisboa Eternal|Borsa a tracolla nera di forma arrotondata con ricami e strass|2017/12/borsa-lisboa-eternal|data.oliviero.it/imgprodotto/borsa-lisboa-eternal-67x51j24009_155386",
 "Borsa Florida Snake|Collezione Autunno Inverno/2018 Borsa nera da donna tipo shopper con|2017/12/borsa-florida-snake|data.oliviero.it/imgprodotto/borsa-florida-snake_170786",
 "Borsa Shopper Cuenca Metal Nero|Collezione Autunno Inverno/2018 Borsa nera da donna tipo shopper in|2017/12/borsa-shopper-cuenca-metal-nero|data.oliviero.it/imgprodotto/borsa-shopper-cuenca-metal-nero_170784",

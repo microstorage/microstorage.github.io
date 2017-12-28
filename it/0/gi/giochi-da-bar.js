@@ -1,4 +1,8 @@
 Gr = [
+"Set 3 freccette S500|Set 3 freccette con punta in metallo, custodia e accessori S500|2017/12/set-3-freccette-s500|data.oliviero.it/imgprodotto/set-3-freccette-s500_147957",
+"Bersaglio per freccette Vega elettronico|Bersaglio elettronico per il gioco delle freccette. Suddivisione in|2017/12/bersaglio-per-freccette-vega-elettronico|data.oliviero.it/imgprodotto/bersaglio-per-freccette-vega-elettronico_150046",
+"Air Hockey Ghibli|Un air hockey per tutta la famiglia, creato per essere utilizzato|2017/12/air-hockey-ghibli|data.oliviero.it/imgprodotto/air-hockey-ghibli_3414_big",
+"Piane di Copertura ALEXANDRA 7|Piane di copertura in nobilitato melaminico (spessore mm. 20) in|2017/12/piane-di-copertura-alexandra-7|data.oliviero.it/imgprodotto/piane-di-copertura-alexandra-7_73392",
 "Tavolo Multi 12 giochi in 1|Porta a casa tua il divertimento e la varietà di una intera sala|2017/12/tavolo-multi-12-giochi-in-1|data.oliviero.it/imgprodotto/tavolo-multi-12-giochi-in-1_8412_big",
 "Biliardo Virginia 7|Pool di dimensioni professionali, trasformabile in tavolo da pranzo|2017/12/biliardo-virginia-7|data.oliviero.it/imgprodotto/biliardo-virginia-7_11192_big",
 "Set 3 freccette EL50|SET 3 FRECCETTE CON PUNTA IN PLASTICA, CUSTODIA E ACCESSORI EL50|2017/12/set-3-freccette-el50|data.oliviero.it/imgprodotto/set-3-freccette-el50_147955",

@@ -1,4 +1,9 @@
 Gr = [
+"Guantoni Boxe 16oz|È l'articolo perfetto per tutti coloro che decidono di iniziare la|2017/12/guantoni-boxe-16oz|data.oliviero.it/imgprodotto/guantoni-boxe-16oz-_169634",
+"Guantoni Cyclone Restyling 8 oz|Caratteristiche: Guantoni Sphinx Cyclone Restyling: Class essential|2017/12/guantoni-cyclone-restyling-8-oz|data.oliviero.it/imgprodotto/guantoni-cyclone-restyling-8-oz_159708",
+"Guanti Boxe Legionarivs|Il guanto GN202 è un tributo al mitico Alessio Sakara, il primo|2017/12/guanti-boxe-legionarivs|data.oliviero.it/imgprodotto/guanti-boxe-legionarivs_171415",
+"Casco da Boxe CS424|Casco in pelle con grata di ferro estraibile. L'ieale per chi pratica|2017/12/casco-da-boxe-cs424|data.oliviero.it/imgprodotto/casco-da-boxe-cs424_155005",
+"Guanti MMA Black Edition|Dopo il grande successo della Black Edition Collection entra|2017/12/guanti-mma-black-edition|data.oliviero.it/imgprodotto/guanti-mma-black-edition_171407",
 "Guanti MMA Impact|Guanto da MMA da allenamento ultra - protettivo soprattutto su|2017/12/guanti-mma-impact|data.oliviero.it/imgprodotto/guanti-mma-impact_171404",
 "Paradenti Titan Pd520|Paradenti LEONE ad arcata singola a doppio grado di densità|2017/12/paradenti-titan-pd520|data.oliviero.it/imgprodotto/paradenti-titan-pd520_19349_big",
 "Guanti MMA L47|Perfetto mix di cura per i dettagli e ricerca dei più attuali trend|2017/12/guanti-mma-l47|data.oliviero.it/imgprodotto/guanti-mma-l47_171416",

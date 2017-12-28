@@ -1,4 +1,6 @@
 Gr = [
+"Gilet Uomo Taglie Forti Blu|Collezione Autunno Inverno/2018 Gilet da uomo taglie forti. Il|2017/12/gilet-uomo-taglie-forti-blu|data.oliviero.it/imgprodotto/gilet-uomo-taglie-forti-blu_169322",
+"Camicia Uomo Taglie Forti Carta da Zucchero|Collezione Primavera Estate Camicia da uomo taglie forti. Il modello|2017/12/camicia-uomo-taglie-forti-carta-da-zucchero|data.oliviero.it/imgprodotto/camicia-uomo-taglie-forti-carta-da-zucchero_166393",
 "Maglia Taglie Forti Uomo Petrolio|Collezione Autunno Inverno/2018 Pullover in misto lana scollo V, con|2017/12/maglia-taglie-forti-uomo-petrolio|data.oliviero.it/imgprodotto/maglia-taglie-forti-uomo-petrolio_170223",
 "T-Shirt Uomo Taglie Forti Verde|Collezione Primavera Estate T-Shirt mezza manica da uomo taglie|2017/12/t-shirt-uomo-taglie-forti-verde|data.oliviero.it/imgprodotto/t-shirt-uomo-taglie-forti-verde_165417",
 "Camicia Uomo Taglie Forti Blu Azzurro|Collezione Autunno Inverno/2018 Camicia uomo taglie forti. Il modello|2017/12/camicia-uomo-taglie-forti-blu-azzurro|data.oliviero.it/imgprodotto/camicia-uomo-taglie-forti-blu-azzurro-n691053ad_173417",

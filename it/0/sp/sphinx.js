@@ -1,4 +1,5 @@
 Gr = [
+"Guantoni Cyclone Restyling 8 oz|Caratteristiche: Guantoni Sphinx Cyclone Restyling: Class essential|2017/12/guantoni-cyclone-restyling-8-oz|data.oliviero.it/imgprodotto/guantoni-cyclone-restyling-8-oz_159708",
 "Guanti MMA KIMURA MX|Caratteristiche: GENUINE LEATHER pelle ultra morbida e liscia|2017/12/guanti-mma-kimura-mx|data.oliviero.it/imgprodotto/guanti-mma-kimura-mx_65961",
 "Guantoni BLACKSTORM Skull Nero 10 oz|Caratteristiche Prodotto: -Prestazione 3/5 -Qualità 4/5 -Sistema di|2017/12/guantoni-blackstorm-skull-nero-10-oz|data.oliviero.it/imgprodotto/guantoni-blackstorm-skull-nero-10-oz_159705",
 "Guantoni Cyclone Restyling 10 oz|Caratteristiche: Guantoni Sphinx Cyclone Restyling: Class essential|2017/12/guantoni-cyclone-restyling-10-oz|data.oliviero.it/imgprodotto/guantoni-cyclone-restyling-10-oz_159704",

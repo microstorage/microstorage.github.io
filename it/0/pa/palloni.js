@@ -1,4 +1,5 @@
 Gr = [
+"Pallone FC Internazionale Skills|Il pallone da calcio FC Internazionale Skills offre un tocco di palla|2017/12/pallone-fc-internazionale-skills|data.oliviero.it/imgprodotto/pallone-fc-internazionale-skills_169696",
 "Pallone Europei 2016 Top Glider|Supera gli avversari con questo pallone da calcio di alta qualità. La|2017/12/pallone-europei-2016-top-glider|data.oliviero.it/imgprodotto/pallone-europei-2016-top-glider_142224",
 "Pallone FC Internazionale Prestige|Il pallone da calcio FC Internazionale Prestige offre un tocco|2017/12/pallone-fc-internazionale-prestige|data.oliviero.it/imgprodotto/pallone-fc-internazionale-prestige_169697",
 "Pallone Calcio Menor|Pallone Nike FootballX Menor. Di dimensioni più piccole rispetto ai|2017/12/pallone-calcio-menor|data.oliviero.it/imgprodotto/pallone-calcio-menor_169698",

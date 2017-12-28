@@ -1,4 +1,5 @@
 Gr = [
+"Specchiera Magica con Trousse Trucchi|Un bellissimo set per sentirsi una vera principessa. La specchiera da|2017/12/specchiera-magica-con-trousse-trucchi|data.oliviero.it/imgprodotto/specchiera-magica-con-trousse-trucchi-64629_156819",
 "Tavolino Elettronico Peppa Pig|Età 3+ Anni Questo robusto tavolino contiene tantissimi giochi|2017/12/tavolino-elettronico-peppa-pig|data.oliviero.it/imgprodotto/tavolino-elettronico-peppa-pig_139608",
 "Play-Doh Cupcake Carnival|Età 3+ anni Divertiti con la Giostra dei Cupcake e crea il tuo|2017/12/play-doh-cupcake-carnival|data.oliviero.it/imgprodotto/play-doh-cupcake-carnival_139522",
 "Carrozzina trendy|Lussuossima completa di elegante borsa con manico ed altezza|2017/12/carrozzina-trendy|data.oliviero.it/imgprodotto/carrozzina-trendy_163919",

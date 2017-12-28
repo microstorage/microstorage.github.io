@@ -1,4 +1,8 @@
 Gr = [
+"Trampolino outdoor|Modello per esterno, disponibile in 5 dimensioni, dalla S alla XXL,|2017/12/trampolino-outdoor|data.oliviero.it/imgprodotto/trampolino-outdoor_153467",
+"Air Hockey Ghibli|Un air hockey per tutta la famiglia, creato per essere utilizzato|2017/12/air-hockey-ghibli|data.oliviero.it/imgprodotto/air-hockey-ghibli_3414_big",
+"Piane di Copertura ALEXANDRA 7|Piane di copertura in nobilitato melaminico (spessore mm. 20) in|2017/12/piane-di-copertura-alexandra-7|data.oliviero.it/imgprodotto/piane-di-copertura-alexandra-7_73392",
+"Tavolo Ping Pong Master Indoor Verde|Modello per interno, verde o blu, con sistema ECS, per l'uso|2017/12/tavolo-ping-pong-master-indoor-verde|data.oliviero.it/imgprodotto/tavolo-ping-pong-master-indoor-verde_83082",
 "Calcio balilla Deluxe con Gettoniera|Deluxe ha una robustissima struttura, in grado di sopportare|2017/12/calcio-balilla-deluxe-con-gettoniera|data.oliviero.it/imgprodotto/calcio-balilla-deluxe-con-gettoniera_72124",
 "Tavolo Multi 12 giochi in 1|Porta a casa tua il divertimento e la varietà di una intera sala|2017/12/tavolo-multi-12-giochi-in-1|data.oliviero.it/imgprodotto/tavolo-multi-12-giochi-in-1_8412_big",
 "Calcio balilla G 5000|Il profilo morbido del mobile, le gambe inclinate dalla linea|2017/12/calcio-balilla-g-5000|data.oliviero.it/imgprodotto/calcio-balilla-g-5000_48286_big",

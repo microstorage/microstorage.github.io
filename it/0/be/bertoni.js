@@ -1,4 +1,9 @@
 Gr = [
+"Spiaggina Ischia Sand|Spiaggina Pieghevole ad ombrello con braccioli a sacca|2017/12/spiaggina-ischia-sand|data.oliviero.it/imgprodotto/spiaggina-ischia-sand_87094",
+"Pareti Laterali 2 mt. con finestra x Market|Telo : polyestere 500D 290 gr./m2, rivestito e spalmato in PVC, con|2017/12/pareti-laterali-2-mt-con-finestra-x-market|data.oliviero.it/imgprodotto/pareti-laterali-2-mt-con-finestra-x-market_87421",
+"Mobiletto Campeggio Cucina 68|Caratteristiche tecniche: Materiale: polyestere Struttura: ferro|2017/12/mobiletto-campeggio-cucina-68|data.oliviero.it/imgprodotto/mobiletto-campeggio-cucina-68_163010",
+"Tenda Mono 2 da Campeggio|Monotelo : polyestere 190T P.U. 800 mm., alluminato termoisolante|2017/12/tenda-mono-2-da-campeggio|data.oliviero.it/imgprodotto/tenda-mono-2-da-campeggio_87362",
+"Sacco a Pelo Easy Nylon Apple|Sacco Letto Easy Nylon Caratteristiche: Esterno: 100% polyestere|2017/12/sacco-a-pelo-easy-nylon-apple|data.oliviero.it/imgprodotto/sacco-a-pelo-easy-nylon-apple_93994",
 "Tenda Grand Chic da Campeggio|Ampia finestratura con zanzariera e copertura antipioggia in kristal|2017/12/tenda-grand-chic-da-campeggio|data.oliviero.it/imgprodotto/tenda-grand-chic-da-campeggio_87328",
 "Capannone Area 40 (5x8)|Capannoni per uso comunità, banchetti, esposizioni fieristiche|2017/12/capannone-area-40-5x8|data.oliviero.it/imgprodotto/capannone-area-40-5x8-_147523",
 "Veranda 3 mt per Gazebo serie Piramide|VERANDA 3 mt. PER GAZEBO SERIE PIRAMIDE 30x30 mm. Telo : polyestere|2017/12/veranda-3-mt-per-gazebo-serie-piramide|data.oliviero.it/imgprodotto/veranda-3-mt-per-gazebo-serie-piramide_149678",

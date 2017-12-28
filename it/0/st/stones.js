@@ -1,4 +1,6 @@
 Gr = [
+"Tavolino da salotto OM-157|Tavolino da salotto con struttura in resina, laccato lucido bianco|2017/12/tavolino-da-salotto-om-157|data.oliviero.it/imgprodotto/tavolino-da-salotto-om-157_136013",
+"Tavolino OM 143 R|Tavolino con base in metallo e top in MDF laccato rosso Materiale|2017/12/tavolino-om-143-r|data.oliviero.it/imgprodotto/tavolino-om-143-r_136010",
 "Caminetto da muro FP 021 B|Caminetti da muro FP/021/B Caminetto a bioetanolo da muro in metallo|2017/12/caminetto-da-muro-fp-021-b|data.oliviero.it/imgprodotto/caminetto-da-muro-fp-021-b_94248",
 "Tavolino OM-145-A|Tavolino con ripiano superiore girevole bianco/essenza Materiale MDF|2017/12/tavolino-om-145-a|data.oliviero.it/imgprodotto/tavolino-om-145-a_94192",
 "Tavolino OM-143-G|Tavolino con base in metallo e top in MDF laccato giallo Materiale|2017/12/tavolino-om-143-g|data.oliviero.it/imgprodotto/tavolino-om-143-g_136009",

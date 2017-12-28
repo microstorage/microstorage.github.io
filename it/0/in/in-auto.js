@@ -1,4 +1,8 @@
 Gr = [
+"Seggiolino Youniverse Fix Black|Il Seggiolino Auto Chicco Youniverse Fix è omologato dai 9 ai 36 Kg|2017/12/seggiolino-youniverse-fix-black|data.oliviero.it/imgprodotto/seggiolino-youniverse-fix-black_173335",
+"Iseos Isofix walnut brown|Iséos IsoFix, la garanzia di un sistema di fissaggio universale per|2017/12/iseos-isofix-walnut-brown|data.oliviero.it/imgprodotto/iseos-isofix-walnut-brown_81734",
+"Easy View Specchietto|Il primo specchietto ruotante a 360 gradi che vi permette di ottenere|2017/12/easy-view-specchietto|data.oliviero.it/imgprodotto/easy-view-specchietto_73424",
+"Rodi Air Protect robin red|Seggiolino auto omologato da 15 a 36 kg. , da 3 a 10 anni. Da buon|2017/12/rodi-air-protect-robin-red|data.oliviero.it/imgprodotto/rodi-air-protect-robin-red_142459",
 "Seggiolino Seat up 012 Rosso 079828|Seat Up 012 è il seggiolino auto di Chicco, omologato come Gruppo|2017/12/seggiolino-seat-up-012-rosso-079828|data.oliviero.it/imgprodotto/seggiolino-seat-up-012-rosso-079828_158621",
 "Seggiolino Auto Oasys 23 FixPlus Evo Red|Il tuo bambino cresce velocemente? Il suo seggiolino cresce con lui!|2017/12/seggiolino-auto-oasys-23-fixplus-evo-red|data.oliviero.it/imgprodotto/seggiolino-auto-oasys-23-fixplus-evo-red_173343",
 "Seggiolino Marco Polo black|nglesina presenta Marco Polo, il seggiolino auto evoluto pensato per|2017/12/seggiolino-marco-polo-black|data.oliviero.it/imgprodotto/seggiolino-marco-polo-black_51697",

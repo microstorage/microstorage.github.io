@@ -1,4 +1,6 @@
 Gr = [
+"Sandalo Baby Each Girl Beige|Collezione Primavera Estate Each Girl è la scarpina primi passi dalla|2017/12/sandalo-baby-each-girl-beige|data.oliviero.it/imgprodotto/sandalo-baby-each-girl-beige-b720ae-c0512_162358",
+"Maxi Maglia e leggings Layette Bianco e Blu|Collezione Primavera Estate Completo da bambina Il modello è composto|2017/12/maxi-maglia-e-leggings-layette-bianco-e-blu|data.oliviero.it/imgprodotto/maxi-maglia-e-leggings-layette-bianco-e-blu-4s305_158612",
 "Tuta Layette Fluo Coral Grigio Melange|Collezione Primavera Estate Tuta da bambino Il modello è composto da|2017/12/tuta-layette-fluo-coral-grigio-melange|data.oliviero.it/imgprodotto/tuta-layette-fluo-coral-grigio-melange-4s303_158610",
 "Doposci Jr. Eolo|GAMBALE IN POLIESTERE E OVATTA CHIUSURA ZIP COLLETTO REGOLABILE CON|2017/12/doposci-jr-eolo|data.oliviero.it/imgprodotto/doposci-jr-eolo_173338",
 "Doposci Jr. Bingo Argento|TOMAIA GAMBALE IN PU E OVATTA TRAPUNTATA CHIUSURA ZIP COLLETTO|2017/12/doposci-jr-bingo-argento|data.oliviero.it/imgprodotto/doposci-jr-bingo-argento_173351",

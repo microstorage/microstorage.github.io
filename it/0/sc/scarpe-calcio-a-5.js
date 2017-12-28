@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Calcetto Mercurial X Finale (TF)|La scarpa da calcio per campi artificiali Nike Mercurial X Finale|2017/12/scarpe-calcetto-mercurial-x-finale-tf|data.oliviero.it/imgprodotto/scarpe-calcetto-mercurial-x-finale-tf-725243-440_140267",
 "Scarpe Calcetto Tiempox Ligera IV TF|La scarpa da calcio per erba artificiale/sintetica Nike TiempoX|2017/12/scarpe-calcetto-tiempox-ligera-iv-tf|data.oliviero.it/imgprodotto/scarpe-calcetto-tiempox-ligera-iv-tf_167062",
 "Scarpe Calcetto Jr TiempoX Legend VI TF|La scarpa da calcio per erba sintetica Nike TiempoX Jr Legend VI FG|2017/12/scarpe-calcetto-jr-tiempox-legend-vi-tf|data.oliviero.it/imgprodotto/scarpe-calcetto-jr-tiempox-legend-vi-tf-819191-707_160752",
 "Scarpe Calcetto Jr. Mercurialx Victory VI TF|Progettata con tomaia testurizzata e suola in gomma antitraccia, la|2017/12/scarpe-calcetto-jr-mercurialx-victory-vi-tf|data.oliviero.it/imgprodotto/scarpe-calcetto-jr-mercurialx-victory-vi-tf_167094",

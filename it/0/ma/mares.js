@@ -1,4 +1,5 @@
 Gr = [
+"Muta Umida donna Shorty Manta|Bifoderata Cerniera posteriore Tirazip e sistema di bloccaggio|2017/12/muta-umida-donna-shorty-manta|data.oliviero.it/imgprodotto/muta-umida-donna-shorty-manta_165670",
 "Muta Umida Uomo Shorty Manta|Bifoderata Cerniera posteriore Tirazip e sistema di bloccaggio|2017/12/muta-umida-uomo-shorty-manta|data.oliviero.it/imgprodotto/muta-umida-uomo-shorty-manta_165668",
 "Set Snorkeling Jr Pirate|MASCHERA : MASSIMO COMFORT REGOLAZIONE DEL CINTURINO FACILE|2017/12/set-snorkeling-jr-pirate|data.oliviero.it/imgprodotto/set-snorkeling-jr-pirate_165665",
 "Pinne Fluida Jr|Pinna ideale durevole per lo snorkeling. Modello con tallone chiuso|2017/12/pinne-fluida-jr|data.oliviero.it/imgprodotto/pinne-fluida-jr_147752",

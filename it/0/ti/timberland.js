@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Uomo Giallo|Collezione Autunno Inverno/2018 La nostra linea Bradstreet offre|2017/12/scarpe-uomo-giallo|data.oliviero.it/imgprodotto/scarpe-uomo-giallo_171133",
 "Cardigan Uomo Dark Sapphire|Collezione Autunno Inverno/2018 Proteggiti dal freddo con questo|2017/12/cardigan-uomo-dark-sapphire|data.oliviero.it/imgprodotto/cardigan-uomo-dark-sapphire_171020",
 "Scarpa Uomo Marrone Scuro|Collezione Autunno Inverno/2018 Le stesse caratteristiche e la|2017/12/scarpa-uomo-marrone-scuro|data.oliviero.it/imgprodotto/scarpa-uomo-marrone-scuro_171096",
 "Camicia Uomo Rosso|Collezione Autunno Inverno/2018 Se cerchi un look audace dal tocco|2017/12/camicia-uomo-rosso|data.oliviero.it/imgprodotto/camicia-uomo-rosso_171004",

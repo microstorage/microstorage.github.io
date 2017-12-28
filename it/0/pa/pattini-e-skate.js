@@ -1,4 +1,7 @@
 Gr = [
+"WaveBoard Urban Wave USA Flag|Waveboard Nextreme urban wave in Polipropilene termoplastico di alta|2017/12/waveboard-urban-wave-usa-flag|data.oliviero.it/imgprodotto/waveboard-urban-wave-usa-flag_155008",
+"Skateboard STREET PRO HIP HOP NEW|Descrizione: Dimensioni tavola : 79x20 cm Materiale tavola|2017/12/skateboard-street-pro-hip-hop-new|data.oliviero.it/imgprodotto/skateboard-street-pro-hip-hop-new_162369",
+"Surfskate Kauai 31\"|Il surfskate KAUAI 31 è un'alternativa per coloro che amano navigare|2017/12/surfskate-kauai-31|data.oliviero.it/imgprodotto/surfskate-kauai-31_165544",
 "Roller Macroblade 80|Caratteristiche tecniche: Macroblade 80 dispone di componenti di alta|2017/12/roller-macroblade-80|data.oliviero.it/imgprodotto/roller-macroblade-80_80391",
 "Pattini in linea FIREWHEEL PRO|Descrizione: Asse ruota : alluminio - spessore 2,2 mm Scarpetta|2017/12/pattini-in-linea-firewheel-pro|data.oliviero.it/imgprodotto/pattini-in-linea-firewheel-pro-colore-nero_162397",
 "Pattini In-Line Easy Roller Rosa Regolabili|Pattini X-Line Easy Roller Regolabili Rosa, pattini regolabili fino|2017/12/pattini-in-line-easy-roller-rosa-regolabili|data.oliviero.it/imgprodotto/pattini-in-line-easy-roller-rosa-regolabili_165988",

@@ -1,4 +1,5 @@
 Gr = [
+"Gonna Tennis Paramount Rosso|La gonna da tennis 30 cm NikeCourt Pure - Donna è studiata per|2017/12/gonna-tennis-paramount-rosso|data.oliviero.it/imgprodotto/gonna-tennis-paramount-rosso_167818",
 "Abito Tennis Donna Nero|L'abito da tennis NikeCourt Pure - Donna è realizzato in tessuto|2017/12/abito-tennis-donna-nero|data.oliviero.it/imgprodotto/abito-tennis-donna-nero_169649",
 "Gonna K2S4UD 00458|Collezione Le Coeur de Twin Set Gonna lunga dal taglio asimmetrico|2017/12/gonna-k2s4ud-00458|data.oliviero.it/imgprodotto/gonna-k2s4ud-00458_146948",
 "Gonna Tennis Nikecourt Victory Hyper Nero|La gonna da tennis NikeCourt Victory - Donna offre comfort e sostegno|2017/12/gonna-tennis-nikecourt-victory-hyper-nero|data.oliviero.it/imgprodotto/gonna-tennis-nikecourt-victory-hyper-nero_167813",

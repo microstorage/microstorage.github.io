@@ -1,4 +1,5 @@
 Gr = [
+"Panca Inversione Diamond D35|Regolazione altezza 145-200 cm Spessore imbottiture 55 mm|2017/12/panca-inversione-diamond-d35|data.oliviero.it/imgprodotto/panca-inversione-diamond-d35_173195",
 "Recumbent Diamond D41|Recumbent Diamond D41 SISTEMA FRENANTE elettromagnetico|2017/12/recumbent-diamond-d41|data.oliviero.it/imgprodotto/recumbent-diamond-d41_134931",
 "Gym bike Diamond D55|JK Fitness Diamond D55 è una gym bike professionale dotata di display|2017/12/gym-bike-diamond-d55|data.oliviero.it/imgprodotto/gym-bike-diamond-d55_93755",
 "Cyclette Diamond D70|Cyclette Diamond D70 Sistema Frenante Elettromagnetico potenza max|2017/12/cyclette-diamond-d70|data.oliviero.it/imgprodotto/cyclette-diamond-d70_143431",

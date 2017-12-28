@@ -1,4 +1,6 @@
 Gr = [
+"Pullover Donna Nero|Collezione Autunno Inverno/2018 Maglia nera brillante da donna dal|2017/12/pullover-donna-nero|data.oliviero.it/imgprodotto/pullover-donna-nero_170661",
+"Borsa Dallas Metal Splatter|Collezione Autunno Inverno/2018 Borsa a tracolla blu da donna in|2017/12/borsa-dallas-metal-splatter|data.oliviero.it/imgprodotto/borsa-dallas-metal-splatter_170813",
 "T-Shirt Donna Sami|Collezione Autunno Inverno/2018 Maglietta leggera a manica lunga da|2017/12/t-shirt-donna-sami|data.oliviero.it/imgprodotto/t-shirt-donna-sami_170866",
 "Borsa Lisboa Eternal|Borsa a tracolla nera di forma arrotondata con ricami e strass|2017/12/borsa-lisboa-eternal|data.oliviero.it/imgprodotto/borsa-lisboa-eternal-67x51j24009_155386",
 "Maglia Masi Nero|Collezione Autunno Inverno/2018 Maglietta nera da donna con maniche|2017/12/maglia-masi-nero|data.oliviero.it/imgprodotto/maglia-masi-nero_170868",

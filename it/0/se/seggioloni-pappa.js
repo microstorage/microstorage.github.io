@@ -1,4 +1,10 @@
 Gr = [
+"Seggiolone Polly 2 Start Peaceful Jungle|Seggiolone pappa dotato di un sistema di regolazione dell'ampiezza|2017/12/seggiolone-polly-2-start-peaceful-jungle|data.oliviero.it/imgprodotto/seggiolone-polly-2-start-peaceful-jungle_167554",
+"Seggiolone Gusto 238|Istante Gusto è il nuovissimo seggiolone di Cam per magiare, giocare|2017/12/seggiolone-gusto-238|data.oliviero.it/imgprodotto/seggiolone-gusto-238_171514",
+"Seggiolone Polly 2 Start Crocodile|Seggiolone pappa dotato di un sistema di regolazione dell'ampiezza|2017/12/seggiolone-polly-2-start-crocodile|data.oliviero.it/imgprodotto/seggiolone-polly-2-start-crocodile_167550",
+"Seggiolone Campione 192|Interamente progettato e prodotto in Italia. SEMPLICITA': si apre|2017/12/seggiolone-campione-192|data.oliviero.it/imgprodotto/seggiolone-campione-192_155406",
+"Seggiolone Campione S2300 C226|6 altezze, 4 inclinazioni dello schienale, movimento sincronizzato di|2017/12/seggiolone-campione-s2300-c226|data.oliviero.it/imgprodotto/seggiolone-campione-s2300-c226_156041",
+"Seggiolone Campione 198|Interamente progettato e prodotto in Italia. SEMPLICITA': si apre|2017/12/seggiolone-campione-198|data.oliviero.it/imgprodotto/seggiolone-campione-198_155407",
 "Seggiolone Istante S2400 C219|7 altezze, 4 inclinazioni dello schienale utilizzabile dalla nascita|2017/12/seggiolone-istante-s2400-c219|data.oliviero.it/imgprodotto/seggiolone-istante-s2400-c219_156045",
 "Seggiolone B-Fun Beige Sabbia|B.Fun è il seggiolone multifunzione con caratteristiche tecnico|2017/12/seggiolone-b-fun-beige-sabbia|data.oliviero.it/imgprodotto/seggiolone-b-fun-beige-sabbia_172596",
 "Seggiolone Istante S2400 235|Istante Seggiolone è il nuovissimo seggiolone di Cam per magiare|2017/12/seggiolone-istante-s2400-235|data.oliviero.it/imgprodotto/seggiolone-istante-s2400-235_171516",

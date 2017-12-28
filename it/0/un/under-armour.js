@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Allenamento Uomo Grigio Ua Charged Legend TR|Tomaia jacquard leggera con pannelli sovrapposti in TPU su punta|2017/12/scarpe-allenamento-uomo-grigio-ua-charged-legend-tr|data.oliviero.it/imgprodotto/scarpe-allenamento-uomo-grigio-ua-charged-legend-tr-1293035-076_160523",
 "Scarpe Running Donna Ua W Charged Bandit 2|La tomaia melangiata è leggera, traspirante ed estremamente|2017/12/scarpe-running-donna-ua-w-charged-bandit-2|data.oliviero.it/imgprodotto/scarpe-running-donna-ua-w-charged-bandit-2-1273961-002_160529",
 "Scarpe Basket Ua Torch Fade|La tomaia in pelle leggera con tallone e avampiede in schiuma|2017/12/scarpe-basket-ua-torch-fade|data.oliviero.it/imgprodotto/scarpe-basket-ua-torch-fade-1274423-001_151967",
 "Scarpe Basket Ua Clutchfit Drive 3|La tecnologia ClutchFit® aggiornata respira, si tende e supporta il|2017/12/scarpe-basket-ua-clutchfit-drive-3|data.oliviero.it/imgprodotto/scarpe-basket-ua-clutchfit-drive-3-1269274-108_160539",

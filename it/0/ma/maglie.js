@@ -1,4 +1,7 @@
 Gr = [
+"Pullover Donna Nero|Collezione Autunno Inverno/2018 Maglia nera brillante da donna dal|2017/12/pullover-donna-nero|data.oliviero.it/imgprodotto/pullover-donna-nero_170661",
+"Maglia donna P3S4BP 00428|Maglia da donna composta da due strati. La parte inferiore è in|2017/12/maglia-donna-p3s4bp-00428|data.oliviero.it/imgprodotto/maglia-donna-p3s4bp-00428_146441",
+"Coprispalle donna C15209 J0901 04427|Coprispalle da donna in tessuto lurex senza allacciatura, maniche|2017/12/coprispalle-donna-c15209-j0901-04427|data.oliviero.it/imgprodotto/coprispalle-donna-c15209-j0901-04427_146658",
 "Cardigan Uomo Dark Sapphire|Collezione Autunno Inverno/2018 Proteggiti dal freddo con questo|2017/12/cardigan-uomo-dark-sapphire|data.oliviero.it/imgprodotto/cardigan-uomo-dark-sapphire_171020",
 "Maglia Uomo Rosso|Collezione Autunno Inverno/2018 Questo pullover girocollo in maglia|2017/12/maglia-uomo-rosso|data.oliviero.it/imgprodotto/maglia-uomo-rosso_170611",
 "Maglia donna T2S4F2 00252|Maglia da donna con maniche a 3/4, tessuto abbellito da paillettes|2017/12/maglia-donna-t2s4f2-00252|data.oliviero.it/imgprodotto/maglia-donna-t2s4f2-00252_146554",

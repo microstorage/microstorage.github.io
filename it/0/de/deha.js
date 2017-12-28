@@ -1,4 +1,7 @@
 Gr = [
+"Giubbotto Ecopelliccia Donna Nero|Collezione Autunno Inverno/2018 giacca con cerniera in metallo con|2017/12/giubbotto-ecopelliccia-donna-nero|data.oliviero.it/imgprodotto/giubbotto-ecopelliccia-donna-nero_170419",
+"T-Shirt Stampata Donna nero|Collezione Autunno Inverno/2018 t-shirt con inserti in rete su collo|2017/12/t-shirt-stampata-donna-nero|data.oliviero.it/imgprodotto/t-shirt-stampata-donna-nero_170427",
+"Pantaloni Sportivi Donna Dark Grey Melange|Collezione Autunno Inverno/2018 pantalone jogger in felpa pesante|2017/12/pantaloni-sportivi-donna-dark-grey-melange|data.oliviero.it/imgprodotto/pantaloni-sportivi-donna-dark-grey-melange_170339",
 "Felpa Donna Rosso|Collezione Autunno Inverno/2018 felpa ampia che si allarga sul fondo|2017/12/felpa-donna-rosso|data.oliviero.it/imgprodotto/felpa-donna-rosso_170379",
 "T-Shirt Stampata Donna Nero Grigio|Collezione Autunno Inverno/2018 schiena e collo in jersey tinta unita|2017/12/t-shirt-stampata-donna-nero-grigio|data.oliviero.it/imgprodotto/t-shirt-stampata-donna-nero-grigio_170429",
 "T-Shirt Felpa Donna Nero|Collezione Autunno Inverno/2018 maglietta ampia con mezza manica|2017/12/t-shirt-felpa-donna-nero|data.oliviero.it/imgprodotto/t-shirt-felpa-donna-nero_170346",

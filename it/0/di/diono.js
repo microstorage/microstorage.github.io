@@ -1,4 +1,5 @@
 Gr = [
+"Easy View Specchietto|Il primo specchietto ruotante a 360 gradi che vi permette di ottenere|2017/12/easy-view-specchietto|data.oliviero.it/imgprodotto/easy-view-specchietto_73424",
 "Dreamliner culla viaggio red|La Diono Dreamliner è una culla completa da casa e da viaggio|2017/12/dreamliner-culla-viaggio-red|data.oliviero.it/imgprodotto/dreamliner-culla-viaggio-red_146215",
 "Shade maker copertura|Estendete la vostra capotta del passeggino con l'innovativa copertura|2017/12/shade-maker-copertura|data.oliviero.it/imgprodotto/shade-maker-copertura_73709",
 "My handle maniglia|Progettato per garantire che il vostro bambino al sicuro al tuo|2017/12/my-handle-maniglia|data.oliviero.it/imgprodotto/my-handle-maniglia_152229",

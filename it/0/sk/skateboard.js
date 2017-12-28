@@ -1,4 +1,7 @@
 Gr = [
+"WaveBoard Urban Wave USA Flag|Waveboard Nextreme urban wave in Polipropilene termoplastico di alta|2017/12/waveboard-urban-wave-usa-flag|data.oliviero.it/imgprodotto/waveboard-urban-wave-usa-flag_155008",
+"Skateboard STREET PRO HIP HOP NEW|Descrizione: Dimensioni tavola : 79x20 cm Materiale tavola|2017/12/skateboard-street-pro-hip-hop-new|data.oliviero.it/imgprodotto/skateboard-street-pro-hip-hop-new_162369",
+"Surfskate Kauai 31\"|Il surfskate KAUAI 31 è un'alternativa per coloro che amano navigare|2017/12/surfskate-kauai-31|data.oliviero.it/imgprodotto/surfskate-kauai-31_165544",
 "Skateboard TRIBE PRO WHITE SKULL|Descrizione: Dimensioni tavola : 79x20 cm Materiale tavola|2017/12/skateboard-tribe-pro-white-skull|data.oliviero.it/imgprodotto/skateboard-tribe-pro-white-skull_162367",
 "Skateboard Rocket Complete Fade Series|Skateboard perfetto per i principianti Deck: 7 strati macchiato|2017/12/skateboard-rocket-complete-fade-series|data.oliviero.it/imgprodotto/skateboard-rocket-complete-fade-series_157623",
 "Skateboard Rocket Complete Eclipse Series|Nuova gamma da Skateboards Rocket! Deck: 7 strati Hardrock Acero|2017/12/skateboard-rocket-complete-eclipse-series|data.oliviero.it/imgprodotto/skateboard-rocket-complete-eclipse-series_157625",

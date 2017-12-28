@@ -1,4 +1,12 @@
 Gr = [
+"Scarpiera 42.45.38|MADE IN ITALY Serie Nettuno arreda case e uffici Colore Bianco|2017/12/scarpiera-42-45-38|data.oliviero.it/imgprodotto/scarpiera-42-45-38_55478",
+"Cameretta Livia|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/12/cameretta-livia|data.oliviero.it/imgprodotto/cameretta-livia-gt4005_160070",
+"Cameretta Tiziana|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/12/cameretta-tiziana|data.oliviero.it/imgprodotto/cameretta-tiziana-gt4052_160216",
+"Scarpiera con specchio 42.43.39|MADE IN ITALY Serie Nettuno arreda case e uffici Colore bianco|2017/12/scarpiera-con-specchio-42-43-39|data.oliviero.it/imgprodotto/scarpiera-con-specchio-42-43-39_74108",
+"Letto Matrimoniale Priamo con contenitore|Caratteristiche Dimensioni letto 210x170x37 cm Dimensioni testiera|2017/12/letto-matrimoniale-priamo-con-contenitore|data.oliviero.it/imgprodotto/letto-matrimoniale-priamo-con-contenitore-musa_153605",
+"Mobile Libreria 80.53.027|MADE IN ITALY Colore rovere chiaro come da immagine Dimensioni: H:|2017/12/mobile-libreria-80-53-027|data.oliviero.it/imgprodotto/mobile-libreria-80-53-027_74135",
+"Cameretta Enea|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/12/cameretta-enea|data.oliviero.it/imgprodotto/cameretta-enea-gt4007_160091",
+"Letto Matrimoniale Nap Rete Fissa|Caratteristiche Dimensioni letto 216x169x31 cm Dimensioni testiera|2017/12/letto-matrimoniale-nap-rete-fissa|data.oliviero.it/imgprodotto/letto-matrimoniale-nap-rete-fissa-musa_153594",
 "Letto Matrimoniale Borea Ecopelle Rete Fissa|Caratteristiche Dimensioni letto 207x176x37cm Dimensioni testiera|2017/12/letto-matrimoniale-borea-ecopelle-rete-fissa|data.oliviero.it/imgprodotto/letto-matrimoniale-borea-ecopelle-rete-fissa-musa_153584",
 "Mobile Libreria 80.38.030|MADE IN ITALY Colore noce come da immagine Dimensioni: H: 200 cm. P:|2017/12/mobile-libreria-80-38-030|data.oliviero.it/imgprodotto/mobile-libreria-80-38-030_74120",
 "Mobiletto 41.42.39|MADE IN ITALY La serie \"Sprint\" di \"Valentini\" comprende mobiletti|2017/12/mobiletto-41-42-39|data.oliviero.it/imgprodotto/mobiletto-41-42-39_55418",

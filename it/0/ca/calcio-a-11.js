@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Calcio X 16.3 FG|Crea lo scompiglio, sorprendi la difesa. Fatti largo tra gli|2017/12/scarpe-calcio-x-16-3-fg|data.oliviero.it/imgprodotto/scarpe-calcio-x-16-3-fg-bb5855_164449",
 "Scarpe Calcio Copa Mundial|Un buon motivo per scegliere la scarpa più popolare di tutti i tempi|2017/12/scarpe-calcio-copa-mundial|data.oliviero.it/imgprodotto/scarpe-calcio-copa-mundial-015110_151573",
 "Scarpe Calcio MRL Club MD|La MRL Club mantiene le caratteristiche base di tocco e calzata|2017/12/scarpe-calcio-mrl-club-md|data.oliviero.it/imgprodotto/scarpe-calcio-mrl-club-md-p1ga160637_151173",
 "Scarpe Calcio Uomo Tiempo Myst FG|La scarpa da calcio per terreni duri Nike Tiempo Mystic V - uomo|2017/12/scarpe-calcio-uomo-tiempo-myst-fg|data.oliviero.it/imgprodotto/scarpe-calcio-uomo-tiempo-myst-fg-819236-707_159917",

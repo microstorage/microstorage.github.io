@@ -1,4 +1,7 @@
 Gr = [
+"Marsupio Front Marina|Il marsupio per muoversi agevolmente in totale libertà sempre al|2017/12/marsupio-front-marina|data.oliviero.it/imgprodotto/marsupio-front-marina_154915",
+"Fascia Porta Bebè Carry Sling 510 cm Pacific|Fascia porta bebè Carry Sling Pacific 510 cm La Carry Sling di color|2017/12/fascia-porta-bebe-carry-sling-510-cm-pacific|data.oliviero.it/imgprodotto/fascia-porta-beb%C3%A8-carry-sling-510-cm-pacific_158571",
+"Fascia impermeabile Raincover|AMAZONAS Raincover - protegge il tuo bambino dall'umidità e la|2017/12/fascia-impermeabile-raincover|data.oliviero.it/imgprodotto/fascia-impermeabile-raincover_84067",
 "Fascia Porta Bebè Carry Sling 510 cm Saffron|Fascia porta bebè Carry Sling Saffron 510 cm La Carry Sling di color|2017/12/fascia-porta-bebe-carry-sling-510-cm-saffron|data.oliviero.it/imgprodotto/fascia-porta-beb%C3%A8-carry-sling-510-cm-saffron_84050",
 "Fascia Porta Bebè Carry Baby Petrol|Fascia porta bebè Carry Baby Petrol Anche se realizzate in misura|2017/12/fascia-porta-bebe-carry-baby-petrol|data.oliviero.it/imgprodotto/fascia-porta-beb%C3%A8-carry-baby-petrol_158732",
 "Marsupio Porta Bebè Smart Carrier Blueberry|Marsupio Smart Carrier Blueberry Il marsupio SMART CARRIER Blueberry|2017/12/marsupio-porta-bebe-smart-carrier-blueberry|data.oliviero.it/imgprodotto/marsupio-porta-beb%C3%A8-smart-carrier-blueberry_84074",

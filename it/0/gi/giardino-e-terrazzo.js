@@ -1,4 +1,7 @@
 Gr = [
+"Pareti Laterali 2 mt. con finestra x Market|Telo : polyestere 500D 290 gr./m2, rivestito e spalmato in PVC, con|2017/12/pareti-laterali-2-mt-con-finestra-x-market|data.oliviero.it/imgprodotto/pareti-laterali-2-mt-con-finestra-x-market_87421",
+"Struttura Porta-Amaca Madera|Struttura porta-amaca Madera In Giardino o in campeggio si trova|2017/12/struttura-porta-amaca-madera|data.oliviero.it/imgprodotto/struttura-porta-amaca-madera_82605",
+"Beach set Tonga Vulcano|Lo stand nero verniciato a polvere e l'amaca nel colore popolare|2017/12/beach-set-tonga-vulcano|data.oliviero.it/imgprodotto/beach-set-tonga-vulcano_82134",
 "Gazebo Rodi 3x4 Ecru|Gazebo Ferro 3x4 Metri Struttura in ferro verniciato a polvere|2017/12/gazebo-rodi-3x4-ecru|data.oliviero.it/imgprodotto/gazebo-rodi-3x4-ecru_146605",
 "Ombrellone Garden 3m Bianco|Ombrellone diam 3 m in alluminio con palo centrale diam 38 mm,|2017/12/ombrellone-garden-3m-bianco|data.oliviero.it/imgprodotto/ombrellone-garden-3m-bianco_108490",
 "Dondolo Grande|Dondolo in acciaio Caratterstiche tecniche: Telaio in acciaio tondo|2017/12/dondolo-grande|data.oliviero.it/imgprodotto/dondolo-grande_87058",

@@ -1,4 +1,8 @@
 Gr = [
+"Camicia Uomo Taglie Forti Avio|Collezione Autunno Inverno/2018 Camicia da uomo taglie forti. Il|2017/12/camicia-uomo-taglie-forti-avio|data.oliviero.it/imgprodotto/camicia-uomo-taglie-forti-avio_168560",
+"Jeans Taglie Forti Uomo Jeep|Collezione Primavera Estate Jeans uomo taglie forti con allacciatura|2017/12/jeans-taglie-forti-uomo-jeep|data.oliviero.it/imgprodotto/jeans-taglie-forti-uomo-jeep_164881",
+"Boxer taglie forti 100 grigio|Boxer uomo taglie forti con bottone realizzato in cotone 100%|2017/12/boxer-taglie-forti-100-grigio|data.oliviero.it/imgprodotto/boxer-taglie-forti-100-grigio_63512",
+"Accappatoio taglie forti bianco OKEY|Accappatoio uomo ideato per taglie forti. Modello classico im pura|2017/12/accappatoio-taglie-forti-bianco-okey|data.oliviero.it/imgprodotto/accappatoio-taglie-forti-bianco-okey_23938_big",
 "100 gr Uomo Taglie Forti Trulli Nero|Piumino da uomo taglie forti. Il modello presenta allacciatura|2017/12/100-gr-uomo-taglie-forti-trulli-nero|data.oliviero.it/imgprodotto/100-gr-uomo-taglie-forti-trulli-nero_170897",
 "Pantalone Uomo Taglie Forti Liberio Nero|Collezione Primavera Estate Panralone casual da uomo taglie forti. Il|2017/12/pantalone-uomo-taglie-forti-liberio-nero|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-liberio-nero_164219",
 "Jeans taglie forti uomo Tuvok|Collezione Primavera Estate Jeans da uomo taglie Forti. Il modello|2017/12/jeans-taglie-forti-uomo-tuvok|data.oliviero.it/imgprodotto/jeans-taglie-forti-uomo-tuvok_147825",

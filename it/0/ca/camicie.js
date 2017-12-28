@@ -1,4 +1,7 @@
 Gr = [
+"Camicia Uomo Taglie Forti Avio|Collezione Autunno Inverno/2018 Camicia da uomo taglie forti. Il|2017/12/camicia-uomo-taglie-forti-avio|data.oliviero.it/imgprodotto/camicia-uomo-taglie-forti-avio_168560",
+"Camicia Taglie Forti Uomo Blu|Collezione Autunno Inverno/2018 Camicia uomo taglie forti. Il modello|2017/12/camicia-taglie-forti-uomo-blu|data.oliviero.it/imgprodotto/camicia-taglie-forti-uomo-blu_173418",
+"Camicia Uomo Taglie Forti Carta da Zucchero|Collezione Primavera Estate Camicia da uomo taglie forti. Il modello|2017/12/camicia-uomo-taglie-forti-carta-da-zucchero|data.oliviero.it/imgprodotto/camicia-uomo-taglie-forti-carta-da-zucchero_166393",
 "Camicia donna C15227 T1294|Camicia Casual da donna dalla vestibilità slim, mezze maniche|2017/12/camicia-donna-c15227-t1294|data.oliviero.it/imgprodotto/camicia-donna-c15227-t1294_147068",
 "Camicia Uomo Taglie Forti Blu Azzurro|Collezione Autunno Inverno/2018 Camicia uomo taglie forti. Il modello|2017/12/camicia-uomo-taglie-forti-blu-azzurro|data.oliviero.it/imgprodotto/camicia-uomo-taglie-forti-blu-azzurro-n691053ad_173417",
 "Camicia Taglie Forti Uomo Bordeaux|Collezione Autunno Inverno/2018 Camicia uomo taglie forti. Il modello|2017/12/camicia-taglie-forti-uomo-bordeaux|data.oliviero.it/imgprodotto/camicia-taglie-forti-uomo-bordeaux_173419",

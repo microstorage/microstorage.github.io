@@ -1,4 +1,11 @@
 Gr = [
+"Supporto Dorsale|Supporto dorsale che aiuta ad alleviare i dolori legati al dorso Dona|2017/12/supporto-dorsale|data.oliviero.it/imgprodotto/supporto-dorsale_171653",
+"Tapis Roulant TRX 50 S EVO|Caratteristiche Diametro dei rulli anteriore ø48 mm - posteriore ø42|2017/12/tapis-roulant-trx-50-s-evo|data.oliviero.it/imgprodotto/tapis-roulant-trx-50-s-evo_157605",
+"Panca Ginnica Smile Gym|Attrezzo home fitness composto da una base d'appoggio con tappetino|2017/12/panca-ginnica-smile-gym|data.oliviero.it/imgprodotto/panca-ginnica-smile-gym_71326",
+"Panca Inversione Diamond D35|Regolazione altezza 145-200 cm Spessore imbottiture 55 mm|2017/12/panca-inversione-diamond-d35|data.oliviero.it/imgprodotto/panca-inversione-diamond-d35_173195",
+"Vogatore V-Rower|Vogatore dalle ottime prestazioni e dalla struttura robusta. Grazie|2017/12/vogatore-v-rower|data.oliviero.it/imgprodotto/vogatore-v-rower_168536",
+"Cyclette BRX 60|Cyclette BRX 60. Sistema di frenaggio magnetico su 8 posizioni|2017/12/cyclette-brx-60|data.oliviero.it/imgprodotto/cyclette-brx-60_67923",
+"Tappetino Pieghevole Oxford|Tappetino pieghevole Gommapiuma interna Realizzato in materiale|2017/12/tappetino-pieghevole-oxford|data.oliviero.it/imgprodotto/tappetino-pieghevole-oxford_74531",
 "Bowflex Max Trainer M5|Bowflex MAX Trainer M5 è il più modello ricco di funzionalità della|2017/12/bowflex-max-trainer-m5|data.oliviero.it/imgprodotto/bowflex-max-trainer-m5_140006",
 "Tapis Roulant St 5000|SCOPRI IL NUOVO VIC 7000 DISPLAY TOUCH SCREEN E WiFi CLICCA QUI Tapis|2017/12/tapis-roulant-st-5000|data.oliviero.it/imgprodotto/tapis-roulant-st-5000_127097",
 "Il tapis roulant|Libro. Conosciuto anche con il nome di nastro trasportatore|2017/12/il-tapis-roulant|data.oliviero.it/imgprodotto/il-tapis-roulant_13923_big",

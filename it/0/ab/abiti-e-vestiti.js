@@ -1,4 +1,5 @@
 Gr = [
+"Abito donna S3S4AB 00440|Abito intero da donna in maglia elasticizzata (la parte centrale)|2017/12/abito-donna-s3s4ab-00440|data.oliviero.it/imgprodotto/abito-donna-s3s4ab-00440_146546",
 "Abito donna Lingerie LS4ABB 00120|Collezione Lingerie Twin Set Abito intero da donna con allacciatura|2017/12/abito-donna-lingerie-ls4abb-00120|data.oliviero.it/imgprodotto/abito-donna-lingerie-ls4abb-00120_146782",
 "Abito donna S2S4UC 00006|Abito intero da donna con allacciatura laterale tramite zip|2017/12/abito-donna-s2s4uc-00006|data.oliviero.it/imgprodotto/abito-donna-s2s4uc-00006_146797",
 "Abito donna Lingerie LS4ABB 00006|Collezione Lingerie Twin Set Abito intero da donna con allacciatura|2017/12/abito-donna-lingerie-ls4abb-00006|data.oliviero.it/imgprodotto/abito-donna-lingerie-ls4abb-00006_146802",

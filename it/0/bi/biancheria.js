@@ -1,4 +1,6 @@
 Gr = [
+"Completo Lenzuola Frozen Neve|Completo lenzuola composto da lenzuolo con angoli, lenzuolo da sopra|2017/12/completo-lenzuola-frozen-neve|data.oliviero.it/imgprodotto/completo-lenzuola-frozen-neve_153902",
+"Trapunta Vivien Aviazione|TRAPUNTA PER LETTO MATRIMONIALE IN FINISSIMO RASO DI PURO COTONE|2017/12/trapunta-vivien-aviazione|data.oliviero.it/imgprodotto/trapunta-vivien-aviazione_169064",
 "Completo Copripiumino City Grigio|Tessuto di puro cotone. Colore vivo. Singolo Sacco 155x200 cm|2017/12/completo-copripiumino-city-grigio|data.oliviero.it/imgprodotto/completo-copripiumino-city-grigio_166719",
 "Lenzuola Piane Pantone Twilight Blue|Lenzuolo da sopra in puro cotone tinta unita, coordinabile con tutti|2017/12/lenzuola-piane-pantone-twilight-blue|data.oliviero.it/imgprodotto/lenzuola-piane-pantone-twilight-blue_115317",
 "Completo Copripiumino Princess Magia|Completo copripiumino composto da sacco e federa Singolo Sacco|2017/12/completo-copripiumino-princess-magia|data.oliviero.it/imgprodotto/completo-copripiumino-princess-magia_153926",

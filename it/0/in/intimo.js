@@ -1,4 +1,6 @@
 Gr = [
+"Boxer taglie forti 100 grigio|Boxer uomo taglie forti con bottone realizzato in cotone 100%|2017/12/boxer-taglie-forti-100-grigio|data.oliviero.it/imgprodotto/boxer-taglie-forti-100-grigio_63512",
+"Accappatoio taglie forti bianco OKEY|Accappatoio uomo ideato per taglie forti. Modello classico im pura|2017/12/accappatoio-taglie-forti-bianco-okey|data.oliviero.it/imgprodotto/accappatoio-taglie-forti-bianco-okey_23938_big",
 "T-shirt taglie forti uomo nero 500|T-Shirt corpo uomo realizzata in puro Cotone, scollo a V, maniche|2017/12/t-shirt-taglie-forti-uomo-nero-500|data.oliviero.it/imgprodotto/t-shirt-taglie-forti-uomo-nero-500_24239_big",
 "Slip uomo Con Apertura 1200|Tipologia: Slip con apertura uomo Tessuto: 100% cotone pettinato|2017/12/slip-uomo-con-apertura-1200|data.oliviero.it/imgprodotto/slip-uomo-con-apertura-1200_20685_big",
 "Boxer bianco 2pz 2481|Tipologia: Confezione da 2 boxer uomo Tessuto: 52% modal, 42% cotone|2017/12/boxer-bianco-2pz-2481|data.oliviero.it/imgprodotto/boxer-bianco-2pz-2481_20466_big",

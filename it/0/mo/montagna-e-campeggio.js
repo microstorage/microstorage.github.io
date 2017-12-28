@@ -1,4 +1,7 @@
 Gr = [
+"Sacco a Pelo Easy Nylon Apple|Sacco Letto Easy Nylon Caratteristiche: Esterno: 100% polyestere|2017/12/sacco-a-pelo-easy-nylon-apple|data.oliviero.it/imgprodotto/sacco-a-pelo-easy-nylon-apple_93994",
+"Sedia Pieghevole York|Caratteristiche Telaio in alluminio diam. 25 mm Tessuto poliestere|2017/12/sedia-pieghevole-york|data.oliviero.it/imgprodotto/sedia-pieghevole-york_150024",
+"Brandina Pieghevole Morfeo|Brandina pieghevole dalle dimensioni compatte, dotata di una|2017/12/brandina-pieghevole-morfeo|data.oliviero.it/imgprodotto/brandina-pieghevole-morfeo_150062",
 "Grembiule mod. lungo|Colore :Bianco Composizione : tessuto 65% poliestere e 35% cotone|2017/12/grembiule-mod-lungo|data.oliviero.it/imgprodotto/grembiule-mod-lungo_23013_big",
 "Bandana cuoco nera|Colore : Colorato Composizione : tessuto 100% cotone Dimensioni :|2017/12/bandana-cuoco-nera|data.oliviero.it/imgprodotto/bandana-cuoco-nera_1650_big",
 "Sacco a Pelo Auckland 200|Progettato per un'esperienza di campeggio piacevole Caratteristiche|2017/12/sacco-a-pelo-auckland-200|data.oliviero.it/imgprodotto/sacco-a-pelo-auckland-200_80778",

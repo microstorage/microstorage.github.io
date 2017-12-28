@@ -1,4 +1,5 @@
 Gr = [
+"Iseos Isofix walnut brown|Iséos IsoFix, la garanzia di un sistema di fissaggio universale per|2017/12/iseos-isofix-walnut-brown|data.oliviero.it/imgprodotto/iseos-isofix-walnut-brown_81734",
 "Seggiolino Auto Axiss Nomad Grey|Man mano che il bimbo cresce, accomodarlo nel seggiolino diventa|2017/12/seggiolino-auto-axiss-nomad-grey|data.oliviero.it/imgprodotto/seggiolino-auto-axiss-nomad-grey_171877",
 "Seggiolino king II purple|King Plus è equipaggiato con il sistema esclusivo tendicinghia della|2017/12/seggiolino-king-ii-purple|data.oliviero.it/imgprodotto/seggiolino-king-ii-purple_156890",
 "Seggiolino Auto Duo Plus|Con il seggiolino per auto DUO plus Isofix di Romer assicurerai al|2017/12/seggiolino-auto-duo-plus|data.oliviero.it/imgprodotto/seggiolino-auto-duo-plus_64958",

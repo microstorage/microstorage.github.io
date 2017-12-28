@@ -1,4 +1,5 @@
 Gr = [
+"Puff tavolino lum.space purple|Pouff/tavolino luminoso SPACE PURPLE struttura esterna in metacrilato|2017/12/puff-tavolino-lum-space-purple|data.oliviero.it/imgprodotto/puff-tavolino-lum-space-purple_77950",
 "Poltrona riempita I Love You|Poltrona riempita a sacco con stampa I LOVE YOU rivestimento sacca in|2017/12/poltrona-riempita-i-love-you|data.oliviero.it/imgprodotto/poltrona-riempita-i-love-you_139488",
 "Poltrona Hollywood|Poltrona AVIO completamente realizzata in legno massello seduta|2017/12/poltrona-hollywood|data.oliviero.it/imgprodotto/poltrona-hollywood-weal007-legno-marrone_162049",
 "Divano 2 posti kaleidos|Divano 2 Posti Kaleidos-D Blue Seduta E Schienale Rivestiti In|2017/12/divano-2-posti-kaleidos|data.oliviero.it/imgprodotto/divano-2-posti-kaleidos_170037",

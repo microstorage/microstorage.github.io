@@ -1,4 +1,5 @@
 Gr = [
+"Rodi Air Protect robin red|Seggiolino auto omologato da 15 a 36 kg. , da 3 a 10 anni. Da buon|2017/12/rodi-air-protect-robin-red|data.oliviero.it/imgprodotto/rodi-air-protect-robin-red_142459",
 "Seggiolino Auto Oasys 23 FixPlus Evo Red|Il tuo bambino cresce velocemente? Il suo seggiolino cresce con lui!|2017/12/seggiolino-auto-oasys-23-fixplus-evo-red|data.oliviero.it/imgprodotto/seggiolino-auto-oasys-23-fixplus-evo-red_173343",
 "Seggiolino Auto Oasys 23 FixPlus Evo Sand|Il tuo bambino cresce velocemente? Il suo seggiolino cresce con lui!|2017/12/seggiolino-auto-oasys-23-fixplus-evo-sand|data.oliviero.it/imgprodotto/seggiolino-auto-oasys-23-fixplus-evo-sand_164030",
 "Seggiolino auto Kidfix II XP Sict Mineral Purple|Il seggiolino auto KIDFIX è il top dei seggiolini del gruppo 2-3|2017/12/seggiolino-auto-kidfix-ii-xp-sict-mineral-purple|data.oliviero.it/imgprodotto/seggiolino-auto-kidfix-ii-xp-sict-mineral-purple_147598",

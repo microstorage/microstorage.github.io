@@ -1,4 +1,5 @@
 Gr = [
+"Set 6 Bicchierini di vetro da caffè|La degustazione del caffè: un rito quotidiano, semplice, che Bialetti|2017/12/set-6-bicchierini-di-vetro-da-caffe|data.oliviero.it/imgprodotto/set-6-bicchierini-di-vetro-da-caff%C3%A8_154099",
 "Macchina da Caffè Minù Bianco|Nel suo piccolo, è il massimo. Compatta e adatta a ogni spazio|2017/12/macchina-da-caffe-minu-bianco|data.oliviero.it/imgprodotto/macchina-da-caffe-minu-bianco_165782",
 "Capsule Caffe Torino 16 pz|Confezione da 16 capsule Torino. Il caffè di Torino è un elegante|2017/12/capsule-caffe-torino-16-pz|data.oliviero.it/imgprodotto/capsule-caffe-torino-16-pz_108999",
 "Pressofiltro 1 L|Preziosa, pressofiltro in alluminio da 1 litro. Un'infusione calda|2017/12/pressofiltro-1-l|data.oliviero.it/imgprodotto/pressofiltro-1-l_156345",

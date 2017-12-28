@@ -1,4 +1,5 @@
 Gr = [
+"Set Manicure e Pedicure Ricaricabile|Set Manicure e Pedicure Ricaricabile Codice: 40.968 Descrizione : Per|2017/12/set-manicure-e-pedicure-ricaricabile|data.oliviero.it/imgprodotto/set-manicure-e-pedicure-ricaricabile-40-968_136349",
 "Piastra per Capelli Hello Kitty|Piastra per Capelli Hello Kitty Codice: HK-NV009W Descrizione|2017/12/piastra-per-capelli-hello-kitty|data.oliviero.it/imgprodotto/piastra-per-capelli-hello-kitty-hk-nv009w_89526",
 "Asciugacapelli Professionale AC 2000W 40.950|Asciugacapelli Professionale AC 2000W Codice: 40.950 Descrizione|2017/12/asciugacapelli-professionale-ac-2000w-40-950|data.oliviero.it/imgprodotto/asciugacapelli-professionale-ac-2000w-40-950_152903",
 "Asciugacapelli Professionale 2000W Hello Kitty|Asciugacapelli Professionale 2000W Hello Kitty Codice: HK-JZ38|2017/12/asciugacapelli-professionale-2000w-hello-kitty|data.oliviero.it/imgprodotto/asciugacapelli-professionale-2000w-hello-kitty-hk-jz38_89525",

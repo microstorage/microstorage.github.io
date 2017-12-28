@@ -1,4 +1,6 @@
 Gr = [
+"SCT Forte Confezione 20 Flaconi 25 ml|SCT FORTE Integratore alimentare coadiuvante nell'ambito di diete|2017/12/sct-forte-confezione-20-flaconi-25-ml|data.oliviero.it/imgprodotto/sct-forte-confezione-20-flaconi-25-ml_55229",
+"BCAA 400 Caplets|BCAA CAPLETS è un integratore alimentare di aminoacidi ramificati|2017/12/bcaa-400-caplets|data.oliviero.it/imgprodotto/bcaa-400-caplets_108440",
 "Fuego Thermo Crema 200 ml|Fuego Thermo Crema. Crema ad elevato contenuto di principi|2017/12/fuego-thermo-crema-200-ml|data.oliviero.it/imgprodotto/fuego-thermo-crema-200-ml_55245",
 "Good Shake 40 30 30|GOOD SHAKE 40-30-30 è un integratore alimentare che fornisce|2017/12/good-shake-40-30-30|data.oliviero.it/imgprodotto/good-shake-40-30-30-8-buste-cacao_108619",
 "Energel 24 Flaconi da 35 ml gusto Arancia|INGREDIENTI: Sciroppo di glucosio disidratato, Acqua, Saccarosio|2017/12/energel-24-flaconi-da-35-ml-gusto-arancia|data.oliviero.it/imgprodotto/energel-24-flaconi-da-35-ml-gusto-arancia_108611",

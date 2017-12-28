@@ -1,4 +1,11 @@
 Gr = [
+"Trio fluido smart 685 telaio bianco|CARROZZINA: omologata per il trasporto in auto (0-10 kg), molto|2017/12/trio-fluido-smart-685-telaio-bianco|data.oliviero.it/imgprodotto/trio-fluido-smart-685-telaio-bianco_158844",
+"Trio Fluido Easy 625|CARROZZINA: omologata per il trasporto in auto (0-10 kg), molto|2017/12/trio-fluido-easy-625|data.oliviero.it/imgprodotto/trio-fluido-easy-625_171580",
+"Trio Book 51 Breeze Coral|Gli esclusivi sistemi modulari Peg Perego sono stati concepiti per|2017/12/trio-book-51-breeze-coral|data.oliviero.it/imgprodotto/trio-book-51-breeze-coral_170270",
+"Trio Ovo Twin Tortora|Il passeggino trio OVO Twin è il sistema modulare versatile|2017/12/trio-ovo-twin-tortora|data.oliviero.it/imgprodotto/trio-ovo-twin-tortora_172608",
+"Trio dinamico up orso 712|CARROZZINA: omologata per il trasporto in auto (0-10 kg), molto|2017/12/trio-dinamico-up-orso-712|data.oliviero.it/imgprodotto/trio-dinamico-up-orso-712_159057",
+"Trio classy tris 583|Il nuovo Trio Cam Linea Classy Tris, realizzato con struttura|2017/12/trio-classy-tris-583|data.oliviero.it/imgprodotto/trio-classy-tris-583_137292",
+"Carrozzina classy 583|Carrozzina con borsa completa di fasciatoio Cam Linea Classy|2017/12/carrozzina-classy-583|data.oliviero.it/imgprodotto/carrozzina-classy-583_137299",
 "Trio Trilogy 2018 Imperial Blue|Inglesina Trilogy Trio City è un set modular pratico e maneggevole|2017/12/trio-trilogy-2018-imperial-blue|data.oliviero.it/imgprodotto/trio-trilogy-2018-imperial-blue_170198",
 "Trio Book Plus S Bloom Pink|Gli esclusivi sistemi modulari Peg Perego sono stati concepiti per|2017/12/trio-book-plus-s-bloom-pink|data.oliviero.it/imgprodotto/trio-book-plus-s-bloom-pink_170251",
 "Trio dinamico up smart 680 telaio bianco|CARROZZINA: omologata per il trasporto in auto (0-10 kg), molto|2017/12/trio-dinamico-up-smart-680-telaio-bianco|data.oliviero.it/imgprodotto/trio-dinamico-up-smart-680-telaio-bianco_158821",

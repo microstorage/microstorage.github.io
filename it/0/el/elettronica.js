@@ -1,4 +1,7 @@
 Gr = [
+"Vaschetta Bollicina|La Vaschetta Cam Bollicina è un modello ampio e spazioso che|2017/12/vaschetta-bollicina|data.oliviero.it/imgprodotto/vaschetta-bollicina_135886",
+"Kit supporto barre laterali per Onda|Onda è una vaschetta intelligente, si adatta alla crescita del|2017/12/kit-supporto-barre-laterali-per-onda|data.oliviero.it/imgprodotto/kit-supporto-barre-laterali-per-onda_25253_big",
+"Aqua Spa Fasciatoio 219|Il Bagnetto Cam Aqua SPA C77 comprende una comoda vaschetta anatomica|2017/12/aqua-spa-fasciatoio-219|data.oliviero.it/imgprodotto/aqua-spa-fasciatoio-219_171527",
 "Fasciatoio Cuddle & bubble Eucalyptus 079348|Cuddle & Bubble è il nuovo fasciatoio che si trasforma in bagnetto|2017/12/fasciatoio-cuddle-bubble-eucalyptus-079348|data.oliviero.it/imgprodotto/fasciatoio-cuddle-%26-bubble-eucalyptus-079348_158623",
 "Hippo Cappellino|Cappellino ampio e morbido che si fissa delicatamente sulla testa del|2017/12/hippo-cappellino|data.oliviero.it/imgprodotto/hippo-cappellino_137089",
 "Fasciatoio Cuddle & bubble Sage 079348|Cuddle & Bubble è il nuovo fasciatoio che si trasforma in bagnetto|2017/12/fasciatoio-cuddle-bubble-sage-079348|data.oliviero.it/imgprodotto/fasciatoio-cuddle-%26-bubble-sage-079348_173346",

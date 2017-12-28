@@ -1,4 +1,7 @@
 Gr = [
+"Casco ciclismo Quarter Azzurro|L'aerazione è il suo punto forte: grazie infatti ai suoi 27 fori, il|2017/12/casco-ciclismo-quarter-azzurro|data.oliviero.it/imgprodotto/casco-ciclismo-quarter-azzurro_165356",
+"Casco da moto Elements|K-3 SV nasce dall'esperienza maturata da AGV a seguito della|2017/12/casco-da-moto-elements|data.oliviero.it/imgprodotto/casco-da-moto-elements_149886",
+"Casco Sci Stromboli Visor 1V Matt Black|Stromboli Visor è la combinazione tra leggerezza e protezione dai|2017/12/casco-sci-stromboli-visor-1v-matt-black|data.oliviero.it/imgprodotto/casco-sci-stromboli-visor-1v-matt-black_171735",
 "Casco da moto M13 Mono Black|Caratteristiche Calotta: resina termoplastica HIR-TH (High Resistant|2017/12/casco-da-moto-m13-mono-black|data.oliviero.it/imgprodotto/casco-da-moto-m13-mono-black-3232a4d0_149393",
 "Casco da moto Bali Copter E2205 Top Vale 46 Black|Il Bali Copter è la proposta AGV per gli scooteristi alla ricerca di|2017/12/casco-da-moto-bali-copter-e2205-top-vale-46-black|data.oliviero.it/imgprodotto/casco-da-moto-bali-copter-e2205-top-vale-46-black_83680",
 "Casco Ciclismo Ventus Nero|Utilizzato dai Pro. Ventus è un casco innovativo dotato di Protetto|2017/12/casco-ciclismo-ventus-nero|data.oliviero.it/imgprodotto/casco-ciclismo-ventus-nero_165359",

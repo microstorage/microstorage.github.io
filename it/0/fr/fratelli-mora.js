@@ -1,4 +1,5 @@
 Gr = [
+"Rete 120x200 Una piazza e Mezzo con doghe in legno Jumbo 120|Caratteristiche tecniche: Telaio in acciaio 42x42 Finitura:|2017/12/rete-120x200-una-piazza-e-mezzo-con-doghe-in-legno-jumbo-120|data.oliviero.it/imgprodotto/rete-120x200-una-piazza-e-mezzo-con-doghe-in-legno-jumbo-120_163221",
 "Dondolo Grande|Dondolo in acciaio Caratterstiche tecniche: Telaio in acciaio tondo|2017/12/dondolo-grande|data.oliviero.it/imgprodotto/dondolo-grande_87058",
 "Dondolo Classic|Dondolo in acciaio Caratteristiche: Telaio in acciaio D 40 Finitura:|2017/12/dondolo-classic|data.oliviero.it/imgprodotto/dondolo-classic_157423",
 "Slittino Alpen Space|Slittino-Bob Alpen Space per adulti e bambini Telaio in plastica|2017/12/slittino-alpen-space|data.oliviero.it/imgprodotto/slittino-alpen-space_31668_big",

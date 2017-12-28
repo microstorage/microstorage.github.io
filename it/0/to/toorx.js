@@ -1,4 +1,6 @@
 Gr = [
+"Tapis Roulant TRX 50 S EVO|Caratteristiche Diametro dei rulli anteriore ø48 mm - posteriore ø42|2017/12/tapis-roulant-trx-50-s-evo|data.oliviero.it/imgprodotto/tapis-roulant-trx-50-s-evo_157605",
+"Cyclette BRX 60|Cyclette BRX 60. Sistema di frenaggio magnetico su 8 posizioni|2017/12/cyclette-brx-60|data.oliviero.it/imgprodotto/cyclette-brx-60_67923",
 "Ellittica ERX 70|Sistema di frenaggio magnetico con regolazione manuale dello sforzo|2017/12/ellittica-erx-70|data.oliviero.it/imgprodotto/ellittica-erx-70_68838",
 "Cyclette BRX 300|Cyclette BRX 300 Sistema di frenaggio : magnetico con regolazione|2017/12/cyclette-brx-300|data.oliviero.it/imgprodotto/cyclette-brx-300_159738",
 "Ellittica ERX 90 + ricevitore Polar|Sistema di frenaggio magnetico con regolazione elettronica dello|2017/12/ellittica-erx-90-+-ricevitore-polar|data.oliviero.it/imgprodotto/ellittica-erx-90-ricevitore-polar_68842",

@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Trail Running Tempesta GTX W's|Calzatura impermeabile da Winter Running pensata per allenamenti ed|2017/12/scarpe-trail-running-tempesta-gtx-w-s|data.oliviero.it/imgprodotto/scarpe-trail-running-tempesta-gtx-ws_170980",
 "Scarpe Running Akasha Ws|Calzatura da mountain running endurance super ammortizzata, concepita|2017/12/scarpe-running-akasha-ws|data.oliviero.it/imgprodotto/scarpe-running-akasha-ws_165614",
 "Scarpe Trail Running Uomo Akira GTX|Calzatura impermeabile in membrana Gore-Tex® specifica per winter|2017/12/scarpe-trail-running-uomo-akira-gtx|data.oliviero.it/imgprodotto/scarpe-trail-running-uomo-akira-gtx_170975",
 "Scarpe Trail Running Tempesta GTX|Calzatura impermeabile da Winter Running pensata per allenamenti ed|2017/12/scarpe-trail-running-tempesta-gtx|data.oliviero.it/imgprodotto/scarpe-trail-running-tempesta-gtx_170976",

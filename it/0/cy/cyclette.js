@@ -1,4 +1,5 @@
 Gr = [
+"Cyclette BRX 60|Cyclette BRX 60. Sistema di frenaggio magnetico su 8 posizioni|2017/12/cyclette-brx-60|data.oliviero.it/imgprodotto/cyclette-brx-60_67923",
 "Cyclette JK256|Sistema frenante Elettromagnetico alimentatore 8v Regolazione inerzia|2017/12/cyclette-jk256|data.oliviero.it/imgprodotto/cyclette-jk256_173183",
 "Recumbent X-COMPACT MF620|Recumbent bike o cyclette orizzontale caratterizzata dalla posizione|2017/12/recumbent-x-compact-mf620|data.oliviero.it/imgprodotto/recumbent-x-compact-mf620_90947",
 "Cyclette Ergo S6|KETTLER ERGO S6 Un vero ergometro con 2 modalità di utilizzo:|2017/12/cyclette-ergo-s6|data.oliviero.it/imgprodotto/cyclette-ergo-s6_158038",

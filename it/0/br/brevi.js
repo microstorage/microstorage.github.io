@@ -1,4 +1,5 @@
 Gr = [
+"Trio Ovo Twin Tortora|Il passeggino trio OVO Twin è il sistema modulare versatile|2017/12/trio-ovo-twin-tortora|data.oliviero.it/imgprodotto/trio-ovo-twin-tortora_172608",
 "Boo 4 in 1 Girello|Il girello per bambini Boo 4 in 1 è dotato di tavola didattica|2017/12/boo-4-in-1-girello|data.oliviero.it/imgprodotto/boo-4-in-1-girello_172575",
 "On Board Pedana|On Board è la pedana porta bimbo UNIVERSALE dotata di 2 ruote|2017/12/on-board-pedana|data.oliviero.it/imgprodotto/on-board-pedana_172586",
 "Seggiolone B-Fun Beige Sabbia|B.Fun è il seggiolone multifunzione con caratteristiche tecnico|2017/12/seggiolone-b-fun-beige-sabbia|data.oliviero.it/imgprodotto/seggiolone-b-fun-beige-sabbia_172596",

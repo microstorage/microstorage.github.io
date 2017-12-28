@@ -1,4 +1,6 @@
 Gr = [
+"Docciatore Splash|Un pratico docciatore sempre a portata di mano Doccino per sciacquare|2017/12/docciatore-splash|data.oliviero.it/imgprodotto/docciatore-splash_160913",
+"Kit supporto barre laterali per Onda|Onda è una vaschetta intelligente, si adatta alla crescita del|2017/12/kit-supporto-barre-laterali-per-onda|data.oliviero.it/imgprodotto/kit-supporto-barre-laterali-per-onda_25253_big",
 "Hippo Cappellino|Cappellino ampio e morbido che si fissa delicatamente sulla testa del|2017/12/hippo-cappellino|data.oliviero.it/imgprodotto/hippo-cappellino_137089",
 "Portagiochi Pelly Fun|Un ampio e pratico porta giochi per bagno Sistema di regolazione che|2017/12/portagiochi-pelly-fun|data.oliviero.it/imgprodotto/portagiochi-pelly-fun_160910",
 "Vaschetta Laguna|Tutte le prerogative delle vaschette di Okbaby in un modello|2017/12/vaschetta-laguna|data.oliviero.it/imgprodotto/vaschetta-laguna_130877",

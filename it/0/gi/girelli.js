@@ -1,4 +1,5 @@
 Gr = [
+"Girello Kamino Grey Patches|Il bimbo parte comodamente alla scoperta del mondo seduto sul suo|2017/12/girello-kamino-grey-patches|data.oliviero.it/imgprodotto/girello-kamino-grey-patches_171871",
 "Girello Walky Talky green|Il Girello Chicco Walky Talky è l'innovativa girello con barra gioco|2017/12/girello-walky-talky-green|data.oliviero.it/imgprodotto/girello-walky-talky-green_149855",
 "Boo 4 in 1 Girello|Il girello per bambini Boo 4 in 1 è dotato di tavola didattica|2017/12/boo-4-in-1-girello|data.oliviero.it/imgprodotto/boo-4-in-1-girello_172575",
 "Girello giocando D|Girello regolabile in 3 altezze. Sistema anticaduta dalle scale|2017/12/girello-giocando-d|data.oliviero.it/imgprodotto/girello-giocando-d_136964",

@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe W530PSA|Sneakers W530PSA Evvai! Gli anni '90 sono tornati! Abbiamo rivisitato|2017/12/scarpe-w530psa|data.oliviero.it/imgprodotto/scarpe-w530psa_144291",
 "Scarpe Uomo 530 90s|Lo stile indipendente West Coast si sposa con il genere escursionismo|2017/12/scarpe-uomo-530-90s|data.oliviero.it/imgprodotto/scarpe-uomo-530-90s_171662",
 "Scarpe Running Uomo Fresh Foam Zante V3|Il desiderio di sentirsi veloci non svanisce mai. Realizzate per alte|2017/12/scarpe-running-uomo-fresh-foam-zante-v3|data.oliviero.it/imgprodotto/scarpe-running-uomo-fresh-foam-zante-v3_171642",
 "Scarpe Classic Traditionnels|New Balance 574 Classic in pelle nubuk, da uomo, per gli amanti delle|2017/12/scarpe-classic-traditionnels|data.oliviero.it/imgprodotto/scarpe-classic-traditionnels-ml574gpb_168720",

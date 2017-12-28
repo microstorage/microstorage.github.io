@@ -1,4 +1,5 @@
 Gr = [
+"Pareti Laterali 2 mt. con finestra x Market|Telo : polyestere 500D 290 gr./m2, rivestito e spalmato in PVC, con|2017/12/pareti-laterali-2-mt-con-finestra-x-market|data.oliviero.it/imgprodotto/pareti-laterali-2-mt-con-finestra-x-market_87421",
 "Gazebo Rodi 3x4 Ecru|Gazebo Ferro 3x4 Metri Struttura in ferro verniciato a polvere|2017/12/gazebo-rodi-3x4-ecru|data.oliviero.it/imgprodotto/gazebo-rodi-3x4-ecru_146605",
 "Gazebo Vela 4x4 Ecrù|Gazebo ferro 4x4 metri Struttura in ferro verniciato a polvere|2017/12/gazebo-vela-4x4-ecru|data.oliviero.it/imgprodotto/gazebo-vela-4x4-ecr%C3%B9_164388",
 "Veranda 3 mt per Gazebo serie Piramide|VERANDA 3 mt. PER GAZEBO SERIE PIRAMIDE 30x30 mm. Telo : polyestere|2017/12/veranda-3-mt-per-gazebo-serie-piramide|data.oliviero.it/imgprodotto/veranda-3-mt-per-gazebo-serie-piramide_149678",

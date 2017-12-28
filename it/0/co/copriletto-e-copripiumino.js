@@ -1,4 +1,5 @@
 Gr = [
+"Trapunta Vivien Aviazione|TRAPUNTA PER LETTO MATRIMONIALE IN FINISSIMO RASO DI PURO COTONE|2017/12/trapunta-vivien-aviazione|data.oliviero.it/imgprodotto/trapunta-vivien-aviazione_169064",
 "Completo Copripiumino City Grigio|Tessuto di puro cotone. Colore vivo. Singolo Sacco 155x200 cm|2017/12/completo-copripiumino-city-grigio|data.oliviero.it/imgprodotto/completo-copripiumino-city-grigio_166719",
 "Completo Copripiumino Princess Magia|Completo copripiumino composto da sacco e federa Singolo Sacco|2017/12/completo-copripiumino-princess-magia|data.oliviero.it/imgprodotto/completo-copripiumino-princess-magia_153926",
 "Scaldaletto Singolo Lana Sintetica Dolly|Scaldaletto Singolo Lana Sintetica Dolly Codice: RI.402 Descrizione|2017/12/scaldaletto-singolo-lana-sintetica-dolly|data.oliviero.it/imgprodotto/scaldaletto-singolo-lana-sintetica-dolly-ri-402_157375",

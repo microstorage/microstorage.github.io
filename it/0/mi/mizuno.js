@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Running Wave Sky|Progettata per runner che percorrono un chilometraggio elevato, Wave|2017/12/scarpe-running-wave-sky|data.oliviero.it/imgprodotto/scarpe-running-wave-sky_173410",
 "Scarpe Calcio MRL Club MD|La MRL Club mantiene le caratteristiche base di tocco e calzata|2017/12/scarpe-calcio-mrl-club-md|data.oliviero.it/imgprodotto/scarpe-calcio-mrl-club-md-p1ga160637_151173",
 "Scarpe Running Wave Rider 21 (W)|Progettata per una corsa ancora più performante, Wave Rider 21 grazie|2017/12/scarpe-running-wave-rider-21-w|data.oliviero.it/imgprodotto/scarpe-running-wave-rider-21-w-_173408",
 "Scarpe Running Wave Rider 20|Corri più lontano con le nuove Mizuno Wave Rider 20, una scarpa più|2017/12/scarpe-running-wave-rider-20|data.oliviero.it/imgprodotto/scarpe-running-wave-rider-20_165881",

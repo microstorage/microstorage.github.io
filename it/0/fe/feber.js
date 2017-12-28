@@ -1,4 +1,5 @@
 Gr = [
+"Brutale Quad 12V|Quad elettrico 12V un posto, acceleratore a pedale, freno motore|2017/12/brutale-quad-12v|data.oliviero.it/imgprodotto/brutale-quad-12v_162223",
 "Wood House Centro Attività|Casetta del bosco con scivolo e due scalette di salita laterali, con|2017/12/wood-house-centro-attivita|data.oliviero.it/imgprodotto/wood-house-centro-attivit%C3%A0_162218",
 "Sedile Altalena Basic|Sedile base resistente e sicura, colori brillanti e resistenti alla|2017/12/sedile-altalena-basic|data.oliviero.it/imgprodotto/sedile-altalena-basic_81993",
 "Freeride 6V Quad|Quad elettrico un posto, acceleratore a pedale, freno motore|2017/12/freeride-6v-quad|data.oliviero.it/imgprodotto/freeride-6v-quad_162222",

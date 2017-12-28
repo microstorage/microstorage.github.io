@@ -1,4 +1,6 @@
 Gr = [
+"Coppia di sedie Cozy white|Sedia COZY WHITE seduta e schienale rivestiti in pelle sintetica|2017/12/coppia-di-sedie-cozy-white|data.oliviero.it/imgprodotto/coppia-di-sedie-cozy-white_149501",
+"Coppia di Sedie Mesh White|Sedia MESH WHITE rivestita in pelle ecologica di colore bianco gambe|2017/12/coppia-di-sedie-mesh-white|data.oliviero.it/imgprodotto/coppia-di-sedie-mesh-white_137892",
 "Coppia Sgabelli Kris Nero|SGABELLO KRIS Nero Sgabello con struttura in acciaio cromato, seduta|2017/12/coppia-sgabelli-kris-nero|data.oliviero.it/imgprodotto/coppia-sgabelli-kris-nero_130762",
 "Coppia di Sedie Soft Old Brown|Sedie SOFT OLD BROWN rivestita in pelle ecologica effetto cuoio gambe|2017/12/coppia-di-sedie-soft-old-brown|data.oliviero.it/imgprodotto/coppia-di-sedie-soft-old-brown_137913",
 "Coppia di Sedie Well tortora|Sedia WELL TORTORA rivestita in pelle ecologica di colore tortora|2017/12/coppia-di-sedie-well-tortora|data.oliviero.it/imgprodotto/coppia-di-sedie-well-tortora_137902",

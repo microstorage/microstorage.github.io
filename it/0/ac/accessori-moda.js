@@ -1,4 +1,6 @@
 Gr = [
+"Borsello The One Crafty Brown|La nostra borsa mini più venduta: riponi in sicurezza l'essenziale|2017/12/borsello-the-one-crafty-brown|data.oliviero.it/imgprodotto/borsello-the-one-crafty-brown_166742",
+"Borsa Dallas Metal Splatter|Collezione Autunno Inverno/2018 Borsa a tracolla blu da donna in|2017/12/borsa-dallas-metal-splatter|data.oliviero.it/imgprodotto/borsa-dallas-metal-splatter_170813",
 "Orologio T5K367|Forma articolo: Tondo Tipo di vetro: Plastica Display: Analogico|2017/12/orologio-t5k367|data.oliviero.it/imgprodotto/orologio-t5k367_14583_big",
 "Cartella 2 Soffietti PC Compatibile|Organizzazione e funzionalità prima di tutto Caratteristiche:|2017/12/cartella-2-soffietti-pc-compatibile|data.oliviero.it/imgprodotto/cartella-2-soffietti-pc-compatibile_7127_big",
 "Trolley New Jack Widget|Non conosci ancora Jack??? JACK è il trolley brevettato Seven che|2017/12/trolley-new-jack-widget|data.oliviero.it/imgprodotto/trolley-new-jack-widget_166136",

@@ -1,4 +1,6 @@
 Gr = [
+"Set 3 freccette S500|Set 3 freccette con punta in metallo, custodia e accessori S500|2017/12/set-3-freccette-s500|data.oliviero.it/imgprodotto/set-3-freccette-s500_147957",
+"Bersaglio per freccette Vega elettronico|Bersaglio elettronico per il gioco delle freccette. Suddivisione in|2017/12/bersaglio-per-freccette-vega-elettronico|data.oliviero.it/imgprodotto/bersaglio-per-freccette-vega-elettronico_150046",
 "Set 3 freccette EL50|SET 3 FRECCETTE CON PUNTA IN PLASTICA, CUSTODIA E ACCESSORI EL50|2017/12/set-3-freccette-el50|data.oliviero.it/imgprodotto/set-3-freccette-el50_147955",
 "Bersaglio per freccette Polaris elettronico|Bersaglio elettronico per il gioco delle freccette con armadietto|2017/12/bersaglio-per-freccette-polaris-elettronico|data.oliviero.it/imgprodotto/bersaglio-per-freccette-polaris-elettronico_8383_big",
 "Bersaglio per freccette Aries|Bersaglio in fibra modello aries per il gioco delle freccette|2017/12/bersaglio-per-freccette-aries|data.oliviero.it/imgprodotto/bersaglio-per-freccette-aries_150051",

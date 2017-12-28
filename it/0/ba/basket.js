@@ -1,4 +1,6 @@
 Gr = [
+"Scarpe Basket Dame 3|Umile quando vince e determinato a superare ogni sconfitta, Damian|2017/12/scarpe-basket-dame-3|data.oliviero.it/imgprodotto/scarpe-basket-dame-3_167285",
+"Scarpe Basket Crazy fire|Indossa queste scarpe da basket e trova il ritmo di gioco ideale|2017/12/scarpe-basket-crazy-fire|data.oliviero.it/imgprodotto/scarpe-basket-crazy-fire-b72745_159473",
 "Set Basket USA con canestro e pallone|Canestro e Pallone Basket USA set completo con rete e kit di|2017/12/set-basket-usa-con-canestro-e-pallone|data.oliviero.it/imgprodotto/set-basket-usa-con-canestro-e-pallone-70-320-0091_87713",
 "T-Shirt da Basket Uomo Bianco|La t-shirt da basket Nike Dry - Uomo è realizzata in tessuto|2017/12/t-shirt-da-basket-uomo-bianco|data.oliviero.it/imgprodotto/t-shirt-da-basket-uomo-bianco_167929",
 "Utilbasket a colonna|UTILBASKET A COLONNA con canestro e rete(senza tabellone)|2017/12/utilbasket-a-colonna|data.oliviero.it/imgprodotto/utilbasket-a-colonna_162172",

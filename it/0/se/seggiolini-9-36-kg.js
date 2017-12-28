@@ -1,4 +1,5 @@
 Gr = [
+"Seggiolino Youniverse Fix Black|Il Seggiolino Auto Chicco Youniverse Fix è omologato dai 9 ai 36 Kg|2017/12/seggiolino-youniverse-fix-black|data.oliviero.it/imgprodotto/seggiolino-youniverse-fix-black_173335",
 "Seggiolino Youniverse Fix Red|Il Seggiolino Auto Chicco Youniverse Fix è omologato dai 9 ai 36 Kg|2017/12/seggiolino-youniverse-fix-red|data.oliviero.it/imgprodotto/seggiolino-youniverse-fix-red_173332",
 "Seggiolino Youniverse Fix Grey|Il Seggiolino Auto Chicco Youniverse Fix è omologato dai 9 ai 36 Kg|2017/12/seggiolino-youniverse-fix-grey|data.oliviero.it/imgprodotto/seggiolino-youniverse-fix-grey_173336",
 "Seggiolino Tazio tt isofix rosso|TAZIO Isofix TT il seggiolino 1.2.3 auto reclinabile isofix|2017/12/seggiolino-tazio-tt-isofix-rosso|data.oliviero.it/imgprodotto/seggiolino-tazio-tt-isofix-rosso_150277",

@@ -1,4 +1,8 @@
 Gr = [
+"Tavolo Ping Pong Winner Indoor|Stiga Winner Indoor, modello per interno, adatto all'uso familiare|2017/12/tavolo-ping-pong-winner-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-winner-indoor_2014_big",
+"Tavolo Ping Pong 700m Crossover Outdoor|Tavolo Ping Pong 700m Crossover Outdoor COLORE GRIGIO PIANO RESINA|2017/12/tavolo-ping-pong-700m-crossover-outdoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-700m-crossover-outdoor_130149",
+"Tavolo Ping Pong Master Indoor Verde|Modello per interno, verde o blu, con sistema ECS, per l'uso|2017/12/tavolo-ping-pong-master-indoor-verde|data.oliviero.it/imgprodotto/tavolo-ping-pong-master-indoor-verde_83082",
+"Tavolo Ping Pong Pro 510 Outdoor|Tavolo Ping Pong Pro 510 Outdoor Caratteristiche Piano in resina|2017/12/tavolo-ping-pong-pro-510-outdoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-pro-510-outdoor_136303",
 "Tavolo Ping Pong Tecto Indoor|Tectonic è la linea di ping-pong entry level di Cornilleau, azienda|2017/12/tavolo-ping-pong-tecto-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-tecto-indoor_83021",
 "Ping Pong Progress Outdoor Blu|Modello per esterno, pieghevole, con piano gioco blu, indicato per|2017/12/ping-pong-progress-outdoor-blu|data.oliviero.it/imgprodotto/ping-pong-progress-outdoor-blu_83101",
 "Racchette da ping pong Pack Sport Duo 432|Racchette da Ping Pong Pack Sport Duo 432. La confezione comprende|2017/12/racchette-da-ping-pong-pack-sport-duo-432|data.oliviero.it/imgprodotto/racchette-da-ping-pong-pack-sport-duo-432_58096",

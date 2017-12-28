@@ -1,4 +1,8 @@
 Gr = [
+"Cameretta Livia|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/12/cameretta-livia|data.oliviero.it/imgprodotto/cameretta-livia-gt4005_160070",
+"Cameretta Tiziana|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/12/cameretta-tiziana|data.oliviero.it/imgprodotto/cameretta-tiziana-gt4052_160216",
+"Cameretta Enea|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/12/cameretta-enea|data.oliviero.it/imgprodotto/cameretta-enea-gt4007_160091",
+"Set miki bianco|Set Miki composto da lettino (art.130226), fasciatoio completo di|2017/12/set-miki-bianco|data.oliviero.it/imgprodotto/set-miki-bianco_84294",
 "Pacchetto Tommy Naturale|Il pacchetto Tommy include: Lettino Fasciatoio Materasso Piumone|2017/12/pacchetto-tommy-naturale|data.oliviero.it/imgprodotto/pacchetto-tommy-naturale_135879",
 "Cameretta Lapo|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/12/cameretta-lapo|data.oliviero.it/imgprodotto/cameretta-lapo-gt4048_160214",
 "Cameretta Enrica|Bella e funzionale, questa cameretta gestisce gli spazi e li sfrutta|2017/12/cameretta-enrica|data.oliviero.it/imgprodotto/cameretta-enrica-gt4015_160136",

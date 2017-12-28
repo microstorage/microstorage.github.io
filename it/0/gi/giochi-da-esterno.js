@@ -1,4 +1,6 @@
 Gr = [
+"Trampolino outdoor|Modello per esterno, disponibile in 5 dimensioni, dalla S alla XXL,|2017/12/trampolino-outdoor|data.oliviero.it/imgprodotto/trampolino-outdoor_153467",
+"Materassino 18 buchi Trasparente 188x71 cm|Materassino 18 buchi trasparente Dimensioni 188x71 cm 2 camere d'aria|2017/12/materassino-18-buchi-trasparente-188x71-cm|data.oliviero.it/imgprodotto/materassino-18-buchi-trasparente-188x71-cm-59894_148604",
 "Tappeto Elastico con Rete 140 cm diam|Struttura in acciaio verniciato a polvere, tappeto elastico|2017/12/tappeto-elastico-con-rete-140-cm-diam|data.oliviero.it/imgprodotto/tappeto-elastico-con-rete-140-cm-diam-70-420-0011_166636",
 "Wood House Centro Attività|Casetta del bosco con scivolo e due scalette di salita laterali, con|2017/12/wood-house-centro-attivita|data.oliviero.it/imgprodotto/wood-house-centro-attivit%C3%A0_162218",
 "Zainetto mare Minnie|Set da spiaggia. Include: sacca, secchiello D.17, setaccio|2017/12/zainetto-mare-minnie|data.oliviero.it/imgprodotto/zainetto-mare-minnie_148024",

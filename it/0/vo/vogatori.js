@@ -1,4 +1,5 @@
 Gr = [
+"Vogatore V-Rower|Vogatore dalle ottime prestazioni e dalla struttura robusta. Grazie|2017/12/vogatore-v-rower|data.oliviero.it/imgprodotto/vogatore-v-rower_168536",
 "Vogatore Coach E|Il vogatore professionale creato e progettato per eliminare tutti gli|2017/12/vogatore-coach-e|data.oliviero.it/imgprodotto/vogatore-coach-e_6974_big",
 "Vogatore Rower NEW|Migliora la tua forma fisica con ROWER, il rinnovato vogatore|2017/12/vogatore-rower-new|data.oliviero.it/imgprodotto/vogatore-rower-new_130399",
 "Vogatore Coach S|NUOVO COACH S 07975-170 Con il nuovo KETTLER COACH S si amplia la|2017/12/vogatore-coach-s|data.oliviero.it/imgprodotto/vogatore-coach-s_90370",

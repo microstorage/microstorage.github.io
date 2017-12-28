@@ -1,4 +1,5 @@
 Gr = [
+"Polo Uomo Grigio Chiaro|Collezione Autunno Inverno/2018 Polo a maniche lunghe da uomo di|2017/12/polo-uomo-grigio-chiaro|data.oliviero.it/imgprodotto/polo-uomo-grigio-chiaro_169772",
 "Polo Taglie Forti Uomo Denim|Collezione Autunno Inverno/2018 Polo da uomo taglie forti. Il modello|2017/12/polo-taglie-forti-uomo-denim|data.oliviero.it/imgprodotto/polo-taglie-forti-uomo-denim-10001-170_154973",
 "Polo uomo rossa classic navy manica corta|La polo a tre bottoni che Agostini ha voluto a tutti i costi, rossa|2017/12/polo-uomo-rossa-classic-navy-manica-corta|data.oliviero.it/imgprodotto/polo-uomo-rossa-classic-navy-manica-corta_93411",
 "Polo Uomo Taglie Forti Menta|Collezione Primavera Estate Polo uomo taglie forti. Il modello|2017/12/polo-uomo-taglie-forti-menta|data.oliviero.it/imgprodotto/polo-uomo-taglie-forti-menta_165180",

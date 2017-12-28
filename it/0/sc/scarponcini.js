@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Uomo Giallo|Collezione Autunno Inverno/2018 La nostra linea Bradstreet offre|2017/12/scarpe-uomo-giallo|data.oliviero.it/imgprodotto/scarpe-uomo-giallo_171133",
 "Scarpa Uomo Marrone Scuro|Collezione Autunno Inverno/2018 Le stesse caratteristiche e la|2017/12/scarpa-uomo-marrone-scuro|data.oliviero.it/imgprodotto/scarpa-uomo-marrone-scuro_171096",
 "Scarponcino Uomo Grigio|Collezione Autunno Inverno/2018 Tipologia: sneaker alta uomo|2017/12/scarponcino-uomo-grigio|data.oliviero.it/imgprodotto/scarponcino-uomo-grigio_168908",
 "Scarponcino Uomo Caffè|Collezione Autunno Inverno/2018 Materiale: scamosciato Colore: caffè|2017/12/scarponcino-uomo-caffe|data.oliviero.it/imgprodotto/scarponcino-uomo-caff%C3%A8_168905",

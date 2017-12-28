@@ -1,4 +1,5 @@
 Gr = [
+"Specchiera Magica con Trousse Trucchi|Un bellissimo set per sentirsi una vera principessa. La specchiera da|2017/12/specchiera-magica-con-trousse-trucchi|data.oliviero.it/imgprodotto/specchiera-magica-con-trousse-trucchi-64629_156819",
 "Tastiera Elettronica con Microfono|Pianola musicale con 32 tasti multifunzionali, diversi ritmi|2017/12/tastiera-elettronica-con-microfono|data.oliviero.it/imgprodotto/tastiera-elettronica-con-microfono-64834_156828",
 "Tappetino con Lettere|Tappeto morbido e colorato in gomma con incastro 5 Lettere. Ideale|2017/12/tappetino-con-lettere|data.oliviero.it/imgprodotto/tappetino-con-lettere-72274_156856",
 "Playset Lavori in Corso con Accessori|Stazione di lavori in corso con accessori Dimensioni 45 x 26 cm|2017/12/playset-lavori-in-corso-con-accessori|data.oliviero.it/imgprodotto/playset-lavori-in-corso-con-accessori-64232_156888",

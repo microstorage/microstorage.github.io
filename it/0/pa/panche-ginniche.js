@@ -1,4 +1,6 @@
 Gr = [
+"Panca Ginnica Smile Gym|Attrezzo home fitness composto da una base d'appoggio con tappetino|2017/12/panca-ginnica-smile-gym|data.oliviero.it/imgprodotto/panca-ginnica-smile-gym_71326",
+"Panca Inversione Diamond D35|Regolazione altezza 145-200 cm Spessore imbottiture 55 mm|2017/12/panca-inversione-diamond-d35|data.oliviero.it/imgprodotto/panca-inversione-diamond-d35_173195",
 "Squat Rack JK6066|Massimo peso caricabile 150 Kg Dimensione tubi 60 x 60 x 3 mm - 70|2017/12/squat-rack-jk6066|data.oliviero.it/imgprodotto/squat-rack-jk6066_173193",
 "Panca Inversione Apollo|La panca gravitazionale APOLLO permette, con il suo movimento di|2017/12/panca-inversione-apollo|data.oliviero.it/imgprodotto/panca-inversione-apollo_50639_big",
 "Panca Ginnica Force Bench 560|Force Bench 560 è una robusta panca porta bilanciere. Telaio|2017/12/panca-ginnica-force-bench-560|data.oliviero.it/imgprodotto/panca-ginnica-force-bench-560_168519",

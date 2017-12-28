@@ -1,4 +1,6 @@
 Gr = [
+"FelpaTaglie Forti Uomo blu|Collezione Autunno Inverno/2018 Felpa uomo taglie forti. Il modello|2017/12/felpataglie-forti-uomo-blu|data.oliviero.it/imgprodotto/felpataglie-forti-uomo-blu_171388",
+"Maglia Taglie Forti Uomo antracite|Collezione Autunno Inverno/2018 Felpa Uomo taglie forti. Il modello|2017/12/maglia-taglie-forti-uomo-antracite|data.oliviero.it/imgprodotto/maglia-taglie-forti-uomo-antracite_171892",
 "Felpa Uomo Taglie Forti Senape|Collezione Autunno Inverno/2018 Felpa da uomo taglie forti. Il|2017/12/felpa-uomo-taglie-forti-senape|data.oliviero.it/imgprodotto/felpa-uomo-taglie-forti-senape_167945",
 "Polo Taglie Forti Uomo Rosso|Collezione Autunno Inverno/2018 Polo uomo taglie forti. Il modello|2017/12/polo-taglie-forti-uomo-rosso|data.oliviero.it/imgprodotto/polo-taglie-forti-uomo-rosso_172213",
 "Felpa Taglie Forti Uomo Ambra|Collezione Autunno Inverno/2018 Felpa uomo taglie forti. Il modello|2017/12/felpa-taglie-forti-uomo-ambra|data.oliviero.it/imgprodotto/felpa-taglie-forti-uomo-ambra_171864",

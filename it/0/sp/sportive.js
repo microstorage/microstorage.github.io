@@ -1,4 +1,11 @@
 Gr = [
+"Scarpe Air Max 2017|Pensata con supporto e traspirabilità ideali nei punti giusti, la|2017/12/scarpe-air-max-2017|data.oliviero.it/imgprodotto/scarpe-air-max-2017-849559-602_165006",
+"Scarpe Allenamento Uomo Grigio Ua Charged Legend TR|Tomaia jacquard leggera con pannelli sovrapposti in TPU su punta|2017/12/scarpe-allenamento-uomo-grigio-ua-charged-legend-tr|data.oliviero.it/imgprodotto/scarpe-allenamento-uomo-grigio-ua-charged-legend-tr-1293035-076_160523",
+"Scarpe Calcio X 16.3 FG|Crea lo scompiglio, sorprendi la difesa. Fatti largo tra gli|2017/12/scarpe-calcio-x-16-3-fg|data.oliviero.it/imgprodotto/scarpe-calcio-x-16-3-fg-bb5855_164449",
+"Scarpe Basket Dame 3|Umile quando vince e determinato a superare ogni sconfitta, Damian|2017/12/scarpe-basket-dame-3|data.oliviero.it/imgprodotto/scarpe-basket-dame-3_167285",
+"Scarpe Calcetto Ace 17.4 TF J|Adidas Ace 17.4, per un comfort eccezionale. La tomaia viene|2017/12/scarpe-calcetto-ace-17-4-tf-j|data.oliviero.it/imgprodotto/scarpe-calcetto-ace-17-4-tf-j_167430",
+"Scarpe Trail Running Tempesta GTX W's|Calzatura impermeabile da Winter Running pensata per allenamenti ed|2017/12/scarpe-trail-running-tempesta-gtx-w-s|data.oliviero.it/imgprodotto/scarpe-trail-running-tempesta-gtx-ws_170980",
+"Scarpe Calcetto Mercurialx Vctry VI CR7 DF TF|Pensata specificamente per le partite di calcetto, la scarpa da|2017/12/scarpe-calcetto-mercurialx-vctry-vi-cr7-df-tf|data.oliviero.it/imgprodotto/scarpe-calcetto-mercurialx-vctry-vi-cr7-df-tf-903612-001_164572",
 "Scarpe Tennis Gel Dedicate 5|Collezione Primavera Estate Le Gel Dedicate 5 sono un modello rivolto|2017/12/scarpe-tennis-gel-dedicate-5|data.oliviero.it/imgprodotto/scarpe-tennis-gel-dedicate-5-e707y-4901_164127",
 "Scarpe Calcio Copa Mundial|Un buon motivo per scegliere la scarpa più popolare di tutti i tempi|2017/12/scarpe-calcio-copa-mundial|data.oliviero.it/imgprodotto/scarpe-calcio-copa-mundial-015110_151573",
 "Scarpe Tennis Nvision Envy W Donna Bianco|La gamma nVision abbina in modo inedito comfort dinamico e grande|2017/12/scarpe-tennis-nvision-envy-w-donna-bianco|data.oliviero.it/imgprodotto/scarpe-tennis-nvision-envy-w-donna-bianco_148243",

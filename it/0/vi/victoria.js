@@ -1,4 +1,5 @@
 Gr = [
+"Tappetino Pieghevole Oxford|Tappetino pieghevole Gommapiuma interna Realizzato in materiale|2017/12/tappetino-pieghevole-oxford|data.oliviero.it/imgprodotto/tappetino-pieghevole-oxford_74531",
 "Tapis Roulant St 5000|SCOPRI IL NUOVO VIC 7000 DISPLAY TOUCH SCREEN E WiFi CLICCA QUI Tapis|2017/12/tapis-roulant-st-5000|data.oliviero.it/imgprodotto/tapis-roulant-st-5000_127097",
 "Borsone Sportivo BO7111 Nero|Borsa sportiva doppia maniglia per appendere e tasca frontale con|2017/12/borsone-sportivo-bo7111-nero|data.oliviero.it/imgprodotto/borsone-sportivo-bo7111-nero_152109",
 "Materassino Tappetino per Esercizi a terra|Tappetino per il fitness ripieghevole Imbottito e rifinito in|2017/12/materassino-tappetino-per-esercizi-a-terra|data.oliviero.it/imgprodotto/materassino-tappetino-per-esercizi-a-terra_142887",

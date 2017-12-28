@@ -1,4 +1,7 @@
 Gr = [
+"Calcio balilla Silverball|Calcetto Silverball con Aste Telescopiche, calcetto regolamentare con|2017/12/calcio-balilla-silverball|data.oliviero.it/imgprodotto/calcio-balilla-silverball_87633",
+"Calcio balilla Flexy|Calcio balilla Flexy Caratteristiche tecniche: MOBILE MULTISTRATO DI|2017/12/calcio-balilla-flexy|data.oliviero.it/imgprodotto/calcio-balilla-flexy_136324",
+"Calcio balilla Scout Nero|Calcio balilla Scout Nero Caratteristiche tecniche: Modello dalle|2017/12/calcio-balilla-scout-nero|data.oliviero.it/imgprodotto/calcio-balilla-scout-nero_109037",
 "Calcio balilla Deluxe con Gettoniera|Deluxe ha una robustissima struttura, in grado di sopportare|2017/12/calcio-balilla-deluxe-con-gettoniera|data.oliviero.it/imgprodotto/calcio-balilla-deluxe-con-gettoniera_72124",
 "Calcio balilla G 5000|Il profilo morbido del mobile, le gambe inclinate dalla linea|2017/12/calcio-balilla-g-5000|data.oliviero.it/imgprodotto/calcio-balilla-g-5000_48286_big",
 "Calcio balilla Tournament FICB con Gettoniera|Il modello prescelto dalla FICB-Federazione Italiana Calciobalilla|2017/12/calcio-balilla-tournament-ficb-con-gettoniera|data.oliviero.it/imgprodotto/calcio-balilla-tournament-ficb-con-gettoniera_11085_big",

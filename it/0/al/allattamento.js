@@ -1,4 +1,7 @@
 Gr = [
+"Salviette detergenti|Salviette detergenti per la biberon, tettarelle, ciucci, posatine|2017/12/salviette-detergenti|data.oliviero.it/imgprodotto/salviette-detergenti_142988",
+"Boppy cuscino allattamento ringtone|Boppy permette alla mamma di assumere una posizione confortevole. Il|2017/12/boppy-cuscino-allattamento-ringtone|data.oliviero.it/imgprodotto/boppy-cuscino-allattamento-ringtone_72367",
+"Sacchetti per sterilizzazione microonde|Per sterilizzare tiralatte ed accessori, biberon, tettarelle|2017/12/sacchetti-per-sterilizzazione-microonde|data.oliviero.it/imgprodotto/sacchetti-per-sterilizzazione-microonde_167164",
 "2 Tettarelle 1+ Natural|L'ampia tettarella dalla forma anatomica consente un allattamento|2017/12/2-tettarelle-1+-natural|data.oliviero.it/imgprodotto/2-tettarelle-1-natural_66824",
 "Boppy cuscino allattamento wild flowers|Boppy permette alla mamma di assumere una posizione confortevole. Il|2017/12/boppy-cuscino-allattamento-wild-flowers|data.oliviero.it/imgprodotto/boppy-cuscino-allattamento-wild-flowers_72364",
 "Biberon 260 ml natural|Il nuovo biberon Natural, consente di rendere l'allattamento al seno|2017/12/biberon-260-ml-natural|data.oliviero.it/imgprodotto/biberon-260-ml-natural_66810",

@@ -1,4 +1,11 @@
 Gr = [
+"Set Lenzuolino letto loving bear azzurro|Il Set Lenzuola Pali Loving Bear è composto da 3 pezzi: lenzuolino|2017/12/set-lenzuolino-letto-loving-bear-azzurro|data.oliviero.it/imgprodotto/set-lenzuolino-letto-loving-bear-azzurro_86206",
+"Piumone e Paracolpi Smart Bosco Verde|Coordinato idealmente pensato in abbinamento con la cameretta Smart|2017/12/piumone-e-paracolpi-smart-bosco-verde|data.oliviero.it/imgprodotto/piumone-e-paracolpi-smart-bosco-verde_25065_big",
+"Lettino Celine baby|Tutti i Lettini e tutti i componenti delle camerette Pali sono sempre|2017/12/lettino-celine-baby|data.oliviero.it/imgprodotto/lettino-celine-baby_147358",
+"Cesta Porta Enfant loving bear bianco|Cesta portabebe` con materassino cuscino e piumetto. Tessuto 100%|2017/12/cesta-porta-enfant-loving-bear-bianco|data.oliviero.it/imgprodotto/cesta-porta-enfant-loving-bear-bianco_86202",
+"Armadio Caprice Royal|Linea dal gusto romantico e antico. Soddisfa un vero e proprio|2017/12/armadio-caprice-royal|data.oliviero.it/imgprodotto/armadio-caprice-royal_5651_big",
+"Lettino Ciak Naturale|Tutti i Lettini e tutti i componenti delle camerette Pali sono sempre|2017/12/lettino-ciak-naturale|data.oliviero.it/imgprodotto/lettino-ciak-naturale_25074_big",
+"Bagnetto Fasciatoio Birba Bianco|Pali offre una linea completa di bagnetti fasciatoio, per la cura del|2017/12/bagnetto-fasciatoio-birba-bianco|data.oliviero.it/imgprodotto/bagnetto-fasciatoio-birba-bianco_166168",
 "Lettino Celine Bianco|Il Lettino Celine Bianco è composto da una struttura in legno|2017/12/lettino-celine-bianco|data.oliviero.it/imgprodotto/lettino-celine-bianco_147357",
 "Pacchetto Tommy Naturale|Il pacchetto Tommy include: Lettino Fasciatoio Materasso Piumone|2017/12/pacchetto-tommy-naturale|data.oliviero.it/imgprodotto/pacchetto-tommy-naturale_135879",
 "Comò Gaia Sbiancato|Comò modello Gaia composto da 3 ampi cassetti. Costruito con|2017/12/como-gaia-sbiancato|data.oliviero.it/imgprodotto/com%C3%B2-gaia-sbiancato_147369",

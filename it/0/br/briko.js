@@ -1,4 +1,6 @@
 Gr = [
+"Casco ciclismo Quarter Azzurro|L'aerazione è il suo punto forte: grazie infatti ai suoi 27 fori, il|2017/12/casco-ciclismo-quarter-azzurro|data.oliviero.it/imgprodotto/casco-ciclismo-quarter-azzurro_165356",
+"Casco Sci Stromboli Visor 1V Matt Black|Stromboli Visor è la combinazione tra leggerezza e protezione dai|2017/12/casco-sci-stromboli-visor-1v-matt-black|data.oliviero.it/imgprodotto/casco-sci-stromboli-visor-1v-matt-black_171735",
 "Casco Ciclismo Ventus Nero|Utilizzato dai Pro. Ventus è un casco innovativo dotato di Protetto|2017/12/casco-ciclismo-ventus-nero|data.oliviero.it/imgprodotto/casco-ciclismo-ventus-nero_165359",
 "Maschera Sci Amiata Matt Black|Amiata è una maschera accessibile con ottime proprietà: tripla spugna|2017/12/maschera-sci-amiata-matt-black|data.oliviero.it/imgprodotto/maschera-sci-amiata-matt-black_171739",
 "Maschera Sci Nyira Free Fighter|Con l'aggiunta di piccole chele laterali al frame in poliuretano|2017/12/maschera-sci-nyira-free-fighter|data.oliviero.it/imgprodotto/maschera-sci-nyira-free-fighter_171743",

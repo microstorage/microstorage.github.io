@@ -1,4 +1,6 @@
 Gr = [
+"Piastra per Waffle|Piastra per Waffle Descrizione : Piastra in alluminio ricoperta in|2017/12/piastra-per-waffle|data.oliviero.it/imgprodotto/piastra-per-waffle-bt-601_168596",
+"Forno Microonde FM20|Microonde con controllo digitale e 12 programmi di cottura|2017/12/forno-microonde-fm20|data.oliviero.it/imgprodotto/forno-microonde-fm20_155554",
 "Cuscino Riscaldante 38x48 cm|Cuscino riscaldante intelligente che si prende cura del tuo benessere|2017/12/cuscino-riscaldante-38x48-cm|data.oliviero.it/imgprodotto/cuscino-riscaldante-38x48-cm_172055",
 "Forno 36L con 2 Fornelli|Forno 36L con 2 Fornelli Codice: 90.375/A Descrizione: 36 L Funzioni|2017/12/forno-36l-con-2-fornelli|data.oliviero.it/imgprodotto/forno-36l-con-2-fornelli-90-375-a_89006",
 "Termoforo Cervicale e Spalle|Il calore intelligente per il tuo benessere quotidiano - modello|2017/12/termoforo-cervicale-e-spalle|data.oliviero.it/imgprodotto/termoforo-cervicale-e-spalle_172053",

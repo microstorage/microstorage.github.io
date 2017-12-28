@@ -1,4 +1,7 @@
 Gr = [
+"Rete 120x200 Una piazza e Mezzo con doghe in legno Jumbo 120|Caratteristiche tecniche: Telaio in acciaio 42x42 Finitura:|2017/12/rete-120x200-una-piazza-e-mezzo-con-doghe-in-legno-jumbo-120|data.oliviero.it/imgprodotto/rete-120x200-una-piazza-e-mezzo-con-doghe-in-legno-jumbo-120_163221",
+"Letto Matrimoniale Priamo con contenitore|Caratteristiche Dimensioni letto 210x170x37 cm Dimensioni testiera|2017/12/letto-matrimoniale-priamo-con-contenitore|data.oliviero.it/imgprodotto/letto-matrimoniale-priamo-con-contenitore-musa_153605",
+"Letto Matrimoniale Nap Rete Fissa|Caratteristiche Dimensioni letto 216x169x31 cm Dimensioni testiera|2017/12/letto-matrimoniale-nap-rete-fissa|data.oliviero.it/imgprodotto/letto-matrimoniale-nap-rete-fissa-musa_153594",
 "Letto Matrimoniale Borea Ecopelle Rete Fissa|Caratteristiche Dimensioni letto 207x176x37cm Dimensioni testiera|2017/12/letto-matrimoniale-borea-ecopelle-rete-fissa|data.oliviero.it/imgprodotto/letto-matrimoniale-borea-ecopelle-rete-fissa-musa_153584",
 "Letto Matrimoniale Gea Rete Fissa|Caratteristiche Dimensioni letto 206x169x30 cm Dimensioni testiera|2017/12/letto-matrimoniale-gea-rete-fissa|data.oliviero.it/imgprodotto/letto-matrimoniale-gea-rete-fissa-musa_153592",
 "Letto Matrimoniale Apollo con contenitore|Caratteristiche Dimensioni letto 206x182x31 cm Dimensioni testiera|2017/12/letto-matrimoniale-apollo-con-contenitore|data.oliviero.it/imgprodotto/letto-matrimoniale-apollo-con-contenitore-musa_153574",

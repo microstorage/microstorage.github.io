@@ -1,4 +1,8 @@
 Gr = [
+"Flacone Decoratore|Il flacone decoratore, dotato di un beccuccio con 5 fori,|2017/12/flacone-decoratore|data.oliviero.it/imgprodotto/flacone-decoratore-420727_157751",
+"Zanzariera led|Caratteristiche: 4 led UV-A (innocuo per l´uomo) Non è un'insetticida|2017/12/zanzariera-led|data.oliviero.it/imgprodotto/zanzariera-led-30-064_106079",
+"2 Coppapasta Fiore|Vuoi impiattare da vero professionista? Con i coppapasta|2017/12/2-coppapasta-fiore|data.oliviero.it/imgprodotto/2-coppapasta-fiore-422220_155189",
+"Frigo a Semiconduttori 48 LT|Frigo a Semiconduttori 48 LT Codice: 90.002 Descrizione : Classe|2017/12/frigo-a-semiconduttori-48-lt|data.oliviero.it/imgprodotto/frigo-a-semiconduttori-48-lt-90-002_90044",
 "Spargi Zucchero|Disponibile in tre diverse capacità, questo barattolo è utilissimo|2017/12/spargi-zucchero|data.oliviero.it/imgprodotto/spargi-zucchero-630331_157833",
 "3 Coppapasta Rettangolo|Vuoi impiattare da vero professionista? Con i coppapasta|2017/12/3-coppapasta-rettangolo|data.oliviero.it/imgprodotto/3-coppapasta-rettangolo-422214_155195",
 "Mensola Linea Monti|La mensola è in metallo con finiture cromo, è abbastanza capiente|2017/12/mensola-linea-monti|data.oliviero.it/imgprodotto/mensola-linea-monti-900026_155102",

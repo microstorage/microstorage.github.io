@@ -1,4 +1,5 @@
 Gr = [
+"Poltrona Network Bianca|Poltrona per ufficio con base e braccioli in nylon, seduta con|2017/12/poltrona-network-bianca|data.oliviero.it/imgprodotto/poltrona-network-bianca_108508",
 "Coppia Sgabelli Kris Nero|SGABELLO KRIS Nero Sgabello con struttura in acciaio cromato, seduta|2017/12/coppia-sgabelli-kris-nero|data.oliviero.it/imgprodotto/coppia-sgabelli-kris-nero_130762",
 "Gazebo Rodi 3x4 Ecru|Gazebo Ferro 3x4 Metri Struttura in ferro verniciato a polvere|2017/12/gazebo-rodi-3x4-ecru|data.oliviero.it/imgprodotto/gazebo-rodi-3x4-ecru_146605",
 "Ombrellone Garden 3m Bianco|Ombrellone diam 3 m in alluminio con palo centrale diam 38 mm,|2017/12/ombrellone-garden-3m-bianco|data.oliviero.it/imgprodotto/ombrellone-garden-3m-bianco_108490",

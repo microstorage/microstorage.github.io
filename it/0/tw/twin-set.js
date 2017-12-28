@@ -1,4 +1,7 @@
 Gr = [
+"Abito donna S3S4AB 00440|Abito intero da donna in maglia elasticizzata (la parte centrale)|2017/12/abito-donna-s3s4ab-00440|data.oliviero.it/imgprodotto/abito-donna-s3s4ab-00440_146546",
+"Maglia donna P3S4BP 00428|Maglia da donna composta da due strati. La parte inferiore è in|2017/12/maglia-donna-p3s4bp-00428|data.oliviero.it/imgprodotto/maglia-donna-p3s4bp-00428_146441",
+"Jeggings P2S4SW 00437|Jeggings da donna con vita regolare, vestibilità slim, allacciatura|2017/12/jeggings-p2s4sw-00437|data.oliviero.it/imgprodotto/jeggings-p2s4sw-00437_146892",
 "Abito donna Lingerie LS4ABB 00120|Collezione Lingerie Twin Set Abito intero da donna con allacciatura|2017/12/abito-donna-lingerie-ls4abb-00120|data.oliviero.it/imgprodotto/abito-donna-lingerie-ls4abb-00120_146782",
 "Abito Lingerie K2S4QB 0082C|Collezione Le coeur de Twin Set Abito lingerie da donna con spalline|2017/12/abito-lingerie-k2s4qb-0082c|data.oliviero.it/imgprodotto/abito-lingerie-k2s4qb-0082c_146584",
 "Abito donna S2S4UC 00006|Abito intero da donna con allacciatura laterale tramite zip|2017/12/abito-donna-s2s4uc-00006|data.oliviero.it/imgprodotto/abito-donna-s2s4uc-00006_146797",

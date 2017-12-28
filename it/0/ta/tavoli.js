@@ -1,4 +1,8 @@
 Gr = [
+"Tavolino da salotto OM-157|Tavolino da salotto con struttura in resina, laccato lucido bianco|2017/12/tavolino-da-salotto-om-157|data.oliviero.it/imgprodotto/tavolino-da-salotto-om-157_136013",
+"Comodino Tavolino Hijo white|Comodino / tavolino HIJO WHITE realizzato in legno massello di bamboo|2017/12/comodino-tavolino-hijo-white|data.oliviero.it/imgprodotto/comodino-tavolino-hijo-white_135007",
+"tavolo allungabile BLADE 120|Tavolo allungabile BLADE 120 - TORTORA gambe realizzate in metallo|2017/12/tavolo-allungabile-blade-120|data.oliviero.it/imgprodotto/tavolo-allungabile-blade-120-tortora_137777",
+"Tavolino OM 143 R|Tavolino con base in metallo e top in MDF laccato rosso Materiale|2017/12/tavolino-om-143-r|data.oliviero.it/imgprodotto/tavolino-om-143-r_136010",
 "Tavolino OM-145-A|Tavolino con ripiano superiore girevole bianco/essenza Materiale MDF|2017/12/tavolino-om-145-a|data.oliviero.it/imgprodotto/tavolino-om-145-a_94192",
 "Tavolino OM-143-G|Tavolino con base in metallo e top in MDF laccato giallo Materiale|2017/12/tavolino-om-143-g|data.oliviero.it/imgprodotto/tavolino-om-143-g_136009",
 "Tavolino richiudibile OM-076-N|Tavolino richiudibile base in acciaio top asportabile in MDF laccato|2017/12/tavolino-richiudibile-om-076-n|data.oliviero.it/imgprodotto/tavolino-richiudibile-om-076-n_94241",

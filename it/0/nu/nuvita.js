@@ -1,4 +1,6 @@
 Gr = [
+"Piatti Primi Numeri Azzurro|Queste ciotole sono la perfetta soluzione per il passaggio al cibo|2017/12/piatti-primi-numeri-azzurro|data.oliviero.it/imgprodotto/piatti-primi-numeri-azzurro_167214",
+"Sacchetti per sterilizzazione microonde|Per sterilizzare tiralatte ed accessori, biberon, tettarelle|2017/12/sacchetti-per-sterilizzazione-microonde|data.oliviero.it/imgprodotto/sacchetti-per-sterilizzazione-microonde_167164",
 "Ciotole Primi Numeri Rosa|Queste ciotole sono la perfetta soluzione per il passaggio al cibo|2017/12/ciotole-primi-numeri-rosa|data.oliviero.it/imgprodotto/ciotole-primi-numeri-rosa_167213",
 "Sgocciolatore Pieghevole|Sgocciolatore portatile a valigetta per asciugare bottilgie|2017/12/sgocciolatore-pieghevole|data.oliviero.it/imgprodotto/sgocciolatore-pieghevole_69292",
 "Set Pappa 6+ azzurro|Set disegnato per le prime tappe dello svezzamento. Incoraggia il|2017/12/set-pappa-6+-azzurro|data.oliviero.it/imgprodotto/set-pappa-6-azzurro_150287",

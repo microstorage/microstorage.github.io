@@ -1,4 +1,7 @@
 Gr = [
+"Spremiagrumi Compact 4 All|Spremiagrumi pratico e compatto, con 2 coni di spremitura e sistema|2017/12/spremiagrumi-compact-4-all|data.oliviero.it/imgprodotto/spremiagrumi-compact-4-all-204000_155489",
+"Grattugia a Manovella linea Handy|Utilissima grattugia comoda anche per i mancini perché la manopola|2017/12/grattugia-a-manovella-linea-handy|data.oliviero.it/imgprodotto/grattugia-a-manovella-linea-handy_90677",
+"Macchina Per Pasta Fresca 150 Atlas|Caratteristiche principali del SMV Marcato atlas 150 Macchina|2017/12/macchina-per-pasta-fresca-150-atlas|data.oliviero.it/imgprodotto/macchina-per-pasta-fresca-150-atlas_156437",
 "Accessori per tritacarne|TRAFILA PER BISCOTTI: La inserisci nell'apertura frontale del|2017/12/accessori-per-tritacarne|data.oliviero.it/imgprodotto/accessori-per-tritacarne_75858",
 "Mandolina Julienne|Questa mandolina ti consente di tagliare a julienne ogni tipo di|2017/12/mandolina-julienne|data.oliviero.it/imgprodotto/mandolina-julienne-643854_155130",
 "Fonduta per cioccolato \"Fondy\"|Fondy è lo strumento che vi permette di creare deliziosi cioccolatini|2017/12/fonduta-per-cioccolato-fondy|data.oliviero.it/imgprodotto/fonduta-per-cioccolato-fondy_156078",

@@ -1,4 +1,8 @@
 Gr = [
+"Tenda Atom 2 da Campeggio|La tenda Atom rappresenta il passo evolutivo delle Tende Lite per il|2017/12/tenda-atom-2-da-campeggio|data.oliviero.it/imgprodotto/tenda-atom-2-da-campeggio_158478",
+"Tenda Lightent 3 Rosso da Campeggio|Un vero esempio di leggerezza ed affidabilità. Dotata di due pali in|2017/12/tenda-lightent-3-rosso-da-campeggio|data.oliviero.it/imgprodotto/tenda-lightent-3-rosso-da-campeggio_158494",
+"Busta Acquastop 70L|Sacche in nylon spalmato termosaldate con chiusura arrotolabile|2017/12/busta-acquastop-70l|data.oliviero.it/imgprodotto/busta-acquastop-70l-xl_108104",
+"Bastoncini da Nordic Walking 78119|3 sezioni telescopiche in lega d'alluminio ø18-16-14 mm Manopola|2017/12/bastoncini-da-nordic-walking-78119|data.oliviero.it/imgprodotto/bastoncini-da-nordic-walking-78119_171666",
 "Coppia Bastoncini Nordic 78380|Bastoncino da nordic walking Sistema di regolazione LOCK & GO per la|2017/12/coppia-bastoncini-nordic-78380|data.oliviero.it/imgprodotto/coppia-bastoncini-nordic-78380_66715",
 "Zaino Guardian 50|Zaino sviluppato in collaborazione con i tecnici ed i medici di|2017/12/zaino-guardian-50|data.oliviero.it/imgprodotto/zaino-guardian-50-75215_158943",
 "Zaino Esterel 50|Robusto zaino da trekking multi tasche dotato di separatore per un|2017/12/zaino-esterel-50|data.oliviero.it/imgprodotto/zaino-esterel-50-75672_159116",

@@ -1,4 +1,12 @@
 Gr = [
+"Supporto Dorsale|Supporto dorsale che aiuta ad alleviare i dolori legati al dorso Dona|2017/12/supporto-dorsale|data.oliviero.it/imgprodotto/supporto-dorsale_171653",
+"Docciatore Splash|Un pratico docciatore sempre a portata di mano Doccino per sciacquare|2017/12/docciatore-splash|data.oliviero.it/imgprodotto/docciatore-splash_160913",
+"Innesti Completi di Bussola|INNESTI COMPLETI DI BUSSOLA PER TRASFORMAZIONE PORTE CALCETTO IN|2017/12/innesti-completi-di-bussola|data.oliviero.it/imgprodotto/innesti-completi-di-bussola_79485",
+"Rete Calcio Annodate Sospese 3,8|RETI CALCIO ANNODATE SOSPESE 3,8 regolamentari 732x244 corda HDPE|2017/12/rete-calcio-annodate-sospese-3-8|data.oliviero.it/imgprodotto/rete-calcio-annodate-sospese-3-8_79526",
+"Lanterna estensibile|Lanterna estensibile Caratteristiche: Dimensioni: circonferenza 65|2017/12/lanterna-estensibile|data.oliviero.it/imgprodotto/lanterna-estensibile_74289",
+"Busta Acquastop 70L|Sacche in nylon spalmato termosaldate con chiusura arrotolabile|2017/12/busta-acquastop-70l|data.oliviero.it/imgprodotto/busta-acquastop-70l-xl_108104",
+"Easy View Specchietto|Il primo specchietto ruotante a 360 gradi che vi permette di ottenere|2017/12/easy-view-specchietto|data.oliviero.it/imgprodotto/easy-view-specchietto_73424",
+"Tappetino Pieghevole Oxford|Tappetino pieghevole Gommapiuma interna Realizzato in materiale|2017/12/tappetino-pieghevole-oxford|data.oliviero.it/imgprodotto/tappetino-pieghevole-oxford_74531",
 "Guanti Moto Lok Lady|Versione femminile del guanto Lok: un prodotto dal taglio classico|2017/12/guanti-moto-lok-lady|data.oliviero.it/imgprodotto/guanti-moto-lok-lady_83738",
 "Torcia Led Tecnology|10 volte più luce che qualsiasi led standar lunghissima durata Durata|2017/12/torcia-led-tecnology|data.oliviero.it/imgprodotto/torcia-led-tecnology_249_big",
 "Borsone Sportivo BO7111 Nero|Borsa sportiva doppia maniglia per appendere e tasca frontale con|2017/12/borsone-sportivo-bo7111-nero|data.oliviero.it/imgprodotto/borsone-sportivo-bo7111-nero_152109",

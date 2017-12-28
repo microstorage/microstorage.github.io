@@ -1,4 +1,5 @@
 Gr = [
+"Forno Microonde FM20|Microonde con controllo digitale e 12 programmi di cottura|2017/12/forno-microonde-fm20|data.oliviero.it/imgprodotto/forno-microonde-fm20_155554",
 "Frullatore FR45|Frullatore a 2 velocità con bicchiere da 1,5 L per golosi frullati da|2017/12/frullatore-fr45|data.oliviero.it/imgprodotto/frullatore-fr45_155563",
 "Frullatore FR75|Frullatore con bicchiere in vetro temperato e 6 lame, ideale per|2017/12/frullatore-fr75|data.oliviero.it/imgprodotto/frullatore-fr75_155562",
 "Piastra Induzione PI01|Per padelle e caffettiere ad induzione. Potenza 2000 W 2 velocita di|2017/12/piastra-induzione-pi01|data.oliviero.it/imgprodotto/piastra-induzione-pi01_156338",

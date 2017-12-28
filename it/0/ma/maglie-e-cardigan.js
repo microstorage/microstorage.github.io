@@ -1,4 +1,7 @@
 Gr = [
+"Gilet Uomo Taglie Forti Blu|Collezione Autunno Inverno/2018 Gilet da uomo taglie forti. Il|2017/12/gilet-uomo-taglie-forti-blu|data.oliviero.it/imgprodotto/gilet-uomo-taglie-forti-blu_169322",
+"FelpaTaglie Forti Uomo blu|Collezione Autunno Inverno/2018 Felpa uomo taglie forti. Il modello|2017/12/felpataglie-forti-uomo-blu|data.oliviero.it/imgprodotto/felpataglie-forti-uomo-blu_171388",
+"Maglia Taglie Forti Uomo antracite|Collezione Autunno Inverno/2018 Felpa Uomo taglie forti. Il modello|2017/12/maglia-taglie-forti-uomo-antracite|data.oliviero.it/imgprodotto/maglia-taglie-forti-uomo-antracite_171892",
 "Maglia Taglie Forti Uomo Petrolio|Collezione Autunno Inverno/2018 Pullover in misto lana scollo V, con|2017/12/maglia-taglie-forti-uomo-petrolio|data.oliviero.it/imgprodotto/maglia-taglie-forti-uomo-petrolio_170223",
 "Gilet Uomo Taglie Forti Vinaccia|Collezione Autunno Inverno/2018 Gilet da uomo taglie forti. Il|2017/12/gilet-uomo-taglie-forti-vinaccia|data.oliviero.it/imgprodotto/gilet-uomo-taglie-forti-vinaccia_168598",
 "Polo Taglie Forti Uomo Rosso|Collezione Autunno Inverno/2018 Polo uomo taglie forti. Il modello|2017/12/polo-taglie-forti-uomo-rosso|data.oliviero.it/imgprodotto/polo-taglie-forti-uomo-rosso_172213",

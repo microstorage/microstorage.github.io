@@ -1,4 +1,6 @@
 Gr = [
+"Sedia Pieghevole York|Caratteristiche Telaio in alluminio diam. 25 mm Tessuto poliestere|2017/12/sedia-pieghevole-york|data.oliviero.it/imgprodotto/sedia-pieghevole-york_150024",
+"Brandina Pieghevole Morfeo|Brandina pieghevole dalle dimensioni compatte, dotata di una|2017/12/brandina-pieghevole-morfeo|data.oliviero.it/imgprodotto/brandina-pieghevole-morfeo_150062",
 "Tenda Frontera 4 da Campeggio|Rappresenta la soluzione ideale per chi desidera una tenda robusta|2017/12/tenda-frontera-4-da-campeggio|data.oliviero.it/imgprodotto/tenda-frontera-4-da-campeggio_149717",
 "Tenda Jerez 3 da Campeggio|La tenda Jerez rappresenta la giusta scelta in termini di qualità|2017/12/tenda-jerez-3-da-campeggio|data.oliviero.it/imgprodotto/tenda-jerez-3-da-campeggio_149694",
 "Veranda Capri Verde|Tetto in tessuto poliestere bispalmato PVC da 530 gr/mq Cavetto|2017/12/veranda-capri-verde|data.oliviero.it/imgprodotto/veranda-capri-verde_149639",

@@ -1,4 +1,7 @@
 Gr = [
+"Casco ciclismo Quarter Azzurro|L'aerazione è il suo punto forte: grazie infatti ai suoi 27 fori, il|2017/12/casco-ciclismo-quarter-azzurro|data.oliviero.it/imgprodotto/casco-ciclismo-quarter-azzurro_165356",
+"Ciclocomputer Edge 35|Ciclocomputer GPS compatto e semplice da utilizzare con smart|2017/12/ciclocomputer-edge-35|data.oliviero.it/imgprodotto/ciclocomputer-edge-35_146326",
+"Scarpe Ciclismo Speed|Scarpa della linea Performance, leggera, dotata di chiusura CRS|2017/12/scarpe-ciclismo-speed|data.oliviero.it/imgprodotto/scarpe-ciclismo-speed_146277",
 "Ciclocomputer CM 2.11|Il nuovo computer per ruota cablato CM 2.11 si contraddistingue non|2017/12/ciclocomputer-cm-2-11|data.oliviero.it/imgprodotto/ciclocomputer-cm-2-11_169750",
 "Casco Ciclismo Ventus Nero|Utilizzato dai Pro. Ventus è un casco innovativo dotato di Protetto|2017/12/casco-ciclismo-ventus-nero|data.oliviero.it/imgprodotto/casco-ciclismo-ventus-nero_165359",
 "Casco ciclismo Protone|Casco da ciclismo Tecnologia : Imbottitura tridimensionale 3d dry|2017/12/casco-ciclismo-protone|data.oliviero.it/imgprodotto/casco-ciclismo-protone_109932",

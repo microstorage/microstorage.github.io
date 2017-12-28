@@ -1,4 +1,6 @@
 Gr = [
+"Doposci Uomo Assen|TOMAIA POLIESTERE CON RIPORTI IN CROSTA INGRASSATA IDRO FODERA FELTRO|2017/12/doposci-uomo-assen|data.oliviero.it/imgprodotto/doposci-uomo-assen_173365",
+"Doposci Roy Tex Antracite|TOMAIA PU CON IMBOTTITURA IN OVATTA COLLARINO IN ECO PELLICCIA|2017/12/doposci-roy-tex-antracite|data.oliviero.it/imgprodotto/doposci-roy-tex-antracite_173362",
 "Doposci Jr. Happy|GAMBALE IN POLIESTERE E OVATTA CHIUSURA ZIP COLLETTO REGOLABILE CON|2017/12/doposci-jr-happy|data.oliviero.it/imgprodotto/doposci-jr-happy_173339",
 "Doposci Uomo Kiev|TOMAIA POLIESTERE CON OVATTA CHIUSURA IN VELCRO FODERA LANA|2017/12/doposci-uomo-kiev|data.oliviero.it/imgprodotto/doposci-uomo-kiev_173366",
 "Doposci Clara Nero Camouflage|TOMAIA PELLE VITELLO SCAMOSCIATA IDRO GAMBALE IN POLIESTERE E OVATTA|2017/12/doposci-clara-nero-camouflage|data.oliviero.it/imgprodotto/doposci-clara-nero-camouflage_173363",

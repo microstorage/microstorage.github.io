@@ -1,4 +1,6 @@
 Gr = [
+"Racchetta Beach Tennis Beacher Jr|Racchetta Beach Tennis Marca: VISION Modello: RACCHETTA BEACH TENNIS|2017/12/racchetta-beach-tennis-beacher-jr|data.oliviero.it/imgprodotto/racchetta-beach-tennis-beacher-jr_164431",
+"Racchetta Beach Tennis Jamaica|Racchetta Beach Tennis Marca: VISION Modello: RACCHETTA BEACH TENNIS|2017/12/racchetta-beach-tennis-jamaica|data.oliviero.it/imgprodotto/racchetta-beach-tennis-jamaica_164430",
 "Racchetta Beach Tennis Japan|Racchetta Beach Tennis Marca: VISION Modello: RACCHETTA BEACH TENNIS|2017/12/racchetta-beach-tennis-japan|data.oliviero.it/imgprodotto/racchetta-beach-tennis-japan_164427",
 "Racchette Beach Tennis Brazil|Racchetta Beach Tennis Marca: VISION Modello: RACCHETTA BEACH TENNIS|2017/12/racchette-beach-tennis-brazil|data.oliviero.it/imgprodotto/racchette-beach-tennis-brazil_164428",
 "Racchetta Beach Tennis Strange|Racchetta Beach Tennis Marca: VISION Modello: RACCHETTA BEACH TENNIS|2017/12/racchetta-beach-tennis-strange|data.oliviero.it/imgprodotto/racchetta-beach-tennis-strange_164432",

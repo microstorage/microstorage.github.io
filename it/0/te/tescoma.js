@@ -1,4 +1,10 @@
 Gr = [
+"Stampo Campana|Ecco uno stampo da forno particolare, lo appoggi su una teglia piana|2017/12/stampo-campana|data.oliviero.it/imgprodotto/stampo-campana_74143",
+"Flacone Decoratore|Il flacone decoratore, dotato di un beccuccio con 5 fori,|2017/12/flacone-decoratore|data.oliviero.it/imgprodotto/flacone-decoratore-420727_157751",
+"Grattugia a Manovella linea Handy|Utilissima grattugia comoda anche per i mancini perché la manopola|2017/12/grattugia-a-manovella-linea-handy|data.oliviero.it/imgprodotto/grattugia-a-manovella-linea-handy_90677",
+"Piccolo Presepe di Natale Set Tagliabiscotti|Set di tagliabiscotti ideale per comporre un piccolo presepe di|2017/12/piccolo-presepe-di-natale-set-tagliabiscotti|data.oliviero.it/imgprodotto/piccolo-presepe-di-natale-set-tagliabiscotti-631426_155169",
+"Set 6 Stampi Tondi|Indispensabili per preparare piccola pasticceria o barchette salate|2017/12/set-6-stampi-tondi|data.oliviero.it/imgprodotto/set-6-stampi-tondi_154428",
+"2 Coppapasta Fiore|Vuoi impiattare da vero professionista? Con i coppapasta|2017/12/2-coppapasta-fiore|data.oliviero.it/imgprodotto/2-coppapasta-fiore-422220_155189",
 "Accessori per tritacarne|TRAFILA PER BISCOTTI: La inserisci nell'apertura frontale del|2017/12/accessori-per-tritacarne|data.oliviero.it/imgprodotto/accessori-per-tritacarne_75858",
 "Spargi Zucchero|Disponibile in tre diverse capacità, questo barattolo è utilissimo|2017/12/spargi-zucchero|data.oliviero.it/imgprodotto/spargi-zucchero-630331_157833",
 "Beccucci decoratori 21 pz|Farcire e decorare i dolci come un vero professionista, da oggi, non|2017/12/beccucci-decoratori-21-pz|data.oliviero.it/imgprodotto/beccucci-decoratori-21-pz-630496_148201",

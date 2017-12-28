@@ -1,4 +1,9 @@
 Gr = [
+"Scarpe Air Max 2017|Pensata con supporto e traspirabilità ideali nei punti giusti, la|2017/12/scarpe-air-max-2017|data.oliviero.it/imgprodotto/scarpe-air-max-2017-849559-602_165006",
+"T-Shirt Uomo Bianco Nike Pro|La maglia Nike Pro Cool Compression - Uomo è dotata di cuciture|2017/12/t-shirt-uomo-bianco-nike-pro|data.oliviero.it/imgprodotto/t-shirt-uomo-bianco-nike-pro_140380",
+"Tight 3-4 Running Donna Response Nero|Collezione Primavera Estate Indossa questi tight a 3/4 da donna|2017/12/tight-3-4-running-donna-response-nero|data.oliviero.it/imgprodotto/tight-3-4-running-donna-response-nero-az2839_159864",
+"Scarpe Running Gel Kayano 24|La GEL-KAYANO 24 da uomo è una scarpa leggera, ideata per corse su|2017/12/scarpe-running-gel-kayano-24|data.oliviero.it/imgprodotto/scarpe-running-gel-kayano-24_169599",
+"Scarpe Running Wave Sky|Progettata per runner che percorrono un chilometraggio elevato, Wave|2017/12/scarpe-running-wave-sky|data.oliviero.it/imgprodotto/scarpe-running-wave-sky_173410",
 "T-Shirt Response Graphic|Collezione Primavera Estate Caratterizzata da un stampa allover sulla|2017/12/t-shirt-response-graphic|data.oliviero.it/imgprodotto/t-shirt-response-graphic-az2859_159837",
 "T-Shirt Running Uomo Zonal Cooling Relay Blu|La maglia da running a manica corta Nike Zonal Cooling Relay - Uomo|2017/12/t-shirt-running-uomo-zonal-cooling-relay-blu|data.oliviero.it/imgprodotto/t-shirt-running-uomo-zonal-cooling-relay-blu_167923",
 "Pantaloncini Running uomo Response|Collezione Autunno Inverno/2017 Allenati in pieno comfort indossando|2017/12/pantaloncini-running-uomo-response|data.oliviero.it/imgprodotto/pantaloncini-running-uomo-response-b43393_151697",

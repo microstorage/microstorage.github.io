@@ -1,4 +1,5 @@
 Gr = [
+"Sacchetti per sterilizzazione microonde|Per sterilizzare tiralatte ed accessori, biberon, tettarelle|2017/12/sacchetti-per-sterilizzazione-microonde|data.oliviero.it/imgprodotto/sacchetti-per-sterilizzazione-microonde_167164",
 "Disinfettante ad ampio spettro|Disinfettante ad ampio spettro per sterilizzatore a freddo|2017/12/disinfettante-ad-ampio-spettro|data.oliviero.it/imgprodotto/disinfettante-ad-ampio-spettro_81479",
 "Sterilbox Kit per Disinfettare a Freddo|Funzionale ed economico, disinfetta accuratamente tutti gli oggetti|2017/12/sterilbox-kit-per-disinfettare-a-freddo|data.oliviero.it/imgprodotto/sterilbox-kit-per-disinfettare-a-freddo_2192_big",
 "Sterilizzatore a Microonde|Leggero e compatto lo sterilizzatore per forni a micronde è l'ideale|2017/12/sterilizzatore-a-microonde|data.oliviero.it/imgprodotto/sterilizzatore-a-microonde_3277_big",

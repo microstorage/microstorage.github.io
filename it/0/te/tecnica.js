@@ -1,4 +1,5 @@
 Gr = [
+"Moon Boot Rosso Nylon|I doposci Moon Boot Tecnica 'The Original Icon' rappresentano da|2017/12/moon-boot-rosso-nylon|data.oliviero.it/imgprodotto/moon-boot-rosso-nylon_173370",
 "Moon Boot W.E. Soft Shade Mid Nero|Moon Boot slim fit, in morbido nylon tecnico effetto lucido con|2017/12/moon-boot-w-e-soft-shade-mid-nero|data.oliviero.it/imgprodotto/moon-boot-w-e-soft-shade-mid-nero_173377",
 "Moon Boot Lem WP Nero|I Moon Boot Lem WP da uomo sono doposci bassi per lui, dal design|2017/12/moon-boot-lem-wp-nero|data.oliviero.it/imgprodotto/moon-boot-lem-wp-nero_173378",
 "Moon Boot Blu Nylon|I doposci Moon Boot Tecnica 'The Original Icon' rappresentano da|2017/12/moon-boot-blu-nylon|data.oliviero.it/imgprodotto/moon-boot-blu-nylon_173369",

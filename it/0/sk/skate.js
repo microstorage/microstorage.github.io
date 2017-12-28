@@ -1,4 +1,8 @@
 Gr = [
+"WaveBoard Urban Wave USA Flag|Waveboard Nextreme urban wave in Polipropilene termoplastico di alta|2017/12/waveboard-urban-wave-usa-flag|data.oliviero.it/imgprodotto/waveboard-urban-wave-usa-flag_155008",
+"Casco street REVOLUTION|Descrizione: Calotta interna : anti shock in EPS ad alta densità Made|2017/12/casco-street-revolution|data.oliviero.it/imgprodotto/casco-street-revolution_162415",
+"Skateboard STREET PRO HIP HOP NEW|Descrizione: Dimensioni tavola : 79x20 cm Materiale tavola|2017/12/skateboard-street-pro-hip-hop-new|data.oliviero.it/imgprodotto/skateboard-street-pro-hip-hop-new_162369",
+"Surfskate Kauai 31\"|Il surfskate KAUAI 31 è un'alternativa per coloro che amano navigare|2017/12/surfskate-kauai-31|data.oliviero.it/imgprodotto/surfskate-kauai-31_165544",
 "Skateboard TRIBE PRO WHITE SKULL|Descrizione: Dimensioni tavola : 79x20 cm Materiale tavola|2017/12/skateboard-tribe-pro-white-skull|data.oliviero.it/imgprodotto/skateboard-tribe-pro-white-skull_162367",
 "Skateboard Music Hip Hop|Tavola perfetta per i principianti Piattaforma: 7.5 / 7.75 '' x 31 ''|2017/12/skateboard-music-hip-hop|data.oliviero.it/imgprodotto/skateboard-music-hip-hop_151092",
 "Monopattino a tre ruote ADVENTURE KID GRAND PRIX rosso|Descrizione: Pieghevole : con sistema di chiusura rapido e sicuro|2017/12/monopattino-a-tre-ruote-adventure-kid-grand-prix-rosso|data.oliviero.it/imgprodotto/monopattino-a-tre-ruote-adventure-kid-grand-prix-rosso_162384",

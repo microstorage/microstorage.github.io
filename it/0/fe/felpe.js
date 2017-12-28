@@ -1,4 +1,6 @@
 Gr = [
+"Giacca Uomo in Pile Grafite|Questa giacca in pile Arctic Fleece è stata pensata per essere|2017/12/giacca-uomo-in-pile-grafite|data.oliviero.it/imgprodotto/giacca-uomo-in-pile-grafite_169223",
+"Felpa Uomo Taglie Forti Grigio|Collezione Primavera Estate Felpa da uomo taglie forti con cappuccio|2017/12/felpa-uomo-taglie-forti-grigio|data.oliviero.it/imgprodotto/felpa-uomo-taglie-forti-grigio_163724",
 "Felpa Uomo Taglie Forti Senape|Collezione Autunno Inverno/2018 Felpa da uomo taglie forti. Il|2017/12/felpa-uomo-taglie-forti-senape|data.oliviero.it/imgprodotto/felpa-uomo-taglie-forti-senape_167945",
 "Felpa Uomo con Cappuccio Grape|Collezione Autunno Inverno/2018 La felpa con cappuccio Vans Classic|2017/12/felpa-uomo-con-cappuccio-grape|data.oliviero.it/imgprodotto/felpa-uomo-con-cappuccio-grape_166091",
 "Felpa Uomo Blu notte|Collezione Autunno Inverno/2018 In morbida felpa Cappuccio con|2017/12/felpa-uomo-blu-notte|data.oliviero.it/imgprodotto/felpa-uomo-blu-notte_167663",

@@ -1,4 +1,5 @@
 Gr = [
+"Coprispalle donna C15209 J0901 04427|Coprispalle da donna in tessuto lurex senza allacciatura, maniche|2017/12/coprispalle-donna-c15209-j0901-04427|data.oliviero.it/imgprodotto/coprispalle-donna-c15209-j0901-04427_146658",
 "Camicia donna C15227 T1294|Camicia Casual da donna dalla vestibilità slim, mezze maniche|2017/12/camicia-donna-c15227-t1294|data.oliviero.it/imgprodotto/camicia-donna-c15227-t1294_147068",
 "Pantaloni donna Casual C15183 J0887 22222|Pantalone jersey da donna dal taglio classico con allacciatura|2017/12/pantaloni-donna-casual-c15183-j0887-22222|data.oliviero.it/imgprodotto/pantaloni-donna-casual-c15183-j0887-22222_147052",
 "Jeans donna P15186 D3287|Jeans dalla vestibilità slim, da donna con 5 tasche, allacciatura|2017/12/jeans-donna-p15186-d3287|data.oliviero.it/imgprodotto/jeans-donna-p15186-d3287_146808",

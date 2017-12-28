@@ -1,4 +1,6 @@
 Gr = [
+"Tavolo Ping Pong 700m Crossover Outdoor|Tavolo Ping Pong 700m Crossover Outdoor COLORE GRIGIO PIANO RESINA|2017/12/tavolo-ping-pong-700m-crossover-outdoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-700m-crossover-outdoor_130149",
+"Tavolo Ping Pong Pro 510 Outdoor|Tavolo Ping Pong Pro 510 Outdoor Caratteristiche Piano in resina|2017/12/tavolo-ping-pong-pro-510-outdoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-pro-510-outdoor_136303",
 "Tavolo Ping Pong Tecto Indoor|Tectonic è la linea di ping-pong entry level di Cornilleau, azienda|2017/12/tavolo-ping-pong-tecto-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-tecto-indoor_83021",
 "Racchette da ping pong Pack Sport Duo 432|Racchette da Ping Pong Pack Sport Duo 432. La confezione comprende|2017/12/racchette-da-ping-pong-pack-sport-duo-432|data.oliviero.it/imgprodotto/racchette-da-ping-pong-pack-sport-duo-432_58096",
 "Tavolo Ping Pong Sport 100 Indoor|Tavolo Ping Pong Sport 100 Indoor PIANO AGGLOMERATO 19 mm SKILTOP|2017/12/tavolo-ping-pong-sport-100-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-sport-100-indoor_147306",

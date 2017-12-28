@@ -1,4 +1,6 @@
 Gr = [
+"Tavolo Ping Pong Winner Indoor|Stiga Winner Indoor, modello per interno, adatto all'uso familiare|2017/12/tavolo-ping-pong-winner-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-winner-indoor_2014_big",
+"Snowracer Flames|Snowracer monoposto dal look attraente, ideale per bambini e ragazzi|2017/12/snowracer-flames|data.oliviero.it/imgprodotto/snowracer-flames_8366_big",
 "Tavolo Ping Pong Expert Roller CSS Indoor|Modello da competizione per interno, della massima stabilità|2017/12/tavolo-ping-pong-expert-roller-css-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-expert-roller-css-indoor_2021_big",
 "Tavolo Ping Pong Privat Roller CSS Indoor|Modello per interno, di notevole stabilità e robustezza e di qualità|2017/12/tavolo-ping-pong-privat-roller-css-indoor|data.oliviero.it/imgprodotto/tavolo-ping-pong-privat-roller-css-indoor_2017_big",
 "Calcio da Tavolo World Champs|Caratteristiche tecniche: Tutti i giocatori sono tridimensionali ed|2017/12/calcio-da-tavolo-world-champs|data.oliviero.it/imgprodotto/calcio-da-tavolo-world-champs_11186_big",

@@ -1,4 +1,9 @@
 Gr = [
+"Zanzariera led|Caratteristiche: 4 led UV-A (innocuo per l´uomo) Non è un'insetticida|2017/12/zanzariera-led|data.oliviero.it/imgprodotto/zanzariera-led-30-064_106079",
+"Set Manicure e Pedicure Ricaricabile|Set Manicure e Pedicure Ricaricabile Codice: 40.968 Descrizione : Per|2017/12/set-manicure-e-pedicure-ricaricabile|data.oliviero.it/imgprodotto/set-manicure-e-pedicure-ricaricabile-40-968_136349",
+"Piastra per Waffle|Piastra per Waffle Descrizione : Piastra in alluminio ricoperta in|2017/12/piastra-per-waffle|data.oliviero.it/imgprodotto/piastra-per-waffle-bt-601_168596",
+"Frigo a Semiconduttori 48 LT|Frigo a Semiconduttori 48 LT Codice: 90.002 Descrizione : Classe|2017/12/frigo-a-semiconduttori-48-lt|data.oliviero.it/imgprodotto/frigo-a-semiconduttori-48-lt-90-002_90044",
+"Scopa a Vapore Igienizzante|Scopa a Vapore Igienizzante Codice: 50.928A Descrizione : Capacità|2017/12/scopa-a-vapore-igienizzante|data.oliviero.it/imgprodotto/scopa-a-vapore-igienizzante-50-928a_89841",
 "Scaldaletto Singolo Lana Sintetica Dolly|Scaldaletto Singolo Lana Sintetica Dolly Codice: RI.402 Descrizione|2017/12/scaldaletto-singolo-lana-sintetica-dolly|data.oliviero.it/imgprodotto/scaldaletto-singolo-lana-sintetica-dolly-ri-402_157375",
 "Pentola a pressione 6L manici ramati|Pentola a pressione 6L manici ramati Descrizione: pentola a pressione|2017/12/pentola-a-pressione-6l-manici-ramati|data.oliviero.it/imgprodotto/pentola-a-pressione-6l-manici-ramati_160619",
 "Macchina per Popcake|Macchina per Popcake Codice: 90.600 Descrizione : Piastra in|2017/12/macchina-per-popcake|data.oliviero.it/imgprodotto/macchina-per-popcake-90-600_90288",

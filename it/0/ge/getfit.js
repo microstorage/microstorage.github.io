@@ -1,4 +1,5 @@
 Gr = [
+"Vogatore V-Rower|Vogatore dalle ottime prestazioni e dalla struttura robusta. Grazie|2017/12/vogatore-v-rower|data.oliviero.it/imgprodotto/vogatore-v-rower_168536",
 "Tapis Roulant Route 670|Route 670 connubio perfetto fra qualità e prezzo. Route 670|2017/12/tapis-roulant-route-670|data.oliviero.it/imgprodotto/tapis-roulant-route-670_172841",
 "Recumbent Premium R6|Premium R6 è la bike ideale per qualsivoglia utente, ma in modo|2017/12/recumbent-premium-r6|data.oliviero.it/imgprodotto/recumbent-premium-r6_172780",
 "Panca Addominali Force 200|Force 200 della Get Fit, panca da addominali che permette di eseguire|2017/12/panca-addominali-force-200|data.oliviero.it/imgprodotto/panca-addominali-force-200_172764",

@@ -1,4 +1,12 @@
 Gr = [
+"Seggiolone Polly 2 Start Peaceful Jungle|Seggiolone pappa dotato di un sistema di regolazione dell'ampiezza|2017/12/seggiolone-polly-2-start-peaceful-jungle|data.oliviero.it/imgprodotto/seggiolone-polly-2-start-peaceful-jungle_167554",
+"Rialzo alza sedia Mode Baby Elephant|È la soluzione ideale per permettere al bambino di condividere la|2017/12/rialzo-alza-sedia-mode-baby-elephant|data.oliviero.it/imgprodotto/rialzo-alza-sedia-mode-baby-elephant_173347",
+"Seggiolone Gusto 238|Istante Gusto è il nuovissimo seggiolone di Cam per magiare, giocare|2017/12/seggiolone-gusto-238|data.oliviero.it/imgprodotto/seggiolone-gusto-238_171514",
+"Piatti Primi Numeri Azzurro|Queste ciotole sono la perfetta soluzione per il passaggio al cibo|2017/12/piatti-primi-numeri-azzurro|data.oliviero.it/imgprodotto/piatti-primi-numeri-azzurro_167214",
+"Seggiolone Polly 2 Start Crocodile|Seggiolone pappa dotato di un sistema di regolazione dell'ampiezza|2017/12/seggiolone-polly-2-start-crocodile|data.oliviero.it/imgprodotto/seggiolone-polly-2-start-crocodile_167550",
+"Seggiolone Campione 192|Interamente progettato e prodotto in Italia. SEMPLICITA': si apre|2017/12/seggiolone-campione-192|data.oliviero.it/imgprodotto/seggiolone-campione-192_155406",
+"Seggiolone Campione S2300 C226|6 altezze, 4 inclinazioni dello schienale, movimento sincronizzato di|2017/12/seggiolone-campione-s2300-c226|data.oliviero.it/imgprodotto/seggiolone-campione-s2300-c226_156041",
+"Seggiolone Campione 198|Interamente progettato e prodotto in Italia. SEMPLICITA': si apre|2017/12/seggiolone-campione-198|data.oliviero.it/imgprodotto/seggiolone-campione-198_155407",
 "Rialzo Smarty 219|Più sicuro di un tradizionale seggiolino da tavola perchè si fissa|2017/12/rialzo-smarty-219|data.oliviero.it/imgprodotto/rialzo-smarty-219_167056",
 "Cuocipappa Easy Meal|Cuoci Pappa Easy Meal: più facile e veloce per pappe nutrienti!|2017/12/cuocipappa-easy-meal|data.oliviero.it/imgprodotto/cuocipappa-easy-meal_167237",
 "Ciotole Primi Numeri Rosa|Queste ciotole sono la perfetta soluzione per il passaggio al cibo|2017/12/ciotole-primi-numeri-rosa|data.oliviero.it/imgprodotto/ciotole-primi-numeri-rosa_167213",

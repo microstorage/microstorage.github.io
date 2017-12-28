@@ -1,4 +1,5 @@
 Gr = [
+"Astro planetario multimediale con radio e casse acustiche|Caratteristiche tecniche: Astro Planetario Multimediale è uno|2017/12/astro-planetario-multimediale-con-radio-e-casse-acustiche|data.oliviero.it/imgprodotto/astro-planetario-multimediale-con-radio-e-casse-acustiche_83776",
 "Stazione meteo Weather Center|Caratteristiche tecniche: Il dipslay della stazione meteo Weather|2017/12/stazione-meteo-weather-center|data.oliviero.it/imgprodotto/stazione-meteo-weather-center_83896",
 "Binocolo Z-CAI Alta Quota 8x42 WW|Ideale per montagna, bird watching. Ingrandimenti 8x obiettivo Ø 42|2017/12/binocolo-z-cai-alta-quota-8x42-ww|data.oliviero.it/imgprodotto/binocolo-z-cai-alta-quota-8x42-ww_87837",
 "Monocolo 10x25|Caratteristiche tecniche: Mini telescopio da viaggio rivestito in|2017/12/monocolo-10x25|data.oliviero.it/imgprodotto/monocolo-10x25_83792",

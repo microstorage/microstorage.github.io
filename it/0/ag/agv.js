@@ -1,4 +1,5 @@
 Gr = [
+"Casco da moto Elements|K-3 SV nasce dall'esperienza maturata da AGV a seguito della|2017/12/casco-da-moto-elements|data.oliviero.it/imgprodotto/casco-da-moto-elements_149886",
 "Casco da moto Bali Copter E2205 Top Vale 46 Black|Il Bali Copter è la proposta AGV per gli scooteristi alla ricerca di|2017/12/casco-da-moto-bali-copter-e2205-top-vale-46-black|data.oliviero.it/imgprodotto/casco-da-moto-bali-copter-e2205-top-vale-46-black_83680",
 "Casco da moto Misano 2011|K-3 SV nasce dall'esperienza maturata da AGV a seguito della|2017/12/casco-da-moto-misano-2011|data.oliviero.it/imgprodotto/casco-da-moto-misano-2011_149889",
 "Casco da moto Jet Fluid Multi Black Fucsia|CARATTERISTICHE GENERALI VISIERA Attenzione: il casco viene venduto|2017/12/casco-da-moto-jet-fluid-multi-black-fucsia|data.oliviero.it/imgprodotto/casco-da-moto-jet-fluid-multi-black-fucsia-4811a2g0-008_149376",

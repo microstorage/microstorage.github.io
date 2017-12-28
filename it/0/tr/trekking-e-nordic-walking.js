@@ -1,4 +1,8 @@
 Gr = [
+"Lanterna estensibile|Lanterna estensibile Caratteristiche: Dimensioni: circonferenza 65|2017/12/lanterna-estensibile|data.oliviero.it/imgprodotto/lanterna-estensibile_74289",
+"Busta Acquastop 70L|Sacche in nylon spalmato termosaldate con chiusura arrotolabile|2017/12/busta-acquastop-70l|data.oliviero.it/imgprodotto/busta-acquastop-70l-xl_108104",
+"Coppia Bastoncini Nordic Walking Spirit Vario|Descrizione : bastoncini telescopici infinitamente regolabili sono|2017/12/coppia-bastoncini-nordic-walking-spirit-vario|data.oliviero.it/imgprodotto/coppia-bastoncini-nordic-walking-spirit-vario_85731",
+"Bastoncini da Nordic Walking 78119|3 sezioni telescopiche in lega d'alluminio ø18-16-14 mm Manopola|2017/12/bastoncini-da-nordic-walking-78119|data.oliviero.it/imgprodotto/bastoncini-da-nordic-walking-78119_171666",
 "Coppia Bastoncini Nordic 78380|Bastoncino da nordic walking Sistema di regolazione LOCK & GO per la|2017/12/coppia-bastoncini-nordic-78380|data.oliviero.it/imgprodotto/coppia-bastoncini-nordic-78380_66715",
 "Zaino Guardian 50|Zaino sviluppato in collaborazione con i tecnici ed i medici di|2017/12/zaino-guardian-50|data.oliviero.it/imgprodotto/zaino-guardian-50-75215_158943",
 "Zaino Esterel 50|Robusto zaino da trekking multi tasche dotato di separatore per un|2017/12/zaino-esterel-50|data.oliviero.it/imgprodotto/zaino-esterel-50-75672_159116",

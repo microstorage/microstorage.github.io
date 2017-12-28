@@ -1,4 +1,5 @@
 Gr = [
+"Casco da moto Elements|K-3 SV nasce dall'esperienza maturata da AGV a seguito della|2017/12/casco-da-moto-elements|data.oliviero.it/imgprodotto/casco-da-moto-elements_149886",
 "Guanti da moto Flash R Evo|Flash-R Evo evolve il concetto del suo predecessore, esaltandone|2017/12/guanti-da-moto-flash-r-evo|data.oliviero.it/imgprodotto/guanti-da-moto-flash-r-evo-b79k-011_164803",
 "Guanti Moto Lok Lady|Versione femminile del guanto Lok: un prodotto dal taglio classico|2017/12/guanti-moto-lok-lady|data.oliviero.it/imgprodotto/guanti-moto-lok-lady_83738",
 "Guanti da moto Grip 2 Leather Lady|Nato dall'esperienza del precedente guanto femminile, Grip 2 ne|2017/12/guanti-da-moto-grip-2-leather-lady|data.oliviero.it/imgprodotto/guanti-da-moto-grip-2-leather-lady_165755",

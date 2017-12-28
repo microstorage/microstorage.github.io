@@ -1,5 +1,8 @@
 Tt = "T-Shirt";
 Gr = [
+"T-Shirt Uomo Navy Essentials Base Tee|Collezione Primavera Estate Questa T-shirt da uomo è pensata per|2017/12/t-shirt-uomo-navy-essentials-base-tee|data.oliviero.it/imgprodotto/t-shirt-uomo-navy-essentials-base-tee-s98743_159408",
+"T-Shirt Stampata Donna nero|Collezione Autunno Inverno/2018 t-shirt con inserti in rete su collo|2017/12/t-shirt-stampata-donna-nero|data.oliviero.it/imgprodotto/t-shirt-stampata-donna-nero_170427",
+"T-Shirt Uomo Nero Essentials 3 Stripes Tee|Questa T-shirt da uomo è pensata per offrirti comfort e copertura|2017/12/t-shirt-uomo-nero-essentials-3-stripes-tee|data.oliviero.it/imgprodotto/t-shirt-uomo-nero-essentials-3-stripes-tee-s98717_159400",
 "T-Shirt Trefoil Uomo Bianco|Sfoggia con orgoglio la tua passione per adidas indossando questa|2017/12/t-shirt-trefoil-uomo-bianco|data.oliviero.it/imgprodotto/t-shirt-trefoil-uomo-bianco-aj8828_164097",
 "T-Shirt Donna Sami|Collezione Autunno Inverno/2018 Maglietta leggera a manica lunga da|2017/12/t-shirt-donna-sami|data.oliviero.it/imgprodotto/t-shirt-donna-sami_170866",
 "T-Shirt Donna Bianco Allison Raglan|Collezione Primavera Estate T-Shirt Donna con maniche morbide a 3/4|2017/12/t-shirt-donna-bianco-allison-raglan|data.oliviero.it/imgprodotto/t-shirt-donna-bianco-allison-raglan-12-10011-0100_163172",

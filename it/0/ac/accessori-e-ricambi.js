@@ -1,4 +1,6 @@
 Gr = [
+"Zaino Head Core|Lo zaino da tennis Head Core è dotato di due compartimenti e comodi|2017/12/zaino-head-core|data.oliviero.it/imgprodotto/zaino-head-core_173391",
+"Borsone Tennis Holder Essential|Questa borsa compatta nera, bianca e rosa fluo è perfetta per andare|2017/12/borsone-tennis-holder-essential|data.oliviero.it/imgprodotto/borsone-tennis-holder-essential_172890",
 "Borsa Padel Combi|In tre versioni di colore, questa borsa con 2 scomparti grandi e una|2017/12/borsa-padel-combi|data.oliviero.it/imgprodotto/borsa-padel-combi_173390",
 "Borsa Portaracchette Racket Holder X6 Club|2 comparti racchette, Grande tasca laterale per sistemare gli|2017/12/borsa-portaracchette-racket-holder-x6-club|data.oliviero.it/imgprodotto/borsa-portaracchette-racket-holder-x6-club_94141",
 "Borsa Tennis Tour Team 12R|Head Tour Team 12R Monstercombi Se hai molti oggetti da portare con|2017/12/borsa-tennis-tour-team-12r|data.oliviero.it/imgprodotto/borsa-tennis-tour-team-12r_173395",

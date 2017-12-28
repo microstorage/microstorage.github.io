@@ -1,4 +1,5 @@
 Gr = [
+"Caraffa con Coperchio Blu|MADE IN ITALY - DESIGN BY GUZZINI LAB I prodotti della collezione|2017/12/caraffa-con-coperchio-blu|data.oliviero.it/imgprodotto/caraffa-con-coperchio-blu_99980",
 "Set insalata: Insalatiera ø25 e Posate Sabbia|MADE IN ITALY - DESIGN BY ANGELETTI RUZZA Insalatiera diametro 25 cm|2017/12/set-insalata-insalatiera-ø25-e-posate-sabbia|data.oliviero.it/imgprodotto/set-insalata-insalatiera-%C3%B825-e-posate-sabbia_99942",
 "Tostapane Bianco|Non perdere l'opportunità di acquistare il vostro acciaio|2017/12/tostapane-bianco|data.oliviero.it/imgprodotto/tostapane-bianco_156067",
 "Set 6 tazzine con piattini Grace rosso|Il set 6 tazzine caffé con piattini sono caratterizzate da un corpo|2017/12/set-6-tazzine-con-piattini-grace-rosso|data.oliviero.it/imgprodotto/set-6-tazzine-con-piattini-grace-rosso_155784",

@@ -1,4 +1,5 @@
 Gr = [
+"Borsello The One Crafty Brown|La nostra borsa mini più venduta: riponi in sicurezza l'essenziale|2017/12/borsello-the-one-crafty-brown|data.oliviero.it/imgprodotto/borsello-the-one-crafty-brown_166742",
 "Marsupio Doggie Bag Midnight|Marsupio pratico e leggero, ideale per viaggiare a mani libere|2017/12/marsupio-doggie-bag-midnight|data.oliviero.it/imgprodotto/marsupio-doggie-bag-midnight_166757",
 "Marsupio Doggie Bag Sunday Grey|Marsupio pratico e leggero, ideale per viaggiare a mani libere|2017/12/marsupio-doggie-bag-sunday-grey|data.oliviero.it/imgprodotto/marsupio-doggie-bag-sunday-grey_166765",
 "Borsello Flex Black|Una tracolla compatta abbastanza capiente da contenere le cose|2017/12/borsello-flex-black|data.oliviero.it/imgprodotto/borsello-flex-black_166769",

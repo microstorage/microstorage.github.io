@@ -1,4 +1,10 @@
 Gr = [
+"Pantaloni Slim Fit Uomo Marrone|Collezione Autunno Inverno/2018 Pantaloni in tonalità marroni molto|2017/12/pantaloni-slim-fit-uomo-marrone|data.oliviero.it/imgprodotto/pantaloni-slim-fit-uomo-marrone_169182",
+"Pantaloni donna WPT338 R769|Collezione Primavera Estate Tipologia: Pantalane donna Tessuto: 97%|2017/12/pantaloni-donna-wpt338-r769|data.oliviero.it/imgprodotto/pantaloni-donna-wpt338-r769_73323",
+"Pantaloni Sportivi Taglie Forti Uomo Grigio|Collezione Autunno Inverno/2018 Pantaloni sportivi da uomo con|2017/12/pantaloni-sportivi-taglie-forti-uomo-grigio|data.oliviero.it/imgprodotto/pantaloni-sportivi-taglie-forti-uomo-grigio_169552",
+"Tight 3-4 Running Donna Response Nero|Collezione Primavera Estate Indossa questi tight a 3/4 da donna|2017/12/tight-3-4-running-donna-response-nero|data.oliviero.it/imgprodotto/tight-3-4-running-donna-response-nero-az2839_159864",
+"Pantaloni donna 15373|Collezione Tipologia : Pantalone a 3/4 Tessuto :91% new wool, 5%|2017/12/pantaloni-donna-15373|data.oliviero.it/imgprodotto/pantaloni-donna-15373_13661_big",
+"Pantalone Uomo Taglie Forti Chicago Chino|Collezione Primavera Estate Il nostro modello Chicago seduce per la|2017/12/pantalone-uomo-taglie-forti-chicago-chino|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-chicago-chino_160253",
 "Pantaloni donna Fecut|Collezione Primavera Estate Tipologia: Pantalone da donna Tessuto:|2017/12/pantaloni-donna-fecut|data.oliviero.it/imgprodotto/pantaloni-donna-fecut_12928_big",
 "Pantaloni Sci Donna Nero|Collezione Autunno Inverno/2018 Le taglie sono espresse in misure|2017/12/pantaloni-sci-donna-nero|data.oliviero.it/imgprodotto/pantaloni-sci-donna-nero_169273",
 "Pantalone Uomo Taglie Forti Liberio Nero|Collezione Primavera Estate Panralone casual da uomo taglie forti. Il|2017/12/pantalone-uomo-taglie-forti-liberio-nero|data.oliviero.it/imgprodotto/pantalone-uomo-taglie-forti-liberio-nero_164219",

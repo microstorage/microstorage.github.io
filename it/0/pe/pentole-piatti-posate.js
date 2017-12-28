@@ -1,4 +1,6 @@
 Gr = [
+"Casseruola fonda 16 cm|Estremamente versatile, i corpi della linea Ingenio possono essere|2017/12/casseruola-fonda-16-cm|data.oliviero.it/imgprodotto/casseruola-fonda-16-cm_155881",
+"Caraffa con Coperchio Blu|MADE IN ITALY - DESIGN BY GUZZINI LAB I prodotti della collezione|2017/12/caraffa-con-coperchio-blu|data.oliviero.it/imgprodotto/caraffa-con-coperchio-blu_99980",
 "Padella 22 cm Ingegno|LAGOSTINA PADELLA ANTIADERENTE Ingenio 22cm Facile da pulire;|2017/12/padella-22-cm-ingegno|data.oliviero.it/imgprodotto/padella-22-cm-ingegno_156209",
 "Padella 30 cm Silver|Caratteristiche: Cottura senza grassi, grande resistenza, facile da|2017/12/padella-30-cm-silver|data.oliviero.it/imgprodotto/padella-30-cm-silver_155966",
 "Pentola a pressione 6L manici ramati|Pentola a pressione 6L manici ramati Descrizione: pentola a pressione|2017/12/pentola-a-pressione-6l-manici-ramati|data.oliviero.it/imgprodotto/pentola-a-pressione-6l-manici-ramati_160619",

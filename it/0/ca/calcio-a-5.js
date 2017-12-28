@@ -1,4 +1,6 @@
 Gr = [
+"Scarpe Calcetto Ace 17.4 TF J|Adidas Ace 17.4, per un comfort eccezionale. La tomaia viene|2017/12/scarpe-calcetto-ace-17-4-tf-j|data.oliviero.it/imgprodotto/scarpe-calcetto-ace-17-4-tf-j_167430",
+"Scarpe Calcetto Mercurialx Vctry VI CR7 DF TF|Pensata specificamente per le partite di calcetto, la scarpa da|2017/12/scarpe-calcetto-mercurialx-vctry-vi-cr7-df-tf|data.oliviero.it/imgprodotto/scarpe-calcetto-mercurialx-vctry-vi-cr7-df-tf-903612-001_164572",
 "Scarpe Calcetto Uomo MercurialX Victory VI (TF)|La scarpa da calcio per erba sintetica Nike Mercurial Victory VI|2017/12/scarpe-calcetto-uomo-mercurialx-victory-vi-tf|data.oliviero.it/imgprodotto/scarpe-calcetto-uomo-mercurialx-victory-vi-tf-831968-303_159941",
 "Scarpe Calcetto Ace 17.3 Primemesh|Hai già vinto. Servono solo 90 minuti perché se ne accorgano anche|2017/12/scarpe-calcetto-ace-17-3-primemesh|data.oliviero.it/imgprodotto/scarpe-calcetto-ace-17-3-primemesh-bb0861_158137",
 "Scarpe da Calcetto Mercurial Victory VI TF|La scarpa da calcio per erba sintetica Nike Mercurial Victory VI|2017/12/scarpe-da-calcetto-mercurial-victory-vi-tf|data.oliviero.it/imgprodotto/scarpe-da-calcetto-mercurial-victory-vi-tf_166846",

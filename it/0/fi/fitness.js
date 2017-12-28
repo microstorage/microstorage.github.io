@@ -1,4 +1,8 @@
 Gr = [
+"Scarpe Allenamento Uomo Grigio Ua Charged Legend TR|Tomaia jacquard leggera con pannelli sovrapposti in TPU su punta|2017/12/scarpe-allenamento-uomo-grigio-ua-charged-legend-tr|data.oliviero.it/imgprodotto/scarpe-allenamento-uomo-grigio-ua-charged-legend-tr-1293035-076_160523",
+"Panca Ginnica Smile Gym|Attrezzo home fitness composto da una base d'appoggio con tappetino|2017/12/panca-ginnica-smile-gym|data.oliviero.it/imgprodotto/panca-ginnica-smile-gym_71326",
+"Panca Inversione Diamond D35|Regolazione altezza 145-200 cm Spessore imbottiture 55 mm|2017/12/panca-inversione-diamond-d35|data.oliviero.it/imgprodotto/panca-inversione-diamond-d35_173195",
+"Vogatore V-Rower|Vogatore dalle ottime prestazioni e dalla struttura robusta. Grazie|2017/12/vogatore-v-rower|data.oliviero.it/imgprodotto/vogatore-v-rower_168536",
 "Bowflex Max Trainer M5|Bowflex MAX Trainer M5 è il più modello ricco di funzionalità della|2017/12/bowflex-max-trainer-m5|data.oliviero.it/imgprodotto/bowflex-max-trainer-m5_140006",
 "Ellittica Rivo P Black Edition|RIVO P 07644-500 Passo dopo passo verso la tua forma ideale. Grazie|2017/12/ellittica-rivo-p-black-edition|data.oliviero.it/imgprodotto/ellittica-rivo-p-black-edition_130310",
 "Ellittica ERX 70|Sistema di frenaggio magnetico con regolazione manuale dello sforzo|2017/12/ellittica-erx-70|data.oliviero.it/imgprodotto/ellittica-erx-70_68838",

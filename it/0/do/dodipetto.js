@@ -1,4 +1,5 @@
 Gr = [
+"Maxi Maglia e leggings Layette Bianco e Blu|Collezione Primavera Estate Completo da bambina Il modello è composto|2017/12/maxi-maglia-e-leggings-layette-bianco-e-blu|data.oliviero.it/imgprodotto/maxi-maglia-e-leggings-layette-bianco-e-blu-4s305_158612",
 "Tuta Layette Fluo Coral Grigio Melange|Collezione Primavera Estate Tuta da bambino Il modello è composto da|2017/12/tuta-layette-fluo-coral-grigio-melange|data.oliviero.it/imgprodotto/tuta-layette-fluo-coral-grigio-melange-4s303_158610",
 "Canotta Bambina Panna Beige|Collezione Primavera Estate Canotta da bambina con allacciatura|2017/12/canotta-bambina-panna-beige|data.oliviero.it/imgprodotto/canotta-bambina-panna-beige-4s510-6t05_158472",
 "Pantalone Sportivo Bambino Navy|Collezione Primavera Estate Pantalone sportivo da bambino ideale per|2017/12/pantalone-sportivo-bambino-navy|data.oliviero.it/imgprodotto/pantalone-sportivo-bambino-navy-4s176_159335",

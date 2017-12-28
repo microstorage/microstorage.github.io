@@ -1,4 +1,12 @@
 Gr = [
+"Scarpe Air Max 2017|Pensata con supporto e traspirabilità ideali nei punti giusti, la|2017/12/scarpe-air-max-2017|data.oliviero.it/imgprodotto/scarpe-air-max-2017-849559-602_165006",
+"Pallone FC Internazionale Skills|Il pallone da calcio FC Internazionale Skills offre un tocco di palla|2017/12/pallone-fc-internazionale-skills|data.oliviero.it/imgprodotto/pallone-fc-internazionale-skills_169696",
+"T-Shirt Uomo Bianco Nike Pro|La maglia Nike Pro Cool Compression - Uomo è dotata di cuciture|2017/12/t-shirt-uomo-bianco-nike-pro|data.oliviero.it/imgprodotto/t-shirt-uomo-bianco-nike-pro_140380",
+"Scarpe Calcetto Mercurial X Finale (TF)|La scarpa da calcio per campi artificiali Nike Mercurial X Finale|2017/12/scarpe-calcetto-mercurial-x-finale-tf|data.oliviero.it/imgprodotto/scarpe-calcetto-mercurial-x-finale-tf-725243-440_140267",
+"Leggings Nero Bianco Donna|I leggings con logo nike sportswear - donna sono realizzati in|2017/12/leggings-nero-bianco-donna|data.oliviero.it/imgprodotto/leggings-nero-bianco-donna_167808",
+"Scarpe Air Max 95 Ultra Essential|L'icona delle sneakers di Nike ritorna con uno street style|2017/12/scarpe-air-max-95-ultra-essential|data.oliviero.it/imgprodotto/scarpe-air-max-95-ultra-essential_171729",
+"Gonna Tennis Paramount Rosso|La gonna da tennis 30 cm NikeCourt Pure - Donna è studiata per|2017/12/gonna-tennis-paramount-rosso|data.oliviero.it/imgprodotto/gonna-tennis-paramount-rosso_167818",
+"Scarpe Calcetto Mercurialx Vctry VI CR7 DF TF|Pensata specificamente per le partite di calcetto, la scarpa da|2017/12/scarpe-calcetto-mercurialx-vctry-vi-cr7-df-tf|data.oliviero.it/imgprodotto/scarpe-calcetto-mercurialx-vctry-vi-cr7-df-tf-903612-001_164572",
 "Pantaloncini Uomo Grigio|Collezione Autunno Inverno/2018 Gli shorts Nike Sportswear - Uomo|2017/12/pantaloncini-uomo-grigio|data.oliviero.it/imgprodotto/pantaloncini-uomo-grigio_167721",
 "Felpa Uomo Blu notte|Collezione Autunno Inverno/2018 In morbida felpa Cappuccio con|2017/12/felpa-uomo-blu-notte|data.oliviero.it/imgprodotto/felpa-uomo-blu-notte_167663",
 "Pallone FC Internazionale Prestige|Il pallone da calcio FC Internazionale Prestige offre un tocco|2017/12/pallone-fc-internazionale-prestige|data.oliviero.it/imgprodotto/pallone-fc-internazionale-prestige_169697",

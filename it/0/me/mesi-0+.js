@@ -1,4 +1,8 @@
 Gr = [
+"Giostrina Bambi magiche proiezioni|La giostrina elettronica con tema Disney e 3 teneri pupazzetti|2017/12/giostrina-bambi-magiche-proiezioni|data.oliviero.it/imgprodotto/giostrina-bambi-magiche-proiezioni_147678",
+"Proiettore Buonanotte stelline|Età: Om+ Proiettore che crea una magica atmosfera per la nanna:|2017/12/proiettore-buonanotte-stelline|data.oliviero.it/imgprodotto/proiettore-buonanotte-stelline_2940_big",
+"Palla Musicale|Morbida palla musicale in tessuto, con materiali diversi da esplorare|2017/12/palla-musicale|data.oliviero.it/imgprodotto/palla-musicale_130522",
+"Giostrina Take Along Mobile|Giostrina elettronica con 30 minuti di musica rilassante continua in|2017/12/giostrina-take-along-mobile|data.oliviero.it/imgprodotto/giostrina-take-along-mobile_155781",
 "Copertina Happy Color Cane|Prime copertine colorate, realizzate in morbido tessuto velour|2017/12/copertina-happy-color-cane|data.oliviero.it/imgprodotto/copertina-happy-color-cane_65790",
 "Carillon Ninna Luna|Ninna Luna è un grande classico che si rinnova nel design con forme|2017/12/carillon-ninna-luna|data.oliviero.it/imgprodotto/carillon-ninna-luna_12119_big",
 "Pupazzo Big Soft Cuddles Azzurro|Morbido e delicato come un tenero abbraccio,è ideale proprio nei|2017/12/pupazzo-big-soft-cuddles-azzurro|data.oliviero.it/imgprodotto/pupazzo-big-soft-cuddles-azzurro_93896",

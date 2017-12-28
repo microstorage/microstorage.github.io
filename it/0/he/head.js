@@ -1,4 +1,8 @@
 Gr = [
+"Zaino Head Core|Lo zaino da tennis Head Core è dotato di due compartimenti e comodi|2017/12/zaino-head-core|data.oliviero.it/imgprodotto/zaino-head-core_173391",
+"Racchetta Tennis MX Cyber Tour|Adottate lo stile dei campioni grazie a questa racchetta polivalente|2017/12/racchetta-tennis-mx-cyber-tour|data.oliviero.it/imgprodotto/racchetta-tennis-mx-cyber-tour_173384",
+"Racchetta Jr. Maria 21|Divertente design per la nuova racchetta Head Maria 21, perfetta per|2017/12/racchetta-jr-maria-21|data.oliviero.it/imgprodotto/racchetta-jr-maria-21_173386",
+"Racchetta Tennis MX Cyber Elite|Adottate lo stile dei campioni grazie a questa racchetta! Questa|2017/12/racchetta-tennis-mx-cyber-elite|data.oliviero.it/imgprodotto/racchetta-tennis-mx-cyber-elite_173385",
 "Racchetta Jr. Maria 25|Divertente design per la nuova racchetta Head Maria 21, perfetta per|2017/12/racchetta-jr-maria-25|data.oliviero.it/imgprodotto/racchetta-jr-maria-25_173387",
 "Borsa Padel Combi|In tre versioni di colore, questa borsa con 2 scomparti grandi e una|2017/12/borsa-padel-combi|data.oliviero.it/imgprodotto/borsa-padel-combi_173390",
 "Racchetta Padel Evolution Bela|Sei curioso di provare a giocare a paddle? Prova la nuova Evolution|2017/12/racchetta-padel-evolution-bela|data.oliviero.it/imgprodotto/racchetta-padel-evolution-bela_173380",

@@ -1,4 +1,7 @@
 Gr = [
+"Jeans Larston Blue Tie|Collezione Autunno Inverno/2018 Jeans slim comodissimi in denim blu|2017/12/jeans-larston-blue-tie|data.oliviero.it/imgprodotto/jeans-larston-blue-tie_170533",
+"Jeans Super Skinny|Collezione Autunno Inverno/2018 Jeans super skinny in denim indaco|2017/12/jeans-super-skinny|data.oliviero.it/imgprodotto/jeans-super-skinny_170556",
+"Jeans High Rise Skinny Best Blue|Collezione Autunno Inverno/2018 Parti all'avventura con i nostri|2017/12/jeans-high-rise-skinny-best-blue|data.oliviero.it/imgprodotto/jeans-high-rise-skinny-best-blue_170562",
 "Jeans Larston Resin Rinse|Collezione Autunno Inverno/2018 Jeans slim in denim scuro dalle linee|2017/12/jeans-larston-resin-rinse|data.oliviero.it/imgprodotto/jeans-larston-resin-rinse_170535",
 "Jeans Greensboro Bright Stoke|Collezione Autunno Inverno/2018 Jeans blu con fit regular e risvolto|2017/12/jeans-greensboro-bright-stoke|data.oliviero.it/imgprodotto/jeans-greensboro-bright-stoke_170523",
 "Jeans Bryson Reflex|Collezione Autunno Inverno/2018 I nostri jeans skinny sono|2017/12/jeans-bryson-reflex|data.oliviero.it/imgprodotto/jeans-bryson-reflex_170537",

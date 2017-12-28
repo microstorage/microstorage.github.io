@@ -1,4 +1,6 @@
 Gr = [
+"Calcio balilla Flexy|Calcio balilla Flexy Caratteristiche tecniche: MOBILE MULTISTRATO DI|2017/12/calcio-balilla-flexy|data.oliviero.it/imgprodotto/calcio-balilla-flexy_136324",
+"Calcio balilla Scout Nero|Calcio balilla Scout Nero Caratteristiche tecniche: Modello dalle|2017/12/calcio-balilla-scout-nero|data.oliviero.it/imgprodotto/calcio-balilla-scout-nero_109037",
 "Calcio balilla Summer Outdoor Azzurro|Calciobalilla Summer da esterno destinato ad uso esterno grazie|2017/12/calcio-balilla-summer-outdoor-azzurro|data.oliviero.it/imgprodotto/calcio-balilla-summer-outdoor-azzurro_163214",
 "Calcio balilla Adrenaline|MOBILE MULTISTRATO DI PIOPPO CON DUE LAMINE ESTERNE IN MDF PER UNA|2017/12/calcio-balilla-adrenaline|data.oliviero.it/imgprodotto/calcio-balilla-adrenaline_147234",
 "Calcio balilla College Azzurro|Calcio balilla College Azzurro Caratteristiche tecniche: Peso: 55 kg|2017/12/calcio-balilla-college-azzurro|data.oliviero.it/imgprodotto/calcio-balilla-college-azzurro_88198",

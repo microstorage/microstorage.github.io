@@ -1,4 +1,5 @@
 Gr = [
+"Scarpe Running Gel Kayano 24|La GEL-KAYANO 24 da uomo è una scarpa leggera, ideata per corse su|2017/12/scarpe-running-gel-kayano-24|data.oliviero.it/imgprodotto/scarpe-running-gel-kayano-24_169599",
 "Scarpe Tennis Gel Dedicate 5|Collezione Primavera Estate Le Gel Dedicate 5 sono un modello rivolto|2017/12/scarpe-tennis-gel-dedicate-5|data.oliviero.it/imgprodotto/scarpe-tennis-gel-dedicate-5-e707y-4901_164127",
 "Scarpe Running Gel Nimbus 19|Accumula chilometri senza sforzare i piedi indossando la leggerissima|2017/12/scarpe-running-gel-nimbus-19|data.oliviero.it/imgprodotto/scarpe-running-gel-nimbus-19-t700n-4301_169592",
 "Scarpe Tennis Gel Game 5 GS (W)|Scarpe Tennis Gel Game 5 GS (W) - C502Y 2101 La GEL GAME 5 è la|2017/12/scarpe-tennis-gel-game-5-gs-w|data.oliviero.it/imgprodotto/scarpe-tennis-gel-game-5-gs-w-c502y-2101_145741",

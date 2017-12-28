@@ -1,4 +1,9 @@
 Gr = [
+"Scarpe W530PSA|Sneakers W530PSA Evvai! Gli anni '90 sono tornati! Abbiamo rivisitato|2017/12/scarpe-w530psa|data.oliviero.it/imgprodotto/scarpe-w530psa_144291",
+"Scarpe Country OG|Nate negli anni '70 come modello da trail running, le leggendarie|2017/12/scarpe-country-og|data.oliviero.it/imgprodotto/scarpe-country-og-s32117_154508",
+"Scarpe Field Navy|Tomaia in pelle scamosciata Logo Diadora a rilievo a lato Ampia|2017/12/scarpe-field-navy|data.oliviero.it/imgprodotto/scarpe-field-navy_168211",
+"Scarpe Shadow Original Uomo|Saucony Originals Shadow O' uomo: le sneakers scelte per leggerezza|2017/12/scarpe-shadow-original-uomo|data.oliviero.it/imgprodotto/scarpe-shadow-original-uomo_167367",
+"Scarpe Air Max 95 Ultra Essential|L'icona delle sneakers di Nike ritorna con uno street style|2017/12/scarpe-air-max-95-ultra-essential|data.oliviero.it/imgprodotto/scarpe-air-max-95-ultra-essential_171729",
 "Scarpe Donna Silver e Panna Nebula D641EG C1121|Collezione Primavera Estate Nebula di Geox è una calzatura che|2017/12/scarpe-donna-silver-e-panna-nebula-d641eg-c1121|data.oliviero.it/imgprodotto/scarpe-donna-silver-e-panna-nebula-d641eg-c1121_158410",
 "Scarpe Wmns Nike Tanjun|Le scarpe donna Nike Tanjun sono leggere e dotate di un|2017/12/scarpe-wmns-nike-tanjun|data.oliviero.it/imgprodotto/scarpe-wmns-nike-tanjun-812655-010_167387",
 "Scarpe Field Viola Prugna|Tomaia in pelle scamosciata Logo Diadora a rilievo a lato Ampia|2017/12/scarpe-field-viola-prugna|data.oliviero.it/imgprodotto/scarpe-field-viola-prugna_168214",
